@@ -1,0 +1,30 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/UnionPolitics" targetNamespace="https://vezel.dev/novadrop/dc/UnionPolitics" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
+    <xsd:complexType name="UnionPolitics">
+        <xsd:sequence>
+            <xsd:element name="Politics" type="UnionPolitics_Politics" maxOccurs="unbounded" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="UnionPolitics_Politics">
+        <xsd:sequence>
+            <xsd:element name="Policy" type="UnionPolitics_Politics_Policy" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="unionId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnionPolitics_Politics_Policy">
+        <xsd:sequence>
+            <xsd:element name="PolicyItem" type="UnionPolitics_Politics_Policy_PolicyItem" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="descStringId" type="xsd:int" use="required" />
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+        <xsd:attribute name="stringId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnionPolitics_Politics_Policy_PolicyItem">
+        <xsd:attribute name="cost" type="xsd:int" use="required" />
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+        <xsd:attribute name="invalidStringId" type="xsd:int" use="required" />
+        <xsd:attribute name="on" type="xsd:boolean" use="required" />
+        <xsd:attribute name="stringId" type="xsd:int" use="required" />
+        <xsd:attribute name="validStringId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:element name="UnionPolitics" type="UnionPolitics" />
+</xsd:schema>

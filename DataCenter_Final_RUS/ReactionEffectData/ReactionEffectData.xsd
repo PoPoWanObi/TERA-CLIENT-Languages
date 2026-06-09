@@ -1,26 +1,16 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:dc="https://vezel.dev/novadrop/dc"
-            xmlns="https://vezel.dev/novadrop/dc/ReactionEffectData"
-            targetNamespace="https://vezel.dev/novadrop/dc/ReactionEffectData"
-            xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd"
-            elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/ReactionEffectData" targetNamespace="https://vezel.dev/novadrop/dc/ReactionEffectData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
     <xsd:complexType name="ReactionEffectData">
         <xsd:sequence>
             <xsd:element name="ReactionEffect" type="ReactionEffectData_ReactionEffect" maxOccurs="unbounded" />
         </xsd:sequence>
-
         <xsd:attribute name="isNpc" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="ReactionEffectData_ReactionEffect">
         <xsd:sequence>
             <xsd:element name="Normal" type="ReactionEffectData_ReactionEffect_Normal" minOccurs="0" />
         </xsd:sequence>
-
         <xsd:attribute name="reactionId" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="ReactionEffectData_ReactionEffect_Normal">
         <xsd:attribute name="absoluteRate" type="xsd:boolean" use="required" />
         <xsd:attribute name="bGround" type="xsd:boolean" use="required" />
@@ -41,6 +31,5 @@
         <xsd:attribute name="startTime" type="xsd:int" use="required" />
         <xsd:attribute name="yaw" type="xsd:float" use="required" />
     </xsd:complexType>
-
     <xsd:element name="ReactionEffectData" type="ReactionEffectData" />
 </xsd:schema>

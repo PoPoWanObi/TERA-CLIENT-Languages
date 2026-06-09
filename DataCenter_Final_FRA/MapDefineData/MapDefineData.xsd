@@ -1,16 +1,9 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:dc="https://vezel.dev/novadrop/dc"
-            xmlns="https://vezel.dev/novadrop/dc/MapDefineData"
-            targetNamespace="https://vezel.dev/novadrop/dc/MapDefineData"
-            xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd"
-            elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/MapDefineData" targetNamespace="https://vezel.dev/novadrop/dc/MapDefineData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
     <xsd:complexType name="MapDefineData">
         <xsd:sequence>
             <xsd:element name="MapDefine" type="MapDefineData_MapDefine" />
         </xsd:sequence>
     </xsd:complexType>
-
     <xsd:complexType name="MapDefineData_MapDefine">
         <xsd:sequence>
             <xsd:element name="CommandButton" type="MapDefineData_MapDefine_CommandButton" minOccurs="0" maxOccurs="unbounded" />
@@ -18,28 +11,22 @@
             <xsd:element name="MapButton" type="MapDefineData_MapDefine_MapButton" minOccurs="0" maxOccurs="unbounded" />
             <xsd:element name="Text" type="MapDefineData_MapDefine_Text" minOccurs="0" maxOccurs="unbounded" />
         </xsd:sequence>
-
         <xsd:attribute name="backgroundImage" type="xsd:string" use="required" />
         <xsd:attribute name="height" type="xsd:int" use="required" />
         <xsd:attribute name="id" type="xsd:string" use="required" />
         <xsd:attribute name="leftMargin" type="xsd:int" use="required" />
         <xsd:attribute name="overlayMapId" type="xsd:string" />
         <xsd:attribute name="overlayMapType" type="xsd:string" />
-        <xsd:attribute name="overlayPosX" type="xsd:float" />
-        <xsd:attribute name="overlayPosY" type="xsd:float" />
-        <xsd:attribute name="scale" type="xsd:int" />
         <xsd:attribute name="titleStringId" type="xsd:int" use="required" />
         <xsd:attribute name="topMargin" type="xsd:int" use="required" />
         <xsd:attribute name="width" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="MapDefineData_MapDefine_CommandButton">
         <xsd:attribute name="iconId" type="xsd:string" use="required" />
         <xsd:attribute name="id" type="xsd:int" use="required" />
         <xsd:attribute name="stringId" type="xsd:int" use="required" />
         <xsd:attribute name="tooltipId" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="MapDefineData_MapDefine_Image">
         <xsd:attribute name="click" type="xsd:string" use="required" />
         <xsd:attribute name="markerStyle" type="xsd:string" use="required" />
@@ -48,7 +35,6 @@
         <xsd:attribute name="x" type="xsd:int" use="required" />
         <xsd:attribute name="y" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="MapDefineData_MapDefine_MapButton">
         <xsd:attribute name="click" type="xsd:string" use="required" />
         <xsd:attribute name="id" type="xsd:string" use="required" />
@@ -58,17 +44,13 @@
         <xsd:attribute name="x" type="xsd:int" use="required" />
         <xsd:attribute name="y" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:complexType name="MapDefineData_MapDefine_Text">
         <xsd:attribute name="align" type="xsd:string" use="required" />
         <xsd:attribute name="click" type="xsd:string" />
         <xsd:attribute name="fontStyle" type="xsd:string" use="required" />
-        <xsd:attribute name="showRequireQuestTaskId" type="xsd:int" />
-        <xsd:attribute name="showRequireQuestTemplateId" type="xsd:int" />
         <xsd:attribute name="stringId" type="xsd:int" use="required" />
         <xsd:attribute name="x" type="xsd:int" use="required" />
         <xsd:attribute name="y" type="xsd:int" use="required" />
     </xsd:complexType>
-
     <xsd:element name="MapDefineData" type="MapDefineData" />
 </xsd:schema>

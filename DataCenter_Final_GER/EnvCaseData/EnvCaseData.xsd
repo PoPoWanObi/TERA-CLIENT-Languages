@@ -1,16 +1,9 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:dc="https://vezel.dev/novadrop/dc"
-            xmlns="https://vezel.dev/novadrop/dc/EnvCaseData"
-            targetNamespace="https://vezel.dev/novadrop/dc/EnvCaseData"
-            xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd"
-            elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/EnvCaseData" targetNamespace="https://vezel.dev/novadrop/dc/EnvCaseData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
     <xsd:complexType name="EnvCaseData">
         <xsd:sequence>
             <xsd:element name="Effect" type="EnvCaseData_Effect" maxOccurs="unbounded" />
         </xsd:sequence>
     </xsd:complexType>
-
     <xsd:complexType name="EnvCaseData_Effect">
         <xsd:attribute name="blessed" type="xsd:string" />
         <xsd:attribute name="carpet" type="xsd:string" use="required" />
@@ -33,6 +26,5 @@
         <xsd:attribute name="swimming" type="xsd:string" use="required" />
         <xsd:attribute name="wood" type="xsd:string" />
     </xsd:complexType>
-
     <xsd:element name="EnvCaseData" type="EnvCaseData" />
 </xsd:schema>

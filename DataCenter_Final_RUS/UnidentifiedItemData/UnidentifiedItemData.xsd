@@ -1,25 +1,35 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:dc="https://vezel.dev/novadrop/dc"
-            xmlns="https://vezel.dev/novadrop/dc/UnidentifiedItemData"
-            targetNamespace="https://vezel.dev/novadrop/dc/UnidentifiedItemData"
-            xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd"
-            elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/UnidentifiedItemData" targetNamespace="https://vezel.dev/novadrop/dc/UnidentifiedItemData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
     <xsd:complexType name="UnidentifiedItemData">
         <xsd:sequence>
-            <xsd:element name="Unidentified" type="UnidentifiedItemData_Unidentified" maxOccurs="unbounded" />
-            <xsd:element name="UnidentifyMaterial" type="UnidentifiedItemData_UnidentifyMaterial" />
+            <xsd:element name="UnidentifyPowder" type="UnidentifiedItemData_UnidentifyPowder" />
         </xsd:sequence>
     </xsd:complexType>
-
-    <xsd:complexType name="UnidentifiedItemData_Unidentified">
-        <xsd:attribute name="stringId" type="xsd:string" use="required" />
+    <xsd:complexType name="UnidentifiedItemData_UnidentifyPowder">
+        <xsd:sequence>
+            <xsd:element name="Powder" type="UnidentifiedItemData_UnidentifyPowder_Powder" />
+        </xsd:sequence>
     </xsd:complexType>
-
-    <xsd:complexType name="UnidentifiedItemData_UnidentifyMaterial">
-        <xsd:attribute name="defaultMaterialCount" type="xsd:int" use="required" />
-        <xsd:attribute name="materialItemId" type="xsd:string" use="required" />
+    <xsd:complexType name="UnidentifiedItemData_UnidentifyPowder_Powder">
+        <xsd:sequence>
+            <xsd:element name="EquipType" type="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="templateId" type="xsd:int" use="required" />
     </xsd:complexType>
-
+    <xsd:complexType name="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType">
+        <xsd:sequence>
+            <xsd:element name="LockCount" type="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType_LockCount" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="type" type="xsd:string" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType_LockCount">
+        <xsd:sequence>
+            <xsd:element name="Rank" type="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType_LockCount_Rank" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="count" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnidentifiedItemData_UnidentifyPowder_Powder_EquipType_LockCount_Rank">
+        <xsd:attribute name="powderCost" type="xsd:int" use="required" />
+        <xsd:attribute name="rankNo" type="xsd:int" use="required" />
+    </xsd:complexType>
     <xsd:element name="UnidentifiedItemData" type="UnidentifiedItemData" />
 </xsd:schema>

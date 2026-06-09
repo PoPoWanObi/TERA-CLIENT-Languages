@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="4">Мне нужно вернуться к Чатрану, но я ни за что не переживу дороги. Там столько чертовых аргонов!&lt;NEXTPAGEBUTTON&gt;"Переживешь. Под моей защитой".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Отлично! Хочу скорее вернуться к работе. Дай мне знать, когда мы можем отправляться.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" villagerId="30">
+        <Page social="0">Можно?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1034">
+        <Page social="6">Тебе можно доверять, &lt;PCNAME&gt;. Спасибо.&lt;NEXTPAGEBUTTON&gt;"Пожалуйста".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Кстати, я нашла письмо. Судя по высокопарному стилю, его писал барака. Как думаешь, сможешь найти его? Я бы поискала в Зульфикарской крепости.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">Ну что ж, теперь ты все знаешь о проблеме, которую нам устроили туванги. Честно говоря, немного неожиданно. Кто бы мог подумать, что они на такое способны?&lt;BR&gt;&lt;BR&gt;В любом случае, войск здесь немного, потому что это считалось одним из самых безопасных мест Федерации. Мы тут поразмыслили и считаем, что есть у нас способ разобраться с ними своими силами.&lt;NEXTPAGEBUTTON&gt;"Да ну? И какой?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Разрубить связь между их поселениями. С одним селением за раз мы справимся, верно?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:5#12#Лягушачий барабан} Туванги-камнедробителей - очень важный инструмент для экстренной связи между поселениями. Если получится отобрать Лягушачий барабан, селения окажутся изолированными друг от друга.&lt;BR&gt;&lt;BR&gt;Что думаешь? Найдешь немного времени? Будешь отвечать за операцию.&lt;BR&gt;&lt;BR&gt;А я уже занята - мне новичков муштровать. Пожалуйста, помоги.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="5">Ну что? Удалось? Все гладко, да? Отлично.&lt;BR&gt;&lt;BR&gt;Теперь и нам пора за дело.</Page>
+    </Text>
+</QuestDialog>

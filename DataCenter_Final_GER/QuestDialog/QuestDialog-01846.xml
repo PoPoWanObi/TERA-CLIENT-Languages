@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Nachdem Ihr die Geister jener beruhigt habt, die im Krieg gegen die Orkaner gefallen sind, seid Ihr nach Kaiator zurückgekehrt, um Euch in noch größeren Schlachten zu beweisen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="4">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Da die Orkaner nun ihren Anführer verloren haben, sind sie nichts weiter als dumme Muskelpakete ohne Hirn. Sie werden keine Chance haben, unserem Gegenangriff standzuhalten. Ihr seid eine wahre Heldin.&lt;BR&gt;&lt;BR&gt;Doch ich muss Euch um einen weiteren Gefallen bitten. Diejenigen, die hier gestorben sind ... Ihre Geister können erst ruhen, wenn sie wissen, dass sie gerächt wurden. Nur eine Person kann den Geistern diese Ruhe gewähren: die Person, die sie gerächt hat. Die Retterin von Pora Elinu.&lt;BR&gt;&lt;BR&gt;Ihr, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Kehrt bitte nach Pora Elinu zurück, sucht Sujai auf und vollzieht die Zeremonie der Trauer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1024">
+        <Page social="4">Es ist Zeit für die Heilung. Legt diese Blume in das Räuchergefäß.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1025">
+        <Page social="5">(Als Ihr die Blume in das Räuchergefäß gelegt habt, entwickelt sich ein reiner und feiner Duft.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1024">
+        <Page social="4">&lt;PCNAME&gt;, Ihr seid wundervoll. Danke.&lt;BR&gt;&lt;BR&gt;Es wird einige Zeit dauern, bis wieder alles so ist, wie es war.&lt;BR&gt;&lt;BR&gt;Prinzessin Rida ist nach Kaiator gereist, um Unterstützung zu beantragen, und hat den Wiederaufbau von Pora Elinu meiner Herrin Arin übertragen. Berichte von Euren Taten haben Prinzessin Rida erreicht. Sie hat mich darum gebeten, Euch umgehend zu ihr zu schicken.&lt;BR&gt;&lt;BR&gt;Ich hoffe, Ihr habt alles, was Ihr benötigt. Bitte richtet Prinzessin Rida Grüße von mir aus. Lebt wohl.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="5" villagerId="10031">
+        <Page social="4">&lt;PCNAME&gt;! Ich habe gehört, was Ihr alles für Pora Elinu getan habt! Ihr seid so mutig!&lt;BR&gt;&lt;BR&gt;Ich bin so froh, dass ich Euch vertraut habe. Habt vielen Dank.&lt;BR&gt;&lt;BR&gt;Das war erst der Anfang Eurer Abenteuer, &lt;PCNAME&gt;. Es gibt noch zahlreiche großartige Dinge, die Ihr tun könnt, um noch viele andere Geschöpfe glücklich zu machen. Man wird Euch stets als die Retterin von Pora Elinu in Erinnerung behalten. Vielen Dank für alles!</Page>
+    </Text>
+</QuestDialog>

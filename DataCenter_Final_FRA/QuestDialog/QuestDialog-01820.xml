@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="89" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Invocation suspecte]&lt;BR&gt;&lt;BR&gt;Une étrange énergie flotte dans l'atmosphère. Allez voir l'homme mystérieux répondant au nom de Kareras, près de la plateforme d'Allemantheia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1169">
+        <Page social="0">Hmmm... je sens en vous l'âme d'{@gender:un/une} authentique {@gender:champion/championne}, mais...&lt;BR&gt;&lt;BR&gt;Vous aspirez à autre chose, n'est-ce pas?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Nombreux sont les chemins qui s'offrent à vous, et choisir systématiquement celui de la vertu vous empêchera de percevoir certaines réalités de la vie.&lt;BR&gt;&lt;BR&gt;Vous voulez en apprendre plus?&amp;nbsp; Rendez-vous à l'Agora et contactez Erigar. Il vous dira comment mener une existence plus gratifiante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1158">
+        <Page social="0">Une existence plus gratifiante, hein?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Quand on se contente d'obéir aux ordres des autres, la vie devient rapidement monotone. Et qu'on parle d'obéir aux dieux ou à d'humbles mortels, le problème reste le même.&lt;BR&gt;&lt;BR&gt;La loi et l'ordre sont des concepts inventés par les forts pour dominer les faibles. Des personnages de votre trempe ne sont pas faits pour recevoir des ordres. "Ni dieu ni maître" devrait être votre devise!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ça peut paraître radical, mais d'un autre côté, vous n'en avez pas assez d'être l'instrument des autres?&amp;nbsp; &lt;NEXTPAGEBUTTON&gt;"Franchement, si."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ecoutez bien... voilà comment briser les entraves dont les dieux nous ont "gratifiés".&lt;BR&gt;&lt;B&gt;En faisant une &lt;font color='#FF0000'&gt;déclaration de hors-la-loi&lt;/font&gt;&lt;/B&gt;, vous devenez {@gender:un/une} hors-la-loi, et vous vous placez au-dessus des règles édictées par les mortels et les dieux.&lt;BR&gt;&lt;BR&gt;Les hors-la-loi peuvent être attaqués et peuvent librement s'en prendre aux autres. Et ne me dites pas que ce n'est pas exactement le style de vie dont vous rêviez. Les forts doivent dominer les faibles!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;A une petite exception&amp;nbsp;: ceux qui se trouvent sous la protection directe de Seren ou d'autres dieux. Mais c'est du menu fretin... la quantité négligeable, comme on dit.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Ça va me plaire!&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si vous multipliez les déclarations de hors-la-loi et que vous participez à des combats, votre niveau d'infamie grandit progressivement. Au-delà d'un certain seuil, vous pouvez vous attirer la colère des dieux.&lt;BR&gt;&lt;BR&gt;Mais d'après moi, c'est un bien petit prix à payer pour la liberté.&lt;BR&gt;&lt;BR&gt;Vous comprendrez le reste en lisant ce manuel de compétence. N'oubliez pas, &lt;PCNAME&gt;, le choix vous appartient.</Page>
+    </Text>
+</QuestDialog>

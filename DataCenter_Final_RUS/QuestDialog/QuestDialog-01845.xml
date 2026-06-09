@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="0">Вы с Родосом преследовали Дуриона в тоннелях под Треллум-Консурго. Тем временем Искатели Верхнего Дозора сумели сломать архидеванскую печать, чтобы получить возможность противостоять магии Дуриона.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="4">Скорее! Дурион не должен сбежать!&lt;NEXTPAGEBUTTON&gt;"Куда он направился?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Похоже, что бежит на нижние этажи.&lt;BR&gt;&lt;BR&gt;Быстрее!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2125">
+        <Page social="4">Идем! Нельзя терять времени!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2130">
+        <Page social="4">Дурион скрылся в тоннелях, словно крыса. Чего еще от него ожидать!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2129">
+        <Page social="4">Мы смогли разобрать найденную тобой архидеванскую печать. На испытания нет времени, но это должно помочь тебе в сражении с Дурионом.&lt;BR&gt;&lt;BR&gt;Пожалуйста, спаси высшего старейшину.</Page>
+    </Text>
+</QuestDialog>

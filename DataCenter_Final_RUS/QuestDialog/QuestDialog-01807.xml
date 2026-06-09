@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="0">После событий в Сокровищнице Орина Верхний Дозор бросил все свои силы на поиски Верикама и защиту города.&lt;BR&gt;&lt;BR&gt;Количество бойцов, сдерживающих натиск демокронов, значительно снизилось, и вам пришлось помочь барака.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="4">Это о тебе говорил Омерос!&lt;BR&gt;&lt;BR&gt;Ты направляешься в Руины Хэйвенстоуна? У меня есть просьба.&lt;BR&gt;&lt;BR&gt;Все заняты поисками высшего старейшины Верикама, и у нас не хватает бойцов, чтобы патрулировать дороги.&lt;BR&gt;&lt;BR&gt;Если ты убьешь демокронов по дороге к Станции Келдар, мы наградим тебя.&lt;NEXTPAGEBUTTON&gt;"Я сделаю, что смогу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1031">
+        <Page social="4">О! Ты же &lt;PCNAME&gt;, &lt;PCCLASS:lcase&gt; c юга.&lt;BR&gt;&lt;BR&gt;Спасибо тебе за то, что ты делаешь.&lt;NEXTPAGEBUTTON&gt;"Надеюсь, моя помощь была полезной".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

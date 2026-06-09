@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Die Angriffe der verdammten Orisken schaden den Befreiungsbemühungen. Ich lasse das nicht zu. Vernichtet {@LinkCreature:28#3021#Stinkende Orisken}, und nehmt ihre Rückenschilde an Euch. Sie dürfen ruhig ein bisschen leiden.&lt;BR&gt;&lt;BR&gt;Erstattet nach Abschluss der Mission Laneama Bericht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1004">
+        <Page social="5">Gute Arbeit muss belohnt werden. Vielen Dank.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1004">
+        <Page social="0">Bis die Orisken vertrieben wurden, darf ich keine Belohnung aushändigen.</Page>
+    </Text>
+</QuestDialog>

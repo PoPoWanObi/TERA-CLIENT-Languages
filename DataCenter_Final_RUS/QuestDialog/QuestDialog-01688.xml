@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Чтобы приручить зверя, нужно сначала узнать, чем он питается.&lt;BR&gt;&lt;BR&gt;Если ты накормишь его тем, что он любит, скажем, стейком из тиркай-гризли, то он тебе доверится.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">После того, как Вал-Тиркай пал под натиском аргонов, в Велике стало трудно достать стейки, но у тебя, видимо, получилось.&lt;BR&gt;&lt;BR&gt;Ты завоюешь доверие зверя.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Укрощение зверя - непростое занятие, и самый близкий путь к их сердцу лежит через желудок.</Page>
+    </Text>
+</QuestDialog>

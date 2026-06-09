@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Eliminez les troupes du Duc dans le Manoir sinistre.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:488#19#loyalistes}, les {@LinkCreature:488#20#gardes du corps} et les {@LinkCreature:488#102#conscrits} ducaux.&lt;BR&gt;&lt;BR&gt;Faites votre rapport à Segodun quand ça sera fait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="5">C'est du bon travail. Continuez de vous donner à fond pour la Fédération.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1011">
+        <Page social="0">Que faites-vous ici?&amp;nbsp; Nos ennemis se promènent tranquillement sans éprouver la moindre crainte!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

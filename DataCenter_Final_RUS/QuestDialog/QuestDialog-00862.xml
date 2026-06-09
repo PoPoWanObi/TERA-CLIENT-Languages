@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Болтать некогда. Мы очень заняты - ремонтируем ограду лагеря.&lt;BR&gt;&lt;BR&gt;Нам не помешало бы крепкое дерево... впрочем, что я тебе рассказываю...&lt;BR&gt;&lt;BR&gt;Лучшая древесина в Убежище Балдера сама к тебе придет - ведь это {@LinkCreature:30#170#Заросшие арбоски}.&lt;BR&gt;&lt;BR&gt;Остальные деревья не такие прочные, так что риск того стоит.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Твоя репутация не лжет, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Раньше никто не приносил мне столько дерева.&lt;BR&gt;&lt;BR&gt;Вот! Возьми это. Спасибо тебе огромное!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">Древесина {@LinkCreature:30#170#Заросших арбосков} настолько прочна, что топорам орканов с ней не справиться. Я бы не сомкнул глаз, если бы не доверял этим стенам.</Page>
+    </Text>
+</QuestDialog>

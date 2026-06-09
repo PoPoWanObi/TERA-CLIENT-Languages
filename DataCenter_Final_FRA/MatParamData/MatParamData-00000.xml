@@ -1,0 +1,25 @@
+<MatParamData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/MatParamData MatParamData.xsd" animSet="BloodGolem_ANI.Anim.BloodGolem_Anim" xmlns="https://vezel.dev/novadrop/dc/MatParamData">
+    <AnimMaterial animName="heavyatk02">
+        <Material time="0" value="0" name="ChargeMeter" />
+        <Material time="0.2" value="0.5" name="ChargeMeter" />
+        <Material time="1.8" value="0.8" name="ChargeMeter" />
+        <Material time="2.2" value="1" name="ChargeMeter" />
+        <Material time="3.2" value="1" name="ChargeMeter" />
+        <Material time="4.5" value="0.5" name="ChargeMeter" />
+        <Material time="6" value="0" name="ChargeMeter" />
+        <Material time="1" value="0" name="BarrelGlow" />
+        <Material time="2.5" value="1" name="BarrelGlow" />
+        <Material time="3.5" value="4" name="BarrelGlow" />
+        <Material time="5" value="0.7" name="BarrelGlow" />
+        <Material time="7" value="0" name="BarrelGlow" />
+    </AnimMaterial>
+    <AnimMaterial animName="longatk">
+        <Material time="0" value="0" name="ChargeMeter" />
+        <Material time="0.5" value="0.6" name="ChargeMeter" />
+        <Material time="1.5" value="0.6" name="ChargeMeter" />
+        <Material time="3" value="0" name="ChargeMeter" />
+        <Material time="0.3" value="0" name="BarrelGlow" />
+        <Material time="1.5" value="0.5" name="BarrelGlow" />
+        <Material time="3" value="0" name="BarrelGlow" />
+    </AnimMaterial>
+</MatParamData>

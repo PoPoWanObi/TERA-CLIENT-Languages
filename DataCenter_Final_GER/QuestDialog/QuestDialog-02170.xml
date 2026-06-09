@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="5">Ein guter Händler weiß, wie man einen Profit erzielen kann. Ich habe von einem Abenteurer, der vor einer Weile hier vorbeikam, hervorragendes Leder bekommen.&lt;BR&gt;&lt;BR&gt;Daraus habe ich wunderbare Handschuhe gemacht - die Holzfäller waren ganz begeistert von ihnen.&lt;NEXTPAGEBUTTON&gt;"Sehr gut."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ja. Ich habe versucht, noch mehr von dem Leder für weitere Handschuhe zu bekommen, aber ich kann das Tier, von dem es stammt, nicht erlegen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr in die Höhle geht und mir etwas von dem Leder bringt, zahle ich Euch einen guten Preis dafür.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5">Ihr habt mir so viel Leder gebracht! Danke! Das ist genau das richtige Material.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">Ich brauche wirklich unbedingt dieses Leder. Bitte helft mir.</Page>
+    </Text>
+</QuestDialog>

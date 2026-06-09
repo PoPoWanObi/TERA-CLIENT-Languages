@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Fraya était persuadée que Kaidun, qui avait été capturé par Thulsa, était toujours en vie. C'est pourquoi elle vous a demandé de voler à son secours. Elle vous a remis un pendentif qui devait briller tant que Kaidun serait en vie. Vous avez réussi à vous infiltrer dans la Citadelle du tourment, où vous avez mis la main sur le Grimoire du Martyre. Grâce à ce dernier, vous avez découvert l'emplacement d'un centre de recherche secret appartenant à Thulsa, dans les profondeurs de la Citadelle du tourment.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5">Un soldat doit savoir laisser les autres prendre en charge les responsabilités qu'il ne peut endosser en personne.&lt;BR&gt;&lt;BR&gt;Mon devoir m'ordonne de rester ici, mais mon cœur est avec Kaidun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5">Le collier ne ment pas. Il est toujours en vie. Si Ghufran a raison, Thulsa retient Kaidun prisonnier quelque part dans le coin.&lt;BR&gt;&lt;BR&gt;Prenez le collier de Kaidun. Il devrait vous être utile.&lt;NEXTPAGEBUTTON&gt;"Je le retrouverai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je ne vous confierais pas cette mission si je n'étais pas persuadée de son bien-fondé. Harule vous aidera. Bonne chance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1110">
+        <Page social="5">Ghufran dit que Kaidun a été fait prisonnier après avoir réussi à entrer dans la Citadelle du Tourment et qu'il est sans nouvelles depuis lors.&lt;BR&gt;&lt;BR&gt;La citadelle n'est pas un endroit des plus rassurants. On dit que les monstres qui arpentent les lieux sont des créations de Thulsa lui-même.&lt;BR&gt;&lt;BR&gt;Allez parler à Georrif... il vous dira à qui vous adresser.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1009">
+        <Page social="5">La Citadelle du Tourment?&amp;nbsp; Vous allez donc devoir rejoindre les forces de frappe spéciales.&lt;BR&gt;&lt;BR&gt;Sur place, ces gars ont l'habitude de faire les choses à leur manière. Si quelqu'un peut vous fournir des informations utiles, c'est forcément un membre de cette unité.&lt;BR&gt;&lt;BR&gt;Allez parler à Maianwe, le cavalier posté sur le pont. Elle saura dans quel partie de la citadelle vous pourrez les trouver.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="232" prevId="5" villagerId="1029">
+        <Page social="5">D'après moi, vous devriez éviter de mettre les pieds dans la Citadelle du Tourment, étant donné... attendez... mais vous êtes &lt;PCNAME&gt;?&amp;nbsp; Wow... impressionnant!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais vous devriez malgré tout éviter d'aller traîner dans la citadelle. D'ailleurs, personne ne devrait y mettre les pieds... pourquoi croyez-vous qu'on m'a postée sur ce pont?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous voyez cette forteresse géante, dans les hauteurs?&amp;nbsp; Et l'énergie nécromantique qui en émane, vous la sentez?&amp;nbsp; Les lieux regorgent de morts-vivants et autres créatures abandonnées par Thulsa.&lt;BR&gt;&lt;BR&gt;Si vous avez décidé de vous y rendre pour de bon, vous devriez vous adresser au Légat Alssiyah. Vous la trouverez au premier étage, aujourd'hui.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="233" prevId="6" villagerId="1001">
+        <Page social="5">Votre présence ne me pose pas de problème, &lt;PCNAME&gt;, mais nous ignorons où Kaidun peut se trouver. Pour autant que nous le sachions, il se trouvait au Mont Tyrannas. C'est Meygren qui a été chargé de mener l'enquête à la citadelle. Allez lui demander son rapport. Vous y apprendrez peut-être quelque chose.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="233" prevId="7" villagerId="1003">
+        <Page social="5">Ecoutez, je ne manque pas de talent, mais je ne peux pas faire de miracles. La roche même de cette forteresse est imprégnée de la magie nécromantique de Thulsa. Contre elle, ma magie ne peut rien.&lt;BR&gt;&lt;BR&gt;Mais vous pouvez toujours tenter une reconnaissance. Les éclaireurs nous ont dit qu'ils avaient entendu les bouffons maudits du quatrième étage discuter des plans de Thulsa. C'est là que vous devriez entamer vos recherches. Espionnez leurs conversations avant de les éliminer... mais faites attention aux espèces de "poupées" que vous croiserez dans les parages.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="233" prevId="8" villagerId="1003">
+        <Page social="4">Le Grimoire du Martyre?&amp;nbsp; Voyons un peu ça...&lt;BR&gt;&lt;BR&gt;Oh, par les dieux. Ce sont des... instructions concernant... je préfère éviter d'en parler... Il s'agit de pratiques parfaitement sordides.&lt;BR&gt;&lt;BR&gt;Toutefois, l'ouvrage mentionne un centre de recherche secret quelque part dans les Profondeurs sanglantes. Etrange... Si Kaidun est encore en vie, c'est le seul endroit où il peut se trouver.&lt;BR&gt;&lt;BR&gt;Un chercheur du Mysterium s'occupe de tenir le poste situé dans les catacombes de cet endroit. Il se nomme Lastair. Il devrait pouvoir vous aider à trouver le centre secret.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="233" villagerId="1003">
+        <Page social="0">Avez-vous obtenu quoi que ce soit des bouffons?&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="233" prevId="9" villagerId="1008">
+        <Page social="5">Un tombeau des nécromanciens au sous-sol?&amp;nbsp; Impossible... je l'aurais découvert.&lt;BR&gt;&lt;BR&gt;A moins qu'il ne se trouve de l'autre côté du bouclier. Il y a un endroit dans les Profondeurs sanglantes, rendu inaccessible par une barrière magique. Je n'ai pas encore entrepris de la traverser... j'avais trop à faire.&lt;BR&gt;&lt;BR&gt;Mais il n'existe pas de bouclier invulnérable. Chaque serrure a sa clé.</Page>
+    </Text>
+</QuestDialog>

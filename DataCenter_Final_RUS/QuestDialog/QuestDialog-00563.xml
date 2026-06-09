@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1017">
+        <Page social="4">Это было несколько дней назад. Я видела, как члены Свободного Братства просто... превращались в монстров. Я знаю, это звучит странно, но они огородили это место камнями.&lt;BR&gt;&lt;BR&gt;Может, ты глянешь на них, и сможешь понять, для чего они нужны?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1028">
+        <Page social="4">(При прикосновении к обелиску падает маленький черный камень.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1017">
+        <Page social="4">Так...это он? Это всего лишь камень.&lt;BR&gt;&lt;BR&gt;Хотя... меня начинает мутить, когда я беру его в руки. В нем, должно быть, какая-то темная энергия.&lt;BR&gt;&lt;BR&gt;Я знаю, как этим распорядиться. Спасибо тебе, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

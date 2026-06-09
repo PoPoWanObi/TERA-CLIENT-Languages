@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Новый план, &lt;PCNAME&gt;. Это святая вода. Нужно окропить ею мертвые тела, чтобы их души вернулись в Мир Грез.&lt;BR&gt;&lt;BR&gt;И больше никаких призраков, восставших из могил... ничего такого.&lt;BR&gt;&lt;BR&gt;И еще, по возможности постарайся собрать их личные вещи. Нужно что-то передать семьям. Говорят, это служит им утешением.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1112">
+        <Page social="0">(Святая вода шипит и пузырится, когда вы льете ее на мертвое тело. Тлетворный смрад смерти рассеивается.)&lt;NEXTPAGEBUTTON&gt;"Возвращайся в Мир Грез, друг".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Вы берете оружие, лежащее рядом с телом, и снимаете бирку с шеи.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1114">
+        <Page social="0">(Святая вода шипит и пузырится, когда вы льете ее на мертвое тело. Тлетворный смрад смерти рассеивается.)&lt;NEXTPAGEBUTTON&gt;"Возвращайся в Мир Грез, друг".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Вы берете оружие, лежащее рядом с телом, и снимаете бирку с шеи.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1116">
+        <Page social="0">(Святая вода шипит и пузырится, когда вы льете ее на мертвое тело. Тлетворный смрад смерти рассеивается.)&lt;NEXTPAGEBUTTON&gt;"Возвращайся в Мир Грез, друг".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Вы берете оружие, лежащее рядом с телом, и снимаете бирку с шеи.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1110">
+        <Page social="4">Все прошло, как надо? А их личные вещи?&lt;BR&gt;&lt;BR&gt;Я немедленно отправлю их в Кастанику. Спасибо, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;За Федерацию!</Page>
+    </Text>
+</QuestDialog>

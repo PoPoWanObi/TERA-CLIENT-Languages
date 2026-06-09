@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="0">Während Ihr die weiteren Pläne mit Rhodos bespracht, wurdet Ihr von einem Spion belauscht. Ihr nahmt die Verfolgung auf und seid an einem ganz unerwarteten Ort gelandet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="4">Die Erzdevaner müssen die Parthianer geschickt haben. Sie können Euer Schiff ebenfalls nicht nutzen, doch sie wissen nun mit Sicherheit davon.&lt;NEXTPAGEBUTTON&gt;"Was ist unser nächster Schritt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Im Tal des Frühlings gibt es Goblins, die für Geld alles tun werden.&lt;BR&gt;&lt;BR&gt;Wenn die Erzdevaner dort Kämpfer zusammensammeln, werden es die Goblins wissen.&lt;BR&gt;&lt;BR&gt;Findet heraus, ob das stimmt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="2010">
+        <Page social="4">Oh! Ähm, mein Reittier ist, äh, verletzt.&lt;BR&gt;&lt;BR&gt;Könnt Ihr mir helfen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1506">
+        <Page social="4">Ihr habt ihn davonkommen lassen!&lt;BR&gt;&lt;BR&gt;Mihog hat uns ausspioniert. Schnell! Er ist verletzt, also könnt Ihr ihn vielleicht noch einholen!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1016">
+        <Page social="4">(Mihogs Reittier liegt tot da. Blut kühlt am Boden ab und zerrissene Kleidungsstücke liegen daneben.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2016">
+        <Page social="4">Habe einen verletzten Läufer gesehen.&lt;BR&gt;&lt;BR&gt;Er ist kein Freund. Geht nach Westen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2001">
+        <Page social="4">Eine verdächtige Person?&lt;BR&gt;&lt;BR&gt;Naja, nur die eine Person, die in die Höhle gehinkt ist. Ist das verdächtig?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2029">
+        <Page social="4">(Das Holz dieses Fasses ist blutbefleckt.)</Page>
+    </Text>
+</QuestDialog>

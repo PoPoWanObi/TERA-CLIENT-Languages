@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="5">Да, та повозка должна была проходить мимо меня, но я ее не видел.&lt;BR&gt;&lt;BR&gt;Поищи к северу от Аллемантеи, возможно, тебе удастся понять, что произошло.&lt;BR&gt;&lt;BR&gt;Будь осторожнее - случилось явно что-то нехорошее. И опасность все еще там.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1026">
+        <Page social="5">(Люди мертвы и все припасы пропали.)&lt;BR&gt;&lt;BR&gt;(На земле лежит оружие. Наверное, следует отнести его Тарнану.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1004">
+        <Page social="6">Нападение? Да, я так и думал.&lt;BR&gt;&lt;BR&gt;Но зато мы нашли оружие! Покажи мне его.&lt;NEXTPAGEBUTTON&gt;"Конечно, вот".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Это оружие тенебрара! Но почему они напали на нас?&lt;BR&gt;&lt;BR&gt;Это бессмысленно!</Page>
+    </Text>
+</QuestDialog>

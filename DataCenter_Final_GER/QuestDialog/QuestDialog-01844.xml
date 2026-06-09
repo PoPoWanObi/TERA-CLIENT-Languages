@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Ihr habt die Orkaner in deren Gebiet abgelenkt und Rahtos Geheimwaffe, die Basilisken, vernichtet. Nachdem Ihr Euch durch die Orkaner in der Umgebung von Pora Elinu gekämpft habt, habt Ihr Arin die Ergebnisse mitgeteilt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Der Pfad hinter uns ist der einzige Weg nach Pora Elinu. Ich weiß, er steht in Flammen. Aber welche Wahl haben wir? Nutzt Eure schicken Klingen, um nach Pora Elinu zu gelangen. Bahnt Euch einen Weg durch das Lager der Orkaner, findet Prinzessin Arin und tut, was Ihr könnt, um ihr zu helfen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1023">
+        <Page social="4">Willkommen. Ihr habt einen sehr langen und gefährlichen Weg hinter Euch.&lt;BR&gt;&lt;BR&gt;Euren Worten entnehme ich, dass es von größter Wichtigkeit ist, den Anführer der Orkaner ausfindig zu machen. Ich werde mich mit meinen Beratern besprechen.&lt;BR&gt;&lt;BR&gt;Inzwischen wäre es hilfreich, wenn Ihr Meilyn zur Hand gehen könntet. Sie ist unsere einzige Ärztin. Die hohe Anzahl der Verwundeten hat sie bestürzt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1013">
+        <Page social="4">Ihr scheint nicht schwer verletzt zu sein. Was braucht Ihr?&lt;BR&gt;&lt;BR&gt;Oh, Arin hat Euch geschickt? Gut, ich könnte etwas Hilfe gebrauchen. Momentan ist Pora Elinu ein provisorisches Lazarett für die Verwundeten. So viele wurden verletzt oder getötet. Das macht mich so traurig.&lt;BR&gt;&lt;BR&gt;Ich habe mit den Verwundeten alle Hände voll tun. Könnt Ihr ein paar Leichenblüten für mich besorgen?&lt;BR&gt;&lt;BR&gt;Ich weiß, der Name ist furchteinflößend. Aber sie sind ein gutes Heilmittel für Patienten, die sehr viel Blut verloren haben.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1013">
+        <Page social="4">Ich danke Euch. Das sollte die Blutung etwas abschwächen und den Schmerz für einige Zeit lindern.&lt;BR&gt;&lt;BR&gt;Fürs Erste bin ich versorgt. Prinzessin Arin erwartet Euch draußen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1013">
+        <Page social="0">Wie, Ihr könnt sie nicht finden? Der Platz ist übersät mit Leichenblüten. Ich kann von hier aus drei Stück sehen!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="5" villagerId="1023">
+        <Page social="4">&lt;PCNAME&gt;, willkommen. Wir haben eventuell ein paar Informationen zu diesem Rahto.&lt;BR&gt;&lt;BR&gt;Sucht Wachenhauptmann Koro auf, um die Einzelheiten zu erfahren. Er erwartet Euch am anderen Ende des Balkons.&lt;BR&gt;&lt;BR&gt;Oh, und bringt ihm bitte diese Vorräte. Er wartet schon darauf.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1010">
+        <Page social="5">Oh, unsere wertvollen Vorräte! Habt vielen Dank!&lt;BR&gt;&lt;BR&gt;Diese Stiefel hier solltet Ihr behalten. Sie könnten nützlich für Euch sein.</Page>
+    </Text>
+</QuestDialog>

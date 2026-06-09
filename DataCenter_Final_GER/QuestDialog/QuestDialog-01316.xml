@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Wir müssen beide Enden des Wilden Tals sichern, darum schicke ich Euch aus.&lt;BR&gt;&lt;BR&gt;Bringt {@LinkCreature:41#1001#Taljägerarachnen}, {@LinkCreature:41#1002#Noralkkamaras} und {@LinkCreature:41#1003#Zobelsäbelzähne} an beiden Zugängen zum Wilden Tal zur Strecke.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Jeulile an der Station des Wilden Tals, wenn Eure Mission beendet ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">Mit Kämpfern wie Euch ist die Gegend hier deutlich weniger gefährlich.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">Die Föderation belohnt die Beseitigung von &lt;BR&gt;{@LinkCreature:41#1001#Taljägerarachnen}, {@LinkCreature:41#1002#Noralkkamara} und {@LinkCreature:41#1003#Zobelsäbelzähnen} an beiden Enden vom Wilden Tal. Selbstverständlich müsst Ihr Beweise für ihren Tod zurückbringen.</Page>
+    </Text>
+</QuestDialog>

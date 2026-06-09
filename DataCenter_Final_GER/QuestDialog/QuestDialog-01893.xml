@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Wir haben die Materialien, Ihr die Fertigkeiten.&lt;BR&gt;&lt;BR&gt;Fertigt Stoffexpertengewänder an und bringt sie mir, damit ich sie inspizieren kann.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Schön, sehr schön. Das ist großartige Arbeit, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich würde sagen, das ist bereit für den Feldeinsatz. Bringt die Gewänder zu Jakarian in Chebika. Er benötigt jede Rüstung, derer er habhaft werden kann.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Ihr habt die Entwürfe und die Sätze. Sprecht mit den Händlern für Handwerksmaterial, wenn Ihr zusätzliche Materialien benötigt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="65" prevId="3" villagerId="1009">
+        <Page social="0">Diese Gewänder sind perfekt. Nicht zu schwer und dennoch zäh! Vielen Dank, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

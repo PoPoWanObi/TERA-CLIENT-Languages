@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">У меня есть идея, как излечить его безумие, но... Она немного необычна. &lt;BR&gt;&lt;BR&gt; Он продолжает говорить о том, как они на него смотрели. Он все говорит о {@LinkCreature:9#410#Гулах-расхитителях}, хитрых {@LinkCreature:9#700#Ализаринских бесах-звероловах} и {@LinkCreature:9#710#Ализаринских бесах-привратниках}.&lt;BR&gt;&lt;BR&gt;Принеси мне их глаза. Устроим ему небольшую встряску!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Набралось достаточно. Отлично!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Ты найдешь {@LinkCreature:9#410#Гулов-расхитителей}, хитрых {@LinkCreature:9#700#Ализаринских бесов-звероловов} и {@LinkCreature:9#710#Ализаринских бесов-привратников} на первом подземном этаже Лабиринта Азарела.</Page>
+    </Text>
+</QuestDialog>

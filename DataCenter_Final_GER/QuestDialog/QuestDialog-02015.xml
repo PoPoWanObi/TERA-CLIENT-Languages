@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="0">Der Flug ins Nördliche Arun ist alles andere als sanft.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="4">Ich kombiniere Geschmacksrichtungen, an die Ihr nicht einmal im Traum denken würdet. Knoblauch-Erdbeere! Meerrettich-Karamell! Ich führe Euch durch die Welt der Aromen!&lt;BR&gt;&lt;BR&gt;Das bedeutet, dass ich keine Zeit habe, jemandem eine Extrawurst zu braten. Wenn Paesen essen will, kann Paesen mit den anderen Truppen essen.&lt;NEXTPAGEBUTTON&gt;"Ich werde mit ihm sprechen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Wirklich? Das klingt nett.&lt;BR&gt;&lt;BR&gt;Eigenartig.&lt;BR&gt;&lt;BR&gt;Also gut. Bringt ihm dieses Feinschmeckerpaket.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;! Wir sind auf unserem Weg ins Nördliche Arun! Ist das nicht aufregend?&lt;NEXTPAGEBUTTON&gt;"Ein bisschen, ja."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich wittere Essen. Habt Ihr mein Mittagsmahl dabei? Wie wundervoll! Ihr müsst mich wahrlich gern haben!&lt;BR&gt;&lt;BR&gt;Mjam!&lt;BR&gt;&lt;BR&gt;So ... wen bringe ich wohl als nächstes dazu, mich zu mögen?&lt;BR&gt;&lt;BR&gt;Ich weiß! Solyn! Meint Ihr, ich sollte gleich mit ihr sprechen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1001">
+        <Page social="4">Ich konnte es nicht! Ihr Anblick hat mich ganz durcheinandergebracht!&lt;BR&gt;&lt;BR&gt;Würdet Ihr mir einen Gefallen tun? Ich habe ihr ein Gedicht geschrieben, um sie aufzumuntern, aber ich kann es ihr nicht geben. Würdet Ihr?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1002">
+        <Page social="4">Ja, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Paesen hat dies für Euch geschrieben."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">"In Ischia gab es einst eine Person schon sehr alt, deren Verhalten wurde immer munterer bald?" Was bedeutet das überhaupt? Ich bin aus Popolion.&lt;BR&gt;&lt;BR&gt;Keine Zeit für diesen Unsinn. Wir sind auf einer Mission.&lt;BR&gt;&lt;BR&gt;Ermutigt den Herren Fellknäuel nicht auch noch. Macht Euch nützlich und holt unten einen Lagebericht von Haruho.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1003">
+        <Page social="4">Sieht gut aus hier, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pico hält ebenfalls Wache. Fragt bei ihm nach.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1004">
+        <Page social="4">Was könnte verkehrt sein? Wir sind in der Luft!&lt;BR&gt;&lt;BR&gt;Der Himmel ist klar, die Geschwindigkeit stabil. Nichts könnte schiefgehen.&lt;NEXTPAGEBUTTON&gt;"Vorsicht. Ihr werdet es noch heraufbeschwören."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Was war das?&lt;BR&gt;&lt;BR&gt;Wir werden angegriffen!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1004">
+        <Page social="4">Wer waren sie?&lt;BR&gt;&lt;BR&gt;Sie müssen oben an Deck sein. Ihr müsst sie aufhalten.&lt;BR&gt;&lt;BR&gt;Findet Lekul!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1100">
+        <Page social="4">&lt;PCNAME&gt;, ein Kampf liegt vor uns!</Page>
+    </Text>
+</QuestDialog>

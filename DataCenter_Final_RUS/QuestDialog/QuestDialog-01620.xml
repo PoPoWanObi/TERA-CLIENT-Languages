@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">Сперва самое важное. Расчисти лестницы алтаря от Меконари-храмовников. Они самые сильные воины из всех меконари, поэтому Киллиан дал им обереги, чтобы завоевать их доверие. Подумай, как унизительно они будут себя чувствовать, если ты с легкостью отберешь амулеты.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">Могущественные амулеты. Для разнообразия мы украли частичку их силы!&lt;BR&gt;&lt;BR&gt;Теперь путь к алтарю почти свободен. Скоро мы покончим с этим кошмаром раз и навсегда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">&lt;PCCLASS&gt;, ну же! Храмовники наступают!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="5">Tja, ich muss zugeben, dass ich schon länger keinen Trank mehr gebraut habe. Ich hoffe, er hat trotzdem die gewünschte Wirkung.&lt;BR&gt;&lt;BR&gt;Ich meine ... ich bin sicher, er wirkt! Ich meine nur ... Ihr wisst schon.&lt;BR&gt;&lt;BR&gt;Tja, wie auch immer. Wohl bekomm's, was? Viel Glück.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1004">
+        <Page social="12">Ihr habt den Trank zu Euch genommen, was? Wie war er? Ich dachte, Ihr würdet ihn für mich hierher bringen, aber ich konnte Euch schon von Weitem riechen und muss sagen, ich bin froh, dass Ihr ihn getrunken habt.&lt;BR&gt;&lt;BR&gt;Tja, dann müssen wir jetzt nur noch versuchen, etwas aus den Tuwangi herauszubekommen. Geht am besten gleich zum Tuwangigefangenen {@LinkCreature:205#1020#Tangmo} und probiert es aus.&lt;BR&gt;&lt;BR&gt;Lasst mich wissen, was Ihr herausfindet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1020">
+        <Page social="0">Hmm. Was ist das? Es riecht nach Haut. Und Verzweiflung.&lt;NEXTPAGEBUTTON&gt;"Und wie, bitte schön, soll Verzweiflung riechen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hmm? Es versteht. Ich kann Euch sagen, was hier vorgeht. Ihr wollt wissen, warum der Sumpf immer größer wird? Habt IHR Euch noch nie ein größeres Haus gewünscht?&lt;BR&gt;&lt;BR&gt;Selbstverständlich stecken wir dahinter - wir expandieren!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="1004">
+        <Page social="5">Oh, nein. Es sind also die Tuwangi? Das ist überhaupt nicht gut. Das bedeutet ... oje.&lt;BR&gt;&lt;BR&gt;Na, jedenfalls vielen Dank für Eure Hilfe. Bitte nehmt das hier.</Page>
+    </Text>
+</QuestDialog>

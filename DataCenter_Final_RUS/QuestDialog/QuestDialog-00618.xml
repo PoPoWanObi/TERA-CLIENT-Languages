@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Я больше не могу закрывать глаза на опасность, исходящую от василисков. Велика запретила появляться там кому бы то ни было, но Чебике угрожает опасность, пока кто-нибудь этого не сделает.&lt;BR&gt;&lt;BR&gt;Я разрешаю тебе войти в Долину могил и убить {@LinkCreature:21#2#Темных василисков}. Как только закончишь, возвращайся обратно и расскажи, как все прошло.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">С василисками шутки плохи. Я восхищен твоей доблестью, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Чебика находится под защитой Федерации. У меня свои приказы, а у тебя свои. Избавься от василисков.</Page>
+    </Text>
+</QuestDialog>

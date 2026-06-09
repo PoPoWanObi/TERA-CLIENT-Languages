@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Diese Aufzeichnungen müssen zu {@LinkCreature:241#1025$$Grunath} in der Station des Wilden Tals gebracht werden. Er ist dort Forscher, also sollte er wissen, was er damit zu tun hat.&lt;BR&gt;&lt;BR&gt;Ihr habt Euer Leben für uns riskiert. Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1025">
+        <Page social="4">Es scheint, dass diese Selvarasdiebe Leute entführen und an die Legion von Thulsa verkaufen.&lt;BR&gt;&lt;BR&gt;Von nun an müssen wir die Legion genau im Auge behalten.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">Пожалуйста, помоги мне! Мой сын ушел из дома. Я боюсь, что он учится охотиться.&lt;BR&gt;&lt;BR&gt;Шалим - мальчик с добрым сердцем, но медведь или барсикора его не пожалеют. А вокруг еще столько опасностей!&lt;BR&gt;&lt;BR&gt;Помоги мне найти его! Он падок на героев. Если ты докажешь свою силу, он пойдет за тобой, как миленький.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1014">
+        <Page social="4">Вернуться к папочке? Ха! Он бы никогда не отправил кого-то вроде тебя за мной. Он великий охотник. А ты... хм... нет.&lt;BR&gt;&lt;BR&gt;Эй, чего это ты хмуришься? Слушай, если сможешь убить хотя бы {@LinkCreature:34#910#Юного мугато-морозного стража}, я подумаю.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1014">
+        <Page social="4">Ух ты! Вот уж добыча, так добыча!&lt;BR&gt;&lt;BR&gt;Похоже, я недооценил тебя, &lt;PCNAME&gt;! Можно мне пойти с тобой? Я хочу сражаться, как ты!&lt;BR&gt;&lt;BR&gt;Я ем всего пять раз в день и под мой храп приятно засыпать.&lt;NEXTPAGEBUTTON&gt;"Возвращайся к отцу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Проклятье! Не хочу возвращаться. Он не разрешает мне ничего делать. "Почисть это". "Пожарь то". "Положи на место мое оружие".&lt;BR&gt;&lt;BR&gt;Я просто хочу доказать ему, что я тоже великий охотник.&lt;BR&gt;&lt;BR&gt;Ну ладно. Раз ты так говоришь, я вернусь.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" villagerId="1014">
+        <Page social="0">Ну давай же! Это всего лишь юный мугато. Я думал, ты умеешь охотиться!&lt;BR&gt;&lt;BR&gt;Нечего было хвастаться! Говорят, у хвастунов может отсохнуть кое-что важное!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="4" villagerId="1012">
+        <Page social="4">Шалим упрям, как осел. Если он научится слушаться, он станет отличным охотником.&lt;BR&gt;&lt;BR&gt;На самом деле, я в его возрасте был не лучше. Не представляю, как мой отец со мной справился.&lt;BR&gt;&lt;BR&gt;В любом случае, спасибо за помощь.</Page>
+    </Text>
+</QuestDialog>

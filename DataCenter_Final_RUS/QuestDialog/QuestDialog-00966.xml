@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="4">Увы, {@LinkCreature:33#66#Гниющие узники} не виновны в том, что творят.&lt;BR&gt;&lt;BR&gt;Ясно же, что они стерегут эти коридоры против своей воли.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ты можешь положить конец их жалкому прозябанию и вернуть их души в Грезы титанов?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1014">
+        <Page social="4">Благодаря тебе, &lt;PCNAME&gt;, их души мирно вознеслись в Мир Грез.&lt;BR&gt;&lt;BR&gt;Придет день, и мы прикончим Тулсу, вот только его душу ждут одни лишь кошмары.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1014">
+        <Page social="0">Поищи {@LinkCreature:33#66#Гниющих узников} на нижних уровнях, &lt;PCNAME&gt;. Избавь их от страданий.</Page>
+    </Text>
+</QuestDialog>

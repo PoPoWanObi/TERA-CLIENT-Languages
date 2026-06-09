@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="0">Крушение "Бесстрашного" стало серьезным ударом для Авангарда. Вы помогли собрать уцелевшие запасы, прежде чем продолжить путешествие.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="4">Благодаря тебе, большей части экипажа удалось уцелеть. Однако мы оказались в сложном положении.&lt;NEXTPAGEBUTTON&gt;"Как я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Нам надо собрать припасы, пока до них не добрались какие-нибудь прожорливые чудища. Без крейсера нам не приходится надеяться на пополнение запасов.&lt;BR&gt;&lt;BR&gt;Ты сможешь собрать припасы и отнести их Дугалу?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1001">
+        <Page social="4">Очень хорошо, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Что ж, мы добрались до Северного Аруна, а это значит, что у нас еще остается шанс выполнить задание.&lt;BR&gt;&lt;BR&gt;Узнай у Золин, как чувствуют себя солдаты. Мы должны оценить нашу боеспособность, прежде чем выдвигаться.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1001">
+        <Page social="0">Это все? Ого...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1002">
+        <Page social="4">Проклятье, &lt;PCNAME&gt;! Я жнец, а не доктор.&lt;BR&gt;&lt;BR&gt;Осматривай раненых, сколько тебе угодно. Я занята. Я ищу Сиону.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1003">
+        <Page social="4">Моя нога! Кажется, лодыжка сломана. Кость же не должна так вот торчать?&lt;BR&gt;&lt;BR&gt;Помоги мне!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1004">
+        <Page social="4">Ох... Дышать больно. Проклятье! Зачем это все?&lt;BR&gt;&lt;BR&gt;Мы ведь не вернемся домой, верно?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1002">
+        <Page social="4">Рана Тизана замедлит нас. Я прикажу Пэйсену сделать носилки, чтобы его нести.&lt;BR&gt;&lt;BR&gt;А Бродерику придется самому как-то справиться. Пока мы не найдем Сиону, никто не вернется домой!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1001">
+        <Page social="4">Травмы могли оказаться гораздо серьезней. Можно считать, что нам повезло.&lt;BR&gt;&lt;BR&gt;Отлично сработано. Как в старые времена, да?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="220040">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="220040">
+        <Page social="0">Da Ihr schon einmal hier seid, wir brauchen Eure Hilfe. Wir müssen die Forschungen des Freihandelskollektivs zu Noktenium bremsen. Wenn wir ihre Extraktoren stilllegen, können wir ihre Fortschritte verlangsamen.&lt;BR&gt;&lt;BR&gt;Schaltet ihre Extraktoren ab und bringt mir die Schlüssel!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="220040">
+        <Page social="0">Exzellent &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ihre Fortschritte zu bremsen, ist, als ob Ihr Eure eigenen Forschungen beschleunigt!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="121" villagerId="220040">
+        <Page social="0">Für den Eisernen Orden!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="4">Можно немного успокоить Леннерта, если нам удастся собрать тот лес, который моя бригада успела заготовить до того, как на нее напали.&lt;BR&gt;&lt;BR&gt;Вернее, не нам, а тебе.&lt;BR&gt;&lt;BR&gt;Отправляйся к подножью холма и тащи сюда все бревна, которые найдешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1001">
+        <Page social="4">Да тут даже больше, чем я думал! Я сейчас все взвешу и свяжу, и Леннерт, наконец-то сможет отчитаться по своей бесценной "норме"!&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;. Надумаешь бросить службу - обязательно приходи ко мне! Для тех, у кого руки растут из плеч, работенку я завсегда найду.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1001">
+        <Page social="0">Когда нагрянули кентавры, моя бригада бросила все бревна, которые заготовила за день. Найти их будет проще простого.&lt;BR&gt;&lt;BR&gt;Эм-м... ты ведь знаешь, как выглядят бревна, да?</Page>
+    </Text>
+</QuestDialog>

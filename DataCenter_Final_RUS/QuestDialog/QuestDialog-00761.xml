@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1110">
+        <Page social="5">Хранители леса стараются изо всех сил, чтобы сохранить равновесие. Иногда для этого приходится идти на убийство.&lt;BR&gt;&lt;BR&gt;Тебе необходимо убить нескольких {@LinkCreature:26#2004#Замшелых тералитов}. Эти древние стражи забыли свое предназначение и стали бездумно жестокими. От них больше угрозы, чем защиты. Мы просим тебя их истребить.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1110">
+        <Page social="5">Благодарю, &lt;PCNAME&gt;. Это было сложное задание, но тебе удалось с ним справиться.</Page>
+    </Text>
+</QuestDialog>

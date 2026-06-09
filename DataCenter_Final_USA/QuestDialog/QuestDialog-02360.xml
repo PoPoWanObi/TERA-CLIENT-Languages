@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="743" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="3001">
+        <Page social="0">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It seems that the mad Bandersnatch has abducted one of the Mysterium's greatest minds. Maester Adonis has offered a reward for the safe return of his advisor, Aliss, and the death of Bandersnatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="3001">
+        <Page social="0">Thank you for defeating Bandersnatch.&lt;BR&gt;&lt;BR&gt;Here is the reward Maester Adonis promised.&lt;BR&gt;&lt;BR&gt;Your service will be forever remembered in the annals of the Mysterium.</Page>
+    </Text>
+</QuestDialog>

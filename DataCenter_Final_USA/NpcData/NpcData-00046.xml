@@ -1,0 +1,182 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="49" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1" scale="1" shapeId="300800" gender="male" race="Argon" resourceSize="100" resourceType="large" size="large" parentId="30080001" basicActionId="3008000" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="3039454" />
+    </Template>
+    <Template id="2" scale="1.5" shapeId="301720" gender="male" race="Armadillo" resourceSize="100" resourceType="large" size="large" parentId="30172000" basicActionId="3017200" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="170" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="3039454" />
+    </Template>
+    <Template id="3" scale="1" shapeId="301740" gender="male" race="ArgoniteMotherShip" resourceSize="100" resourceType="large" size="large" parentId="30174000" basicActionId="3017400" elite="true" isFreeNamed="true" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="4559181" />
+    </Template>
+    <Template id="4" scale="1" shapeId="300803" gender="male" race="ArchakalashTrooper_R" resourceSize="100" resourceType="large" size="large" parentId="30080300" basicActionId="3008000" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="77" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="3039454" />
+    </Template>
+    <Template id="5" scale="1" shapeId="301710" gender="male" race="PossessionGiant" resourceSize="100" resourceType="large" size="large" parentId="30171000" basicActionId="3017100" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="140" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="3039454" />
+    </Template>
+    <Template id="10" scale="1.4" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097000" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="11" scale="1.4" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097000" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="55" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="12" scale="1.2" shapeId="300740" gender="male" race="ArgoniteKallashProtector" resourceSize="100" resourceType="medium" size="medium" parentId="30074000" basicActionId="3007400" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="13" scale="1.2" shapeId="300790" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" size="medium" parentId="30079000" basicActionId="3007900" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="14" scale="1.2" shapeId="300791" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" size="medium" parentId="30079100" basicActionId="3007900" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="15" scale="1.4" shapeId="300971" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097100" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="16" scale="1" shapeId="301770" gender="male" race="ArgoniteFemaleMagician" resourceSize="0" resourceType="medium" size="medium" parentId="30177000" basicActionId="3017700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="17" scale="1" shapeId="302010" gender="male" race="argon" resourceSize="100" resourceType="medium" size="medium" parentId="30201000" basicActionId="3020100" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="44" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="18" scale="1.2" shapeId="302000" gender="male" race="HatchlingArgoniteParasite" resourceSize="30200000" resourceType="medium" size="medium" parentId="30200000" basicActionId="3020000" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="9" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="19" scale="1" shapeId="302060" gender="male" race="ArgoniteEnergyAbsorber" resourceSize="100" resourceType="medium" size="medium" parentId="30206000" basicActionId="3020600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="20" scale="1.5" shapeId="302090" gender="female" race="ArgoniteFly" resourceSize="100" resourceType="medium" size="medium" parentId="30209000" basicActionId="3020900" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="21" scale="1" shapeId="300982" gender="female" race="Ramayan_R" resourceSize="100" resourceType="medium" size="medium" parentId="30098200" basicActionId="3009800" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="22" scale="1" shapeId="300983" gender="male" race="HighpriestArcnan_R" resourceSize="100" resourceType="medium" size="medium" parentId="30098300" basicActionId="3009800" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="23" scale="1.4" shapeId="300971" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097100" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="100" scale="1" shapeId="300901" gender="male" race="Argon" resourceSize="100" resourceType="small" size="small" parentId="30090100" basicActionId="3009000" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="12089" />
+    </Template>
+    <Template id="101" scale="1" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" size="small" parentId="30090000" basicActionId="3009000" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="4835" />
+    </Template>
+    <Template id="400" scale="1" shapeId="700250" gender="male" race="Argonteleporter" resourceSize="100" resourceType="medium" size="medium" parentId="70025000" basicActionId="7002500" collideOnMove="true" deathShapeId="700251" dontTurn="true" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="500" scale="1" shapeId="611410" race="" resourceSize="0" resourceType="" size="medium" parentId="61141000" basicActionId="6114100" dontTurn="true" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="501" scale="1" shapeId="611410" race="" resourceSize="0" resourceType="" size="medium" parentId="61141000" basicActionId="6114100" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="502" scale="1" shapeId="611410" race="" resourceSize="0" resourceType="" size="medium" parentId="61141000" basicActionId="6114100" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="503" scale="5" shapeId="600730" gender="male" race="animal" resourceSize="100" resourceType="medium" size="medium" basicActionId="200010" deathShapeId="600731" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="600" scale="1" shapeId="301830" gender="male" race="SpreadMind" resourceSize="0" resourceType="" size="small" parentId="30183000" basicActionId="3018300" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91" />
+    </Template>
+    <Template id="1001" scale="1" shapeId="510721" gender="male" race="Baraka" resourceSize="100" resourceType="medium" size="medium" parentId="51072100" basicActionId="5107200" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="1002" scale="1" shapeId="510720" gender="male" race="Baraka" resourceSize="100" resourceType="medium" size="medium" parentId="51072000" basicActionId="5107200" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="1003" scale="1" shapeId="530710" gender="male" race="popori" resourceSize="100" resourceType="medium" size="medium" parentId="53071000" basicActionId="5307100" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="1004" scale="1" shapeId="530810" gender="female" race="popori" resourceSize="100" resourceType="medium" size="medium" parentId="53081000" basicActionId="5308100" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="1005" scale="1" shapeId="530210" gender="male" race="Castanic" resourceSize="100" resourceType="medium" size="medium" parentId="53021000" basicActionId="5302100" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="1006" scale="1" shapeId="527010" gender="male" race="Baraka" resourceSize="100" resourceType="medium" size="medium" parentId="52701000" basicActionId="5270100" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="3001" scale="1.4" shapeId="300790" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" size="medium" parentId="30079000" basicActionId="3007900" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="3002" scale="1.6" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097000" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="51" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="3003" scale="1.6" shapeId="300971" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097100" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="51" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="3004" scale="1.4" shapeId="301770" gender="male" race="ArgoniteFemaleMagician" resourceSize="0" resourceType="medium" size="medium" parentId="30177000" basicActionId="3017700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="3005" scale="1.4" shapeId="300791" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" size="medium" parentId="30079100" basicActionId="3007900" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="105277" />
+    </Template>
+    <Template id="9998" scale="1.4" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" size="medium" parentId="30097000" basicActionId="3009700" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="55" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="57673" />
+    </Template>
+    <Template id="9999" scale="1" shapeId="611340" race="" resourceSize="0" resourceType="" size="medium" parentId="61134000" basicActionId="6113400" deathShapeId="611341" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+</NpcData>

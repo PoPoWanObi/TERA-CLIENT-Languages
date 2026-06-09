@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="0">Rhodos befahl den Truppen, Trellum Consurgo zu erstürmen, doch die Belagerungskanonen der Erzdevaner müssen zuerst zerstört werden. Ihr habt eine Belagerungswaffe repariert und damit geschossen, doch Eure Geschütze konnten die höchsten Kanonen nicht erreichen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="4">Verdammte Erzdevaner!&lt;BR&gt;&lt;BR&gt;Sicherlich muss es einen Weg geben, um die Parthianer zu retten. Wenn nicht, werden wir durch unser eigenes Blut waten müssen, um unsere Feinde niederzustrecken.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">Allerdings!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, gewiss sind Eure magiebegabten Leute so stark wie die Erzdevaner. Fällt ihnen denn nichts ein, um deren Magie zu lösen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2141">
+        <Page social="4">Bedauerlicherweise ist der Transformationsprozess unumkehrbar. Wir finden vielleicht ein Mittel, um die Verwandlung zu verhindern oder die Versklavung zu stoppen, doch wir können die Gefallenen nicht retten.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2110">
+        <Page social="4">Wenn wir sie nicht retten können, dann müssen wir sie rächen.&lt;BR&gt;&lt;BR&gt;Kommt, &lt;PCNAME&gt;! Schnappt Euch eine Belagerungskanone und geht mit ihr zum Infernalischen Steg.&lt;BR&gt;&lt;BR&gt;Wir werden die Festung angreifen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="7">
+        <Page social="0">(Eine stabile Belagerungswaffe. Sie rumpelt, als erwarte sie eine Bedienungsperson.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="191" prevId="5" villagerId="2138">
+        <Page social="4">Bevor wir die Festung stürmen können, müssen wir ihre Belagerungskanonen ausschalten.&lt;BR&gt;&lt;BR&gt;Repariert eine davon, besteigt sie und eröffnet das Feuer! Zielt hoch hinauf, die Schlucht ist breiter als sie aussieht.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="191" prevId="7" villagerId="1601">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="191" prevId="8" villagerId="2138">
+        <Page social="4">Leider können wir ihre Geschütze ganz oben auf der Mauer nicht treffen.&lt;BR&gt;&lt;BR&gt;Erstattet Rhodos Bericht. Er wird eine Ansage zu diesem Problem machen müssen.</Page>
+    </Text>
+</QuestDialog>

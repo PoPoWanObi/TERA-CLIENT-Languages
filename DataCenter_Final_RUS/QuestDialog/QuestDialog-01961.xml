@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="489" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="489" prevId="0" villagerId="1013">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;Уничтожь абисмальских созданий в Убежище Культистов. &lt;BR&gt;&lt;BR&gt;Удели особое внимание {@LinkCreature:489#3610#Наемникам-метким стрелкам}, {@LinkCreature:489#3705#Наемникам-защитникам}, {@LinkCreature:489#3706#Наемникам-опустошителям}, {@LinkCreature:489#3708#Наемникам-прелатам} и {@LinkCreature:489#3709#Наемникам-чародеям}.&lt;BR&gt;&lt;BR&gt;По окончании задания поговорите с Раубелаком.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="489" prevId="2" villagerId="1013">
+        <Page social="5">Отличная работа. Пожалуйста, продолжай помогать Федерации в искоренении культистов.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="489" villagerId="1013">
+        <Page social="0">Я не буду жить под одним небом с культистами. Уничтожь их как можно быстрее.</Page>
+    </Text>
+</QuestDialog>

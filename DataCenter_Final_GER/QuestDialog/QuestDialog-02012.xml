@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">Helft Canen, die Rekruten vorzubereiten, die an Bord der Elkaia gehen werden. Die Rekruten scheinen beunruhigt angesichts einer so langen Expedition.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">Dies ist nicht die erste Mission in den Norden, wisst Ihr. Vor nicht allzu langer Zeit schickten wir eine andere Gruppe los.&lt;BR&gt;&lt;BR&gt;Niemand will darüber sprechen, aber wir befürchten das Schlimmste. Passt auf Euch auf, &lt;PCNAME&gt;. Die Föderation kann es sich nicht leisten, Euch auch noch zu verlieren.&lt;BR&gt;&lt;BR&gt;Bitte überprüft mit Caenia, ob das ganze Personal bereit ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">&lt;PCNAME&gt;? Ich grüße Euch. Ich habe von Euren Heldentaten gelesen. Schön, mit {@gender:einem Soldaten/einer Soldatin} wie Euch zu arbeiten.&lt;BR&gt;&lt;BR&gt;Leider sind einige der anderen so furchteinflößend wie ein Eimer Äpfel. Könnt Ihr sie zusammentrommeln? Ich denke, Eure Anwesenheit wird sie inspirieren.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">Bauch...krämpfe. Bei den Göttern, was haben wir gegessen?&lt;BR&gt;&lt;BR&gt;Kann nicht zurückgehen ... nicht so ... &lt;BR&gt;&lt;BR&gt;Findet ... Tilda. Bringt uns ein Heilmittel.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">Diese Narren! Ich habe sie davor gewarnt, meine Elixiere zu trinken. Die Konzentration ist viel zu hoch. Sie sind vergiftet!&lt;NEXTPAGEBUTTON&gt;"Was ist das Heilmittel?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nun, meine gesamten Bestände wurden auf den Himmelskreuzer geladen. Ich habe keine Stärkungsmittel.&lt;BR&gt;&lt;BR&gt;Wir könnten aufgeweichte Kräuter verwenden ... sprich, bereits zerkaute Kräuter.&lt;BR&gt;&lt;BR&gt;Eklig, ich weiß, aber es wird ihnen das Leben retten.&lt;BR&gt;&lt;BR&gt;Vermutlich.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">Igitt! Was für ein garstiges Zeug ist das? Schlimmer als Vampirblut!&lt;BR&gt;&lt;BR&gt;Was ist mit Actol? Helft ihm auch.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">Was hat der Apotheker gesagt?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">Ich wusste, dass Eduyar nach dem falschen Trank gegriffen hat. Mein Bauch fühlt sich an, als würde ein Dracoloth darin herumtoben.&lt;BR&gt;&lt;BR&gt;Örgs! Was ist das? Wollt Ihr mich ins Jenseits befördern?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">Vergiftet? Und Ihr habt sie gerettet, indem Ihr sie gefüttert habt ... Ha!&lt;BR&gt;&lt;BR&gt;Das wird sie lehren, die Finger von unseren Vorräten zu lassen. Gut gemacht.</Page>
+    </Text>
+</QuestDialog>

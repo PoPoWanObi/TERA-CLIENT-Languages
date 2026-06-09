@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Obwohl Lian nicht glaubte, dass die Orkaner die magischen Fähigkeiten besitzen, Dämonenbann zu beflecken, wollte er es doch nicht bei Vermutungen belassen.&lt;BR&gt;&lt;BR&gt;Er schickte Euch nach Süden, wo Ihr mit Kirash gesprochen habt. Dieser hat Euch von magischen Söldnern, den Mekonariplünderern, berichtet.&lt;BR&gt;&lt;BR&gt;Ihr habt Euch ins Feldlager geschlichen, einen Düsteren Plünderer getötet und seid mit einer Schriftrolle in dämonischer Schrift geflohen. Lian hat einen Teil davon übersetzt und den Aufenthaltsort des Drahtziehers ausgemacht. Alles weist auf den Verdorbenen Schlund.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Orkaner gebieten zwar über Magie, aber nicht in dem Ausmaß, mit dem wir es hier zu tun haben. Irgendein Puzzleteil fehlt uns noch.&lt;NEXTPAGEBUTTON&gt;"Vielleicht haben die Orkaner ja Verbündete."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ganz recht! Und zwar nicht nur irgendwelche Verbündete, sondern welche, die besonders geschickt mit Magie umgehen. Kirash behält die Feldlager der Orkaner im Auge. Sprecht mit ihm und findet heraus, ob er etwas darüber weiß.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1027">
+        <Page social="4">Oh, wir beobachten die Orkaner, aber sie selbst sind gar nicht so interessant. Seht mal da rüber! Seht Ihr diese vogelköpfigen Kreaturen mit den langen Stäben?&lt;NEXTPAGEBUTTON&gt;"Vogelköpfe?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das sind Mekonari, und die meisten von ihnen sind magiebegabt. Wer weiß, warum {@LinkCreature:13#601#Düstere Plünderer} gemeinsame Sache mit Orkanern machen, aber es ist sicher nicht zu unserem Vorteil.&lt;BR&gt;&lt;BR&gt;Wir müssen auf unserem Posten bleiben, aber Ihr könnt Euch näher heranschleichen, um einen der Plünderer zu töten oder gefangen zu nehmen. Vielleicht kommen wir ja so an irgendwelche Hinweise.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1027">
+        <Page social="4">Eine Schriftrolle? Interessant! Mit etwas Glück handelt es sich dabei um ihren Einsatzplan.&lt;BR&gt;&lt;BR&gt;Pah! Diese Schriftrolle ist nicht zu entziffern. Soll Lian doch seinem Ruf gerecht werden! Bringt sie zu ihm, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1027">
+        <Page social="0">Wir erinnern uns an Sagen der Mekonari. Während ihr Gott in einem großen goldenen Ei schlummert, verkaufen sie ihr magisches Geschick an fast jeden.&lt;BR&gt;&lt;BR&gt;Nichts als hundsgemeine Söldner, pah!&lt;BR&gt;&lt;BR&gt;Kein Wunder, dass sie mit den Orkanern zusammenarbeiten. Versucht, etwas von einem von ihnen in Erfahrung zu bringen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="4" villagerId="1008">
+        <Page social="4">Plünderer? Wohl eher Aasfresser! Worauf sind die nur aus? Was machen sie hier? Schauen wir uns diese Schriftrolle mal genauer an!&lt;BR&gt;&lt;BR&gt;Das ist kein Gekrakel, das ist dämonische Schrift. Ist schwer zu übersetzen, aber die Beschreibung hier kommt mir bekannt vor. Das Tal im Osten ... Wir nennen es den Verdorbenen Schlund. Dort befindet sich der Gebieter der Mekonari.</Page>
+    </Text>
+</QuestDialog>

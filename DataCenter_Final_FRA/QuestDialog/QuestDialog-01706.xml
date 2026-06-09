@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0">Après avoir mis un terme au bain de sang de l'Autel du Corbeau, vous avez rejoint Amena Quatla dans le but d'en finir avec Thulsa. Là-bas, vous avez tué les prêtres sikandaris et leurs renforts argons, laissant le temps à Isrenia d'aller retrouver Sikander.&lt;BR&gt;&lt;BR&gt;C'est alors que Thulsa et Killian sont apparus, et avec eux Sikander sous la forme de Kelsaik.&lt;BR&gt;&lt;BR&gt;Kaia vous a pourtant assuré que tout espoir n'était pas perdu&amp;nbsp;: Thulsa n'arrivait pas à contrôler Kelsaik. Elle vous a donc demandé d'aller chercher un artefact ancien qui permettrait de détruire Kelsaik avant qu'il ne tombe sous l'emprise de Thulsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0">Les sikandaris vivent près du temple de Sikander à Amena Quatla. D'après les avant-gardes, Sikander dort dans un énorme œuf doré. Trouvez Sonacria au Camp du Pont brisé, elle saura quoi faire. Que Kaia veille sur vous!&amp;nbsp;</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4">&lt;PCNAME&gt;?&amp;nbsp; On m'avait dit que vous étiez...&lt;BR&gt;&lt;BR&gt;Attendez, quoi?&amp;nbsp; Les sikandaris veulent réveiller Sikander?&amp;nbsp; Maintenant?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Bon sang de bonsoir, mais tout s'éclaire!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Un défilé d'anciens et de domestiques est entré dans le temple de Sikander ce matin. Il dort dans un œuf géant au sud d'ici, mais je parierais mon poids en vin que le rituel se déroule au temple!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Filez!&amp;nbsp; Espérons que votre force suffira...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="474" prevId="3" villagerId="1007">
+        <Page social="4">Excellent travail, &lt;PCNAME&gt;. Sikander se calme doucement, il devrait guérir tout seul, maintenant... si on le laisse tranquille.&lt;BR&gt;&lt;BR&gt;Isrenia, vous êtes là aussi!&amp;nbsp; Vous savez ce que vous avez à faire, ne vous... Ce qu'Isren voudrait?&amp;nbsp; Et le prix de tout ça?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, arrêtez ce rituel, ou nous sommes tous finis!&amp;nbsp; Même moi. Je ne trouve pas de jolie formule pour vous exprimer ma bénédiction, mais sachez que vous avez toute ma confiance.&lt;BR&gt;&lt;BR&gt;Allez-y!&amp;nbsp; Battez-vous, et gagnez!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="474" prevId="4" villagerId="1008">
+        <Page social="4">C'est l'heure, à moi de jouer.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;... merci. J'ai aimé parcourir le monde mortel à vos côtés pendant quelque temps.&lt;BR&gt;&lt;BR&gt;Mais Sikander a besoin de moi, maintenant... besoin de tout ce que j'ai.&lt;BR&gt;&lt;BR&gt;Sikander!&amp;nbsp; Souviens-toi d'Isren!&amp;nbsp; Souviens-toi de son... de notre... amour pour toi!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ne fais pas ça!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="5" villagerId="1088">
+        <Page social="4">Vous êtes tout pale, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Rentrez!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="6" villagerId="5009">
+        <Page social="4">Maudit Thulsa!&amp;nbsp; Comment quelqu'un d'aussi intelligent peut être à la fois aussi stupide?&amp;nbsp;&lt;BR&gt;&lt;BR&gt; Soyez fier de vous, mortel. Bien que Thulsa ait libéré Kelsaik et malgré vos efforts, il a perdu le contrôle de celui-ci. Kelsaik est une bête folle et non une arme obéissante.&lt;BR&gt;&lt;BR&gt;c'est une véritable tragédie. La bête est incroyablement dangereuse mais nous pouvons les vaincre séparément. Ensemble, ils sont invulnérables.&lt;BR&gt;&lt;BR&gt;Tous vos efforts, les vies de Kanmur et Isrenia?&amp;nbsp; Un lourd prix à payer. Tous nos espoirs reposent sur vous. &lt;NEXTPAGEBUTTON&gt;" Pouvez-vous l'arrêter, Vierge au bouclier?&amp;nbsp; "&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Non.&lt;BR&gt;&lt;BR&gt;Sikander est un dieu de la génération de mes parents. Sa puissance dépasse tout ce que nous connaissons.&lt;BR&gt;&lt;BR&gt;Je ne vois qu'une relique qui puisse peut-être l'égaler&amp;nbsp;: il s'agit d'un des plus grands artefacts des premiers jours du monde. C'est Saleron, le père de Killian et Icaruna, qui le détient.&lt;BR&gt;&lt;BR&gt;Mais Killian et Thulsa vont aussi vouloir s'en emparer.&lt;NEXTPAGEBUTTON&gt;"Où est Saleron?&amp;nbsp; Comment m'y rendre?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Saleron se trouve dans une grande caverne à Val Elenium. Il ne se laissera pas facilement faire par Thulsa et Killian mais il vous faut quand même vous dépêcher.&lt;BR&gt;Informez Tamur puis demandez l'aide de Fraya.&lt;BR&gt;Kelsaik est une force enragée des plus destructrices. Seule l'influence d'Isrenia l'empêchera de se soumettre à Thulsa. Kelsaik pourrait bien détruire le monde. Dans les mains de Thulsa, c'est exactement ce qu'il fera. &lt;BR&gt;Vous autres mortels êtes courageux. Montrez-le. Thulsa vous craindra. Combattez avec bravoure, mon ami. Rapportez-nous cette arme dont nous avons tant besoin.</Page>
+    </Text>
+</QuestDialog>

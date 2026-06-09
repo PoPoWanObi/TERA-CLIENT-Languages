@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">Я бы хотела собрать угощение для строителей, чтобы отблагодарить их за тяжелый труд, но у нас остались одни сухие пайки да галеты.&lt;BR&gt;&lt;BR&gt;Я знаю, что Халвин осматривает обломки кораблекрушения. Может быть, ей удалось найти там что-нибудь получше?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">Как ни странно, да!&lt;BR&gt;&lt;BR&gt;Ну, как удалось... мы обнаружили на корабле груз отличного вина. Но прежде чем мы успели его вытащить, нас окружили ходячие мертвецы.&lt;BR&gt;&lt;BR&gt;Послушай, я не из трусливых, но не желаю связываться с Утонувшими гулами из-за вина... и неважно, насколько оно вкусное и выдержанное... и год хороший...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ты же достанешь вино, правда? Конечно, для Дифед и ее добровольцев.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1036">
+        <Page social="4">(Бочка и винные бутылки пусты. На табличке написано: "Одна бутылка на офицера". Возможно, у утонувших гулов-офицеров есть с собой полные бутылки.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1010">
+        <Page social="4">Просто чудесно... то есть, я хочу сказать, отнесу это Дифед и ее добровольцам. Их здорово обрадует такой сюрприз.&lt;BR&gt;&lt;BR&gt;Вот, возьми это за труды.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1010">
+        <Page social="0">Не беспокойся. Я уверена, ты сможешь расправиться с гулами и добыть вино.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="5">Хороший торговец знает, как получить выгоду. Я купил отличную кожу у путешественника, который недавно проходил через наши края.&lt;BR&gt;&lt;BR&gt;Сделал из нее отличные перчатки - дровосекам они понравились.&lt;NEXTPAGEBUTTON&gt;"Хорошие".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Да. Я хотел достать еще немного такой кожи, чтобы сделать больше перчаток, но не смог убить этого зверя с такой шкурой.&lt;BR&gt;&lt;BR&gt;Если ты сможешь войти в пещеру и раздобыть мне кожу, я очень хорошо тебе заплачу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5">Ого, сколько кожи! Спасибо тебе! Это как раз то, что мне нужно.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">Мне действительно нужна эта кожа. Пожалуйста, помоги мне.</Page>
+    </Text>
+</QuestDialog>

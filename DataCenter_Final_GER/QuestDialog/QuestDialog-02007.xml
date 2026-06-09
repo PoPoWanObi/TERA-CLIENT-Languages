@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="151" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Eine Botschaft weist Euch an, Euch zur Insel der Dämmerung zu begeben, um den Nokteniumforschungen des Mysteriums nachzugehen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Befehl der Föderation]&lt;BR&gt;&lt;BR&gt;Forscher des Mysteriums wurden zur Insel der Dämmerung gesandt, um eine neuartige Substanz namens Noktenium zu untersuchen. Diese Substanz wird die Rettung der Föderation sein.&lt;BR&gt;&lt;BR&gt;Erstellt einen Bericht zu Noktenium und ihren Forschungen. Beginnt mit Adria auf der Insel der Dämmerung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1001">
+        <Page social="4">Ich werde keine große Hilfe sein. Der Zerfall der Infrastruktur der Föderation nimmt all meine Kräfte in Anspruch, um die Dinge hier auf der Insel am Laufen zu halten.&lt;BR&gt;&lt;BR&gt;Aber keine Sorge, {@linkcreature:213#1150#Todoro} wird Euch alles über Noktenium erzählen und Euch ihre kleine, geheime Forschungsstätte zeigen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Нет крови? Кровь куда-то делась? Вся?&lt;BR&gt;&lt;BR&gt;Так, надо отправить туда солдат. Встреться с ними на Изломанной равнине. И доложи обо всем {@LinkCreature:216#1012#Лудину}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">Тебя Пака прислал? Хорошо. Очень хорошо. Видишь, сколько их там? Они убивают всех, кто подойдет близко. И из-за них мы не можем подобраться к деревне.&lt;BR&gt;&lt;BR&gt;Ты поможешь нам?</Page>
+    </Text>
+</QuestDialog>

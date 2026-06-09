@@ -1,0 +1,11 @@
+<DynamicGeoData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DynamicGeoData DynamicGeoData.xsd" xmlns="https://vezel.dev/novadrop/dc/DynamicGeoData">
+    <DoorList>
+        <Door id="1100" animSet="NPC_MIX_CIC_ElevDoor_ANI.Anim.NPC_MIX_CIC_ElevDoor_Anim" mesh="NPC_MIX_CIC_ElevDoor.Skel.NPC_MIX_CIC_ElevDoor_Skel" pos="91253,61595,1190" animTree="S1Prototype.SimpleAnimTree" dir="0" phat="NPC_MIX_CIC_ElevDoor.Physics.NPC_MIX_CIC_ElevDoor_Skel_Physics" />
+        <Door id="1101" animSet="NPC_MIX_CIC_ElevDoor_ANI.Anim.NPC_MIX_CIC_ElevDoor_Anim" mesh="NPC_MIX_CIC_ElevDoor.Skel.NPC_MIX_CIC_ElevDoor_Skel" pos="91253,61595,-120" animTree="S1Prototype.SimpleAnimTree" dir="0" phat="NPC_MIX_CIC_ElevDoor.Physics.NPC_MIX_CIC_ElevDoor_Skel_Physics" />
+        <Door id="1102" animSet="NPC_MIX_CIC_ElevDoor_ANI.Anim.NPC_MIX_CIC_ElevDoor_Anim" mesh="NPC_MIX_CIC_ElevDoor.Skel.NPC_MIX_CIC_ElevDoor_Skel" pos="91253,61595,-1964" animTree="S1Prototype.SimpleAnimTree" dir="0" phat="NPC_MIX_CIC_ElevDoor.Physics.NPC_MIX_CIC_ElevDoor_Skel_Physics" />
+        <Door id="1103" animSet="NPC_MIX_CIC_ElevDoor_ANI.Anim.NPC_MIX_CIC_ElevDoor_Anim" mesh="NPC_MIX_CIC_ElevDoor.Skel.NPC_MIX_CIC_ElevDoor_Skel" pos="91253,61595,-3718" animTree="S1Prototype.SimpleAnimTree" dir="0" phat="NPC_MIX_CIC_ElevDoor.Physics.NPC_MIX_CIC_ElevDoor_Skel_Physics" />
+    </DoorList>
+    <ShuttleList>
+        <Shuttle id="2" mesh="MIX_CIC_DynamicObj.SM.MIX_CIC_Elev_SM" sound="ObjectSound_01.Object_Cue.Shuttle_Stone_LoopingCue" />
+    </ShuttleList>
+</DynamicGeoData>

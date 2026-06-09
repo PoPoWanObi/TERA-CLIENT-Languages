@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0">Wir sind knapp an allem: Vorräte, Soldaten und Geduld ...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1003$$Kardelen} koordiniert unsere Vorräte mit Tulufan.&lt;BR&gt;&lt;BR&gt;Könntet Ihr ihn davon überzeugen, sich ein wenig zu beeilen, ja?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="0">Anaka ist zwar eine Querulantin, aber sie hat recht.&lt;BR&gt;&lt;BR&gt;Bis zu unserer nächsten Karawane dauert es noch ein Weilchen, aber sie brauchen sie nötiger als wir.&lt;BR&gt;&lt;BR&gt;Beschafft zusätzliche Ausrüstung von den anderen hier im Lager von Marakeen. Sagt ihnen, ich hätte es befohlen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1001">
+        <Page social="0">Sietch Bidaum ist wichtig, und fasten kann den Intellekt schärfen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1004$$Tirian} hat auch noch ein paar Kräuter im Gepäck.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" prevId="4" villagerId="1004">
+        <Page social="0">Gut.&lt;BR&gt;&lt;BR&gt;Aber wenn meine Migräne zurückkommt, schicke ich Euch, um sie zurückzuholen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="5" villagerId="1002">
+        <Page social="0">Hmm. Skorpionblut für Wunden. Eidechsenschwänze - sehr lecker! Kugelkaktus für Wasser und Essen.&lt;BR&gt;&lt;BR&gt;Nehmt! Nehmt! Ihr und ich ein Stamm.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1028">
+        <Page social="0">Ich verstehe. Hier ist das ganze Speiseöl und das Getreide, das ich entbehren kann.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1003$$Kardelen} sollte unseren Quartiermeister zurück nach Velika jagen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1005">
+        <Page social="0">Das sind jede Menge Sachen! Dann ist die Versorgungskarawane angekommen, oder?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" villagerId="1005">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

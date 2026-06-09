@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Племя Черного Когтя - одна из самых враждебных группировок орканов. Они даже на Фронтеру время от времени нападают. Так не может и дальше продолжаться.&lt;BR&gt;&lt;BR&gt;Отправляйся на охоту. Твоя цель - {@LinkCreature:41#2004#Бойцы Черного Когтя} и {@LinkCreature:41#2005#Налетчики Черного Когтя}. А оружие их принеси {@LinkCreature:241#1003#Джаэбелю}. Он развесит его вокруг лагеря для устрашения.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">Отлично сработано! Они теперь дважды подумают, прежде чем нападать на нас.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1003">
+        <Page social="0">Ты найдешь племя Черного Когтя в северной части Свирепой долины. Принеси мне их оружие, чтобы мне было чем бряцать для устрашения.</Page>
+    </Text>
+</QuestDialog>

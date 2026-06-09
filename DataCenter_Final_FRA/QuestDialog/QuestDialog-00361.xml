@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="4">Ordres de mission&lt;BR&gt;&lt;BR&gt;Débarrassez-nous de la faune hostile de la Jungle Adderkin de manière à faciliter nos déplacements de troupes.&lt;BR&gt;&lt;BR&gt;Vos cibles prioritaires sont les {@LinkCreature:10#11#pourfendeurs nagas}, les {@LinkCreature:10#12#serfs caïmans}, les {@LinkCreature:10#5#ghilliedhus écorce-épaisse}, les {@LinkCreature:10#6#mycanars agités} et les {@LinkCreature:10#21#dents-de-sabre ébènes}. Une fois la mission accomplie, allez présenter votre rapport à Libine, au Poste de Guet côtier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">La Jungle Adderkin est un territoire des plus intéressants, et maintenant, c'est le nôtre, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">Combattre au beau milieu d'une jungle n'est pas une partie de plaisir, &lt;PCNAME&gt;. J'espère que vous connaissez votre affaire.</Page>
+    </Text>
+</QuestDialog>

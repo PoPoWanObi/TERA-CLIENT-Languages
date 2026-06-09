@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Маон все еще способен договориться со сказочным народом.&lt;BR&gt;&lt;BR&gt;Поговори с ним, может, у него есть мысли, как восстановить мир.&lt;BR&gt;&lt;BR&gt;Хочу дать совет - попробуй сначала подружиться с его сыном. Малыш любит игры. Сумеешь наладить с ним отношения - его папаша примет тебя более снисходительно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">Привет! Не поиграешь со мной?&lt;BR&gt;&lt;BR&gt;Или ты к папе, по делу? Если пообещаешь, что вернешься, я скажу папе, что ты мой друг и тебе можно доверять.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Меньше всего мне здесь нужен еще какой-то &lt;PCCLASS:lcase&gt;, у которого на уме лишь кровопролитие.&lt;BR&gt;&lt;BR&gt;Но сын считает, что ты отличаешься от остальных. Если так, и ты вправду ищешь мира, придется убедить и меня, что ты не очередной головорез в поисках приключений.</Page>
+    </Text>
+</QuestDialog>

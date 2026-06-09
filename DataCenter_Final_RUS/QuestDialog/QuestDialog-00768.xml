@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="5">Из-за всех этих нападений, совершаемых кулкари, половина исследователей готова все бросить. Убей {@LinkCreature:26#1001#Шаманов-лесных странников} и {@LinkCreature:26#1002#Колотильщиков-лесных странников}, чтобы обеспечить безопасность исследователей.&lt;BR&gt;&lt;BR&gt;Доложи Нилин, когда задание будет выполнено, и получишь награду от Федерации.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1002">
+        <Page social="5">Их смерть печалит меня, но в этом некого винить, кроме них самих.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1002">
+        <Page social="0">Пока {@LinkCreature:26#1001#Шаманы-лесные странники} и {@LinkCreature:26#1002#Колотильщики-лесные странники} угрожают равновесию, тебе разрешено убивать их за награду.</Page>
+    </Text>
+</QuestDialog>

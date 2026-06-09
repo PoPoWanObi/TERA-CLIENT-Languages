@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">У меня есть вопрос, &lt;PCNAME&gt;. Как ты думаешь, что больнее: когда тебе выпускают кишки, или когда отрубают по одному все пальцы на левой руке? Конечно, от первого варианта скорее всего помрешь, но именно поэтому я думаю, что это будет не так больно.&lt;BR&gt;&lt;BR&gt;Почему левая рука? Я думала, это очевидно. Он же левша!&lt;BR&gt;&lt;BR&gt;Спросишь {@LinkCreature:63#3003#Элтиэнн}, что она думает по этому поводу?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Что-что она спросила? Эта девчонка меня в могилу сведет. Хотя, похоже, сейчас мне не о ней нужно волноваться. Наверное, ее дружок на этот раз сделал кое-что на самом деле плохое.&lt;BR&gt;&lt;BR&gt;А теперь перейдем к делу. Нам нужен кто-то, кто отправится на охоту на утес Василисков. Интересует?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Ты снова здесь! Я как раз хотела тебе рассказать - я выбрала третий вариант. Терронская пытка щекоткой.&lt;BR&gt;&lt;BR&gt;Я знала, что ты оценишь.&lt;BR&gt;&lt;BR&gt;Спасибо за помощь. Ступай к {@LinkCreature:63#3003#Элтиэнн} за оплатой.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Мы собираемся изготовить кое-какое самодельное оружие. Для этого нам понадобится чешуя {@LinkCreature:21#1#Агрессивных темных василисков}. Она особенно прочная и острая.&lt;BR&gt;&lt;BR&gt;Отправляйся на Утес Василисков и добудь для нас чешую.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ну как, получилось позагорать? На Утесе Василисков так жарко и сухо... Не люблю это место.&lt;BR&gt;&lt;BR&gt;Скажи {@LinkCreature:63#3003#Элтиэнн}, что товар доставлен.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Мы собираемся изготовить кое-какое самодельное оружие. Для этого нам понадобится чешуя {@LinkCreature:21#2#Темных василисков}. Она прочная и острая.&lt;BR&gt;&lt;BR&gt;Отправляйся на Утес Василисков и добудь для нас чешую.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">У меня с ним все кончено!&lt;BR&gt;&lt;BR&gt;С кем? С ним, конечно! Не хочу даже имя его произносить, такой он урод!&lt;BR&gt;&lt;BR&gt;О, у тебя чешуя. Отлично!&lt;BR&gt;&lt;BR&gt;Поговори с {@LinkCreature:63#3003#Элтиэнн}. И не слушай ее, когда она будет говорить, что скора я сама буду за ним бегать. Она ничего не знает о любви!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Мы собираемся изготовить кое-какое самодельное оружие. Для этого нам понадобятся когти {@LinkCreature:21#3#Агрессивных орисков}. Они в несколько дюймов длиной и острые как бритвы.&lt;BR&gt;&lt;BR&gt;Отправляйся на Утес Василисков, но будь осторожнее! Не повреди когти.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Что? О, привет, &lt;PCNAME&gt;! Нет, я не плакала. Я... я в порядке.&lt;BR&gt;&lt;BR&gt;У {@LinkCreature:63#3003#Элтиэнн} твоя... ну, ты знаешь. Просто уходи.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Мы собираемся изготовить кое-какое самодельное оружие, так что нам нужны когти {@LinkCreature:21#4#Окаянных орисков}. Они прочные, длинные и острые. Эти когти как нельзя лучше подходят для изготовления оружия.&lt;BR&gt;&lt;BR&gt;Отправляйся на Утес Василисков... и целься повыше. Не повреди ценные когти!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">О, чудесно! Мы немедля приступим к работе над оружием. Просто удивительно, через что нам приходится проходить. У нас нет денег на такое дорогое оружие, как у тебя. Наше постоянно ломается и быстро приходит в негодность.&lt;BR&gt;&lt;BR&gt;Наверное, это значит, что мы все делаем правильно! Или что-то вроде того...</Page>
+    </Text>
+</QuestDialog>

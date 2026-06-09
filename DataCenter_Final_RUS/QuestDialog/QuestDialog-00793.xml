@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1008">
+        <Page social="5">Вонь Гибельного леса успела войти в легенды. Мы сражаемся с ней при помощи &lt;font color='#660000'&gt;душистого шиповника&lt;/font&gt;. Его запах перебивает вонь и позволяет дышать без приступов тошноты.&lt;BR&gt;&lt;BR&gt;Мне бы не помешало возобновить запасы. Шиповник найти несложно, но у меня полно дел. Я тебя щедро награжу, если ты принесешь мне цветы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1008">
+        <Page social="5">Хо-хо! Отлично. Этого мне надолго хватит. Можно даже будет часть продать и выручить несколько звонких монет!&lt;BR&gt;&lt;BR&gt;Пожалуйста, прими это в знак моей благодарности. Мы с моим носом перед тобой в долгу.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1008">
+        <Page social="0">Тебе удалось найти душистый шиповник? От этой вони мне становится нехорошо.</Page>
+    </Text>
+</QuestDialog>

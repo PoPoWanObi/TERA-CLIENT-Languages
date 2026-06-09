@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="4">Гулы - каннибалы, а лучшие повара становятся их вождями. Но это не значит, что они разборчивы в еде. &lt;BR&gt;&lt;BR&gt;Они поедают &lt;font color='#660000'&gt;останки&lt;/font&gt; наших павших собратьев, хороших солдат, отдавших свою жизнь на благо Федерации.&lt;BR&gt;&lt;BR&gt;Какой-то кошмар. Верни тела, чтобы мы смогли похоронить их достойно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Мечи Кайи проводят особую церемонию, чтобы почтить память павших. Но церемония не может состояться, пока у нас нет самих тел.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Удалось найти тела павших?</Page>
+    </Text>
+</QuestDialog>

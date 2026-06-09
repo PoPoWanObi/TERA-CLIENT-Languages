@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">Один торговец из Фронтеры, тип по имени Сафна, наплевал на карантин и сбежал через северные ворота.&lt;BR&gt;&lt;BR&gt;Поговори с {@LinkCreature:75#1012#Джунитом}. Он может знать, куда Сафна отправился.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1012">
+        <Page social="4">Сафна? Не трави душу. Я ему толковал, что у нас карантин, да куда там! Стукнул меня по голове и дал деру. Я пустился было за ним, но его и след простыл. Вроде бы он держал путь в Свирепую долину.&lt;BR&gt;&lt;BR&gt;Можешь поискать его, но скорей всего, найдешь одни кости.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1102">
+        <Page social="12">Я не вернусь. Джеулиль согласилась собрать для меня редкие грибы, но, когда ее посланец принес их, я сразу увидел, что это были совсем не те грибы. Ядовитые они были!&lt;BR&gt;&lt;BR&gt;Я ему так и сказал, а он мне в ответ, что выполняет ее приказ.&lt;BR&gt;&lt;BR&gt;Вот я и иду прямиком в Свирепую долину вправить ей мозги и подать жалобу!&lt;BR&gt;&lt;BR&gt;Конечно, тут опасно...&lt;NEXTPAGEBUTTON&gt;"Давай, я передам ей это".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Серьезно? Ну, раз ты настаиваешь... Тебе, вроде, можно доверять.&lt;BR&gt;&lt;BR&gt;Передай ей - что бы там ни было - чума, пантеры или еще что, она пожалеет, если еще раз меня надует!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1005">
+        <Page social="4">Ядовитые грибы? Боюсь, что кто-то допустил чудовищную ошибку. Мне жаль, что тебя втянули во все это.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="4">&lt;PCNAME&gt;! Мне нужна твоя помощь. Срочно!&lt;NEXTPAGEBUTTON&gt;"Что случилось?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Аргоны напали на транспорт Шариара где-то между Аргонским бастионом и Долиной побоищ.&lt;BR&gt;&lt;BR&gt;В приказе сказано, что твоя задача - найти транспорт и оказать помощь всем выжившим. Особенно... э-э, в общем, главное, не опоздай.&lt;NEXTPAGEBUTTON&gt;"Все, бегу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">Не ожидала, что помощь подоспеет так быстро. Полагаю, я должна благодарить за это Труна.&lt;NEXTPAGEBUTTON&gt;"Жертвы есть?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">От аварии - нет, но последовавшая за ней битва обошлась нам недешево.&lt;BR&gt;&lt;BR&gt;Мы заняли оборонительную позицию, и я направила наших разведчиков к первоначальной цели, но помощь нам бы не помешала, если ты не против.</Page>
+    </Text>
+</QuestDialog>

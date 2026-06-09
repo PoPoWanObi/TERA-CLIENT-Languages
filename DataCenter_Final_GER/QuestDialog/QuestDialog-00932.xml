@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">&lt;PCNAME&gt;! Kann ich Euch um einen Gefallen bitten? Ich brauche jemanden, der hart im Nehmen und schnell ist.&lt;NEXTPAGEBUTTON&gt;"Warum? Was ist los?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ich brauche Berichte von unseren Feldmannschaften.&lt;BR&gt;&lt;BR&gt;Keine ist wirklich weit entfernt, aber immer wenn sie Läufer zu mir schicken, kommen sie halb tot und nach Faultier stinkend hier an. Nein, wirklich.&lt;BR&gt;&lt;BR&gt;Könnt Ihr allen Mannschaften einen Besuch abstatten, während Ihr Eure anderen Aufgaben erledigt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1085">
+        <Page social="1">Jeder, der diese Strecke entlang läuft, ist entweder tapfer oder töricht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1086">
+        <Page social="1">Ich wollte diesen Bericht selbst abliefern, aber jetzt bin ich total dankbar, dass ich das nicht tun muss.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1087">
+        <Page social="1">{@LinkCreature:230#1005$$Naisas} treibt uns noch in den Wahnsinn.&lt;BR&gt;&lt;BR&gt;Ich glaube, er will weg vom Feld und wieder zurück in die Stadt. Mir persönlich gefällt es auf dem Feld!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1088">
+        <Page social="1">Vorsicht da am Rand! Hier ist mein Bericht. Sagt {@LinkCreature:230#1005$$Naisas}, die Türme sind beeindruckend!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1005">
+        <Page social="1">Hervorragende Arbeit und so schnell erledigt.&lt;BR&gt;&lt;BR&gt;Außerdem habt Ihr weniger Faultierbisse als die üblichen Boten.</Page>
+    </Text>
+</QuestDialog>

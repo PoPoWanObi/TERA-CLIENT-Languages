@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Знаешь, почему мы встретились, &lt;PCNAME&gt;? Тебе было суждено помочь мне, любимому ученику великого мага Ошара. Я способен на большее, чем создание лосьонов для волос!&lt;BR&gt;&lt;BR&gt;Сейчас я ищу способ защитить солдат - или исследователей жутких тайн - от ударов током.&lt;BR&gt;&lt;BR&gt;Ты поможешь мне сделать защиту от электричества?&lt;NEXTPAGEBUTTON&gt;"Что тебе нужно?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Мы воспользуемся сильными сторонами друг друга. У меня - гениальный разум и несгибаемая воля. У тебя... говорят, хорошо получается убивать всякое.&lt;BR&gt;&lt;BR&gt;Мне нужна шерсть ленивцев, беснующихся в этом так называемом саду. Нет, серьезно... ленивцев.&lt;BR&gt;&lt;BR&gt;Согласно моей теории мокрая шерсть напрямую связана со статическим электричеством. Симпатическая магия. Тебе не понять.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">У тебя настоящий талант к насилию, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Наконец-то я смогу закончить свой шедевр - мягкое одеяло!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">Мне нужно больше шерсти ленивцев, чтобы соткать мягкое одеяло!&lt;BR&gt;&lt;BR&gt;...то есть, чтобы завершить свой эксперимент! Именно так!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">Taera, eine Musterschülerin der Hexen von Vadoma, wurde verzaubert und hat überall Chaos angerichtet. Ihr habt Taera auf Geheiß der überlebenden Hexen von Vadoma besiegt und ihr Tagebuch an Euch genommen, um herauszufinden, was über sie gekommen ist. Rektorin Serenas vergänglicher Wächter, die Hauptverteidigungsanlage der Akademie, war verschwunden. Ihr habt den Hexen geholfen, ihn wiederzufinden und zu aktivieren.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="4">Ich gebe es nur ungern zu, aber das alles hat mit einer Schülerin angefangen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#33#Taera} ist eine Hexe mit unglaublichen Kräften. Doch in letzter Zeit ist sie sogar noch stärker geworden, sodass sie Zauber wirkt, zu denen sie eigentlich gar nicht in der Lage sein dürfte.&lt;BR&gt;&lt;BR&gt;Jetzt benutzt sie Chaosmagie, um Puppen zum Leben zu erwecken und andere zu verzaubern!&lt;NEXTPAGEBUTTON&gt;"Wie kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Zuerst müssen wir herausfinden, warum das geschieht. Taera hat immer Tagebuch geführt, also hat sie sicher alles genau niedergeschrieben.&lt;BR&gt;&lt;BR&gt;Ihr müsstet {@LinkCreature:22#33#Taera} in Serenas Park finden können, das war immer ihr Lieblingsplatz.&lt;BR&gt;&lt;BR&gt;Beschafft ihr Tagebuch, egal wie. Es könnte Licht auf den Wahnsinn werfen, der die Akademie langsam aber sicher überrollt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="4">Ihr habt Taera also gefunden und ihr Tagebuch an Euch genommen? Wie furchtbar!&lt;BR&gt;&lt;BR&gt;Das Tagebuch meine ich, nicht das Kämpfen und Blutvergießen.&lt;BR&gt;&lt;BR&gt;Hier steht, sie hört Stimmen im Geiste, die ihr befehlen, in den Katakomben die Barriere - den vergänglichen Wächter - im Altar von Vadoma zu durchbrechen. Geht hinunter zum Professorenwall und sucht Tarin!&lt;BR&gt;&lt;BR&gt;Je schneller, desto besser.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">Ich werde mir dieses Tagebuch genauer ansehen. Ihr müsst Tarin finden!&lt;BR&gt;&lt;BR&gt;Geht weiter nach unten!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="222" prevId="3" villagerId="1026">
+        <Page social="4">Der Altar von Vadoma ist durch Serenas vergänglichen Wächter abgesperrt.&lt;BR&gt;&lt;BR&gt;Oh, Ihr solltet sichergehen, dass er noch funktioniert. Schnell! Geht zum &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-18749.8203,21616.3945,540.0363&amp;type=1&amp;name=Altar"&gt;Altar&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Oh, aber zuerst müsst Ihr in die Mitte der Katakomben der Hexenkönigin vordringen. Oh, aber davor gibt es noch ein Labyrinth ...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:222#1009#Cordella}! Cordella kann helfen, sofern Ihr sie findet.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1009">
+        <Page social="4">Ihr kommt zu spät. Die Dämonen haben den vergänglichen Wächter durchbrochen und versteckt. Hallie befindet sich im Inneren - und wenn sie nicht sterben soll, müsst Ihr reingehen und ihr helfen.&lt;BR&gt;&lt;BR&gt;Geht zum Altar von Vadoma, und benutzt das {@LinkCreature:222#1031#Teleportal}, um ihr beizustehen. Bringt sie in Sicherheit und versucht, das Siegel des Wächters wieder instandzusetzen. Ihr habt nicht viel Zeit.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="491" prevId="6" villagerId="99">
+        <Page social="4">Schnell! Ich muss den vergänglichen Wächter wieder aktivieren! Die Dämonen werden alles tun, um mich abzuhalten, darum müsst Ihr sie aufhalten.&lt;BR&gt;&lt;BR&gt;Habt Ihr verstanden, was Ihr tun müsst? Dann los!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="491" prevId="7" villagerId="99">
+        <Page social="5">Ich habe getan, was ich konnte. Sie ist repariert, aber noch nicht wieder aktiviert.&lt;BR&gt;&lt;BR&gt;Mir fehlt die Kraft dafür, also müsst Ihr das erledigen. Keine Sorge! Es wird etwas Wunderbares geschehen!&lt;BR&gt;&lt;BR&gt;Wenn Ihr die Vorrichtung wieder aktiviert habt, kehrt zu {@LinkCreature:68#1014#Beryn} zurück und berichtet ihr, was vorgefallen ist.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="68" prevId="8" villagerId="1014">
+        <Page social="4">Gut, dass Ihr den vergänglichen Wächter wieder aktivieren konntet, &lt;PCNAME&gt;. Die Sicherheit und das Überleben der Hexen hängen vor allem von der Magie ab.&lt;BR&gt;&lt;BR&gt;Ihr habt Euch den Dank des Reiches und der Akademie verdient. Vielen Dank!</Page>
+    </Text>
+</QuestDialog>

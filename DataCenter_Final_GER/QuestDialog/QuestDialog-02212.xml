@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3509#Jehnsprin} im {@Rgn:45008$$Feldlager der Tapferkeit} braucht etwas Unterstützung beim Kämpfen. Unsere Untersuchungen bringen uns in Gefahr, das ist uns bewusst. Aber trotzdem möchte ich die Gefahren so minimal wie möglich halten.&lt;BR&gt;&lt;BR&gt;Geht da raus und unterstützt ihn.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Ich bin Wissenschaftler{@g:/in}, kein Soldat{@g:/in}. Ich bin nicht hier, um gegen die Argonen zu kämpfen, darum brauche ich Eure Hilfe. Die meiste Zeit müsstet Ihr das Töten für mich übernehmen, aber ab und zu muss auch mal etwas in die Luft gejagt werden.&lt;BR&gt;&lt;BR&gt;Ein Heidenspaß!&lt;BR&gt;&lt;BR&gt;Was sagt Ihr dazu?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Ihr haltet Euch immer noch senkrecht, was?&lt;BR&gt;&lt;BR&gt;Es ist toll mit Soldaten wie Euch zusammenzuarbeiten. Macht das Leben um so vieles einfacher!</Page>
+    </Text>
+</QuestDialog>

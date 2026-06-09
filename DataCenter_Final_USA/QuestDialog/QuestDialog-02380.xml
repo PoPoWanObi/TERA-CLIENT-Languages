@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="901" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You're doing great, &lt;PCNAME&gt;. Word of your deeds is starting to spread.&lt;BR&gt;&lt;BR&gt;But let's see if we can't speed things up—literally.&lt;BR&gt;&lt;BR&gt;Head out to Corsairs' Stronghold, win a few battles, and come back here, and I'll make you faster than ever.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1256">
+        <Page social="0">Congratulations, &lt;PCNAME&gt;! Here you go: This should boost your speed, and get you into the history books faster than ever!</Page>
+    </Text>
+</QuestDialog>

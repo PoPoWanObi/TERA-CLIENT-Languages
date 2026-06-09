@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Als Ihr Euch um die Darmschlitzereskorten gekümmert habt, seid Ihr da einer Wache namens {@LinkCreature:206#1020#Dakona} begegnet? Sie bewacht den provisorischen Außenposten nördlich der Farm des Echos. Sie ist ganz alleine dort.&lt;BR&gt;&lt;BR&gt;Um ehrlich zu sein, mache ich mir Sorgen um sie. Es ist nicht leicht, als Einzelperson ein Gebiet zu bewachen.&lt;BR&gt;&lt;BR&gt;Könntet Ihr vielleicht nach ihr sehen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="13">Lethar schickt Euch, um nach mir zu sehen? Wirklich? Dieser Idiot.&lt;BR&gt;&lt;BR&gt;Er glaubt offenbar, man drückt seine Zuneigung zu jemandem aus, indem man sie für unfähig erklärt, ihre Aufgabe zu erfüllen. Also wirklich.</Page>
+    </Text>
+</QuestDialog>

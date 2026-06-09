@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="6">Тулса захватил этот регион из-за Рудников Кроскурн, где большие залежи мановой руды. Она используется для питания щитов Аллемантеи.&lt;BR&gt;&lt;BR&gt;Мы опасаемся, что Тулса готовит нападение такой силы, которое Федерация не сможет пережить.&lt;NEXTPAGEBUTTON&gt;"Как его остановить?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Тем, кто будет рад увидеть наше падение, скоро может представиться шанс... если мы потеряем надежду.&lt;BR&gt;&lt;BR&gt;Важнее всего сейчас вернуть мановую руду, собранную легионом... прежде чем ее получит Тулса.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1003">
+        <Page social="5">Поздравляю!&lt;BR&gt;&lt;BR&gt;Я уверена, что теперь Тулсе придется отложить свои планы.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1003">
+        <Page social="0">Прошу тебя, забери руду, прежде чем она станет топливом для ярости Тулсы.</Page>
+    </Text>
+</QuestDialog>

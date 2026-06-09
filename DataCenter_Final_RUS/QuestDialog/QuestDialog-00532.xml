@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">До нас дошла информация о месте, где скрывается главарь разбойников {@LinkCreature:18#103#Кударш}. Он немало крови пролил под Тулуфаном. Доносчик - один из кулкари, и, по его словам, Кударш прячется в Магс-Кучанару.&lt;BR&gt;&lt;BR&gt;Тебе же нечем вечером заняться?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Дело сделано? Прекрасно. Это должно заставить задуматься остальных.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">Не нужны деньги? А жизнь нужна?&lt;BR&gt;&lt;BR&gt;Нет, я не угрожаю. Но если Кударш останется главарем, разбойники будут повсюду. Поэтому поторопись.</Page>
+    </Text>
+</QuestDialog>

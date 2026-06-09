@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="4">Guckt nicht so vergnatzt!&lt;BR&gt;&lt;BR&gt;Jeder hier ist frustriert wegen dieses undankbaren, karriereschädlichen Arbeitsplatzes, meilenweit von der Argonenfront entfernt. Stimmt schon, aber es ist auch eine Gelegenheit!&lt;BR&gt;&lt;BR&gt;Das Geheimnis sind die Schwerfälligen Kamara. Ich kenne da einen Kerl in Castanica, der jemanden kennt, der ihre Außenhaut will. Keine Ahnung warum, aber er zahlt genug, damit ich nicht nachfrage. Vertraut mir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1008">
+        <Page social="4">&lt;PCNAME&gt;, das könnte der Beginn einer profitablen Freundschaft sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1008">
+        <Page social="0">Ihr seid doch nicht allergisch gegen Gold, oder doch? Dann zieht los und häutet ein paar {@LinkCreature:10#4#Schwerfällige Kamara}!</Page>
+    </Text>
+</QuestDialog>

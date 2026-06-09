@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="5">Эти проклятые смертоносные яйца постоянно пытаются сожрать меня!&lt;BR&gt;&lt;BR&gt;Мне нужно провести кое-какие измерения, а я не могу, потому что каждый раз на меня наваливается толпа {@LinkCreature:28#2041#Грязных оволитов}.&lt;BR&gt;&lt;BR&gt;Может быть, ты соберешь друзей и расправишься с ними?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1011">
+        <Page social="5">А ты не промах, &lt;PCNAME&gt;! Теперь я смогу закончить работу и вернуться на станцию.&lt;BR&gt;&lt;BR&gt;Спасибо.</Page>
+    </Text>
+</QuestDialog>

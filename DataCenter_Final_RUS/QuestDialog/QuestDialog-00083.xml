@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Вой мертвых солдат сводит меня с ума.&lt;BR&gt;&lt;BR&gt;Пару недель назад к нам забрел мистик попори - нес какую-то околесицу про то, как "извлечение сущности" вернет страждущие души в Мир Грез. Но важнее то, что это сможет их заткнуть!&lt;BR&gt;&lt;BR&gt;Мы с Криданом выполнили почти все пункты "извлечения", о котором толковал попори, но чего-то не хватает.&lt;NEXTPAGEBUTTON&gt;"Чего не хватает?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Нужна эссенция {@LinkCreature:4#1021#Жестокого грокнара}. Нам с Криданом такое не по зубам.&lt;BR&gt;&lt;BR&gt;Принеси эссенцию их пламени и мы наконец заставим замолчать этих воющих призраков.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Теперь мы сможем вернуть души наших собратьев в Мир Грез.&lt;BR&gt;&lt;BR&gt;И наконец-то заткнуть их к чертям, чтобы хоть один раз выспаться!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1110">
+        <Page social="0">Сделай это не для нас, &lt;PCNAME&gt;. Сделай это для несчастных, измученных душ, вопиющих из-за невозможности вернуться в Мир Грез.</Page>
+    </Text>
+</QuestDialog>

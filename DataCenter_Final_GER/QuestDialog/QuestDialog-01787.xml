@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Fragt erst gar nicht, wenn Ihr nicht irgendwo ein Stück Eldritchleder gehortet habt. Ich kann die Zylinder nicht ohne das Leder machen und Ihr könnt das Leder nirgendwo bekommen.&lt;NEXTPAGEBUTTON&gt;"Ich habe das Leder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Wow, Ihr habt schon welches?&lt;BR&gt;&lt;BR&gt;Nun denn! Welcher atemberaubende Hut steht Euch am besten?&lt;NEXTPAGEBUTTON&gt;"Lasst mich Eure Auswahl sehen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Wenn Ihr Eldritchleder benötigt, habt Ihr kein Glück. Glaubt mir, verkauft einfach Eure Bluthaut und Rohhaut auf dem Markt und mindert Eure Verluste.</Page>
+    </Text>
+</QuestDialog>

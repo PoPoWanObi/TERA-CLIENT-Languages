@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4">Горный саблезуб? Я его еще совсем котенком подобрал. Сейчас он ест побольше, чем раньше!&lt;BR&gt;&lt;BR&gt;Лопает, как гула... Ну, не совсем, но аппетит у него зверский. Угадай, что он ест.&lt;NEXTPAGEBUTTON&gt;"Мясо гулов?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Почти. Кайманов.&lt;BR&gt;&lt;BR&gt;Он больше всего любит хвосты {@LinkCreature:472#2#Лазурных кайманов-топотунов}. Но у меня такое ощущение, что кайманы научились избегать моих ловушек.&lt;BR&gt;&lt;BR&gt;Если отправишься в Золотой Лабиринт, то увидишь, что гулы держат кайманов в качестве домашних питомцев.&lt;BR&gt;&lt;BR&gt;Принеси мне их хвосты! Ты же не хочешь, чтобы у нас завелся голодный саблезуб, правильно?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6">Это порадует моего большого котеночка. Или, по крайней мере, утолит голод.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Слушай, если бы я мог попасть в Золотой Лабиринт и выбраться из него, я бы сам все сделал.</Page>
+    </Text>
+</QuestDialog>

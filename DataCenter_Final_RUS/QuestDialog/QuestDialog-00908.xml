@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="4">Нет ничего страшнее нападения {@LinkCreature:31#21#Нагов-богатырей}. Они словно стихия - мощная и разрушительная.&lt;BR&gt;&lt;BR&gt;Но почему-то мне кажется, что &lt;PCCLASS:lcase&gt; вроде тебя сможет обуздать эту стихию! Более того, я даже готов поспорить, что тебе по силам уничтожить целую их армию, и принести в доказательство жетоны их подразделения.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1026">
+        <Page social="4">Я и не сомневался в тебе! Отличная работа!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1026">
+        <Page social="0">Плевать, что думают другие. Я верю, что {@LinkCreature:31#21#Наги-богатыри} - слишком слабые враги для тебя!</Page>
+    </Text>
+</QuestDialog>

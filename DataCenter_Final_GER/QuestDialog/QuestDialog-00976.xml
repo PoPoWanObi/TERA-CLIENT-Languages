@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">Wir haben das ganze Essen hier für die Arbeiter zubereitet, aber sie sind alle zu beschäftigt, um zum Essen herzukommen! Sie können doch nicht mit leerem Magen arbeiten!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ich weiß, es ist nicht so aufregend wie das, was Ihr normalerweise so tut, aber könntet Ihr dieses Essen zu den Arbeitern bringen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1019">
+        <Page social="4">Hey, ich hatte langsam schon Hunger! Ihr müsst Gedanken lesen können ... Oder Ihr habt meinen Magen knurren gehört. Danke! Bettenis könnte auch etwas zu essen vertragen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1020">
+        <Page social="4">Was riecht denn hier so gut? Mmm ... Eine warme Mahlzeit, direkt an die Baustelle geliefert? Das ist ja toll! Danke schön!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1021">
+        <Page social="4">Oh, das sieht aber lecker aus! Wenn ich nur nicht so schlimme Magenschmerzen hätte.</Page>
+    </Text>
+</QuestDialog>

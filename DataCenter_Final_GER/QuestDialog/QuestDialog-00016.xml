@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="4">Mein Vater war ein Holzfäller mit einem Herz für die Natur. Immer nach dem Holzfällen pflanzte er mehr Setzlinge als er Bäume umgeschlagen hatte. Er sagte, wir müssten der Natur zurückgeben, was wir ihr genommen haben.&lt;BR&gt;&lt;BR&gt;Er betonte, dass es wichtig sei, die Feen, die der Natur und dem Wald ebenfalls große Bedeutung beimessen, zu verstehen und mit ihnen in Harmonie zu leben ... Das heißt ... zumindest bis ... zu dem Vorfall.&lt;NEXTPAGEBUTTON&gt;"Was denn? Bis zu welchem Vorfall?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mein Vater war gut mit den Feen befreundet, die am Waldrand leben. Am besten verstand er sich aber mit einem Zentauren namens {@LinkCreature:2#203#Likhan}.&lt;BR&gt;&lt;BR&gt;Als ich ihn über meinen Vater kennenlernte, dachte ich, Zentauren seien weise und großzügige Geschöpfe.&lt;BR&gt;&lt;BR&gt;Aber eines Tages verschwand mein Vater nach einem Treffen mit Likhan. Man fand ihn tot - übersät mit Lanzen- und Hufwunden. Es war schrecklich.&lt;NEXTPAGEBUTTON&gt;"Das tut mir leid."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1045">
+        <Page social="4">Ach, Vater ... eines Tages werden wir im Traum wieder vereint sein.&lt;BR&gt;&lt;BR&gt;Bitte ruht jetzt in Frieden. Habt Dank, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

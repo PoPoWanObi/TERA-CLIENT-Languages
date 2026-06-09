@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">Здесь столько рабочих...&lt;BR&gt;&lt;BR&gt;Я слышала что {@LinkCreature:40#27#Крестаратские наемники} носят похожие на черепа эмблемы. Сможешь их принести? Хочу сама на них посмотреть.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">Я опасалась этого. Они совпадают с гербами Легиона Тулсы. Плохие новости.&lt;BR&gt;&lt;BR&gt;Если не сказать - жуткие...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1002">
+        <Page social="0">Я все еще жду эмблемы с черепами, которые носят {@LinkCreature:40#27#наемники}. Удалось раздобыть хоть что-то?</Page>
+    </Text>
+</QuestDialog>

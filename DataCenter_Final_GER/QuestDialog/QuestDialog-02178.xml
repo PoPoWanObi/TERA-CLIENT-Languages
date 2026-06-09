@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5">Wir müssen die Plündererhorden aufhalten, die die Vampire vom Anwesen der Arglist ausschicken.&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:488#4#Verteidiger Loks}, die {@LinkCreature:488#7#Verwüster Loks}, die {@LinkCreature:488#12#Dunkelweber Loks} und die {@LinkCreature:488#14#Blutformer Loks} machen uns schon viel zu lange Ärger.&lt;BR&gt;&lt;BR&gt;Und warum machen diese Nachkommen Loks mit den Vampiren gemeinsame Sache?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4">Habt Ihr Euch um die Nachkommen Loks gekümmert? Wunderbar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Ich will diese Nachkommen Loks tot sehen, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

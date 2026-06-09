@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="4">Боевой дух окреп бы, если бы солдаты смогли поесть горячего, желательно с мясом.&lt;BR&gt;&lt;BR&gt;Не пойми меня неправильно, но боевой дух нам сейчас даже важнее острых мечей.&lt;BR&gt;&lt;BR&gt;Сможешь убить пару вепрей в Дрэгонфолле? Из них получается отменное рагу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">Это, конечно, не такой уж геройский подвиг для ветерана вроде тебя, однако дать людям надежду иногда оказывается важнее самой большой победы.&lt;BR&gt;&lt;BR&gt;Спасибо тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="80" villagerId="1020">
+        <Page social="0">Если люди в ближайшее время не увидят, что ситуация улучшается, боюсь, они оставят город. Наши враги получат крепость в непосредственной близости от Кайатора.</Page>
+    </Text>
+</QuestDialog>

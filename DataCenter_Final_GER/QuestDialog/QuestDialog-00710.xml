@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">Die Eldritchakademie ist so angelegt, dass sie sich selber beschützen kann. Wir bedienen uns dazu der Kreaturen der Umgebung als Wächter. Auf diese Weise haben sie eine Aufgabe, versteht Ihr? Außerdem behandeln wir sie gut.&lt;BR&gt;&lt;BR&gt;Die Vogelscheuchen auf dem Gelände sollen die Gärten eigentlich schützen, aber seit Kurzem sind sie dazu übergegangen, sie zu zerstören. Sogar uns greifen sie an - nach allem, was wir für sie getan haben!&lt;BR&gt;&lt;BR&gt;Wärt Ihr so freundlich, für mich herauszufinden, warum sie sich plötzlich wie Irre benehmen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1051">
+        <Page social="0">(Diese Vogelscheuche ist kaputt.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1052">
+        <Page social="0">(Diese Vogelscheuche ist ebenfalls kaputt.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1053">
+        <Page social="0">(Auch diese Vogelscheuche ist kaputt.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1005">
+        <Page social="0">Was, die Vogelscheuchen sind zerstört?&lt;BR&gt;Ach, was soll ich denn jetzt nur tun? &lt;BR&gt;Danke für Eure Hilfe, aber ich weiß gerade nicht mehr weiter ...</Page>
+    </Text>
+</QuestDialog>

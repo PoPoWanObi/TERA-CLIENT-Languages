@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Seid gegrüßt, &lt;PCNAME&gt;. Ich habe eine besondere Mission für jemanden mit Euren Talenten.&lt;BR&gt;&lt;BR&gt;Die Nebelmoorinsel direkt östlich von hier ... Es heißt, dort seien Piraten gelandet. Man weiß zwar noch nichts Genaues, aber Ihr wisst ja, was die großen Jungs so machen, wenn ihnen nichts einfällt: Sie schicken uns!&lt;BR&gt;&lt;BR&gt;Es ist bereits eine Truppe von Kaias Schwert ausgeschickt worden, um die Insel zu erkunden. Tut Euch mit ihr zusammen und kümmert Euch um die Korsaren.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1001">
+        <Page social="4">Wenn Ihr vom Halsabschneiderhafen kommt, dann gibt es dort wohl zu viele Soldaten. Da haben sie dort wohl Glück.&lt;BR&gt;&lt;BR&gt;Nun, wir schicken Euch ganz bestimmt nicht weg. &lt;PCCLASS&gt;, es ist gut, noch {@gender:einen/eine} wie Euch dabei zu haben.</Page>
+    </Text>
+</QuestDialog>

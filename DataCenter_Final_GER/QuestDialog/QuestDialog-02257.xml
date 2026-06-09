@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">Ich brauche Eure Hilfe.&lt;BR&gt;&lt;BR&gt;Ehrlich gesagt glaube ich nicht, dass es sonst jemand schaffen könnte.&lt;NEXTPAGEBUTTON&gt;"Warum? Was ist denn passiert?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Einer der Leuchttürme ist erloschen! Balders Glyphe verströmt Energie über die gesamte Zuflucht. In den Leuchttürmen wird ein Teil davon in ... wir wissen nicht genau, in was, umgewandelt. Sollten die Türme aber verlöschen, würden die Pflanzen und Tiere hier sterben und dieser Ort wäre weniger geschützt.&lt;BR&gt;&lt;BR&gt;Vielleicht weiß {@LinkCreature:230#3026#Lilis}, was los ist. Unterstützt sie, so gut Ihr könnt!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;? Großartig!&lt;BR&gt;&lt;BR&gt;Der {@WorkObject:95} dort drinnen muss irgendwie verklemmt sein.&lt;BR&gt;&lt;BR&gt;Benutzt das Teleportal im Inneren, um auf die Turmspitze zu gelangen, und startet den {@WorkObject:95} neu. Nehmt Euch vor den Golems in Acht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Schön. Ja, das Feld stabilisiert sich wieder.&lt;BR&gt;&lt;BR&gt;Das war ein hartes Stück Arbeit dort zwischen den Treppen und den Golems. Was für ein Glück, dass Ihr da wart, um uns zu helfen.</Page>
+    </Text>
+</QuestDialog>

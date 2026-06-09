@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1015">
+        <Page social="5">Кастра Мистериум нуждается в немедленном пополнении припасов. {@LinkCreature:227#1020#Ирикс} же и слушать меня не желает. Возможно, он послушает тебя.&lt;BR&gt;&lt;BR&gt;Передай ему, что нам нужны эти припасы!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1020">
+        <Page social="9">Что? Припасы?! Проклятие! Ничего нет, все закончилось! Воины Тулсы все забрали.&lt;BR&gt;&lt;BR&gt;Возможно, на ферме что-то и оставалось, но досталось это все {@LinkCreature:27#16#Калапане}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1020">
+        <Page social="7">Я смотрю, ты неплохо разбираешься в таких вещах. Если когда-нибудь будешь в Кастанике, мы могли бы неплохо заработать.&lt;BR&gt;&lt;BR&gt;Передай {@LinkCreature:227#1015#Овеллии}, что партия товара готова.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="227" villagerId="1020">
+        <Page social="0">Ты крадешь мое время. Давай, пошевеливайся.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="227" prevId="4" villagerId="1015">
+        <Page social="5">Знаю, поставками для армии не особо прославишься, но ты же понимаешь, как это важно. Спасибо тебе, ведь эту партию мы собрали только с твоей помощью.</Page>
+    </Text>
+</QuestDialog>

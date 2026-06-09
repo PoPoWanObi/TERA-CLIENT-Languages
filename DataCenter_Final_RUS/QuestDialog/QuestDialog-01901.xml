@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="472" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="472" prevId="0" villagerId="1001">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;Нужно расправиться в рабовладельцами в Золотом Лабиринте.&lt;BR&gt;&lt;BR&gt;Уничтожь {@LinkCreature:472#6#Калечащих сиранов}, {@LinkCreature:472#17#Окаянных рабовладельцев} и {@LinkCreature:472#5002#Утонувших гулов}.&lt;BR&gt;&lt;BR&gt;Возвращайся ко мне, когда выполнишь задание.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="472" prevId="2" villagerId="1001">
+        <Page social="5">Рабство... Тебе удалось нанести по нему серьезный удар, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="472" villagerId="1001">
+        <Page social="0">Уничтожь павших. Они до невозможности мерзкие.</Page>
+    </Text>
+</QuestDialog>

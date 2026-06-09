@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">Ein Händler aus Frontera, ein Kerl namens Safna, hat die Quarantäne durchbrochen und ist durch das Nordtor gelaufen.&lt;BR&gt;&lt;BR&gt;Fragt {@LinkCreature:75#1012#Junith}. Vielleicht weiß er, wohin er lief.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1012">
+        <Page social="4">Safna? Hört mir bloß auf mit dem! Ich sagte ihm, dass wir unter Quarantäne stehen, aber er schlug mich nieder und rannte an mir vorbei. Ich verfolgte ihn, aber er hatte zu viel Vorsprung. Zuletzt sah ich ihn in Richtung des Wilden Tals rennen.&lt;BR&gt;&lt;BR&gt;Ihr könnt ihn suchen, aber wahrscheinlich würdet Ihr nichts als Knochen finden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1102">
+        <Page social="12">Ich gehe nicht zurück. Diese betrügerische Dekurio, Jeulile, willigte ein, seltene Pilze für mich zu sammeln, aber als sie mir ihr Bote brachte, erkannte ich, dass es Giftpilze waren!&lt;BR&gt;&lt;BR&gt;Ich sagte es ihm, aber er meinte, dass er nur in ihrem Auftrag handelte .&lt;BR&gt;&lt;BR&gt;Ich gehe direkt ins Wilde Tal, knöpfe sie mir vor und überreiche ihr diesen Beschwerdebrief!&lt;BR&gt;&lt;BR&gt;Sicher, hier draußen ist es recht gefährlich ...&lt;NEXTPAGEBUTTON&gt;"Ich mache das für Euch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Das würdet Ihr? Nun, wenn Ihr darauf besteht ... Ihr scheint recht vertrauenswürdig zu sein.&lt;BR&gt;&lt;BR&gt;Sagt ihr, dass es egal ist, ob Seuche, Raubtiere oder welche Ausrede auch immer, wenn sie mich noch mal betrügt, dann wird es ihr leid tun!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1005">
+        <Page social="4">Giftige Pilze? Ich fürchte, da muss jemandem ein schrecklicher Fehler unterlaufen sein. Tut mir leid, dass Ihr da mit hineingezogen wurdet.</Page>
+    </Text>
+</QuestDialog>

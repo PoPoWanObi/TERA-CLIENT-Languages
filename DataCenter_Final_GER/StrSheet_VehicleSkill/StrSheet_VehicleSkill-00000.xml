@@ -1,0 +1,101 @@
+<StrSheet_VehicleSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill">
+    <String id="1101" templateId="2000" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="48" />
+    <String id="1201" templateId="2000" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="48" />
+    <String id="1101" templateId="2001" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="48" />
+    <String id="1201" templateId="2001" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="48" />
+    <String id="1101" templateId="1001" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="116" />
+    <String id="1201" templateId="1001" name="Springen" tooltip="Springt vom Luftschiff ab." huntingZoneId="116" />
+    <String id="1102" templateId="1002" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="116" />
+    <String id="1202" templateId="1002" name="Springen" tooltip="Springt vom Luftschiff ab." huntingZoneId="116" />
+    <String id="1103" templateId="1003" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="116" />
+    <String id="1203" templateId="1003" name="Springen" tooltip="Springt vom Luftschiff ab." huntingZoneId="116" />
+    <String id="1101" templateId="4000" name="Salve abfeuern" tooltip="Schießt Geschosse ab." huntingZoneId="116" />
+    <String id="1201" templateId="4000" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="116" />
+    <String id="1301" templateId="4001" name="Salve abfeuern" tooltip="Schießt Geschosse ab." huntingZoneId="116" />
+    <String id="1401" templateId="4001" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="116" />
+    <String id="1501" templateId="4002" name="Salve abfeuern" tooltip="Schießt Geschosse ab." huntingZoneId="116" />
+    <String id="1503" templateId="4002" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="116" />
+    <String id="1501" templateId="4003" name="Salve abfeuern" tooltip="Schießt Geschosse ab." huntingZoneId="116" />
+    <String id="1503" templateId="4003" name="Absitzen" tooltip="Steigt von der Belagerungswaffe ab." huntingZoneId="116" />
+    <String id="1102" templateId="5000" name="Bauchklatscher" tooltip="Richtet mit einem Sprung mitten in Eure Feinde fürchterlichen Schaden an und verlangsamt die Ziele." huntingZoneId="117" />
+    <String id="1103" templateId="5000" name="3er Klaps" tooltip="Greift Gegner dreimal an und verursacht einige Sekunden nach dem Angriff weiteren Schaden." huntingZoneId="117" />
+    <String id="1104" templateId="5000" name="Großer Wutanfall" tooltip="Schießt Kugeln aus kritischer Energie im Bogen nach vorn und betäubt Ziele." huntingZoneId="117" />
+    <String id="1111" templateId="5000" name="Kräftiger Feueratem" tooltip="Lässt in hohem Bogen Flammen nach vorn schießen, die Euch zurückblasen." huntingZoneId="117" />
+    <String id="1212" templateId="5000" name="Rückwärtssprung" tooltip="Lässt Euch zurückspringen und Feinde in einer festgelegten Reichweite angreifen." huntingZoneId="117" />
+    <String id="1318" templateId="5000" name="Fliegende Fäuste" tooltip="Schießt Raketenschläge in verschiedene Richtungen und verlangsamt Ziele." huntingZoneId="117" />
+    <String id="2201" templateId="5000" name="Kumasreinigung" tooltip="Beseitigt alle schädlichen Effekte auf wohlgesonnene Kumas in Reichweite der Fertigkeit." huntingZoneId="117" />
+    <String id="2202" templateId="5000" name="Kumasheilung" tooltip="Stellt LP von anderen Kumas in Reichweite wieder her." huntingZoneId="117" />
+    <String id="1102" templateId="6000" name="Bauchklatscher" tooltip="Richtet mit einem Sprung mitten in Eure Feinde fürchterlichen Schaden an und verlangsamt Ziele." huntingZoneId="117" />
+    <String id="1104" templateId="6000" name="Wutanfall" tooltip="Schießt zwei Energiekugeln in kleinem Bogen nach vorn und betäubt Ziele." huntingZoneId="117" />
+    <String id="1106" templateId="6000" name="Feueratem" tooltip="Lässt Flammen im Bogen nach vorn schießen." huntingZoneId="117" />
+    <String id="1108" templateId="6000" name="Rundumschlag mit Links" tooltip="Dreht Euch mit einem Rundumfaustschlag im Uhrzeigersinn." huntingZoneId="117" />
+    <String id="1109" templateId="6000" name="Rundumschlag mit Rechts" tooltip="Dreht Euch mit einem Rundumfaustschlag gegen den Uhrzeigersinn." huntingZoneId="117" />
+    <String id="1212" templateId="6000" name="Rückschritt" tooltip="Zurückziehen!" huntingZoneId="117" />
+    <String id="1311" templateId="6000" name="Bauchrolle" tooltip="Greift im Vorwärtsrollen an und verlangsamt Ziele, die überrollt werden." huntingZoneId="117" />
+    <String id="2201" templateId="6000" name="Kumasreinigung" tooltip="Beseitigt alle schädlichen Effekte auf wohlgesonnene Kumas in Reichweite der Fertigkeit." huntingZoneId="117" />
+    <String id="6010" templateId="6000" name="Rolle rückwärts" tooltip="Greift im Rückwärtsrollen an und verlangsamt Ziele, die überrollt werden." huntingZoneId="117" />
+    <String id="1103" templateId="7000" name="3er Klaps" tooltip="Greift Gegner dreimal an und verursacht einige Sekunden nach dem Angriff weiteren Schaden." huntingZoneId="117" />
+    <String id="1212" templateId="7000" name="Rückschritt" tooltip="Zurückziehen!" huntingZoneId="117" />
+    <String id="1301" templateId="9005" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="121" />
+    <String id="1501" templateId="9005" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="121" />
+    <String id="1301" templateId="9005" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="122" />
+    <String id="1501" templateId="9005" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="122" />
+    <String id="1301" templateId="9005" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="123" />
+    <String id="1501" templateId="9005" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="123" />
+    <String id="1101" templateId="1601" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="191" />
+    <String id="1201" templateId="1601" name="Springen" tooltip="Steigt von der Kanone ab." huntingZoneId="191" />
+    <String id="1101" templateId="1604" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="191" />
+    <String id="1201" templateId="1604" name="Springen" tooltip="Springt vom Luftschiff ab." huntingZoneId="191" />
+    <String id="1101" templateId="1605" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="191" />
+    <String id="1201" templateId="1605" name="Springen" tooltip="Springt vom Luftschiff ab." huntingZoneId="191" />
+    <String id="1101" templateId="2999" name="Salve abfeuern" tooltip="Schießt eine Wasserbombe auf das Ziel." huntingZoneId="210" />
+    <String id="1201" templateId="2999" name="Absitzen" tooltip="Verlasst die Spritzkanone." huntingZoneId="210" />
+    <String id="1101" templateId="3000" name="Salve abfeuern" tooltip="Schießt eine Wasserbombe auf das Ziel." huntingZoneId="210" />
+    <String id="1201" templateId="3000" name="Absitzen" tooltip="Verlasst die Spritzkanone." huntingZoneId="210" />
+    <String id="1101" templateId="4000" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="210" />
+    <String id="1201" templateId="4000" name="Absitzen" tooltip="Verlasst den Panzer." huntingZoneId="210" />
+    <String id="1101" templateId="8041" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="425" />
+    <String id="1201" templateId="8041" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="425" />
+    <String id="1101" templateId="4000" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="443" />
+    <String id="1201" templateId="4000" name="Verlassen" tooltip="Verlasst die Kanone." huntingZoneId="443" />
+    <String id="1201" templateId="300" name="Absitzen" tooltip="Verlasst die Kanone." huntingZoneId="447" />
+    <String id="2101" templateId="300" name="Kürbis schießen" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="447" />
+    <String id="1201" templateId="310" name="Absitzen" tooltip="Verlasst die Kanone." huntingZoneId="447" />
+    <String id="2101" templateId="310" name="Kürbis schießen" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="447" />
+    <String id="1201" templateId="311" name="Absitzen" tooltip="Verlasst die Kanone." huntingZoneId="447" />
+    <String id="2101" templateId="311" name="Kürbis schießen" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="447" />
+    <String id="1101" templateId="5000" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="450" />
+    <String id="1201" templateId="5000" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="450" />
+    <String id="1101" templateId="500" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="453" />
+    <String id="1201" templateId="500" name="Absitzen" tooltip="Verlasst die Kanone." huntingZoneId="453" />
+    <String id="1101" templateId="501" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="453" />
+    <String id="1201" templateId="501" name="Absitzen" tooltip="Verlasst die Kanone." huntingZoneId="453" />
+    <String id="1101" templateId="8041" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="725" />
+    <String id="1201" templateId="8041" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="725" />
+    <String id="1101" templateId="4000" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="743" />
+    <String id="1201" templateId="4000" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="743" />
+    <String id="1101" templateId="5000" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5000" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5001" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5001" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5002" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5002" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5003" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5003" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5004" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5004" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5005" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5005" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5006" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5006" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5007" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5007" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5008" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5008" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="5009" name="Abflug" tooltip="Bereitet das Luftschiff auf den Abflug vor. Während des Fluges könnt Ihr diese Fertigkeit nicht benutzen." huntingZoneId="750" />
+    <String id="1201" templateId="5009" name="Springen" tooltip="Springt aus dem Luftschiff." huntingZoneId="750" />
+    <String id="1101" templateId="885158" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="885" />
+    <String id="1201" templateId="885158" name="Absteigen" tooltip="Steigt von der Kanone ab." huntingZoneId="885" />
+    <String id="1101" templateId="3000007" name="Salve abfeuern" tooltip="Schießt Geschosse auf ein Ziel ab." huntingZoneId="1023" />
+    <String id="1201" templateId="3000007" name="Absitzen" tooltip="Steigt von der Kanone ab." huntingZoneId="1023" />
+</StrSheet_VehicleSkill>

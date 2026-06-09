@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0">Weiter geht es in der Düsteren Kathedrale. Dieses Mal ist der Grausame Fimbrilisk Euer Ziel.&lt;BR&gt;&lt;BR&gt;Trefft Euch mit Culetta, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">Man sollte meinen, mittlerweile würden sie schon bei Eurem Anblick das Weite suchen. Gut gemacht, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Ihr müsst den Grausamen Fimbrilisken erledigen.</Page>
+    </Text>
+</QuestDialog>

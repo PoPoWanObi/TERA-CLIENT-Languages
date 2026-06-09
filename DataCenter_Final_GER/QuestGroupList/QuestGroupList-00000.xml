@@ -1,0 +1,524 @@
+<QuestGroupList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestGroupList QuestGroupList.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestGroupList">
+    <QuestHuntingZoneList>
+        <HuntingZone id="1" kind="solo" name="{@Rgn:1001$$Ruinenmark}" step="27" />
+        <HuntingZone id="2" kind="solo" name="{@Rgn:2001$$Feenwald}" step="3" />
+        <HuntingZone id="3" kind="solo" name="{@Rgn:3001$$Wälder der Vergessenheit}" step="4" />
+        <HuntingZone id="4" kind="solo" name="{@Rgn:4001$$Fyrkuppe}" step="18" />
+        <HuntingZone id="5" kind="solo" name="{@Rgn:5001$$Tuwangimorast}" step="6" />
+        <HuntingZone id="6" kind="solo" name="{@Rgn:6001$$Tal der Titanen}" step="5" />
+        <HuntingZone id="7" kind="solo" name="{@Rgn:7001$$Himmelshügel}" step="7" />
+        <HuntingZone id="8" kind="solo" name="{@Rgn:8001$$Hungrige Höhlen}" step="18" />
+        <HuntingZone id="9" kind="solo" name="{@Rgn:9002$$Azarels Labyrinth}" step="10" />
+        <HuntingZone id="10" kind="solo" name="{@Rgn:10001$$Schlangeninsel}" step="18" />
+        <HuntingZone id="11" kind="solo" name="{@Rgn:11005$$Piratengrotte}" step="10" />
+        <HuntingZone id="12" kind="solo" name="{@Rgn:12001$$Nebelmoorinsel}" step="10" />
+        <HuntingZone id="13" kind="solo" name="{@Rgn:13001$$Insel der Dämmerung}" step="1" />
+        <HuntingZone id="15" kind="solo" name="{@Rgn:15001$$Klippen des Wahnsinns}" step="8" />
+        <HuntingZone id="16" kind="solo" name="{@Rgn:16001$$Reißertal}" step="8" />
+        <HuntingZone id="17" kind="solo" name="{@Rgn:17001$$Paraanonschlucht}" step="8" />
+        <HuntingZone id="18" kind="solo" name="{@Rgn:18001$$Kolossale Ruinen}" step="12" />
+        <HuntingZone id="19" kind="solo" name="{@Rgn:19001$$Freilande}" step="9" />
+        <HuntingZone id="20" kind="solo" name="{@Rgn:20001$$Finstere Minen}" step="9" />
+        <HuntingZone id="21" kind="solo" name="{@Rgn:21001$$Basiliskenhang}" step="9" />
+        <HuntingZone id="22" kind="solo" name="{@Rgn:22001$$Eldritchakademie}" step="11" />
+        <HuntingZone id="23" kind="solo" name="{@Rgn:23001$$See der Tränen}" step="11" />
+        <HuntingZone id="24" kind="solo" name="{@Rgn:24001$$Aurumpfad}" step="12" />
+        <HuntingZone id="25" kind="solo" name="{@Rgn:25001$$Düstere Kathedrale}" step="12" />
+        <HuntingZone id="26" kind="solo" name="{@Rgn:26001$$Heiliges Becken}" step="14" />
+        <HuntingZone id="27" kind="solo" name="{@Rgn:27001$$Essenischer Kamm}" step="14" />
+        <HuntingZone id="28" kind="solo" name="{@Rgn:28001$$Schandholz}" step="14" />
+        <HuntingZone id="29" kind="solo" name="{@Rgn:29001$$Zeitlose Wälder}" step="14" />
+        <HuntingZone id="30" kind="solo" name="{@Rgn:30001$$Balders Zuflucht}" step="99" />
+        <HuntingZone id="31" kind="solo" name="{@Rgn:31001$$Sturmebene}" step="15" />
+        <HuntingZone id="32" kind="solo" name="{@Rgn:32001$$Berg Tyrannas}" step="15" />
+        <HuntingZone id="33" kind="solo" name="{@Rgn:33001$$Zitadelle der Folter}" step="15" />
+        <HuntingZone id="34" kind="solo" name="{@Rgn:34001$$Frostweiten}" step="15" />
+        <HuntingZone id="35" kind="solo" name="{@Rgn:35001$$Würmlingsklamm}" step="22" />
+        <HuntingZone id="36" kind="solo" name="{@Rgn:36001$$Tor Exsul}" step="22" />
+        <HuntingZone id="37" kind="solo" name="{@Rgn:37011$$Krypta des Untergangs}" step="22" />
+        <HuntingZone id="38" kind="solo" name="{@Rgn:38001$$Siennaschlucht}" step="22" />
+        <HuntingZone id="39" kind="solo" name="{@Rgn:39001$$Arachnaea}" step="17" />
+        <HuntingZone id="40" kind="solo" name="{@Rgn:40001$$Quarantänezone}" step="17" />
+        <HuntingZone id="41" kind="solo" name="{@Rgn:41001$$Wildes Tal}" step="17" />
+        <HuntingZone id="42" kind="solo" name="{@Rgn:42001$$Tempel von Dagon}" step="17" />
+        <HuntingZone id="43" kind="solo" name="{@Rgn:43001$$Cathuulrach}" step="99" />
+        <HuntingZone id="44" kind="solo" name="{@Rgn:44001$$Ebonmaul}" step="26" />
+        <HuntingZone id="45" kind="solo" name="{@Rgn:45001$$Knechtfeste}" step="22" />
+        <HuntingZone id="46" kind="solo" name="{@Rgn:46001$$Drei Türme}" step="22" />
+        <HuntingZone id="47" kind="solo" name="{@Rgn:47001$$Unterholz von Tirkai}" step="22" />
+        <HuntingZone id="48" kind="solo" name="{@Rgn:48001$$Khanovarfront}" step="26" />
+        <HuntingZone id="49" kind="solo" name="{@Rgn:49001$$Argonea}" step="26" />
+        <HuntingZone id="50" kind="solo" name="{@Rgn:50001$$Granarkus}" step="26" />
+        <HuntingZone id="51" kind="solo" name="{@Rgn:51001$$Tal der Spitzen}" step="24" />
+        <HuntingZone id="52" kind="solo" name="{@Rgn:52001$$Ebene der Verdammten}" step="24" />
+        <HuntingZone id="53" kind="solo" name="{@Rgn:53001$$Labyrinth des Schreckens}" step="24" />
+        <HuntingZone id="54" kind="solo" name="{@Rgn:54001$$Feendickicht}" step="21" />
+        <HuntingZone id="55" kind="solo" name="{@Rgn:55001$$Finsterwald}" step="21" />
+        <HuntingZone id="56" kind="solo" name="{@Rgn:56001$$Susurrus Hain}" step="21" />
+        <HuntingZone id="57" kind="solo" name="{@Rgn:57001$$Amena Quatla}" step="21" />
+        <HuntingZone id="58" name="{@Rgn:58001$$Balderon}" step="99" />
+        <HuntingZone id="59" name="{@Rgn:59001$$Crescentia}" step="99" />
+        <HuntingZone id="60" name="{@Rgn:60001$$Holzhausen}" step="99" />
+        <HuntingZone id="61" name="{@Rgn:61001$$Castanica}" step="99" />
+        <HuntingZone id="62" name="{@Rgn:62001$$Halsabschneiderhafen}" step="99" />
+        <HuntingZone id="63" kind="solo" name="{@Rgn:63001$$Velika}" step="2" />
+        <HuntingZone id="64" name="{@Rgn:64001$$Verlassenes Lager}" step="99" />
+        <HuntingZone id="65" name="{@Rgn:65001$$Chebika}" step="99" />
+        <HuntingZone id="66" name="{@Rgn:66001$$Tulufan}" step="99" />
+        <HuntingZone id="67" name="{@Rgn:67001$$Popolion}" step="99" />
+        <HuntingZone id="68" name="{@Rgn:68001$$Pora Elinu}" step="99" />
+        <HuntingZone id="69" name="{@Rgn:69001$$Tralion}" step="99" />
+        <HuntingZone id="70" name="{@Rgn:70001$$Tria}" step="99" />
+        <HuntingZone id="71" name="{@Rgn:71001$$Eiserne Bastion}" step="99" />
+        <HuntingZone id="72" name="{@Rgn:72001$$Allemantheia}" step="13" />
+        <HuntingZone id="73" name="{@Rgn:73001$$Acarum}" step="99" />
+        <HuntingZone id="74" name="{@Rgn:74001$$Elenea}" step="99" />
+        <HuntingZone id="75" name="{@Rgn:75001$$Frontera}" step="99" />
+        <HuntingZone id="76" name="{@Rgn:76001$$Kanstria}" step="99" />
+        <HuntingZone id="77" name="{@Rgn:77001$$Pfadfinderposten}" step="99" />
+        <HuntingZone id="78" name="{@Rgn:78001$$Zulfikarfestung}" step="99" />
+        <HuntingZone id="79" name="{@Rgn:79001$$Habere}" step="99" />
+        <HuntingZone id="80" name="{@Rgn:80001$$Drachenfall}" step="99" />
+        <HuntingZone id="81" name="{@Rgn:81001$$Scythera Fae}" step="99" />
+        <HuntingZone id="83" name="{@Rgn:83001$$Ödfels}" step="99" />
+        <HuntingZone id="84" name="{@Rgn:84001$$Kaiator}" step="20" />
+        <HuntingZone id="85" name="{@Rgn:85001$$Davarns Zuflucht}" step="99" />
+        <HuntingZone id="87" name="{@Rgn:87001$$Äscherne Hoffnung}" step="99" />
+        <HuntingZone id="100" name="Hilfe beim Handwerk" step="99" />
+        <HuntingZone id="101" name="Eure meisterliche Unterstützung" step="99" />
+        <HuntingZone id="102" name="{@Rgn:102001$$Winteraschneefeld}" step="99" />
+        <HuntingZone id="111" name="{@Rgn:111$$Westliches Schlachtfeld (alt)}" step="99" />
+        <HuntingZone id="112" name="{@Rgn:112$$Canyon der Ehre}" step="99" />
+        <HuntingZone id="113" name="{@Rgn:113$$Himmelsring der Helden}" step="99" />
+        <HuntingZone id="114" name="{@Rgn:114$$Acradanlager (alt)}" step="99" />
+        <HuntingZone id="115" name="{@Rgn:115$$Himmelsring der Helden}" step="99" />
+        <HuntingZone id="116" name="{@Rgn:116$$Korsarenfestung}" step="99" />
+        <HuntingZone id="117" name="{@Rgn:117$$Kumaszuflucht}" step="99" />
+        <HuntingZone id="121" kind="solo" name="Territorium des Freihandelskollektivs" step="99" />
+        <HuntingZone id="122" kind="solo" name="Territorium der Union der Erleuchtung" step="99" />
+        <HuntingZone id="123" kind="solo" name="Territorium des Eisernen Ordens" step="99" />
+        <HuntingZone id="151" kind="solo" name="{@Rgn:50001$$Nokteniumforschungsgebiet}" step="99" />
+        <HuntingZone id="172" kind="solo" name="{@Rgn:172001$$Mjusu Kraal}" step="27" />
+        <HuntingZone id="181" kind="solo" name="{@Rgn:181001$$Ex Prima}" step="30" />
+        <HuntingZone id="182" kind="solo" name="{@Rgn:182001$$Tal des Frühlings}" step="28" />
+        <HuntingZone id="183" kind="solo" name="{@Rgn:183002$$Höhenwacht}" step="29" />
+        <HuntingZone id="191" kind="solo" name="{@Rgn:19101$$Arx Umbra}" step="31" />
+        <HuntingZone id="248" kind="solo" name="{@Rgn:48001$$Khanovarfront}" step="26" />
+        <HuntingZone id="249" kind="solo" name="{@Rgn:49001$$Argonea}" step="26" />
+        <HuntingZone id="250" kind="solo" name="{@Rgn:50001$$Granarkus}" step="26" />
+        <HuntingZone id="260" name="{@Rgn:260$$Schlachtfeld}" step="99" />
+        <HuntingZone id="261" name="{@Rgn:261$$Allianz}" step="99" />
+        <HuntingZone id="291" name="{@Rgn:291$$Schlachtfeld}" step="99" />
+        <HuntingZone id="401" kind="solo" name="{@Rgn:9001001$$Instanz: Velika}" step="99" />
+        <HuntingZone id="402" kind="solo" name="{@Rgn:9002001$$Instanz: Heiliges Becken}" step="14" />
+        <HuntingZone id="403" kind="solo" name="{@Rgn:9003001$$Instanz: Fyrkuppe}" step="18" />
+        <HuntingZone id="404" kind="solo" name="{@Rgn:9004001$$Instanz: Gletscherweite}" step="24" />
+        <HuntingZone id="405" kind="solo" name="{@Rgn:9005001$$Instanz: Zwei Überreste}" step="26" />
+        <HuntingZone id="406" kind="solo" name="{@Rgn:9006001$$Instanz: Thron der Albträume}" step="15" />
+        <HuntingZone id="407" kind="solo" name="{@Rgn:9007001$$Die Maske lüften - Teil 1}" step="17" />
+        <HuntingZone id="408" kind="solo" name="{@Rgn:9008001$$Die Maske lüften - Teil 2}" step="17" />
+        <HuntingZone id="411" kind="solo" name="{@Rgn:9011001$$Werkstätte des Schmieds}" step="22" />
+        <HuntingZone id="412" kind="solo" name="{@Rgn:9012001$$Turmspitzen der drei Türme}" step="22" />
+        <HuntingZone id="413" kind="solo" name="{@Rgn:9013001$$Cyasmaspitze}" step="22" />
+        <HuntingZone id="414" kind="solo" name="{@Rgn:9014001$$Khanovarposten}" step="22" />
+        <HuntingZone id="415" kind="solo" name="Prolog" step="22" />
+        <HuntingZone id="416" kind="solo" name="Prolog" step="22" />
+        <HuntingZone id="417" name="{@Rgn:9017001$$Leuchtturm der Sonne}" step="99" />
+        <HuntingZone id="418" name="{@Rgn:9018001$$Fronttunnel}" step="99" />
+        <HuntingZone id="419" kind="solo" name="{@Rgn:9019001$$Mission: Himmelshügel}" step="7" />
+        <HuntingZone id="420" kind="solo" name="{@Rgn:9020001$$Instanz: Tal der Titanen}" step="5" />
+        <HuntingZone id="421" kind="solo" name="{@Rgn:9021001$$Instanz: Finstere Minen}" step="9" />
+        <HuntingZone id="422" kind="solo" name="{@Rgn:9022001$$Instanz: Kolossale Ruinen}" step="12" />
+        <HuntingZone id="423" kind="solo" name="{@Rgn:9023001$$Instanz: Azarels Labyrinth}" step="10" />
+        <HuntingZone id="424" kind="solo" name="{@Rgn:9024001$$Tempel von Kaprima}" step="10" />
+        <HuntingZone id="425" kind="solo" name="{@Rgn:9025001$$Balders Tempel}" step="10" />
+        <HuntingZone id="426" kind="solo" name="{@Rgn:9026001$$Argonenkorpus}" step="26" />
+        <HuntingZone id="427" kind="solo" name="{@Rgn:9027001$$Manayas Herz}" step="26" />
+        <HuntingZone id="436" kind="solo" name="{@Rgn:9036001$$Insel der Dämmerung (Karascha)}" step="1" />
+        <HuntingZone id="437" kind="solo" name="{@Rgn:9037001$$Insel der Dämmerung (Schutz)}" step="1" />
+        <HuntingZone id="438" kind="solo" name="{@Rgn:9038001$$Instanz: Nebelmoorinsel}" step="10" />
+        <HuntingZone id="439" kind="solo" name="{@Rgn:9039001$$Instanz: Klippen des Wahnsinns}" step="8" />
+        <HuntingZone id="443" kind="solo" name="Wunderholm (schwierig)" step="26" />
+        <HuntingZone id="450" kind="solo" name="{@Rgn:9050007$$Rand des Abgrunds (schwierig)}" step="26" />
+        <HuntingZone id="453" kind="solo" name="{@Rgn:9053001$$Kezzels Rachen}" step="26" />
+        <HuntingZone id="454" kind="solo" name="{@Rgn:9054001$$Untiefen von Bathysmal (schwierig)}" step="26" />
+        <HuntingZone id="455" kind="solo" name="{@Rgn:9055002$$Gefräßiger Schlund}" step="26" />
+        <HuntingZone id="471" kind="solo" name="{@Rgn:9071001$$Nekromantenkrypta}" step="16" />
+        <HuntingZone id="472" kind="solo" name="{@Rgn:9072001$$Goldenes Labyrinth}" step="16" />
+        <HuntingZone id="473" kind="solo" name="{@Rgn:9073001$$Ebenholzturm}" step="16" />
+        <HuntingZone id="474" kind="solo" name="{@Rgn:9074001$$Instanz: Verfluchtes Tier}" step="21" />
+        <HuntingZone id="475" kind="solo" name="{@Rgn:9075001$$Kelsaiks Nest}" step="22" />
+        <HuntingZone id="476" kind="solo" name="{@Rgn:9076001$$Labyrinth des Schreckens}" step="23" />
+        <HuntingZone id="477" kind="solo" name="{@Rgn:9077001$$Wüste Batu}" step="23" />
+        <HuntingZone id="478" kind="solo" name="{@Rgn:9078001$$Suryatis Gipfel}" step="9" />
+        <HuntingZone id="479" kind="solo" name="{@Rgn:9079001$$Aufstieg von Saravash}" step="99" />
+        <HuntingZone id="480" kind="solo" name="{@Rgn:9080001$$Siegel von Adstringo}" step="99" />
+        <HuntingZone id="481" kind="solo" name="{@Rgn:9081001$$Ausbildungsgelände}" step="23" />
+        <HuntingZone id="482" kind="solo" name="{@Rgn:9082001$$Tempel der Verwegenheit}" step="23" />
+        <HuntingZone id="487" kind="solo" name="{@Rgn:9087001$$Bastion Loks}" step="6" />
+        <HuntingZone id="488" kind="solo" name="{@Rgn:9088001$$Anwesen der Arglist}" step="7" />
+        <HuntingZone id="489" kind="solo" name="{@Rgn:9089001$$Zuflucht der Kultisten}" step="12" />
+        <HuntingZone id="490" kind="solo" name="{@Rgn:9090001$$Instanz: Feenwald}" step="3" />
+        <HuntingZone id="491" kind="solo" name="{@Rgn:9091001$$Instanz: Eldritchakademie}" step="11" />
+        <HuntingZone id="492" kind="solo" name="{@Rgn:9092001$$Instanz: Tempel von Dagon}" step="17" />
+        <HuntingZone id="493" kind="solo" name="{@Rgn:9093001$$Akashas Versteck}" step="17" />
+        <HuntingZone id="494" kind="solo" name="{@Rgn:9094001$$Salerons Himmelsgarten}" step="22" />
+        <HuntingZone id="496" kind="solo" name="{@Rgn:9096001$$Terrassen von Sirjuka}" step="22" />
+        <HuntingZone id="528" kind="solo" name="{@Rgn:84017$$Hauptquartier von Kaiator}" step="20" />
+        <HuntingZone id="601" kind="solo" name="Invalesco" step="99" />
+        <HuntingZone id="602" kind="solo" name="{@Rgn:78001$$Zulfikarfestung}" step="99" />
+        <HuntingZone id="603" kind="solo" name="{@Rgn:76001$$Kanstria}" step="99" />
+        <HuntingZone id="604" kind="solo" name="{@Rgn:71001$$Bastion}" step="99" />
+        <HuntingZone id="605" kind="solo" name="Hände von Velika" step="99" />
+        <HuntingZone id="606" kind="solo" name="Agnitor" step="99" />
+        <HuntingZone id="607" kind="solo" name="Einheitstheorieinstitut" step="99" />
+        <HuntingZone id="608" kind="solo" name="Jaxstiftung" step="99" />
+        <HuntingZone id="711" kind="solo" name="{@Rgn:9711001$$Der Abszess}" step="26" />
+        <HuntingZone id="716" kind="solo" name="{@Rgn:9716001$$Himmelskreuzer Sturmflotte}" step="26" />
+        <HuntingZone id="724" kind="solo" name="{@Rgn:9724001$$Tempel von Kaprima}" step="10" />
+        <HuntingZone id="725" kind="solo" name="{@Rgn:9725001$$Balders Tempel}" step="10" />
+        <HuntingZone id="726" kind="solo" name="{@Rgn:9726001$$Argonenkorpus}" step="26" />
+        <HuntingZone id="727" kind="solo" name="{@Rgn:9727001$$Manayas Herz}" step="26" />
+        <HuntingZone id="743" kind="solo" name="Wunderholm (normal)" step="26" />
+        <HuntingZone id="750" kind="solo" name="{@Rgn:9050006$$Rand des Abgrunds}" step="26" />
+        <HuntingZone id="754" kind="solo" name="{@Rgn:9054009$$Untiefen von Bathysmal}" step="26" />
+        <HuntingZone id="766" kind="solo" name="Zerschlagene Flotte" step="26" />
+        <HuntingZone id="773" kind="solo" name="{@Rgn:9773001$$Ebenholzturm (schwierig)}" step="16" />
+        <HuntingZone id="775" kind="solo" name="{@Rgn:9775001$$Kelsaiks Nest (schwierig)}" step="22" />
+        <HuntingZone id="776" kind="solo" name="{@Rgn:9776001$$Labyrinth des Schreckens (schwierig)}" step="23" />
+        <HuntingZone id="777" kind="solo" name="Die Kanäle" step="26" />
+        <HuntingZone id="793" kind="solo" name="{@Rgn:9793001$$Akashas Versteck (schwierig)}" step="17" />
+        <HuntingZone id="801" kind="solo" name="{@Rgn:9801001$$Nexustraverse}" step="17" />
+        <HuntingZone id="808" kind="solo" name="{@Rgn:9808001$$Sabexwaffenkammer}" step="28" />
+        <HuntingZone id="809" kind="solo" name="{@Rgn:9809001$$Fleischerkatakomben}" step="31" />
+        <HuntingZone id="810" kind="solo" name="{@Rgn:9810001$$Lakans Gefängnis}" step="26" />
+        <HuntingZone id="811" kind="solo" name="{@Rgn:9811001$$Der Abszess}" step="26" />
+        <HuntingZone id="813" kind="solo" name="Tarnlichtung" step="26" />
+        <HuntingZone id="814" kind="solo" name="{@Rgn:9814001$$Das Gewölbe von Oriyn}" step="97" />
+        <HuntingZone id="818" kind="solo" name="{@Rgn:818001$$Energia Celo}" step="99" />
+        <HuntingZone id="821" kind="solo" name="Durions Kammer" step="98" />
+        <HuntingZone id="822" kind="solo" name="{@Rgn:9822001$$Bastion Loks}" step="96" />
+        <HuntingZone id="823" kind="solo" name="Himmelskreuzer Kühnheit" step="95" />
+        <HuntingZone id="825" kind="solo" name="Balders Tempel (Einzel)" step="26" />
+        <HuntingZone id="871" kind="solo" name="{@Rgn:9871001$$Nekromantenkrypta (Einzel)}" step="16" />
+        <HuntingZone id="872" kind="solo" name="{@Rgn:9872001$$Goldenes Labyrinth (Einzel)}" step="16" />
+        <HuntingZone id="873" kind="solo" name="{@Rgn:9873001$$Ebenholzturm (Einzel)}" step="16" />
+        <HuntingZone id="887" kind="solo" name="{@Rgn:9887001$$Bastion Loks (Einzel)}" step="6" />
+        <HuntingZone id="888" kind="solo" name="{@Rgn:9888001$$Anwesen der Arglist (Einzel)}" step="7" />
+        <HuntingZone id="889" kind="solo" name="{@Rgn:9889001$$Zuflucht der Kultisten (Einzel)}" step="12" />
+        <HuntingZone id="901" kind="solo" name="Bellicarium" step="99" />
+        <HuntingZone id="979" kind="solo" name="{@Rgn:9979001$$Saravashs Höhle}" step="26" />
+        <HuntingZone id="1022" kind="solo" name="Nexus" step="23" />
+        <HuntingZone id="8000" kind="solo" name="Brief der Valkyon-Föderation" step="98" />
+        <HuntingZone id="9999" kind="solo" name="Vorhutinitiative" step="98" />
+    </QuestHuntingZoneList>
+    <StoryGroupList>
+        <StoryGroup id="0" name="Prolog">
+            <Quest id="41501" />
+            <Quest id="41502" />
+            <Quest id="41503" />
+            <Quest id="41504" />
+            <Quest id="41505" />
+            <Quest id="41506" />
+            <Quest id="41507" />
+            <Quest id="41508" />
+            <Quest id="41510" />
+        </StoryGroup>
+        <StoryGroup id="1" name="Die Welt von TERA">
+            <Quest id="1301" />
+            <Quest id="1304" />
+            <Quest id="1371" />
+            <Quest id="1372" />
+            <Quest id="1373" />
+            <Quest id="1374" />
+            <Quest id="1375" />
+            <Quest id="1376" />
+            <Quest id="1377" />
+            <Quest id="1378" />
+            <Quest id="1379" />
+            <Quest id="1303" />
+            <Quest id="1329" />
+            <Quest id="1384" />
+            <Quest id="1382" />
+            <Quest id="1383" />
+            <Quest id="1331" />
+            <Quest id="1305" />
+        </StoryGroup>
+        <StoryGroup id="2" name="Zum Verdorbenen Schlund">
+            <Quest id="1311" />
+            <Quest id="1313" />
+            <Quest id="1309" />
+            <Quest id="1350" />
+            <Quest id="1315" />
+            <Quest id="1316" />
+            <Quest id="1317" />
+        </StoryGroup>
+        <StoryGroup id="3" name="Valkyon braucht Euch">
+            <Quest id="6305" />
+            <Quest id="201" />
+            <Quest id="202" />
+            <Quest id="203" />
+            <Quest id="301" />
+            <Quest id="302" />
+        </StoryGroup>
+        <StoryGroup id="4" name="Verschwörung der Kultisten">
+            <Quest id="601" />
+            <Quest id="602" />
+            <Quest id="603" />
+            <Quest id="604" />
+            <Quest id="605" />
+            <Quest id="701" />
+            <Quest id="702" />
+            <Quest id="704" />
+        </StoryGroup>
+        <StoryGroup id="5" name="Epidemie des Wahnsinns">
+            <Quest id="1501" />
+            <Quest id="1502" />
+            <Quest id="1503" />
+            <Quest id="1504" />
+            <Quest id="1505" />
+        </StoryGroup>
+        <StoryGroup id="6" name="Dunkle Bedrohung">
+            <Quest id="2001" />
+            <Quest id="2002" />
+            <Quest id="2003" />
+            <Quest id="901" />
+            <Quest id="902" />
+            <Quest id="903" />
+            <Quest id="904" />
+        </StoryGroup>
+        <StoryGroup id="7" name="Das Königreich der Popori">
+            <Quest id="2301" />
+            <Quest id="2302" />
+            <Quest id="2303" />
+            <Quest id="2304" />
+        </StoryGroup>
+        <StoryGroup id="8" name="Samaels Geist">
+            <Quest id="2501" />
+            <Quest id="2502" />
+            <Quest id="2503" />
+            <Quest id="2504" />
+            <Quest id="2505" />
+        </StoryGroup>
+        <StoryGroup id="9" name="Allemantheia">
+            <Quest id="2701" />
+            <Quest id="2702" />
+            <Quest id="3101" />
+            <Quest id="3102" />
+            <Quest id="3103" />
+            <Quest id="4001" />
+            <Quest id="3901" />
+            <Quest id="801" />
+            <Quest id="401" />
+            <Quest id="804" />
+            <Quest id="49301" />
+            <Quest id="49302" />
+        </StoryGroup>
+        <StoryGroup id="10" name="Spuren der Götter">
+            <Quest id="2801" />
+            <Quest id="2802" />
+            <Quest id="3201" />
+        </StoryGroup>
+        <StoryGroup id="11" name="In den wilden Dschungel">
+            <Quest id="4201" />
+            <Quest id="4101" />
+        </StoryGroup>
+        <StoryGroup id="12" name="Castanica">
+            <Quest id="802" />
+            <Quest id="803" />
+            <Quest id="402" />
+        </StoryGroup>
+        <StoryGroup id="13" name="Gefahr in Kaiator">
+            <Quest id="5501" />
+            <Quest id="5502" />
+            <Quest id="5601" />
+            <Quest id="5602" />
+        </StoryGroup>
+        <StoryGroup id="14" name="Bestie der Zerstörung">
+            <Quest id="3701" />
+            <Quest id="3702" />
+            <Quest id="5201" />
+            <Quest id="5202" />
+            <Quest id="5203" />
+            <Quest id="5204" />
+            <Quest id="5205" />
+        </StoryGroup>
+        <StoryGroup id="16" name="Argonenkrieg">
+            <Quest id="4701" />
+            <Quest id="4702" />
+            <Quest id="4501" />
+            <Quest id="4601" />
+            <Quest id="4602" />
+            <Quest id="4801" />
+            <Quest id="4802" />
+            <Quest id="4901" />
+            <Quest id="4902" />
+            <Quest id="5001" />
+            <Quest id="5002" />
+        </StoryGroup>
+        <StoryGroup id="999" name="Ereignismission" />
+        <StoryGroup id="601" name="Avatarwaffen">
+            <Quest id="361" />
+        </StoryGroup>
+        <StoryGroup id="602" name="Avatarwaffen">
+            <Quest id="362" />
+        </StoryGroup>
+        <StoryGroup id="603" name="Avatarwaffen">
+            <Quest id="363" />
+        </StoryGroup>
+        <StoryGroup id="604" name="Avatarwaffen">
+            <Quest id="364" />
+        </StoryGroup>
+        <StoryGroup id="605" name="Avatarwaffen">
+            <Quest id="365" />
+        </StoryGroup>
+        <StoryGroup id="606" name="Avatarwaffen">
+            <Quest id="366" />
+        </StoryGroup>
+        <StoryGroup id="607" name="Avatarwaffen">
+            <Quest id="367" />
+        </StoryGroup>
+        <StoryGroup id="608" name="Avatarwaffen">
+            <Quest id="368" />
+        </StoryGroup>
+        <StoryGroup id="17" name="Balders Zuflucht">
+            <Quest id="3001" />
+            <Quest id="3002" />
+            <Quest id="3003" />
+            <Quest id="3004" />
+            <Quest id="3005" />
+        </StoryGroup>
+        <StoryGroup id="18" name="Nokteniumeinführung">
+            <Quest id="15101" />
+            <Quest id="15102" />
+            <Quest id="15103" />
+        </StoryGroup>
+        <StoryGroup id="19" name="Die Vorhutinitiative">
+            <Quest id="17201" />
+            <Quest id="17202" />
+            <Quest id="17203" />
+            <Quest id="17204" />
+            <Quest id="17205" />
+            <Quest id="17206" />
+            <Quest id="17207" />
+        </StoryGroup>
+        <StoryGroup id="20" name="Wildlande">
+            <Quest id="17208" />
+            <Quest id="17209" />
+            <Quest id="17210" />
+            <Quest id="17211" />
+            <Quest id="17212" />
+            <Quest id="17213" />
+            <Quest id="17214" />
+        </StoryGroup>
+        <StoryGroup id="21" name="Tal des Frühlings">
+            <Quest id="18201" />
+            <Quest id="18202" />
+            <Quest id="18203" />
+            <Quest id="18204" />
+            <Quest id="18205" />
+            <Quest id="18206" />
+            <Quest id="18207" />
+            <Quest id="18208" />
+            <Quest id="18209" />
+            <Quest id="18210" />
+            <Quest id="18211" />
+            <Quest id="18212" />
+        </StoryGroup>
+        <StoryGroup id="22" name="Ex Prima">
+            <Quest id="18101" />
+            <Quest id="18102" />
+            <Quest id="18103" />
+            <Quest id="18104" />
+            <Quest id="18105" />
+            <Quest id="18106" />
+            <Quest id="18107" />
+            <Quest id="18108" />
+            <Quest id="18109" />
+            <Quest id="18110" />
+            <Quest id="18111" />
+            <Quest id="18112" />
+            <Quest id="18113" />
+            <Quest id="18114" />
+            <Quest id="18115" />
+            <Quest id="18116" />
+            <Quest id="18117" />
+            <Quest id="18118" />
+        </StoryGroup>
+        <StoryGroup id="23" name="Arx Umbra">
+            <Quest id="19101" />
+            <Quest id="19102" />
+            <Quest id="19103" />
+            <Quest id="19104" />
+            <Quest id="19105" />
+            <Quest id="19106" />
+            <Quest id="19107" />
+            <Quest id="19108" />
+            <Quest id="19109" />
+            <Quest id="19110" />
+            <Quest id="19111" />
+            <Quest id="19112" />
+        </StoryGroup>
+        <StoryGroup id="7011" name="Sonnenfestival">
+            <Quest id="70101" />
+            <Quest id="70102" />
+            <Quest id="70103" />
+            <Quest id="70104" />
+            <Quest id="70105" />
+            <Quest id="70106" />
+            <Quest id="70107" />
+            <Quest id="70108" />
+            <Quest id="70109" />
+        </StoryGroup>
+        <StoryGroup id="7012" name="Bankett des Blutes">
+            <Quest id="70111" />
+            <Quest id="70112" />
+            <Quest id="70113" />
+            <Quest id="70114" />
+        </StoryGroup>
+        <StoryGroup id="7013" name="Strandparty">
+            <Quest id="70115" />
+            <Quest id="70116" />
+            <Quest id="70117" />
+            <Quest id="70118" />
+            <Quest id="70119" />
+            <Quest id="70120" />
+            <Quest id="70121" />
+            <Quest id="70122" />
+        </StoryGroup>
+        <StoryGroup id="7021" name="Farmerfestival">
+            <Quest id="70201" />
+            <Quest id="70202" />
+            <Quest id="70203" />
+            <Quest id="70204" />
+            <Quest id="70205" />
+            <Quest id="70206" />
+            <Quest id="70207" />
+            <Quest id="70208" />
+            <Quest id="70209" />
+        </StoryGroup>
+        <StoryGroup id="7022" name="Händler der Teichfeier">
+            <Quest id="70211" />
+            <Quest id="70212" />
+            <Quest id="70213" />
+            <Quest id="70214" />
+            <Quest id="70215" />
+            <Quest id="70216" />
+            <Quest id="70217" />
+            <Quest id="70218" />
+        </StoryGroup>
+        <StoryGroup id="87" name="Aus der Asche">
+            <Quest id="8701" />
+            <Quest id="8702" />
+            <Quest id="8703" />
+            <Quest id="8704" />
+            <Quest id="8705" />
+            <Quest id="8706" />
+            <Quest id="8707" />
+            <Quest id="8708" />
+        </StoryGroup>
+        <StoryGroup id="7004" name="Hallen von Nakatam">
+            <Quest id="1099" />
+        </StoryGroup>
+    </StoryGroupList>
+</QuestGroupList>

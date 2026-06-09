@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="5">Наши худшие кошмары становятся явью: давно почившие герои прошлого восстали из могил и начали на нас охоту. Мы должны снова ввергнуть их во тьму, из которой они явились, иначе скоро этих ужасных существ станет слишком много, и они одолеют нас.&lt;BR&gt;&lt;BR&gt;Мне удалось собрать нескольких добровольцев - они ждут на окраине города. Возьми с собой одного из них и пробейся на Кладбище Берзерад. Уничтожьте источник угрозы, но не забывайте и о себе - никто из вас не должен погибнуть.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3" villagerId="26">
+        <Page social="0">Я сделаю, что смогу. Только не уходи далеко, хорошо?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="7">Твои действия спасли город, а, возможно, и весь регион. Вдобавок тебе удалось дать одному из наших добровольцев то, чего им так не хватает - боевой опыт.&lt;BR&gt;&lt;BR&gt;Отличная работа, солдат.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0">Мы не сможем усмирить выживших ансили, пока драколоты занимают Площадь Павших.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:55#22#Малбинарских драколотов}.&lt;BR&gt;&lt;BR&gt;Когда закончишь, поговори с Джолой на Заставе Валумнира.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1026">
+        <Page social="4">Спасибо тебе от лица всей Федерации!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1026">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">Während Eures Gesprächs mit den Khirian ging Madadt verloren und Rhodos beschuldigte Euch.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">Hatischna?&lt;BR&gt;&lt;BR&gt;Das ist nur eine Märchensage. Wir sind die Khirian! Wir brauchen keinen Auserwählten, der uns zum Sieg führt!&lt;BR&gt;&lt;BR&gt;Nun gut, '{@g:Auserwählter/Auserwählte}'. Die Arachnen belauern unser Lager. Schafft sie uns vom Hals, dann reden wir weiter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1006">
+        <Page social="4">Tückischer Feind! Anstatt unser Vertrauen zu gewinnen, habt Ihr Madadt entführt! Wo ist er?&lt;BR&gt;&lt;BR&gt;Für diesen Verrat werden meine Soldaten Euch die Augen zerquetschen wie reife Trauben!&lt;NEXTPAGEBUTTON&gt;"Wartet! Madadt wird vermisst? Ich finde ihn!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Schön. Bringt uns Madadt zurück, lebend, und ich glaube Euch vielleicht.&lt;BR&gt;&lt;BR&gt;Seid dennoch gewarnt: Wenn er tot ist oder auch nur mit dem Finger auf Euch zeigt, werdet Ihr noch am selben Tag den Arachnen zum Fraß vorgeworfen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1010">
+        <Page social="4">(Ein paar glänzende Muschelstücke säumen das Innere der Kiste.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1011">
+        <Page social="4">(Ein ätzender Schleim beschmutzt die Tonscherben.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">Wäh! Dieser Geruch! Ich würde ihn überall erkennen.&lt;BR&gt;&lt;BR&gt;Wir müssen unser Augenmerk auf die Guwangi richten.</Page>
+    </Text>
+</QuestDialog>

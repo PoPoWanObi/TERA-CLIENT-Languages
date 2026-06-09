@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="216" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">Я давно за тобой наблюдаю. И могу сказать, что ты производишь впечатление. Ум, сноровка, да еще и симпатяга.&lt;BR&gt;&lt;BR&gt;Что же такой отличный &lt;PCCLASS:lcase&gt; позабыл в нашей глуши?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">Ты не сможешь даже добраться до входа. В Зловещий Особняк необычайно трудно попасть. С другой стороны, я не верю в "не могу".&lt;BR&gt;&lt;BR&gt;Хочешь проникнуть внутрь?&lt;BR&gt;&lt;BR&gt;(Необходима группа из трех или более игроков.)&lt;TEXTBUTTON&gt;Зловещий Особняк&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Войти в Особняк.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

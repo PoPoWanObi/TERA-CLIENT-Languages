@@ -1,0 +1,94 @@
+<StrSheet_ChatChannelName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName StrSheet_ChatChannelName.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName">
+    <Channel id="CHATTYPE_NORMAL" name="Рядом" shortcuts="s,general,say" />
+    <Channel id="CHATTYPE_PARTY" name="Группа" shortcuts="p,party" />
+    <Channel id="CHATTYPE_GUILD" name="Гильдия" shortcuts="g,guild" />
+    <Channel id="CHATTYPE_GUARD" name="Зона" shortcuts="a,area" />
+    <Channel id="CHATTYPE_BARGAIN" name="Обмен" shortcuts="t,trade" />
+    <Channel id="CHATTYPE_TEAM" name="Команда" shortcuts="b,team" />
+    <Channel id="CHATTYPE_WHISPER" name="Шепот" shortcuts="w,whisper" />
+    <Channel id="CHATTYPE_RAID" name="Рейд" shortcuts="i,ra,raid" />
+    <Channel id="CHATTYPE_RAID_LEADER" name="Лидер рейда" shortcuts="" />
+    <Channel id="CHATTYPE_PRIVATE_1" name="Канал 1" shortcuts="1" />
+    <Channel id="CHATTYPE_PRIVATE_2" name="Канал 2" shortcuts="2" />
+    <Channel id="CHATTYPE_PRIVATE_3" name="Канал 3" shortcuts="3" />
+    <Channel id="CHATTYPE_PRIVATE_4" name="Канал 4" shortcuts="4" />
+    <Channel id="CHATTYPE_PRIVATE_5" name="Канал 5" shortcuts="5" />
+    <Channel id="CHATTYPE_PRIVATE_6" name="Канал 6" shortcuts="6" />
+    <Channel id="CHATTYPE_PRIVATE_7" name="Канал 7" shortcuts="7" />
+    <Channel id="CHATTYPE_PRIVATE_8" name="Канал 8" shortcuts="8" />
+    <Channel id="CHATTYPE_DEALING" name="Торговля" shortcuts="j,bargain" />
+    <Channel id="CHATTYPE_PARTY_SEARCH" name="Поиск группы" shortcuts="u,lfg" />
+    <Channel id="CHATTYPE_PARTY_NOTICE" name="Важно" shortcuts="n,alert,notice" />
+    <Channel id="CHATTYPE_COMMAND" name="Уведомления команде" shortcuts="d" />
+    <Channel id="CHATTYPE_ADMIN_NOTICE" name="Системное" shortcuts="" />
+    <Channel id="CHATTYPE_RAID_NOTICE" name="Сообщения рейда" shortcuts="n,alert,notice" />
+    <Channel id="CHATTYPE_GENERAL" name="Мир" shortcuts="y" />
+    <Channel id="CHATTYPE_UNION" name="Альянс" shortcuts="f,alliance" />
+    <Channel id="CHATTYPE_UNIONELITE" name="Командование" shortcuts="l,echelon" />
+    <Channel id="CHATTYPE_UNION_NOTICE" name="Экзарх" shortcuts="x,exarch" />
+    <Channel id="CHATTYPE_SOCIAL" name="Эмоция" shortcuts="" />
+    <Channel id="CHATTYPE_RP" name="RP" shortcuts="e,em" />
+    <Channel id="CHATTYPE_MY_ATTACK" name="Атаки" />
+    <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" name="Критические удары" />
+    <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="Урон от падений " />
+    <Channel id="CHATTYPE_MY_DAMAGE_SMALL" name="Урон от приспешников" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" name="Критический урон от приспешников" />
+    <Channel id="CHATTYPE_MY_DAMAGE" name="Урон от монстров" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" name="Критический урон от монстров" />
+    <Channel id="CHATTYPE_MY_DAMAGE_LARGE" name="Урон от боссов" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" name="Критический урон от боссов" />
+    <Channel id="CHATTYPE_INFO" name="Уведомления" />
+    <Channel id="CHATTYPE_WORLD_INFO" name="Уведомления миру" />
+    <Channel id="CHATTYPE_ERROR_INFO" name="Сообщения" />
+    <Channel id="CHATTYPE_PARTY_INFO" name="Уведомления группе" />
+    <Channel id="CHATTYPE_GUILD_INFO" name="Уведомления гильдии" />
+    <Channel id="CHATTYPE_TEAM_INFO" name="Уведомления команде" />
+    <Channel id="CHATTYPE_INTERACTION_INFO" name="Уведомления интерфейса" />
+    <Channel id="CHATTYPE_WARNING" name="Предупреждения" />
+    <Channel id="CHATTYPE_GET_ITEM" name="Получены предметы" />
+    <Channel id="CHATTYPE_GET_EXP" name="Полученный опыт" />
+    <Channel id="CHATTYPE_GET_MONEY" name="Полученное золото" />
+    <ChatCommandList>
+        <CommandCategory name="Чат">
+            <Command name="  /make [НазваниеКанала] [пароль]  (Создать частный канал чата.)" />
+            <Command name="  /chat [НазваниеКанала] [пароль]  (Подключиться к существующему частному каналу чата.)" />
+            <Command name="  /leave [НазваниеКанала/номер] (Покинуть канал.)" />
+            <Command name="  /НазваниеКанала (/НомерКанала) (Введите название или номер канала после косой черты, чтобы отправить в него сообщение.)" />
+            <Command name="  /password [номер канала] [текущий пароль] [новый пароль]  (Сменить пароль.)" />
+            <Command name="/chatkick [номер канала] [персонаж]  (Исключить игрока из канала.)" />
+        </CommandCategory>
+        <CommandCategory name="Группа">
+            <Command name="  /invite [персонаж]  (Пригласить персонажа в группу.)" />
+            <Command name="  /drop  (Покинуть группу.)" />
+            <Command name="  /leader [член группы] (Сделать игрока лидером группы.)" />
+            <Command name="  /kick [член группы]  (Исключить персонажа из группу .)" />
+        </CommandCategory>
+        <CommandCategory name="Поиск группы">
+            <Command name="/goal [цель]  (Сменить цель вашей группы.)" />
+        </CommandCategory>
+        <CommandCategory name="Эмоция">
+            <Command name="/hi" />
+            <Command name="/bow" />
+            <Command name="/happy" />
+            <Command name="/sad" />
+            <Command name="/win" />
+            <Command name="/dance" />
+            <Command name="/taunt" />
+            <Command name="/clap" />
+            <Command name="/beg" />
+            <Command name="/think" />
+            <Command name="/love" />
+            <Command name="/charge" />
+            <Command name="/point" />
+            <Command name="/shy" />
+            <Command name="/mad" />
+        </CommandCategory>
+        <CommandCategory name="Групповой бой">
+            <Command name="/dminvite [персонаж]" />
+            <Command name="/dmjoin [лидер]" />
+            <Command name="/dmkick [персонаж]" />
+            <Command name="/dmleave" />
+            <Command name="/yield" />
+        </CommandCategory>
+    </ChatCommandList>
+</StrSheet_ChatChannelName>

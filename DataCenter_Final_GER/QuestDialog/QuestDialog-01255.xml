@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Nahe Frontera ist eine mutierende Seuche ausgebrochen, die ihre Opfer in schreckliche, mörderische Mutanten verwandelt. Kommandantin Fraya glaubte, dass Thulsa etwas damit zu tun hat. Ihr Berater Ibar schickte Euch, um die Sache zu untersuchen. Ihr habt die Legion von Thulsa besiegt, die Thulsas nekromantische Magie einsetzte, um die Seuche zu verursachen.&lt;BR&gt;&lt;BR&gt;Thulsa blieb verschwunden, aber Ihr konntet Pläne zur Massenfertigung der Magiesteine, die die Seuche verursachen, aufdecken.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Leitet eine sofortige Untersuchung der mutierenden Seuche in die Wege, die sich in Val Palrada ausbreitet.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Kommandantin Fraya in Allemantheia zur Einsatzbesprechung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5">Die Geschichten aus Val Palrada gefallen mir ganz und gar nicht: Leute verwandeln sich in mörderische Mutanten, die Toten entsteigen ihren Gräbern ... Klingt ziemlich fantastisch, aber unsere Feldkommandanten neigen gewöhnlich nicht zu Übertreibungen. Sie halten es für eine Seuche.&lt;BR&gt;&lt;BR&gt;Es klingt zwar nicht nach der Art Seuche, die Ihr in Popolion gesehen habt, aber ich vermute einen gemeinsamen Ursprung in Thulsa.&lt;NEXTPAGEBUTTON&gt;"Glaubt Ihr, Thulsa ist darin verwickelt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich wäre erstaunt, wenn es nicht so wäre. Nekromantie, dunkle Transformationen, und Kaidun sagte, Thulsa sei mit dem Kern in diese Richtung verschwunden. &lt;BR&gt;&lt;BR&gt;Trefft mich in Frontera. Wir sehen uns das näher an.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" prevId="3" villagerId="1023">
+        <Page social="5">Ich freue mich, dass Ihr gekommen seid. Das Mysterium beschäftigt hier Forscher, was wohl niemanden überrascht. Sie sagen, dass sie keine Verbindung zu Thulsa erkennen, aber das erscheint unwahrscheinlich.&lt;BR&gt;&lt;BR&gt;Geht in die Quarantänezone und sucht den Beweis.&lt;BR&gt;&lt;BR&gt;Ein Angebot der Truppen des Mysteriums könnte &lt;PCNAME&gt; veranlassen, etwas herausfinden zu wollen.&lt;BR&gt;&lt;BR&gt;Nehmt den Weg nach Norden, und wendet Euch nach Westen, wenn Ihr das Dorf verlasst. Viel Glück.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="240" prevId="4" villagerId="1007">
+        <Page social="5">Das Mysterium ist davon überzeugt, dass die Seuche nicht natürlichen Ursprungs ist, sondern das Werk dunkler Magie. Wir glauben, dass uns die {@LinkCreature:40#30#Dreiklingenmutanten} Beweise liefern können, aber Ihr werdet darum kämpfen müssen.&lt;BR&gt;&lt;BR&gt;Wir haben Spione in der Quarantänezone. Narpa ist dort verantwortlich. Er wird alle Beweise brauchen, die Ihr finden könnt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="240" prevId="5" villagerId="1035">
+        <Page social="5">Föderation? Ich auch! Diese Schädelwappen? Hm ... Das erklärt natürlich einiges.&lt;BR&gt;&lt;BR&gt;Einige von Thulsas Anhängern, von der Legion von Thulsa, stellten einen großen Stein nordwestlich der Quarantänezone auf. Sie nennen ihn {@LinkCreature:40#36#Eldritchscherbe}, und er hat dasselbe Wappen eingraviert.&lt;BR&gt;&lt;BR&gt;Das erinnert mich an den Stein, den sie im Zentrum all dieses Wahnsinns in Popolion gefunden haben.&lt;NEXTPAGEBUTTON&gt;"Dann müssen wir den Stein zerstören."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich bin Euch um einiges voraus. Nehmt diese Bombe und jagt das Ding in die Luft! Während Ihr die Sachen hochgehen lasst, versuche ich, hier noch mehr herauszufinden.&lt;BR&gt;&lt;BR&gt;Ach, und achtet auf {@LinkCreature:40#32#Zombieminenarbeiter}. Wirklich garstige Typen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="240" prevId="6" villagerId="1015">
+        <Page social="5">Eure Taten brachten Licht in eine verworrene Situation, &lt;PCNAME&gt;. Lashirah im Forschungszentrum der Quarantänezone will sicher Neues darüber erfahren. Sie hat die undankbare Aufgabe, die Legion Thulsas abzuwehren. Und was immer der schadet, soll ihr nur recht sein.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="240" prevId="7" villagerId="1004">
+        <Page social="5">Die Legion von Thulsa ist dank Euch in Aufruhr! Und Gerüchten zufolge glaubt Fraya, dass die mutierende Seuche Thulsas Werk ist. Ist das wahr?&lt;NEXTPAGEBUTTON&gt;"Ja, das glaubt sie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">{@LinkCreature:40#42#Legat Mureksark} kommandiert den Stützpunkt der Legion ganz oben auf den Klippen nahe den Vergessenen Minen. Ich vermute, dass sich dort oben Beweise für eine Verbindung zwischen Kaligos und Thulsa finden lassen.&lt;BR&gt;&lt;BR&gt;Beseitigt Mureksark und sucht diese Beweise.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="75" prevId="8" villagerId="1023">
+        <Page social="4">Seht Euch das an! Ihre Pläne für noch mehr Magiesteine - sie planten eine Massenfertigung. Die Mutantenseuche hätte sich auf dem ganzen Kontinent ausgebreitet!&lt;BR&gt;&lt;BR&gt;Zum Glück hätte es dafür nur wenige geeignete Orte gegeben.&lt;NEXTPAGEBUTTON&gt;"Soll ich mit der Suche beginnen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Zuerst unterbrechen wir ihre Materialzufuhr. Es gibt nur zwei Orte, um an das Material zu kommen: das Allemantheianische Kommando und das Mysterium.&lt;BR&gt;&lt;BR&gt;Beide Möglichkeiten sind beunruhigend.&lt;BR&gt;&lt;BR&gt;Wir müssen ihre Quelle aufspüren. Jetzt!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="75" villagerId="1023">
+        <Page social="0">Habt Ihr etwas Neues herausgefunden?</Page>
+    </Text>
+</QuestDialog>

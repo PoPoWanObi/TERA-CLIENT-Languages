@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0">Киллиан и Атель-акаад не поняли намека. Как истинный &lt;PCCLASS:lcase&gt; донеси им послание, которое они точно поймут.&lt;BR&gt;&lt;BR&gt;Уничтожь {@LinkCreature:57#1#Сикандари-крепышей}, {@LinkCreature:57#5#Геилрикских адских гончих}, {@LinkCreature:57#13#Кровавых штурмовиков}, {@LinkCreature:57#16#Кровавых магов}, {@LinkCreature:57#26#Кровопроливателей} и {@LinkCreature:57#21#Кровавых формователей} Лока, а также {@LinkCreature:57#23#Жутких покорителей}.&lt;BR&gt;&lt;BR&gt;По завершении задания поговори с Вевиной в Лагере "Алый молот".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1007">
+        <Page social="4">Спасибо тебе от лица всей Федерации!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1007">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

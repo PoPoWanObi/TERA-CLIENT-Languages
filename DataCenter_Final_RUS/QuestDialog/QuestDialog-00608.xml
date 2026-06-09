@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">Множество археологов работало в окрестностях &lt;FONT COLOR='#660000'&gt;Развалин каменного столпа&lt;/FONT&gt;, но сейчас их всех разогнали кулкари.&lt;BR&gt;&lt;BR&gt;Перед исследованием статуй нужно навести там порядок. Если бы тебе удалось справиться с {@LinkCreature:21#9#Скальными преследователями-злобнями} и {@LinkCreature:21#10#Скальными преследователями-крушителями} в тех краях, мы бы смогли начать наши исследования раньше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Спасибо. Наконец-то мы можем сосредоточиться на археологии.</Page>
+    </Text>
+</QuestDialog>

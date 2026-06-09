@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1001">
+        <Page social="5">Das Dorf ist heute von einer traurigen Stille erfüllt. Normalerweise spinnt unser Wanderbarde die fantastischsten Geschichten, aber er ist nirgends zu finden.&lt;BR&gt;&lt;BR&gt;Habt Ihr von Porun gehört? Wenn er weggelaufen ist, stimmt vielleicht wirklich etwas nicht. Das Dorf wäre Euch dankbar, wenn Ihr nach ihm suchen könntet.&lt;BR&gt;&lt;BR&gt;Hin und wieder geht er zum Kreuzungslager. Seht doch dort einmal nach.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1026">
+        <Page social="5">Die Gesänge der Natur sind hier deutlich zu hören. Angeblich ist das Heilige Becken der Ursprung allen Lebens, und wenn Ihr ganz leise seid, könnt Ihr Shara beinahe träumen hören.&lt;BR&gt;&lt;BR&gt;In der Stadt könnt Ihr natürlich so ruhig sein, wie Ihr wollt. Diese verdammten Touristen überall. Ich versuche, ein Geheimnis zu lüften, aber die Gefahren dieser Wälder sind mächtiger als meine Feder.&lt;NEXTPAGEBUTTON&gt;"Kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Wenn ich diese Region nur besser verstehen könnte, würde meine Muse bestimmt zu mir zurückkehren. Einst fand ich einen alten Grabstein. Er trug eine Inschrift, doch ich nahm mir nicht die Zeit sie zu lesen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr diese Nachricht findet, folgt ihr, bis Ihr ihr Geheimnis kennt - vielleicht wird dadurch die Inspiration freigesetzt, die mir jetzt fehlt.&lt;BR&gt;&lt;BR&gt;Sprecht mit {@LinkCreature:226#1006#Narden}. Er weiß bestimmt, wo sich der Grabstein befindet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" prevId="3" villagerId="1006">
+        <Page social="5">Porun kann keine Geschichten mehr erzählen? Eine Schande! Was sucht Ihr denn?&lt;BR&gt;&lt;BR&gt;Ah, der Beschreibung nach handelt es sich um den {@LinkCreature:226#1018#Grabstein des Waldhüters}. Ich kann mir allerdings nicht vorstellen, dass ihm das weiterhilft, aber seht ihn Euch selbst an.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="226" prevId="4" villagerId="1018">
+        <Page social="5">(Eine feine Inschrift besagt "Die Wahrheit gibt sich nur zu erkennen, wenn man alle vorgefassten Vorstellungen aufgibt.")</Page>
+    </Text>
+    <Text id="6" huntingZoneId="226" prevId="5" villagerId="1026">
+        <Page social="5">Habt Ihr ihn gefunden? Was steht da? Oh, mir juckt das Fell!&lt;BR&gt;&lt;BR&gt;Interessant! Der Grabstein stand schon viele Jahre da, bevor Ihr Euch dorthin aufmachtet. Das ist tragisch und schön zugleich. Ich merke schon, wie sich eine Geschichte abzeichnet!&lt;BR&gt;&lt;BR&gt;Danke sehr, &lt;PCNAME&gt;. Ihr habt das Feuer meiner Seele neu entfacht. Ich werde dieses Feuer in Worte gießen.</Page>
+    </Text>
+</QuestDialog>

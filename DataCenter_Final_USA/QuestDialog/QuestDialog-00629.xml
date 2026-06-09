@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="4">We still don't know how Sidurek accomplished the changes in the Free Brotherhood. I need you to return to the ruins and see if he left any clues.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1032">
+        <Page social="4">(You see a book. It could be a journal.)&lt;NEXTPAGEBUTTON&gt;Read the journal.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&lt;FONT COLOR='#660000'&gt;...Contaminating the drinking water proved quite effective, or any drinks or food. After many tests, I decided to fill a barrel with wine and contaminate it using the orb...&lt;/FONT&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1034">
+        <Page social="4">(Ash fills the barrel. You reach in and feel around, then pull out a round object.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="4" villagerId="1031">
+        <Page social="4">You think he may have done it with this? Hmm.&lt;BR&gt;&lt;BR&gt;Well, thank you for your time and service here, &lt;PCNAME&gt;. I'll get this off to Velika with the next messenger. They'll have our answers.</Page>
+    </Text>
+</QuestDialog>

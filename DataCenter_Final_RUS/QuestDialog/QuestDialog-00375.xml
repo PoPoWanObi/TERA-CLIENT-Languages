@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="4">Теперь охраной пирса Казурского синдиката занимаются пираты. Благодаря тебе, &lt;PCNAME&gt;, у гулов больше нет собственной охраны.&lt;BR&gt;&lt;BR&gt;Хотя не так уж важно, кто именно охраняет пирс. Мы не должны позволить кораблям причалить к нему.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:12#13#Наездники когтя Красной плети} должны исчезнуть. Ни один капитан не рискнет пристать к неохраняемому пирсу, и Казурский Синдикат не сможет вывезти рабов.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Да уж, ты и в самом деле худший кошмар рабовладельцев, &lt;PCNAME&gt;. Боги благословляют тебя за стремление к справедливости.</Page>
+    </Text>
+</QuestDialog>

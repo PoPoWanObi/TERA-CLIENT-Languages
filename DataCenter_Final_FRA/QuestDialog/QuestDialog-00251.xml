@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="0">Au moment de mourir, l'incarnation du Noyau allait perdre le contrôle de l'immense énergie contenue dans le Noyau. Elion s'est souvenu qu'Akasha allait transférer les pouvoirs du Noyau vers elle-même, et qu'elle avait construit un appareil pour y parvenir. Fraya, Elion et vous-même avez trouvé l'appareil de transfert dans le Labyrinthe d'Or où vous avez vaincu les sbires d'Akasha. Puis Fraya a fait le sacrifice de son enveloppe mortelle pour devenir une avec le Noyau et le stabiliser.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5">Serion ne maîtrisera bientôt plus l'énergie du Noyau. Je ne sais pas combien de temps il tiendra encore. La dernière fois que nous avons perdu le contrôle de l'énergie du Noyau, la moitié d'un continent a été dévastée. Nous devons trouver un nouveau réceptacle pour l'énergie du Noyau avant qu'une catastrophe n'arrive.&lt;NEXTPAGEBUTTON&gt;"Vous pensez à quelqu'un en particulier?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">... Nous avons un certain nombre d'options. Je suis en train de faire le tour de la question. Quoi qu'il en soit, nous allons avoir besoin d'une source d'énergie puissante pour contrôler celle du Noyau. En temps normal, Serion pourrait nous la fournir, mais dans le présent contexte, je pense qu'il va nous falloir recourir à une source d'énergie alternative. Trouvez quelque chose... et vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1104">
+        <Page social="5">Une source d'énergie alternative... c'est bien ce que vous dites?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Elle est donc bel et bien partie pour le faire, c'est certain. Ce ne sera pas faute d'avoir tenté de l'en dissuader.&lt;NEXTPAGEBUTTON&gt;"Attendez, qui va faire quoi?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Qui pourrait devenir le Noyau?&amp;nbsp; Pour ça, il faut être prêt à tout sacrifier. Comme Serion, le nouveau Noyau ne sera ni mort, ni vivant... il se contentera d'exister pour assurer jusqu'à la fin des temps la pérennité d'Allemantheia.&lt;BR&gt;&lt;BR&gt;Une fois qu'elle sera devenue le Noyau, il n'y aura pas de retour en arrière possible.&lt;NEXTPAGEBUTTON&gt;"Mais qui ça, "elle"?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bah... oubliez ça...&lt;BR&gt;&lt;BR&gt;Je suis en train de me perdre en conjectures... de toute façon, tout ce dont je parle est impossible dans la pratique tant que nous ne disposerons pas d'une quantité d'énergie suffisante pour transférer le Noyau d'un corps à un autre.&lt;BR&gt;&lt;BR&gt;Akasha avait peut-être la solution. Si elle comptait s'approprier la puissance du Noyau... c'est qu'elle devait disposer d'une source d'énergie lui permettant de le faire.&lt;BR&gt;&lt;BR&gt;La source en question doit se trouver quelque part dans le Labyrinthe d'Or, au cœur des Cavernes affamées.&lt;BR&gt;&lt;BR&gt;Dites à Fraya que nous allons nous mettre à sa recherche!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1105">
+        <Page social="5">Akasha a disparu, mais ses serviteurs montent encore la garde dans le Labyrinthe d'Or. Toutefois, disposer d'une chance, même infime, c'est toujours mieux que rien.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, rejoignez Elion et emparez-vous de l'appareil. Une fois la mission accomplie, utilisez cet objet pour me contacter.&lt;BR&gt;&lt;BR&gt;Le tribun Sophilia saura vous orienter vers le Labyrinthe d'Or.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1016">
+        <Page social="5">Karina saura vous dire comment pénétrer dans le Labyrinthe d'or. Elle vous attend au Poste alpha de l'Avant-garde.&lt;BR&gt;&lt;BR&gt;Une fois sur place, vous devrez vous débrouiller {@gender:seul/seule}, j'espère que vous en avez conscience.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
+        <Page social="5">Elion m'a dit que vous ne tarderiez pas à arriver, &lt;PCNAME&gt;. Il m'a également dit de vous demander par quel miracle il arrivait toujours sur place avant vous. Je crois qu'il s'agissait d'une plaisanterie...&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, il n'a pas beaucoup d'avance sur vous. Prenez l'ascenseur menant au second niveau et empruntez l'entrée nord.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1032">
+        <Page social="5">Il était temps, &lt;PCNAME&gt;!&amp;nbsp; J'ai déjà désamorcé les pièges pour vous permettre d'emprunter l'&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#90874,57238,-1810&amp;type=1&amp;name=entrée du Labyrinthe"&gt;entrée du Labyrinthe&lt;/A&gt;&lt;/font&gt;. Nous avons déjà des éclaireurs à l'intérieur. Cherchez Runshia. Nous serons séparés, mais je passerai la voir régulièrement.&lt;NEXTPAGEBUTTON&gt;"Comment ça... séparés?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Votre chemin est trop facile, &lt;PCNAME&gt;. Je vais en dégager un autre, au cas où il nous faudrait battre en retraite en urgence.&lt;NEXTPAGEBUTTON&gt;"Vous aurez besoin de ça, alors."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">L'insigne du commandant Fraya... Je vois.&lt;BR&gt;&lt;BR&gt;Je dois donc la contacter lorsque nous aurons mis la main sur l'appareil de transfert du Noyau... Compris!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Oh, je vois. Vous me donnez ça pour m'obliger à aller là où je dois aller, plutôt que de me promener à mon gré... C'est très ingénieux, &lt;PCNAME&gt;. Vous me connaissez trop bien.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="472" prevId="7" villagerId="1001">
+        <Page social="5">Nous n'avons pas encore trouvé l'appareil de transfert du Noyau, mais nous savons à peu près où chercher. Pendant ce temps, une autre mission urgente vous attend...&lt;BR&gt;&lt;BR&gt;Non, de la part de Jelena, pas d'Elion.&lt;BR&gt;&lt;BR&gt;Elle essaie de se frayer un passage jusque dans la Chambre de justice, et elle a besoin de votre aide.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="472" prevId="8" villagerId="1003">
+        <Page social="5">Ravie de vous voir, &lt;PCNAME&gt;. Si nous parvenons à traverser ces chambres, il nous sera facile d'atteindre l'appareil. Mais je n'arrive pas à ouvrir cette porte.&lt;BR&gt;&lt;BR&gt;Il y a un gardien dans le passage ouest, mais je n'ai pas trouvé le moyen de l'attirer ici pour le combattre.&lt;BR&gt;&lt;BR&gt;Empruntez ce passage latéral. A son extrémité, vous trouverez l'{@LinkCreature:472#1012#obélisque ouest}. Elle vous mènera au gardien, {@LinkCreature:472#22#Cœur de béryl}. Je vous attends ici en espérant que la mort de Cœur de béryl ouvrira la porte. J'ai bien peur qu'Elion ne soit en train d'agir inconsidérément.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="472" prevId="9" villagerId="1003">
+        <Page social="5">La porte s'est ouverte!&amp;nbsp; J'ignore comment ouvrir la prochaine, mais ce qui est sûr, c'est que ces monstres ne vont pas se tuer tout seuls!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Dégagez le passage, histoire que nous puissions nous occuper de la porte!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="472" prevId="10" villagerId="1019">
+        <Page social="5">Le poison... Je peux à peine marcher droit. Continuez sans moi, &lt;PCNAME&gt;!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Trouvez l'appareil!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Où dois-je aller?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Rendez-vous à la Chambre de la Sauvagerie, située à l'est. Trouvez l'{@LinkCreature:472#1011#obélisque est}. Elle vous permettra d'y accéder.&lt;BR&gt;&lt;BR&gt;C'est là que devrait se trouver l'appareil de transfert. Il aura certainement été placé sous bonne garde. On m'a rapporté la présence de {@LinkCreature:472#19#Varcerbus} et de {@LinkCreature:472#5000#Valgmore}, alors prudence!&amp;nbsp;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="472" prevId="11" villagerId="1007">
+        <Page social="5">Nous avons l'appareil!&amp;nbsp; Contactons Fraya avant qu'une autre catastrophe ne nous tombe dessus.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="472" prevId="12" villagerId="1007">
+        <Page social="5">Fraya doit être rentrée à Castanica. Nous devrions y aller aussi. Elle ne serait pas partie sans une bonne raison.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="61" prevId="13" villagerId="1104">
+        <Page social="5">Bon, nous avons évité une dévastation d'ampleur continentale... pas mal, pour une seule journée de travail!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Et grâce à Fraya qui stabilise le Noyau, Allemantheia est également tirée d'affaire.&lt;NEXTPAGEBUTTON&gt;"Ca n'a pas l'air de vous faire plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">J'essaie de voir le bon côté des choses. Si la personne la plus satisfaite de l'histoire se trouve être précisément celle qui a consenti le plus gros sacrifice, comment pourrais-je discuter ses choix?&amp;nbsp; Elle avait de toute façon déjà décidé de se sacrifier pour Allemantheia... pour notre peuple.&lt;BR&gt;&lt;BR&gt;Quand je pense aux efforts que j'ai déployés pour éviter le commandement et les responsabilités qui vont avec, j'ai honte de moi.&lt;BR&gt;&lt;BR&gt;Fraya... enfin, je devrais dire le Noyau, désormais... tient à vous remercier en personne. Pourquoi ne pas aller la voir?&amp;nbsp;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="61" prevId="14" villagerId="1105">
+        <Page social="5">Je... mais puis-je encore dire "je"... il reste bien peu de Fraya en moi. Il me faudra du temps pour m'y habituer. Comme Serion a dû souffrir pour y parvenir...&lt;BR&gt;&lt;BR&gt;Je vais devoir rentrer à Allemantheia au plus vite. Son peuple a besoin du Noyau et du symbole représenté par Fraya.&lt;BR&gt;&lt;BR&gt;Le Noyau se trouve au-delà des préoccupations des mortels, mais... "je" ne peux oublier le mal qui a été fait à Kaidun. Tremblez, Akasha... Thulsa... le Noyau n'a pas perdu la mémoire... et ce qui reste de Fraya en lui sait quels sacrifices elle a consentis.&lt;BR&gt;&lt;BR&gt;Je vous remercie de tout ce que vous avez pu faire pour nous, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

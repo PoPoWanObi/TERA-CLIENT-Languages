@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">У меня достаточно заданий, чтобы раздавать их несколько дней, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Так. Тебе нужно заняться {@LinkCreature:20#30114001#Оссугонскими центурионами}, {@LinkCreature:20#30114002#Оссугонскими префектами} и {@LinkCreature:20#30114003#Оссугонскими примипилами}. Они в Залах Теней, сторожат проход на самый нижний ярус.&lt;BR&gt;&lt;BR&gt;Встреться с Пелсусом, когда закончишь. Он... сейчас гляну... в Залах Мрака.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1004">
+        <Page social="4">Отлично сработано! Приятно видеть, что нашим бойцам не сидится на месте!&lt;BR&gt;&lt;BR&gt;Вот твоя награда!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1004">
+        <Page social="0">У тебя тут дела?</Page>
+    </Text>
+</QuestDialog>

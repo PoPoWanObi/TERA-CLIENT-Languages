@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="4">Нам все труднее противостоять атакам {@LinkCreature:39#140#Невольников-смотрителей} и {@LinkCreature:39#150#Безумных невольников} на наш лагерь.&lt;BR&gt;&lt;BR&gt;Будет здорово, если ты заставишь их отступить.&lt;BR&gt;&lt;BR&gt;Если, конечно, ты здесь не для мебели...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1009">
+        <Page social="0">Великолепно, &lt;PCNAME&gt;. Если ты останешься, мы сможем отправить какого-нибудь бедолагу домой. Как знать... может это даже буду я! Или Чаман. Боги свидетели, она это заслужила.</Page>
+    </Text>
+</QuestDialog>

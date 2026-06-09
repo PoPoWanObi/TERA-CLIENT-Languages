@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Nun weiß ich wenigstens, dass ich Euch trauen kann. Ich bin mir sicher, dass Licinza eine Spionin ist. Wenn man einen Spion anzeigt, wandert er in den Knast. Aber wenn man einen in die FALLE lockt, kann man ihn benutzen! Mit Licinza werde ich fertig, aber die Meisterspionin des Kults, {@LinkCreature:17#205#Vilastasia}, wird von der Sache mit dem Verzeichnis Wind bekommen.&lt;BR&gt;&lt;BR&gt;Also müssen wir sie töten. Ja! Perfekt. Bewahrt das Geheimnis und beschützt die Spionin. Meint Ihr, dass Ihr das schafft?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Ihr seid {@gender:ein/eine} {@gender:guter/gute} {@gender:Soldat/Soldatin}! Nun senden wir die Plünderer dorthin, wohin WIR wollen!&lt;BR&gt;&lt;BR&gt;Nur mit entsprechender Planung und Informationen gewinnt man Kriege. &lt;PCCLASS&gt;, Ihr habt uns heute beides verschafft.</Page>
+    </Text>
+</QuestDialog>

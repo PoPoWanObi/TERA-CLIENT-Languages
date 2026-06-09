@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Ces enragés sihrans ont pris le Mont Tyrannas et harcèlent notre chaîne de ravitaillement.&lt;BR&gt;&lt;BR&gt;Débarrassez-moi donc des {@LinkCreature:32#1#combattants sihrans}, des {@LinkCreature:32#2#têtes cornues tuwangis} et des {@LinkCreature:32#3#berserkers sihrans} pour les calmer.&lt;BR&gt;&lt;BR&gt;Allez voir Kamese si vous réussissez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1030">
+        <Page social="4">Bien joué!&amp;nbsp; Nous avons envoyé des soldats terminer le travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1030">
+        <Page social="0">J'ai besoin d'une preuve du travail accompli pour pouvoir vous remettre la récompense.</Page>
+    </Text>
+</QuestDialog>

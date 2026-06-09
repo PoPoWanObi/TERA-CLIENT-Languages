@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="4">&lt;FONT COLOR='#660000'&gt;Эссенция ветра&lt;/FONT&gt; славится чудесными очистительными свойствами. Почему? Потому что только благодаря &lt;FONT COLOR='#660000'&gt;эссенции ветра&lt;/FONT&gt;, в нашей деревне всегда есть чистая питьевая вода.&lt;BR&gt;&lt;BR&gt;Это бесценный ресурс, позволяющий не погибнуть здесь.&lt;BR&gt;&lt;BR&gt;Если тебе однажды доведется наткнуться на него, я очень щедро заплачу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1008">
+        <Page social="4">Да, у тебя получилось! Спасибо!&lt;BR&gt;&lt;BR&gt;Люди, которые рассчитывают на воду из оазиса, будут тебе благодарны, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" villagerId="1008">
+        <Page social="0">Если сможешь достать для меня немного эссенции ветра для поддержания чистоты оазиса, я буду тебе очень благодарен.</Page>
+    </Text>
+</QuestDialog>

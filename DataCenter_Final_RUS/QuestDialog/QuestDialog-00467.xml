@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="5">Ух! Я весь день составлял планы эвакуации. Все другие дела пришлось забросить.&lt;BR&gt;&lt;BR&gt;Я даже не помог молодому... как его? Гумби? Гамилону? Ну, тому малышу у южных ворот.&lt;BR&gt;&lt;BR&gt;Кажется, у него что-то срочное. Ты ведь мне с ним поможешь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="5">О, спасибо! Старый Биси так занят! Удивительно, что он вообще вспомнил! Лагерь "Бдительность", тот что к югу отсюда, полон исследователей, изучающих болезни. Но {@LinkCreature:15#3#Понурые смоляные саблезубы} мешают всякому сообщению с этим лагерем. Можешь ли ты расчистить дорогу?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1009">
+        <Page social="5">Клыки саблезуба! На них куда приятнее смотреть, когда нет самого саблезуба, верно?&lt;BR&gt;&lt;BR&gt;А не сможешь ли ты мне помочь с одной маленькой проблемкой?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1009">
+        <Page social="0">Лучше десяток клыков саблезуба в руке, чем пара в загривке. Ты ведь помнишь, что тебе следует с ними сделать, правда?</Page>
+    </Text>
+</QuestDialog>

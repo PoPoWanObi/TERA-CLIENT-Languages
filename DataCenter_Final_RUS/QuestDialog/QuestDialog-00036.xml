@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">Недавно я поймал в лесу бандита и в его вещах нашел карту. Похоже, что он и его подельники спрятали наши товары в тайниках - они отмечены на карте. Награбленное добро хранится &lt;FONT COLOR='#660000'&gt;в северо-восточной части Кровавой тропы!&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;У нас появился отличный шанс вернуть украденный товар. &lt;PCNAME&gt;, прошу, помоги нам.&lt;BR&gt;&lt;BR&gt;Если ты пройдешь по &lt;FONT COLOR='#660000'&gt;Кровавой тропе&lt;/FONT&gt;, наверняка отыщешь груду сундуков, которые бандиты отняли у нас. Пожалуйста, верни наш драгоценный товар!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1005">
+        <Page social="8">Вот это да! &lt;PCNAME&gt;, я от всего сердца благодарю тебя за помощь. Я прекрасно знаю, какое опустошение сеют вокруг деванские разбойники, и уже успел попрощаться со своим товаром, но тебе удалось сделать невозможное! Пусть боги благословят тебя! Уверен, они это обязательно сделают!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1005">
+        <Page social="0">Тебе удалось найти мой товар? Или деванцы обнаружили тебя раньше? Мерзкие маленькие твари! Ты ведь тоже о них такого мнения?</Page>
+    </Text>
+</QuestDialog>

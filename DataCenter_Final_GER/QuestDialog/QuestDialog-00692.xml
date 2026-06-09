@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="5">Die {@LinkCreature:22#7#Hexenlehrlinge} sind am wenigsten gefährlich, aber auch am zahlreichsten. Wenn das ansteckend ist, müssen wir es aufhalten.&lt;BR&gt;&lt;BR&gt;Sie versammeln sich in der Großen Halle. Vernichtet sie, und sucht {@LinkCreature:222#1008#Duani} auf, wenn Ihr fertig seid.&lt;NEXTPAGEBUTTON&gt;"Die Schüler töten?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ja, verdammt. Wir werden eine Armee aus Mystikern anwerben, um sie wiederzubeleben, wenn alles vorüber ist.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#1#Wütende Schnurrratoren} und {@LinkCreature:22#2#Ausgelassene Schnurrratoren} werden die listigen Lehrlinge beschützen, seid also vorsichtig. &lt;BR&gt;&lt;BR&gt;Nehmt alle Notizen und Briefe, die die Lehrlinge bei sich tragen, an Euch. Darin könnten sich Hinweise befinden.&lt;BR&gt;&lt;BR&gt;Seid vorsichtig, was Ihr {@LinkCreature:222#1008#Duani} sagt. Ihr Tod wird sie schwer treffen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1008">
+        <Page social="5">Ihr habt Kinder erschlagen, nur um Hinweise zu finden?&lt;BR&gt;&lt;BR&gt;Was für eine Art von ... Nein, Ihr habt recht. Sie hat recht. Das ist nicht die Zeit für Gefühle.&lt;BR&gt;&lt;BR&gt;Wir brauchen Antworten. Ich werde diese Briefe durchsehen, vielleicht finde ich etwas heraus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1008">
+        <Page social="0">Stimmt das, Ihr sammelt Hinweise und Briefe?&lt;BR&gt;&lt;BR&gt;Das tut Ihr? Großartig. Kehrt zurück, wenn Ihr fertig seid.</Page>
+    </Text>
+</QuestDialog>

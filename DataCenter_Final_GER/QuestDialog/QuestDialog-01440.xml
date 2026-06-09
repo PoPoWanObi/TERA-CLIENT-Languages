@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Der {@Rgn:47002$$Weißfrostwald} ist für unsere Forscher nach wie vor nicht sicher. Ich wäre Euch dankbar, wenn Ihr den {@LinkCreature:47#1001#Tirkaigrizzlys} nachstellen könntet. Und lichtet die Reihen der {@LinkCreature:47#4001#Argonomorphdagonitkreuzritter} und {@LinkCreature:47#2001#Argonomorphcaprinwichtel}, wenn Ihr schon dabei seid.&lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine} im {@Rgn:47006$$Feldlager des Irrsinns} wird sich um Eure Belohnung kümmern.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Vielen Dank.&lt;BR&gt;&lt;BR&gt;Ihr habt dazu beigetragen, dass wir uns alle ein bisschen sicherer fühlen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">Wenn Ihr die {@LinkCreature:47#1001#Tirkaigrizzlys}, {@LinkCreature:47#4001#Argonomorphdagonitkreuzritter} und {@LinkCreature:47#2001#Argonomorphcaprinwichtel} im {@Rgn:47002$$Weißfrostwald} ausgedünnt habt, kommt wieder zu mir.</Page>
+    </Text>
+</QuestDialog>

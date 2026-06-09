@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0">You look like someone with a taste for the finer things.&lt;BR&gt;&lt;BR&gt;Want to turn a quick profit? I need a messenger.&lt;BR&gt;&lt;BR&gt;Get this to {@LinkCreature:218#1008$$Nangor} as soon as possible!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1008">
+        <Page social="0">What's {@LinkCreature:218#1028$$Bumon} want?&lt;BR&gt;&lt;BR&gt;Oh, no! No, no, no. Mana filters from {@LinkCreature:18#10$$sentinel golems}? The money I owe him's not worth my hide!&lt;BR&gt;&lt;BR&gt;If you get it instead, I'll pay you instead of him!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1008">
+        <Page social="0">This is what we call a win-win situation. Bumon gets his due, you get paid, and I keep breathing!&lt;BR&gt;&lt;BR&gt;Here's your share.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1008">
+        <Page social="0">No, he wants mana filters from {@LinkCreature:18#10$$sentinel golems}—a load of them. You'll need to kill plenty.</Page>
+    </Text>
+</QuestDialog>

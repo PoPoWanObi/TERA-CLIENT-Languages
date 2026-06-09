@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Представляешь, один из наших солдат пропал, когда мы патрулировали окрестности постоялого двора при храме. Для нас всех это было настоящее потрясение. Оглянуться не успели, а его уже нет.&lt;BR&gt;&lt;BR&gt;Я буду тебе очень благодарен, если ты найдешь Тилиана. Поможешь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">Значит, он все-таки мертв. Я опасался этого, но все же...&lt;BR&gt;&lt;BR&gt;Сообщишь весть об этом его брату Буртранду?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">Пожалуйста, отыщи Тилиана. Мы все переживаем, потому что не знаем, что с ним случилось.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1016">
+        <Page social="4">Тилиан мертв? Я не переставал надеяться, что он каким-то чудом уцелел. Надеюсь, он хотя бы не мучился.&lt;BR&gt;&lt;BR&gt;Со мной все будет хорошо. Правда. Теперь я буду мстить за его смерть этим ублюдкам.</Page>
+    </Text>
+</QuestDialog>

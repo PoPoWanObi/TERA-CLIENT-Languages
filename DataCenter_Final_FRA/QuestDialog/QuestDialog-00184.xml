@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="5">A force de cogner, trancher, trouer du fouaille-tripes à longueur de journées, nos armes commencent à tomber en morceaux. Il est plus que temps de les remettre en état, mais nous manquons sévèrement de ressources.&lt;BR&gt;&lt;BR&gt;J'ai déjà tellement de trucs à réparer que je ne peux me permettre de m'absenter pour aller chercher du &lt;font color='#660000'&gt;minerai de krymétal&lt;/font&gt;. Si vous n'avez rien d'autre à faire, vous pourriez peut-être aller m'en trouver?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1011">
+        <Page social="5">Excellent!&amp;nbsp; C'est exactement ce qu'il me fallait pour les réparations!&amp;nbsp; Merci beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1011">
+        <Page social="0">Je vous en prie... sans ce minerai, nos soldats ne pourront bientôt plus combattre!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

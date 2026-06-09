@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1002">
+        <Page social="5">Не только жестоких клоунов Киллиана ожидает расплата. Его капельмейстеры и музыканты должны замолчать навсегда. Избавься от этого непрошеного оркестра и уничтожь их пыточные инструменты.&lt;BR&gt;&lt;BR&gt;Федерацию ждет успех только после смерти злых богов. Это понятно, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1002">
+        <Page social="5">&lt;PCCLASS&gt; не подвел нас!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1002">
+        <Page social="0">Уничтожь Капельмейстеров и Mузыкантов Киллиана в Лабиринте Ужаса. Федерации нужна твоя помощь.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="0">Советник Тейл рассказал о подозрениях Эллеона в отношении Ущелья Скверны, послал вас на разведку. По пути вы спасли припасы с разбившегося дирижабля, а также его пилота от орканов.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="4">Мы с Эллеоном переживаем из-за демонов в Ущелье Скверны. Это опасное место, мы много сил потратили, завоевывая его.&lt;BR&gt;&lt;BR&gt;Я пошлю тебя искать Эллеона, &lt;PCNAME&gt;, но ты по пути помогай всем, кого встретишь.&lt;BR&gt;&lt;BR&gt;{@linkcreature:64#1033$$Бипи} занимается перевозками до дальних застав. Поговори с ней, она поможет тебе во всем разобраться.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1033">
+        <Page social="4">У меня для тебя, &lt;PCCLASS:lcase&gt;, ужасные новости. Разбился наш дирижабль снабжения, с пилотом нет связи.&lt;BR&gt;&lt;BR&gt;{@linkcreature:213#1007$$Хионе} умна и находчива, но она же не солдат. Мы собираем спасательный отряд, но ведь есть еще и ты! Ступай на восток по дороге, разберись с орканами Темного Когтя, а также постарайся собрать побольше припасов, пока ищешь Хионе.&lt;BR&gt;&lt;BR&gt;Ну, чего ты ждешь?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1007">
+        <Page social="4">Наконец-то, кто-то, кто не собирается вонзить в меня меч.&lt;BR&gt;&lt;BR&gt;Сначала все шло по плану, а потом - взрыв. После крушения из обломков стали выбираться терроны. А их среди груза точно не должно было быть.&lt;BR&gt;&lt;BR&gt;Я буду ждать здесь, с припасами, которые тебе удалось собрать. Орканы пока за мной просто наблюдают... пока.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1007">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

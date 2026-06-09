@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="0">Vous avez pénétré dans le {@Rgn:9025001$$Temple de Balder} et retrouvé une princesse Rida extrêmement surprise, amenée avec vous on ne sait comment. Vous avez triomphé des dernières épreuves imposées par le protecteur du temple, le {@Creature:425#8005$$Scarabée du Soleil}. La déesse Mystel a annoncé qu'en réussissant les épreuves, vous aviez offert d'autres choix à ce monde. Plus tard, {@Creature:71#1114$$Rida} vous a dit qu'elle pouvait sentir que le monde changeait, en bien.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="1">&lt;PCNAME&gt;? Comment sommes-nous arrivés ici?&amp;nbsp; Je parlais à mes conseillers et, oh, c'est le Temple de Balder?&amp;nbsp;&lt;BR&gt;&lt;BR&gt; Vos sens ne sont pas aussi aiguisés que les miens. Je peux sentir une grande puissance en son centre.&lt;BR&gt;&lt;BR&gt;Qu'attendons-nous?&amp;nbsp; Allons-y!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10008">
+        <Page social="1">Comme je vous l'avais dit lors de notre dernière rencontre, vos épreuves n'ont pas de fin.&lt;BR&gt;&lt;BR&gt;Comme votre triomphe à la fontaine, le prix d'aujourd'hui vous accordera plus de choix demain.&lt;BR&gt;&lt;BR&gt;Montrez la clé du temple à {@LinkCreature:425#10005$$Rida}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="425" prevId="3" villagerId="10005">
+        <Page social="1">Hum. La seule partie arcanique est ce miroir incrusté dans la poignée.&lt;BR&gt;&lt;BR&gt;On dirait qu'il pourrait s'insérer à la base de ce grand miroir!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Prenez-le, &lt;PCNAME&gt;. Vous avez vraiment mérité cet honneur. Et cela ne présente sûrement aucun danger.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="425" prevId="4" villagerId="10009">
+        <Page social="1">(Il y a un emplacement de la taille exacte du petit miroir.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="425" prevId="5" villagerId="10008">
+        <Page social="1">Avant la mort de Balder, j'ai vu un enchevêtrement de destins sombres converger, étranglant les fils de lumière. Quelques fils brillants pourraient arriver à traverser ce lacis, mais très peu.&lt;BR&gt;&lt;BR&gt;Malheureusement, le fil de Balder n'en faisait pas partie.&lt;BR&gt;&lt;BR&gt;Néanmoins, les humains réussiront peut-être là où les dieux ont échoué.&lt;NEXTPAGEBUTTON&gt;"Qu'avons-nous déverrouillé?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Tous les pouvoirs de Balder ne sont pas morts avec lui. Il en a scellé une partie. Un de ces sceaux est désormais ouvert aux mortels.&lt;BR&gt;&lt;BR&gt;Votre amie la princesse peut le sentir à l'œuvre.&lt;BR&gt;&lt;BR&gt;Au revoir à présent, mais pas adieu!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="425" prevId="6" villagerId="10005">
+        <Page social="1">Ouah. "La nature sourit." C'est ainsi que je le ressens, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;C'est partout!&amp;nbsp; Je sens quelque chose de vivant dans ce monde, qui n'y était pas avant.&lt;BR&gt;&lt;BR&gt;Le Mysterium sera déçu bien sûr. Je pense qu'il voulait quelque chose de transportable grâce auquel échafauder des plans.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1047">
+        <Page social="1">Félicitations!&amp;nbsp; J'ai senti un changement dans le monde, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Notre clan va certainement commencer à vieillir normalement. Les Consos auront besoin d'un nouveau but, peut-être même d'un nouveau chef.&lt;BR&gt;&lt;BR&gt;Mais ne soyez pas tristes, je ne le suis pas. Je vais pouvoir voyager!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1053">
+        <Page social="1">Les mots de Mystel ont de quoi rendre fou!&amp;nbsp; A quoi servent ses prédictions si elles sont incompréhensibles?&amp;nbsp; Si elle peut voir le futur, ne pouvait-elle prévoir que je ne comprendrai rien à ses paroles?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je suppose que c'est pour cela que je fais des recherches, et les sujets d'études de manquent pas.&lt;BR&gt;&lt;BR&gt;Vous surpassez la description faite par Elsine, &lt;PCNAME&gt;. Portez-vous bien.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1054">
+        <Page social="1">&lt;PCNAME&gt;!&amp;nbsp; La légende grandit!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Personne ne sait vraiment ce que vous avez déchaîné dans le temple mais tout le monde a hâte de le savoir. Je vais aider à cataloguer les tablettes, puis je chercherai des artéfacts oubliés.&lt;BR&gt;&lt;BR&gt;Nous nous rencontrerons peut-être à nouveau.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1083">
+        <Page social="1">Le monde est plus sain et l'elfe est frustré. Mon travail ici est terminé.&lt;BR&gt;&lt;BR&gt;Il est temps pour moi de retourner à Poporia. Je dois parler avec ma sœur.&lt;BR&gt;&lt;BR&gt;Qu'elle porte la bannière. Qu'elle soit la reine si elle le souhaite. Nous n'avons pas les moyens d'un tel gaspillage d'énergie.&lt;NEXTPAGEBUTTON&gt;"Des paroles dignes d'un dirigeant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Oui. Eh bien... je voulais vous donner ceci.&lt;BR&gt;&lt;BR&gt;Portez-le la prochaine fois que quelque chose tente de vous dévorer.&lt;BR&gt;&lt;BR&gt;Et ne faites rien de stupide si je ne suis pas là pour y assister!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">Paesen versuchte, Solyns Gefangennahme zu sühnen, benötigte am Ende jedoch selbst Rettung. Ihr habt ihn beruhigt und dabei geholfen, die Vorräte zum Sturmaußenposten zu bringen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">Paesen ging voraus. Der verrückte Fellklops winselte ständig 'Es ist meine Schuld, es ist alles meine Schuld.'&lt;NEXTPAGEBUTTON&gt;"Wo ist er hingegangen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Er hat sich den Schraubschlüssel geschnappt und ist ins Tal gerast. Verfluchte Säbelzähne. Vielleicht wollte er die Vorratskarren beschützen.&lt;BR&gt;&lt;BR&gt;Haltet nach ihm Ausschau. Er ist ein sehr guter Ingenieur, aber eben kein Kämpfer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">&lt;PCNAME&gt;! Ich ... ich wollte sie retten. Ich wollte Solyn schützen, aber ich versagte.&lt;BR&gt;&lt;BR&gt;Mein Herz ist so schwer. Ich bin kein Held. Ich bastle nur gerne an mechanischen Sachen herum. Es ist meine Schuld, dass sie gefangen genommen wurde.&lt;NEXTPAGEBUTTON&gt;"Nein, ist es nicht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Doch, ist es. Sie brauchte einen Helden, keinen Freund.&lt;BR&gt;&lt;BR&gt;Dennoch, ich wette, dass wir sie zusammen finden können. Ihr seid stark und ich bin mutig, wenigstens ein bisschen.&lt;BR&gt;&lt;BR&gt;Lasst uns diese Wagen in Bewegung bringen und dann Solyn finden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">(Diverse mechanische Teile liegen darin. Sie sehen aus, als würden sie zu einem Luftschiff gehören.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">Danke, dass Ihr die Vorräte zu uns gebracht habt. Unsere Luftschiffe sind abgestürzt und wir verlieren an Boden zu den Erzdevanern.&lt;BR&gt;&lt;BR&gt;Jetzt sind wir bereit.</Page>
+    </Text>
+</QuestDialog>

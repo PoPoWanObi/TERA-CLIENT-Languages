@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Es ist kein Piratenschiff ausgelaufen, also muss der Dementalith irgendwo oben sein. Wir werden ihn finden.&lt;BR&gt;&lt;BR&gt;Sprecht oben mit Piarto. Er erkundet die Lage dort oben. Auf dem Weg dorthin solltet Ihr {@LinkCreature:11#2007#Rotpeitschenzerstörer} beseitigen, damit wir auf der zweiten Ebene auf weniger starken Widerstand stoßen.&lt;BR&gt;&lt;BR&gt;Ach, eine Sache noch: Piarto ist ein Meister der Tarnung. Ich habe keine Ahnung, wie er aussieht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Otus schickt Euch, nicht wahr? Schön. Ich dachte schon, man hätte mich vergessen.&lt;BR&gt;&lt;BR&gt;Ein Dementalith, sagt Ihr? Nein, über so etwas ist mir nichts zu Ohren gekommen.&lt;BR&gt;&lt;BR&gt;Aber Ihr dürft Euch gerne umsehen.</Page>
+    </Text>
+</QuestDialog>

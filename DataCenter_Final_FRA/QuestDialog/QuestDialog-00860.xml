@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1022">
+        <Page social="5">Le moral est au plus bas. Les {@LinkCreature:27#10#pourfendeurs} et les {@LinkCreature:27#8#berserkers} de Thulsa massacrent nos troupes.&lt;BR&gt;&lt;BR&gt;Pour triompher de la Légion de Brogar, nous devons nous rallier autour d'un symbole d'espoir. Je vous demande d'exterminer ces soldats et de vous emparer de leurs armes. Nous en équiperons nos troupes. Ce sera le signe que nous sommes à la hauteur des forces de Thulsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1021">
+        <Page social="5">C'est donc avec ça que la Légion de Brogar enfouraille ses troupes?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Voilà bien les armes d'un peuple barbare. Elles auront fait couler longtemps le sang des forces vives de la Fédération, mais c'en est aujourd'hui fini. Merci, &lt;PCNAME&gt;... c'est pour nous une grande victoire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1021">
+        <Page social="0">Si nous ne privons pas les soldats de la Légion de Brogar de leurs armes, cette guerre n'en finira jamais. S'il vous plaît, faites vite.</Page>
+    </Text>
+</QuestDialog>

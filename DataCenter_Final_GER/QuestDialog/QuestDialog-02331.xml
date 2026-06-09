@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Ihr habt Euch den Weg zum Bankett des Blutes erkämpft, den Sarg des Anführers der Vampire versiegelt und Ihre Nahrung besudelt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Die Rettung der Dorfbewohner ist zwar wichtig, aber wir müssen etwas unternehmen, damit das Bankett des Blutes nicht mehr stattfindet. Versiegelt den Sarg ihres Anführers und verpestet ihr stinkendes "Essen". &lt;BR&gt;&lt;BR&gt;Also, &lt;PCNAME&gt;, seid Ihr bereit für einen weiteren Streifzug ins Reich der Vampire?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt;, Ihr habt uns erneut einen großen Dienst erwiesen, für den man Euch noch lange in Erinnerung behalten wird.</Page>
+    </Text>
+</QuestDialog>

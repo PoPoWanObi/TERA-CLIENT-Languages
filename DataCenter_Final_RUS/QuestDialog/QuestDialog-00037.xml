@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="4">Значит, ты &lt;PCNAME&gt;... Хочешь немного подзаработать? Нынче в окрестностях развелось полно монстров и всякой нежити, и местные жители не могут собирать разные полезные ингредиенты. У нас образовалась ужасная нехватка различных видов сырья.&lt;BR&gt;&lt;BR&gt;Проще говоря, если отыщется смельчак, способный добыть нам кое-какие важные ингредиенты, то он может получить весьма щедрую награду. Под ингредиентами я подразумеваю &lt;FONT COLOR='#660000'&gt;волокна вердры&lt;/FONT&gt;. Ну, что скажешь?&lt;BR&gt;&lt;BR&gt;Не важно, как ты их достанешь - купишь в соседнем городе или ограбишь парочку монстров. Просто добудь нам немного этих волокон.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="4">Мне нравится, что ты уделяешь внимание мелочам. Приятно работать с тем, кто знает, что такое дисциплина. Добровольцы и призывники - хорошие ребята, но они ведь простые торговцы и фермеры. У них совершенно нет никакой подготовки.&lt;BR&gt;&lt;BR&gt;Хотя, с другой стороны, в храбрости им не откажешь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Волокна вердры? Они добываются из растений... таких, со множеством листьев. Оглядись вокруг. Их довольно легко заметить.</Page>
+    </Text>
+</QuestDialog>

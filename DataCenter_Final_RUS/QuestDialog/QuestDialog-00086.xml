@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">{@LinkCreature:4#1051#Деванские боевые големы} и {@LinkCreature:4#1052#Павшие деванские заградители} бродят тут, как у себя дома.&lt;BR&gt;&lt;BR&gt;Убей их, а при случае забери шадметаллические части из их доспехов.&lt;BR&gt;&lt;BR&gt;Фирмаунт - наша шахта, &lt;PCNAME&gt;. Покажи им... кто тут настоящий добытчик.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Тебе удалось уцелеть? Продолжай в том же духе! Не успеешь глазом моргнуть - снова вернем себе шахты.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Разрази меня гром! Тебя совсем не раздражает, когда разные твари бродят тут, как у себя дома?</Page>
+    </Text>
+</QuestDialog>

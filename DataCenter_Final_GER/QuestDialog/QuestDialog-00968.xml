@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0">Zusammen mit dem Rettungsteam habt Ihr den Hinkelstein der Lebenskraft benutzt, um den magischen Schild zu durchbrechen, hinter dem sich der Eingang zu Thulsas geheimer Forschungsanlage befand. Kaiduns Soldaten haben Euch verraten, dass Kaidun durch Thulsas böse Magie mutiert ist. Um Kaidun von dem schrecklichen Fluch zu befreien, musstet Ihr ihn töten. Vor seinem Tod hat Euch Kaidun verraten, dass Thulsa den Kern an sich gebracht hat, und Euch gebeten, Fraya zu sagen, dass er sie liebt. Fraya hat Euch dafür gedankt, dass Ihr Kaidun von dem schrecklichen Fluch befreit habt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="5">Dieser seltsame Stein war hier, als wir ankamen. Er vertreibt die Untoten, also haben wir ein Basislager daneben aufgeschlagen.&lt;BR&gt;&lt;BR&gt;Vielleicht können wir den Schild damit durchbrechen.&lt;BR&gt;&lt;BR&gt;Nehmt ihn in Augenschein, ich suche in der Zwischenzeit nach anderen Möglichkeiten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1023">
+        <Page social="5">(Seltsame Schriftzeichen glühen auf der Oberfläche des Steins, der eine spürbare Wärme abgibt.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1008">
+        <Page social="5">Was habt Ihr getan?! Der Schild war eben noch da, und jetzt ist er einfach verschwunden!&lt;NEXTPAGEBUTTON&gt;"Tja, ich habe mir den Stein angesehen ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das müsst Ihr mir später erklären. Wir wissen nicht, wie viel Zeit wir haben. Der &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-28853,-66818,3196&amp;type=1&amp;Scout Target"&gt;Eingang zur Forschungsanlage&lt;/A&gt;&lt;/font&gt; liegt vermutlich genau dort, wo sich der Schild befunden hat!&lt;BR&gt;&lt;BR&gt;Ich werde der Sondereinsatztruppe Bescheid sagen, wir folgen Euch dann direkt auf dem Fuß.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="471" prevId="4" villagerId="1001">
+        <Page social="5">Könnt Ihr das spüren? Natürlich nicht. Glaubt mir, die nekromantische Kraft in diesem Raum ist stark.&lt;BR&gt;&lt;BR&gt;Wisst Ihr, was wir noch gefunden haben? Behrohz, einen von Kaiduns wichtigsten Untergebenen. Er ist in schlechter Verfassung, sollte aber einige Fragen beantworten können.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="471" prevId="5" villagerId="1010">
+        <Page social="5">Kaidun hat herausgefunden, dass sich der Kern hier befinden soll. Aber es war eine Falle ...&lt;BR&gt;&lt;BR&gt;Etwas hat uns überwältigt, die Kontrolle über unseren Verstand übernommen. Sie nahmen Kaidun gefangen. Ich versuchte zu fliehen und Fraya zu alarmieren ... aber ich habe es nicht geschafft.&lt;NEXTPAGEBUTTON&gt;"Wir werden Kaidun und die anderen finden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">Danke. Mein älterer Bruder {@LinkCreature:471#1002#Akkhan} ist hier irgendwo. Sagt ihm, dass ich in Sicherheit bin und Ihr kommt, um sie zu retten.&lt;BR&gt;&lt;BR&gt;Bitte rettet meine Kameraden und General Kaidun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="471" prevId="6" villagerId="1002">
+        <Page social="5">Wer ... Wer seid Ihr? Was wollt Ihr? Behrohz? Er lebt? Für mich ist es zu spät, aber die anderen ... Ihr müsst {@LinkCreature:471#12#Trayzadius} besiegen, um sie zu retten.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="471" prevId="7" villagerId="1007">
+        <Page social="5">Danke! Aber ... Wo ist Kaidun? Ist er nicht bei Euch?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="471" prevId="7" villagerId="1008">
+        <Page social="5">Wir haben Kaidun verraten. Wir konnten Thulsa nicht aufhalten.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="471" prevId="8" villagerId="1003">
+        <Page social="5">Kaidun ist fort.&lt;BR&gt;&lt;BR&gt;Thulsa hat eine schreckliche Magie auf ihn gewirkt und ihn in ein Monster verwandelt. Wir müssen ihn befreien.&lt;NEXTPAGEBUTTON&gt;"Wie befreien wir ihn?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Thulsa hat ihn eingesperrt. Bevor er verändert wurde, hat Kaidun mir das hier zugesteckt. Er hat gesagt, es sei ein Flüssigkeitsschlüssel. Ich glaube, er dient dazu, den Gefängniszauber aufzuheben. Nehmt ihn an Euch.&lt;BR&gt;&lt;BR&gt;Nehmt den Weg hinter mir und haltet Euch links, wenn Ihr an eine Korridorkreuzung kommt. Tötet {@LinkCreature:471#13#Dalmanak den Vielfraß} und zerstört die {@LinkCreature:471#93#Nekromantiegeräte}.&lt;BR&gt;&lt;BR&gt;Möglicherweise müsst Ihr Kaidun auch töten, wenn das der einzige Weg ist, um seine Seele zu retten.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="471" prevId="10" villagerId="1004">
+        <Page social="4">Habt Dank. Es bleibt nicht viel Zeit. Sagt Fraya, Thulsa hat den Kern an sich genommen. Er ist auf dem Weg nach Val Palrada.&lt;NEXTPAGEBUTTON&gt;"Ich werde ihn aufhalten."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Sagt ihr, es tut mir leid. So sollten Heldengeschichten eigentlich nicht enden. Sagt ihr, ich habe sie geliebt ... ich liebe sie. Auf ewig.&lt;NEXTPAGEBUTTON&gt;"Das werde ich."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Sie kann so gut wie niemandem vertrauen. Ich bin froh, dass Ihr auf ihrer Seite seid.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="73" prevId="11" villagerId="1110">
+        <Page social="5">Ich weiß, Ihr habt getan, was Ihr konntet, aber es ist einfach zu traurig. Ich bringe es nicht übers Herz, Fraya zu sagen, dass er tot ist!&lt;BR&gt;&lt;BR&gt;Und Thulsa hat den Kern! Wenn das bekannt wird, bricht eine weitreichende Panik aus. Allemantheia wird ins Chaos stürzen.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="518" prevId="12" villagerId="1001">
+        <Page social="5">Ich kenne diesen Gesichtsausdruck. Den hatte ich selbst jedes Mal, wenn ich einer Mutter sagen musste, dass ich ihr Kind in Uniform habe sterben lassen.&lt;BR&gt;&lt;BR&gt;Ihr braucht mir nicht zu sagen, dass sich der Anhänger verdunkelt hat.&lt;BR&gt;&lt;BR&gt;Hatte er Schmerzen?&lt;NEXTPAGEBUTTON&gt;"Er war sehr tapfer ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Danke, dass Ihr ihn gerettet habt und dass Ihr mir seine letzten Worte überbracht habt.&lt;NEXTPAGEBUTTON&gt;Übergebt ihr Kaiduns Anhänger.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich wusste immer schon, dass er tapfer war. Aber seine ganze Tapferkeit offenbart sich darin, dass er so lange gegen den Fluch angekämpft hat, um mir zu sagen ... verzeiht, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich werde den Kern retten ... und dann werde ich dafür sorgen, dass Thulsa dafür bezahlt.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="518" villagerId="1001">
+        <Page social="0">Habt Ihr Kaidun schon gefunden? Geht es ihm gut?</Page>
+    </Text>
+</QuestDialog>

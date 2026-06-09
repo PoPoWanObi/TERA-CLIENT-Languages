@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Пришло время встретиться с великанами и их питомцами. Они лезут в наши дела, и это нельзя оставлять без внимания.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:34#1000#Ледоколющих} и {@LinkCreature:34#1010#Ледорвущих} великанов, а также {@LinkCreature:34#1100#Барсикор-заледеневших странников} и {@LinkCreature:34#1110#Барсикор-ледяных охотников}.&lt;BR&gt;&lt;BR&gt;Сообщи Кахуэре, когда закончишь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">Уничтожить великанов - сделано! Я добавлю это в твой послужной список. Отличная работа, солдат!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">Прости, но у тебя, кажется, были четкие указания. Тебе нужно убить великанов и барсикор, и тогда ты получишь награду.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,35 @@
+<UnionPolitics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/UnionPolitics UnionPolitics.xsd" xmlns="https://vezel.dev/novadrop/dc/UnionPolitics">
+    <Politics unionId="1">
+        <Policy id="52" stringId="470322" descStringId="470323">
+            <PolicyItem id="1" stringId="470326" cost="1000" on="true" invalidStringId="470325" validStringId="470324" />
+            <PolicyItem id="2" stringId="470327" cost="0" on="false" invalidStringId="470329" validStringId="470328" />
+        </Policy>
+        <Policy id="58" stringId="470330" descStringId="470331">
+            <PolicyItem id="1" stringId="470336" cost="366000" on="true" invalidStringId="470333" validStringId="470332" />
+            <PolicyItem id="2" stringId="470337" cost="610000" on="true" invalidStringId="470335" validStringId="470334" />
+            <PolicyItem id="3" stringId="470338" cost="0" on="false" invalidStringId="470340" validStringId="470339" />
+        </Policy>
+    </Politics>
+    <Politics unionId="2">
+        <Policy id="52" stringId="470322" descStringId="470323">
+            <PolicyItem id="1" stringId="470326" cost="1000" on="true" invalidStringId="470325" validStringId="470324" />
+            <PolicyItem id="2" stringId="470327" cost="0" on="false" invalidStringId="470329" validStringId="470328" />
+        </Policy>
+        <Policy id="58" stringId="470330" descStringId="470331">
+            <PolicyItem id="1" stringId="470336" cost="366000" on="true" invalidStringId="470333" validStringId="470332" />
+            <PolicyItem id="2" stringId="470337" cost="610000" on="true" invalidStringId="470335" validStringId="470334" />
+            <PolicyItem id="3" stringId="470338" cost="0" on="false" invalidStringId="470340" validStringId="470339" />
+        </Policy>
+    </Politics>
+    <Politics unionId="3">
+        <Policy id="52" stringId="470322" descStringId="470323">
+            <PolicyItem id="1" stringId="470326" cost="1000" on="true" invalidStringId="470325" validStringId="470324" />
+            <PolicyItem id="2" stringId="470327" cost="0" on="false" invalidStringId="470329" validStringId="470328" />
+        </Policy>
+        <Policy id="58" stringId="470330" descStringId="470331">
+            <PolicyItem id="1" stringId="470336" cost="366000" on="true" invalidStringId="470333" validStringId="470332" />
+            <PolicyItem id="2" stringId="470337" cost="610000" on="true" invalidStringId="470335" validStringId="470334" />
+            <PolicyItem id="3" stringId="470338" cost="0" on="false" invalidStringId="470340" validStringId="470339" />
+        </Policy>
+    </Politics>
+</UnionPolitics>

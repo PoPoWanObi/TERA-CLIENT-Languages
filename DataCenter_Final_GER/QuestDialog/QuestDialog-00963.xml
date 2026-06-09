@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">Es gibt hier in {@Rgn:30001$$Balders Zuflucht} einfach zu viele Faultiere, die uns das Leben schwer machen. Ja, tatsächlich.&lt;BR&gt;&lt;BR&gt;Löscht {@LinkCreature:30#100#Nervöse Faultiere}, {@LinkCreature:30#110#Faultierschlitzer} und {@LinkCreature:30#120#Träge Faultiere} aus.&lt;BR&gt;&lt;BR&gt;Wendet Euch wegen der Belohnung an Raciba.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1089">
+        <Page social="1">Für die Faultiere seid Ihr wie das Jüngste Gericht, was?&lt;BR&gt;&lt;BR&gt;Gut gemacht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1089">
+        <Page social="0">Im Ernst, &lt;PCCLASS&gt;. Es sind Faultiere.</Page>
+    </Text>
+</QuestDialog>

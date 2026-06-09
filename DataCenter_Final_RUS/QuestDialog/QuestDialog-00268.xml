@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Мы разбили лагерь в самом центре Лабиринта Азарела. Это было большой глупостью, ведь сложно будет его строить так глубоко в тылу у врага. По последним данным разведчиков, враг собирается вскоре нанести решающий удар и уничтожить нас. &lt;BR&gt;&lt;BR&gt;К несчастью, у нашего пропавшего центуриона были с собой все карты и планы нашей обороны. Если эти планы попадут в руки врага, мы погибли. &lt;BR&gt;&lt;BR&gt;Отправляйся с группой сильных бойцов в &lt;font color='#660000'&gt;передовой лагерь &lt;/font&gt;в Лабиринте Азарела и уничтожь планы.&lt;BR&gt;&lt;BR&gt;Действовать нужно быстро, поэтому отправляйся к {@LinkCreature:209#2000#Тулутулу}. Он может телепортировать тебя вниз мгновенно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="2000">
+        <Page social="4">Спешишь, да? Я могу телепортировать тебя в Глубины лабиринта Азарела за небольшую плату. &lt;BR&gt;&lt;BR&gt;Легче легкого. Так будет гораздо проще. Долгий путь может быть опасен.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1026">
+        <Page social="0">(Тело центуриона жутко изуродовано.)&lt;BR&gt;&lt;BR&gt;(Вы нашли кожаный пакет с планами обороны, спрятанный в укромном месте под броней.) &lt;BR&gt;&lt;BR&gt;(Услышав какой-то звук, вы засунули планы в рот, яростно прожевали и проглотили.)</Page>
+    </Text>
+</QuestDialog>

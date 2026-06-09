@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="1">Ужасные существа вторглись в эту долину. Никто не знает, откуда они явились. Они плодятся со страшной скоростью и уничтожают все на своем пути. Имя этим существам - ленивцы. Я серьезно!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:30#100#Пугливые ленивцы} отрезали нас от лагеря "Солнечный", которым заправляет центурион {@LinkCreature:230#1010#Эрдис}. Это последняя капля!&lt;BR&gt;&lt;BR&gt;Перебей этих {@LinkCreature:30#100#ленивцев} - всех до единого!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">Какой приятный сюрприз! Сколько {@LinkCreature:30#100#Пугливых ленивцев} тебе пришлось убить по пути сюда?&lt;BR&gt;&lt;BR&gt;Впрочем, сколько бы их ни было, прими мою благодарность. Возьми эту награду, а я прикажу распорядителю всякий раз выплачивать тебе премию за истребление ленивцев.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="5">Мы разбили лагерь здесь, потому что глупо было бы пробивать себе путь через орды злобных существ. Само собой, Исобель была этому не рада.&lt;BR&gt;&lt;BR&gt;Если ты поможешь нам, убив {@LinkCreature:29#3021#Древней-смотрителей} и {@LinkCreature:29#3022#Древней-стражников}, то мы, возможно, сможем вернуться к изначальному плану.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1008">
+        <Page social="5">Если бы у меня под началом был отряд таких солдат, как ты, &lt;PCNAME&gt;, аргоны бы уже бежали, а я бы занял пост экзарха.&lt;BR&gt;&lt;BR&gt;Спасибо за помощь с древнями.</Page>
+    </Text>
+</QuestDialog>

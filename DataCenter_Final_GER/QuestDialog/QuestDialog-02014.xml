@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="0">Die Flugmahlzeiten lassen etwas zu wünschen übrig.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="4">Actol ist noch nicht besonders see...äh...luftfest.&lt;BR&gt;&lt;BR&gt;Meine Schlafkoje liegt unter seiner, also wäre es mir recht, wenn er vor heute Abend wieder fit wäre.&lt;BR&gt;&lt;BR&gt;Könntet Ihr die anderen nach Medizin oder Feuerwasser fragen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="3004">
+        <Page social="4">Reisekrankheit? Sicher. Nicht viele Leute können ohne flauen Magen fliegen. Ich dagegen bin schon zweimal geflogen.&lt;BR&gt;&lt;BR&gt;Probiert es mit Essenischem Ingwer. In den Truhen müsste noch welcher sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1006">
+        <Page social="4">Oh, gelobt sei Velik, ach - gelobt seien auch Kaia, Seren und Akasha! Meinem Bauch geht es viel besser. Danke.&lt;BR&gt;&lt;BR&gt;Würdet Ihr Fieri fragen, ob es irgendetwas zu essen gibt?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" villagerId="1006">
+        <Page social="0">Kein Ingwer? Sucht weiter.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="4" villagerId="3007">
+        <Page social="4">Oh, aber hallo! Ich bin der König der Hausmannskost!&lt;BR&gt;&lt;BR&gt;Übrigens, möchtet Ihr mein neuestes Gericht probieren?&lt;BR&gt;&lt;BR&gt;Kommt schon, seid nicht schüchtern. Ich habe bei Aruns berühmtestem Chefkoch gelernt.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1007">
+        <Page social="4">(Der Geruch erinnert Euch an Zwiebeln und Argonen.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="3007">
+        <Page social="4">Was? Ihr seid verrückt. Dieses Gericht ist eine wahre Geschmacksexplosion!&lt;BR&gt;&lt;BR&gt;Hier, probiert das einmal.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1008">
+        <Page social="4">(Riecht und erscheint weniger verdächtig.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="823" prevId="9" villagerId="3007">
+        <Page social="4">Ich sage Euch, das war eine Zusammenkunft des Geschmacks! Schließt die Vordertür, ich bin unglaublich!&lt;BR&gt;&lt;BR&gt;Ich sollte mich als Chefkoch von Arun bewerben!</Page>
+    </Text>
+</QuestDialog>

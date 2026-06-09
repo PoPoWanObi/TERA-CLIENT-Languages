@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="0">Die Personifizierung des Kerns war angesichts des nahen Todes kurz davor, die Kontrolle über die riesige Energie des Kerns zu verlieren. Elion erinnerte sich daran, dass Akasha die Macht des Kerns auf sich selbst übertragen wollte, weshalb sie eine Vorrichtung genau zu diesem Zweck konstruiert haben musste. Fraya, Elion und Ihr fandet die Übertragungsvorrichtung im Goldenen Labyrinth und konntet dort Akashas Untergebene besiegen. Daraufhin opferte Fraya ihr sterbliches Wesen, indem sie die Vorrichtung dazu benutzte, um mit dem Kern zu verschmelzen und ihn so zu stabilisieren.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5">Serions Kontrolle über den Kern lässt nach. Ich weiß nicht, wie lange er noch durchhalten wird. Und das letzte Mal, als wir die Kontrolle über den Kern verloren, wurde dabei ein halber Kontinent verwüstet. Wir brauchen jemanden, der die Kontrolle des Kerns übernimmt, koste es, was es wolle.&lt;NEXTPAGEBUTTON&gt;"Denkt Ihr an jemand Bestimmtes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">... Es gibt verschiedene Optionen. Ich überdenke die Situation noch. Doch es braucht auch eine enorme Kraft, um den Kern zu kontrollieren. Serion würde über diese Energie verfügen, wenn er beherrschbar wäre. Aber wie die Dinge stehen, brauchen wir eine andere Energiequelle. Findet eine, und zwar schnell!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1104">
+        <Page social="5">Ersatzenergie ... Habt Ihr das gerade gesagt?&lt;BR&gt;&lt;BR&gt;Ich habe versucht, sie davon abzubringen, aber sie wird es trotzdem tun.&lt;NEXTPAGEBUTTON&gt;"Wer wird was tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Wer könnte zum Kern werden? Es würde die totale Selbstaufgabe bedeuten. Genau wie Serion wird der nächste Kern für immer für Allemantheia existieren, weder tot noch lebendig.&lt;BR&gt;&lt;BR&gt;Sobald sie das getan hat, gibt es kein Zurück mehr.&lt;NEXTPAGEBUTTON&gt;"Moment mal ... sie?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vergesst, was ich gesagt habe.&lt;BR&gt;&lt;BR&gt;Das ist alles nur reine Spekulation, solange wir nicht genügend Energie haben, um den Kern von einem Körper auf den anderen zu übertragen.&lt;BR&gt;&lt;BR&gt;Akasha hatte vielleicht den Schlüssel dazu. Sie trachtete nach der Energie des Kerns, also muss sie auch eine Energiequelle haben, um dieses Ziel zu erreichen.&lt;BR&gt;&lt;BR&gt;Irgendwo im Goldenen Labyrinth im Herzen der Hungrigen Höhlen.&lt;BR&gt;&lt;BR&gt;Sagt Fraya, wir gehen dem nach!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1105">
+        <Page social="5">Akasha mag verschwunden sein, aber ihre Schergen bewachen noch immer das Goldene Labyrinth. Doch eine geringe Chance ist immer noch besser als gar keine.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, holt Elion ein und bringt diese Vorrichtung an Euch. Sobald Ihr das getan habt, benutzt diese Marke, um mit mir Kontakt aufzunehmen.&lt;BR&gt;&lt;BR&gt;Tribunin Sophilia kennt den sichersten Weg in das Goldene Labyrinth.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1016">
+        <Page social="5">Karina weiß, wie man ins Goldene Labyrinth kommt. Sie wartet am Vorhutposten Alpha auf Euch.&lt;BR&gt;&lt;BR&gt;Ich hoffe, Ihr seid Euch im Klaren darüber, dass Ihr auf Euch allein gestellt seid, sobald Ihr dort drin seid?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
+        <Page social="5">Elion hat Euch mir schon angekündigt, &lt;PCNAME&gt;. Er meinte, ich solle Euch fragen, wie es kommt, dass er immer vor Euch da ist. Aber das war wohl nur ein Scherz ...&lt;BR&gt;&lt;BR&gt;Wie auch immer! Er ist nicht weit voraus. Nehmt den Aufzug zur zweiten Ebene und nehmt den Eingang im Norden.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1032">
+        <Page social="5">Wird aber auch Zeit, &lt;PCNAME&gt;. Ich habe die Fallen schon deaktiviert, also könnt Ihr zum &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#90874,57238,-1810&amp;type=1&amp;name=Eingang des Labyrinths"&gt;Eingang des Labyrinths&lt;/A&gt;&lt;/font&gt; gehen. Wir haben Späher hineingeschickt. Findet Runshia. Wir werden getrennt werden, aber ich melde mich von Zeit zu Zeit bei ihr.&lt;NEXTPAGEBUTTON&gt;"Moment mal ...! Getrennt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Euer Weg ist zu einfach, &lt;PCNAME&gt;. Ich nehme einen anderen, nur für den Fall, dass wir eine schnelle Rückzugsroute brauchen.&lt;NEXTPAGEBUTTON&gt;"Dann braucht Ihr das hier."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Frayas Marke ... gut.&lt;BR&gt;&lt;BR&gt;Wir müssen Kontakt mit ihr aufnehmen, wenn wir die Übertragungsvorrichtung des Kerns in unseren Besitz gebracht haben ... geht klar.&lt;BR&gt;&lt;BR&gt;Ich verstehe, Ihr gebt mir das doch nur, damit ich auch dort aufkreuze, wo ich erwartet werde und nicht davonspaziere ... sehr clever von Euch, &lt;PCNAME&gt;. Ihr kennt mich gut.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="472" prevId="7" villagerId="1001">
+        <Page social="5">Wir haben die Kernübertragungsvorrichtung noch nicht erreicht, aber wir wissen ungefähr, wo sie sich befindet. In der Zwischenzeit werdet Ihr dringend gebraucht ...&lt;BR&gt;&lt;BR&gt;Nein, nicht von Elion, von Jelena.&lt;BR&gt;&lt;BR&gt;Sie kämpft sich durch die Kammer des Prozesses und sie braucht Eure Hilfe.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="472" prevId="8" villagerId="1003">
+        <Page social="5">Gut, dass Ihr es hierher geschafft habt, &lt;PCNAME&gt;. Wenn wir durch diese Kammern kommen, erreichen wir die Vorrichtung leicht. Aber ich kriege dieses Tor nicht auf.&lt;BR&gt;&lt;BR&gt;Im westlichen Gang ist ein Torwächter, aber ich kann ihn nicht herlocken, um gegen ihn zu kämpfen.&lt;BR&gt;&lt;BR&gt;Nehmt diesen Seitengang, an seinem Ende findet Ihr den westlichen Obelisken. Er bringt Euch zum Torwächter Beryllherz. Ich warte hier, um zu sehen, ob der Tod von Beryllherz dieses Tor öffnet. Ich fürchte, Elion begeht eine Dummheit.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="472" prevId="9" villagerId="1003">
+        <Page social="5">Das Tor ist offen! Ich weiß nicht, wie das nächste Tor geöffnet wird, aber erst einmal wollen die Monster hier aus dem Weg geräumt werden!&lt;BR&gt;&lt;BR&gt;Macht den Weg frei, dann kümmern wir uns um das Tor.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="472" prevId="10" villagerId="1019">
+        <Page social="5">Das Gift ... Ich kann kaum noch geradeaus gehen. Ihr müsst ohne mich weiter, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Findet die Vorrichtung!&lt;NEXTPAGEBUTTON&gt;"Wo muss ich hin?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Macht Euch nach Osten zur Kammer der Wildnis auf. Findet den östlichen Obelisken. Er sollte Euch hineinbringen.&lt;BR&gt;&lt;BR&gt;Die Transfervorrichtung müsste dort drin sein, und ganz sicher auch jede Menge Wachen. Ich habe außerdem die Namen {@LinkCreature:472#19#Varcerbus} und {@LinkCreature:472#5000#Valgmore} gehört. Seid vorsichtig!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="472" prevId="11" villagerId="1007">
+        <Page social="5">Wir haben die Vorrichtung! Verständigen wir schnell Fraya, bevor noch irgendwas schiefgeht ...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="472" prevId="12" villagerId="1007">
+        <Page social="5">Fraya muss nach Castanica zurückgekehrt sein. Wir sollten ihr folgen. Sie wäre nicht ohne einen guten Grund aufgebrochen.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="61" prevId="13" villagerId="1104">
+        <Page social="5">Nun, wir haben die Zerstörung eines ganzen Kontinents verhindern können. Für einen Tag Arbeit nicht schlecht, würde ich sagen!&lt;BR&gt;&lt;BR&gt;Und jetzt stabilisiert Fraya den Kern, damit Allemantheia auch wieder sicher ist.&lt;NEXTPAGEBUTTON&gt;"Und doch seid Ihr nicht zufrieden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ich versuche, das Positive zu sehen. Diejenige, die am meisten geopfert hat, scheint am zufriedensten zu sein. Was soll ich also noch dagegen sagen? Sie hatte sich schon fest dazu entschlossen, sich für Allemantheia und unser Volk aufzuopfern.&lt;BR&gt;&lt;BR&gt;Ich muss daran denken, wie viel Mühe ich mir gegeben habe, der Bürde des Befehls zu entgehen, und dafür schäme ich mich.&lt;BR&gt;&lt;BR&gt;Fraya ... also der Kern ... Ich nehme an, sie möchte Euch persönlich danken. Warum geht Ihr nicht zu ihr?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="61" prevId="14" villagerId="1105">
+        <Page social="5">Ich ... Nein - mehr als ich, mehr als Fraya. Das erfordert noch viel Zeit und Übung. Wie sehr Serion gekämpft haben muss ...&lt;BR&gt;&lt;BR&gt;Ich muss bald nach Allemantheia zurückkehren. Das Volk des Kerns braucht seine Kraft, braucht das Symbol Fraya.&lt;BR&gt;&lt;BR&gt;Der Kern muss über kleinmütigen Zweifeln stehen, aber ... ich kann Kaidun einfach nicht vergessen. Nehmt Euch in Acht, Akasha und Thulsa ... dieser Kern wird sich erinnern, dieser Kern weiß, was sie geopfert hat.&lt;BR&gt;&lt;BR&gt;Habt Dank für alles, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

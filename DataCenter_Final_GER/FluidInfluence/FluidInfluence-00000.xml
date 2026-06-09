@@ -1,0 +1,6 @@
+<FluidInfluence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/FluidInfluence FluidInfluence.xsd" xmlns="https://vezel.dev/novadrop/dc/FluidInfluence">
+    <Influence type="Wave" shapeId="1" waveFrequency="1" wavePhase="0" waveRadius="50" waveStrength="40" />
+    <Influence type="Flow" shapeId="2" flowFrequency="4" flowNumRipples="10" flowSideMotionRadius="30" flowSpeed="100" flowStrength="20" flowWaveRadius="50" />
+    <Influence type="Raindrops" shapeId="3" raindropAreaRadius="300" raindropFillEntireFluid="true" raindropRadius="10" raindropRate="20" raindropStrength="5" />
+    <Influence type="Sphere" shapeId="4" sphereInnerRadius="50" sphereOuterRadius="100" sphereStrength="-40" />
+</FluidInfluence>

@@ -1,0 +1,56 @@
+<MainMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/MainMenu MainMenu.xsd" xmlns="https://vezel.dev/novadrop/dc/MainMenu">
+    <AdditionalIcon bfMatching="img://__S1UIRES_Emblem.Ico_BFPartyMatching1" dungeonMatching="img://__S1UIRES_Emblem.Ico_DungeonPartyMatching1" />
+    <Menu id="PaperDoll" index="0" uiName="PaperDoll" readableId="SMT_MENU_MYINFO" iconPath="img://__S1UIRES_Emblem.Ico_PaperDoll" />
+    <Menu id="Inventory" index="0" uiName="Inventory" readableId="SMT_MENU_INVENTORY" iconPath="img://__S1UIRES_Emblem.Ico_Inventory" />
+    <Menu id="SkillWindow" index="0" uiName="SkillWindow" readableId="SMT_MENU_SKILLBOOK" iconPath="img://__S1UIRES_Emblem.Ico_SkillUpGrade" />
+    <Menu id="QuestJournal" index="0" uiName="QuestJournal" readableId="SMT_MENU_QUEST_JOURNAL" iconPath="img://__S1UIRES_Emblem.Ico_QuestBorad" />
+    <Menu id="Equipment" index="0" readableId="SMT_MENU_EQUIPMENT" iconPath="img://__S1UIRES_Emblem.Ico_Enchant">
+        <MenuItem id="Artisan" uiName="ProductionList" readableId="SMT_MENU_ARTISAN" />
+        <MenuItem id="Enchant" uiName="Enchant" readableId="SMT_MENU_ENCHANT" />
+    </Menu>
+    <Menu id="Party" index="0" readableId="SMT_MENU_PARTY" iconPath="img://__S1UIRES_Emblem.Ico_PartyBoard">
+        <MenuItem id="GroupDuel" uiName="GroupDuel" readableId="SMT_MENU_GROUP_DUEL" />
+        <MenuItem id="PartyWindowRaidConfig" uiName="PartyWindowRaidConfig" readableId="SMT_MENU_PARTYWINDOW_RAIDCONFIG" />
+        <MenuItem id="PartyBoard" uiName="PartyBoard" readableId="SMT_MENU_PARTY_SEARCH">
+            <SubMenu>
+                <SubMenuItem id="PartyBoardMemberInfo" uiName="PartyBoardMemberInfo" readableId="SMT_MENU_PARTY_APPLICANT" />
+            </SubMenu>
+        </MenuItem>
+    </Menu>
+    <Menu id="Community" index="0" readableId="SMT_MENU_COMMUNITY" iconPath="img://__S1UIRES_Emblem.Ico_CommunityWindow">
+        <MenuItem id="TradeLog" uiName="TradeLog" readableId="SMT_MENU_TRADE_LOG" />
+        <MenuItem id="Social" uiName="Social" readableId="SMT_MENU_SOCIALWINDOW" />
+        <MenuItem id="FriendsList" uiName="CommunityWindow" readableId="SMT_MENU_FRIEND_LIST" />
+        <MenuItem id="DummyWebService" uiName="WebService" readableId="SMT_MENU_WEBSERVICE">
+            <SubMenu>
+                <SubMenuItem id="Announce" uiName="WebService" readableId="SMT_MENU_ANNOUNCE" />
+                <SubMenuItem id="Event" uiName="WebService" readableId="SMT_MENU_EVENT" />
+            </SubMenu>
+        </MenuItem>
+    </Menu>
+    <Menu id="GuildUnion" index="0" readableId="SMT_MENU_GUILDUNION" iconPath="img://__S1UIRES_Emblem.Ico_GuildWindow">
+        <MenuItem id="Union" uiName="Union" readableId="SMT_MENU_UNION" />
+        <MenuItem id="GuildLeague" uiName="GuildLeague" readableId="SMT_MENU_GUILD_COMPETITION" />
+        <MenuItem id="GuildList" uiName="GuildList" readableId="SMT_MENU_GUILD_LIST_WINDOW" />
+        <MenuItem id="GuildWindow" uiName="GuildWindow" readableId="SMT_MENU_GUILD_LIST" />
+    </Menu>
+    <Menu id="Achievement" index="0" uiName="Achievement" readableId="SMT_MENU_ACHIEVEMENT" iconPath="img://__S1UIRES_Emblem.Ico_Achievement" />
+    <Menu id="PlayGuide" index="1" uiName="PlayGuide" readableId="SMT_MENU_PLAYGUIDE" iconPath="img://__S1UIRES_Emblem.Ico_event" />
+    <Menu id="IconDungeonMatching" index="1" conditionLevel="20" uiName="DungeonPartyMatching" readableId="SMT_MENU_DUNGEON_MATCHING" iconPath="img://__S1UIRES_Emblem.Ico_DungeonPartyMatching0" />
+    <Menu id="IconBFMatching" index="1" conditionLevel="30" uiName="BFMatching" readableId="SMT_MENU_BF_MATCHING" iconPath="img://__S1UIRES_Emblem.Ico_BFPartyMatching0" />
+    <Menu id="Post" index="2" uiName="ParcelPost" readableId="SMT_MENU_POST" iconPath="img://__S1UIRES_Emblem.Ico_Post" />
+    <Menu id="CouponBox" index="2" uiName="CouponBox" readableId="SMT_MENU_COUPONBOX" iconPath="img://__S1UIRES_Emblem.Ico_CouponBox" />
+    <Menu id="store" index="2" readableId="SMT_MENU_STORE" hide="false" iconPath="img://__S1UIRES_Emblem.Ico_InGameStore">
+        <MenuItem id="InGameStore" uiName="InGameStore" readableId="SMT_MENU_INGAMESTORE" />
+    </Menu>
+    <Menu id="System" index="2" readableId="SMT_MENU_SYSTEM_MENU" iconPath="img://__S1UIRES_Emblem.Ico_SystemOption">
+        <MenuItem id="Support" uiName="Support" readableId="SMT_MENU_SUPPORT" />
+        <MenuItem id="NearTown" uiName="NearTown" readableId="SMT_MENU_NEAR_TOWN" />
+        <MenuItem id="Help" uiName="Help" readableId="SMT_MENU_HELP" />
+        <MenuItem id="SystemOption" uiName="SystemOption" readableId="SMT_MENU_SYSTEM_OPTION" />
+        <MenuItem id="LogOut" uiName="LogOut" readableId="SMT_MENU_EXIT" />
+        <MenuItem id="LearnKeyUsage" uiName="LearnKeyUsage" readableId="SMT_MENU_LEARN_KEY_USAGE" />
+        <MenuItem id="UpdateNotification" uiName="WebService" readableId="SMT_MENU_UPDATENOTIFICAION" />
+    </Menu>
+    <MenuTag matching="SMT_MENU_TAG_MATCHING" new="SMT_MENU_TAG_NEW" recruit="SMT_MENU_TAG_RECRUIT" />
+</MainMenu>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">In dem sonderbaren Brief heißt es: "Begebt Euch zum legendären Schmied Muhrak."&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Dieser Brief verschwindet, sobald Ihr die Quest annehmt.&lt;BR&gt;- Diese Quest ist für Abenteurer bestimmt, die nicht im Besitz einer Finsterschmiedeausrüstung sind.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">&lt;PCNAME&gt;, ich wusste, dass dieser Brief Eure Neugier wecken würde. Seid Ihr bereit, etwas Großartiges zu schaffen?</Page>
+    </Text>
+</QuestDialog>

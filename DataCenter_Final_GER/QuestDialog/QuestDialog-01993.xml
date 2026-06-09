@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="1">Das ist höchst ungewöhnlich. Es gibt Pflanzen, die Noktenium ausgesetzt sind und weder wachsen noch welken. Sammelt ein paar Samen dieser Pflanzen für mich. Ich brauche sie für meine Forschungen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="0">Das ist sehr hilfreich für meine Forschungen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Wisst Ihr, wie wichtig dies für meine Forschungen ist? Stellt Euch nur vor, wie es wäre, wenn Mitglieder des Eisernen Ordens wie Ihr niemals vergehen würden!</Page>
+    </Text>
+</QuestDialog>

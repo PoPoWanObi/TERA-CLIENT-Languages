@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="0">Eria bat Euch, ihr Kernessenzen von den Sporenwandlern in der Umgebung zu beschaffen, damit sie sie untersuchen kann. Als sie versuchte, die Kernessenzen mit der Verderbnis von Dämonenbann zu vergleichen, widersetzte sich jemand ihren Bemühungen.&lt;BR&gt;&lt;BR&gt;Bei dem Gedanken daran, Lian zu enttäuschen, war sie am Boden zerstört, doch Lian selbst schien erfreut. Es steht die Vermutung, dass sich der Feind auf den Höhen von Arun befindet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="4">Ihr müsst ein paar Sporenwandler töten und mir ihre Kernessenzen bringen. Sporenwandler sind ursprüngliche Kreaturen dieser Welt, die sehr empfindlich auf magische Veränderungen reagieren.&lt;BR&gt;&lt;BR&gt;Ich muss wissen, ob die Magie, die Dämonenbann befleckt, auch die Bewohner der Insel befallen hat.&lt;BR&gt;&lt;BR&gt;Genug geredet!&lt;TEXTBUTTON&gt;"Ich kümmere mich darum!"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">Gut gemacht! Mit Euch ist es leichter zusammenzuarbeiten, als mit Magister Groß, Apart und Grüblerisch.&lt;BR&gt;&lt;BR&gt;Mal sehen, was sie uns verraten ... Du meine Güte!&lt;NEXTPAGEBUTTON&gt;"Ist Euch nicht wohl?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das ... ich schaffe es nicht! Beim Zorn der Natur, diese Kraft ist zu stark.&lt;BR&gt;&lt;BR&gt;Jemand widersetzt sich mir. In meinem Geist, ich spürte ... etwas Widerwärtiges. Ich fühle nur, dass es von Osten kommt. Vielleicht von diesem Hügel dort.&lt;BR&gt;&lt;BR&gt;Es tut mir leid! Ich will Lian nicht enttäuschen! Ich wollte ihn beeindrucken, indem ich mehr über Dämonenbann herausfinde ... aber es übersteigt meine Kräfte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1021">
+        <Page social="0">&lt;PCNAME&gt;, ich brauche dringend Eure Hilfe. Wir brauchen diese Kernessenzen, um eine Verbindung zwischen den Geschehnissen und Dämonenbann herzustellen!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Jemand hat sich also Erias magischen Bemühungen widersetzt? Interessant! Wir haben oben auf dem Hügel, den wir die Höhen von Arun nennen, Bewegungen beobachtet.&lt;BR&gt;&lt;BR&gt;Eine gute Ausgangsstellung - genau, wie sie sich ein gerissener Gegner aussuchen würde! Jetzt wissen wir also, wo wir zu suchen haben!</Page>
+    </Text>
+</QuestDialog>

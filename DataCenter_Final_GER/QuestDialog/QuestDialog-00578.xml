@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Ich habe keine Zeit, mich um dumme Archäologinnen zu kümmern, wenn hier überall alle möglichen Kreaturen rumrennen.&lt;BR&gt;&lt;BR&gt;Apropos ... Ihr seht irgendwie unterbeschäftigt aus. Setzt ein paar der {@LinkCreature:18#16#Trümmermachergolems} außer Gefecht und bringt mir deren Kerne. Ich will sie zusammenbinden und ein Seil um die Stadt legen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">Gut gemacht! Ich würde Euch ja bitten, sie für mich zusammenzubinden, aber ich sehe da noch so einen Faulpelz, der Beschäftigung braucht ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1005">
+        <Page social="0">Seid Ihr genauso dumm wie nutzlos? Wollt Ihr etwa genauso verloren gehen wie diese einfältige Archäologin?&lt;BR&gt;&lt;BR&gt;Euer Ziel sind die {@LinkCreature:18#16#Trümmermachergolems} und {@LinkCreature:18#15#Plünderer der Felsenkletterer}. Los jetzt!</Page>
+    </Text>
+</QuestDialog>

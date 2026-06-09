@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="5">Эта роща священна для всех в королевстве.&lt;BR&gt;&lt;BR&gt;К несчастью, мерзкие {@LinkCreature:23#13#Обжигающие клыкари} ее уничтожают.&lt;BR&gt;&lt;BR&gt;Мои бойцы поджарятся, если попробуют их одолеть. Мне не обойтись без твоей помощи.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1009">
+        <Page social="5">Ну что ж, на какое-то время огнедышащие ублюдки оставят нас в покое.&lt;BR&gt;&lt;BR&gt;Спасибо. Наши святыни - часть нас самих. Мы должны их защищать.</Page>
+    </Text>
+</QuestDialog>

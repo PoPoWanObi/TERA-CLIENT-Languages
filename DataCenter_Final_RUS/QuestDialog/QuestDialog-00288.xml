@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="4">Во время войны не так-то просто достать что-то, кроме самого необходимого. Все распределяют по карточкам. &lt;BR&gt;&lt;BR&gt;Та же косметика, например. В Кастанике все время ее не хватает. Ты же знаешь, что из копыт {@LinkCreature:10#9#Длинноклыких рубак}, живущих на побережье Боана, можно сделать отличные румяна?&lt;BR&gt;&lt;BR&gt;Если бы кто-то занялся добычей копыт, мы бы смогли неплохо заработать.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1009">
+        <Page social="4">Да, просто идеальные копыта. Спасибо от меня, и от всех девушек Кастаники. Ха-ха, и даже от пары мужчин!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1009">
+        <Page social="0">Ты не представляешь, как кастаники любят румяна, &lt;PCNAME&gt;! Пара копыт {@LinkCreature:10#9#Длинноклыких рубак} принесут выгоду нам обоим.</Page>
+    </Text>
+</QuestDialog>

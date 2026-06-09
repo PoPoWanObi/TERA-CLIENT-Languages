@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="4">Да как только посмели эти твари называть себя стражей!&lt;BR&gt;&lt;BR&gt;Каждый раз, когда я вижу, как они корчат из себя настоящих солдат, меня выворачивает наизнанку. Они чудовища!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, покажи им, что значит настоящий солдат! {@LinkCreature:33#12#Кровавые стражи-рыцари} и {@LinkCreature:33#62#Кровавые стражи-воители} должны быть уничтожены, а их жетоны - сорваны. Они не заслуживают их носить!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1004">
+        <Page social="4">Я лично сожгу каждый их жетон, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1004">
+        <Page social="0">{@LinkCreature:33#12#Кровавые стражи-рыцари} и {@LinkCreature:33#62#Кровавые стражи-воители} не по праву носят свои жетоны. Ты ведь не потерпишь такое надругательство?!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="225" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="10">
+        <Page social="4">Я знаю Эллеона достаточно давно. Если ты ищешь культистов, я помогу тебе их найти.&lt;BR&gt;&lt;BR&gt;(Это подземелье на 3 игроков, достигших 37 уровня.)</Page>
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="18">
+        <Page social="7">Телепорт ведет в Убежище Культистов. Дай мне знать, когда мы можем отправляться. &lt;BR&gt;&lt;BR&gt;&lt;TEXTBUTTON&gt;Убежище Культистов&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Отправиться в Убежище Культистов.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

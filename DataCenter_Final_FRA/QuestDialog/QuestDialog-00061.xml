@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les devans des Bois de l'Oubli avaient pris le contrôle des routes et menaçaient la ville de Crescentia. Le préfet Daven vous a demandé de vous rendre à Boquillon pour y protéger les marchands et la population des bandits devans locaux. Vous avez triomphé de Tuebenius, le meneur des devans, afin de sécuriser les routes de la région.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Nous avons besoin de renforts dans les Bois de l'Oubli pour repousser une invasion de devans. Nous demandons à toutes les recrues disponibles de s'adresser au plus vite au Capitaine Daven, à Boquillon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">On a besoin de vous à Crescentia. Des bandits devans ont pris le contrôle des routes menant à la ville, et la population locale commence à craindre le pire.&lt;BR&gt;&lt;BR&gt;Empruntez la sortie nord-est et suivez la route par-delà le pont.&lt;BR&gt;&lt;BR&gt;Latton est en train de patrouiller dans le coin. Il pourra vous aider à rallier les Bois de l'Oubli. Quand vous serez {@gender:parvenu/parvenue} au Camp de la Digue, adressez-vous à Neacal.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1007">
+        <Page social="4">Le Camp de la Digue?&amp;nbsp; Oui, je sais comment s'y rendre.&lt;BR&gt;&lt;BR&gt;Traversez le pont, suivez le chemin menant à la grotte et traversez-la. Vous n'aurez qu'à suivre la lumière. Le Camp de la Digue se trouvera sur votre gauche, tout près de la sortie.&lt;BR&gt;&lt;BR&gt;Une promenade de santé.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1004">
+        <Page social="4">Bienvenue dans les Bois de l'Oubli. Une chose est certaine&amp;nbsp;: au cours de votre séjour, vous aurez l'occasion de voir le sang couler plus d'une fois. J'espère juste pour vous que ce sera celui de l'ennemi et pas le vôtre.&lt;BR&gt;&lt;BR&gt;Les devans bloquent une voie d'accès importante à Crescentia. Nous devons libérer la route et protéger la ville. En faisant route vers l'est, vous tomberez sur Chama, un éclaireur. Il va certainement avoir besoin d'aide.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1013">
+        <Page social="4">Neacal vous envoie?&amp;nbsp; Génial!&amp;nbsp; J'aurais pu m'occuper de ça tout seul, mais un bon soldat ne tire pas toute la couverture à lui... Ses frères d'armes aussi ont le droit de connaître leur quart d'heure de gloire.&lt;BR&gt;&lt;BR&gt;Je traque un commandant devan, une vermine sanguinaire du nom de Tuebenius. Il est sournois, impitoyable... bref, il doit mourir.&lt;BR&gt;&lt;BR&gt;Il se trouve au nord-est, non loin d'ici. Si vous le tuez, les devans privés de chef pédaleront dans la semoule. Nous n'aurons plus qu'à leur tomber dessus!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1004">
+        <Page social="4">Tuebenius est mort?&amp;nbsp; Parfait!&amp;nbsp; C'était lui le cerveau, le stratège. Maintenant qu'il est mort, nous allons pouvoir effectuer une percée pour rallier Crescentia.&lt;BR&gt;&lt;BR&gt;Traversez les lignes ennemies en employant la manière forte et allez trouver Jodoc, à Crescentia. De mon côté, je vais avertir Daven.&lt;BR&gt;&lt;BR&gt;Escaladez la colline et prenez la route que vous verrez partir vers le sud.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="59" prevId="7" villagerId="1009">
+        <Page social="4">Ça fait vraiment plaisir de voir un nouveau visage. Ca signifie que la route de Boquillon est à nouveau ouverte, ou tout du moins qu'il existe un moyen de passer. Dois-je en déduire que c'est grâce à vous?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ça fait un moment que les devans sont une véritable plaie pour notre communauté. Avec l'aide de soldats comme vous, nous finirons par les repousser et reprendre les bois qui nous appartiennent.&lt;BR&gt;&lt;BR&gt;Vous avez toute ma gratitude!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

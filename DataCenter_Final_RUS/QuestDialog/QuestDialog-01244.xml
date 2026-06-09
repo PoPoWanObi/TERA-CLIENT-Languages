@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">Вот что я придумала. Если бы здесь было поменьше {@LinkCreature:42#1100#Нагов-стражников}, было бы намного легче добраться до командиров нагов.&lt;BR&gt;&lt;BR&gt;Я и не обещала, что это будет грандиозно сложный план, правда? Просто доверься мне. Убей как можно больше нагов и заодно избавься от тех, кого они охраняют.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;. Знаю, что это было очень непросто.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">Просто перебей их по одному, &lt;PCNAME&gt;. Что плохо для {@LinkCreature:42#1100#Нагов-охранников}, хорошо для нас.</Page>
+    </Text>
+</QuestDialog>

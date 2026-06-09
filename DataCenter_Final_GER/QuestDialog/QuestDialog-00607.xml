@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="4">Ich habe etwas Schreckliches getan, &lt;PCNAME&gt;. Etwas, das ich vielleicht nie wiedergutmachen kann.&lt;BR&gt;&lt;BR&gt;In meiner Zeit bei der Freien Bruderschaft habe ich grausame Waffen hergestellt. Ich hätte nie für möglich gehalten, dass sie gegen uns verwendet werden könnten, aber ich schätze, das ist keine Entschuldigung.&lt;NEXTPAGEBUTTON&gt;"Was soll ich tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich kann nicht einfach so weitermachen mit dem Wissen, dass diese Waffen immer noch da draußen sind.&lt;BR&gt;&lt;BR&gt;Bitte sammelt sie für mich ein und bringt sie zurück. Ich werde dafür sorgen, dass diese zerstört werden und nicht noch mehr unschuldige Leben fordern.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1007">
+        <Page social="4">Ich danke Euch. Ich werde die Waffen umgehend zerstören und schwöre bei meinem Leben, so etwas nie wieder zu tun.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1007">
+        <Page social="0">Bitte findet diese grausamen Waffen, bevor noch mehr Leute verletzt werden.</Page>
+    </Text>
+</QuestDialog>

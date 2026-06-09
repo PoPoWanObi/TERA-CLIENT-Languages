@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;! У посредника Мистериума Легии в Лагере ученых Салерона есть сообщение для тебя. Зайди к ней при первой возможности.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1029">
+        <Page social="4">Посредник приветствует тебя, &lt;PCNAME&gt;, и передает сообщение от самого бога Салерона.&lt;BR&gt;&lt;BR&gt;Салерон недавно дал нам знать, что желает тебя повидать, &lt;PCNAME&gt;. Мы не знаем, о чем будут разговаривать бог и &lt;PCNAME&gt;. Однако, когда бог зовет смертного по имени, крайне не рекомендуется игнорировать такую просьбу.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" prevId="3" villagerId="1102">
+        <Page social="4">А, &lt;PCNAME&gt;, о чьей смелости и благородстве я наслышан. Значит, моя весточка дошла до тебя?&lt;BR&gt;&lt;BR&gt;Я позвал тебя, чтобы сделать своего рода подарок. Не считай его наградой. Просто знай, что однажды, когда я восстану из этой холодной тюрьмы, мне потребуются сильные союзники.&lt;BR&gt;&lt;BR&gt;На мой взгляд, у тебя неплохой шанс дожить до этого момента.&lt;BR&gt;&lt;BR&gt;Если однажды Валькионская Федерация будет править миром, мне понадобится посредник, которому я смогу доверять.</Page>
+    </Text>
+</QuestDialog>

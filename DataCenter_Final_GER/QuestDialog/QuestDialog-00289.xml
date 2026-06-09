@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">Alle beschweren sich über den fehlenden Nachschub, aber wisst Ihr was? Es ist noch viel schlimmer.&lt;BR&gt;&lt;BR&gt;Sie schicken uns nur noch Grünschnäbel. Im Gegensatz zu Euch, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich schwöre bei den Titanen, dass sich die {@LinkCreature:9#100#Goldbraunen Säbelzähne} an unseren Grünschnäbeln fett und rund fressen. Wenn Ihr einige von ihnen töten könntet, würden die Grünschnäbel vielleicht lange genug überleben, um auch Veteranen wie wir zu werden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">Gute Arbeit, &lt;PCNAME&gt;. Wenn wir so weiter machen, werden die Säbelzähne den Schwanz einziehen und fliehen, sobald sie einen Soldaten zu Gesicht bekommen.</Page>
+    </Text>
+</QuestDialog>

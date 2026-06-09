@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">Die Sache mit den Waffen hat vielleicht nicht funktioniert, aber dieses Mal habe ich einen todsicheren Plan, um Nashwas Herz für mich zu gewinnen!&lt;BR&gt;&lt;BR&gt;Kaidun zeichnet seine stärksten und forschesten Offiziere mit besonderen Rangabzeichen aus. So einen Preis kann Nashwa einfach nicht von sich weisen! {@LinkCreature:32#15#Sihranische Loyalisten} tragen sie bei sich. Würdet Ihr mir diese wohl von ihnen beschaffen? Ich würde ja selbst gegen, aber ... Ihr habt ja schon gezeigt, dass Ihr wisst, wie man so was macht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">Wenn ich Ihr die bringe, wird sich Nashwa sicher in mich verlieben! Ich kann Euch ja gar nicht genug danken, aber diese Belohnung ist wenigstens ein Anfang!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">Ich brauche bloß die Rangabzeichen, die von den Sihranischen Loyalisten getragen werden. Dann wird Nashwa schon begreifen, wie gern ich sie habe, oder?</Page>
+    </Text>
+</QuestDialog>

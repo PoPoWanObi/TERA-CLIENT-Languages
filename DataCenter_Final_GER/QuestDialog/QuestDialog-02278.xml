@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Hey! Wie wäre es heute einmal mit etwas ganz anderem? {@LinkCreature:63#3003#Elthienne} will schon lange, dass ich da draußen ein paar Kreaturen töte, aber ich - äh- ich bin ein Stadtkind! Das ist nichts für mich.&lt;BR&gt;&lt;BR&gt;Ich bin aber sicher, dass das für {@gender:einen Helden/eine Heldin} wie Euch genau die richtige Aufgabe ist. Die grausigen Details wird Euch {@LinkCreature:63#3003#Elthienne} mitteilen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Will nicht töten? Und das soll eine Castanic sein? Was für ein seltsames Mädchen.&lt;BR&gt;&lt;BR&gt;Nun, ich weiß ja, dass Ihr nicht zimperlich seid. Ich möchte, dass Ihr für die Hände auf die Jagd geht. Ihr werdet dazu eine Reise unternehmen, ein paar Naga töten und ihre Körperteile herbringen müssen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Junge, Junge. Frische Haut, Klauen und Knochen ... igitt!&lt;BR&gt;&lt;BR&gt;Ihr habt das die ganze Reise über in Eurem Rucksack gehabt und musstet Euch nicht einmal übergeben?&lt;BR&gt;&lt;BR&gt;Habt Ihr Euch wenigstens die Hände gewaschen? Eure Bezahlung bekommt Ihr von {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir brauchen Haut, Knochen und Klauen, alles von den Naga. Fragt gar nicht erst.&lt;BR&gt;&lt;BR&gt;Jagt die {@LinkCreature:10#8#Nagakampfmeister} auf der {@Rgn:10001#Schlangeninsel} und bringt die Körperteile hierher. Die Hände werden sie nutzbringend einzusetzen wissen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ekelig. Ich meine, danke!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} wird Euch für Eure Arbeit bezahlen.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir brauchen einen Rückenschild, Knochen und Klauen, alles von den Naga. Fragt gar nicht erst.&lt;BR&gt;&lt;BR&gt;Jagt die {@LinkCreature:10#16#Nagaklauenreiter} auf der {@Rgn:10001#Schlangeninsel} und bringt die Körperteile hierher. Die Hände werden sie nutzbringend einzusetzen wissen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Was riecht denn da so? Ich könnte schwören, {@LinkCreature:63#3003#Elthienne} lässt Euch dieses Zeug nur hierher bringen, um mich zu bestrafen.&lt;BR&gt;&lt;BR&gt;Sprecht mit der alten Schachtel, wenn Ihr Eure Bezahlung haben wollt.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir brauchen ein Rückenschild, Knochen und Klauen, alles von den Naga. Fragt gar nicht erst.&lt;BR&gt;&lt;BR&gt;Jagt die {@LinkCreature:10#17#Nagaklauenmeister} auf der {@Rgn:10001#Schlangeninsel} und bringt die Körperteile hierher. Die Hände werden sie nutzbringend einzusetzen wissen.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Würg, ist das eklig. Wenigstens stinkt es nicht ... noch nicht.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} hat Eure Bezahlung.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir brauchen einen Rückenschild, Knochen und Klauen, alles von den Naga. Fragt gar nicht erst.&lt;BR&gt;&lt;BR&gt;Jagt die {@LinkCreature:10#18#Nagaleviathane} auf der {@Rgn:10001#Schlangeninsel} und bringt die Körperteile hierher. Die Hände werden sie nutzbringend einzusetzen wissen.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, Ihr seid unglaublich!</Page>
+    </Text>
+</QuestDialog>

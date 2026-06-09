@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">Wenn wir unsere Mission hier abschließen wollen, müssen wir die Argonen in Schach halten.&lt;BR&gt;&lt;BR&gt;Macht {@LinkCreature:45#1001#Kelbaangreifer}, {@LinkCreature:45#1002#Argonomorphzwergorkaner} und {@LinkCreature:45#1003#Argonomorphrunenhüter} in der Nähe des Zugangs zum Turm unschädlich.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss Eurer Mission bei {@Creature:245#1002$$Orheno} im Feldlager der Beharrlichkeit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1002">
+        <Page social="5">Ausgezeichnete Arbeit, &lt;PCNAME&gt;. Nur weiter so.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1002">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

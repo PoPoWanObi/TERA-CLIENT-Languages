@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Есть одна вещь, которая заставляет любых кошек мурлыкать - серебряная лоза. Сейчас она редкость, поэтому дорогая. Но оно того стоит!&lt;BR&gt;&lt;BR&gt;Принеси такую ветку - и этот леопард свернется калачиком у твоих ног.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">М-м, пахнет... божественно. Хочу ее!&lt;BR&gt;&lt;BR&gt;Ой, прости. Усы меня подводят.&lt;BR&gt;&lt;BR&gt;Наверное, тебе лучше держать ее подальше от меня. Я прохожу систему из двенадцати этапов, но каждый день - это целое испытание.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Нам очень нужна серебряная лоза. Для твоего леопарда, не для меня. Честно!</Page>
+    </Text>
+</QuestDialog>

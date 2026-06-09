@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Ich kann die Gefahr, die die Basilisken darstellen, nicht länger ignorieren. Velika sagt, niemand darf hineingehen, aber Chebika wird erst sicher sein, wenn es doch jemand tut.&lt;BR&gt;&lt;BR&gt;Ihr erhaltet die Erlaubnis, das Tal der Gräber zu betreten und {@LinkCreature:21#2#Dämmerbasilisken} zu töten. Meldet Euch bei mir, wenn das vollbracht ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">Basilisken sind kein einfacher Gegner. Ich preise Euren Mut, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Chebika steht unter dem Schutz der Föderation. Ich habe meine Befehle, ebenso wie Ihr. Vernichtet die Basilisken.</Page>
+    </Text>
+</QuestDialog>

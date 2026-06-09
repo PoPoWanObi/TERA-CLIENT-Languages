@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">И снова Потомки Лока. И не спрашивай меня, зачем это все - я просто исполняю приказы Карделена.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:18#19#Штурмовиков Лока}, {@LinkCreature:18#20#Убийц Лока}, {@LinkCreature:18#21#Череполомов Лока} и {@LinkCreature:18#113#Калтруна}. Забери их оружие, чтобы никто не смог им больше воспользоваться!&lt;BR&gt;&lt;BR&gt;Доложи Доринн в Ситч Бидаум, когда разберешься с ними.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1006">
+        <Page social="4">Как много оружия...и как много убитых Потомков Лока.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1006">
+        <Page social="0">Ты же не боишься Потомков Лока, правда?</Page>
+    </Text>
+</QuestDialog>

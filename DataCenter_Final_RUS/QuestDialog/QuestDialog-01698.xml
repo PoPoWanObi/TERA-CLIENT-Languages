@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;Штаб Велики принял решение предоставить опытным солдатам боевых лошадей. Обращаться в штаб.&lt;BR&gt;&lt;BR&gt;Дугал, консул Велики.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Добро пожаловать, &lt;PCNAME&gt;! Какой позор, что мы позволили такому умелому солдату, как ты, все это время ходить пешком.&lt;BR&gt;&lt;BR&gt;Лучше потратить деньги на новую лошадь, чем на новые кожаные ботинки, да? Быстрый конь позволит тебе передвигаться с одного места на другое куда быстрее.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1149">
+        <Page social="0">Должно быть, ты &lt;PCCLASS:lcase&gt;, о котором упоминал Дугал. Я знал, что ты придешь, но... Мои лошади в последнее время стали беспокойными и не слушаются своих наездников.&lt;BR&gt;&lt;BR&gt;Может быть, &lt;font color='#0080FF'&gt;веридийская вытяжка&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=Veridia Plants"/&gt;&lt;/font&gt; сможет их успокоить. Собери несколько листов веридии и сделай из них вытяжку. Тогда я смогу отпустить этих здоровяков с привязи.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1149">
+        <Page social="0">Это просто чудо: наши лошади чувствуют себя гораздо лучше! Возьми небольшой подарок в знак моей признательности. Это один из моих лучших. Думаю, тебе понравится.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1149">
+        <Page social="0">Пожалуйста, принеси мне &lt;font color='#0080FF'&gt;веридийскую вытяжку&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=Veridia Plants"/&gt;&lt;/font&gt;. Она успокоит наших лошадей.</Page>
+    </Text>
+</QuestDialog>

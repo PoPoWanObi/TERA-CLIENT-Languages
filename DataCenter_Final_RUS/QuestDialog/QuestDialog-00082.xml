@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Меня интересуют {@LinkCreature:4#1011#Клыкари}. Громко лают, но не кусают. Загляни к ним в гости и преподай хороший урок.&lt;BR&gt;&lt;BR&gt;Твоя задача -разобраться с ними и принести их сердца. Главное - потом сюда не ходить.&lt;BR&gt;&lt;BR&gt;А запах отпугнет других пожирателей плоти.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Смотри-ка, клыкари плодятся быстро, но ты убиваешь их еще быстрее!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Послушай, нельзя снова открыть шахты, пока мы не избавились от клыкарей.&lt;BR&gt;&lt;BR&gt;А то с откушенными руками, знаешь ли, киркой особо не помашешь.</Page>
+    </Text>
+</QuestDialog>

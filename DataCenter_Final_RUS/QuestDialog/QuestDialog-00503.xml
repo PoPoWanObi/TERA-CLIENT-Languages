@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="4">Зачем довольствоваться вампирами, когда можно повеселиться, убивая {@LinkCreature:16#2203#Неистовых гномов}? Они нападают на всех, кто приближается к Изломанной равнине.&lt;BR&gt;&lt;BR&gt;Знаю, что сейчас все переживают из-за вампиров, но не стоит недооценивать угрозу Пополиону со стороны гномов. Неплохо бы подсократить их численность, как думаешь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;. Вряд ли селяне поймут, что тебе пришлось сделать ради их безопасности, поэтому прими благодарность от меня лично.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1012">
+        <Page social="0">Если мы не разберемся с гномами, то и из-за вампиров не стоит переживать - нам так и так крышка!</Page>
+    </Text>
+</QuestDialog>

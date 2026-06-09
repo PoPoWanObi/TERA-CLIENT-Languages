@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="426" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="426" prevId="0" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="426" prevId="0" villagerId="2001">
+        <Page social="4">Ach, dieser Dummkopf Loto! Wie jeder andere lebende Händler respektiere ich Gier, er stürzt sich aber einfach in ... in dieses ... na, was auch immer.&lt;BR&gt;&lt;BR&gt;Loto und ich hatten vor, Wertgegenstände aus den Argonenstützpunkten nach ihrem Abzug abzustauben. Aber die Argonen ziehen nicht von hier ab!&lt;BR&gt;&lt;BR&gt;Loto nachzugehen wäre reiner Selbstmord für mich, aber {@g:ein ausgebildeter Soldat/eine ausgebildete Soldatin} wie Ihr ...&lt;BR&gt;&lt;BR&gt;Mir ist klar, dass die Probleme von zwei Händlern momentan nicht wirklich wichtig sind, Loto ist aber alles, was ich noch an Familie habe. Wenn Ihr ihn findet, könnt Ihr ihn heil zurückbringen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="426" prevId="2" villagerId="2002">
+        <Page social="4">Wer da? Ach, {@g:ein Soldat/eine Soldatin}! Lasst mich raten: Ihr seid {@g:ein Späher/eine Späherin} der Föderationsarmee. Tja, ich bin froh, eine Armee hinter mir zu haben.&lt;BR&gt;&lt;BR&gt;Wenn Ihr mit Euren Kameraden die nächsten paar Gänge räumen könntet, wäre das ganz toll. Den Handelsverkehr in Gang halten und all so was, ja?&lt;NEXTPAGEBUTTON&gt;"So einfach ist das nicht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Moment mal ... Ihr seid allein?&lt;BR&gt;&lt;BR&gt;Was? Hier findet das letzte Gefecht der Argonen statt?&lt;BR&gt;&lt;BR&gt;Und ... die Argonenkönigin persönlich könnte gleich um die Ecke warten.&lt;NEXTPAGEBUTTON&gt;"Wie gesagt: So einfach ist das nicht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vielleicht war ich ... etwas voreilig und vielleicht ist dieser Ort nicht ganz sicher für den Handel. Trotzdem, wenn ich es bis hierher geschafft habe, kann er nicht der gewisse Untergang sein.&lt;BR&gt;&lt;BR&gt;Ich schlage Euch ein Geschäft vor, &lt;PCCLASS&gt;. Ihr sammelt Augen von den Argonen hier ein und ich verschwinde dorthin zurück, wo ich hergekommen bin.&lt;BR&gt;&lt;BR&gt;Warum Argonenaugen? Wie soll ich das höflich ausdrücken ... sagen wir einfach, sie haben angeblich eine heilende Wirkung.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="426" prevId="3" villagerId="2002">
+        <Page social="4">Ihr seid wieder da! Und seht her! Wir sind beide noch am Leben! Vielleicht ist dieser "Argonenkorpus" ja gar nicht so gefährlich. Vielleicht könntet Ihr als Nächstes ...&lt;BR&gt;&lt;BR&gt;Oh nein, seht mich bloß nicht so an. Wir haben eine Abmachung und ich werde mich daran halten, indem ich mich stillschweigend aus dem Staub mache. Viel Glück mit dieser Argonenkönigin! Und wünscht mir Glück beim Verkaufen der Augen in Kaiator!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="426" villagerId="2002">
+        <Page social="0">Die Argonen sind nur der Preis fürs Geschäftemachen. Profit erfordert Risiken.</Page>
+    </Text>
+</QuestDialog>

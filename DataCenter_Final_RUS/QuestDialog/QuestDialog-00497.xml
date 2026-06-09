@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">Есть старая легенда о зелье, при помощи которого можно сдерживать жажду крови у вампиров. Единственный способ отличить правду от вымысла - проверить на деле.&lt;BR&gt;&lt;BR&gt;Хотя даже если все получится, мы рискуем убить их, а не успокоить.&lt;BR&gt;&lt;BR&gt;Нужно найти &lt;font color='#660000'&gt;камальский цветок&lt;/font&gt;, который растет на Забытых полях.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Очень хорошо. Кажется, это именно то, что нужно.&lt;BR&gt;&lt;BR&gt;Хм-м... Так, все, я нашла рецепт. Одну минуту...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">Найти этот цветок проще простого.&lt;BR&gt;&lt;BR&gt;Ты вообще собираешься мне помогать?</Page>
+    </Text>
+</QuestDialog>

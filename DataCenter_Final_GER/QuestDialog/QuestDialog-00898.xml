@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Es gibt immer mehr verdorbene Kreaturen. Damit nicht noch mehr Geister entstehen, müsst Ihr {@LinkCreature:28#3031#Verseuchte Jalmarak}, {@LinkCreature:28#3041#Gefallene Geister}, {@LinkCreature:28#3051#Schmutzige Jalmarak}, {@LinkCreature:28#1031#Taumelnde Sporenwandler} und {@LinkCreature:28#1041#Verdorbene Mycanare} vernichten.&lt;BR&gt;&lt;BR&gt;Beeilt Euch, und erstattet nach Abschluss der Mission Laneama Bericht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1004">
+        <Page social="5">Wir wissen Eure Bemühungen sehr zu schätzen. Solltet Ihr den Wunsch verspüren, Euch noch mehr Münzen zu verdienen, so bin ich bis auf Weiteres autorisiert, ein Kopfgeld für diese Kreaturen zu zahlen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1004">
+        <Page social="0">Mir ist bewusst, dass die Aufgabe nicht leicht ist, aber solange Ihr sie nicht erfüllt habt, kann ich Euch nicht entschädigen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="5">Ich bin hier, um finanzielle Unterstützung zu leisten. Wenn Ihr mir Gehör schenkt ...&lt;BR&gt;&lt;BR&gt;In dieser Gegend treiben sich Felspirscherbasilisken rum. Das sind grimmige, abscheuliche Kreaturen. Aber ihre Schuppen bringen einen stattlichen Preis ein.&lt;BR&gt;&lt;BR&gt;Wie wär's mit einem Handel? Besorgt mir ein paar von diesen Schuppen und ich trete die Hälfte des Gewinns an die Garnison ab.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1012">
+        <Page social="18">Es war mir ein Vergnügen, mit Euch Geschäfte zu machen. Ich bin sicher, Eure Waffenkammer wird von der zusätzlichen Summe profitieren.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1012">
+        <Page social="0">Habt Ihr noch keine Schuppen besorgt? Ich warte einfach hier ... {@g:Partner/Partnerin}.</Page>
+    </Text>
+</QuestDialog>

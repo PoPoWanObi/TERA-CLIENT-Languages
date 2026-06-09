@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="67" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="67" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4">Kommt ruhig näher! Willkommen. Wohin Ihr auch wollt, ein Pegasus bringt Euch im Nu sicher dorthin!&lt;BR&gt;&lt;BR&gt;Naja, meistens sicher. Es sind schon Wochen seit dem letzten schweren Pegasusunfall vergangen.&lt;BR&gt;&lt;BR&gt;Dafür bekomme ich vielleicht eine Medaille verliehen.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Ihr könnt mich gern alles fragen, ich stehe Euch stets zu Diensten.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">Willkommen!&lt;TEXTBUTTON&gt;Beschützt den Nachschubkarren &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Dungeon betreten&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

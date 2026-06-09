@@ -1,0 +1,18 @@
+<MatParamData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/MatParamData MatParamData.xsd" animSet="Transportation_ANI.Anim.Transportation_Anim" xmlns="https://vezel.dev/novadrop/dc/MatParamData">
+    <AnimMaterial animName="Depart">
+        <Material time="0" value="1" name="JordonCrossFactor" />
+        <Material time="0" value="0" name="TransportDepartProgress" />
+        <Material time="0.05" value="1" name="JordonCrossFactor" />
+        <Material time="2" value="0" name="JordonCrossFactor" />
+        <Material time="4.99" value="0" name="JordonCrossFactor" />
+        <Material time="2.7" value="0.99" name="TransportDepartProgress" />
+    </AnimMaterial>
+    <AnimMaterial animName="Arrive">
+        <Material time="0" value="0" name="JordonCrossFactor" />
+        <Material time="0" value="0.99" name="TransportDepartProgress" />
+        <Material time="0.1" value="0" name="JordonCrossFactor" />
+        <Material time="2.7" value="1" name="JordonCrossFactor" />
+        <Material time="1" value="0" name="TransportDepartProgress" />
+        <Material time="4.99" value="1" name="JordonCrossFactor" />
+    </AnimMaterial>
+</MatParamData>

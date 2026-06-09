@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Mehr Ärger.&lt;BR&gt;&lt;BR&gt;Kunchara hat gemacht große ...wie ist Wort? Zau-ber-spruch. Schreibt großes Wort auf Papier. Legt Papier auf Axt. Bumm! Schwingt gewaltiger.&lt;BR&gt;&lt;BR&gt;Sucht {@LinkCreature:218#1027$$Takucha}. Keine Talismane für Tukarus!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Oooh, ja. Kuncharas Zelt brennt, aber starker Wind bläst Zelt weg und Feuer aus. Takucha versucht, Talismane zu holen, aber Tukarus schlägt hart. Seht Ihr Narbe?&lt;BR&gt;&lt;BR&gt;Tukarus gibt {@LinkCreature:18#11#Zahnradgolems} alle Talismane ... Die großen mit Rädern.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1002">
+        <Page social="0">Gut! Sehr gut! Keine Talismane für Tukarus, und Golems auch keine Talismane! &lt;PCCLASS&gt; weise.&lt;BR&gt;&lt;BR&gt;Ihr würdet guten Schamanen abgeben!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1002">
+        <Page social="0">Metallstamm? Takucha meint Golems. Golems mit Talismane? Bumm! Sehr stark.</Page>
+    </Text>
+</QuestDialog>

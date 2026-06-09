@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="4">Лидер части вендиго - {@LinkCreature:34#5001#Кайджас}. Он не хотеть делиться осколки.&lt;BR&gt;&lt;BR&gt;Если ты убить его, другие вендиго могут послушать Кревааса.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1015">
+        <Page social="4">Сила важна, но честь важна больше. Мадиар иметь честь, и &lt;PCNAME&gt; тоже.&lt;BR&gt;&lt;BR&gt;Креваас поговорить с вендиго. Сказать, что делиться осколки с вы хорошо.&lt;NEXTPAGEBUTTON&gt;"Я тоже поговорю с людьми".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Теперь мы не союзники больше. Креваас надеется, когда мы встретиться снова, мы будем друзья.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1015">
+        <Page social="0">Обе стороны проиграют, если осколки исчезнут. Осталось так мало времени.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="3" villagerId="1009">
+        <Page social="4">Возвращаешься на Ледовую базу охотников? Думаю, мне лучше остаться здесь и помочь вендиго. Передай Лалашу спасибо от меня.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="5" villagerId="1005">
+        <Page social="4">Все эти бои и невзгоды из-за каких-то кристаллов.&lt;BR&gt;&lt;BR&gt;Но Мадиар прав, мы не единственные владельцы этого мира. Я обсужу это с претором. Возможно, наша политика изменится, и мы предотвратим катастрофу.&lt;BR&gt;&lt;BR&gt;У меня все.</Page>
+    </Text>
+</QuestDialog>

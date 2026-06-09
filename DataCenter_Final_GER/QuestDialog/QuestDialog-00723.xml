@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">Diese verdammten Narren laufen noch immer in den Katakomben herum. Ich möchte, dass Ihr die {@LinkCreature:22#26#Giftigen Vampirnarren} aus der Akademie vertreibt.&lt;BR&gt;&lt;BR&gt;Wenn Ihr damit fertig seid, könnt Ihr Euch bei Kendea Eure Bezahlung abholen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1025">
+        <Page social="5">Hurra! Die Narren sind tot!&lt;BR&gt;&lt;BR&gt;Damit sinkt auch die Zahl der Dämonen! Gut gemacht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1025">
+        <Page social="0">Wenn Ihr die Giftigen Vampirnarren noch nicht getötet und ihre Blutsteine an Euch genommen habt, dann haben wir nichts zu besprechen.</Page>
+    </Text>
+</QuestDialog>

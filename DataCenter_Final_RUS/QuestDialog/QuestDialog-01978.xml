@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">Исследователи в Зале Короны Разума не могут продолжить исследования по причине нашествия аргонов.&lt;BR&gt;&lt;BR&gt;Мы пытаемся установить слабые места аргонов, но наши исследователи ученые, а не бойцы. Они не обучены сражаться.&lt;BR&gt;&lt;BR&gt;Отправляйся туда и встреться с Ашинн. Она знает, чем ты можешь помочь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">Инвалеско приветствует любую помощь.&lt;BR&gt;&lt;BR&gt;Больше всего нам нужны люди, способные насильственно добыть материалы для исследования. Иногда нам необходимы образцы Аргоновых {@LinkCreature:46#301#сикандари}, {@LinkCreature:46#303#кровавых извергов} или {@LinkCreature:46#304#джалмараков}.&lt;BR&gt;&lt;BR&gt;Исследования требуют постоянных изменений. Попробуй достать их.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">О, что это у тебя? Зараженные перья {@LinkCreature:46#301#Аргоновых сикандари}? Отличные образцы.&lt;BR&gt;&lt;BR&gt;Они заставят сердце любого ученого биться быстрее!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Подземелья Рага-Кабаш тоже населяют {@LinkCreature:46#301#Аргоновые сикандари}, это нас озадачило.&lt;BR&gt;&lt;BR&gt;Мы бы хотели изучить их перья.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="3003">
+        <Page social="4">Какая вонь!&lt;BR&gt;&lt;BR&gt;По правде говоря, мы не должны жаловаться, сами ведь попросили достать сердца, но...&lt;BR&gt;&lt;BR&gt;Ах, чего не сделаешь ради науки.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Мы хотим изучить сердца {@LinkCreature:46#303#Аргоновых кровавых извергов}. Работая с таким странным существом, мы обязательно узнаем что-то интересное.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="3003">
+        <Page social="4">Любопытно.&lt;BR&gt;&lt;BR&gt;Их средоточия кажутся живыми, но не такими, как у тех, что живут в Силваноте, например.&lt;BR&gt;&lt;BR&gt;Продолжим вести наблюдения. Спасибо.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Подземелья Рага-Эвала населяют {@LinkCreature:46#304#Аргоновые джалмараки}.&lt;BR&gt;&lt;BR&gt;Нам бы хотелось узнать, какое отношение они имеют к наследию фей, переживших трансформацию. Пожалуйста, принеси нам их средоточия.</Page>
+    </Text>
+</QuestDialog>

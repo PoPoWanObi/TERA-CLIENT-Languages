@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Auf der Suche nach einem Abenteuer?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} sucht jemanden für ein bisschen Drecksarbeit draußen im Feld.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Wir sammeln Materialien aus der ganzen Welt. Angebot und Nachfrage spielen für uns als Händler immer eine Rolle.&lt;BR&gt;&lt;BR&gt;Aber manchmal brauchen wir ungewöhnliche Dinge, um das Böse in der Gegend hier in Schach zu halten.&lt;BR&gt;&lt;BR&gt;Aber wir sind nur eine kleine Gruppe und können nicht überall sein. Genau da kommt Ihr ins Spiel.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Körperteile! Mag ich am liebsten.&lt;BR&gt;&lt;BR&gt;Die einzige Person, die sie noch mehr mag als ich, ist {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt die {@LinkCreature:12#13#Rotpeitschenklauenreiter} auf der {@Rgn:12001#Nebelmoorinsel} und bringt Zähne, Klauen und Rückenschilde zurück.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Wie war der Ausflug? Auf der {@Rgn:12001#Nebelmoorinsel} soll es um diese Jahreszeit schön sein.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} hat Eure Bezahlung.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt die {@LinkCreature:12#17#Rotpeitschenplünderer} auf der {@Rgn:12001#Nebelmoorinsel} und bringt Zähne, Klauen und Rückenschilde zurück.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Ich wusste, auf Euch ist Verlass.</Page>
+    </Text>
+</QuestDialog>

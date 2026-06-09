@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">More trouble.&lt;BR&gt;&lt;BR&gt;Kunchara make big...what is word? In-can-tay-shun. Put big word on paper. Put paper on axe. Wham! Swing harder.&lt;BR&gt;&lt;BR&gt;Go find {@LinkCreature:218#1027$$Takucha}. No charms for Tukarus!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Oooh, yes. Kunchara's tent burn, but big wind blow tent away, put fire out. Takucha tried to get charms, but Tukarus hit hard. See scar?&lt;BR&gt;&lt;BR&gt;Tukarus give all charms to {@LinkCreature:18#11#metal tribe}...the big ones with wheels.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1002">
+        <Page social="0">Good! Very good! No charms for Tukarus, and golems no get charms either! Wise &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;You would make good shaman!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1002">
+        <Page social="0">Metal tribe? Takucha means golems. Golems with charms? Wham! Very strong.</Page>
+    </Text>
+</QuestDialog>

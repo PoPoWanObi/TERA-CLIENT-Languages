@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Les tortionnaires responsables de ces atrocités se regroupent près des Profondeurs sanglantes. Sans eux, la Citadelle du Tourment serait nettement moins effrayante.&lt;BR&gt;&lt;BR&gt; Vous feriez le plus grand bien au moral des troupes et vous arrangeriez bien nos affaires si vous pouviez tuer les {@LinkCreature:33#67#inquisiteurs cœurs-de-charbon} et les {@LinkCreature:33#17#inquisiteurs d’ébène}, ainsi que les {@LinkCreature:33#15#maîtres mekonaris} qui les protègent.&lt;BR&gt;&lt;BR&gt;La mission est conséquente, mais aussi capitale. Allez voir Iorine quand vous aurez terminé, elle fera circuler l’information.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1007">
+        <Page social="4">Cette récompense est loin d’être suffisante pour ce que vous avez fait, mais prenez-la tout de même.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1007">
+        <Page social="0">Nous n'avons pas peur de grand-chose, mais les tortionnaires sont en bonne place sur la liste.</Page>
+    </Text>
+</QuestDialog>

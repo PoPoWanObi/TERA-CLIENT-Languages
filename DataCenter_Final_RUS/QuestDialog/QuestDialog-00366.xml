@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Казурский синдикат - безумные каннибалы из племени гулов, - продали Диркену пару рабов.&lt;BR&gt;&lt;BR&gt;Может, стоит дать всем понять, что бизнес с Диркеном может окончиться плачевно? Ничто так не снижает привлекательность сделки, как уверенность в неминуемой смерти в качестве награды.&lt;BR&gt;&lt;BR&gt;Отправляйся на северную часть Безлюдного берега и перебей там {@LinkCreature:12#7#Гулов-буянов}. Новость об этом быстро разнесется.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="5">Из нас получается отличная команда, &lt;PCNAME&gt;. Я выбираю цели, ты - избавляешь мир от них.&lt;BR&gt;&lt;BR&gt;Хм-м-м. Только одна мысль об этом разжигает мой аппетит...</Page>
+    </Text>
+</QuestDialog>

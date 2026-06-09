@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="242" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Телепорт ведет в &lt;font color='#0000FF'&gt;Часовню Дагона&lt;/font&gt;.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(Похоже, этот телепорт пытается затянуть в себя всякого, кто стоит слишком близко.)</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">(Воспользуйтесь телепортом, чтобы попасть в Часовню Дагона.)&lt;TEXTBUTTON&gt;В Часовню Дагона.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Войти в Часовню Дагона.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Привет, дружище!&lt;NEXTPAGEBUTTON&gt;"И тебе привет".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Если хочешь подзаработать, поговори с {@LinkCreature:63#3002#Таратией}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Хочешь добыть для меня кое-какие материалы для работы? Вижу, что хочешь...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">У тебя есть эссенция льда?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;. Передай {@LinkCreature:63#3002#Таратии}, что ей я тоже признательна.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1098">
+        <Page social="0">У тебя есть шадметаллическая руда?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">Спасибо за помощь, &lt;PCNAME&gt;. Ты лучше всех!</Page>
+    </Text>
+</QuestDialog>

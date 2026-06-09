@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">Мы приготовили для рабочих угощение, но у них совсем нет времени, чтобы придти перекусить. А на голодный желудок не очень-то поработаешь!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, я знаю, это совсем не похоже на твои обычные подвиги, но может быть, ты отнесешь еду рабочим?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1019">
+        <Page social="4">Я как раз проголодался! Ты, должно быть, мысли читаешь. Или желудки. Спасибо! Беттенис тоже будет не прочь подкрепиться.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1020">
+        <Page social="4">Что за чудесный аромат? М-м... горячий обед с доставкой? Превосходно. Спасибо!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1021">
+        <Page social="4">О-о, на вид очень аппетитно. Жаль только, что у меня как раз разболелся живот...</Page>
+    </Text>
+</QuestDialog>

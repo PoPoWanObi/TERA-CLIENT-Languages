@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="1">Les chercheurs de l'Union des Éclairés ont découvert ce qui pourrait être une propriété intéressante du noctenium - et nous voudrions que vous, cher ami, nous aidiez à confirmer cette hypothèse.&lt;BR&gt;&lt;BR&gt;Les plantes des zones dans lesquelles l'on trouve du noctenium en masse ne semblent ni pousser ni faner. C'est peut-être à cause des traces de noctenium dans le sol.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, ramassez au moins trois graines contaminées pour nous, afin que nous puissions confirmer notre hypothèse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="0">Bien joué, l'ami!&amp;nbsp; Les échantillons que vous nous avez ramenés sont idéaux.&lt;BR&gt;Les chercheurs de l'Union seront très satisfaits de les avoir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">L'Union des Éclairés s'élèvera vers le sommet!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

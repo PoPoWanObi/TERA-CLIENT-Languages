@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Не то чтобы мы принимали эту войну на свой счет, но мне бы хотелось ударить аргонов побольнее.&lt;BR&gt;&lt;BR&gt;Я приказал {@LinkCreature:248#3003#Вихонулу} вычислить командующих аргонов. Твоя задача - убить их.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Калкзак хотел найти цели, так что даю тебе цели.&lt;BR&gt;&lt;BR&gt;Три аргона, которых я пометил черной меткой, ответственны за злодеяния против войск Федерации.&lt;BR&gt;&lt;BR&gt;Это не месть, это правосудие.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">{@LinkCreature:48#25#Барулдур} сражен? Отличная работа.&lt;BR&gt;&lt;BR&gt;Именно такие примеры повышают боевой дух армии. Да здравствует Шариар!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="3003">
+        <Page social="4">{@LinkCreature:48#27#Наути} мертв! Отличная работа.&lt;BR&gt;&lt;BR&gt;Именно такие примеры повышают боевой дух армии. Да здравствует Шариар!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3003">
+        <Page social="4">{@LinkCreature:48#28#Могмолор} пал от твоей руки! Отличная работа.&lt;BR&gt;&lt;BR&gt;Именно такие примеры повышают боевой дух армии. Да здравствует Шариар!</Page>
+    </Text>
+</QuestDialog>

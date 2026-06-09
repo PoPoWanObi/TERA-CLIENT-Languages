@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Einer Kupfermünze für Eure Gedanken. Besonders für Eure Gedanken zum Thema Sammeln.&lt;NEXTPAGEBUTTON&gt;"Man sollte keine Gelegenheit auslassen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich wusste, Ihr würdet das sagen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} weiß, was wir im Moment benötigen. Sie ist meine kleine Sammelmeisterin. Das habe ich mir gerade ausgedacht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">"Sammelmeisterin?" Ihr nehmt mich hoch, nicht wahr? Dieses Weibsstück, ich schwöre ...&lt;BR&gt;&lt;BR&gt;Wie üblich brauche ich ein paar ziemlich seltene Materialien. Ich weiß, dass Ihr das hinbekommt, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Erstaunlich! Das war bestimmt nicht einfach aufzutreiben.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ich weiß, Luriafasern sind schwer zu bekommen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">In Ordnung, jetzt kann ich mir eine Pause gönnen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Keine Grabhaut, keine Bezahlung. Tut mit leid, aber so einfach ist das. Aber das wusstet Ihr ja bereits.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Wisst Ihr was? Auch Ihr braucht einen tollen Spitznamen. Von jetzt an werde ich Euch {@gender:den Großen Macher/die Große Macherin} nennen! Von Machen, versteht Ihr? Jemand, der Sachen macht?&lt;BR&gt;&lt;BR&gt;Oh Mann, das ist einfach schlimm, oder?</Page>
+    </Text>
+</QuestDialog>

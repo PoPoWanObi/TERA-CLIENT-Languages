@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="4">{@LinkCreature:13#300541#Камнеползы} пожирают реликвии, разбросанные здесь повсюду.&lt;BR&gt;&lt;BR&gt;Каждый раз, когда в их пасти исчезает очередной артефакт, Эрия испускает такой крик, что закладывает уши. Пока мы все здесь не оглохли, собери несколько обломков реликвий, которые еще остались нетронутыми!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1128">
+        <Page social="4">Этого должно быть достаточно. Я видел, как Эрия выглядывала из-за столба и наблюдала за тем, как ты сражаешься. Похоже, у тебя появилась поклонница.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1128">
+        <Page social="0">Чтобы унять эту женщину, понадобится нечто большее, чем обещания. Леандр, похоже, заткнул свои длинные уши тканью, чтобы не слышать, как она орет.&lt;BR&gt;&lt;BR&gt;Прошу, &lt;PCNAME&gt;, умоляю тебя. Выручи бедного солдата! Принеси мне обломки, чтобы угодить Эрии.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="5">Gefällt es Euch hier? Ich liebe es hier. Ich hoffe, ich kann ewig hier bleiben!&lt;BR&gt;&lt;BR&gt;Oh, Ihr wollt was zu tun? Sicher, Ihr könnt {@LinkCreature:36#8#Tenebraravollstrecker}, {@LinkCreature:36#9#Tenebraraassassinen} und {@LinkCreature:36#10#Tenebrarapriester} erledigen, falls Euch langweilig ist. Das wäre gut.&lt;BR&gt;&lt;BR&gt;Sprecht mit Vyrnna in Tor Exsul, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1005">
+        <Page social="5">Gute Arbeit. Hier ist Eure Belohnung.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1005">
+        <Page social="0">Ihr müsst erst mehr Feinde erledigen.</Page>
+    </Text>
+</QuestDialog>

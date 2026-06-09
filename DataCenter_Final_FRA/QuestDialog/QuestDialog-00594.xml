@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0">Nous vous demandons d'éliminer les {@LinkCreature:18#1#rosseurs du désert de feu}, les {@LinkCreature:18#2#chamanes du désert de feu}, les {@LinkCreature:18#8#destructeurs du désert de feu} et les {@LinkCreature:18#9#prophètes du désert de feu}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, présentez votre rapport à Tirian, aux Ruines colossales.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1004">
+        <Page social="4">Moins ils sont nombreux, mieux nous nous portons.&lt;BR&gt;&lt;BR&gt;Veuillez accepter ceci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1004">
+        <Page social="0">Ne me dites pas que vous essayez de tirer au flanc?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

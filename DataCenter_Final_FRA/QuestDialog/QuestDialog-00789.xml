@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena a envoyé un mot pour vous prévenir qu'Elion et ses hommes avaient disparu de la Cathédrale sombre et pour solliciter votre aide.&lt;BR&gt;&lt;BR&gt;Sur place, vous avez fait la rencontre de Runha, une rôdeuse, comme Jelena. Elle vous a appris qu'Elion et ses hommes avaient emprunté un téléportail après s'être lancés à la poursuite d'une prêtresse appartenant aux descendants de Lok, et qu'ils s'étaient retrouvés coincés. Vous avez aidé Runha à établir une nouvelle liaison avec le Refuge des Cultistes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Message de Velika. Rentrez immédiatement à Tulufan.&lt;BR&gt;&lt;BR&gt;- Baruch</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">Un messager vous cherchait... je crois qu'il se nomme Brurun. Il se trouve de l'autre côté de la place.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1024">
+        <Page social="4">Vous êtes &lt;PCNAME&gt;?&amp;nbsp; Dans le cas contraire, nous n'avons rien à nous dire.&lt;BR&gt;&lt;BR&gt;Mais si c'est bien vous... Jelena a envoyé un message pour vous. Elion a disparu après s'être lancé à la recherche des descendants de Lok. Allez prévenir Baruch et mettez-vous en route.&lt;BR&gt;&lt;BR&gt;Elion a besoin de vous!&amp;nbsp; Vous vous rendez compte?&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1001">
+        <Page social="4">Elion a... disparu?&amp;nbsp; J'espère qu'il est encore en vie. Elsine a foncé vers la Cathédrale sombre aussitôt qu'elle a appris la nouvelle. Ce n'est pas le genre d'endroit dans lequel une archéologue devrait s'aventurer seule.&lt;BR&gt;&lt;BR&gt;Rendez-vous au Campement des Croisés et adressez-vous au centurion Orlaith. Si elle se trouve là-bas, le centurion saura où la trouver.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1006">
+        <Page social="4">Elsine a dit qu'elle allait se rendre au Fortin de la Cathédrale, et elle devrait déjà se trouver sur place, à l'heure qu'il est. Quant à Elion, nous sommes sans nouvelles depuis qu'il est entré dans la cathédrale.&lt;BR&gt;&lt;BR&gt;Il est parti y traquer une prêtresse... Saskia?&amp;nbsp; Ackbar?&amp;nbsp; Quel était son nom, déjà?&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="6" villagerId="1022">
+        <Page social="4">Ah, &lt;PCNAME&gt;. Vous devez certainement déjà être au courant des nouvelles. Elion et ses hommes ont pris la cathédrale d'assaut, et nous sommes depuis sans nouvelles d'eux.&lt;BR&gt;&lt;BR&gt;Je sais bien qu'il m'est impossible de faire grand-chose en solitaire, mais je ne peux rester les bras croisés.&lt;NEXTPAGEBUTTON&gt;"Je pense que c'est un boulot de soldat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous avez raison, je devrais tout simplement m'adjoindre vos services. Je vous en prie, allez les sauver.&lt;BR&gt;&lt;BR&gt;C'est le préfet Rendalf qui a signalé la disparition d'Elion. Vous le trouverez au Fortin des Défenseurs. Il pourra vous en dire plus.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4">Vous êtes {@gender:le/la} {@gender:vrai/vraie} &lt;PCNAME&gt;?&amp;nbsp; C'est bien vous qui avez démasqué ce chien galeux de Samael?&amp;nbsp; C'est un honneur pour moi!&amp;nbsp; En quoi puis-je vous être utile?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Elion?&amp;nbsp; Ses hommes et lui ont emprunté le téléportail qui se trouve au dernier sous-sol de cet endroit... juste avant que le portail en question ne cesse de fonctionner. Depuis, personne n'a réussi à l'emprunter. Runha travaille là-dessus, mais pour le moment, elle n'est parvenue à rien.&lt;BR&gt;&lt;BR&gt;Vous lui seriez certainement d'une aide précieuse.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="225" prevId="8" villagerId="1023">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. Malheureusement, pour le moment, je n'ai pas compris comment réactiver ce portail... C'est frustrant.&lt;BR&gt;&lt;BR&gt;Les descendants de Lok l'ont certainement désactivé de l'autre côté, mais il existe forcément un moyen de le remettre en état de marche.&lt;BR&gt;&lt;BR&gt;Nous allons avoir besoin des "souvenirs de sacrifice" possédés par {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus} et {@LinkCreature:25#8031#Masakrad}. Une fois en notre possession, nous pourrons le réactiver quoi qui puisse se trouver de l'autre côté.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="225" prevId="9" villagerId="1023">
+        <Page social="4">Vous avez les insignes?&amp;nbsp; Splendide!&amp;nbsp; Maintenant, nous allons pouvoir utiliser la {@LinkObject:31#pierre d'invocation} dans la Salle capitulaire.&lt;BR&gt;&lt;BR&gt;Attention, certaines de ces pierres d'invocation ont un lien magique avec nombre de gardiens monstrueux.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="225" villagerId="1023">
+        <Page social="0">J'ai besoin de la résonnance des trois souvenirs de sacrifice. Pour les obtenir, vous devrez tuer {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus} et {@LinkCreature:25#8031#Masakrad}. Ils doivent disparaître dans l'ordre pour réussir.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="225" prevId="10" villagerId="1023">
+        <Page social="4">Le portail est ouvert!&amp;nbsp; Bien joué!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Nous devons agir vite. Qui sait dans quel pétrin les autres sont allés se fourrer!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

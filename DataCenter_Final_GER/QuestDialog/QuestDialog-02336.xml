@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2005">
+        <Page social="0">Ihr habt in Wahmels Spielbereich an "Schlag die Melone" teilgenommen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2005">
+        <Page social="4">Willkommen zurück, &lt;PCNAME&gt;! Seid Ihr zurückgekommen, weil Ihr noch mehr vom besten Spiel am ganzen Strand haben wollt?&lt;BR&gt;&lt;BR&gt;Meint Ihr, Ihr könnt Euren Rekord dieses Mal schlagen? Finden wir es heraus!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2005">
+        <Page social="4">Habt Ihr einen neuen Rekort aufgestellt? Ja? Nein?&lt;BR&gt;&lt;BR&gt;Naja, wie auch immer, ich habe Euch jedenfalls einen Preis verpsrochen und den sollt Ihr auch bekommen!&lt;BR&gt;&lt;BR&gt;Viel Spaß!</Page>
+    </Text>
+</QuestDialog>

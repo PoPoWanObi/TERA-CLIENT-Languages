@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="5">Казурский синдикат собирается перевезти рабов - они поняли, что мы взялись за них всерьез.&lt;BR&gt;&lt;BR&gt;Позаботься об охране на Береговой отмели. Если к берегу подойдет корабль и увидит гору трупов {@LinkCreature:12#14#Гулов-работорговцев}, он не посмеет причалить, чтобы загрузить рабов.&lt;BR&gt;&lt;BR&gt;Кроме того, чем больше рабовладельцев умрет, тем лучше для всех, верно?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1007">
+        <Page social="5">Давай решать проблемы по мере их возникновения, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;А то у меня впечатление, что мы собираем головоломку из кусочков. И с каждым новым кусочком общая картинка становится все запутанней и запутанней.&lt;BR&gt;&lt;BR&gt;В конечном итоге вообще непонятно что получится. Ха!</Page>
+    </Text>
+</QuestDialog>

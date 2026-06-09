@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="4">Ламия отправилась вглубь туннелей. Возможно ей понадобится помощь.&lt;BR&gt;&lt;BR&gt;Я не хотел, чтобы бойцы ходили по одному, но она ничего не хотела слушать.&lt;BR&gt;&lt;BR&gt;Найди ее и выясни, какая помощь ей нужна. И побыстрее.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Хм. Мне не нужна помощь... Хотя пара лишних рук не помешает.&lt;BR&gt;&lt;BR&gt;Если ты, конечно, удержишь кирку в руках.</Page>
+    </Text>
+</QuestDialog>

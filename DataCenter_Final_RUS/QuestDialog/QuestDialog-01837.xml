@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">Пэйсен винил себя в похищении Золин и попытался искупить эту вину. Но в результате его самого пришлось спасать. Вы успокоили беднягу-попори и помогли доставить припасы на аванпост Бури.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">Пэйсен ушел вперед. Бедолага продолжает твердить: "Я во всем виноват. Я во всем виноват".&lt;NEXTPAGEBUTTON&gt;"Куда он пошел?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Схватил свои гаечные ключи и помчался через долину, разорви его саблезуб! Наверное, решил, что будет защищать фургоны с припасами.&lt;BR&gt;&lt;BR&gt;Присмотреть бы за ним... Он отличный инженер, но никчемный боец.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">&lt;PCNAME&gt;! Я... я хотел спасти ее. Я хотел защитить Золин, но потерпел неудачу.&lt;BR&gt;&lt;BR&gt;У меня так тяжело на душе... Я не герой. Я просто люблю возиться с механизмами. Это из-за меня ее похитили.&lt;NEXTPAGEBUTTON&gt;"Нет, не из-за тебя".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Из-за меня! Ей нужен был герой, а не друг.&lt;BR&gt;&lt;BR&gt;Но вместе мы наверняка ее найдем! У тебя есть сила, а у меня храбрость... хотя бы немножко.&lt;BR&gt;&lt;BR&gt;Давай разберемся с фургонами, а потом отправимся на поиски Золин.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">(Внутри лежат разнообразные детали механизмов. Похоже, это запчасти для дирижабля.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">Спасибо за припасы! Без них мы не могли поднять дирижабли в воздух и остановить натиск архидеванцев.&lt;BR&gt;&lt;BR&gt;Теперь мы готовы.</Page>
+    </Text>
+</QuestDialog>

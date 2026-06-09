@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">Wenn wir stärkere Gefügigkeitsfesseln finden, könnten wir den Gehirnwäschezauber daraus extrahieren. Die {@LinkCreature:25#1032#Skelettverteidiger} müssten Fesseln bei sich tragen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">Ihr seid zurück. Entschuldigt, in Eurer Abwesenheit ist ein Brief eingetroffen.&lt;BR&gt;&lt;BR&gt;Ich habe den Extraktionszauber entdeckt.&lt;NEXTPAGEBUTTON&gt;"Ich habe die Fesseln."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perfekt - wenn wir den Zauber extrahieren können, können wir ein Gegenmittel finden. Bringt die Fesseln zu Deigan. Er ist der beste Mann für diesen Zauber. Und gebt ihm bitte auch diesen Brief, wenn Ihr ihn seht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Wenn wir den Zauber extrahieren, können wir damit einen Gegenzauber erschaffen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1020">
+        <Page social="4">Also wenn wir eine Möglichkeit finden, diesen Zauber aufzuheben, könnten wir die Kultisten zurückschlagen - kein schlechter Plan! Ich mache mich gleich an die Arbeit.&lt;BR&gt;&lt;BR&gt;Was ist das für ein Brief? Das ist alles ein unverständliches ... Moment. Er ist von Davina unterzeichnet.&lt;NEXTPAGEBUTTON&gt;"Ist das wichtig?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Davina ist meine Cousine. Sie dient unter Elion. Ich frage mich, warum sie mir einen derart unverständlichen Brief geschrieben hat. Vielleicht kann Elsine das übersetzen - sie kennt viele fremde Sprachen und hat angeblich sogar ein paar eigene erfunden.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1022">
+        <Page social="4">Das ist eine Überraschung. Ich erfand diese Geheimsprache, um mit Elion und Lian zu kommunizieren. Wenn die Unterschrift echt ist, muss Elion andere in den Code eingeweiht haben. Wenn Davina Deigans Cousine ist, muss sie auch Jelenas Schwester sein. Die Übersetzung sollte nicht allzu schwierig sein.&lt;BR&gt;&lt;BR&gt;"Wir haben den Keller der Düsteren Kathedrale gefunden. Ich gehe hinunter."&lt;BR&gt;&lt;BR&gt;Meine Güte. Das wurde geschrieben, bevor die Mannschaft aufgebrochen ist. Sie ist lange vor ihrer Schwester und Elion hineingegangen.</Page>
+    </Text>
+</QuestDialog>

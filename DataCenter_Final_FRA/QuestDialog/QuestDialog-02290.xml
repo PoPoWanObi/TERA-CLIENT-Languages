@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Oh!&amp;nbsp; On vous a confié plein de missions de confection très barbantes, mais c'est parce que votre travail est excellent.&lt;BR&gt;&lt;BR&gt;C'est avec ces rares matériaux d'excellente qualité que nous soutenons la précieuse cause pour laquelle nous nous battons, et nous apprécions l'aide que vous avez apportée aux Mains de Velika.&lt;BR&gt;&lt;BR&gt;Assez parlé. Allez voir {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Pardon de vous demander ça une fois de plus, mais vous pourriez fabriquer quelques objets pour {@LinkCreature:63#3001#Barian}?&amp;nbsp; Nos réserves se vident, et nous devons continuer d'approvisionner la demande.&lt;BR&gt;&lt;BR&gt;Sans commerce, les Mains de Velika n'existeraient plus. Hé oui. C'est dire si nous sommes importants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Tiens, voilà mon artisan préféré. C'est sublime.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia} pour votre indemnisation bien méritée.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez de la plaque de celesium et apportez-la-moi. C'est une commande spéciale pour un client que je ne peux pas décevoir.&lt;BR&gt;&lt;BR&gt;Il faut qu'il soit satisfait, vous savez.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Beau travail.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} a bien fait de vous recruter.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez des cryosilex et apportez-les-moi dès que vous pourrez.&lt;BR&gt;&lt;BR&gt;Vous nous sauvez la vie.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Merci.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} a de quoi vous payer.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du cuir d'heme et apportez-le-moi vite.&lt;BR&gt;&lt;BR&gt;Mais ne bâclez pas votre travail. Il me faut le meilleur matériau possible.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt;. J'aimerais avoir un petit quelque chose à vous donner, pour vous prouver ma gratitude.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} aura peut-être une broutille. Allez lui demander. Dites-lui que je la rembourserai.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du tissu de toira, et faites vite!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les clients vont me tuer avec leurs commandes spéciales.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Oh, &lt;PCNAME&gt;!&amp;nbsp; Non seulement vous travaillez dur et bien, mais en plus, vous êtes rapide!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Merci.</Page>
+    </Text>
+</QuestDialog>

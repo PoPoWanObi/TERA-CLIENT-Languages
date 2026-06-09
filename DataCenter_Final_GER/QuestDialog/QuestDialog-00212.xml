@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0">Die Nachkommen Loks haben Stellung bezogen und den Schrein von Valselok errichtet. Sie müssen gestoppt oder wenigstens ausgebremst werden.&lt;BR&gt;&lt;BR&gt;Bringt die {@LinkCreature:6#3031#Räuber Loks} und {@LinkCreature:6#3032#Mystiker Loks} in der Umgebung des Schreins zur Strecke.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Embarr in der Nähe des Schreins, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">Sie wollen Lok nicht aufgeben. Wozu einen toten Gott anbeten?&lt;BR&gt;&lt;BR&gt;Aber egal, lasst mal sehen, was Ihr habt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1022">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="5">Dites, vous comptez vous rendre au Bois malade?&amp;nbsp; A deux pas de la sortie ouest, vous tomberez sur un groupe de gars qui tentent d'empêcher la corruption d'atteindre Tria. Leur travail est salutaire, pour la ville.&lt;BR&gt;&lt;BR&gt;Auriez-vous l'amabilité de leur faire parvenir de la nourriture?&amp;nbsp; Invidia tient une taverne près de la limite ouest de la ville. Elle devrait déjà avoir préparé leurs repas. Merci d'avance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1028">
+        <Page social="12">Les repas sont prêts. Pile à l'heure, comme toujours. Et ce n'est pas de la vulgaire tambouille. Je n'ai employé que les meilleurs ingrédients, conformément aux ordres du magistrat.&lt;BR&gt;&lt;BR&gt;Allez remettre ça aux ouvriers avant que ça ne refroidisse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" prevId="3" villagerId="1005">
+        <Page social="5">Un bon petit repas est toujours le bienvenu, mais les autorités se fourrent le doigt dans l'œil si elles s'imaginent éviter une augmentation de nos payes avec ce genre d'attentions!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Seuls les dieux savent quels effets cette corruption finira par avoir sur nous. Si vous savez ce qui est bon pour vous, ne traînez pas au Bois malade, sinon vous finirez par vous retrouver avec un troisième bras... à la place du nez, par exemple.</Page>
+    </Text>
+</QuestDialog>

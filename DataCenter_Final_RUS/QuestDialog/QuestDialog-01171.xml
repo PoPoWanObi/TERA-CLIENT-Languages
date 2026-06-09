@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Мы обсуждаем связь между {@LinkCreature:40#11#Селварасскими разведчиками}, нашими пропавшими друзьями и чумой. У селварассов тут, неподалеку, есть база. Стоит отправиться туда на поиски информации.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1012">
+        <Page social="4">Каждая страница этих документов, так или иначе, связана с Легионом Тулсы. Вот и наша связь - они работают вместе.&lt;BR&gt;&lt;BR&gt;Но почему? И для чего?&lt;BR&gt;&lt;BR&gt;И на кого?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1012">
+        <Page social="0">Принеси любые документы, связанные с похищениями или с чумой. Только так мы сможем разобраться, в чем же дело.</Page>
+    </Text>
+</QuestDialog>

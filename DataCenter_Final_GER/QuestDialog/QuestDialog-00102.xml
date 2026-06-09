@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="0">In den Wäldern der Vergessenheit plündern die Devaner noch immer Karawanen. Wenn die Karawanen nicht durchkommen, bekommen wir keinen Nachtschub ... und keine Briefe von zuhause.&lt;BR&gt;&lt;BR&gt;Bringt ihre {@LinkCreature:3#17#Räuber}, {@LinkCreature:3#19#Banditen}, {@LinkCreature:3#300161#Kantoren}, {@LinkCreature:3#300142#Kriegerinnen} und {@LinkCreature:3#300140#Wegelagerer} zur Strecke.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Rhona im Bollwerklager, sobald Ihr diese Mission erledigt habt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1016">
+        <Page social="4">Ihr habt Euch den Dank der Föderation verdient, &lt;PCNAME&gt;, und den Devanern das Fürchten gelehrt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1016">
+        <Page social="0">Es laufen noch immer zu viele Devaner herum. Macht weiter!</Page>
+    </Text>
+</QuestDialog>

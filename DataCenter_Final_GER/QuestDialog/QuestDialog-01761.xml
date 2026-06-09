@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Wir müssen den Rest der ketzerischen Sikandari auslöschen und den Tempel von Sikander sichern.&lt;BR&gt;&lt;BR&gt;Ihr müsst {@LinkCreature:57#7#Sikandariverteidiger}, {@LinkCreature:57#8#Sikandarilebensbringer} und {@LinkCreature:57#10#Sikandarimeister} töten.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Emya in Drachenfall.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Ihr habt Euch den Dank der Föderation verdient. Eure Gilde dient allen anderen als Vorbild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

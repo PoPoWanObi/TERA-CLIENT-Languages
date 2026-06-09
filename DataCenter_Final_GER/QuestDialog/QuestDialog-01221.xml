@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1023">
+        <Page social="0">Als Fraya bemerkte, dass das Material, aus dem die Morbolithen gefertigt werden, aus dem Mysterium stammen könnte, rief sie Euch nach Allemantheia. Der Oberarkanist des Mysteriums Malachai übernahm freiwillig die Untersuchung der Angelegenheit.&lt;BR&gt;&lt;BR&gt;Als der Beweis zur Herstellung der Steine im Versteck der Arachnen gefunden wurde, seid Ihr dorthin gereist und habt das Gerät für deren Herstellung zerstört.&lt;BR&gt;&lt;BR&gt;Malachai beendete plötzlich die Untersuchung, was Fraya an seiner Loyalität zweifeln ließ.&lt;BR&gt;&lt;BR&gt;Fraya verfolgte Malachai, aber er entkam aus Allemantheia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1023">
+        <Page social="5">Allein schon der Gedanke, dass jemand vom Mysterium die beschafft haben könnte ... Wir müssen herausfinden, wo der Stein abgebaut wurde. Bringt diese Bruchstücke zu Ryshan in Allemantheia. Er wird wissen, woher diese Materialien stammen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="5">Wo das herkommt? Natürlich kann ich das herausfinden!&lt;BR&gt;&lt;BR&gt;Aber ich bin im Augenblick sehr beschäftigt und habe ungeheuer viel zu tun. Das wird warten müssen ...&lt;BR&gt;&lt;BR&gt;Findet Ihr in der Zwischenzeit nicht irgendeine andere Beschäftigung, bis ich soweit bin?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1133">
+        <Page social="4">Die Antwort zur Herkunft der Fragmente würde sich vielleicht schneller finden, wenn jemand mit ... mehr Wissen ... sich zusammen an der Suche beteiligen würde. &lt;PCNAME&gt;? Ich habe eine Nachricht, die Ihr Kommandantin Fraya überbringen müsst.&lt;NEXTPAGEBUTTON&gt;"Was soll ich ihr sagen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Sagt Fraya, dass Ihr Malachais Dienste zur Verfügung stehen. Ryshan braucht seinen übervollen Zeitplan nicht abzuändern.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1111">
+        <Page social="5">Malachai ist sehr fähig. Er wird die Antworten liefern, die Fraya braucht.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="75" prevId="5" villagerId="1023">
+        <Page social="5">Wie ungewöhnlich für Malachai, sich freiwillig für etwas zu melden, das nicht direkt mit dem Kern zu tun hat.&lt;BR&gt;&lt;BR&gt;Jedenfalls sagt er, er wisse, woher er kommt. Vielleicht wäre Dankbarkeit angebracht.&lt;NEXTPAGEBUTTON&gt;"Wirklich? Woher?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Arachnaea, im Südosten. Nördlich von Frontera. Trefft Kaleon dort und fragt ihn, welche Art von Hilfe er braucht.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="240" prevId="6" villagerId="1034">
+        <Page social="5">Fraya schickt Euch? Gut. Hilfe ist immer ... hilfreich.&lt;BR&gt;&lt;BR&gt;Geht direkt zum Lager der Vergeltung. Wir treffen uns dort.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="239" prevId="7" villagerId="1100">
+        <Page social="5">Wir müssen die Morbolithen zerstören, aus der diese Steine stammen. Wir dürfen keine Zeit verlieren. Geht und tötet {@LinkCreature:39#250#Kaligos}. Und auch {@LinkCreature:39#260#Telremnas}. Danach sind wir in der Lage, die {@LinkObject:37#Morbolithen} zu zerstören&lt;BR&gt;&lt;BR&gt;Aber zuerst, beginnt Eure Jagd.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="239" prevId="8" villagerId="1100">
+        <Page social="4">Der ist ... viel, viel gewaltiger als der, den wir in der Quarantänezone fanden. Allein der Gedanke daran, was man mit einer Vielzahl davon anstellen könnte ...&lt;BR&gt;&lt;BR&gt;Die stärksten und letzten funktionierenden {@LinkCreature:39#5000#Geheiligten Mahlsteine} befinden sich tief im Innern von Arachnaea. Nehmt diese Flamme der Reinigung und verbrennt die Mahlsteine. Es ist der einzige Weg, sie zu zerstören.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="239" villagerId="1100">
+        <Page social="0">Habt Ihr die Scherbe? Was wir nicht haben, können wir nicht untersuchen.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="239" prevId="9" villagerId="1100">
+        <Page social="5">Es ist getan. Gut.&lt;BR&gt;&lt;BR&gt;Natürlich, diese neuen Befehle ändern alles.&lt;NEXTPAGEBUTTON&gt;"Neue Befehle?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Das Mysterium befiehlt uns, die Untersuchung zu beenden. Genauer gesagt, Malachai befiehlt es uns.&lt;BR&gt;&lt;BR&gt;Da steht kein Wort von Fraya. Vielleicht weiß sie nichts davon.&lt;BR&gt;&lt;BR&gt;Sucht sie und fragt sie nach ihrer Meinung dazu.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="239" prevId="11" villagerId="1041">
+        <Page social="5">Die Forschung stoppen? Warum sollten sie die Forschung stoppen? Und jetzt werde ich nach Allemantheia zurückbeordert. Irgendetwas stimmt doch da nicht.&lt;BR&gt;&lt;BR&gt;Ich gehe nirgendwo hin, bis die Angelegenheit um Brigadegeneral Akeldama nicht geklärt ist. Ich pfeif auf die Ältesten. Trefft mich später.&lt;NEXTPAGEBUTTON&gt;"Wo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">An meinem &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-23018.2773,51029.5234,1380.7639&amp;type=1&amp;name=Geheimen Treffpunkt"&gt;geheimen Treffpunkt&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Bald.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="239" prevId="12" villagerId="1039">
+        <Page social="5">Es gibt einen Verräter in Allemantheia. Untersuchung beendet - einen Kommandanten zurückbefohlen? Hier stimmt etwas nicht. Ich gehe allein, um Akeldama eine Falle zu stellen.&lt;BR&gt;&lt;BR&gt;Kommt später durch das Teleportal nach und trefft mich dort.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="407" prevId="13" villagerId="1004">
+        <Page social="5">Jetzt ist alles klar. Wir müssen Malachai dingfest machen und feststellen, wo der Kern ist.&lt;BR&gt;&lt;BR&gt;Ich gehe zurück nach Allemantheia und treffe mich dort mit den Ältesten und dem Mysterium. Ihr geht zurück in Malachais Labor.&lt;BR&gt;&lt;BR&gt;Sagt Alnosk, dass ich Euch schicke. Dann wird er Euch einlassen.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="14" villagerId="1134">
+        <Page social="5">&lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Ihr seid spät dran. Der Kommandant ist bereits drinnen. Beeilt Euch!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="408" prevId="15" villagerId="1007">
+        <Page social="5">Entkommen.&lt;BR&gt;&lt;BR&gt;Wenn Thulsa und Akasha glauben, sie hätten gewonnen, haben sie sich schwer getäuscht.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, es ist noch nicht vorbei. Ich werde Eure Hilfe brauchen, um den Kern zu finden.</Page>
+    </Text>
+</QuestDialog>

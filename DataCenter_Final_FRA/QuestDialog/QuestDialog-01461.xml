@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1032">
+        <Page social="4">Soldat, j'ai besoin de votre aide.&lt;NEXTPAGEBUTTON&gt;"Que vous faut-il?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nous développons de nouvelles armes, mais les argons ne restent pas inactifs.&lt;BR&gt;&lt;BR&gt;Je veux que vous alliez tuer les quatre façonneurs qui contrôleur leur nouveaux canons sarjalodes et que vous me rapportiez un morceau de l'un de ces canons. Nous devons découvrir leurs faiblesses.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1032">
+        <Page social="6">Ce n'était pas une mince affaire, &lt;PCNAME&gt;. Bravo.&lt;BR&gt;&lt;BR&gt;Maintenant que ces façonneurs sont morts, les canons vont se taire un moment, ça me donnera le temps d'analyser leur fabrication.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1032">
+        <Page social="0">Les façonneurs ne se déplacent jamais sans serviteurs pour les protéger.&lt;BR&gt;&lt;BR&gt;Et attention aux canons. Impossible de savoir ce qui peut les déclencher.</Page>
+    </Text>
+</QuestDialog>

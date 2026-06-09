@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Un terrible fléau se répandait près de Frontera, transformant ses victimes en horribles mutants meurtriers. Le commandant Fraya pensait que Thulsa était impliqué, d’une façon ou d’une autre. Son assistant, Ibar, vous envoya enquêter. Vous avez alors vaincu la Légion de Thulsa, qui utilisait la magie nécromantique de Thulsa pour créer le fléau.&lt;BR&gt;&lt;BR&gt;On ne trouva nulle trace de Thulsa, mais vous avez découvert un projet de production massive des pierres magiques qui provoquent la mutation.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Ordres de mission&lt;BR&gt;&lt;BR&gt;Commencez immédiatement l'enquête sur les mutations survenant dans tout Val Palrada.&lt;BR&gt;&lt;BR&gt;Allez voir la Commandante Fraya à Allemantheia pour un descriptif de la mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5">Je n'aime pas les rumeurs qui nous parviennent de Val Palrada... de braves gens qui se transforment en mutants assoiffés de sang, des morts qui sortent de leurs tombes... ça a l'air complètement farfelu, dit comme ça, mais nos commandants n'ont pas l'habitude de plaisanter avec ce genre de choses. Ils parlent d'une espèce d'épidémie.&lt;BR&gt;&lt;BR&gt;Et ça n'a pas l'air d'être le genre de phénomène auquel vous avez été {@gender:confronté/confrontée} à Popolion, mais quelque chose me dit que ceux qui se cachent derrière pourraient bien être les mêmes.&lt;NEXTPAGEBUTTON&gt;"Vous croyez Thulsa impliqué?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Le contraire m'étonnerait beaucoup. De la nécromancie, des transformations hideuses, et Kaidun a dit que Thulsa partait pour Val Palrada en compagnie du Noyau.&lt;BR&gt;&lt;BR&gt;Retrouvez-moi à Frontera. Nous verrons ça de plus près.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" prevId="3" villagerId="1023">
+        <Page social="5">Heureusement que vous êtes là. Le Mysterium a envoyé des chercheurs ici, ce qui n’est guère surprenant. Ils disent qu’ils ne voient pas de rapport avec Thulsa, mais ça me paraît peu probable.&lt;BR&gt;&lt;BR&gt;Pénétrez dans la Zone de Quarantaine et trouvez des preuves.&lt;BR&gt;&lt;BR&gt;Une proposition de services au contingent du Mysterium qui s’y trouve devrait permettre à &lt;PCNAME&gt; d’apprendre quelque chose.&lt;BR&gt;&lt;BR&gt;Prenez la route du nord, puis tournez vers l’ouest à la sortie de la ville. Bonne chance.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="240" prevId="4" villagerId="1007">
+        <Page social="5">Le Mysterium est convaincu que ce fléau ne provient pas de la nature mais plutôt de la magie noire. Nous pensons que les {@LinkCreature:40#30#trilames mutants} détiennent des preuves, mais vous devrez vous battre pour les obtenir.&lt;BR&gt;&lt;BR&gt;Nous avons des agents dans la Zone de Quarantaine, sous le commandement de Narpa. Il aura besoin de toutes les preuves que vous pourrez trouver.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="240" prevId="5" villagerId="1035">
+        <Page social="5">Vous êtes de la Fédération!&amp;nbsp; Moi aussi!&amp;nbsp; C’est un emblème de Thulsa?&amp;nbsp; Hummm... voilà qui confirme tout.&lt;BR&gt;&lt;BR&gt;La Légion de Thulsa, constituée de fidèles de Thulsa, a installé une grosse pierre au nord-ouest de la Zone de quarantaine. Ils l’appelaient l'{@LinkCreature:40#36#éclat eldritch}, et elle portait une marque semblable à cet emblème.&lt;BR&gt;&lt;BR&gt;Ça me rappelle la pierre qui était en fait la source de la folie à Popolion.&lt;NEXTPAGEBUTTON&gt;"Alors nous devons détruire cette pierre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'y avais déjà pensé. Prenez cette bombe et faites exploser cette chose!&amp;nbsp; Pendant que vous ferez tout sauter, je vais voir ce que je peux apprendre de plus par ici.&lt;BR&gt;&lt;BR&gt;Oh, et attention aux {@LinkCreature:40#32#mineurs zombies}. Ils sont vraiment méchants.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="240" prevId="6" villagerId="1015">
+        <Page social="5">Vos actes ont permis de faire la lumière sur une situation plutôt obscure, &lt;PCNAME&gt;. Il faut avertir Lashirah, du Centre de recherche de la Zone de quarantaine. Elle a la mission peu enviable d'éliminer la Légion de Thulsa, et tout ce qui peut lui causer du tort la mettra en joie à coup sûr.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="240" prevId="7" villagerId="1004">
+        <Page social="5">La Légion de Thulsa est en pleine crise, grâce à vous!&amp;nbsp; Et d'après la rumeur, Fraya pense que le fléau mutant est l’œuvre de Thulsa. C’est vrai?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"En effet, c’est ce qu’elle croit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Le {@LinkCreature:40#42#Légat Mureksark} commande la forteresse de la légion au sommet des falaises, près de la mine abandonnée. Je suppose que là-haut, il y a des preuves qui relient la légion à Thulsa.&lt;BR&gt;&lt;BR&gt;Eliminez Mureksark et découvrez tout ce que vous pourrez.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="75" prevId="8" villagerId="1023">
+        <Page social="4">Regardez ça!&amp;nbsp; Ce sont des projets d’autres pierres magiques;&amp;nbsp; ils comptaient les produire en masse. Le fléau mutant se serait étendu à tout le continent!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Heureusement, il n’y a pas tellement d’endroits adéquats pour mener cela à bien.&lt;NEXTPAGEBUTTON&gt;"Vous voulez que je commence à chercher?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tout d’abord, nous allons interrompre leur approvisionnement en matières premières. Elles ne peuvent provenir que de deux sources&amp;nbsp;: le commandement d’Allemantheia, ou le Mysterium.&lt;BR&gt;&lt;BR&gt;Les deux possibilités sont très perturbantes.&lt;BR&gt;&lt;BR&gt;Nous devons découvrir où ils se fournissent, et tout de suite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="75" villagerId="1023">
+        <Page social="0">Vous avez découvert quelque chose?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

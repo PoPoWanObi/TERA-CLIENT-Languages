@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Here, take these kits. Craft some metalworker's greatswords and bring them to me when you've finished.&lt;BR&gt;&lt;BR&gt;If they pass inspection, we can put them to good use.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Nice, very nice. These are fine work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'd say they are ready for the field. Deliver the greatswords to Jodoc in Crescentia. His slayers have been itching for new weapons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">You've got the design and kits. Talk to the crafting vendors if you need additional materials.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="3" villagerId="1009">
+        <Page social="0">Fine blades you've brought us. Excellent work. I thank you and my slayers thank you.</Page>
+    </Text>
+</QuestDialog>

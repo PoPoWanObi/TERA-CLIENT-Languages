@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">Ich habe keine Neuigkeiten vom Forschungslager. Die letzte Nachricht war, dass Hyänen ihrem Anführer folgen. Tötet die Hyänen und sammelt ihre Herzen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Vielen Dank!&lt;BR&gt;&lt;BR&gt;Jetzt können wir unseren Boten losschicken.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">Seht Ihr die Hyänen?&lt;BR&gt;Ich kann meine Leute dorthin schicken, nachdem Ihr ein paar mehr von den Hyänen erledigt habt.</Page>
+    </Text>
+</QuestDialog>

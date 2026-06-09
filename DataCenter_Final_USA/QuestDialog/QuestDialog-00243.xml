@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">The Red Fangs are making their push for control by starving what's left of our people in the Celestial Hills. Mostly, they're raiding our last farm.&lt;BR&gt;&lt;BR&gt;Hunt down the {@LinkCreature:7#7#Red Fang ragers} and kill them.&lt;BR&gt;&lt;BR&gt;Report to Heroth at Godric's Farm when you're finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">It's good to see a soldier willing to slog through the blood and the muck to get things done.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1005">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

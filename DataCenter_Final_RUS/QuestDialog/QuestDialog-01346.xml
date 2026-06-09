@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Эти мерзкие {@LinkCreature:47#2003#Аргоновые гулы} продолжают шляться около Входа на мост в Лесу Тиркай. А еще {@LinkCreature:47#1003#Аргоновые мугато} и {@LinkCreature:47#2002#Аргоновые феи}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:247#1002#Салейн} в Полевой базе "Безумие" хочет, чтобы они исчезли. Можем ли мы в этом ее обвинять?&lt;BR&gt;&lt;BR&gt;Поговори с ней, когда все сделаешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;. Неоценимая помощь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">Просто убей нескольких {@LinkCreature:47#1003#Аргоновых мугато}, {@LinkCreature:47#2002#Аргоновых фей} и {@LinkCreature:47#2003#Аргоновых гулов}. Возвращайся, как все сделаешь.</Page>
+    </Text>
+</QuestDialog>

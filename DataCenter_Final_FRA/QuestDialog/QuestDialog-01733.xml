@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0">Les mekonaris sont en train de lever une armée à Sorguebois, allez les arrêter.&lt;BR&gt;&lt;BR&gt;Nous avons aperçu des {@LinkCreature:56#11#trompeurs garde-runes};&amp;nbsp; des {@LinkCreature:56#13#légats spectraux};&amp;nbsp; et des {@LinkCreature:56#15#occultistes}, {@LinkCreature:56#57#chasseurs} et {@LinkCreature:56#58#file-ébène} mekonaris.&lt;BR&gt;&lt;BR&gt;Une fois la mission terminée, faites votre rapport à Kaara, au Camp de la Source noire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1009">
+        <Page social="4">Qui se ressemble ne devrait peut-être pas s'assembler!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Excusez-moi, ce n'est pas vraiment le moment, ni l'endroit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1009">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

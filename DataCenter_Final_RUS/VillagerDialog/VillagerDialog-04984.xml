@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="403" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Тебе не кажется, что этот план чем-то напоминает озеро?&lt;BR&gt;&lt;BR&gt;Я к тому, что составляющие план части подобны ручьям, его наполняющим... И... Э-э-э....&lt;BR&gt;&lt;BR&gt;Короче, не самое удачное сравнение, согласен.&lt;BR&gt;&lt;BR&gt;В любом случае, обращайся, если тебе понадобится помощь.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="0">
+        <Page social="0">Ты хочешь уйти?&lt;TEXTBUTTON&gt;"Я приму твою помощь".&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Выйти из ауры.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

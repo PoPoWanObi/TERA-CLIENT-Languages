@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Die {@Rgn:50008} sind für mich als Forscher interessant, weil sie dem verderblichen Einfluss der Argonen größtenteils entgangen sind. Wie konnten sie sich der transformativen Argonenmagie entziehen?&lt;BR&gt;&lt;BR&gt;Die potenziellen Auswirkungen übersteigen unser Vorstellungsvermögen.&lt;NEXTPAGEBUTTON&gt;"Und Ihr braucht Hilfe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Richtig. Diese schlurfenden Kriecher waren einst bezaubernde Blumen ... bevor die Argonen sie verwandelten.&lt;BR&gt;&lt;BR&gt;Wendet diese {@RAWITEM:45299} auf die Kriecher an. Mal sehen, ob wir den durch die Argonen angerichteten Schaden nicht wieder gutmachen können.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">Sehr viel versprechende Ergebnisse! Wenn ich diese Methode auch auf andere Kreaturen anwenden kann, gelingt es uns vielleicht, unsere Welt zurückzuerobern.</Page>
+    </Text>
+</QuestDialog>

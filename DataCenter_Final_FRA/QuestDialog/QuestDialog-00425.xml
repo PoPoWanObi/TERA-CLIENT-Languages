@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Je commence à en avoir ras-le-bol de ce boulot. Il faut toujours tuer quelqu'un ou quelque chose.&lt;BR&gt;&lt;BR&gt;Allez me tuer des {@LinkCreature:12#2#kamaras bais}, des {@LinkCreature:12#3#rôdeurs arachnéens} et des {@LinkCreature:12#22#hommes de main du Fouet rouge}. Vous les trouverez dans la partie nord du port.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, adressez-vous à Lenia. Maintenant, du vent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1019">
+        <Page social="4">Continuez comme ça, &lt;PCCLASS:lcase&gt;. Pour la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1019">
+        <Page social="0">Un jour ou l'autre, il faudra finir ce boulot, vous savez?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

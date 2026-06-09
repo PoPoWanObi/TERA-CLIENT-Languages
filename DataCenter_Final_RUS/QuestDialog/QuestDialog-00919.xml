@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">{@LinkCreature:31#20#Наги-жнецы смерти} и {@LinkCreature:31#21#Наги-богатыри} начисто лишены страха. Дай им возможность, и они тотчас же ворвутся в наши лагеря. От них надо избавиться! И не забудь прихватить их шлемы в качестве доказательства.&lt;BR&gt;&lt;BR&gt;Когда закончишь, поговори с Леврой.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1012">
+        <Page social="4">Отлично! Теперь, когда вокруг шатается меньше нагов, люди в лагерях будут чувствовать себя спокойнее.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1012">
+        <Page social="0">Без доказательств их смерти не будет никакой награды.</Page>
+    </Text>
+</QuestDialog>

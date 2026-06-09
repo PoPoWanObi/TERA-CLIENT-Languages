@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Ihr habt gelernt, Sarbeereis herzustellen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">Willkommen, &lt;PCRACE&gt;! Ich fürchte, ich habe im Moment kein Eis mehr. Ich habe nicht so viele Leute beim Festival erwartet und es ist auch noch so heiß, dass sie alle ein Sarbeereis wollen!&lt;NEXTPAGEBUTTON&gt;"Es ist wirklich sehr heiß. Ich komme ein anderes Mal wieder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Moment, wartet! Geht noch nicht! Wenn Ihr mir Eis und Sarbeeren von Lumans Wagen dort drüben holt, dann bringe ich Euch bei, wie man Saarbeereis herstellt und anschließend könnt Ihr mir helfen, es zu verteilen!&lt;NEXTPAGEBUTTON&gt;"Der Wagen ist gleich dort drüben? Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vielen Dank!&lt;BR&gt;&lt;BR&gt;Geht Eis und Saarbeeren von Luman holen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7106">
+        <Page social="4">Wie? Was? Lilan hat jetzt schon kein Eis mehr?&lt;BR&gt;&lt;BR&gt;Merkt sie denn nicht, wie heiß es ist? Es muss doch für das ganze Festival reichen!&lt;BR&gt;&lt;BR&gt;Also gut! Hier! Sagt ihr, dass sie nicht so viel benutzen soll!&lt;NEXTPAGEBUTTON&gt;"Ich ... sage es ihr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="7106">
+        <Page social="4">Was? Ihr seid immer noch hier?&lt;BR&gt;&lt;BR&gt;Sarbeeren braucht sie auch noch?&lt;BR&gt;&lt;BR&gt;Warum habt Ihr das nicht gleich gesagt?&lt;BR&gt;&lt;BR&gt;Hier! Sarbeeren! Okay? Noch etwas? Nein? Gut!&lt;NEXTPAGEBUTTON&gt;"Ihr seid sehr ... nett."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7101">
+        <Page social="4">Ihr habt das Eis von Luman? Ist er nicht ausgesprochen liebenswürdig?&lt;BR&gt;&lt;BR&gt;Legt den Eisklumpen nun in die Eismaschine und zerkleinert es, dann gebe ich meiner Assistentin Trilyn die Sarbeeren! &lt;NEXTPAGEBUTTON&gt;Sagt in Ordnung.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="7102">
+        <Page social="4">Lilan hat Euch unser Geheimrezept für Sarbeereis gegeben? Und sie sagte, dass ich ihre Assistentin bin? Und das Luman "liebenswürdig" ist? Sie ist vollkommen wahnsinnig und irgendwann wird sie mich auch noch in den Wahnsinn treiben, das weiß ich ganz genau ...&lt;BR&gt;&lt;BR&gt;Aber Ihr habt uns tatsächlich geholfen. Wir brauchten nämlich wirklich mehr Eis und Sarbeeren ...&lt;BR&gt;&lt;BR&gt;In Ordnung, ich zeige Euch, wie man Sarbeereis herstellt.&lt;NEXTPAGEBUTTON&gt;"Ich freue mich schon darauf."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Legt den Eisschnee und die Sarbeeren einfach in eine Glasschüssel ... gebt Süßmilch dazu ... und mischt alles gut durch! &lt;NEXTPAGEBUTTON&gt;"Das klingt ja ganz einfach."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" villagerId="7102">
+        <Page social="0">Legt die Zutaten in eine Glasschüssel und misch alles gut durch.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="7101">
+        <Page social="4">Vielen Dank, &lt;PCNAME&gt;! Ihr seid schon zurück? Wunderbar! Ich wusste, dass Euch meine Assistentin helfen kann!&lt;BR&gt;&lt;BR&gt;Ich sollte Euch eine Belohnung geben! Ich weiß! Wie wäre es mit einem Dessert aus gefrorenen Sarbeeren? Es ist wie Sarbeereis, nur dass es ein Dessert ist!&lt;NEXTPAGEBUTTON&gt;"Das ... ist einfach genial. Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="7101">
+        <Page social="0">Ähm ... ja ... werdet Ihr schon bedient?&lt;BR&gt;&lt;BR&gt;Oh! &lt;PCNAME&gt;, Ihr seid es! Habt Ihr Sarbeeren und Eis für mich?</Page>
+    </Text>
+</QuestDialog>

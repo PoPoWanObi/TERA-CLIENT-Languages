@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="42">La résistance que nous rencontrons est plus acharnée que prévu, aussi allons-nous devoir vous envoyer au front.&lt;BR&gt;&lt;BR&gt;Attaquez les survivants nagas qui protègent la Chambre des Ames perdues, dont les {@LinkCreature:42#610#gardiens squelettiques}, les {@LinkCreature:42#200#pourfendeurs dagonites}, les {@LinkCreature:42#300#combattants nagas}, les {@LinkCreature:42#700#farfadet osseux vicieux} et les {@LinkCreature:42#800#trafiquants besharans}.&lt;BR&gt;&lt;BR&gt;Faites un rapport de votre progrès à Glasrinne, à Frontera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1016">
+        <Page social="0">Grâce à vous, les nagas sont affaiblis. Mais il reste encore beaucoup à faire, et j'espère que vous allez rester nous aider.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" villagerId="1016">
+        <Page social="0">Je n'ai jamais prétendu que ce serait facile, mais vous protégez nos vies pendant que nous faisons ce pour quoi nous sommes venus ici. Ne vous arrêtez pas maintenant!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="482" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="482" prevId="0" villagerId="1502">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="482" prevId="0" villagerId="1502">
+        <Page social="4">What endangers the relics? Why do the monsters hate them so? What protects them? Will you protect them?&lt;BR&gt;&lt;BR&gt;I've developed a serum that will transfer the relic's protection to you. Do you want some Transference Serum?&lt;BR&gt;&lt;BR&gt;I'll prepare you a batch of serum. Do you know when to use it? &lt;BR&gt;&lt;BR&gt;Did you think this was the only difficulty you'll face? While I work on this, why not ask Feilia to explain the Cataclysm Machine?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="482" prevId="2" villagerId="1502">
+        <Page social="4">The serum is ready. Will you put it to good use? It's not easy to make, so don't waste it.</Page>
+    </Text>
+</QuestDialog>

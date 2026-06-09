@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">Unsere Späher haben für diese Informationen ihr Leben geopfert.&lt;BR&gt;&lt;BR&gt;Der Bericht enthüllt den Ort des &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastionseingang"&gt;Bastionseingangs&lt;/A&gt;&lt;/FONT&gt; und den Namen ihres Kommandanten - {@LinkCreature:487#101}.&lt;BR&gt;&lt;BR&gt;Begebt Euch zur Einsatzbesprechung zu {@LinkCreature:203#1006} im {@Rgn:3005} und geht dann hinein.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4">Zenturio {@LinkCreature:203#1007} schickt Euch? Gut.&lt;BR&gt;&lt;BR&gt;Einer unserer Späher, {@LinkCreature:203#1033}, ist vor der Bastion stationiert. Er wird Euch den Weg zum Eingang sagen. Wenn Ihr drin seid, sucht nach {@LinkCreature:487#1111}.&lt;BR&gt;&lt;BR&gt;Erklären wir den Nachkommen Loks den Kampf!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1033">
+        <Page social="4">Nicht bewegen!&lt;NEXTPAGEBUTTON&gt;"Ich bin an Eurer Seite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="9">Tut mir leid, &lt;PCCLASS&gt;. Ich habe große Schmerzen, aber wenigstens sind meine Augen noch sehr scharf.&lt;BR&gt;&lt;BR&gt;Der Eingang ist da drüben rechts. Wenn Ihr den Pfad zu meiner Linken nehmt, kommt Ihr zum Höhleneingang. Dort habe ich die Gegner hineingehen und herauskommen sehen, vermutlich befindet sich dort ein &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Teleportal"&gt;Teleportal&lt;/A&gt;&lt;/font&gt;. Grapin hat sich getarnt und wartet drinnen.&lt;BR&gt;&lt;BR&gt;Diese Ungeheuer haben einen Großteil meiner Einheit getötet, also seid ja nicht zu zimperlich!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="487" prevId="4" villagerId="1111">
+        <Page social="4">Die Nachkommen Loks ziehen Waffen und Kräfte zusammen. Den Gesamtplan kenne ich nicht, aber Murdranak glaubt, er wird im Namen eines anderen über Arcadia herrschen.&lt;BR&gt;&lt;BR&gt;Wie konnte es nur so weit kommen?&lt;NEXTPAGEBUTTON&gt;"Warum mobilisieren sie denn ihre Kräfte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich habe viel zu viele verschiedene Geschichten gehört, um etwas mit Sicherheit zu sagen. Aber die Vertrauenswürdigsten sprechen von einem Ritual, einer Apotheose.&lt;BR&gt;&lt;BR&gt;Seid vorsichtig, &lt;PCNAME&gt; - {@LinkCreature:487#101#Murdranak} befehligt einen {@LinkCreature:487#3006#Blutgebundenen Vulcanus}.&lt;BR&gt;&lt;BR&gt;Ihr müsst zuerst den Golem {@LinkCreature:487#1006#Seelenbrecher} töten, der den Weg versperrt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1007">
+        <Page social="4">Ihr Tod verschafft mir große Befriedigung.&lt;BR&gt;&lt;BR&gt;Ihr könnt gehen!</Page>
+    </Text>
+</QuestDialog>

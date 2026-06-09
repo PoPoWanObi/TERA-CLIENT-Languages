@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="424" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="4">Seir's been asking for you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It's your call, but I wouldn't keep him waiting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">{@LinkCreature:63#1048} saw something troubling at the Collegium Arcane late last night: gulas, she says.&lt;BR&gt;&lt;BR&gt;Get the details from her and head up the investigation. If she's right, this could be serious.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1048">
+        <Page social="4">They were gulas, all right. I didn't get that close, but I know what I saw...and smelled.&lt;BR&gt;&lt;BR&gt;They were looking through a book—the one about {@LinkCreature:424#2000}, the goat demon. When they saw me, they tore the page with the summoning spell out of the book and vanished.&lt;BR&gt;&lt;BR&gt;They left a Kazuur Syndicate token. They must have come here from Ostgarath.&lt;BR&gt;&lt;BR&gt;That's all I know. Maybe someone at {@Rgn:12013} can tell you more. They deal with the syndicate.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1007">
+        <Page social="6">The Kazuur Syndicate? Their stronghold is west of here, near a place called the {@Rgn:12003}. You really don't want to go there.&lt;NEXTPAGEBUTTON&gt;"I do, and I'll tell you why."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">That's quite a story. And {@LinkCreature:424#2000} sounds like something I don't want to see when I close my eyes tonight.&lt;BR&gt;&lt;BR&gt;If you're determined to go, you'll have to fight your way through the {@Rgn:12003} to get to the {@Rgn:9024001}.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" prevId="5" villagerId="1501">
+        <Page social="6">(This teleportal will transport you to the {@Rgn:9024001}.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1102">
+        <Page social="6">You've done the federation a great service by killing {@LinkCreature:424#2000}, &lt;PCNAME&gt;. We'd like to recognize that with a token of appreciation.&lt;BR&gt;&lt;BR&gt;And of course our everlasting thanks. But you're used to that by now, right?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="1102">
+        <Page social="0">Maybe you don't fully appreciate the gravity of the situation. {@LinkCreature:424#2000} must die, and I've chosen you to kill it.&lt;BR&gt;&lt;BR&gt;Don't come back again until the deed is done.</Page>
+    </Text>
+</QuestDialog>

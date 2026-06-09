@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вы встретились с Дугалом и Золин и узнали, что Пэйсен пропал.&lt;BR&gt;&lt;BR&gt;Пэйсен приготовил для Золин расслабляющий отвар. Золин с удовольствием его выпила, но пришла в ярость, когда узнала, из чего он сварен.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1">Тебе нужно поговорить с Дугалом и Золин у платформы-телепорта.&lt;NEXTPAGEBUTTON&gt;"Конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2206">
+        <Page social="1">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Мы начали волноваться, что потеряли и тебя!&lt;BR&gt;&lt;BR&gt;Ну как, все прошло успешно?&lt;NEXTPAGEBUTTON&gt;"Думаю, да".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Отлично!&lt;BR&gt;&lt;BR&gt;Если нам повезет, то теперь этот Искатель Рениш пропустит нас в Верхний Дозор.&lt;NEXTPAGEBUTTON&gt;"Мне его еще надо убедить".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Мы с ним тоже поговорим.&lt;BR&gt;&lt;BR&gt;Но искали мы тебя не за этим. Пэйсен потерялся. Он все время был с нами, а потом вдруг пропал! Ты, случайно, не знаешь, где он может быть?&lt;NEXTPAGEBUTTON&gt;"Потерялся?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Я думаю, он просто куда-нибудь забрел. Он умный малый, так что я за него не слишком переживаю.&lt;BR&gt;&lt;BR&gt;Но ты же понимаешь, как тут может быть опасно, а Пэйсен становится очень рассеянным, если на что-то отвлекается.&lt;BR&gt;&lt;BR&gt;Мы вернемся в лагерь и соберем поисковый отряд, но раз уж ты здесь, можешь поискать его в округе? Вряд ли он ушел далеко.&lt;NEXTPAGEBUTTON&gt;"Я его найду".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4">О, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Рад тебя видеть! Как твое задание?&lt;NEXTPAGEBUTTON&gt;"Тебя разыскивают, Пэйсен".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">О! Я знаю.&lt;BR&gt;&lt;BR&gt;Но я пока не могу вернуться. Мне нужно кое-что найти!&lt;BR&gt;&lt;BR&gt;Может быть, ты поможешь мне?&lt;NEXTPAGEBUTTON&gt;"Это для Золин, верно?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Я так за нее волнуюсь! Она такая мрачная! Такая решительная! Такая замкнутая! &lt;NEXTPAGEBUTTON&gt;"Может, ей просто надо, чтобы ее никто не трогал?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Полная чепуха! Никто не любит быть в одиночестве! Она же отправилась сюда, чтобы отыскать сестру. Совершенно ясно, что она одинока и волнуется!&lt;BR&gt;&lt;BR&gt;Но я знаю, как ее развеселить. Кирийцы поделились рецептом особого отвара, который кому угодно поможет расслабиться.&lt;BR&gt;&lt;BR&gt;Мне осталось найти последний компонент: мясо обитателя горячих источников - камары или рыбы-звезды. Но я не могу заставить себя... ну, понимаешь?..&lt;NEXTPAGEBUTTON&gt;"Ладно, ладно. Только не строй из себя невинного щеночка".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4">Ты поможешь мне? Спасибо огромное, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4">Если все получится, то больше ничего пробовать не придется. Спасибо!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4">Что? Золин страдает, &lt;PCNAME&gt;. Я не могу смотреть, когда кто-то так страдает!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="4" villagerId="2209">
+        <Page social="1">Прекрасно! Спасибо, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Так, теперь, если я правильно запомнил, надо... все это измельчить... и... готово!&lt;NEXTPAGEBUTTON&gt;"Поздравляю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2209">
+        <Page social="0">Пожалуйста, поторопись, &lt;PCNAME&gt;. Разве ты не видишь, как больно Золин?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2209">
+        <Page social="1">Да, конечно! Надо поскорее отдать это Золин!&lt;NEXTPAGEBUTTON&gt;"Ты уверен, что это хорошая мысль?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Что ты имеешь в виду? А, понимаю. Мои предыдущие попытки ее подбодрить не очень-то ее ко мне расположили...&lt;BR&gt;&lt;BR&gt;Слушай, я понимаю, что это немного слишком, но, может быть, ты...&lt;NEXTPAGEBUTTON&gt;"Ладно. Хорошо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2210">
+        <Page social="1">Ну как, назойливый паразит нашелся?&lt;NEXTPAGEBUTTON&gt;"Скоро найдется. Эм-м... не хочешь освежиться?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">О! Да, умираю от жажды.&lt;BR&gt;&lt;BR&gt;М-м... очень неплохо! Необычно, но так вкусно! И... очень расслабляет. Я прямо чувствую, как уходит напряжение!&lt;BR&gt;&lt;BR&gt;Что это за напиток?&lt;NEXTPAGEBUTTON&gt;"Спроси Пэйсена. Это он его для тебя приготовил".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ого... Накнец'т он х'ть штото сделл н'рмально.&lt;BR&gt;&lt;BR&gt;Н'верно, надо б'ть с ним п'ласквее.&lt;NEXTPAGEBUTTON&gt;"Эм-м... ну да. Как ты себя чувствуешь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Хршо кхх нкгда!&lt;BR&gt;&lt;BR&gt;Штоп... шшто смнй нтак? Штоэт з отрва? Шт этт п'рзит смнй с'творил? Я'иго прбью! И ттбя тж!&lt;NEXTPAGEBUTTON&gt;"Извини, командир".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="2011">
+        <Page social="1">Приветствую еще раз, &lt;PCNAME&gt;. Что у тебя тут такое?&lt;BR&gt;&lt;BR&gt;От этой подвески исходит энергия! Я чувствую, как она эхом отражается в амулетах!&lt;BR&gt;&lt;BR&gt;Очень хорошо, &lt;PCNAME&gt;. Эта демонстрация полностью доказывает твои благие намерения. Мои коллеги-Искатели разбили лагерь на хребте Кейзена на севере.&lt;BR&gt;&lt;BR&gt;Покажи это Дюрому, и он отведет тебя к верховному Искателю Джениаму.&lt;NEXTPAGEBUTTON&gt;Спасибо, Рениш".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" villagerId="2011">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

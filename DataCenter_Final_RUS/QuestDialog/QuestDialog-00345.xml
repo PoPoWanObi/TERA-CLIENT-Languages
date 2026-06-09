@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Пиратских кораблей больше не осталось, так что дементалит должен быть где-то наверху. И мы его отследим.&lt;BR&gt;&lt;BR&gt;Поговори с Пиарто, он выше на лестнице. Занимается сбором разведданных. И пусть встреченные по дороге {@LinkCreature:11#2007#Убийцы Красной плети} отправятся к праотцам - это ослабит сопротивление пиратов на втором этаже.&lt;BR&gt;&lt;BR&gt;Да, тут такой момент: Пиарто - мастер маскировки. Даже не знаю, за кого он выдает себя сейчас.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Ты от Отуса, верно? Хорошо. А я уж начал думать, что обо мне забыли.&lt;BR&gt;&lt;BR&gt;Дементалит, говоришь? Нет, не слышал о нем.&lt;BR&gt;&lt;BR&gt;Но, если хочешь, можешь тут все осмотреть.</Page>
+    </Text>
+</QuestDialog>

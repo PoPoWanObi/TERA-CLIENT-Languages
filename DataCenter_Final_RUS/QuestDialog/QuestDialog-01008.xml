@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="34">Несмотря на все наши усилия, проблема с вендиго только обостряется. Но раз они хотят боя, они его получат.&lt;BR&gt;&lt;BR&gt;Выследи и убей вендиго {@LinkCreature:34#500#ткачей мороза}, {@LinkCreature:34#510#морозных волшебников}, {@LinkCreature:34#610#злобней}, {@LinkCreature:34#600#крушителей}, {@LinkCreature:34#700#военачальников} и {@LinkCreature:34#710#полководцев}.&lt;BR&gt;&lt;BR&gt;Сообщи Родене, когда все будет сделано.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Тяжелая битва выиграна, &lt;PCNAME&gt;. Благодарю тебя за помощь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1002">
+        <Page social="0">Вендиго отвергли все наши предложения. Они сами навлекли на себя наш гнев, и мы отправляем тебя. Подари им битву, которую они так ждали.</Page>
+    </Text>
+</QuestDialog>

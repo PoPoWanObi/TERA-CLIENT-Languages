@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Одна из самых больших загадок Пылающей долины: {@LinkCreature:204#1117#Круэнтальский пилон}.&lt;BR&gt;&lt;BR&gt;Он обладает невероятной мощью. Если бы мы только знали, как извлечь ее.. &lt;BR&gt;&lt;BR&gt;Вероятно, {@LinkCreature:4#7011#Маракади} знает его секрет. Зуб даю - есть у нее что-то в голове или в кармане, что соединяет ее с камнем.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1117">
+        <Page social="0">(Пилон слишком горячий - вы можете обжечься.)&lt;BR&gt;&lt;BR&gt;(Вы вставляете ключ и на камне проступают слова.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1117">
+        <Page social="0">(Пилон слишком горячий - не дотронуться. Может, {@LinkCreature:4#7011#Маракади} знает секрет, как воздействовать на него.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="3" villagerId="1003">
+        <Page social="7">Это было внутри Круэнтальского пилона? Невероятно!&lt;BR&gt;&lt;BR&gt;Слова нанесены при помощи шурской магии, но они ведь не водятся с демонами.&lt;BR&gt;&lt;BR&gt;Во всяком случае, раньше не водились. Беда. Но быть в неведении еще хуже, скажи?</Page>
+    </Text>
+</QuestDialog>

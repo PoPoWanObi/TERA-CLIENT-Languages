@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="479" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Mission Orders&lt;BR&gt;&lt;BR&gt;Go to Ascent of Saravash&lt;BR&gt;&lt;BR&gt;Kill the {@linkcreature:479#47951#Abukaizel}, {@linkcreature:479#47952#Belsamael}, {@linkcreature:479#47953#Virrsek}, {@linkcreature:479#47955#Namburus}, {@linkcreature:479#47956#Rubinaria}, {@linkcreature:479#47954#Saravash}&lt;BR&gt;&lt;BR&gt;Report to Arkaius, Kaia's Sword Commander.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1018">
+        <Page social="5">Thank you for your help.&lt;BR&gt;&lt;BR&gt;Your story will be passed down through the generations. You've done well.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1018">
+        <Page social="0">Kill remaining argons. &lt;BR&gt;&lt;BR&gt;Go to Ascent of Saravash and express Kaia's anger!</Page>
+    </Text>
+</QuestDialog>

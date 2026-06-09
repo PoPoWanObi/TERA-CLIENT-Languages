@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="4">Missionsbefehle&lt;BR&gt;&lt;BR&gt;{@LinkCreature:10#1#Arachnenkrieger}, {@LinkCreature:10#2#Hainkamara}, {@LinkCreature:10#3#Virekkamara} und {@LinkCreature:10#10#Baykunwarzenschweine} überrennen die Insel Kerozen und bedrohen die normalen Truppenbewegungen.&lt;BR&gt;&lt;BR&gt;Säubert die Gegend von Feinden und meldet Euch danach bei Edine am Brückenkopf.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">Jetzt kann eine Patrouille wieder eine Patrouille sein und nicht mehr ein "brutaler, blutiger Kampf, der viele Meter von seinem Ausgangsort endet". Ich danke Euch, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">Die Insel Kerozen ist strategisch viel zu wichtig, als dass wir sie der heimischen Tierwelt überlassen könnten. Sichert die Insel, &lt;PCCLASS&gt;.</Page>
+    </Text>
+</QuestDialog>

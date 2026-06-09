@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="220021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="220021">
+        <Page social="1">Согласно последним данным разведки, на нашу территорию проникают другие альянсы. Я хочу отправить тебя в патруль в Область аурумского вторжения и Бесплодные земли.&lt;BR&gt;&lt;BR&gt;Также тебе нужно уничтожить {@linkcreature:121#202#Золотых мугато} и {@linkcreature:121#205#Пустынных древней}.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Мы - альянс и мы друг за друга горой! Если бойцы 65 уровня помогут в этом задании членам альянса меньшего уровня, я дам им дополнительную награду!&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="220021">
+        <Page social="0">Спасибо, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Больше ноктиния, хорошего и разного! Сообщество Торговцев идет к успеху!</Page>
+    </Text>
+</QuestDialog>

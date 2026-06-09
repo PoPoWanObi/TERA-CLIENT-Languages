@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Детали задания:&lt;BR&gt;&lt;BR&gt;Наги охраняют первый этаж храма.&lt;BR&gt;&lt;BR&gt;Найди и уничтожь {@LinkCreature:42#100#Бешаранских невольников}, {@LinkCreature:42#400#Бешаранских посыльных}, {@LinkCreature:42#500#Бдительных чикасов}, {@LinkCreature:42#600#Костяных наблюдателей}, {@LinkCreature:42#710#Жестоких костяных бесов} и {@LinkCreature:42#1300#Бешаранских наемников}.&lt;BR&gt;&lt;BR&gt;После выполнения задания зайди к Эшрилле.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Спасибо тебе от лица всей Федерации.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Похоже, что твое задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

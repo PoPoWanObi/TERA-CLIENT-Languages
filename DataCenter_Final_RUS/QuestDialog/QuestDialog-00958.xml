@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0">К слову, о целях... Мы пытаемся проникнуть на нижние уровни, но Кровавые Стражи - очень серьезный противник.&lt;BR&gt;&lt;BR&gt;Другими словами, нам требуется резня в твоем стиле, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Пусть {@LinkCreature:33#11#Кровавые стражи-берсерки} и {@LinkCreature:33#61#Кровавые стражи-жнецы} познают, что такое ужас! А затем присоединимся мы и прикончим остальных.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1011">
+        <Page social="0">Валькион победит! Я приготовлю войска к штурму нижних этажей.</Page>
+    </Text>
+</QuestDialog>

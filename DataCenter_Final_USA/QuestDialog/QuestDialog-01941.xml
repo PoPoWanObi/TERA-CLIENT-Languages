@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Here are materials you need for artificer cuirasses. Do your best, then bring what you make to me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Well done. Can you take them to Cutthroat Harbor? They're in desperate need there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">You have the design and kits. Talk to crafting vendors if you need additional materials.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="1018">
+        <Page social="0">Your efforts will help us win this war. The federation thanks you!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">Orless ist ständig von Leibwächtern umgeben. Es sind harte Kerle: {@LinkCreature:11#1011#Rotpeitschenunteroffiziere}, {@LinkCreature:11#2008#Rotpeitschenkorsaren} und {@LinkCreature:11#4005#Rotpeitschenaufseher}.&lt;BR&gt;&lt;BR&gt;Dezimiert die Leibwächter und macht Orless angreifbar. Aber stellt gleichzeitig sicher, dass niemand sofort seinen Platz einnimmt, wenn er stirbt.&lt;BR&gt;&lt;BR&gt;Bringt mir ihre Anhänger mit. Ich habe eine Idee ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Das sind aber viele Marken. Ich werde sie den Burschen geben. Sie werden verrückt danach sein.&lt;BR&gt;&lt;BR&gt;Gut gemacht, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">{@LinkCreature:11#1011#Rotpeitschenunteroffiziere}, {@LinkCreature:11#2008#Rotpeitschenkorsaren} und {@LinkCreature:11#4005#Rotpeitschenaufseher} bewachen den Kapitän. Beendet ihren Dienst ... ein für alle Mal.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="5">Твоя популярность растет, &lt;PCNAME&gt;. В лагере к западу от Пора-Элину нужны солдаты, причем они просили прислать именно тебя.&lt;BR&gt;&lt;BR&gt;Поможешь им? Поговори с {@LinkCreature:223#1010#Лохоной} в Лагере Валькионской Федерации.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1010">
+        <Page social="5">Так ты и есть &lt;PCNAME&gt;? Я ожидала чего-то большего. О тебе прямо-таки легенды ходят. Я думала, что ростом ты будешь не меньше драколота.&lt;BR&gt;&lt;BR&gt;Ну что ж, давай уже приступим к делу, и посмотрим, не врут ли слухи в остальном.</Page>
+    </Text>
+</QuestDialog>

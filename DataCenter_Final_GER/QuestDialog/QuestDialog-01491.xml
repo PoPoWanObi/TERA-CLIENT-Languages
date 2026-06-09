@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">Als wir unsere Flugplattform verloren hatten, haben wir einige improvisierte Transportmittel konstruiert. Ohne sie würden wir es nie riskieren, Kanstria zu verlassen.&lt;NEXTPAGEBUTTON&gt;"Wie funktionieren sie?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eigentlich unterscheiden sie sich nicht sehr von Teleportalen. Da uns die rohe magische Kraft für den Bau richtiger Teleportnetzwerke fehlte, haben wir diese Teleportplattformen entwickelt. Sie werden mit Iterisscherben angetrieben, die recht leicht abzubauen sind.&lt;BR&gt;&lt;BR&gt;Zieht los und besorgt eine Iterisscherbe. Ich hoffe, Ihr seid recht bewandert im Bergbau.&lt;NEXTPAGEBUTTON&gt;"Ich habe schon so manchen Felsen geknackt."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Großartig. Unser Treffpunkt lautet: {@LinkCreature:249#1101#Südliche Teleportplattform}.&lt;BR&gt;&lt;BR&gt;Viel Glück!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Gut, Ihr habt sie gefunden.&lt;BR&gt;&lt;BR&gt;Südlich von hier befindet sich der {@Rgn:49002}. Die Argonen machen ihn sich zunutze, um diesen Feldern Energie zu entziehen. Das {@Collection:149} dort birgt Iterisscherben, die Ihr abbauen müsst, bevor Ihr die Plattform benutzen könnt.&lt;BR&gt;&lt;BR&gt;Sprecht mich erneut an, wenn Ihr eine Iterisscherbe habt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">Jetzt benutzt die Scherbe, um die Teleportplattform zu aktivieren.&lt;BR&gt;&lt;BR&gt;Wir sehen uns in Kanstria!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">Der Abbau der Scherben ist nicht einfach, aber versucht es weiter. Ihr werdet es schon schaffen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">Gut gemacht!&lt;BR&gt;&lt;BR&gt;Die Teleportplattformen helfen uns, den Argonen ein Schnippchen zu schlagen. Ziemlich clever, findet Ihr nicht?</Page>
+    </Text>
+</QuestDialog>

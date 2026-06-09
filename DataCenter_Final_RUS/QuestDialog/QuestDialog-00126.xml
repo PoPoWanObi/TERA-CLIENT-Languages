@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Странно, что они решили меня отравить - они ведь не первый день меня знают. Я и раньше торговал здесь.&lt;BR&gt;&lt;BR&gt;Когда я свалился, они схватили мой багаж и удрали.&lt;BR&gt;&lt;BR&gt;Ты сможешь забрать у них &lt;font color='#660000'&gt;мои вещи&lt;/font&gt;? Наверняка эти гады сейчас в Лощине ветров, к западу отсюда.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Да, это мое. Спасибо тебе огромное!&lt;BR&gt;&lt;BR&gt;А у меня есть кое-что для тебя.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Без своего товара я разорен. Прошу, помоги мне его вернуть.</Page>
+    </Text>
+</QuestDialog>

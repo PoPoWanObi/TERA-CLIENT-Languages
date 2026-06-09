@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">Kaidun! Dieser Name hat für uns Amani viele Bedeutungen. Früher einmal stand er für unseren Ruhm und unsere Stärke, aber das ist lange her.&lt;BR&gt;&lt;BR&gt;Als Kaidun aus der Zitadelle der Folter trat, war er ein dem Wahnsinn verfallener, rücksichtsloser Tyrann. Er eroberte den Berg Tyrannas - und ohne die Opfer unseres Volkes würde er uns jetzt hier alle abschlachten.&lt;BR&gt;&lt;BR&gt;Der Kampf währt nun schon so lange, dass wir dringend neue Vorräte bräuchten. Wir haben zwar die Soldaten, aber nicht die Waffen, um sie auszurüsten.&lt;BR&gt;&lt;BR&gt;Bringt uns Waffen, egal wie. Doch wenn Ihr sie den kalten Händen toter {@LinkCreature:32#1#Sihranischer Kämpfer} und {@LinkCreature:32#2#Tuwangihornköpfe} entreißen könnt, würde mich das sehr freuen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">Gute Arbeit! Dank Euch werden unsere neuen Rekruten mit hochwertigen Waffen ausgerüstet sein.&lt;BR&gt;&lt;BR&gt;Das Wissen, dass unsere Feinde mit ihren eigenen Waffen bestraft werden, zaubert ein Lächeln auf mein Gesicht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1019">
+        <Page social="0">Findet {@LinkCreature:32#1#Sihranische Kämpfer} und {@LinkCreature:32#2#Tuwangihornköpfe} östlich von hier beim Fürchterlichen Pass. Wir brauchen ihre Waffen.</Page>
+    </Text>
+</QuestDialog>

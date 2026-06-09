@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Diese Söldner sind noch das geringste Übel, was die Naga anbelangt. Die {@LinkCreature:7#2#Nagamoloche} sind viel schlimmer. Sie sind unglaublich zäh und brutaler, als Ihr es Euch je vorstellen könnt.&lt;BR&gt;&lt;BR&gt;Tut Euer Bestes, um vier dieser Monstrositäten zur Strecke zu bringen und kehrt mit ihren Köpfen zu mir zurück. Das wird die Überlebenden verwirren.&lt;BR&gt;&lt;BR&gt;Nehmt diesen Kampf ernst. Es wird viel schwieriger sein, aber der Erfolg umso süßer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">Eure Fertigkeiten sind ohne Gleichen. Ich wünschte, das Mysterium würde mehr Soldaten wie Euch beschäftigen.&lt;BR&gt;&lt;BR&gt;Ihr habt uns einen großen Dienst erwiesen und Euch selbst alle Ehre gemacht, &lt;PCNAME&gt;. Danke.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">Habt Ihr die Reißersöldner bereits zur Strecke gebracht? Tränkt Ihr Blut diese geheiligten Hügel und macht sie fruchtbar?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="4">Людей здесь у нас мало, зато запасов - более, чем достаточно, &lt;PCNAME&gt;. И многое просто сгниет в джунглях.&lt;BR&gt;&lt;BR&gt;Без всякой пользы для кого-либо! Я не могу спокойно смотреть на такое расточительство.&lt;BR&gt;&lt;BR&gt;На этой неделе снабжением заведую я, и кто-то подсунул мне интересную записку: "Готов купить запасы за наличные - секретный проход к западу".&lt;BR&gt;&lt;BR&gt;Я не прошу тебя тащить, либо не тащить туда эти припасы. Я просто хочу знать, кто будет ждать на той стороне "секретного прохода".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1009">
+        <Page social="4">Отличный товар, да... благодарный.&lt;BR&gt;&lt;BR&gt;Твоя нравится работать на Диркен? Он уметь заключать крутой сделка, истинно!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1009">
+        <Page social="0">Ты не Диркен! И нет товара? Возмущение!&lt;BR&gt;&lt;BR&gt;Мы жаловаться Диркен! И мы убивать тебя, истинно?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="3" villagerId="1008">
+        <Page social="4">Так-так... Они считают, что мы работаем на Диркена.&lt;BR&gt;&lt;BR&gt;Это может плохо отразиться на наших карьерах, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Минутку. Получается, Диркен продает припасы пиратам?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="4">Аргоны пришли в Кратер Магтулк и атаковали нашу пушку. Мне нужно найти {@LinkCreature:248#1030}а.&lt;BR&gt;&lt;BR&gt;Мы не можем потерять ни одного бойца из-за цианопушки.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">Да, аргоны нам порядком досаждают. Я потерял большую часть бойцов.&lt;BR&gt;&lt;BR&gt;Отправлю оставшихся в Литейную цианопушек. Там от них будет больше пользы.&lt;BR&gt;&lt;BR&gt;Я дам знать {@LinkCreature:248#1015}у о своем положении.</Page>
+    </Text>
+</QuestDialog>

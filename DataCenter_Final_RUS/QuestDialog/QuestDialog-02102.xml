@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="0">По просьбе Стефанны вы отнесли масло для загара загорающим кастаникам.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="6">Привет, &lt;PCNAME&gt;. Ну как тебе нравится нежиться на солнышке?&lt;BR&gt;&lt;BR&gt;А мне, к сожалению, не до отдыха. Я не успеваю разносить заказы, и у меня не выйдет отдохнуть, пока все клиенты не получат свое масло для загара.&lt;BR&gt;&lt;BR&gt;Стесняюсь спросить, может быть, ты мне поможешь?..</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="4">Огромное тебе спасибо, &lt;PCNAME&gt;! Давай посмотрим...&lt;BR&gt;&lt;BR&gt;У меня четыре заказа на масло для загара, но вот эта покупательница ждет больше всех. Вот. Можешь отнести ей бутылочку масла для загара?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="3" villagerId="2201">
+        <Page social="4">Ты - не Стефанна. Очень жаль. Она что-нибудь говорила обо мне?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="3" villagerId="2203">
+        <Page social="4">Самое время! Я уже начинаю дымиться!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="3" villagerId="2116">
+        <Page social="4">Почему так долго? Впрочем, понимаю. Стефанна валяется на пляже, а ты у нее на побегушках. Обычная история.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="3" villagerId="2118">
+        <Page social="4">Ага, масло для загара от Стефанны, наконец-то. Тебе не доводилось им пользоваться? Обязательно попробуй! С ним ничто не сравнится.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" prevId="11" villagerId="2011">
+        <Page social="4">Огромное тебе спасибо, &lt;PCNAME&gt;! Сейчас слишком жарко, чтобы заниматься доставкой. Передохни немного.&lt;BR&gt;&lt;BR&gt;Вот, надень. Так солнце не будет попадать в глаза.</Page>
+    </Text>
+</QuestDialog>

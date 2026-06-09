@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">Pour avoir une chance de mener à bien la mission qui nous amène ici, nous devons trouver un moyen de repousser les argons.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:45#1001#assaillants kelbas}, les {@LinkCreature:45#1002#orkans nains argonomorphes} et les {@LinkCreature:45#1003#gardiens des runes argonomorphes} rôdant à proximité des Abords de la Tour.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à {@Creature:245#1002$$Orheno}, de la Base de la Résistance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1002">
+        <Page social="5">Vous avez fait du bon travail, &lt;PCNAME&gt;. Continuez comme ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1002">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

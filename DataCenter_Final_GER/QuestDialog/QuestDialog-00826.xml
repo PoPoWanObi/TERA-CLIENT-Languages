@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0">Also gut, ich habe hier eine weitere Liste für Euch.&lt;BR&gt;&lt;BR&gt;Dieses Mal geht es gegen {@LinkCreature:25#2011#Ossugonische Kriegshäuptlinge}, {@LinkCreature:25#2021#Ossugonische Legaten}, die {@LinkCreature:25#2031#Devanertodesmeister}, {@LinkCreature:25#2041#Scharfschützen Loks}, {@LinkCreature:25#2042#Blutmäher Loks}, {@LinkCreature:25#2061#Devanervorhut}, {@LinkCreature:25#2071#Dunkle Diakone}, {@LinkCreature:25#2091#Eiferer Loks} und {@LinkCreature:25#2092#Fanatiker Loks}.&lt;BR&gt;&lt;BR&gt;Und dann meldet Ihr Euch bei ... Culetta, wie es aussieht. Also geht zu ihr, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">Ihr erlaubt Euch keinen Fehler! Gut gemacht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Nicht tot, was? Warum jagt Ihr dann keine Kultisten?</Page>
+    </Text>
+</QuestDialog>

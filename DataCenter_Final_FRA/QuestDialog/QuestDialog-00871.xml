@@ -1,0 +1,54 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="0">C'est au Bois malade que Shakan tua Lok, au cours de la Guerre divine. Le sang de Lok contamina la forêt, entraînant l'apparition de hordes d'esprits enragés.&lt;BR&gt;&lt;BR&gt;Vous êtes {@gender:parvenu/parvenue} à dissiper une partie de ce mal grâce à l'agent d'amélioration conçu par le Mysterium.&lt;BR&gt;&lt;BR&gt;Après avoir combattu Gaist, le Spectre défunt, vous avez récupéré le bracelet de Thulsa, une relique permettant d'amplifier l'énergie de Lok, mais sans le pouvoir de Shakan, il vous a été impossible de l'employer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="5">Le Bois malade était autrefois d'une beauté à couper le souffle... avant que la Guerre des dieux ne le ravage. Lorsque Shakan tua Lok, c'est toute la forêt qui mourut avec lui.&lt;BR&gt;&lt;BR&gt;Le Mysterium a trouvé un moyen de la guérir, mais nous allons avoir besoin de votre aide. Allez parler à Gwahre, de Tria. C'est un prêtre du genre un peu mal luné, mais dans son domaine, il est brillant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1027">
+        <Page social="5">Eh bien, pas trop tôt!&amp;nbsp; Raeren doit s'imaginer que nous pouvons attendre jusqu'à la fin des temps?&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon, à quoi allez-vous pouvoir m'être utile?&amp;nbsp; Vous connaissez l'histoire du Bois malade?&amp;nbsp; Ça vous dit quelque chose?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"J'en ai un peu entendu parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Quand Shakan démembra Lok, la chair et le sang de ce dernier contaminèrent les bois.&lt;BR&gt;&lt;BR&gt;Le Mysterium a mené une étude approfondie de ce phénomène, et nous pensons avoir trouvé une solution, mais nous allons avoir besoin de l'aide de soldats.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Nos chercheurs essaient de purifier la forêt, mais les attaques incessantes de {@LinkCreature:28#1021#loups ligneux à épines} leur compliquent la tâche. Ces créatures n'ont pas toujours été aussi agressives, mais comme le reste de la faune locale, elles ont été contaminées.&lt;BR&gt;&lt;BR&gt;Chassez-les, afin que les arcanistes puissent reprendre leur travail.&lt;BR&gt;&lt;BR&gt;Et tâchez de revenir en vitesse. Nous avons du pain sur la planche.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1027">
+        <Page social="5">C'est du très bon travail... Voilà un problème de réglé. Mais les morsures de loup ont tendance à s'infecter et nous avons bon nombre de malades sur les bras. Rendez-vous au Camp de Zakai et prenez contact avec {@LinkCreature:228#1001#Anarie}, l'inquisitrice du Mysterium.&lt;BR&gt;&lt;BR&gt;La route qui mène au camp est envahie par les {@LinkCreature:28#2011#loups ligneux patte-fumée}. Ces derniers ont été contaminés de manière plus sévère que les loups ligneux à épines. Je pense qu'on doit pouvoir employer leurs crocs pour créer un remède capable de remettre les ouvriers malades sur pied.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, chassez les {@LinkCreature:28#2011#loups ligneux patte-fumée } et rapportez leurs crocs à Anarie.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="228" prevId="4" villagerId="1001">
+        <Page social="4">J'apprécie la sollicitude de Gwahre ainsi que votre coup de main. Les potions que je distille à l'aide de ces ingrédients font des miracles contre les infections.&lt;BR&gt;&lt;BR&gt;Je viens de finir d'en concocter une fournée. Allez donc remettre tout ça à Lasiren, de l'Avant-poste de Garbi. On en a grand besoin là-bas!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="228" villagerId="1001">
+        <Page social="0">Je pourrais concocter tout un stock de ce remède, mais il va me falloir d'autres crocs de loups ligneux patte-fumée. Si je ne parviens pas à protéger efficacement les ouvriers, ma mission est vouée à l'échec.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller m'en chercher?&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="228" prevId="5" villagerId="1014">
+        <Page social="5">Le remède d'Anarie est une bénédiction, sans parler de sa dévotion. Nous pensions que la contamination allait se dissiper avec le temps, mais au lieu de ça, on dirait bien qu'elle a empiré.&lt;BR&gt;&lt;BR&gt;Un nombre croissant d'ouvriers est en train de tomber malade, et les appareils de purification ont cessé de fonctionner.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Le seul moyen consiste à redémarrer les appareils de purification. Mais tout d'abord, vous allez devoir éliminer les {@LinkCreature:28#3051#jalmaraks corrompus} qui rôdent au sud. Une fois que vous les aurez chassés, redémarrez l'appareillage. Nous devrions bientôt sentir une nette différence.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="228" prevId="7" villagerId="1014">
+        <Page social="5">J'ai une autre mission à vous confier.&lt;BR&gt;&lt;BR&gt;Quand une personne succombe aux effets de la contamination, elle revient souvent sous la forme d'un spectre, et les victimes de ces derniers allant grossir leurs rangs, chaque combat qui nous oppose à eux renforce leurs effectifs autant qu'il affaiblit les nôtres. Le plus vieux et le plus puissant d'entre eux se nomme {@LinkCreature:28#6000#Gaist}. S'il venait à disparaître, nous aurions une chance de rompre ce cercle vicieux.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="228" prevId="8" villagerId="1014">
+        <Page social="5">Vous avez récupéré ce bracelet sur Gaist?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il en émane une puissante énergie nécromantique. Rendez-vous à Tria pour le remettre à Gwahre. Il connaît bien son sujet et sera plus à même que moi de vous dire quoi faire.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="228" villagerId="1014">
+        <Page social="0">Si nous n'éliminons pas Gaist, les spectres finiront par avoir raison de nous. Trop de vies sont en jeu, &lt;PCNAME&gt;. Vous devez prendre les choses en main.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="9" villagerId="1027">
+        <Page social="5">Le simple contact de ce bracelet me donne la nausée. Lok n'a rien à voir là-dedans... il faut plutôt y voir la marque sombre de Thulsa.&lt;BR&gt;&lt;BR&gt;Nous pourrions retourner cet objet contre les spectres et les anéantir une fois pour toutes, mais il va nous falloir lui adjoindre la puissance d'un autre dieu.&lt;BR&gt;&lt;BR&gt;Erlon, des Bois intemporels, dispose de connaissances encyclopédiques en la matière.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="229" prevId="11" villagerId="1010">
+        <Page social="5">Gwahre a parlé d'un amplificateur nécromantique, intéressant... La méthode la plus simple consisterait tout simplement à contrer l'énergie de Lok. Pour ce faire, il nous faudrait la puissance de Shakan, le Seigneur bestial... dans la mesure où c'est à lui qu'on doit la mort de Lok.&lt;BR&gt;&lt;BR&gt;Allez trouver Taleron, à l'Avant-poste de Dorana. C'est lui qui en sait le plus à propos de Shakan. Il sera peut-être même en possession d'un artefact.&lt;BR&gt;&lt;BR&gt;Faites vite, &lt;PCNAME&gt;. Ce bracelet est tel un phare pour les forces ténébreuses.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="229" prevId="12" villagerId="1012">
+        <Page social="5">Il existe un moyen de parvenir au résultat souhaité, mais il va falloir y mettre du vôtre. L'Autel de Shakan possède la puissance nécessaire, mais il se trouve aux mains d'un groupe de shurians.&lt;BR&gt;&lt;BR&gt;Si vous voulez pouvoir y accéder, vous allez devoir tuer {@LinkCreature:29#7022#Artania} et {@LinkCreature:29#7021#Limcadus} pour prouver votre valeur au Seigneur bestial.&lt;BR&gt;&lt;BR&gt;Une fois fait, placez le bracelet sur l'autel et attendez... Si vous êtes à la hauteur, quelque chose se produira.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="229" prevId="13" villagerId="1024">
+        <Page social="5">(Vous sentez les vibrations d'un grondement remonter le long de votre épine dorsale, et pourtant, la forêt est silencieuse. Le bracelet semble se ternir, avant de tomber en poussière.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="229" prevId="14" villagerId="1012">
+        <Page social="5">Ca a fonctionné?&amp;nbsp; Formidable. Je ne pense pas que Shakan ait porté Thulsa dans son cœur. Cette offrande lui aura certainement fait plaisir.&lt;BR&gt;&lt;BR&gt;Allez prévenir Gwahre que vous avez résolu le problème, et transmettez mes salutations à ce vieux chafouin.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="70" prevId="15" villagerId="1027">
+        <Page social="5">Vous l'avez détruit?&amp;nbsp; Ce bracelet était une relique divine!&amp;nbsp; Nous aurions pu en apprendre tant de choses!&amp;nbsp; Bah!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ce qui est fait est fait. Si c'était le prix à payer pour débarrasser la région des spectres, ça en valait la peine. Vous avez fait du bon travail, &lt;PCNAME&gt;. Le Mysterium vous est très redevable.</Page>
+    </Text>
+</QuestDialog>

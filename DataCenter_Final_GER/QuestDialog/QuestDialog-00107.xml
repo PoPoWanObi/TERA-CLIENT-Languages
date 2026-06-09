@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="0">Entschlossen, Serion, den Träger des Hochelfenkerns zu retten, hat Fraya Euch nach Fyrkuppe geschickt. Mit Elions und Jelenas Hilfe konntet Ihr Akasha besiegen. Dabei wurde Serion jedoch tödlich verletzt, sodass der Kern in Gefahr ist.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5">Den Kern zu bergen ist von immenser Wichtigkeit. Ohne ihn kollabiert Allemantheia und wird vom Wüstensand verschluckt.&lt;BR&gt;&lt;BR&gt;Das Ganze muss in Fyrkuppe enden. Wir vernichten Thulsa ... und rächen Kaidun.&lt;NEXTPAGEBUTTON&gt;"Ich bin schon auf dem Weg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich wusste, Ihr würdet bis zum Ende durchhalten, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aber ich werde Euch nicht alleine gehen lassen. Sprecht mit Elion und sagt ihm, dass auch er eine Mission hat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1104">
+        <Page social="5">Und wieder einmal ins Getümmel, was?&lt;BR&gt;&lt;BR&gt;Ich wollte Fyrkuppe schon immer einmal mit eigenen Augen sehen. Ich bin schon ziemlich herumgekommen, aber Fyrkuppe ... das ist etwas Besonderes.&lt;BR&gt;&lt;BR&gt;Wo wir gerade über das Reisen sprechen: Jelena wäre bestimmt auch eine gute Begleitung. Ich werde sie suchen, aber lasst Euch nicht aufhalten. Ich hole Euch schon ein ... oder ich werde dort auf Euch warten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1001">
+        <Page social="5">Entschuldigt bitte ... &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Ich habe eine Nachricht von Elion. Nur für Eure Ohren bestimmt.&lt;BR&gt;&lt;BR&gt;Er ist vorausgegangen, um die Lage zu erkunden. Er wird Euch in der {@LinkCreature:204#1101#Feuerstellung der Tapferkeit} treffen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1101">
+        <Page social="5">Wie ich es so schnell hierher geschafft habe? Reise immer mit leichtem Gepäck.&lt;BR&gt;&lt;BR&gt;Ich habe gute Neuigkeiten. Nicht nur, dass Jelena sich uns angeschlossen hat, sie hat auch bereits eine Spur von Akasha gefunden.&lt;BR&gt;&lt;BR&gt;Akasha ist östlich von hier in Bahaars Schlund gesichtet worden. Seid aber vorsichtig - das ist ein gefährlicher Landstrich.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1102">
+        <Page social="5">So treffen wir uns also wieder, &lt;PCNAME&gt;, und wieder einmal mitten im Nirgendwo. Warum treffen wir uns eigentlich nie bei einem kühlen Getränk?&lt;BR&gt;&lt;BR&gt;Wie dem auch sei. Akashas Schergen streunen hier herum, aber von Akasha selbst ist nichts zu sehen ... &lt;NEXTPAGEBUTTON&gt;"Soll ich einen von diesen Schergen fassen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Für eine Befragung, ja? Gute Idee.&lt;BR&gt;&lt;BR&gt;Ihr sucht {@LinkCreature:4#7012#Jirakar} in Bahaars Schlund östlich von hier.&lt;BR&gt;&lt;BR&gt;Akashas engste Vertraute sind alle Fanatiker, Jirakar wird also bis zum Letzten kämpfen. So oder so können wir damit vielleicht Akasha aus ihrem Versteck locken.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="204" prevId="6" villagerId="1102">
+        <Page social="5">Zeigt mal diese Befehle.&lt;BR&gt;&lt;BR&gt;Oh ... das ist nicht gut.&lt;BR&gt;&lt;BR&gt;Da steht, dass Akasha Serion in Azarels Labyrinth bringt. Dort würden wir sie niemals finden. Aber wenn wir sie vorher abfangen könnten ...&lt;BR&gt;&lt;BR&gt;Berichtet Elion, was Ihr erfahren habt. Er wird wissen, was zu tun ist.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="204" villagerId="1102">
+        <Page social="0">Lasst Euch nicht durch Furcht aufhalten, &lt;PCNAME&gt;. Ihr schafft das!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1200">
+        <Page social="5">&lt;PCNAME&gt;, ich sehe es Euch an: Ihr und Jelena habt etwas gefunden, nicht wahr?&lt;BR&gt;&lt;BR&gt;Raus damit! Ich habe Euch beide noch nie so zufrieden gesehen.&lt;NEXTPAGEBUTTON&gt;"Möchtet Ihr Akashas Pläne sehen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Wenn wir sie einholen, bevor sie Azarels Labyrinth erreichen ... ja! Ich denke, dann können wir es schaffen!&lt;BR&gt;&lt;BR&gt;Jelena, Ihr seid noch schneller als ich. Erstattet Fraya über all das Bericht.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Ihr und ich, wir werden in die Tiefen der Fyrkuppe eintauchen ... Mithilfe des Teleportals dort drüben.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="403" prevId="9" villagerId="1101">
+        <Page social="5">Der Kern ist beschädigt, aber er lebt ... gerade noch.&lt;BR&gt;&lt;BR&gt;Wir müssen schnell nach Castanica zurück, damit Frayas Agenten ihn heilen können.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="61" prevId="10" villagerId="1105">
+        <Page social="5">Serions Rückkehr ist ein Hoffnungsschimmer - sofern er durchkommt.&lt;NEXTPAGEBUTTON&gt;"Wie geht es ihm?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Nicht besonders gut. Er ist nicht nur schwach, sondern er scheint auch die Kontrolle über die Energien des Kerns zu verlieren.&lt;BR&gt;&lt;BR&gt;Die größten Weisen unseres Volkes suchen nach einem Heilmittel, aber ich fürchte, es ist zu spät für Serion.</Page>
+    </Text>
+</QuestDialog>

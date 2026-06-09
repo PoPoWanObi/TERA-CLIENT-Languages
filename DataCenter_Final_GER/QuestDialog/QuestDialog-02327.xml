@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Ihr habt Sarbeereis zu den Festivalpilgern gebracht.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">&lt;PCNAME&gt;, ich bin so froh, dass Ihr hier seid! Habt Ihr Zeit, mir zu helfen? &lt;NEXTPAGEBUTTON&gt;"Was braucht Ihr?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ich habe dieses ganze Sarbeereis für die Festivalpilger hergestellt, aber Luman hat zu viel zu tun, um es auszuliefern!&lt;BR&gt;&lt;BR&gt;Sagt einfach meiner Assistentin Trilyn, dass Ihr es verteilen werdet. &lt;NEXTPAGEBUTTON&gt;"Ich denke, ich habe etwas Zeit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Ach, &lt;PCNAME&gt;. Ich verstehe, Lilan hat Euch überzeugt, noch einmal zu helfen.&lt;BR&gt;&lt;BR&gt;Nun, solange es Euch nichts ausmacht ... Ich habe hier Bestellungen für Morun, Tanith und Hayden. Nehmt diese hier zuerst; sie habe ich zuerst bekommen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Lächeln nicht vergessen!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Lächeln nicht vergessen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Lächeln nicht vergessen!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="7103">
+        <Page social="1">Das ist also das berühmte Sarbeereis? Es schmeckt wie der Sommer!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="3" villagerId="7104">
+        <Page social="1">Ah, Sarbeereis! Die ideale kalte Erfrischung an einem heißen Tag, meint Ihr nicht auch?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="3" villagerId="7105">
+        <Page social="1">Ah, Sarbeereis! Um ehrlich zu sein, ist das der wahre Grund, warum ich hierherkomme, aber, äh, das bleibt unter uns, ja?!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="7101">
+        <Page social="4">Vielen Dank für Eure erneute Hilfe, &lt;PCNAME&gt;! Ihr seid einfach unübertrefflich!</Page>
+    </Text>
+</QuestDialog>

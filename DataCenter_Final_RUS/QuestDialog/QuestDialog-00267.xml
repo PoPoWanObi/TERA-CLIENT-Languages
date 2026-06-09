@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">&lt;PCNAME&gt;! Ходят слухи, что тебе нет равных.&lt;BR&gt;&lt;BR&gt;Но может, это преувеличение?&lt;BR&gt;&lt;BR&gt;Хочешь доказать свою силу - убей парочку {@LinkCreature:9#1410#Запутавшихся преследователей}. Это будет настоящим испытанием.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Иногда слухи - больше, чем просто слухи.&lt;BR&gt;&lt;BR&gt; Больше никто не осмелится недооценивать тебя. Ну, по меньшей мере, твои бойцовские качества.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Если ты принесешь рога {@LinkCreature:9#1410#Запутавшихся преследователей}, то сможешь подтвердить, что слухи о тебе не врут.&lt;BR&gt;&lt;BR&gt;А если нет - докажешь, что правы скептики.</Page>
+    </Text>
+</QuestDialog>

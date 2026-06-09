@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Lithikumas haben im Feental nichts zu suchen. Es beunruhigt die Feen, wenn sie die hübsche Vegetation beschädigen.&lt;BR&gt;&lt;BR&gt;Beseitigt {@LinkCreature:54#260#Feenberührte Lithikumas} im westlichen Feental.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss Eurer Mission bei Lashada vom Außenposten von Arcanum.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1009">
+        <Page social="5">Eine schwierige Mission, ohne Frage. Glückwunsch zu ihrem erfolgreichen Abschluss. Jetzt kann das Feendickicht wieder in seiner alten Pracht erstrahlen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1009">
+        <Page social="0">Feenberührte Lithikumas sind gefährlich. Seid also bitte vorsichtig!&lt;BR&gt;&lt;BR&gt;Sobald Ihr Eure Mission beendet habt, kommt wieder zu mir wegen Eurer Belohnung.</Page>
+    </Text>
+</QuestDialog>

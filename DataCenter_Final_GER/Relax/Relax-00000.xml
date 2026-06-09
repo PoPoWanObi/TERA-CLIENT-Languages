@@ -1,0 +1,88 @@
+<Relax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Relax Relax.xsd" xmlns="https://vezel.dev/novadrop/dc/Relax">
+    <BonfireList>
+        <Bonfire id="1" despawnEffectId="50169" despawnDuration="2000" despawnStartTime="0" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="15" meshName="Etc.SM.Brazier_SM" particleEffectName_Strong="BG_FX_0.CampFire.CampFire00_PS" particleEffectName_Weak="BG_FX_0.CampFire.CampFire00weak_PS" soundStrong="PC_Skill.AbnormalCUE.RelaxFire_00Cue" soundWeak="PC_Skill.AbnormalCUE.RelaxFire_01Cue" visible="true" />
+        <Bonfire id="2" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="0" effectMoveSpeed="30" effectRadius="0" effectStartHeight="20" meshName="" particleEffectName_Strong="FX_A.PS.A_0064_PS" particleEffectName_Weak="" visible="false" />
+        <Bonfire id="3" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="15" meshName="Etc.SM.Brazier_SM" particleEffectName_Strong="FX_A.PS.A_0064_PS" particleEffectName_Weak="FX_A.PS.A_0169_PS" visible="true" />
+        <Bonfire id="4" boundaryHeight="200" boundaryRadius="250" collisionCylinderHeight="10" collisionCylinderRadius="0" effectMoveSpeed="30" effectRadius="0" effectStartHeight="0" meshName="" particleEffectName_Strong="" particleEffectName_Weak="" visible="false" />
+        <Bonfire id="5" boundaryHeight="100" boundaryRadius="200" collisionCylinderHeight="10" collisionCylinderRadius="0" effectMoveSpeed="30" effectRadius="0" effectStartHeight="0" meshName="" particleEffectName_Strong="" particleEffectName_Weak="" visible="false" />
+        <Bonfire id="6" despawnEffectId="50169" despawnDuration="2000" despawnStartTime="0" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="1" meshName="Etc.SM.Brazier_Xmas_SM" particleEffectName_Strong="BG_FX_C_HotFix_1201.PS.NPC_CandleLight_001_PS" particleEffectName_Weak="BG_FX_C_HotFix_1201.PS.NPC_CandleLight_001_PS" soundStrong="PC_Skill.AbnormalCUE.RelaxFire_00Cue" soundWeak="PC_Skill.AbnormalCUE.RelaxFire_01Cue" visible="true" />
+        <Bonfire id="7" despawnEffectId="50169" despawnDuration="2000" despawnStartTime="0" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="1" meshName="" particleEffectName_Strong="" particleEffectName_Weak="" soundStrong="PC_Skill.AbnormalCUE.RelaxFire_00Cue" soundWeak="PC_Skill.AbnormalCUE.RelaxFire_01Cue" visible="false" />
+        <Bonfire id="8" despawnEffectId="50169" despawnDuration="2000" despawnStartTime="0" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="15" meshName="Etc.sm.Brazier_blue_SM" particleEffectName_Strong="FX_F_hotfix_120820.PS.F_brazier001_blue_PS" particleEffectName_Weak="FX_F_hotfix_120820.PS.F_brazier001_Death_blue_PS" soundStrong="PC_Skill.AbnormalCUE.RelaxFire_00Cue" soundWeak="PC_Skill.AbnormalCUE.RelaxFire_01Cue" visible="true" />
+        <Bonfire id="9" despawnEffectId="50169" despawnDuration="2000" despawnStartTime="0" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="15" meshName="Etc.sm.Brazier_violet_SM" particleEffectName_Strong="FX_F_hotfix_120820.PS.F_brazier002_violet_PS" particleEffectName_Weak="FX_F_hotfix_120820.PS.F_brazier002_Death_violet_PS" soundStrong="PC_Skill.AbnormalCUE.RelaxFire_00Cue" soundWeak="PC_Skill.AbnormalCUE.RelaxFire_01Cue" visible="true" />
+        <Bonfire id="10" boundaryHeight="200" boundaryRadius="250" collisionCylinderHeight="100" collisionCylinderRadius="100" effectMoveSpeed="30" effectRadius="0" effectStartHeight="0" fixedEffectId="80031" meshName="Etc.sm.FV_SUM_FlameHolder_SM" particleEffectName_Strong="FX_H_HotFix_130405.PS.H_001_ps" particleEffectName_Weak="FX_H_HotFix_130405.PS.H_001_ps" visible="false" />
+        <Bonfire id="11" boundaryHeight="100" boundaryRadius="300" collisionCylinderHeight="10" collisionCylinderRadius="10" effectMoveSpeed="30" effectRadius="2" effectStartHeight="15" meshName="Etc.SM.Brazier_SM" particleEffectName_Strong="BG_FX_0.CampFire.CampFire00_PS" particleEffectName_Weak="BG_FX_0.CampFire.CampFire00weak_PS" visible="true" />
+        <Bonfire id="12" boundaryHeight="500" boundaryRadius="600" collisionCylinderHeight="250" collisionCylinderRadius="30" effectMoveSpeed="30" effectRadius="0" effectStartHeight="0" meshName="" particleEffectName_Strong="" particleEffectName_Weak="" visible="false" />
+    </BonfireList>
+    <CharmList>
+        <Charm id="50100" kind="90000" time="0" charmEffectId="0" targetEffectId="0" />
+        <Charm id="50200" kind="90001" time="0" charmEffectId="0" targetEffectId="0" />
+        <Charm id="50300" kind="90002" time="0" charmEffectId="0" targetEffectId="0" />
+        <Charm id="51100" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51110" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51120" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51130" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51140" kind="4" time="900000" charmEffectId="50170" targetEffectId="80039" />
+        <Charm id="51200" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51210" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51220" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51230" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51300" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51310" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51320" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51330" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51400" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51410" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51420" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="51430" kind="4" time="900000" charmEffectId="50170" targetEffectId="10045001" />
+        <Charm id="52100" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52110" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52120" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52130" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52140" kind="5" time="900000" charmEffectId="0" targetEffectId="0" />
+        <Charm id="52200" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52210" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52220" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52230" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52300" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52310" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52320" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52330" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52400" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52410" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52420" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52430" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52500" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52510" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52520" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52530" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52600" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52610" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52620" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52630" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52700" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52710" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52720" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="52730" kind="5" time="900000" charmEffectId="50170" targetEffectId="500245" />
+        <Charm id="53100" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53110" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53120" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53130" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53200" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53210" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53220" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53230" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53300" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53310" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53320" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53330" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53400" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53410" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53420" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53430" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53440" kind="6" time="900000" charmEffectId="0" targetEffectId="0" />
+        <Charm id="53500" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53510" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53520" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+        <Charm id="53530" kind="6" time="900000" charmEffectId="50170" targetEffectId="50171" />
+    </CharmList>
+</Relax>

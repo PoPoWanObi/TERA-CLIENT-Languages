@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1013">
+        <Page social="4">Avez-vous remarqué combien ces créatures sont perturbées par les jeunes arbres des fées?&amp;nbsp; Je pense que la magie des fées doit être toxique pour elles. C'est peut-être pour ça que les argons ont voulu détruire le Taillis de Morteseaux!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai vraiment peur que des {@LinkCreature:47#2003#gulas contaminés} viennent arracher ces jeunes pousses. Vous devriez peut-être déraciner les gulas avant que ça ne se produise. Allez ensuite voir Rozaline à la {@Rgn:47007$$Station de recherche de la Destruction}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1004">
+        <Page social="4">Moins il y aura de gulas, plus il y aura d'arbres. Bravo, &lt;PCNAME&gt;. Restez dans les parages, on vous trouvera d'autres missions.</Page>
+    </Text>
+</QuestDialog>

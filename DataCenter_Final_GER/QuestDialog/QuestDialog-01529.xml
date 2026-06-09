@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="4">Die Argonen verstärken ihre Aktivitäten im {@Rgn:50004}. Wenn sie ihre verlorenen Truppen regenerieren können, sind wir erledigt.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} ist vor Ort. Ihr müsst ihn unterstützen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="4">Einige Argonen wurden für den Kampf geschaffen, andere, wie die Suulvirdrescher, unterstützen die argonische Kriegsmaschine durch den Abbau von Iterisscherben.&lt;BR&gt;&lt;BR&gt;Wenn wir diese Versorgung unterbinden, kommt der ganze Rest ins Wanken.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1016">
+        <Page social="6">Größere Scherben habe ich noch nie gesehen. Gute Arbeit.&lt;BR&gt;&lt;BR&gt;Die können wir gut gebrauchen. Vielen Dank.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" villagerId="1016">
+        <Page social="0">Ihr müsst die Suulvirdrescher ausschalten, um an die Scherben heranzukommen.</Page>
+    </Text>
+</QuestDialog>

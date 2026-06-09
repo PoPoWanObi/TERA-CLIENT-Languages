@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="1">Wenn ich jemals die Geheimnisse um Noktenium entschlüsseln will, brauche ich Nokteniumerz für meine Forschungen.&lt;BR&gt;&lt;BR&gt;Sammelt Nokteniumerz von den Elementen, die Ihr findet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="0">Ihr habt optimale Proben mitgebracht.&lt;BR&gt;Ich werde sofort mit der Arbeit an ihnen beginnen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Das Erz wird den Orden stärken!</Page>
+    </Text>
+</QuestDialog>

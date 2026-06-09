@@ -1,0 +1,526 @@
+<QuestGroupList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestGroupList QuestGroupList.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestGroupList">
+    <QuestHuntingZoneList>
+        <HuntingZone id="1" kind="solo" name="{@Rgn:1001$$Руинвельд}" step="27" />
+        <HuntingZone id="2" kind="solo" name="{@Rgn:2001$$Дивный лес}" step="3" />
+        <HuntingZone id="3" kind="solo" name="{@Rgn:3001$$Леса Забвения}" step="4" />
+        <HuntingZone id="4" kind="solo" name="{@Rgn:4001$$Фирмаунт}" step="18" />
+        <HuntingZone id="5" kind="solo" name="{@Rgn:5001$$Трясина Туванги}" step="6" />
+        <HuntingZone id="6" kind="solo" name="{@Rgn:6001$$Долина титанов}" step="5" />
+        <HuntingZone id="7" kind="solo" name="{@Rgn:7001$$Небесные холмы}" step="7" />
+        <HuntingZone id="8" kind="solo" name="{@Rgn:8001$$Голодные пещеры}" step="18" />
+        <HuntingZone id="9" kind="solo" name="{@Rgn:9002$$Лабиринт Азарела}" step="10" />
+        <HuntingZone id="10" kind="solo" name="{@Rgn:10001$$Остров Серпентис}" step="18" />
+        <HuntingZone id="11" kind="solo" name="{@Rgn:11005$$Грот пиратов}" step="10" />
+        <HuntingZone id="12" kind="solo" name="{@Rgn:12001$$Остров Мистмур}" step="10" />
+        <HuntingZone id="13" kind="solo" name="{@Rgn:13001$$Остров Зари}" step="1" />
+        <HuntingZone id="15" kind="solo" name="{@Rgn:15001$$Утесы Безумия}" step="8" />
+        <HuntingZone id="16" kind="solo" name="{@Rgn:16001$$Долина Клыка}" step="8" />
+        <HuntingZone id="17" kind="solo" name="{@Rgn:17001$$Ущелье Параанон}" step="8" />
+        <HuntingZone id="18" kind="solo" name="{@Rgn:18001$$Исполинские развалины}" step="12" />
+        <HuntingZone id="19" kind="solo" name="{@Rgn:19001$$Вольноземье}" step="9" />
+        <HuntingZone id="20" kind="solo" name="{@Rgn:20001$$Темные рудники}" step="9" />
+        <HuntingZone id="21" kind="solo" name="{@Rgn:21001$$Утес Василисков}" step="9" />
+        <HuntingZone id="22" kind="solo" name="{@Rgn:22001$$Жуткая академия}" step="11" />
+        <HuntingZone id="23" kind="solo" name="{@Rgn:23001$$Озеро слез}" step="11" />
+        <HuntingZone id="24" kind="solo" name="{@Rgn:24001$$Аурумская дорога}" step="12" />
+        <HuntingZone id="25" kind="solo" name="{@Rgn:25001$$Темный собор}" step="12" />
+        <HuntingZone id="26" kind="solo" name="{@Rgn:26001$$Благословенная впадина}" step="14" />
+        <HuntingZone id="27" kind="solo" name="{@Rgn:27001$$Эссенийский хребет}" step="14" />
+        <HuntingZone id="28" kind="solo" name="{@Rgn:28001$$Гибельный лес}" step="14" />
+        <HuntingZone id="29" kind="solo" name="{@Rgn:29001$$Извечный лес}" step="14" />
+        <HuntingZone id="30" kind="solo" name="{@Rgn:30001$$Убежище Балдера}" step="99" />
+        <HuntingZone id="31" kind="solo" name="{@Rgn:31001$$Предел Бурь}" step="15" />
+        <HuntingZone id="32" kind="solo" name="{@Rgn:32001$$Гора Тираннас}" step="15" />
+        <HuntingZone id="33" kind="solo" name="{@Rgn:33001$$Цитадель Пыток}" step="15" />
+        <HuntingZone id="34" kind="solo" name="{@Rgn:34001$$Морозный предел}" step="15" />
+        <HuntingZone id="35" kind="solo" name="{@Rgn:35001$$Вирмово ущелье}" step="22" />
+        <HuntingZone id="36" kind="solo" name="{@Rgn:36001$$Тор-Эксул}" step="22" />
+        <HuntingZone id="37" kind="solo" name="{@Rgn:37011$$Склеп Рока}" step="22" />
+        <HuntingZone id="38" kind="solo" name="{@Rgn:38001$$Каньон Сиенна}" step="22" />
+        <HuntingZone id="39" kind="solo" name="{@Rgn:39001$$Арахнея}" step="17" />
+        <HuntingZone id="40" kind="solo" name="{@Rgn:40001$$Зона карантина}" step="17" />
+        <HuntingZone id="41" kind="solo" name="{@Rgn:41001$$Свирепая долина}" step="17" />
+        <HuntingZone id="42" kind="solo" name="{@Rgn:42001$$Храм Дагона}" step="17" />
+        <HuntingZone id="43" kind="solo" name="{@Rgn:43001$$Катуулрах}" step="99" />
+        <HuntingZone id="44" kind="solo" name="{@Rgn:44001$$Эбеновая Утроба}" step="26" />
+        <HuntingZone id="45" kind="solo" name="{@Rgn:45001$$Питомник аргонов}" step="22" />
+        <HuntingZone id="46" kind="solo" name="{@Rgn:46001$$Три Башни}" step="22" />
+        <HuntingZone id="47" kind="solo" name="{@Rgn:47001$$Лес Тиркай}" step="22" />
+        <HuntingZone id="48" kind="solo" name="{@Rgn:48001$$Хановарские предместья}" step="26" />
+        <HuntingZone id="49" kind="solo" name="{@Rgn:49001$$Аргония}" step="26" />
+        <HuntingZone id="50" kind="solo" name="{@Rgn:50001$$Гранаркус}" step="26" />
+        <HuntingZone id="51" kind="solo" name="{@Rgn:51001$$Долина пиков}" step="24" />
+        <HuntingZone id="52" kind="solo" name="{@Rgn:52001$$Долина Проклятых}" step="24" />
+        <HuntingZone id="53" kind="solo" name="{@Rgn:53001$$Лабиринт Ужаса}" step="24" />
+        <HuntingZone id="54" kind="solo" name="{@Rgn:54001$$Силивуд}" step="21" />
+        <HuntingZone id="55" kind="solo" name="{@Rgn:55001$$Дрожащий лес}" step="21" />
+        <HuntingZone id="56" kind="solo" name="{@Rgn:56001$$Шепчущие леса}" step="21" />
+        <HuntingZone id="57" kind="solo" name="{@Rgn:57001$$Амена-Кватла}" step="21" />
+        <HuntingZone id="58" name="{@Rgn:58001$$Балдерон}" step="99" />
+        <HuntingZone id="59" name="{@Rgn:59001$$Кресцентия}" step="99" />
+        <HuntingZone id="60" name="{@Rgn:60001$$Деревня лесорубов}" step="99" />
+        <HuntingZone id="61" name="{@Rgn:61001$$Кастаника}" step="99" />
+        <HuntingZone id="62" name="{@Rgn:62001$$Гавань Головорезов}" step="99" />
+        <HuntingZone id="63" kind="solo" name="{@Rgn:63001$$Велика}" step="2" />
+        <HuntingZone id="64" name="{@Rgn:64001$$Заброшенный лагерь}" step="99" />
+        <HuntingZone id="65" name="{@Rgn:65001$$Чебика}" step="99" />
+        <HuntingZone id="66" name="{@Rgn:66001$$Тулуфан}" step="99" />
+        <HuntingZone id="67" name="{@Rgn:67001$$Пополион}" step="99" />
+        <HuntingZone id="68" name="{@Rgn:68001$$Пора-Элину}" step="99" />
+        <HuntingZone id="69" name="{@Rgn:69001$$Тралион}" step="99" />
+        <HuntingZone id="70" name="{@Rgn:70001$$Трия}" step="99" />
+        <HuntingZone id="71" name="{@Rgn:71001$$Неприступный бастион}" step="99" />
+        <HuntingZone id="72" name="{@Rgn:72001$$Аллемантея}" step="13" />
+        <HuntingZone id="73" name="{@Rgn:73001$$Акарум}" step="99" />
+        <HuntingZone id="74" name="{@Rgn:74001$$Эленея}" step="99" />
+        <HuntingZone id="75" name="{@Rgn:75001$$Фронтера}" step="99" />
+        <HuntingZone id="76" name="{@Rgn:76001$$Канстрия}" step="99" />
+        <HuntingZone id="77" name="{@Rgn:77001$$Аванпост следопытов}" step="99" />
+        <HuntingZone id="78" name="{@Rgn:78001$$Зульфикарская крепость}" step="99" />
+        <HuntingZone id="79" name="{@Rgn:79001$$Хабере}" step="99" />
+        <HuntingZone id="80" name="{@Rgn:80001$$Дрэгонфолл}" step="99" />
+        <HuntingZone id="81" name="{@Rgn:81001$$Скитера-Фэй}" step="99" />
+        <HuntingZone id="83" name="{@Rgn:83001$$Блеклый камень}" step="99" />
+        <HuntingZone id="84" name="{@Rgn:84001$$Кайатор}" step="20" />
+        <HuntingZone id="85" name="{@Rgn:85001$$Убежище Даварна}" step="99" />
+        <HuntingZone id="87" name="{@Rgn:87001$$Пепельная надежда}" step="99" />
+        <HuntingZone id="100" name="Помощь в ремесле" step="99" />
+        <HuntingZone id="101" name="Ваша помощь в ремесле" step="99" />
+        <HuntingZone id="102" name="{@Rgn:102001$$Заснеженная равнина}" step="99" />
+        <HuntingZone id="111" name="{@Rgn:111$$Колизей}" step="99" />
+        <HuntingZone id="112" name="{@Rgn:112$$Каньон Фрейвинд}" step="99" />
+        <HuntingZone id="113" name="{@Rgn:113$$Небесная Арена}" step="99" />
+        <HuntingZone id="114" name="{@Rgn:114$$Акраданская база (старая)}" step="99" />
+        <HuntingZone id="115" name="{@Rgn:115$$Небесная Арена}" step="99" />
+        <HuntingZone id="116" name="{@Rgn:116$$Твердыня корсаров}" step="99" />
+        <HuntingZone id="117" name="{@Rgn:117$$Кумасшествие}" step="99" />
+        <HuntingZone id="121" kind="solo" name="Территория Торговцев" step="99" />
+        <HuntingZone id="122" kind="solo" name="Территория Союза Просвещенных" step="99" />
+        <HuntingZone id="123" kind="solo" name="Территория Железного Ордена" step="99" />
+        <HuntingZone id="151" kind="solo" name="{@Rgn:50001$$Площадка для исследования ноктиния}" step="99" />
+        <HuntingZone id="172" kind="solo" name="{@Rgn:172001$$Мьюсу-Краал}" step="27" />
+        <HuntingZone id="181" kind="solo" name="{@Rgn:181001$$Экс-Прима}" step="30" />
+        <HuntingZone id="182" kind="solo" name="{@Rgn:182001$$Долина Источников}" step="28" />
+        <HuntingZone id="183" kind="solo" name="{@Rgn:183002$$Верхний Дозор}" step="29" />
+        <HuntingZone id="191" kind="solo" name="{@Rgn:19101$$Аркс-Умбра}" step="31" />
+        <HuntingZone id="248" kind="solo" name="{@Rgn:48001$$Хановарские предместья}" step="26" />
+        <HuntingZone id="249" kind="solo" name="{@Rgn:49001$$Аргония}" step="26" />
+        <HuntingZone id="250" kind="solo" name="{@Rgn:50001$$Гранаркус}" step="26" />
+        <HuntingZone id="260" name="{@Rgn:260$$Арена}" step="99" />
+        <HuntingZone id="261" name="{@Rgn:261$$Альянс}" step="99" />
+        <HuntingZone id="291" name="{@Rgn:291$$Арена}" step="99" />
+        <HuntingZone id="401" kind="solo" name="{@Rgn:9001001$$Подземелье Велики}" step="99" />
+        <HuntingZone id="402" kind="solo" name="{@Rgn:9002001$$Подземелье Блаженного озера}" step="14" />
+        <HuntingZone id="403" kind="solo" name="{@Rgn:9003001$$Подземелье Фирмаунта}" step="18" />
+        <HuntingZone id="404" kind="solo" name="{@Rgn:9004001$$Подземелье Нашествия льда}" step="24" />
+        <HuntingZone id="405" kind="solo" name="{@Rgn:9005001$$Подземелье Двух твердынь}" step="26" />
+        <HuntingZone id="406" kind="solo" name="{@Rgn:9006001$$Подземелье Трона Кошмаров}" step="15" />
+        <HuntingZone id="407" kind="solo" name="{@Rgn:9007001$$Под маской - часть 1}" step="17" />
+        <HuntingZone id="408" kind="solo" name="{@Rgn:9008001$$Под маской - часть 2}" step="17" />
+        <HuntingZone id="411" kind="solo" name="{@Rgn:9011001$$Мастерская Легендарного Кузнеца}" step="22" />
+        <HuntingZone id="412" kind="solo" name="{@Rgn:9012001$$Шпили Трех Башен}" step="22" />
+        <HuntingZone id="413" kind="solo" name="{@Rgn:9013001$$Шпиль Циазмов}" step="22" />
+        <HuntingZone id="414" kind="solo" name="{@Rgn:9014001$$Хановарская схватка}" step="22" />
+        <HuntingZone id="415" kind="solo" name="Пролог" step="22" />
+        <HuntingZone id="416" kind="solo" name="Пролог" step="22" />
+        <HuntingZone id="417" name="{@Rgn:9017001$$Солнечный Маяк}" step="99" />
+        <HuntingZone id="418" name="{@Rgn:9018001$$Тоннель Фронтового подполья}" step="99" />
+        <HuntingZone id="419" kind="solo" name="{@Rgn:9019001$$Небесные холмы - задание}" step="7" />
+        <HuntingZone id="420" kind="solo" name="{@Rgn:9020001$$Подземелье Долины титанов}" step="5" />
+        <HuntingZone id="421" kind="solo" name="{@Rgn:9021001$$Подземелье Темных рудников}" step="9" />
+        <HuntingZone id="422" kind="solo" name="{@Rgn:9022001$$Подземелье Исполинских развалин}" step="12" />
+        <HuntingZone id="423" kind="solo" name="{@Rgn:9023001$$Подземелье Лабиринта Азарела}" step="10" />
+        <HuntingZone id="424" kind="solo" name="{@Rgn:9024001$$Церковь Капримы}" step="10" />
+        <HuntingZone id="425" kind="solo" name="{@Rgn:9025001$$Храм Балдера}" step="10" />
+        <HuntingZone id="426" kind="solo" name="{@Rgn:9026001$$Аргонские Залы}" step="26" />
+        <HuntingZone id="427" kind="solo" name="{@Rgn:9027001$$Обитель Манайи}" step="26" />
+        <HuntingZone id="436" kind="solo" name="{@Rgn:9036001$$Остров Зари (Караша)}" step="1" />
+        <HuntingZone id="437" kind="solo" name="{@Rgn:9036001$$Остров Зари (Защита)}" step="1" />
+        <HuntingZone id="438" kind="solo" name="{@Rgn:9038001$$Подземелье Острова Мистмур}" step="10" />
+        <HuntingZone id="439" kind="solo" name="{@Rgn:9039001$$Подземелье Утесов Безумия}" step="8" />
+        <HuntingZone id="443" kind="solo" name="Замок Чудес (сложно)" step="26" />
+        <HuntingZone id="450" kind="solo" name="{@Rgn:9050007$$Край Разлома (сложно)}" step="26" />
+        <HuntingZone id="453" kind="solo" name="{@Rgn:9053001$$Ущелье Кеззела}" step="26" />
+        <HuntingZone id="471" kind="solo" name="{@Rgn:9071001$$Гробница Некроманта}" step="16" />
+        <HuntingZone id="472" kind="solo" name="{@Rgn:9072001$$Золотой Лабиринт}" step="16" />
+        <HuntingZone id="473" kind="solo" name="{@Rgn:9073001$$Эбеновая Башня}" step="16" />
+        <HuntingZone id="474" kind="solo" name="{@Rgn:9074001$$Подземелье Проклятых зверей}" step="21" />
+        <HuntingZone id="475" kind="solo" name="{@Rgn:9075001$$Гнездо Келсаика}" step="22" />
+        <HuntingZone id="476" kind="solo" name="{@Rgn:9076001$$Лабиринт Ужаса}" step="23" />
+        <HuntingZone id="477" kind="solo" name="{@Rgn:9077001$$Пустыня Бату}" step="23" />
+        <HuntingZone id="478" kind="solo" name="{@Rgn:9078001$$Пик Сурьяти}" step="9" />
+        <HuntingZone id="479" kind="solo" name="{@Rgn:9079001$$Подъем Сараваша}" step="99" />
+        <HuntingZone id="480" kind="solo" name="{@Rgn:9080001$$Знак Адстринго}" step="99" />
+        <HuntingZone id="481" kind="solo" name="{@Rgn:9081001$$Тренировочная площадка}" step="23" />
+        <HuntingZone id="482" kind="solo" name="{@Rgn:9082001$$Храм Безрассудства}" step="23" />
+        <HuntingZone id="487" kind="solo" name="{@Rgn:9087001$$Бастион Лока}" step="6" />
+        <HuntingZone id="488" kind="solo" name="{@Rgn:9088001$$Зловещий Особняк}" step="7" />
+        <HuntingZone id="489" kind="solo" name="{@Rgn:9089001$$Убежище Культистов}" step="12" />
+        <HuntingZone id="490" kind="solo" name="{@Rgn:9090001$$Подземелье Дивного леса}" step="3" />
+        <HuntingZone id="491" kind="solo" name="{@Rgn:9091001$$Подземелье Жуткой академии}" step="11" />
+        <HuntingZone id="492" kind="solo" name="{@Rgn:9092001$$Подземелье Храма Дагона}" step="17" />
+        <HuntingZone id="493" kind="solo" name="{@Rgn:9093001$$Убежище Акаши}" step="17" />
+        <HuntingZone id="494" kind="solo" name="{@Rgn:9094001$$Небесный сад Салерона}" step="22" />
+        <HuntingZone id="496" kind="solo" name="{@Rgn:9096001$$Галерея Сирджуки}" step="22" />
+        <HuntingZone id="528" kind="solo" name="{@Rgn:84017$$Штаб Кайатора}" step="20" />
+        <HuntingZone id="601" kind="solo" name="Инвалеско" step="99" />
+        <HuntingZone id="602" kind="solo" name="{@Rgn:78001$$Зульфикарская крепость}" step="99" />
+        <HuntingZone id="603" kind="solo" name="{@Rgn:76001$$Канстрия}" step="99" />
+        <HuntingZone id="604" kind="solo" name="{@Rgn:71001$$Бастион}" step="99" />
+        <HuntingZone id="605" kind="solo" name="Длань Велики" step="99" />
+        <HuntingZone id="606" kind="solo" name="Агнитор" step="99" />
+        <HuntingZone id="607" kind="solo" name="Институт Единой теории" step="99" />
+        <HuntingZone id="608" kind="solo" name="Фонд Джакса" step="99" />
+        <HuntingZone id="711" kind="solo" name="{@Rgn:9711001$$Абсцесс}" step="26" />
+        <HuntingZone id="724" kind="solo" name="{@Rgn:9724001$$Церковь Капримы}" step="10" />
+        <HuntingZone id="725" kind="solo" name="{@Rgn:9725001$$Храм Балдера}" step="10" />
+        <HuntingZone id="726" kind="solo" name="{@Rgn:9726001$$Аргонские Залы}" step="26" />
+        <HuntingZone id="727" kind="solo" name="{@Rgn:9727001$$Обитель Манайи}" step="26" />
+        <HuntingZone id="743" kind="solo" name="Замок Чудес" step="26" />
+        <HuntingZone id="750" kind="solo" name="{@Rgn:9050006$$Край Разлома}" step="26" />
+        <HuntingZone id="766" kind="solo" name="Погибший Флот" step="26" />
+        <HuntingZone id="773" kind="solo" name="{@Rgn:9773001$$Эбеновая Башня (сложно)}" step="16" />
+        <HuntingZone id="775" kind="solo" name="{@Rgn:9775001$$Гнездо Келсаика (сложно)}" step="22" />
+        <HuntingZone id="776" kind="solo" name="{@Rgn:9776001$$Лабиринт Ужаса (сложно)}" step="23" />
+        <HuntingZone id="777" kind="solo" name="Каналы" step="26" />
+        <HuntingZone id="793" kind="solo" name="{@Rgn:9793001$$Убежище Акаши (сложно)}" step="17" />
+        <HuntingZone id="801" kind="solo" name="{@Rgn:9801001$$Нексус: Грань Миров}" step="17" />
+        <HuntingZone id="808" kind="solo" name="{@Rgn:9808001$$Арсенал Сабекс}" step="28" />
+        <HuntingZone id="809" kind="solo" name="{@Rgn:9809001$$Мясницкие Катакомбы}" step="31" />
+        <HuntingZone id="810" kind="solo" name="{@Rgn:9810001$$Тюрьма Лакана}" step="26" />
+        <HuntingZone id="811" kind="solo" name="{@Rgn:9811001$$Абсцесс}" step="26" />
+        <HuntingZone id="813" kind="solo" name="Поляна Древней" step="26" />
+        <HuntingZone id="814" kind="solo" name="{@Rgn:9814001$$Сокровищница Орина}" step="97" />
+        <HuntingZone id="818" kind="solo" name="{@Rgn:818001$$Свод Энергии}" step="99" />
+        <HuntingZone id="821" kind="solo" name="Зал Дуриона" step="98" />
+        <HuntingZone id="822" kind="solo" name="{@Rgn:9822001$$Бастион Лока}" step="96" />
+        <HuntingZone id="823" kind="solo" name="Крейсер &quot;Бесстрашный&quot;" step="95" />
+        <HuntingZone id="825" kind="solo" name="Храм Балдера (1 игрок)" step="26" />
+        <HuntingZone id="871" kind="solo" name="{@Rgn:9871001$$Гробница Некроманта (1 игрок)}" step="16" />
+        <HuntingZone id="872" kind="solo" name="{@Rgn:9872001$$Золотой Лабиринт (1 игрок)}" step="16" />
+        <HuntingZone id="873" kind="solo" name="{@Rgn:9873001$$Эбеновая Башня (1 игрок)}" step="16" />
+        <HuntingZone id="887" kind="solo" name="{@Rgn:9887001$$Бастион Лока (1 игрок)}" step="6" />
+        <HuntingZone id="888" kind="solo" name="{@Rgn:9888001$$Зловещий Особняк (1 игрок)}" step="7" />
+        <HuntingZone id="889" kind="solo" name="{@Rgn:9889001$$Убежище Культистов (1 игрок)}" step="12" />
+        <HuntingZone id="901" kind="solo" name="Белликариум" step="99" />
+        <HuntingZone id="979" kind="solo" name="{@Rgn:9979001$$Логово Сараваша}" step="26" />
+        <HuntingZone id="1022" kind="solo" name="Нексус" step="23" />
+        <HuntingZone id="8000" kind="solo" name="Письмо Авангарда Валькионской Федерации" step="98" />
+        <HuntingZone id="9999" kind="solo" name="Авангард" step="98" />
+    </QuestHuntingZoneList>
+    <StoryGroupList>
+        <StoryGroup id="0" name="Пролог">
+            <Quest id="41501" />
+            <Quest id="41502" />
+            <Quest id="41503" />
+            <Quest id="41504" />
+            <Quest id="41505" />
+            <Quest id="41506" />
+            <Quest id="41507" />
+            <Quest id="41508" />
+            <Quest id="41510" />
+        </StoryGroup>
+        <StoryGroup id="1" name="Мир TERA">
+            <Quest id="1301" />
+            <Quest id="1304" />
+            <Quest id="1371" />
+            <Quest id="1372" />
+            <Quest id="1373" />
+            <Quest id="1374" />
+            <Quest id="1375" />
+            <Quest id="1376" />
+            <Quest id="1377" />
+            <Quest id="1378" />
+            <Quest id="1379" />
+            <Quest id="1303" />
+            <Quest id="1329" />
+            <Quest id="1384" />
+            <Quest id="1382" />
+            <Quest id="1383" />
+            <Quest id="1331" />
+            <Quest id="1305" />
+        </StoryGroup>
+        <StoryGroup id="2" name="В Ущелье Скверны">
+            <Quest id="1311" />
+            <Quest id="1309" />
+            <Quest id="1313" />
+            <Quest id="1350" />
+            <Quest id="1315" />
+            <Quest id="1316" />
+            <Quest id="1317" />
+        </StoryGroup>
+        <StoryGroup id="3" name="Валькион ждет вас">
+            <Quest id="6305" />
+            <Quest id="201" />
+            <Quest id="202" />
+            <Quest id="203" />
+            <Quest id="301" />
+            <Quest id="302" />
+        </StoryGroup>
+        <StoryGroup id="4" name="Заговор культистов">
+            <Quest id="601" />
+            <Quest id="602" />
+            <Quest id="603" />
+            <Quest id="604" />
+            <Quest id="605" />
+            <Quest id="701" />
+            <Quest id="702" />
+            <Quest id="704" />
+        </StoryGroup>
+        <StoryGroup id="5" name="Эпидемия помешательства">
+            <Quest id="1501" />
+            <Quest id="1502" />
+            <Quest id="1503" />
+            <Quest id="1504" />
+            <Quest id="1505" />
+        </StoryGroup>
+        <StoryGroup id="6" name="Призрачная угроза">
+            <Quest id="2001" />
+            <Quest id="2002" />
+            <Quest id="2003" />
+            <Quest id="901" />
+            <Quest id="902" />
+            <Quest id="903" />
+            <Quest id="904" />
+        </StoryGroup>
+        <StoryGroup id="7" name="Королевство попори">
+            <Quest id="2301" />
+            <Quest id="2302" />
+            <Quest id="2303" />
+            <Quest id="2304" />
+        </StoryGroup>
+        <StoryGroup id="8" name="Призрак Самаэля">
+            <Quest id="2501" />
+            <Quest id="2502" />
+            <Quest id="2503" />
+            <Quest id="2504" />
+            <Quest id="2505" />
+        </StoryGroup>
+        <StoryGroup id="9" name="Аллемантея">
+            <Quest id="2701" />
+            <Quest id="2702" />
+            <Quest id="3101" />
+            <Quest id="3102" />
+            <Quest id="3103" />
+            <Quest id="4001" />
+            <Quest id="3901" />
+            <Quest id="801" />
+            <Quest id="401" />
+            <Quest id="804" />
+            <Quest id="49301" />
+            <Quest id="49302" />
+        </StoryGroup>
+        <StoryGroup id="10" name="Следы Богов">
+            <Quest id="2801" />
+            <Quest id="2802" />
+            <Quest id="3201" />
+        </StoryGroup>
+        <StoryGroup id="11" name="В дикие джунгли">
+            <Quest id="4201" />
+            <Quest id="4101" />
+        </StoryGroup>
+        <StoryGroup id="12" name="Кастаника">
+            <Quest id="802" />
+            <Quest id="803" />
+            <Quest id="402" />
+        </StoryGroup>
+        <StoryGroup id="13" name="Опасность в Кайаторе">
+            <Quest id="5501" />
+            <Quest id="5502" />
+            <Quest id="5601" />
+            <Quest id="5602" />
+        </StoryGroup>
+        <StoryGroup id="14" name="Разрушающий зверь">
+            <Quest id="3701" />
+            <Quest id="3702" />
+            <Quest id="5201" />
+            <Quest id="5202" />
+            <Quest id="5203" />
+            <Quest id="5204" />
+            <Quest id="5205" />
+        </StoryGroup>
+        <StoryGroup id="16" name="Аргонская война">
+            <Quest id="4701" />
+            <Quest id="4702" />
+            <Quest id="4501" />
+            <Quest id="4601" />
+            <Quest id="4602" />
+            <Quest id="4801" />
+            <Quest id="4802" />
+            <Quest id="4901" />
+            <Quest id="4902" />
+            <Quest id="5001" />
+            <Quest id="5002" />
+        </StoryGroup>
+        <StoryGroup id="999" name="События">
+            <Quest id="8402" />
+            <Quest id="8403" />
+        </StoryGroup>
+        <StoryGroup id="601" name="Оружие аватары">
+            <Quest id="361" />
+        </StoryGroup>
+        <StoryGroup id="602" name="Оружие аватары">
+            <Quest id="362" />
+        </StoryGroup>
+        <StoryGroup id="603" name="Оружие аватары">
+            <Quest id="363" />
+        </StoryGroup>
+        <StoryGroup id="604" name="Оружие аватары">
+            <Quest id="364" />
+        </StoryGroup>
+        <StoryGroup id="605" name="Оружие аватары">
+            <Quest id="365" />
+        </StoryGroup>
+        <StoryGroup id="606" name="Оружие аватары">
+            <Quest id="366" />
+        </StoryGroup>
+        <StoryGroup id="607" name="Оружие аватары">
+            <Quest id="367" />
+        </StoryGroup>
+        <StoryGroup id="608" name="Оружие аватары">
+            <Quest id="368" />
+        </StoryGroup>
+        <StoryGroup id="609" name="Оружие аватары">
+            <Quest id="369" />
+        </StoryGroup>
+        <StoryGroup id="17" name="Убежище Балдера">
+            <Quest id="3001" />
+            <Quest id="3002" />
+            <Quest id="3003" />
+            <Quest id="3004" />
+            <Quest id="3005" />
+        </StoryGroup>
+        <StoryGroup id="18" name="Введение в ноктиний">
+            <Quest id="15101" />
+            <Quest id="15102" />
+            <Quest id="15103" />
+        </StoryGroup>
+        <StoryGroup id="19" name="Авангард">
+            <Quest id="17201" />
+            <Quest id="17202" />
+            <Quest id="17203" />
+            <Quest id="17204" />
+            <Quest id="17205" />
+            <Quest id="17206" />
+            <Quest id="17207" />
+        </StoryGroup>
+        <StoryGroup id="20" name="Дикарский Предел">
+            <Quest id="17208" />
+            <Quest id="17209" />
+            <Quest id="17210" />
+            <Quest id="17211" />
+            <Quest id="17212" />
+            <Quest id="17213" />
+            <Quest id="17214" />
+        </StoryGroup>
+        <StoryGroup id="21" name="Долина Источников">
+            <Quest id="18201" />
+            <Quest id="18202" />
+            <Quest id="18203" />
+            <Quest id="18204" />
+            <Quest id="18205" />
+            <Quest id="18206" />
+            <Quest id="18207" />
+            <Quest id="18208" />
+            <Quest id="18209" />
+            <Quest id="18210" />
+            <Quest id="18211" />
+            <Quest id="18212" />
+        </StoryGroup>
+        <StoryGroup id="22" name="Экс-Прима">
+            <Quest id="18101" />
+            <Quest id="18102" />
+            <Quest id="18103" />
+            <Quest id="18104" />
+            <Quest id="18105" />
+            <Quest id="18106" />
+            <Quest id="18107" />
+            <Quest id="18108" />
+            <Quest id="18109" />
+            <Quest id="18110" />
+            <Quest id="18111" />
+            <Quest id="18112" />
+            <Quest id="18113" />
+            <Quest id="18114" />
+            <Quest id="18115" />
+            <Quest id="18116" />
+            <Quest id="18117" />
+            <Quest id="18118" />
+        </StoryGroup>
+        <StoryGroup id="23" name="Аркс-Умбра">
+            <Quest id="19101" />
+            <Quest id="19102" />
+            <Quest id="19103" />
+            <Quest id="19104" />
+            <Quest id="19105" />
+            <Quest id="19106" />
+            <Quest id="19107" />
+            <Quest id="19108" />
+            <Quest id="19109" />
+            <Quest id="19110" />
+            <Quest id="19111" />
+            <Quest id="19112" />
+        </StoryGroup>
+        <StoryGroup id="7011" name="Праздник солнца">
+            <Quest id="70101" />
+            <Quest id="70102" />
+            <Quest id="70103" />
+            <Quest id="70104" />
+            <Quest id="70105" />
+            <Quest id="70106" />
+            <Quest id="70107" />
+            <Quest id="70108" />
+            <Quest id="70109" />
+        </StoryGroup>
+        <StoryGroup id="7012" name="Кровавый Банкет">
+            <Quest id="70111" />
+            <Quest id="70112" />
+            <Quest id="70113" />
+            <Quest id="70114" />
+        </StoryGroup>
+        <StoryGroup id="7013" name="Пляжная вечеринка">
+            <Quest id="70115" />
+            <Quest id="70116" />
+            <Quest id="70117" />
+            <Quest id="70118" />
+            <Quest id="70119" />
+            <Quest id="70120" />
+            <Quest id="70121" />
+            <Quest id="70122" />
+        </StoryGroup>
+        <StoryGroup id="7021" name="Рутсток">
+            <Quest id="70201" />
+            <Quest id="70202" />
+            <Quest id="70203" />
+            <Quest id="70204" />
+            <Quest id="70205" />
+            <Quest id="70206" />
+            <Quest id="70207" />
+            <Quest id="70208" />
+            <Quest id="70209" />
+        </StoryGroup>
+        <StoryGroup id="7022" name="Праздник Пруда">
+            <Quest id="70211" />
+            <Quest id="70212" />
+            <Quest id="70213" />
+            <Quest id="70214" />
+            <Quest id="70215" />
+            <Quest id="70216" />
+            <Quest id="70217" />
+            <Quest id="70218" />
+        </StoryGroup>
+        <StoryGroup id="87" name="Из пепла">
+            <Quest id="8701" />
+            <Quest id="8702" />
+            <Quest id="8703" />
+            <Quest id="8704" />
+            <Quest id="8705" />
+            <Quest id="8706" />
+            <Quest id="8707" />
+            <Quest id="8708" />
+        </StoryGroup>
+        <StoryGroup id="7004" name="Башня Накатам">
+            <Quest id="1099" />
+        </StoryGroup>
+    </StoryGroupList>
+</QuestGroupList>

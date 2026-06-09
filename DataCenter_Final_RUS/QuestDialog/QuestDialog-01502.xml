@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="4">У нас закончились припасы и похоже, что следующий обоз прибудет нескоро. Мы же находимся в окружении.&lt;BR&gt;&lt;BR&gt;Но здесь неподалеку находится дорога, по которой ходят обозы.&lt;BR&gt;&lt;BR&gt;И это не наши обозы.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, отправляйся туда и реквизируй часть припасов армии Тулсы. Силой!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1011">
+        <Page social="4">Эти припасы нам очень помогут. Если они будут продолжать отправлять их, а мы продолжим их отбирать, мы сможем продержаться здесь целую вечность.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1011">
+        <Page social="0">Мне не так чтобы приятно использовать снаряжение ходячих мертвецов, но сейчас не до жиру...</Page>
+    </Text>
+</QuestDialog>

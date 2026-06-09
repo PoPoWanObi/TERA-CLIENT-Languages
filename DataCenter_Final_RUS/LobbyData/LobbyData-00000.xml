@@ -1,0 +1,98 @@
+<LobbyData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/LobbyData LobbyData.xsd" xmlns="https://vezel.dev/novadrop/dc/LobbyData">
+    <ClassScene inWeaponStart="0" outWeaponStart="45">
+        <ChangeClass fadeIn="0.6" fadeOut="0.6" weaponStart="0.1" />
+        <FadeIn fadeIn="0.7" weaponStart="0.1" />
+        <FadeOutToCustomize fadeOut="0.7" fadeOutStart="0.1" />
+    </ClassScene>
+    <CustomizeScene>
+        <FadeIn fadeIn="0.7" />
+        <FadeOut fadeOut="1" fadeOutStart="0.2" />
+    </CustomizeScene>
+    <LogoScene>
+        <Background image="LoadingImages.Loading.LoadingImage91_Tex" />
+    </LogoScene>
+    <RaceScene>
+        <Background image="LoadingImages.Loading.LoadingImage31_Tex" />
+        <Continent id="3000" />
+        <FadeIn fadeIn="0.7" matineeStart="0" uiStart="1.3" />
+        <FadeOut fadeOut="0.7" />
+    </RaceScene>
+    <SelectScene>
+        <Background image="LoadingImages.Loading.LoadingImage31_Tex" />
+        <Continent id="2000" />
+        <FadeIn fadeIn="0.7" uiStart="1.3" />
+        <FadeOutToRace fadeOut="0.7" fadeOutStart="0.1" />
+        <FadeOutToWorld fadeOut="0.7" fadeOutStart="3" />
+        <MapChange dayContinentId="4000" nightContinentId="5000" sunriseHour="7" sunsetHour="18" />
+        <Matinee from="16" to="18" firstFrom="0" firstTo="0.2" />
+    </SelectScene>
+    <ServerScene>
+        <FadeIn fadeIn="0.7" />
+        <Gate flowRate="1.5" minimumShow="0.2" occludeFadeIn="0.7" occludeFadeOut="0.01" occludeStart="0.6" whiteColor="0,0,0" whiteFadeIn="0.2" whiteFadeOut="2" />
+    </ServerScene>
+    <TeleportScene>
+        <Background image="LoadingImages.Loading.LoadingImage42_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage43_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage45_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage46_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage47_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage48_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage49_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage50_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage52_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage53_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage54_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage55_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage56_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage58_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage61_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage62_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage63_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage65_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage66_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage67_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage68_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage69_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage70_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage80_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage81_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage92_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage93_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage94_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage95_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage96_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage97_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage98_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage31_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage71_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage72_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage73_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage74_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage75_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage76_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage77_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage78_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage79_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage31_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage71_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage72_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage73_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage74_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage75_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage76_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage77_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage78_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage79_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage31_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage71_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage72_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage73_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage74_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage75_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage76_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage77_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage78_Tex" />
+        <Background image="LoadingImages.Loading.LoadingImage79_Tex" />
+        <Fade fadeIn="1" fadeOut="1" />
+    </TeleportScene>
+</LobbyData>

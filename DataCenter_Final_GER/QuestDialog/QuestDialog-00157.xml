@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Oh, nein! Ich habe die ganze Zeit gedacht, ich hätte wenigstens noch mein &lt;font color='#660000'&gt;hübsches Schmuckstück&lt;/font&gt;, aber so wie es scheint, haben sie das auch! Es ist mehr wert als alles andere zusammen!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:5#18#Bauba} hat es persönlich bei mir bestellt - die Tuwangi müssen es gestohlen haben, um es zu ihm zu bringen.&lt;BR&gt;&lt;BR&gt;Bitte - entweder bringt den Schmuck zurück oder bringt mir wenigstens die Bezahlung dafür!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Also, ich kann Euch mitteilen, dass ich ab sofort jeglichen Kontakt mit diesen Tuwangikriminellen abbreche. Danke, dass Ihr mein Schmuckstück zurückgeholt habt - jetzt kann ich es wenigstens woanders verkaufen.&lt;BR&gt;&lt;BR&gt;Hier, ich bin gerade nicht flüssig, aber nehmt das hier für Eure Bemühungen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Ich weiß, ich habe Euch um eine Menge gebeten, aber ich bin wirklich auf Eure Hilfe angewiesen.</Page>
+    </Text>
+</QuestDialog>

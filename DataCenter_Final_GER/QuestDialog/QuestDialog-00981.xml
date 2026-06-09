@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Die Nagapiraten überfallen immer wieder die Garnison. Das treibt einen noch zum Wahnsinn! Als ob sie uns hier gar nicht zur Kenntnis nehmen, auch wenn wir noch so bewaffnet sind!&lt;BR&gt;&lt;BR&gt;Aber ein gekonnter Gegenschlag sollte ihnen eine Lektion erteilen. Tötet ein paar {@LinkCreature:31#20#Nagatodesreißer} und sammelt ihre Helme ein. Die hängen wir dann ans Tor! Wenn sie noch so kaltblütig scheinen, das sollte ihnen das Blut so richtig gefrieren.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Wenn ich an die Furcht denke, die diese Helme den verdammten Naga einjagen werden, ist mir ganz warm ums Herz. Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">Habt Ihr die Helme der {@LinkCreature:31#20#Nagatodesreißer}?</Page>
+    </Text>
+</QuestDialog>

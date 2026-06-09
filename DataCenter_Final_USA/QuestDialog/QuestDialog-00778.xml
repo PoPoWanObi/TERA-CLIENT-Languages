@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="5">So, I traded the ore you gathered to an honest-looking castanic trader for some dowsing rods.&lt;BR&gt;&lt;BR&gt;Obviously, cornering the water market in the desert would make me embarrassingly rich. I can live with that.&lt;BR&gt;&lt;BR&gt;Want to help?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1008">
+        <Page social="5">All right. Here are the dowsing rods. They work best in different regions.&lt;BR&gt;&lt;BR&gt;If you find water, we'll be rich!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1008">
+        <Page social="5">You found a large supply? Really? I was beginning to think that trader wasn't so honest.&lt;BR&gt;&lt;BR&gt;Wait...it's deep underground?&lt;BR&gt;&lt;BR&gt;How am I supposed to reach it? Magic? Too costly. Explosives? Too boomy. Giant sand worms?&lt;BR&gt;&lt;BR&gt;...Maybe.</Page>
+    </Text>
+</QuestDialog>

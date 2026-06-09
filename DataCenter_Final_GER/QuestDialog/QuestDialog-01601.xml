@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="4">Die Nekromanten der Mekonari erwecken Schneefeldleichen und Geister wieder zum Leben.&lt;BR&gt;&lt;BR&gt;Diese Untoten, die überall in der Ebene der Verdammten zu sehen sind? Das ist das Werk der Nekromanten.&lt;BR&gt;&lt;BR&gt;Beseitigt diese todesbesessenen Nekromanten und sammelt ihre Nekromantiegeräte ein. Ich möchte mal sehen, wie sie ihre finstere Arbeit ohne ihr Werkzeug verrichten wollen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1047">
+        <Page social="4">Habt Ihr die Nekromantiegeräte dabei?&lt;BR&gt;&lt;BR&gt;Ich schicke sie zur Untersuchung ans Mysterium.&lt;BR&gt;&lt;BR&gt;Vielen Dank, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1047">
+        <Page social="0">Das Besiegen von Thulsas Nekromanten reicht nicht aus, um zu verhindern, dass die Toten wieder zum Leben erweckt werden. &lt;BR&gt;&lt;BR&gt;Es ist einfacher für Thulsa, einen neuen Nekromanten auszubilden, als diese Nekromantiegeräte zu ersetzen!</Page>
+    </Text>
+</QuestDialog>

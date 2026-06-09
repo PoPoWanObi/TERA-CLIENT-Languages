@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">Это ты - новый &lt;PCCLASS:lcase&gt;, верно?&lt;BR&gt;&lt;BR&gt;Хорошо. Мне нужна твоя помощь. У меня закончились материалы для волшебной бумаги, которая сама записывает наши наблюдения, если обе руки заняты.&lt;BR&gt;&lt;BR&gt;Для изготовления бумаги требуется сальная древесина. А ее мы получаем - вернее, отбираем - у лесных стражников и шаманов на горе Блюфист.&lt;BR&gt;&lt;BR&gt;Давай, давай! Принеси мне сальной древесины, и как можно скорее!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Быстрее, чем я ожидала, &lt;PCCLASS:lcase&gt;. Впечатляет.&lt;BR&gt;&lt;BR&gt;Волшебная бумага нужна нам постоянно, так что и сальная древесина всегда пригодится. Помни об этом, когда будешь к нам заглядывать.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1703">
+        <Page social="0">Без волшебной бумаги мои... то есть, "наши" гениальные мысли останутся незаписанными. Поскорее принеси мне древесину.</Page>
+    </Text>
+</QuestDialog>

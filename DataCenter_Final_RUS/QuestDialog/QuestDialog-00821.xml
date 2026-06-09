@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1018">
+        <Page social="5">Вчера на меня напали арахнены. Я смог пробиться и вырваться на волю, но потерял кожаный амулет, который мне оставил мой отец.&lt;BR&gt;&lt;BR&gt;Этот амулет мне очень дорог, и я все бы отдал, чтобы вернуть его. Может быть, ты сможешь отобрать его у {@LinkCreature:29#2021#Арахненов-листорезов}? Даже если ты не найдешь его, я хотя бы буду знать, что они мертвы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1018">
+        <Page social="5">Тебе удалось найти амулет? Нет? Жаль.&lt;BR&gt;&lt;BR&gt;Впрочем, если арахнены мертвы, я и сам могу отправиться на поиски. Спасибо за помощь, &lt;PCNAME&gt;. Семья - это самое главное, и я не посрамлю свой род.</Page>
+    </Text>
+</QuestDialog>

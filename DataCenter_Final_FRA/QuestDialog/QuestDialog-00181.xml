@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0">Isla vous a demandé de tuer Dakarius, un chef des Descendants, et de récupérer tout indice concernant l'emplacement de leur bastion. Vous vous êtes donc {@gender:attelé/attelée} à la tâche et avez mis la main sur des archives mentionnant un téléportail.&lt;BR&gt;&lt;BR&gt;Vous avez emprunté ce téléportail et avez atterri dans l'armurerie du Bastion de Lok... dans les Bois de l'Oubli!&amp;nbsp; Après avoir parlé à plusieurs cultistes, vous avez appris que les Descendants amassaient des armes et de l'énergie en vue de ressusciter Lok en personne!&amp;nbsp; Vous en avez aussitôt informé Isla, qui s'est empressée d'aller consulter Daven.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="4">Nous avons réussi à obtenir quelques informations supplémentaires. Il se trouve que le chef local s'appelle {@LinkCreature:6#7041#Dakarius}. Si vous arrivez à entrer et à vous débarrasser de lui, vous sèmeriez la zizanie... et les autres deviendraient vulnérables.&lt;BR&gt;&lt;BR&gt;Ca pourrait également être l'occasion idéale de recueillir des renseignements sur les Descendants.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bien. Dakarius en est certainement responsable. Une fois que vous l'aurez éliminé, fouillez l'Autel de l'Angoisse. Si Dakarius n'a rien d'utile sur lui, l'autel renferme très certainement tous leurs secrets, je pense en particulier à l'emplacement de leur bastion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="420" prevId="2" villagerId="1002">
+        <Page social="0">Qui êtes-vous?&amp;nbsp; C'est la première fois que je vous vois ici.&lt;BR&gt;&lt;BR&gt;Ah, vous avez pris le téléportail, c'est ça?&amp;nbsp; Ces idiots de la Fédération s'agitent toujours dans tous les sens?&amp;nbsp; Ha ha!&amp;nbsp; Ils n'ont aucune idée que nous sommes dans les Bois de l'Oubli.&lt;BR&gt;&lt;BR&gt;De notre côté, tout va bien. Nous faisons le plein d'armes et de troupes à un rythme record et nos arcanistes sont tout aussi efficaces pour amasser de l'énergie. Je crois bien que nous sommes en avance!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="420" prevId="2" villagerId="1003">
+        <Page social="0">Hé, la bleusaille!&amp;nbsp; Vous en avez mis du temps!&amp;nbsp; Tetra est furieuse!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Et croyez-moi, ce n'est pas une bonne chose. Pourquoi prendre la vie des autres?&amp;nbsp; Votre sang peut tout aussi bien stimuler la magie...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="420" prevId="2" villagerId="1004">
+        <Page social="0">Nos forces sont en train de se rassembler au Bastion de Lok, loin des regards indiscrets, mais nous n'aurons bientôt plus à nous cacher.&lt;BR&gt;&lt;BR&gt;Notre illustre "allié" a tenu parole;&amp;nbsp; nos ennemis sont maintenant vulnérables. Si tout se passe bien, Arcadia sera la première province à sombrer dans le chaos.&lt;BR&gt;&lt;BR&gt;Peut-être nos prières vont-elles enfin finir par être entendues... Lok est sur le point de ressusciter. La gratitude éternelle d'un dieu... que peut-on rêver de mieux?&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="420" prevId="3" villagerId="1005">
+        <Page social="4">Qu'est-ce que c'est que ces déguisements grotesques?&amp;nbsp; Bah, aucune importance. Que font des bleus dans votre genre par ici?&amp;nbsp; Je n'ai jamais croisé votre tronche de cake, ni celle de votre acolyte... cette pauvre fille, celle qui a l'air encore plus bête que vous. La direction va devoir reconsidérer un peu nos critères de recrutement.&lt;NEXTPAGEBUTTON&gt;"Quelle fille?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quoi?&amp;nbsp; Vous n'êtes pas arrivés ensemble?&amp;nbsp; La fille... près du téléportail. Elle a l'air complètement paumée et ne semble pas avoir la moindre idée d'où elle se trouve et de ce qu'on y fait.&lt;BR&gt;&lt;BR&gt;Vous devriez aller l'aider à trouver son poste. Je n'ai pas le temps de jouer les nounous pour deux ahuris!&amp;nbsp; Bon sang, mais que font des pitres de votre espèce dans nos rangs?&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="420" prevId="6" villagerId="1006">
+        <Page social="4">Vous avez mis le temps, et je commençais à m'inquiéter;&amp;nbsp; j'ai donc choisi de vous suivre. Je vous ai {@gender:vu/vue} traverser le téléportail. Cet endroit est incroyable, il doit renfermer des tas de secrets!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Voilà ce que j'ai appris..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ils rassemblent des forces?&amp;nbsp; Pourquoi?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;C'est une blague?&amp;nbsp; Ils ne croient quand même pas être capables de ressusciter Lok, c'est ridicule!&amp;nbsp; Ca demanderait un pouvoir immense. Divin, même!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Cela dit, ils doivent bien rassembler ces armes pour quelque chose... un combat à venir, certainement. Nous ferions bien de nous tenir prêts aussi. Je vais prévenir Daven. Souhaitez-moi bonne chance!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

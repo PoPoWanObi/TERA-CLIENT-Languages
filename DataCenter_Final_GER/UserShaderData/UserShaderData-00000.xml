@@ -1,0 +1,10 @@
+<UserShaderData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/UserShaderData UserShaderData.xsd" xmlns="https://vezel.dev/novadrop/dc/UserShaderData">
+    <Shader condition="cursed" default="S1_MI_Special.Mat.0012A_BlackLeather_default_MI" blendIn="5" blendOut="5" hair="S1_MI_Special.Mat.0012A_BlackLeather_hair_MI" head="S1_MI_Special.Mat.0012A_BlackLeather_head_MI" trans="S1_MI_Special.Mat.0012A_BlackLeather_default_MI" weaponShader1="S1_MI_Special.Mat.0012A_BlackLeather_default_MI" weaponShader2="S1_MI_Special.Mat.0012A_BlackLeather_default_MI" />
+    <Shader condition="stone" default="S1_MI_Special.Mat.0012A_Stone_default_MI" blendIn="1.5" blendOut="1.5" hair="S1_MI_Special.Mat.0012A_Stone_hair_MI" head="S1_MI_Special.Mat.0012A_Stone_head_MI" trans="S1_MI_Special.Mat.0012A_Stone_default_MI" weaponShader1="S1_MI_Special.Mat.0012A_Stone_default_MI" weaponShader2="S1_MI_Special.Mat.WizardWeapon00_Stone_MI" />
+    <Shader condition="ghost" default="S1_MI_Special.Mat.0012A_Ghost_default_MI" blendIn="1.5" blendOut="1.5" hair="S1_MI_Special.Mat.0012A_Ghost_default_MI" head="S1_MI_Special.Mat.0012A_Ghost_default_MI" trans="S1_MI_Special.Mat.0012A_Ghost_default_MI" weaponShader1="S1_MI_Special.Mat.0012A_Ghost_default_MI" weaponShader2="S1_MI_Special.Mat.0012A_Ghost_default_MI">
+        <Option enchantEffect="false" shadow="false" namePlate="false" />
+    </Shader>
+    <Shader condition="ghostTrans" default="S1_MI_Special.Mat.0012A_GhostTrans_default_MI" blendIn="1.5" blendOut="1.5" hair="S1_MI_Special.Mat.0012A_GhostTrans_hair_MI" head="S1_MI_Special.Mat.0012A_GhostTrans_head_MI" trans="S1_MI_Special.Mat.0012A_GhostTrans_default_MI" weaponShader1="S1_MI_Special.Mat.0012A_GhostTrans_default_MI" weaponShader2="S1_MI_Special.Mat.0012A_GhostTrans_default_MI">
+        <Option enchantEffect="false" shadow="false" namePlate="false" />
+    </Shader>
+</UserShaderData>

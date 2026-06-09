@@ -1,0 +1,341 @@
+<WeaponFx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/WeaponFx WeaponFx.xsd" xmlns="https://vezel.dev/novadrop/dc/WeaponFx">
+    <WeaponFxData id="2101104101" name="용과골드 쌍검 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Dual_L_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Dual_L_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Dual_L_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Dual_L_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101104201" name="용과골드 쌍검 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Dual_01_L_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Dual_01_L_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Dual_01_L_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Dual_01_L_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101108101" name="용과골드 창 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Shield_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Lance_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Shield_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Lance_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101108201" name="용과골드 창 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_shield_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Lance_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_shield_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Lance_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101112101" name="용과골드 대검 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_TwoHandSword_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_TwoHandSword_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101112201" name="용과골드 대검 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Twohandsword_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Twohandsword_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101116101" name="용과골드 도끼 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Axe_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Axe_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101116201" name="용과골드 도끼 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Axe_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Axe_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101120101" name="용과골드 원반 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Circle_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Circle_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101120201" name="용과골드 원반 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Circle_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Circle_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101124101" name="용과골드 활 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Bow_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Bow_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101124201" name="용과골드 활 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_bow_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_bow_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101128101" name="용과골드 지팡이 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Staff_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Staff_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101128201" name="용과골드 지팡이 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Staff_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_Staff_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101132101" name="용과골드 마법봉 냉기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Rod_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_D_HotFix_130125.PS.D_Event_SDW_Rod_Out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="2101132201" name="용과골드 마법봉 화기무기 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_rod_in" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="OUT" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_E_HotFix_121228.PS.Event_Season_rod_out" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371501" name="2015레트로 투명 쌍검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8.5,2,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,0,10" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371601" name="2015레트로 투명 창 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-6,13.5,0" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,8,3" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371701" name="2015레트로 투명 대검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="9,0,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="12,3,6" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371801" name="2015레트로 투명 도끼 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="13,-2,50" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="17,0,45" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371901" name="2015레트로 투명 원반 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-3,1,-5" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="0.85,0.85,0.85" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="6,1,3" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="0.85,0.85,0.85" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372001" name="2015레트로 투명 활 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,-2,10" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="5,0,13" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372101" name="2015레트로 투명 지팡이 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-7,-2,27" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-5,0,28" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372201" name="2015레트로 투명 법봉 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-2,-8,17" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="0,-5,20" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210379701" name="2015레트로 투명 소울리스 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-2,-5,12" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-5,-3,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210374701" name="2015레트로 투명 총 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-10,0,6" fxResource="FX_J_Hotfix_150312.PS.J_CubeS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-7,-3,8" fxResource="FX_J_Hotfix_150312.PS.J_CubeB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371502" name="2015레트로 투명 레인보우 쌍검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8.5,2,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,0,10" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371602" name="2015레트로 투명 레인보우 창 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-6,13.5,0" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,8,3" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371702" name="2015레트로 투명 레인보우 대검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="9,0,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="12,3,6" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371802" name="2015레트로 투명 레인보우 도끼 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="13,-2,50" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="17,0,45" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210371902" name="2015레트로 투명 레인보우 원반 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-3,1,-5" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="0.85,0.85,0.85" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="6,1,3" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="0.85,0.85,0.85" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372002" name="2015레트로 투명 레인보우 활 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="8,-2,10" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="5,0,13" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372102" name="2015레트로 투명 레인보우 지팡이 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-7,-2,27" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-5,0,28" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210372202" name="2015레트로 투명 레인보우 법봉 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-2,-8,17" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="0,-5,20" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210379702" name="2015레트로 투명 레인보우 소울리스 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-2,-5,12" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-5,-3,15" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210374702" name="2015레트로 투명 레인보우 총 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-10,0,6" fxResource="FX_J_Hotfix_150312.PS.J_CubeRS_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+            <FxNumber deco1="0,0,0,0" deco2="0,0,0,0" flame="0,0,0,0" fxBoneName="" fxOffset="-7,-3,8" fxResource="FX_J_Hotfix_150312.PS.J_CubeRB_PS" fxRotate="" fxScale="1,1,1" glow="0,0,0,0" overlay2="0,0,0,0" overlay2Map="" spark="0,0,0,0" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389701" name="어쌔신 쌍검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Dual_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Dual_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389702" name="어쌔신 창 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Shield_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Lance_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389703" name="어쌔신 대검 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.TwoHandSword_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389704" name="어쌔신 도끼 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Axe_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389705" name="어쌔신 도끼 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Circle_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389706" name="어쌔신 활 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Bow_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389707" name="어쌔신 지팡이 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Staff_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389708" name="어쌔신 마법봉 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Rod_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389709" name="어쌔신 비검사 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Chain_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Chain_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389710" name="어쌔신 마공포 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Blaster_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+    <WeaponFxData id="210389711" name="어쌔신 건틀렛 이펙트">
+        <Fx weaponStatus="IN" weaponPosition="LEFT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Gauntlet_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+        <Fx weaponStatus="IN" weaponPosition="RIGHT">
+            <FxNumber deco1="" deco2="" flame="" fxBoneName="" fxOffset="0,0,0" fxResource="FX_J_Hotfix_150605.PS.Gauntlet_IN" fxRotate="0,0,0" fxScale="1,1,1" glow="" overlay2="0,0,0,0" overlay2Map="" spark="" />
+        </Fx>
+    </WeaponFxData>
+</WeaponFx>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Wir müssen die Reihen unserer Feinde lichten.&lt;BR&gt;&lt;BR&gt;Tötet die {@LinkCreature:12#17#Rotpeitschenplünderer} um den Sklavenmarkt auf der Nebelmoorinsel.&lt;BR&gt;&lt;BR&gt;Wenn Ihr damit fertig seid, erstattet Taniel beim Verteidigeraußenposten Bericht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Gute Arbeit, &lt;PCCLASS&gt;. Für die Föderation!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">Eure Ziele sind {@LinkCreature:12#17#Rotpeitschenplünderer}.&lt;BR&gt;&lt;BR&gt;Es tut mir leid, aber Ihr habt noch nicht genügend Feinde eliminiert, um diese Mission zu beenden.</Page>
+    </Text>
+</QuestDialog>

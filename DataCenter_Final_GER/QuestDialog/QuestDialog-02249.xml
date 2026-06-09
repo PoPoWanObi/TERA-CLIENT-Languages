@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Ein Teil der Arbeit für das Vermächtnis besteht darin, die Dinge wieder in den Zustand zu bringen, wie er vor Balders Tod war.&lt;BR&gt;&lt;BR&gt;Findet {@LinkCreature:71#3015#Umma} und helft ihm beim Füttern der Fische.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Willkommen, &lt;PCNAME&gt;! Ich denke, das dürfte Euch gefallen.&lt;BR&gt;&lt;BR&gt;Die Fischfutterbehälter der Zuflucht funktionieren nicht mehr von selbst.&lt;BR&gt;&lt;BR&gt;Es ist ganz einfach. Einfach einmal daran drehen, dann zurücklehnen und zusehen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Na? Macht Spaß, oder?&lt;BR&gt;&lt;BR&gt;Ich liebe meine Arbeit. Hübsche Fische, der kühle Schlamm zwischen den Zehen und jeden Abend Backfisch!</Page>
+    </Text>
+</QuestDialog>

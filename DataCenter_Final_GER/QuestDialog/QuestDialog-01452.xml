@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="4">Ein besonders brutaler Argone namens {@LinkCreature:48#25} hat den Angriff auf unsere Anlage angeführt. Als ich ihn beim Kampf sah, gefror mir das Blut in den Adern.&lt;NEXTPAGEBUTTON&gt;"Klingt nach jemandem, den ich ausschalten sollte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Einverstanden. Vernichtet {@LinkCreature:48#25} und erstattet {@LinkCreature:248#1001} Bericht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">{@LinkCreature:48#25} ist tot? Hervorragend.&lt;BR&gt;&lt;BR&gt;Dieses Monster hat unseren Leuten schwer zugesetzt. Sein Tod wird die Moral stärken. Vielen Dank.</Page>
+    </Text>
+</QuestDialog>

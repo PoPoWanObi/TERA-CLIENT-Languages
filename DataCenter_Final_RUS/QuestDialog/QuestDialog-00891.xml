@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="4">Мансур занимается восстановлением разрушенных штормом домов, но, как ты видишь, с деревьями здесь туго.&lt;BR&gt;&lt;BR&gt;Ему нужна помощь в сборе древесины из поврежденных строений.&lt;NEXTPAGEBUTTON&gt;"Это я могу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Много годной древесины можно найти у заброшенного дома близ Ледяных пустошей. Сбей с нее лед, и она будет как новенькая.&lt;BR&gt;&lt;BR&gt;Надеюсь, Мансуру хватит этого дерева, чтобы закончить работу. Мы все хотим поскорее вернуться к нормальной жизни.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">У тебя есть древесина?&lt;BR&gt;&lt;BR&gt;Хм. Она вся обледенела. Хорошо, если половину досок можно будет использовать. Впрочем, тут так со всем.&lt;BR&gt;&lt;BR&gt;Ладно, у рачительного хозяина все пойдет в дело. Я, к счастью, лучший плотник в Вестонии.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1016">
+        <Page social="0">Древесина у тебя?</Page>
+    </Text>
+</QuestDialog>

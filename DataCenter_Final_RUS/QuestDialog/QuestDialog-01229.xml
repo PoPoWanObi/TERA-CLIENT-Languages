@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="5">Когти у нагов ядовитые, и их жертвы умирают мучительной смертью. Нам срочно нужно противоядие.&lt;BR&gt;&lt;BR&gt;Для этого мы должны найти гадючные поганки, растущие в глубине храма, но {@LinkCreature:42#500#Бдительные чикасы} не дают мне к ним подойти.&lt;BR&gt;&lt;BR&gt;Я буду тебе благодарен, если ты хоть немного проредишь их ряды.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">Спасибо. Теперь сбор пойдет быстрее и легче.</Page>
+    </Text>
+</QuestDialog>

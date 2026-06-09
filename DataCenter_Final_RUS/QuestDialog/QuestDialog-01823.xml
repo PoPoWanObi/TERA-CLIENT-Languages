@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вы погнались за колдуньей, чтобы не позволить ей передать архидеванцам вести об Авангарде. Но оказавшись у вас в руках, колдунья совершила самоубийство, и вы не смогли узнать у нее ничего.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1">Найди Золин! Она погналась за архидеванской колдуньей.&lt;NEXTPAGEBUTTON&gt;"Хорошо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2010">
+        <Page social="1">Кто-то наверняка видел, куда скрылась архидеванская колдунья.&lt;NEXTPAGEBUTTON&gt;"Конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2031">
+        <Page social="1">Архидеванка? Была тут такая. Скрылась на западном конце лагеря.&lt;NEXTPAGEBUTTON&gt;"Спасибо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2043">
+        <Page social="1">Архидеванка? Небесное святилище. Вверх по склону.&lt;NEXTPAGEBUTTON&gt;Спасибо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2005">
+        <Page social="1">Не думала, что с демокроном можно так быстро расправиться...&lt;BR&gt;&lt;BR&gt;Кто вы, чужеземцы? И зачем вы явились в наши края?&lt;NEXTPAGEBUTTON&gt;"Сдавайся!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Сдаться? Когда победа так близка?&lt;NEXTPAGEBUTTON&gt;"О чем ты говоришь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ха. Ты и в самом деле ничего не знаешь? Значит, и не узнаешь!&lt;BR&gt;&lt;BR&gt;В служении Лакану любой архидеванец готов пожертвовать жизнью. Но ты можешь пытками заставить меня говорить... хотя до этого же дело не дойдет, верно?&lt;NEXTPAGEBUTTON&gt;"Расскажи, что вы задумали, и останешься жива".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2006">
+        <Page social="1">Тебе удалось найти колдунью? Что она сказала?&lt;NEXTPAGEBUTTON&gt;"Она... выбрала молчание".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Что ж, по крайней мере, она не успела передать вести своим хозяевам. Но они поймут, что что-то случилось, когда от нее перестанут приходить отчеты.&lt;BR&gt;&lt;BR&gt;Тебе удалось понять, сколько времени она уже шпионила в лагере?&lt;NEXTPAGEBUTTON&gt;"Она сказала о неминуемой победе..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Возможно, это пустая болтовня, а возможно...&lt;BR&gt;&lt;BR&gt;Поговори с Родосом. Поделитесь информацией. Он больше других знает о планах архидеванцев.&lt;NEXTPAGEBUTTON&gt;"Я так и сделаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

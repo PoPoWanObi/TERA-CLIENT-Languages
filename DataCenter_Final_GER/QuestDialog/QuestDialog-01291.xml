@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Karbas Orkaner sind tapfer, sich gegen so viele Kriegstreiber unter ihren Leuten aufzulehnen. Sie gäben gute Föderationssoldaten ab, wenn das Oberkommando sie annehmen würde.&lt;BR&gt;&lt;BR&gt;Sie trinken Tentacullarblut zur Stärkung, aber der Schwarzklauenstamm hat ihren Zugang zu den Tentacullaren, die in Höhlen im Süden leben, abgeschnitten. Solltet Ihr jemals in die Nähe der &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=Höhlen"&gt;Höhlen&lt;/A&gt;&lt;/font&gt; kommen, besorgt mir etwas Tentacullarblut für {@LinkCreature:241#1019$$Hoorik}. Ich will den Orkanern zeigen, dass wir sie schätzen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="4">Tentacullarblut? Wie habt Ihr das bekommen?&lt;BR&gt;&lt;BR&gt;Ihr müsst Eure Haut riskiert haben! Ich bin Euch sehr dankbar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">Ich vermisse den Geschmack von Tentacullarblut.&lt;BR&gt;&lt;BR&gt;Euer Geschmack ist es sicher nicht, aber bei meinen Leuten gilt es als heilig.</Page>
+    </Text>
+</QuestDialog>

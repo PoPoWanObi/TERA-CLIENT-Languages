@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">A {@LinkCreature:25#2091$$Lokian Zealot} ambushed me in the {@Rgn:25003$$Transepts}. I escaped, but lost a small box in my rush.&lt;BR&gt;&lt;BR&gt;The box contains a ring for my girl back home. Could you recover it for me? I'm in no shape to face a Lokian again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">This is it! This is the one. It’s more precious to me than anything.&lt;BR&gt;&lt;BR&gt;I don’t know how I can repay you. Thank you so much.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1028">
+        <Page social="0">Please help me. It’s a very dear item to me.</Page>
+    </Text>
+</QuestDialog>

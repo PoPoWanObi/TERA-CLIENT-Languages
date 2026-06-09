@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="4">{@LinkCreature:31#24#Темные чародеи} должны быть на Горе Тираннас вместе с остальной армией мятежников, но мы заметили нескольких из них здесь, во льдах. Я не знаю, что им здесь нужно, но ты не хуже меня понимаешь, что их надо остановить, пока не поздно. Вторая Гора Тираннас нам здесь не нужна.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1043">
+        <Page social="4">Отлично, &lt;PCNAME&gt;! Теперь нам не придется беспокоиться о том, что они задумали.</Page>
+    </Text>
+</QuestDialog>

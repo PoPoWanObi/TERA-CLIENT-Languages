@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="4">Раньше все было намного проще - пираты гонялись за торговцами, флот гонялся за пиратами. Не жизнь, а сплошное приключение.&lt;BR&gt;&lt;BR&gt;А потом объявились наги, которые уничтожили всех пиратов, и моря стали красными от крови. У них ведь нет ни кодекса чести, они не чтут морские законы - они вообще ничего не чтут!&lt;BR&gt;&lt;BR&gt;Но хуже всего - это попасть к ним в лапы. Они не требуют выкупа - им вообще ничего не нужно! Думаю, наги просто съедают своих пленников. Много детей стало сиротами, вот Гован например. Слушай, ты не проведаешь его кстати? Давненько я его не видал.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1006">
+        <Page social="4">Ищешь Гована? Не так давно он отправился куда-то на запад.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1016">
+        <Page social="13">Дай-ка я угадаю. Тебя послал Сиам, который хочет вернуть меня домой, верно? Ну так вот, я никуда не вернусь!&lt;BR&gt;&lt;BR&gt;По меньшей мере, пока наги не ответят за то, что случилось с моей мамой. Не ответят кровью! Мне говорят, что я слишком мал, чтобы сражаться, но я уже слишком большой, чтобы просто так отсиживаться в деревне!&lt;NEXTPAGEBUTTON&gt;"Тебе не справиться в одиночку..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="13">Нет, но... Тебе это под силу!&lt;BR&gt;&lt;BR&gt;Ты ведь поможешь не мне одному, а всем солдатам! Отомсти за мою маму пиратам Красной плети.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1005">
+        <Page social="4">Это серьезное обещание... Пираты Красной плети оставляют после себя лишь боль и страдания.&lt;BR&gt;&lt;BR&gt;И если ты исполнишь обещанное маленькому мальчику, &lt;PCNAME&gt;, ты спасешь многих.&lt;BR&gt;&lt;BR&gt;Возможно, число сирот перестанет расти.</Page>
+    </Text>
+</QuestDialog>

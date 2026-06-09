@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="22002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="22002">
+        <Page social="1">In dieser Halle muss Euer Heldenmut zur Schau gestellt werden.&lt;BR&gt;&lt;BR&gt;Um der Welt die Macht unserer Allianz zu beweisen, müsst Ihr ein sehr bedrohliches Monster erledigen und eine Trophäe mitbringen, die ich in der Halle ausstellen kann.&lt;BR&gt;&lt;BR&gt;Was Ihr jagen könnt? Wählt eines aus.&lt;BR&gt;Balders Tempel (normal) - {@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balders Tempel (Einzel) - {@linkcreature:825#6000#Glaciernus des Albtraums}&lt;BR&gt;Argonenkorpus (normal) - {@linkcreature:426#20000#Meldita}&lt;BR&gt;Manayas Herz - {@linkcreature:727#2007#Shandra Manaya}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="22002">
+        <Page social="4">Vielen Dank.&lt;BR&gt;&lt;BR&gt;Die Ausstellung dieser Trophäe zeigt, dass der Eiserne Orden die größte Macht ist.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, wir schätzen Eure Hilfe sehr. Vielen Dank.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="22002">
+        <Page social="0">Für den Eisernen Orden!</Page>
+    </Text>
+</QuestDialog>

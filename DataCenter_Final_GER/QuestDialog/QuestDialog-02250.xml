@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Schon einmal mit Faultieren zu tun gehabt? Mögt Ihr sie?&lt;BR&gt;&lt;BR&gt;Nicht? Wollt Ihr etwas gegen sie unternehmen?&lt;BR&gt;&lt;BR&gt;Begebt Euch zu {@LinkCreature:71#3014#Arura}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Hey da, {@gender:Held/Heldin}! Schätze, Ihr habt auch schon Euren Anteil an Faultierbissen einstecken müssen, was?&lt;BR&gt;&lt;BR&gt;Zeit, es ihnen zurückzuzahlen. Kennt Ihr diese Früchte, die sie so gerne mögen? Bringt mir soviel Ihr tragen könnt.&lt;BR&gt;&lt;BR&gt;Ist ganz einfach! Schüttelt einfach den einen oder anderen {@WorkObject:75}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Hervorragende Arbeit. Und jetzt zum spaßigen Teil mit dem Vergiften!&lt;BR&gt;&lt;BR&gt;Keine Sorge, die Faultiere sind die einzigen hier, die diese Früchte anrühren!&lt;BR&gt;&lt;BR&gt;Außer mir natürlich.</Page>
+    </Text>
+</QuestDialog>

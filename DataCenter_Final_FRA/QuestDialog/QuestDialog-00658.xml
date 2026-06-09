@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">Bon, quelle est la prochaine étape, ici... ah, &lt;PCNAME&gt;, c'est votre jour de chance!&amp;nbsp; Vous vous chargerez des {@LinkCreature:20#30011002#maîtres cruels}, des {@LinkCreature:20#30011001#surveillants d'esclaves}, des {@LinkCreature:20#30011100#hortators} et des {@LinkCreature:20#30011000#contremaîtres d'esclaves}!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ils dirigent les zombies, donc... vous trouverez ça distrayant. Ils se trouvent dans les Halls de la Mélancolie.&lt;BR&gt;&lt;BR&gt;Allez voir Damelsa quand vous aurez terminé. Elle devrait être... attendez que je vérifie... Ah!&amp;nbsp; Egalement au premier sous-sol des Mines ténébreuses.&lt;BR&gt;&lt;BR&gt;On se demande pourquoi elle ne les élimine pas elle-même, puisqu'elle est sur place...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1002">
+        <Page social="4">Ah!&amp;nbsp; Excellent!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Prenez ceci, c'est pour vous récompenser.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1002">
+        <Page social="0">Vous cherchez quelque chose?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

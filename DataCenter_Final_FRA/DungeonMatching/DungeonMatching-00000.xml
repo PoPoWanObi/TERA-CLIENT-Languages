@@ -1,0 +1,84 @@
+<DungeonMatching xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DungeonMatching DungeonMatching.xsd" xmlns="https://vezel.dev/novadrop/dc/DungeonMatching">
+    <ClassPosition>
+        <Class name="Warrior" defaultPosition="1" secondPosition="0" thirdPosition="1" />
+        <Class name="Lancer" defaultPosition="0" secondPosition="0" thirdPosition="0" />
+        <Class name="Slayer" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+        <Class name="Berserker" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+        <Class name="Sorcerer" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+        <Class name="Archer" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+        <Class name="Priest" defaultPosition="2" secondPosition="2" thirdPosition="2" />
+        <Class name="Elementalist" defaultPosition="2" secondPosition="2" thirdPosition="2" />
+        <Class name="Soulless" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+        <Class name="Engineer" defaultPosition="1" secondPosition="1" thirdPosition="1" />
+    </ClassPosition>
+    <Compensation>
+        <AddEntry addItemAmount="1" addItemTemplateId="213297" />
+        <DungeonClear addItemAmount="1" addItemTemplateId="407" />
+        <PositionCall addItemAmount="0" addItemTemplateId="0" />
+    </Compensation>
+    <Dungeon id="9087" dungeonMaxLevel="25" dungeonMinLevel="20" minItemLevel="33">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9088" dungeonMaxLevel="31" dungeonMinLevel="26" minItemLevel="45">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9979" dungeonMaxLevel="36" dungeonMinLevel="32" minItemLevel="50">
+        <ClearCondition templateId="47954" amount="1" huntingZoneId="979" />
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9089" dungeonMaxLevel="42" dungeonMinLevel="35" minItemLevel="65">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9071" dungeonMaxLevel="47" dungeonMinLevel="41" minItemLevel="77">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9072" dungeonMaxLevel="53" dungeonMinLevel="48" minItemLevel="91">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9093" dungeonMaxLevel="54" dungeonMinLevel="48" minItemLevel="91">
+        <NeedItem id="103" />
+    </Dungeon>
+    <Dungeon id="9094" dungeonMaxLevel="57" dungeonMinLevel="53" minItemLevel="101">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9076" dungeonMaxLevel="58" dungeonMinLevel="57" minItemLevel="124">
+        <NeedItem id="5126" />
+    </Dungeon>
+    <Dungeon id="9073" dungeonMaxLevel="59" dungeonMinLevel="58" minItemLevel="124">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9075" dungeonMaxLevel="63" dungeonMinLevel="58" minItemLevel="131">
+        <NeedItem id="5123" />
+    </Dungeon>
+    <Dungeon id="9025" dungeonMaxLevel="65" dungeonMinLevel="60" minItemLevel="138">
+        <NeedItem id="45323" />
+    </Dungeon>
+    <Dungeon id="9026" dungeonMaxLevel="65" dungeonMinLevel="60" minItemLevel="138" />
+    <Dungeon id="9727" dungeonMaxLevel="65" dungeonMinLevel="60" minItemLevel="138" />
+    <Dungeon id="9777" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="181" />
+    <Dungeon id="9750" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="174" />
+    <Dungeon id="9808" dungeonMaxLevel="65" dungeonMinLevel="61" minItemLevel="160">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9809" dungeonMaxLevel="65" dungeonMinLevel="64" minItemLevel="170">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9754" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="181">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9055" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="181">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9054" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="188">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9716" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="188">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9916" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="190">
+        <NeedItem id="0" />
+    </Dungeon>
+    <Dungeon id="9885" dungeonMaxLevel="65" dungeonMinLevel="65" minItemLevel="181">
+        <NeedItem id="0" />
+    </Dungeon>
+</DungeonMatching>

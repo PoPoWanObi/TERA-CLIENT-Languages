@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">Soweit ich über die Gula Bescheid weiß, ist ihr Bündnis mit den Naga rein geschäftlicher Natur. Aber was für ein Geschäft, würde ich gern erfahren.&lt;BR&gt;&lt;BR&gt;Und was wissen die {@LinkCreature:42#1200#Nagamasakari} von der Sache?&lt;BR&gt;&lt;BR&gt;Lasst mich wissen, was Ihr herausfindet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">Ich weiß nicht, was Ihr da habt, aber {@LinkCreature:242#1036#Bartosia} erkennt vielleicht, was das zu bedeuten hat. Bittet sie, einen Blick drauf zu werfen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Die {@LinkCreature:42#1200#Nagamasakari} sind zäher als Ihr dachtet? Ich hoffe, Ihr übernehmt die Aufgabe, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1036">
+        <Page social="5">Es ist im Grunde ein Vertrag. Er besagt, dass die Gula die Muskelkraft bieten, die Naga verschleppen Leute aus der Gegend um Frontera und bringen sie den Gula. Oh, nein ...&lt;BR&gt;&lt;BR&gt;... Hier steht auch, dass die Gula die Leute als Sklaven verkaufen.&lt;BR&gt;&lt;BR&gt;Ibar muss davon sofort erfahren. Geht so schnell wie möglich nach Frontera.</Page>
+    </Text>
+</QuestDialog>

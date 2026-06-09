@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="5">Mein Ehemann, {@LinkCreature:227#1019#Jordal}, ist kürzlich der Garnison beigetreten. Für ein Lebewohl war kaum Zeit. Würdet Ihr ihm diese Halskette ins &lt;font color='#660000'&gt;Castra Mysterium&lt;/font&gt; bringen?&lt;BR&gt;&lt;BR&gt;Sagt ihm, dass ich ihn liebe und er immer in meinen Gedanken ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1019">
+        <Page social="13">Ob ich mich an sie erinnere? Wenn es nicht besser wird, werd ich bald nur noch eine Erinnerung sein! Ich soll mich im Castra Mysterium melden, aber ich werde dort nicht lebend ankommen. Nicht ohne Hilfe.&lt;BR&gt;&lt;BR&gt;Könntet Ihr eine Bresche durch die Lehmigen Sporenwandler schlagen und {@LinkCreature:227#1006#Ellahne} wissen lassen, dass wir nicht wie Feiglinge einfach desertiert sind ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1006">
+        <Page social="5">Pft. Entschuldigungen machen eine verpasste Übung nicht wett. Jordal weiß, wie das hier läuft. Er sollte sich so schnell wie möglich hierher bewegen.&lt;BR&gt;&lt;BR&gt;Jetzt, wo Ihr das ganze Kämpfen für ihn erledigt habt, taucht er vielleicht wenigstens hier auf.</Page>
+    </Text>
+</QuestDialog>

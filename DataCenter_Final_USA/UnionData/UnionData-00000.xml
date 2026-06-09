@@ -1,0 +1,409 @@
+<UnionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/UnionData UnionData.xsd" enable="true" xmlns="https://vezel.dev/novadrop/dc/UnionData">
+    <CommanderList>
+        <Commander iconName="Icon_System.Icon_Union_Consul" stringId="400" unionClass="400" descId="0" showDesc="true" subStringId="400">
+            <UnionSkill idList="63000100,63000200,63000300,61001400,61001500,61001600,61001700" />
+        </Commander>
+        <Commander iconName="Icon_System.Icon_Union_InfiltrateCommander" stringId="300" unionClass="301" descId="0" showDesc="true" subStringId="301">
+            <UnionSkill idList="61002000" />
+        </Commander>
+        <Commander iconName="Icon_System.Icon_Union_SupplyCommander" stringId="300" unionClass="302" descId="0" showDesc="true" subStringId="302">
+            <UnionSkill idList="61001800" />
+        </Commander>
+        <Commander iconName="Icon_System.Icon_Union_DefenceCommander" stringId="300" unionClass="303" descId="0" showDesc="true" subStringId="303">
+            <UnionSkill idList="61001900" />
+        </Commander>
+        <Commander iconName="" stringId="200" unionClass="200" descId="0" showDesc="false" subStringId="200">
+            <UnionSkill idList="0" />
+        </Commander>
+        <Commander iconName="" stringId="100" unionClass="100" descId="0" showDesc="false" subStringId="100">
+            <UnionSkill idList="0" />
+        </Commander>
+        <Commander iconName="" stringId="0" unionClass="0" descId="0" showDesc="false" subStringId="0">
+            <UnionSkill idList="0" />
+        </Commander>
+    </CommanderList>
+    <ConsuleSkillInfo>
+        <PerformanceLevel>
+            <Skill lv="1" rateEnd="100" rateStart="66" />
+            <Skill lv="2" rateEnd="65" rateStart="51" />
+            <Skill lv="3" rateEnd="50" rateStart="31" />
+            <Skill lv="4" rateEnd="30" rateStart="20" />
+            <Skill lv="5" rateEnd="19" rateStart="10" />
+            <Skill lv="6" rateEnd="9" rateStart="0" />
+        </PerformanceLevel>
+        <RepresentSkill id="1" desc="벨리카 연맹 경험치 버프" name="벨리카" unionId="1" buffRate="5" linkedSkillid="63000100" requiredPolicyPoint="122000" />
+        <RepresentSkill id="2" desc="밸리카 PVP 강화 버프" name="밸리카" unionId="1" buffRate="5" linkedSkillid="63000200" requiredPolicyPoint="183000" />
+        <RepresentSkill id="3" desc="밸리카 스탯 버프" name="밸리카" unionId="1" buffRate="5" linkedSkillid="63000300" requiredPolicyPoint="183000" />
+        <RepresentSkill id="4" desc="알레만시아 연맹 경험치 버프" name="알레만시아" unionId="2" buffRate="5" linkedSkillid="63000100" requiredPolicyPoint="122000" />
+        <RepresentSkill id="5" desc="알레만시아 PVP 강화 버프" name="알레만시아" unionId="2" buffRate="5" linkedSkillid="63000200" requiredPolicyPoint="183000" />
+        <RepresentSkill id="6" desc="알레만시아 스탯 버프" name="알레만시아" unionId="2" buffRate="5" linkedSkillid="63000300" requiredPolicyPoint="183000" />
+        <RepresentSkill id="7" desc="카이아도르 연맹 경험치 버프" name="카이아도르" unionId="3" buffRate="5" linkedSkillid="63000100" requiredPolicyPoint="122000" />
+        <RepresentSkill id="8" desc="카이아도르 PVP 강화 버프" name="카이아도르" unionId="3" buffRate="5" linkedSkillid="63000200" requiredPolicyPoint="183000" />
+        <RepresentSkill id="9" desc="카이아도르 스탯 버프" name="카이아도르" unionId="3" buffRate="5" linkedSkillid="63000300" requiredPolicyPoint="183000" />
+    </ConsuleSkillInfo>
+    <Contribution>
+        <Acquisition>
+            <Quest type="1" applyRate="1">
+                <Point point="70" rate="1" questId="12101" />
+                <Point point="60" rate="1" questId="12102" />
+                <Point point="50" rate="1" questId="12103" />
+                <Point point="50" rate="1" questId="12104" />
+                <Point point="50" rate="1" questId="12105" />
+                <Point point="30" rate="1" questId="12106" />
+                <Point point="70" rate="1" questId="12107" />
+                <Point point="70" rate="1" questId="12108" />
+                <Point point="60" rate="1" questId="12109" />
+                <Point point="60" rate="1" questId="12110" />
+                <Point point="110" rate="1" questId="12113" />
+                <Point point="110" rate="1" questId="12114" />
+                <Point point="110" rate="1" questId="12116" />
+                <Point point="110" rate="1" questId="12117" />
+                <Point point="70" rate="1" questId="12201" />
+                <Point point="60" rate="1" questId="12202" />
+                <Point point="50" rate="1" questId="12203" />
+                <Point point="50" rate="1" questId="12204" />
+                <Point point="50" rate="1" questId="12205" />
+                <Point point="30" rate="1" questId="12206" />
+                <Point point="70" rate="1" questId="12207" />
+                <Point point="60" rate="1" questId="12208" />
+                <Point point="70" rate="1" questId="12209" />
+                <Point point="60" rate="1" questId="12210" />
+                <Point point="110" rate="1" questId="12213" />
+                <Point point="110" rate="1" questId="12214" />
+                <Point point="110" rate="1" questId="12216" />
+                <Point point="110" rate="1" questId="12217" />
+                <Point point="70" rate="1" questId="12301" />
+                <Point point="60" rate="1" questId="12302" />
+                <Point point="50" rate="1" questId="12303" />
+                <Point point="50" rate="1" questId="12304" />
+                <Point point="50" rate="1" questId="12305" />
+                <Point point="30" rate="1" questId="12306" />
+                <Point point="70" rate="1" questId="12307" />
+                <Point point="60" rate="1" questId="12308" />
+                <Point point="70" rate="1" questId="12309" />
+                <Point point="60" rate="1" questId="12310" />
+                <Point point="110" rate="1" questId="12313" />
+                <Point point="110" rate="1" questId="12314" />
+                <Point point="110" rate="1" questId="12316" />
+                <Point point="110" rate="1" questId="12317" />
+            </Quest>
+            <Tax>
+                <Taxrate value="1" />
+                <Taxrate value="2" />
+                <Taxrate value="3" />
+                <Taxrate value="4" />
+                <Taxrate value="5" />
+                <Taxrate value="6" />
+                <Taxrate value="7" />
+                <Taxrate value="8" />
+                <Taxrate value="9" />
+                <Taxrate value="10" />
+                <Taxrate value="11" />
+                <Taxrate value="12" />
+                <Taxrate value="13" />
+                <Taxrate value="14" />
+                <Taxrate value="15" />
+            </Tax>
+        </Acquisition>
+        <Level>
+            <GuildList>
+                <Guild level="1" accumulate="0" />
+                <Guild level="2" accumulate="500000" />
+                <Guild level="3" accumulate="1150000" />
+                <Guild level="4" accumulate="1950000" />
+                <Guild level="5" accumulate="2900000" />
+                <Guild level="6" accumulate="4000000" />
+                <Guild level="7" accumulate="5250000" />
+                <Guild level="8" accumulate="6650000" />
+                <Guild level="9" accumulate="8200000" />
+                <Guild level="10" accumulate="9900000" />
+                <Guild level="11" accumulate="11750000" />
+                <Guild level="12" accumulate="13750000" />
+                <Guild level="13" accumulate="15900000" />
+                <Guild level="14" accumulate="18200000" />
+                <Guild level="15" accumulate="20650000" />
+                <Guild level="16" accumulate="23250000" />
+                <Guild level="17" accumulate="26000000" />
+                <Guild level="18" accumulate="28900000" />
+                <Guild level="19" accumulate="31950000" />
+                <Guild level="20" accumulate="35150000" />
+                <Guild level="21" accumulate="38500000" />
+                <Guild level="22" accumulate="42000000" />
+                <Guild level="23" accumulate="45650000" />
+                <Guild level="24" accumulate="49450000" />
+                <Guild level="25" accumulate="53400000" />
+                <Guild level="26" accumulate="57500000" />
+                <Guild level="27" accumulate="61750000" />
+                <Guild level="28" accumulate="66150000" />
+                <Guild level="29" accumulate="70700000" />
+                <Guild level="30" accumulate="75400000" />
+                <Guild level="31" accumulate="80250000" />
+                <Guild level="32" accumulate="85250000" />
+                <Guild level="33" accumulate="90400000" />
+                <Guild level="34" accumulate="95700000" />
+                <Guild level="35" accumulate="101150000" />
+                <Guild level="36" accumulate="106750000" />
+                <Guild level="37" accumulate="112500000" />
+                <Guild level="38" accumulate="118400000" />
+                <Guild level="39" accumulate="124450000" />
+                <Guild level="40" accumulate="130650000" />
+                <Guild level="41" accumulate="137000000" />
+                <Guild level="42" accumulate="143500000" />
+                <Guild level="43" accumulate="150150000" />
+                <Guild level="44" accumulate="156950000" />
+                <Guild level="45" accumulate="163900000" />
+                <Guild level="46" accumulate="171000000" />
+                <Guild level="47" accumulate="178250000" />
+                <Guild level="48" accumulate="185650000" />
+                <Guild level="49" accumulate="193200000" />
+                <Guild level="50" accumulate="200900000" />
+                <Guild level="51" accumulate="208750000" />
+                <Guild level="52" accumulate="216750000" />
+                <Guild level="53" accumulate="224900000" />
+                <Guild level="54" accumulate="233200000" />
+                <Guild level="55" accumulate="241650000" />
+                <Guild level="56" accumulate="250250000" />
+                <Guild level="57" accumulate="259000000" />
+                <Guild level="58" accumulate="267900000" />
+                <Guild level="59" accumulate="276950000" />
+                <Guild level="60" accumulate="286150000" />
+                <Guild level="61" accumulate="295500000" />
+                <Guild level="62" accumulate="305000000" />
+                <Guild level="63" accumulate="314650000" />
+                <Guild level="64" accumulate="324450000" />
+                <Guild level="65" accumulate="334400000" />
+                <Guild level="66" accumulate="344500000" />
+                <Guild level="67" accumulate="354750000" />
+                <Guild level="68" accumulate="365150000" />
+                <Guild level="69" accumulate="375700000" />
+                <Guild level="70" accumulate="386400000" />
+                <Guild level="71" accumulate="397250000" />
+                <Guild level="72" accumulate="408250000" />
+                <Guild level="73" accumulate="419400000" />
+                <Guild level="74" accumulate="430700000" />
+                <Guild level="75" accumulate="442150000" />
+                <Guild level="76" accumulate="453750000" />
+                <Guild level="77" accumulate="465500000" />
+                <Guild level="78" accumulate="477400000" />
+                <Guild level="79" accumulate="489450000" />
+                <Guild level="80" accumulate="501650000" />
+                <Guild level="81" accumulate="514000000" />
+                <Guild level="82" accumulate="526500000" />
+                <Guild level="83" accumulate="539150000" />
+                <Guild level="84" accumulate="551950000" />
+                <Guild level="85" accumulate="564900000" />
+                <Guild level="86" accumulate="578000000" />
+                <Guild level="87" accumulate="591250000" />
+                <Guild level="88" accumulate="604650000" />
+                <Guild level="89" accumulate="618200000" />
+                <Guild level="90" accumulate="631900000" />
+                <Guild level="91" accumulate="645750000" />
+                <Guild level="92" accumulate="659750000" />
+                <Guild level="93" accumulate="673900000" />
+                <Guild level="94" accumulate="688200000" />
+                <Guild level="95" accumulate="702650000" />
+                <Guild level="96" accumulate="717250000" />
+                <Guild level="97" accumulate="732000000" />
+                <Guild level="98" accumulate="746900000" />
+                <Guild level="99" accumulate="761950000" />
+                <Guild level="100" accumulate="777150000" />
+            </GuildList>
+            <PersonalList>
+                <Personal level="1" accumulate="0" />
+                <Personal level="2" accumulate="1000" />
+                <Personal level="3" accumulate="2300" />
+                <Personal level="4" accumulate="3900" />
+                <Personal level="5" accumulate="5800" />
+                <Personal level="6" accumulate="8000" />
+                <Personal level="7" accumulate="10500" />
+                <Personal level="8" accumulate="13300" />
+                <Personal level="9" accumulate="16400" />
+                <Personal level="10" accumulate="19800" />
+                <Personal level="11" accumulate="23500" />
+                <Personal level="12" accumulate="27500" />
+                <Personal level="13" accumulate="31800" />
+                <Personal level="14" accumulate="36400" />
+                <Personal level="15" accumulate="41300" />
+                <Personal level="16" accumulate="46500" />
+                <Personal level="17" accumulate="52000" />
+                <Personal level="18" accumulate="57800" />
+                <Personal level="19" accumulate="63900" />
+                <Personal level="20" accumulate="70300" />
+                <Personal level="21" accumulate="77000" />
+                <Personal level="22" accumulate="84000" />
+                <Personal level="23" accumulate="91300" />
+                <Personal level="24" accumulate="98900" />
+                <Personal level="25" accumulate="106800" />
+                <Personal level="26" accumulate="115000" />
+                <Personal level="27" accumulate="123500" />
+                <Personal level="28" accumulate="132300" />
+                <Personal level="29" accumulate="141400" />
+                <Personal level="30" accumulate="150800" />
+                <Personal level="31" accumulate="160500" />
+                <Personal level="32" accumulate="170500" />
+                <Personal level="33" accumulate="180800" />
+                <Personal level="34" accumulate="191400" />
+                <Personal level="35" accumulate="202300" />
+                <Personal level="36" accumulate="213500" />
+                <Personal level="37" accumulate="225000" />
+                <Personal level="38" accumulate="236800" />
+                <Personal level="39" accumulate="248900" />
+                <Personal level="40" accumulate="261300" />
+                <Personal level="41" accumulate="274000" />
+                <Personal level="42" accumulate="287000" />
+                <Personal level="43" accumulate="300300" />
+                <Personal level="44" accumulate="313900" />
+                <Personal level="45" accumulate="327800" />
+                <Personal level="46" accumulate="342000" />
+                <Personal level="47" accumulate="356500" />
+                <Personal level="48" accumulate="371300" />
+                <Personal level="49" accumulate="386400" />
+                <Personal level="50" accumulate="401800" />
+                <Personal level="51" accumulate="417500" />
+                <Personal level="52" accumulate="433500" />
+                <Personal level="53" accumulate="449800" />
+                <Personal level="54" accumulate="466400" />
+                <Personal level="55" accumulate="483300" />
+                <Personal level="56" accumulate="500500" />
+                <Personal level="57" accumulate="518000" />
+                <Personal level="58" accumulate="535800" />
+                <Personal level="59" accumulate="553900" />
+                <Personal level="60" accumulate="572300" />
+                <Personal level="61" accumulate="591000" />
+                <Personal level="62" accumulate="610000" />
+                <Personal level="63" accumulate="629300" />
+                <Personal level="64" accumulate="648900" />
+                <Personal level="65" accumulate="668800" />
+                <Personal level="66" accumulate="689000" />
+                <Personal level="67" accumulate="709500" />
+                <Personal level="68" accumulate="730300" />
+                <Personal level="69" accumulate="751400" />
+                <Personal level="70" accumulate="772800" />
+                <Personal level="71" accumulate="794500" />
+                <Personal level="72" accumulate="816500" />
+                <Personal level="73" accumulate="838800" />
+                <Personal level="74" accumulate="861400" />
+                <Personal level="75" accumulate="884300" />
+                <Personal level="76" accumulate="907500" />
+                <Personal level="77" accumulate="931000" />
+                <Personal level="78" accumulate="954800" />
+                <Personal level="79" accumulate="978900" />
+                <Personal level="80" accumulate="1003300" />
+                <Personal level="81" accumulate="1028000" />
+                <Personal level="82" accumulate="1053000" />
+                <Personal level="83" accumulate="1078300" />
+                <Personal level="84" accumulate="1103900" />
+                <Personal level="85" accumulate="1129800" />
+                <Personal level="86" accumulate="1156000" />
+                <Personal level="87" accumulate="1182500" />
+                <Personal level="88" accumulate="1209300" />
+                <Personal level="89" accumulate="1236400" />
+                <Personal level="90" accumulate="1263800" />
+                <Personal level="91" accumulate="1291500" />
+                <Personal level="92" accumulate="1319500" />
+                <Personal level="93" accumulate="1347800" />
+                <Personal level="94" accumulate="1376400" />
+                <Personal level="95" accumulate="1405300" />
+                <Personal level="96" accumulate="1434500" />
+                <Personal level="97" accumulate="1464000" />
+                <Personal level="98" accumulate="1493800" />
+                <Personal level="99" accumulate="1523900" />
+                <Personal level="100" accumulate="1554300" />
+            </PersonalList>
+        </Level>
+    </Contribution>
+    <Default>
+        <Aero>
+            <Continent id="9121" aero="EX_Union_AERO.AERO.Union_Battle_01_AERO" blendTime="4" />
+            <Continent id="9122" aero="EX_Union_AERO.AERO.Union_Battle_HSC_AERO" blendTime="4" />
+            <Continent id="9123" aero="EX_Union_AERO.AERO.Union_Battle_SSC_AERO" blendTime="4" />
+        </Aero>
+        <SituationEvent guardEvent="8" stoneEvent="8" />
+        <UI rankIconName="Icon_IPolitics.Icon_UnionPointRank_">
+            <TaxPopup coolTimeStringId="470380" />
+        </UI>
+        <UIMenu unionId="1" menuId="46" />
+        <UIMenu unionId="2" menuId="47" />
+        <UIMenu unionId="3" menuId="48" />
+        <UIMinimap dungeonClosedStringId="10002" dungeonOpenedStringId="10001" />
+        <Union>
+            <Candidate cost="10000000" memberCount="30" />
+            <DismissGuild policyPointCost="1000" />
+            <Join coolTime="360" cost="10000000" memberCount="0" />
+            <Leave cost="0" />
+            <Tax maxRate="7" minRate="1" />
+        </Union>
+    </Default>
+    <EliteList>
+        <Elite iconName="Icon_System.Icon_Union_Elite1" stringId="1000" unionElite="1" descId="0" showDesc="true" subStringId="1001">
+            <UnionSkill idList="62000100" />
+        </Elite>
+        <Elite iconName="Icon_System.Icon_Union_Elite2" stringId="1000" unionElite="2" descId="0" showDesc="true" subStringId="1002">
+            <UnionSkill idList="62000200" />
+        </Elite>
+        <Elite iconName="Icon_System.Icon_Union_Elite3" stringId="1000" unionElite="3" descId="0" showDesc="true" subStringId="1003">
+            <UnionSkill idList="62000300" />
+        </Elite>
+        <Elite iconName="Icon_System.Icon_Union_Elite4" stringId="1000" unionElite="4" descId="0" showDesc="true" subStringId="1004">
+            <UnionSkill idList="62000400" />
+        </Elite>
+    </EliteList>
+    <PlayPoint>
+        <ShowUILevel>
+            <UI lv="1" rateEnd="15" rateStart="0" />
+            <UI lv="2" rateEnd="30" rateStart="16" />
+            <UI lv="3" rateEnd="40" rateStart="31" />
+            <UI lv="4" rateEnd="50" rateStart="41" />
+            <UI lv="5" rateEnd="65" rateStart="51" />
+            <UI lv="6" rateEnd="100" rateStart="66" />
+        </ShowUILevel>
+    </PlayPoint>
+    <Politics cost="1000" />
+    <Property>
+        <Union id="1" iconName="Icon_System.UnionFlag_VK" continentId="9121" stringId="1" crestName="Icon_IPolitics.UnionFlag_VK" descStringId1="11" descStringId2="12" symbolName="Icon_IPolitics.Unioninfo_Symbol_VK" uiIndex="0" />
+        <Union id="2" iconName="Icon_System.UnionFlag_AL" continentId="9122" stringId="2" crestName="Icon_IPolitics.UnionFlag_AL" descStringId1="13" descStringId2="14" symbolName="Icon_IPolitics.Unioninfo_Symbol_AL" uiIndex="1" />
+        <Union id="3" iconName="Icon_System.UnionFlag_KA" continentId="9123" stringId="3" crestName="Icon_IPolitics.UnionFlag_KA" descStringId1="15" descStringId2="16" symbolName="Icon_IPolitics.Unioninfo_Symbol_KA" uiIndex="2">&gt;</Union>
+    </Property>
+    <Reward>
+        <UnionDungeon>
+            <Dungeon lotteryHour="22" />
+        </UnionDungeon>
+    </Reward>
+    <UnionNpcSpawn>
+        <Homun templateId="3000008" />
+    </UnionNpcSpawn>
+    <UnionPassivityInfo>
+        <Union id="1" passivityId="61000100,61001800,61001900,61002000" />
+        <Union id="2" passivityId="61000300,61001800,61001900,61002000" />
+        <Union id="3" passivityId="61000500,61001800,61001900,61002000" />
+    </UnionPassivityInfo>
+    <UnionSkillInfo>
+        <Member itemTemplateId="462,463,464,465" unionId="1" unionClass="400" unionElite="0" />
+        <Member itemTemplateId="462,479,464,465" unionId="2" unionClass="400" unionElite="0" />
+        <Member itemTemplateId="462,480,464,465" unionId="3" unionClass="400" unionElite="0" />
+        <Member itemTemplateId="48097" unionId="1" unionClass="301" unionElite="0" />
+        <Member itemTemplateId="48097" unionId="2" unionClass="301" unionElite="0" />
+        <Member itemTemplateId="48097" unionId="3" unionClass="301" unionElite="0" />
+        <Member itemTemplateId="48095" unionId="1" unionClass="302" unionElite="0" />
+        <Member itemTemplateId="48095" unionId="2" unionClass="302" unionElite="0" />
+        <Member itemTemplateId="48095" unionId="3" unionClass="302" unionElite="0" />
+        <Member itemTemplateId="48096" unionId="1" unionClass="303" unionElite="0" />
+        <Member itemTemplateId="48096" unionId="2" unionClass="303" unionElite="0" />
+        <Member itemTemplateId="48096" unionId="3" unionClass="303" unionElite="0" />
+        <Member itemTemplateId="466" unionId="1" unionClass="0" unionElite="1" />
+        <Member itemTemplateId="467" unionId="1" unionClass="0" unionElite="2" />
+        <Member itemTemplateId="468" unionId="1" unionClass="0" unionElite="3" />
+        <Member itemTemplateId="469" unionId="1" unionClass="0" unionElite="4" />
+        <Member itemTemplateId="470" unionId="2" unionClass="0" unionElite="1" />
+        <Member itemTemplateId="471" unionId="2" unionClass="0" unionElite="2" />
+        <Member itemTemplateId="472" unionId="2" unionClass="0" unionElite="3" />
+        <Member itemTemplateId="473" unionId="2" unionClass="0" unionElite="4" />
+        <Member itemTemplateId="474" unionId="3" unionClass="0" unionElite="1" />
+        <Member itemTemplateId="475" unionId="3" unionClass="0" unionElite="2" />
+        <Member itemTemplateId="476" unionId="3" unionClass="0" unionElite="3" />
+        <Member itemTemplateId="477" unionId="3" unionClass="0" unionElite="4" />
+        <Member itemTemplateId="483,486" unionId="1" unionClass="100" unionElite="0" />
+        <Member itemTemplateId="484,487" unionId="2" unionClass="100" unionElite="0" />
+        <Member itemTemplateId="485,488" unionId="3" unionClass="100" unionElite="0" />
+    </UnionSkillInfo>
+</UnionData>

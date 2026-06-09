@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="9">Unsere Lieferung mit Eldritchscherben hängt irgendwo in Ödfels fest.&lt;BR&gt;&lt;BR&gt;Geht nach Ödfels und fragt Kilda, was wir tun müssen, um die Lieferung endlich zu bekommen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1014">
+        <Page social="4">Die Scherben?&lt;BR&gt;&lt;BR&gt;Es ist nicht meine Schuld. Die Wendigos wüten herum, und die Junaidar überfallen unsere Lager. Ein Popori auf dem Durchweg hat sie aufgegessen ... Na gut, ich habe im Moment einfach keine. Fragt mal Forsil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1011">
+        <Page social="4">Alle meine Scherben sind für Allemantheia vorgesehen. Versucht erst gar nicht, das Mysterium zu überbieten.&lt;BR&gt;&lt;BR&gt;Aber mal unter uns, es kursiert das Gerücht, dass der Magistrat einen persönlichen Vorrat hortet.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1012">
+        <Page social="4">Nein, ich habe keine Scherben gehortet! Spinnt der?&lt;NEXTPAGEBUTTON&gt;"Habt Ihr wirklich keine?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nein, tut mir leid. Sie wachsen nicht gerade auf Bäumen.</Page>
+    </Text>
+</QuestDialog>

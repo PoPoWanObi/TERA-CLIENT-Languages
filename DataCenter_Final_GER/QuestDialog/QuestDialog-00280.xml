@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Eliminiert die {@LinkCreature:8#1011#Bulligen Wachposten}, {@LinkCreature:8#1021#Schleichenden Cromose} und {@LinkCreature:8#1031#Caprinwichtel}.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Narisa am Rächeraußenposten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1003">
+        <Page social="4">Aus, Ende und vorbei! Wieder eine Mission, die wir auf der Liste abhaken können!&lt;BR&gt;&lt;BR&gt;Bitte, nehmt dies für Euren Beitrag in dieser Sache!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1003">
+        <Page social="0">Hmm? Nein, nein, nein. Ihr führt die Befehle aus, dann gebe ich Euch die Belohnung. So läuft das.&lt;BR&gt;&lt;BR&gt;Ihr seid wohl neu. Nichts für ungut. Jetzt geht nur.</Page>
+    </Text>
+</QuestDialog>

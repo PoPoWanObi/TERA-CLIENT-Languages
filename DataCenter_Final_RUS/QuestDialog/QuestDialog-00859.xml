@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">Древняя магия бога Балдера издревле поддерживала Нижний Архив, но сейчас эта магия начала слабеть. &lt;BR&gt;&lt;BR&gt;Это хорошо видно на примере {@LinkCreature:30#190#Медных управляющих} в храме. Их изначальная роль заключалась в уходе за храмовым садом и защите храма от чудовищ.&lt;BR&gt;&lt;BR&gt;Теперь же они сами стали чудовищами, нападающими на все живое.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:30#190#Медные управляющие} должны быть уничтожены. Так будет лучше для всех.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1020">
+        <Page social="1">Мне грустно. Управляющие были верными стражниками Балдера и его сада, а мы без колебаний их уничтожили.&lt;BR&gt;&lt;BR&gt;Я знаю, знаю. Я сам попросил тебя это сделать. И все же мне очень жаль их.</Page>
+    </Text>
+</QuestDialog>

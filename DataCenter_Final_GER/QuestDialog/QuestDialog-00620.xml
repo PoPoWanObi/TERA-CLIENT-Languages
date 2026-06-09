@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">{@LinkCreature:19#3003#Mähende Erntegolems} und {@LinkCreature:19#3001#Zornige Erntegolems} sind auf dem Weg ins Dorf. Könnt Ihr sie ein wenig aufhalten?&lt;BR&gt;&lt;BR&gt;Nehmt alle &lt;font color='#660000'&gt;Kristallherzen&lt;/font&gt; an Euch, die Ihr finden könnt, und bringt sie mir. Ich bin gespannt, was es damit auf sich hat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Ich habe die Hoffnung, dass sie ohne die Herzen nicht wieder auferstehen können. Vielleicht kann ich sie sogar für irgendetwas benutzen.&lt;BR&gt;&lt;BR&gt;Habt vielen Dank!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">Die Golems sind jetzt schon bedrohlich nahe.</Page>
+    </Text>
+</QuestDialog>

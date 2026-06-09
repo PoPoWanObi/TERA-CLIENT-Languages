@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">General Samael hat Euch nach Popolion geschickt, um ein paar wilden Gerüchten nachzugehen. Ungezügelte Aggression soll sich im Land breit machen, und bizarre Mutanten sollen die Bewohner angreifen.&lt;BR&gt;&lt;BR&gt;Ihr habt ein paar Barakagelehrte getroffen, Brohua und Bedoram, die nach den Ursachen dafür forschten. Bedoram führte das Problem auf ein Relikt zurück, das man Dementalith nennt. Doch er hat Euch gewarnt, dass ein solches Objekt ein massives Wagnis sei und die Gefahr größer sei, als sie zunächst erscheine.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Meldet Euch umgehend bei General Samael. Alle anderen Befehle sind nichtig.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">Wir bewahren Stillschweigen darüber, aber Poporia steckt in Schwierigkeiten. Konsul Dougal hat mich angewiesen, jemanden zu finden, der die Sache untersucht.&lt;BR&gt;&lt;BR&gt;Geht nach Popolion und sucht nach der Quelle dieser Störungen, aber geht kein Risiko ein. Was auch immer das Problem ist, es darf sich nicht bis nach Val Aureum oder in andere Provinzen ausbreiten. Habt Ihr verstanden?&lt;BR&gt;&lt;BR&gt;Wenn man Popolion bis auf die Grundmauern niederbrennen muss, um diese Bedrohung zu beenden, dann tut Ihr das eben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1007">
+        <Page social="4">Ihr seid von der Föderation? Ihr kommt genau richtig! Die schlechten Neuigkeiten? Es gibt Ärger überall außerhalb von Popolion. Ist es eine Krankheit? Ein Fluch? Man munkelt von Vampirblutmagie, aber niemand weiß etwas Genaues.&lt;BR&gt;&lt;BR&gt;Gute Neuigkeiten? Nicht wirklich. Zwei Barakagelehrte haben sich auf der Suche nach Antworten in die Wälder gewagt, aber es ist sehr gefährlich da draußen. Findet {@LinkCreature:215#1019#Brohua} im Lager im Südwesten von hier und seht, womit Ihr helfen könnt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="4" villagerId="1019">
+        <Page social="4">Endlich Hilfe von außen! Es tut gut, wenigstens mit jemandem zu reden, der noch bei Verstand ist! Ich bin Bedorams Assistent und stehe Euch zu Diensten. Bis jetzt gibt es nicht viel zu berichten, obwohl wir glauben, es handelt sich weniger um eine Plage oder einen Fluch als um eine Art ... Strahlung? Schwer zu sagen. Ganz sicher wissen wir nur, dass es einen umso stärker beeinträchtigt, je länger man bleibt.&lt;BR&gt;&lt;BR&gt;Es hat meine Kollegen bereits in Mitleidenschaft gezogen, auch wenn es ihnen selbst wohl noch nicht aufgefallen ist.&lt;NEXTPAGEBUTTON&gt;"Wo ist Bedoram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Er bringt unsere Ausrüstung in ein neues Lager nordwestlich von hier. Wir vermessen das Kraftfeld, um ... aber ich will Euch nicht damit langweilen.&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:15#6#Gestörten Gebilde} in der Nähe unseres Lagers machen mir größere Sorgen. Ich habe gesehen, wie sie Reisende niedermetzelten, aber Präfekt Paka hält seine Truppen zurück. Er ist davon überzeugt, dass wir demnächst von Bauern überrannt werden!&lt;BR&gt;&lt;BR&gt;Könnt Ihr etwas gegen die Gebilde unternehmen?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="215" prevId="5" villagerId="1019">
+        <Page social="4">Ich bin Euch sehr zu Dank verpflichtet.&lt;BR&gt;&lt;BR&gt;Sobald ich hier zusammengepackt habe, gehe ich zurück nach Popolion.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, würdet Ihr Euch bei Bedoram melden? Er braucht vielleicht Hilfe. Er ist nach Norden gegangen, also ist er vielleicht am Lager der Buße vorbeigekommen. Geht dahin und fragt Zenturio {@LinkCreature:215#1010$$Amallen}, ob er weiß, wo Bedoram sich aufhält.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" prevId="6" villagerId="1010">
+        <Page social="4">Was ist das? Ihr sucht nach {@LinkCreature:215#1027$$Bedoram}?&lt;BR&gt;&lt;BR&gt;Er hat hier auf seinem Weg zum Lager der Erlösung kurz Halt gemacht, um von der Karawane seine Ausrüstung zu bekommen.&lt;BR&gt;&lt;BR&gt;Sucht nach ihm. Vielleicht hängt unser Leben von den Ergebnissen seiner Forschungen ab.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="215" prevId="7" villagerId="1027">
+        <Page social="4">Die Karawane ist schon lange überfällig. Was soll ich nur tun?&lt;BR&gt;&lt;BR&gt;Ohne meine Instrumente kann ich die Quelle der Störungen nicht isolieren. Hat Paka eigentlich die -&lt;BR&gt;&lt;BR&gt;Wartet, was war das?! Ein Notsignal! Die Karawane ist in Schwierigkeiten! Ihr müsst ihnen helfen! Schnell! Ich werde Euch zu {@LinkCreature:215#1027#Bedoram} teleportieren!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="215" prevId="8" villagerId="1027">
+        <Page social="4">Oriyn sei Dank! Ihr habt die Karawane gefunden!&lt;BR&gt;&lt;BR&gt;Ich muss jetzt die Stärke dieses Feldes messen und die Werte mit denen der früheren Messungen vergleichen. Oh, und ich brauche frische chemische Rückstände!&lt;BR&gt;&lt;BR&gt;Könnt Ihr mir die chemischen Proben besorgen, die ich benötige? Das Feld führt mit der Zeit zu körperlichen Veränderungen. Ich muss mir das Blut der - räusper - {@LinkCreature:15#14#Blutunholde} ansehen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="215" prevId="9" villagerId="1027">
+        <Page social="4">Sehr gut!&lt;BR&gt;&lt;BR&gt;Ich bin fast damit fertig, die gesammelten Werte einzutragen. Wenn ich dieses Blut hinzufüge, wird das Analysegerät die Abweichung unserer Proben berechnen und sie vergleichen.&lt;BR&gt;&lt;BR&gt;Wenn ich Recht habe, werden sie identisch sein.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="215" villagerId="1027">
+        <Page social="0">Ich brauche immer noch das Blut, &lt;PCNAME&gt;. Diese {@LinkCreature:15#14#Blutunholde} sind der Schlüssel.&lt;BR&gt;&lt;BR&gt;Ich habe nur um das notwendige Minimum gebeten, um diese Tests durchführen zu können!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="215" prevId="10" villagerId="1027">
+        <Page social="4">Gott sei Dank ist es keine Seuche, aber auch kein urzeitlicher Fluch. Es handelt sich um ... oh nein!&lt;BR&gt;&lt;BR&gt;Blutmagie! Und noch dazu äußerst mächtige! Um einen solchen Effekt zu erzielen, bräuchte es eine große Gruppe von Arkanisten ... oder vielleicht ein Artefakt.&lt;NEXTPAGEBUTTON&gt;"Was würde dies bewirken?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Gute Frage!&lt;BR&gt;&lt;BR&gt;Ich habe zuvor schon ähnliche Effekte gesehen, und immer waren Dementalithen mit im Spiel. Sie sind mächtig genug, um so etwas auszulösen.&lt;BR&gt;&lt;BR&gt;Eins sage ich Euch, wer auch immer ein solches Mittel einsetzt, hat einen Plan, und zahlt jeden Preis, solange er nur damit Erfolg hat.&lt;BR&gt;&lt;BR&gt;Beim Licht von Oriyn, was für ein Schlamassel!</Page>
+    </Text>
+</QuestDialog>

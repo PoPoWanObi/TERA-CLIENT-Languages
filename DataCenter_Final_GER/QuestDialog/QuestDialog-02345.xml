@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Ihr habt ein Gericht zubereitet und es Melsa überreicht.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">Willkommen zurück, &lt;PCNAME&gt;! Wieder hier beim Farmerfestival und auf der Suche nach Spaß, was?&lt;BR&gt;&lt;BR&gt;Könnt Ihr vielleicht später noch einmal wiederkommen? Ich bin hier reichlich überlastet; uns ist gestern Abend das Essen ausgegangen. Ich muss heute also viel mehr machen.&lt;NEXTPAGEBUTTON&gt;"Kann ich bei etwas helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Herrje. Seid Ihr sicher? Ja! Natürlich könnt Ihr! Ich weiß ja schon, wie gut Ihr kocht, &lt;PCNAME&gt;. Ihr wärt also eine große Hilfe!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Zunächst brauche ich etwas ganz Einfaches. Aber ich habe selbst keine Zeit dafür. &lt;NEXTPAGEBUTTON&gt;"Sagt mir nur, was Ihr braucht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Der Röstmais war gestern besonders beliebt, warum bereitet Ihr nicht einen ganzen Haufen davon zu?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Der Kartoffelsalat ist sehr gut weggegangen, davon könnte ich noch mehr gebrauchen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Ferkelfleisch wird immer gern genommen. Dann werft mal den Grill an!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Was für leckerer Röstmais! Auch sehr salzig. Daher wird sehr wahrscheinlich auch viel Bier getrunken!&lt;BR&gt;&lt;BR&gt;Hier, &lt;PCNAME&gt;, nehmt das zum Dank an. Ihr könnt es jederzeit verwenden. &lt;NEXTPAGEBUTTON&gt;"Gern geschehen." &lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Nicht vergessen: Immer das Rezept zur Hand, dann kann auch nichts schiefgehen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Das ist ja gleich eine ganze Heeresration Kartoffelsalat, &lt;PCNAME&gt;! Gute Arbeit!&lt;BR&gt;&lt;BR&gt;Hier: Nehmt das zum Dank für Eure Hilfe an. Ihr könnt es jederzeit verwenden. &lt;NEXTPAGEBUTTON&gt;"Gern geschehen." &lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Im Zweifelsfall immer im Rezept nachsehen.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Ich weiß nicht warum, aber irgendetwas an Monsterkämpfen macht den Leuten Appetit auf Gegrilltes Ferkel. Das hier sollte nun aber genügen!&lt;BR&gt;&lt;BR&gt;Hier, &lt;PCNAME&gt;, nehmt das zum Dank für Eure Hilfe an. Ihr könnt es jederzeit verwenden. &lt;NEXTPAGEBUTTON&gt;"Gern geschehen." &lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Im Zweifelsfall immer im Rezept nachsehen. Das ist mein Geheimtipp!</Page>
+    </Text>
+</QuestDialog>

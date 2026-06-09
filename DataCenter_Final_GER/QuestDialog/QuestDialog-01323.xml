@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="4">Der Weg nach Osten wird von {@LinkCreature:42#1300#Besharansöldnern} blockiert. Diese Bestien dürfen sich nicht in unsere Arbeit einmischen.&lt;BR&gt;&lt;BR&gt;Tötet sie und sammelt ihre Siegel. Ich werde Euch für jedes einzelne reich belohnen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">Prima. Ich wusste, dass es Euch gelingt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">Ihr kümmert Euch um die {@LinkCreature:42#1300#Besharansöldner}, richtig? Keine Siegel, keine Belohnung.</Page>
+    </Text>
+</QuestDialog>

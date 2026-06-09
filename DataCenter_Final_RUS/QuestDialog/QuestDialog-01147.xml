@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="4">Бесконечные битвы с врентсуульскими Потомками Лока изнуряют наших воинов. Убей Потомков и принеси мне их жетоны.&lt;BR&gt;&lt;BR&gt;Я повешу их на стену.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1005">
+        <Page social="4">Да, именно то, чего я ожидал! Отличная работа!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1005">
+        <Page social="0">Врентсуулские солдаты все еще живы?&lt;BR&gt;&lt;BR&gt;Почему?</Page>
+    </Text>
+</QuestDialog>

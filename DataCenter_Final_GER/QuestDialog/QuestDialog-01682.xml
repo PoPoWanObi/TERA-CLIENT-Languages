@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Die Garnison wurde in der Nacht von irgendetwas oder irgendjemandem infiltriert. Der Feind kann sich nur mithilfe mächtiger Magie unerkannt genähert haben.&lt;BR&gt;&lt;BR&gt;Wir haben eine Vorrichtung, die das Gebiet nach Energierückständen absucht. Es bleibt immer etwas zurück, nachdem Zauber ausgesprochen wurden.&lt;BR&gt;&lt;BR&gt;Die Vorrichtung wurde heute Morgen aktiviert. Kann &lt;PCNAME&gt; den Sensor zurückbringen, der die Ergebnisse der Suche enthält?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1012">
+        <Page social="6">Ah, &lt;PCNAME&gt; ist wirklich so zuverlässig, wie alle sagen.&lt;BR&gt;&lt;BR&gt;Diese wird die Ergebnisse auswerten.&lt;NEXTPAGEBUTTON&gt;Gebt ihr die Ergebnisse.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oje ... Argonenenergie. Das unterstützt den Verdacht, dass Thulsa und die Argonen gemeinsame Sache machen.</Page>
+    </Text>
+</QuestDialog>

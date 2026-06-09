@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">Sie sind zwar nicht so schlimm wie diese schrecklichen Puppen, aber die Monster unten in den Katakomben des Elends und den Blutigen Tiefen sollte man trotzdem nicht unterschätzen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:33#8#Gnadenlose Scheibenreißer}, {@LinkCreature:33#9#Panzerscheibenreißer}, {@LinkCreature:33#58#Quälende Scheibenreißer} und {@LinkCreature:33#59#Unbarmherzige Scheibenreißer} haben es geschafft, eine Reihe von Soldaten und Forschern zu jagen und zu töten, und das, obwohl sie auf Händen laufen.&lt;BR&gt;&lt;BR&gt;Sie müssen beseitigt werden!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">Ah! Ihr lacht im Angesicht des Todes!&lt;BR&gt;&lt;BR&gt;Diese Scheibenreißer haben so viele getötet und ihre Abzeichen als Trophäen erbeutet! Ich habe die blutigsten Schlachten geschlagen, aber nichts lässt mir mehr das Blut in den Adern gefrieren als dieser Ort hier.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">Kommt schon! Ihr könnt diese Scheibenreißer finden!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="5">Ces espèces d'œufs pourris passent leur temps à essayer de me boulotter!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je dois effectuer des relevés, mais les {@LinkCreature:28#2041#ovolithes souillés} m'attaquent aussitôt que je me mets au travail.&lt;BR&gt;&lt;BR&gt;Vous pourriez peut-être appeler quelques amis à l'aide et régler le problème?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1011">
+        <Page social="5">Rien ne vous résiste, &lt;PCNAME&gt;!&amp;nbsp; Je vais pouvoir finir mon travail et rentrer au bercail.&lt;BR&gt;&lt;BR&gt;Merci!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

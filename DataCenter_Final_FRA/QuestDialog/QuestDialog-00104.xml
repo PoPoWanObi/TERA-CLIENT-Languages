@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les devans de Deva Silva sont en train de comploter contre nous. comment je le sais?&amp;nbsp; Il faut avoir des oreilles partout, soldat. C'est tout ce que vous avez besoin de savoir. &lt;BR&gt;&lt;BR&gt;Débarrassez-nous des {@LinkCreature:3#300141#spadassins devans}, {@LinkCreature:3#18#racleurs devans}, {@LinkCreature:3#300160#arcanistes devans}, {@LinkCreature:3#14#ravageurs de la résurrection} et {@LinkCreature:3#15#sorciers cœur d'ébène}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Malvina au Poste de l'Avant-garde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1015">
+        <Page social="4">Bon travail, soldat. La Fédération aurait bien besoin de &lt;PCCLASS:lcase&gt;s comme vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1015">
+        <Page social="0">Vous n'avez pas encore mené votre mission à bien. N'avez-vous pas écouté les ordres?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

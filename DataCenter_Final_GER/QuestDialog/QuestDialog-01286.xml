@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Das ist ein simpler, wenn auch schmutziger Job.&lt;BR&gt;&lt;BR&gt;Beseitigt {@LinkCreature:40#3#Wütende Panzerferkeln}, {@LinkCreature:40#11#Selvarasspäherinnen}, {@LinkCreature:40#12#Selvarasassassinen}, {@LinkCreature:40#17#Mutagenwölfe}, {@LinkCreature:40#18#Gewalttätige Mycanaren} und {@LinkCreature:40#29#Brutale Säbelzähnen} im Besudelten Tal. Beschafft Proben für genauere Studien.&lt;BR&gt;&lt;BR&gt;Sucht Glaserine in Frontera, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1016">
+        <Page social="4">Unsere Feinde sind immer noch zu zahlreich und zu nahe. Aber macht weiter!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" villagerId="1016">
+        <Page social="0">Ich kann von diesen verseuchten Proben viel erfahren. Habt Ihr sie alle?</Page>
+    </Text>
+</QuestDialog>

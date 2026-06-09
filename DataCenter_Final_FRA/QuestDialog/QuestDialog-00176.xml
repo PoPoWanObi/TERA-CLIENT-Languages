@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Ces saletés de dents-de-sabre massacrent le personnel de la Fédération du Marais Tuwangi. Nous devons réagir.&lt;BR&gt;&lt;BR&gt;Allez donner la chasse aux {@LinkCreature:5#13#dents-de-sabre noirs}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Zelia, de la Garnison Tuwangi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1011">
+        <Page social="5">La population de dents-de-sabre noirs a baissé?&amp;nbsp; Bonne nouvelle!&amp;nbsp; Je vais noter ça sur mes relevés et en faire mention dans mon rapport!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1011">
+        <Page social="0">Je ressemble à un dent-de-sabre, d'après vous?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

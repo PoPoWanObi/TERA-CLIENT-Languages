@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">Die Nachkommen Loks kontrollieren {@LinkCreature:18#18#Riesige Gladiatoren} in der Arena der Erhabenen. Wenn sie sie gegen uns einsetzen, gebe ich uns keine große Chance. Schaltet ein paar von ihnen aus und meldet Euch wieder hier. Ich muss wissen, wie tödlich sie genau sind.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">Danke, &lt;PCNAME&gt;. Könnt Ihr den Bericht zu Anaka bringen? Sie fragt mich schon eine ganze Weile danach.</Page>
+    </Text>
+</QuestDialog>

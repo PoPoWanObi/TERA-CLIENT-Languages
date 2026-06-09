@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="4">Les étages supérieurs sont envahis par les {@LinkCreature:46#201#écraseurs fouaille-tripes argonomorphes}, les {@LinkCreature:46#202#chamanes fouaille-tripes argonomorphes} et les {@LinkCreature:46#203#pourfendeurs de Lok argonomorphes}. Nettoyez-moi tout ça!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Quand vous aurez fini, présentez votre rapport à {@Creature:246#1014} au {@Rgn:46014$$Site de recherche des Trois Tours}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1014">
+        <Page social="5">Bravo.&lt;BR&gt;&lt;BR&gt;C'est difficile de mener des recherches quand le danger rôde à chaque couloir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1014">
+        <Page social="0">Eliminez des {@LinkCreature:46#201#écraseurs fouaille-tripes argonomorphes}, des {@LinkCreature:46#202#chamanes fouaille-tripes argonomorphes} et des {@LinkCreature:46#203#pourfendeurs de Lok argonomorphes}. Votre victoire inconditionnelle sera récompensée.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,505 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="64" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="6400001" desc="탐험단 보급기지">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="65600.03125000,-76940.27343750,-3012.60156250" />
+                <Fence pos="65369.05859375,-78104.47656250,-3124.64843750" />
+                <Fence pos="66890.19531250,-80732.48437500,-3056.50781250" />
+                <Fence pos="67874.50000000,-80165.74218750,-2976.12109375" />
+                <Fence pos="67075.57031250,-78830.75781250,-2949.71484375" />
+                <Fence pos="66943.85156250,-77044.14062500,-2928.44531250" />
+                <Npc dir="30" npcTemplateId="1003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="230" npcTemplateId="1005">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="200" npcTemplateId="1007">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="201" npcTemplateId="1008">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="226" npcTemplateId="1045">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="80" npcTemplateId="1046">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="20" npcTemplateId="1047">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="209" npcTemplateId="1050">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="318" npcTemplateId="1048">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="70883.52343750,-77011.21875000,-2312.67187500" />
+                <Fence pos="69736.52343750,-77193.25000000,-2312.67187500" />
+                <Fence pos="69726.43750000,-78494.82812500,-2330.16406250" />
+                <Fence pos="71149.43750000,-78236.53906250,-2312.67187500" />
+                <Npc dir="233" npcTemplateId="1009">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="227" npcTemplateId="1021">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="242" npcTemplateId="1022">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="69546.38281250,-79292.95312500,-2565.62353516" />
+                <Fence pos="69124.18750000,-78977.57031250,-2548.56738281" />
+                <Fence pos="68888.77343750,-79244.78906250,-2611.56713867" />
+                <Fence pos="69259.86718750,-79535.89843750,-2620.25732422" />
+                <Npc dir="202" npcTemplateId="1006">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="220" npcTemplateId="1001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="230" npcTemplateId="1042">
+                    <PatrolList>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="8" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="10" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                    </PatrolList>
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="66712.78906250,-74408.28125000,-3037.36718750" />
+                <Fence pos="65728.07812500,-75949.13281250,-3003.14453125" />
+                <Fence pos="67061.46875000,-76317.30468750,-2940.74609375" />
+                <Fence pos="67766.39062500,-75251.87500000,-2929.86328125" />
+                <Npc dir="59" npcTemplateId="1033">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="54" npcTemplateId="1024">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="340" npcTemplateId="1031">
+                    <PatrolList>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="5" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="2" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="12" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="7" />
+                        </Patrol>
+                    </PatrolList>
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="69577.62500000,-81297.35937500,-3037.25390625" />
+                <Fence pos="67906.18750000,-80256.73437500,-2983.19775391" />
+                <Fence pos="66909.16406250,-81079.57812500,-3113.92529297" />
+                <Fence pos="67801.21093750,-81824.92187500,-3165.93261719" />
+                <Fence pos="68903.70312500,-82237.35156250,-3164.48535156" />
+            </Territory>
+            <Territory>
+                <Fence pos="68571.88281250,-78735.05468750,-2592.04321289" />
+                <Fence pos="68215.87500000,-77669.39843750,-2626.80175781" />
+                <Fence pos="67150.10937500,-77870.32031250,-2798.44433594" />
+                <Fence pos="67606.08593750,-79188.53125000,-2802.20019531" />
+                <Npc dir="197" npcTemplateId="1029">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="69185.86718750,-78880.99218750,-2537.23437500" />
+                <Fence pos="68929.37500000,-78550.91406250,-2544.49609375" />
+                <Fence pos="68799.84375000,-78607.89843750,-2554.68359375" />
+                <Fence pos="69072.81250000,-78975.86718750,-2549.46484375" />
+                <Npc dir="219" npcTemplateId="1601">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="65298.79687500,-77928.43750000,-3144.66845703" />
+                <Fence pos="65775.03125000,-79872.99218750,-3235.45166016" />
+                <Fence pos="68004.06250000,-82202.31250000,-3294.48681641" />
+                <Fence pos="71201.00000000,-82703.14062500,-3308.14306641" />
+                <Fence pos="73897.71093750,-81334.16406250,-3209.76708984" />
+                <Fence pos="73361.67187500,-79563.40625000,-2853.32861328" />
+                <Fence pos="74088.44531250,-76393.51562500,-2647.75927734" />
+                <Fence pos="72409.22656250,-73185.50781250,-2882.10449219" />
+                <Fence pos="71406.77343750,-69164.72656250,-3458.06103516" />
+                <Fence pos="70055.35937500,-69372.50000000,-3424.41650391" />
+                <Fence pos="69698.88281250,-72582.76562500,-3083.44238281" />
+                <Fence pos="66580.00000000,-74328.28125000,-3171.39306641" />
+                <Fence pos="65474.39843750,-76878.23437500,-3074.37451172" />
+                <Npc dir="-130" npcTemplateId="9002">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-127" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-127" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-77" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-82" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="30" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="30" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="30" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="30" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-130" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-90" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="106" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="119" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="119" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="136" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="8" npcTemplateId="9002">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-120" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-141" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="51" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-140" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-73" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-169" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="113" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="13" npcTemplateId="9001">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="65308.79687500,-77918.43750000,-3143.39062500" />
+                <Fence pos="65785.03125000,-79862.99218750,-3234.19140625" />
+                <Fence pos="68014.06250000,-82192.31250000,-3294.08593750" />
+                <Fence pos="71211.00000000,-82693.14062500,-3308.28515625" />
+                <Fence pos="73907.71093750,-81324.16406250,-3208.85546875" />
+                <Fence pos="73371.67187500,-79553.40625000,-2853.14453125" />
+                <Fence pos="74098.44531250,-76383.51562500,-2645.87500000" />
+                <Fence pos="72419.22656250,-73175.50781250,-2879.16406250" />
+                <Fence pos="71416.77343750,-69154.72656250,-3459.00000000" />
+                <Fence pos="70065.35937500,-69362.50000000,-3424.81250000" />
+                <Fence pos="69708.88281250,-72572.76562500,-3085.69921875" />
+                <Fence pos="66590.00000000,-74318.28125000,-3173.80078125" />
+                <Fence pos="65484.39843750,-76868.23437500,-3073.88281250" />
+                <Npc dir="83" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-127" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-141" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="27" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="27" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-170" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="135" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-112" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="-129" npcTemplateId="9003">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="68870.7266,-78447.7266,-2546.4629" />
+                <Fence pos="68720.0234,-78590.1641,-2555.8359" />
+                <Fence pos="68918.5313,-78839.7656,-2552.5291" />
+                <Fence pos="69048.4297,-78725.3047,-2541.1816" />
+                <Npc dir="-138" npcTemplateId="9000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="6400002" desc="보급 기지 북부 (6400002)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="73278.59375000,-81871.50781250,-3311.75000000" />
+                <Fence pos="73853.43750000,-81595.89843750,-3287.46093750" />
+                <Fence pos="73300.92187500,-79801.94531250,-2886.69531250" />
+                <Fence pos="72724.37500000,-80337.48437500,-2959.99218750" />
+                <Npc dir="296" npcTemplateId="1034">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="281" npcTemplateId="1026">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="120" npcTemplateId="1032">
+                    <PatrolList>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="4" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="6" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="3" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="0" />
+                        </Patrol>
+                        <Patrol>
+                            <Social motionId="7" />
+                        </Patrol>
+                    </PatrolList>
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="70976.85156250,-81122.02343750,-2993.34375000" />
+                <Fence pos="69654.88281250,-81139.35937500,-2993.16796875" />
+                <Fence pos="69359.04687500,-82238.09375000,-3165.46484375" />
+                <Fence pos="71042.39062500,-82214.83593750,-3165.43750000" />
+                <Npc dir="273" npcTemplateId="1030">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="269" npcTemplateId="1011">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="71814.14843750,-78363.10156250,-2533.19458008" />
+                <Fence pos="71320.79687500,-78865.25000000,-2529.57714844" />
+                <Fence pos="71698.04687500,-79185.83593750,-2573.76660156" />
+                <Fence pos="72166.44531250,-78715.61718750,-2585.60034180" />
+                <Npc dir="318" npcTemplateId="1025">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="66901.53906250,-80041.13281250,-3006.04858398" />
+                <Fence pos="66743.46875000,-80314.73437500,-3005.25781250" />
+                <Fence pos="67273.21093750,-80581.10156250,-3016.37500000" />
+                <Fence pos="67401.71093750,-80370.33593750,-3019.96484375" />
+                <Npc dir="12" npcTemplateId="1049">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="66593.49218750,-81713.65625000,-3289.85156250" />
+                <Fence pos="67169.07812500,-82208.12500000,-3279.55468750" />
+                <Fence pos="68396.10937500,-80633.17187500,-2963.87475586" />
+                <Fence pos="67905.85156250,-80318.12500000,-2993.00585938" />
+                <Npc dir="231" npcTemplateId="1028">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="226" npcTemplateId="1027">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="231" npcTemplateId="1023">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

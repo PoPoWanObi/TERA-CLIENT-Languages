@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="4">Разрази меня гром! Эти проклятые джунайдарские наемницы не желают жить на честно заработанную плату! Они крадут наши кристаллы!&lt;BR&gt;&lt;BR&gt;И с каждым разом они все наглее. Последний груз, отправленный в Акарум, был захвачен - нам немедленно нужно прекратить это.&lt;BR&gt;&lt;BR&gt;Поймай и убей {@LinkCreature:34#410#Джунайдарских налетчиков}. Разыщи претора Нунада в Блеклом камне, когда закончишь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1004">
+        <Page social="4">Так что, джунайдарские бродяги прижаты к ногтю? Хорошая работа. Мне понадобится много помощи такого рода.&lt;BR&gt;&lt;BR&gt;Видишь ли, этот регион полон жутких осколков. Удивительные кристаллы, идеально подходящие для магических щитов. В Аллемантее дорого платят за них и неспроста!&lt;BR&gt;&lt;BR&gt;Ладно, пора мне возвращаться к работе. Спасибо еще раз!</Page>
+    </Text>
+</QuestDialog>

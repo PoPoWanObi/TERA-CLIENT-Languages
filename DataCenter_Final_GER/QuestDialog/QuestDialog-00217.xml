@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">&lt;PCNAME&gt;! Ich habe hier eine Bitte für Verstärkung in den Himmelshügeln. Drustan draußen bei Casidhes Unterstand braucht sofort Hilfe. Ich habe keine Soldaten übrig, aber ich glaube, Ihr könntet genau der Richtige für ihn sein.&lt;BR&gt;&lt;BR&gt;Seine Nerven liegen ein wenig blank, aber er ist ein guter Kerl. Tut, was Ihr könnt. Für die Föderation!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">Ihr seid die Ablösung? Ganz allein?&lt;BR&gt;&lt;BR&gt;Verflucht seien Davens Augen. Wir brauchen eigentlich mehr Hilfe, aber gut - an die Arbeit mit Euch. Die Orkaner sammeln sich zum Angriff. Ich will, dass Ihr sie vorsorglich ausmerzt. Beseitigt {@LinkCreature:7#5#Rotreißerorkaner} und {@LinkCreature:7#6#Kämpfer der Rotreißerorkaner} und bringt ihre Reißer mit.&lt;BR&gt;&lt;BR&gt;Vielleicht wird uns das die Ruhe verschaffen, die wir brauchen. Auf in den Kampf!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">Gut gemacht! Das sind eine Menge Reißer.&lt;BR&gt;&lt;BR&gt;Das wird sie für eine Weile fernhalten, aber sie werden zurückkommen. Hoffentlich haben wir bis dahin mehr Verstärkung erhalten.&lt;BR&gt;&lt;BR&gt;Ich bin froh, dass Ihr hier seid, &lt;PCNAME&gt;. Macht weiter so.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">Ihr habt Eure Befehle. Abmarsch.</Page>
+    </Text>
+</QuestDialog>

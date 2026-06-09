@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:230#3026#Лилис} искала тебя по важному вопросу.&lt;BR&gt;&lt;BR&gt;Что-то насчет семян в башне маяка.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">Храни нас всех мать-природа.&lt;BR&gt;&lt;BR&gt;Големы запасают в дубовые бочки сухие стручки с семенами. Только этой ночью доставили очередной груз. И мне бы хотелось добыть образец семян.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">Хм-м. И что же это может быть? Придется выяснить опытным путем. Будем надеяться, что семя даст всходы!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Старые дубовые бочки. Просто разбей их!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3026">
+        <Page social="4">Выглядит знакомо... какое-то лекарственное растение, кажется.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Старые дубовые бочки. Просто разбей их!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3026">
+        <Page social="4">Ура! Еще больше семян Глаза Балдера! Мне так и не удалось их вырастить. Но с этими меня ждет удача!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Старые дубовые бочки. Просто разбей их!</Page>
+    </Text>
+</QuestDialog>

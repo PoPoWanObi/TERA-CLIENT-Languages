@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="4">Um unsere Versorgungsrouten zu sichern und Militäreinheiten ohne argonische Einmischung zu verlegen, haben wir Castanicingenieure eingesetzt, um sich nach Granarkus durchzugraben.&lt;BR&gt;&lt;BR&gt;Ich werde Euch zu {@LinkCreature:249#1015} teleportieren, wenn Ihr bereit seid. Gebt ihm diese Befehle, und helft ihm, so gut Ihr könnt. Und jetzt zurück in den Kampf.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1015">
+        <Page social="4">Wir haben den letzten Felsen vor einigen Stunden gesprengt.&lt;BR&gt;&lt;BR&gt;Die Argonen erschweren regelmäßig Versorgungs- und Nachschubmissionen, vor allem von und nach Kanstria.&lt;NEXTPAGEBUTTON&gt;"Was ist das? Eine Stadt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Kanstria? Ja, dort leben viele Castanic. Ich hörte, sie nennen sie "Kleincastanica."&lt;BR&gt;&lt;BR&gt;Dummerweise haben die Argonen die Flugplattform gestört, sodass sie hier gestrandet sind. Bitte bringt diesen Flugstein zu ihren Flugmeister, damit sie weiter können.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1006">
+        <Page social="6">Oh, ein neuer Flugstein. Wunderbar!&lt;BR&gt;&lt;BR&gt;Jetzt können wir die Flüge nach Kaiator und in die Zulfikarfestung wieder aufnehmen. Ich danke Euch.</Page>
+    </Text>
+</QuestDialog>

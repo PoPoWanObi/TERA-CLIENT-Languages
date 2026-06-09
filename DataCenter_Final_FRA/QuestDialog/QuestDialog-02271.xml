@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Je ne me lasserai jamais de voir votre visage rayonnant, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Pareillement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'aime bien parler de tout et de rien, pas vous?&amp;nbsp; Restons là toute la journée à raconter des banalités.&lt;BR&gt;&lt;BR&gt;Ou alors, vous pouvez aller voir si {@LinkCreature:63#3002#Taratia} a une mission pour vous. Je sais que vous aimez partir à l'aventure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Je sais que ces missions de collecte doivent vous paraître barbantes, mais bon, c'est l'argent qui vous intéresse, de toute façon, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je sais, je sais, on est tous dans le même bateau. "Pour la Fédération", blablabla.&lt;BR&gt;&lt;BR&gt;Enfin, profitez bien du grand air en réceptionnant les marchandises du jour. Je vous jalouse un peu, vous savez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">De la fibre de toira. Ce matériau peut s'avérer extrêmement utile si on sait bien l'utiliser.&lt;BR&gt;&lt;BR&gt;Merci!&amp;nbsp; Allez dire à {@LinkCreature:63#3003#Elthienne} que je vais fabriquer ce qu'elle demande en un rien de temps.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Apportez-moi la fibre de toira, ou alors je vous préviens, je vais hurler comme un bébé. Et vous ne voulez pas voir ça, croyez-moi.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">{@LinkCreature:63#3003#Elthienne} pense que ceci appartient à un dent-de-sabre. Elle n'y connait pas grand-chose en artisanat. Vous devriez la voir dans un atelier. C'est assez amusant, en fait.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Vous voyez ce visage?&amp;nbsp; C'est un visage qui veut dire "j'ai besoin de peau de sang".</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">{@LinkCreature:63#3002#Taratia} vous a dit que l'artisanat n'était pas fait pour moi?&amp;nbsp; Petite peste!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;C'est moi qui ai créé cette ceinture sublime, je vous ferais dire.</Page>
+    </Text>
+</QuestDialog>

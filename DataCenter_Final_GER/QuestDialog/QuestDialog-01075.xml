@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">Unsere Bitte um Verstärkung aus Allemantheia wird ignoriert oder verzögert. So oder so, wir können nicht zulassen, dass die Wendigos ihre Truppen zusammenziehen und uns gebündelt angreifen.&lt;BR&gt;&lt;BR&gt;Beseitigt einige ihrer {@LinkCreature:34#600#Zertrümmerer}, {@LinkCreature:34#700#Kampfmeister}, {@LinkCreature:34#500#Frostweber} oder {@LinkCreature:34#800#Eisgängerarachnen}, um die Wendigos in Schach zu halten. Tut, was immer dazu nötig ist!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1001">
+        <Page social="4">Wir sind Euch zu tiefem Dank verpflichtet.&lt;BR&gt;&lt;BR&gt;Ich danke Euch von Herzen.</Page>
+    </Text>
+</QuestDialog>

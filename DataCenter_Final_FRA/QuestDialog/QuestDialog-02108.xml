@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="471" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="471" prevId="0" villagerId="1013">
+        <Page social="4">(Ce cadavre de soldat tient une sacoche en cuir.)&lt;BR&gt;&lt;BR&gt;(Sur la sacoche est gravé le nom "Hector".)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="4">C'est la sacoche de mon fils... Je la reconnaîtrais entre toutes.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

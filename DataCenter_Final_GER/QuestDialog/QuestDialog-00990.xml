@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Die Eisige Ödnis, die Todesfrostebene und das Wrack der Batia gehören zu unserem Zuständigkeitsbereich. Das ist ein riesiges Gebiet, das wir beaufsichtigen müssen, und wir haben kaum die Mittel dafür.&lt;BR&gt;&lt;BR&gt;Besser, wenn Ihr {@LinkCreature:231#1008$$Pedr} fragt, wann die Flotte eintreffen soll, die uns versprochen wurde. Ich würde ihm wahrscheinlich den Kopf abreißen, wenn ich nochmal "könnte jederzeit eintreffen" hören müsste ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1008">
+        <Page social="4">Bin ich froh, Euch und nicht {@LinkCreature:231#1023$$Ghauth} zu sehen. Er ist nicht sehr geduldig, auch wenn ich ihn verstehe. Er trägt eine große Verantwortung.&lt;BR&gt;&lt;BR&gt;Die Flotte der Föderation könnte jederzeit eintreffen, und dann kann er sich endlich etwas entspannen. Sagt ihm, dass er sich keine Sorgen machen soll.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Ich könnte ihn umbringen, aber ich halte mich vorerst zurück und werde ihm nur vor die Füße spucken, wenn uns die Vorräte ausgehen.&lt;BR&gt;&lt;BR&gt;Wenn diese Flotte eintrifft, sind wir wahrscheinlich schon alle von bösartigen Monstern aufgefressen oder erfroren.</Page>
+    </Text>
+</QuestDialog>

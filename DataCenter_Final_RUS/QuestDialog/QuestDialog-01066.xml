@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="5">Знаешь, люди обожают со мной беседовать. Иногда бывает, человек придет за заданием, а мы с ним как начнем болтать, так и болтаем часами! Наверное, что-то такое есть во мне, раз люди так любят со мной поговорить. Похоже, я очень интересный собеседник! Эй, а тебе нравится...&lt;BR&gt;&lt;BR&gt;Что? Ох! Конечно, у меня есть для тебя задание.&lt;BR&gt;&lt;BR&gt;Тебе нужно убить {@LinkCreature:36#11#Арахненов-звероловов дола}. Проще простого!&lt;BR&gt;&lt;BR&gt;Как только справишься, сообщи Налурии в Тор-Эксуле.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1007">
+        <Page social="5">Отличная работа. Я уверена, Валькион оценит твой нелегкий труд по достоинству.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1007">
+        <Page social="0">Я знаю, это нелегко понять, но я не дам тебе ничего, пока ты не выполнишь задание.</Page>
+    </Text>
+</QuestDialog>

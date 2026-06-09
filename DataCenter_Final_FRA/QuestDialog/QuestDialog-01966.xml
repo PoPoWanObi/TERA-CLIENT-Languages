@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="220037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="220037">
+        <Page social="0">Mon ami, j'envoie des éclaireurs dans le territoire de libre Échange, et j'ai besoin que vous fassiez diversion. Le Collectif a un certain nombre d'extracteurs de noctenium dans la zone. Désactivez-en quelques uns - il suffit d'enlever les clés des extracteurs - et ils seront trop occupés à enquêter pour remarquer mes éclaireurs.&lt;BR&gt;&lt;BR&gt;Je vous donnerai une récompense pour chaque clé d'extracteur que vous me rapporterez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="220037">
+        <Page social="0">&lt;PCNAME&gt;!&amp;nbsp;&lt;BR&gt;Tout le monde n'est pas capable de mener à bien une mission aussi dangereuse en territoire ennemi. L'Union des Éclairés est honorée de vous compter dans ses rangs, mon ami!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Aujourd'hui, vous méritez le titre de &amp;quot;héros.&amp;quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="121" villagerId="220037">
+        <Page social="0">Que l'Union des Éclairés l'emporte!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

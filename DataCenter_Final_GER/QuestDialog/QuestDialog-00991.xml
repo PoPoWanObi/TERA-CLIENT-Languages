@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Vergesst die Flotte. Uns fehlt es an Nachschub, also Nahrung.&lt;BR&gt;&lt;BR&gt;Wenn die Bedingungen nicht perfekt sind, kann das Versorgungsschiff nicht an der {@Rgn:31009$$Leuchtfeuergarnison} anlegen. Und seit Kurzem sind die Bedingungen eher schlecht.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:231#1027$$Yasper} kann das Wetter recht gut vorhersagen. Würdet Ihr ihn um eine Vorhersage bitten?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">Ghauth verlangt eine neue Vorhersage, richtig? Ich gab ihm erst vor fünf Minuten eine, aber wenn es denn sein muss.&lt;BR&gt;&lt;BR&gt;Es ist so: Dieses Wetter ist nicht natürlichen Ursprungs. Ich vermute, dass ein mächtiger Zauber dahinter steckt.&lt;BR&gt;&lt;BR&gt;Ich befürchte, dass das schlimme Wetter noch einige Zeit so bleiben wird.&lt;BR&gt;&lt;BR&gt;Ich wünschte, ich könnte ihm Angenehmeres vorhersagen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Meine Befürchtungen haben sich bewahrheitet. Es ist völlig sinnlos, diesen Ort bei solch bitterer Kälte zu verteidigen. Wir müssen aufbrechen, bevor es zu spät ist.&lt;BR&gt;&lt;BR&gt;Erzählt {@LinkCreature:231#1008$$Pedr} von meiner Ansicht, und sagt ihm auch, dass ich ihm seine Haut abziehe und damit meinen Mantel ausstopfe, wenn er dagegen aufmuckt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1008">
+        <Page social="4">{@LinkCreature:231#1023$$Ghauth} ist wie die meisten, ein geradliniger Mann, aber er ist auch übertrieben vorsichtig.&lt;BR&gt;&lt;BR&gt;Sicher, das Schiff hat Verspätung, aber die Lage ist alles andere als hoffnungslos. Es ist völlig ausgeschlossen, dass wir diese Stellung hier aufgeben.&lt;BR&gt;&lt;BR&gt;Mein Kollege {@LinkCreature:231#1013$$Urwah} hat mir bestätigt, dass die Flotte unterwegs ist, und ich vertraue ihm vollständig. Macht Euch wegen Ghauth keine Sorgen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">Die Rotreißer wollen die Kontrolle an sich reißen, indem sie den Rest unseres Volkes in den Himmelshügeln aushungern. Meistens plündern sie dabei unsere letzte Farm.&lt;BR&gt;&lt;BR&gt;Bringt die {@LinkCreature:7#7#Rotreißerwüter} zur Strecke und tötet sie.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Heroth auf Godrics Farm, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">Es ist gut zu sehen, dass ein Soldat willens ist, sich durch das Blut und den Unrat zu plagen, um etwas geschafft zu bekommen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1005">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">{@LinkCreature:20#30114001#Ossugonische Zenturionen} und {@LinkCreature:20#30031000#Skelettspeerkämpfer} tragen Waffen bei sich. Ich möchte sie studieren und herausfinden, wie sie all die Jahre erhalten bleiben konnten.&lt;BR&gt;&lt;BR&gt;Gut, sie sind zwar rostig, aber sie sind noch nicht auseinandergefallen.&lt;BR&gt;&lt;BR&gt;Ich muss wissen, warum das so ist. Sammelt sie für mich ein. Was Ihr mit den Skeletten macht, ist mir egal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Ihr habt offensichtlich mehr auf Lager als es den Anschein hat, wenn Ihr so viele mit zurückbringen könnt.&lt;BR&gt;&lt;BR&gt;Ich danke Euch und werde mich sofort an die Arbeit machen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1014">
+        <Page social="0">Ich muss wissen, warum diese Waffen nicht zerbrochen sind! Und um das herauszufinden, müsst Ihr sie mir bringen!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,101 @@
+<StrSheet_VehicleSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill">
+    <String id="1101" templateId="2000" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="48" />
+    <String id="1201" templateId="2000" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="48" />
+    <String id="1101" templateId="2001" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="48" />
+    <String id="1201" templateId="2001" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="48" />
+    <String id="1101" templateId="1001" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="116" />
+    <String id="1201" templateId="1001" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="116" />
+    <String id="1102" templateId="1002" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="116" />
+    <String id="1202" templateId="1002" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="116" />
+    <String id="1103" templateId="1003" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="116" />
+    <String id="1203" templateId="1003" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="116" />
+    <String id="1101" templateId="4000" name="Залп" tooltip="Выстрелить снарядом." huntingZoneId="116" />
+    <String id="1201" templateId="4000" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="116" />
+    <String id="1301" templateId="4001" name="Залп" tooltip="Выстрелить снарядом." huntingZoneId="116" />
+    <String id="1401" templateId="4001" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="116" />
+    <String id="1501" templateId="4002" name="Залп" tooltip="Выстрелить снарядом." huntingZoneId="116" />
+    <String id="1503" templateId="4002" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="116" />
+    <String id="1501" templateId="4003" name="Залп" tooltip="Выстрелить снарядом." huntingZoneId="116" />
+    <String id="1503" templateId="4003" name="Покинуть" tooltip="Покинуть осадное орудие." huntingZoneId="116" />
+    <String id="1102" templateId="5000" name="Натиск пузом" tooltip="Прыгнуть вперед на врагов, нанося огромный урон и замедляя цели." huntingZoneId="117" />
+    <String id="1103" templateId="5000" name="Шлепок" tooltip="Трижды атаковать врагов и продолжать наносить урон несколько секунд после этого." huntingZoneId="117" />
+    <String id="1104" templateId="5000" name="Мощный приступ гнева" tooltip="Выпустить сферы энергии по дуге перед собой, оглушая врагов." huntingZoneId="117" />
+    <String id="1111" templateId="5000" name="Большая отрыжка" tooltip="Выпустить огонь по дуге перед собой, отпрянув назад." huntingZoneId="117" />
+    <String id="1212" templateId="5000" name="Прыжок назад" tooltip="Отпрыгнуть назад и атаковать врагов на определенном расстоянии." huntingZoneId="117" />
+    <String id="1318" templateId="5000" name="Летающие кулаки" tooltip="Нанести мощные удары во всех направлениях вокруг себя, замедляя пораженные цели." huntingZoneId="117" />
+    <String id="2201" templateId="5000" name="Очищение кумасов" tooltip="Снять все наложенные на дружественных кумасов негативные эффекты в радиусе действия умения." huntingZoneId="117" />
+    <String id="2202" templateId="5000" name="Исцеление кумасов" tooltip="Восстановить HP у других кумасов в радиусе действия умения." huntingZoneId="117" />
+    <String id="1102" templateId="6000" name="Натиск пузом" tooltip="Прыгнуть на врагов, нанося огромный урон и замедляя цели." huntingZoneId="117" />
+    <String id="1104" templateId="6000" name="Приступ гнева" tooltip="Выпустить две сферы энергии по небольшой дуге перед собой, оглушая врагов." huntingZoneId="117" />
+    <String id="1106" templateId="6000" name="Отрыжка" tooltip="Выпустить огонь по дуге перед собой." huntingZoneId="117" />
+    <String id="1108" templateId="6000" name="С разворота влево" tooltip="Нанести удар рукой с разворота, поворачиваясь по часовой стрелке." huntingZoneId="117" />
+    <String id="1109" templateId="6000" name="С разворота вправо" tooltip="Нанести удар рукой с разворота, поворачиваясь против часовой стрелки." huntingZoneId="117" />
+    <String id="1212" templateId="6000" name="Отступление" tooltip="Отступить!" huntingZoneId="117" />
+    <String id="1311" templateId="6000" name="Катящееся пузо" tooltip="Атаковать, покатившись вперед и замедляя все цели, по которым вы прокатитесь." huntingZoneId="117" />
+    <String id="2201" templateId="6000" name="Очищение кумасов" tooltip="Снять все наложенные на дружественных кумасов негативные эффекты в радиусе действия умения." huntingZoneId="117" />
+    <String id="6010" templateId="6000" name="Прокатиться назад" tooltip="Атаковать, покатившись назад и замедляя все цели, по которым вы прокатитесь." huntingZoneId="117" />
+    <String id="1103" templateId="7000" name="Шлепок" tooltip="Трижды атаковать врагов и продолжать наносить урон несколько секунд после этого." huntingZoneId="117" />
+    <String id="1212" templateId="7000" name="Отступление" tooltip="Отступить!" huntingZoneId="117" />
+    <String id="1301" templateId="9005" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="121" />
+    <String id="1501" templateId="9005" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="121" />
+    <String id="1301" templateId="9005" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="122" />
+    <String id="1501" templateId="9005" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="122" />
+    <String id="1301" templateId="9005" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="123" />
+    <String id="1501" templateId="9005" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="123" />
+    <String id="1101" templateId="1601" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="191" />
+    <String id="1201" templateId="1601" name="Прыжок" tooltip="Отойти от пушки." huntingZoneId="191" />
+    <String id="1101" templateId="1604" name="Отдать швартовы" tooltip="Подготовить дирижабль к отправке. Это умение нельзя использовать в полете." huntingZoneId="191" />
+    <String id="1201" templateId="1604" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="191" />
+    <String id="1101" templateId="1605" name="Отдать швартовы" tooltip="Подготовить дирижабль к отправке. Это умение нельзя использовать в полете." huntingZoneId="191" />
+    <String id="1201" templateId="1605" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="191" />
+    <String id="1101" templateId="2999" name="Залп" tooltip="Выстрелить водяной бомбой в цель." huntingZoneId="210" />
+    <String id="1201" templateId="2999" name="Покинуть" tooltip="Отойти от береговой пушки." huntingZoneId="210" />
+    <String id="1101" templateId="3000" name="Залп" tooltip="Выстрелить водяной бомбой в цель." huntingZoneId="210" />
+    <String id="1201" templateId="3000" name="Покинуть" tooltip="Отойти от береговой пушки." huntingZoneId="210" />
+    <String id="1101" templateId="4000" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="210" />
+    <String id="1201" templateId="4000" name="Покинуть" tooltip="Покинуть танк." huntingZoneId="210" />
+    <String id="1101" templateId="8041" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="425" />
+    <String id="1201" templateId="8041" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="425" />
+    <String id="1101" templateId="4000" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="443" />
+    <String id="1201" templateId="4000" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="443" />
+    <String id="1201" templateId="300" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="447" />
+    <String id="2101" templateId="300" name="Выстрел тыквой" tooltip="Выстрелить снарядом в цель." huntingZoneId="447" />
+    <String id="1201" templateId="310" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="447" />
+    <String id="2101" templateId="310" name="Выстрел тыквой" tooltip="Выстрелить снарядом в цель." huntingZoneId="447" />
+    <String id="1201" templateId="311" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="447" />
+    <String id="2101" templateId="311" name="Выстрел тыквой" tooltip="Выстрелить снарядом в цель." huntingZoneId="447" />
+    <String id="1101" templateId="5000" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="450" />
+    <String id="1201" templateId="5000" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="450" />
+    <String id="1101" templateId="500" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="453" />
+    <String id="1201" templateId="500" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="453" />
+    <String id="1101" templateId="501" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="453" />
+    <String id="1201" templateId="501" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="453" />
+    <String id="1101" templateId="8041" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="725" />
+    <String id="1201" templateId="8041" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="725" />
+    <String id="1101" templateId="4000" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="743" />
+    <String id="1201" templateId="4000" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="743" />
+    <String id="1101" templateId="5000" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5000" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5001" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5001" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5002" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5002" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5003" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5003" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5004" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5004" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5005" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5005" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5006" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5006" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5007" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5007" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5008" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5008" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="5009" name="Отдать швартовы" tooltip="Подготовить дирижабль к взлету. Это умение нельзя использовать в полете." huntingZoneId="750" />
+    <String id="1201" templateId="5009" name="Прыжок" tooltip="Выпрыгнуть из дирижабля." huntingZoneId="750" />
+    <String id="1101" templateId="885158" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="885" />
+    <String id="1201" templateId="885158" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="885" />
+    <String id="1101" templateId="3000007" name="Залп" tooltip="Выстрелить снарядом в цель." huntingZoneId="1023" />
+    <String id="1201" templateId="3000007" name="Покинуть" tooltip="Отойти от пушки." huntingZoneId="1023" />
+</StrSheet_VehicleSkill>

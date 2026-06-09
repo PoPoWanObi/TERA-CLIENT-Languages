@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Слушай, мне нужно отвезти меха обратно в Хабере, но я не хочу бросать солдат одних. &lt;BR&gt;&lt;BR&gt; Лучше всего будет, если я останусь и помогу им, но моей дочери нужны лекарства. Ты можешь проводить одну из моих учениц обратно в лагерь? Она отнесет меха Балругу.&lt;NEXTPAGEBUTTON&gt;"Конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Спасибо. Моя ученица передаст шкуры Балругу, а он найдет лекарства для моей девочки. &lt;BR&gt;&lt;BR&gt;И передай ему, чтобы он не волновался. Со мной и с его маленькими учениками все будет хорошо.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="51" villagerId="33">
+        <Page social="0">Краксан спасал мою жизнь много раз. Я сделаю все, что смогу, чтобы помочь его дочери.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="2" villagerId="1029">
+        <Page social="4">Спасибо за сопровождение ученицы, но где Краксан и остальные? &lt;BR&gt;&lt;BR&gt;Они остались там? Импульсивный глупец! &lt;BR&gt;&lt;BR&gt;Ну что ж, хорошо. Я отправлюсь в город и сделаю все, что смогу для ребенка Краксана.</Page>
+    </Text>
+</QuestDialog>

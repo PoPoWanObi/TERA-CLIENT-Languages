@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0">Les fouaille-tripes sèment la destruction dans les ruines de Colchester. Mettez un terme à leurs exactions.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:6#1062#pilleurs} et {@LinkCreature:6#1061#bandits fouaille-tripes} de Colchester.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Dakona, au nord de la Ferme de l'écho.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="5">Bien joué. La Fédération apprécie votre travail!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1020">
+        <Page social="0">J'aimerais pouvoir vous récompenser, mais vous allez devoir commencer par vous rendre utile à quelque chose.&lt;BR&gt;&lt;BR&gt;Revenez quand vous aurez su vous distinguer.</Page>
+    </Text>
+</QuestDialog>

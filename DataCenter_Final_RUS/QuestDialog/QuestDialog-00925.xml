@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="4">Кто-то тайно снабжает армию Кайдуна. Мы не можем допустить, чтобы он восстановливал свои силы после наших атак.&lt;BR&gt;&lt;BR&gt;Поэтому я прошу тебя украсть и принести сюда предназначенный для него груз. Если кому и должны достаться дары Вестонии, так это нам!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1031">
+        <Page social="4">Хорошая работа! Теперь какое-то время можно не беспокоиться о провизии.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1031">
+        <Page social="0">Скорее всего груз распределен между домами у Кошмарного прохода.</Page>
+    </Text>
+</QuestDialog>

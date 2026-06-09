@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1007">
+        <Page social="5">Les fouaille-tripes représentent une menace pour tout ce que je me suis juré de protéger. Plutôt que de les éradiquer jusqu'au dernier, j'envisage d'éliminer deux personnages clés de leur communauté.&lt;BR&gt;&lt;BR&gt;Que diriez-vous d'aller tuer leurs chefs, {@LinkCreature:26#101#Kuru} et {@LinkCreature:26#102#Taroku}?&amp;nbsp; Ca réglerait certainement le problème.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1007">
+        <Page social="5">L'élimination de ces deux meneurs persuadera certainement les autres de se tenir tranquilles. Ca pourrait même leur sauver la vie. Essayons de rester optimiste.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1007">
+        <Page social="0">Plus vite vous tuerez ces deux brutes, plus vite la forêt pourra retrouver son calme. Entendu?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

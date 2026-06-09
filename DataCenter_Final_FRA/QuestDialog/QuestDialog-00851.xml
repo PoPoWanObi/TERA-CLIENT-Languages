@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="5">{@LinkCreature:227#1019#Jordal}, mon mari, a récemment rejoint les troupes de la garnison. Nous avons eu peu de temps pour nous dire au revoir. Pourriez-vous aller lui porter ce collier au &lt;font color='#660000'&gt;Castra Mysterium&lt;/font&gt;?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Dites-lui que je l'aime et que pas une minute ne passe sans que je pense à lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1019">
+        <Page social="13">Elle veut que je pense à elle?&amp;nbsp; Si les choses continuent comme ça, c'est bientôt elle qui devra "rendre hommage à ma mémoire", comme on dit!&amp;nbsp; Je dois me rendre à la Castra Mysterium, mais sans aide je n'arriverai jamais là-bas vivant.&lt;BR&gt;&lt;BR&gt;Vous pourriez éliminer les {@LinkCreature:27#1#marchespores argileux} qui nous barrent la route et prévenir {@LinkCreature:227#1006#Ellahne} que nous n'avons pas déserté et que nous ne sommes pas des lâches?&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1006">
+        <Page social="5">Hmff... Des excuses, j'entends ça à longueur de journée. Jordal sait où nous trouver. Il devrait déjà être là, point à la ligne.&lt;BR&gt;&lt;BR&gt;Enfin... maintenant que vous avez pris les coups à sa place, il va peut-être se décider à se montrer.</Page>
+    </Text>
+</QuestDialog>

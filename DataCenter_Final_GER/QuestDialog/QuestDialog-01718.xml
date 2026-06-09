@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">Das Wichtigste zuerst. Säubert die Altartreppe von den Mekonaritemplern. Sie sind die stärksten Kämpfer der Mekonari. Killian hat ihnen Schutzamulette gegeben, um ihr Vertrauen zu gewinnen. Bedenkt, wie gedemütigt sie sich fühlen werden, wenn Ihr ihnen diese Amulette einfach wegnehmt!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">Mächtige Amulette. Wir haben ihnen zur Abwechslung mal etwas von ihrer Stärke gestohlen!&lt;BR&gt;&lt;BR&gt;Euer Weg zum Altar ist beinahe frei! Bald werden wir diesen Schrecken ein für allemal ein Ende setzen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">&lt;PCCLASS&gt;, kommt schon! Diese Templer sind im Weg!</Page>
+    </Text>
+</QuestDialog>

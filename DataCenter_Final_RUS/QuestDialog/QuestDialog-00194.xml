@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1018">
+        <Page social="5">Привет! Меня призвали "добровольцем" и мне нужна твоя помощь. Тебе поблизости не попадались кумасы?&lt;BR&gt;&lt;BR&gt;Мистериум приказал мне проредить их ряды в этой местности. Они большие, подлые и кровожадные - и это еще лучшее, что можно о них сказать.&lt;BR&gt;&lt;BR&gt;Послушай, наверное, у меня ничего не получится. Я по натуре одиночка, а вот если бы тебе удалось найти несколько союзников, уверен, кумасов удалось бы завалить. Убей {@LinkCreature:7#3#Ленивых кумасов}, а я тебя за это вознагражу. По рукам?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1018">
+        <Page social="5">Отлично сработано. Вот награда, как и обещал. Ты ведь не против, если я притворюсь, что сам выполнил работу? Надеюсь, они в ближайшее время не потребуют чего-то настолько же сложного.</Page>
+    </Text>
+</QuestDialog>

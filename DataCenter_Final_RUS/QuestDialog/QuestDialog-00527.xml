@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0">&lt;PCNAME&gt;, убей диких вепрей, представляющих угрозу для путников к югу от Осажденной заставы, и возвращайся с их клыками.&lt;BR&gt;&lt;BR&gt;Твоя цель - {@LinkCreature:17#300050#Осторожные бородавочники-кишкорезы} и {@LinkCreature:17#104#Вилоклыкие бородавочники}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1008">
+        <Page social="5">Благодаря тебе, &lt;PCNAME&gt;, путники перестали пропадать рядом с фермой.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1008">
+        <Page social="0">Убей {@LinkCreature:17#300050#Осторожных бородавочников-кишкорезов} и {@LinkCreature:17#104#Вилоклыких бородавочников} и возвращайся с их клыками.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Die {@LinkCreature:31#20#Nagatodesreißer} und {@LinkCreature:31#21#Nagakolosse} kennen keine Furcht. Sie spazieren direkt in unsere Lager, wenn sich ihnen die Gelegenheit dazu bietet. Vernichtet sie und bringt ihre Helme als Beweis.&lt;BR&gt;&lt;BR&gt;Erstattet Llewra Bericht, sobald die Sache erledigt ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1012">
+        <Page social="4">Gute Arbeit! Jetzt, wo es weniger Naga gibt, die die Lager erstürmen könnten, dürfte es etwas ruhiger werden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1012">
+        <Page social="0">Ich übergebe nur Belohnungen, wenn ich auch Beweise sehe.</Page>
+    </Text>
+</QuestDialog>

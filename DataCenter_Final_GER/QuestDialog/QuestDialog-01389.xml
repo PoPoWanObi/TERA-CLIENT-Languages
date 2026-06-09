@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ihr habt die {@Rgn:9012001$$Turmspitzen der Drei Türme} betreten und viele Tote und Argonenopfer, darunter auch Yasring, entdeckt, die in Argonenkokons versponnen sind. Ihr konntet sie nicht retten, darum habt Ihr Rache genommen an den Argonen in den Türmen. Ihr habt nur eine Überlebende gefunden: eine Castanic namens Hasmina.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Anweisung von Valkyon:&lt;BR&gt;&lt;BR&gt;Wir haben den Kontakt zu einer Expedition zu den Drei Türmen verloren.&lt;BR&gt;&lt;BR&gt;Betretet die {@Rgn:9012001$$Turmspitzen der drei Türme} und sucht nach Überlebenden - besonders nach Yasring.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="46" villagerId="2">
+        <Page social="0">Gut, jetzt sind wir drin.&lt;BR&gt;&lt;BR&gt;Dieser Ort verursacht mir wirklich Gänsehaut. Wir haben einige der Funktionen der Türme herausgefunden, aber dieser Bereich hier ist immer noch ein Geheimnis.&lt;BR&gt;&lt;BR&gt;Haltet die Augen offen und seid bereit für mögliche Angriffe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="412" prevId="2" villagerId="2009">
+        <Page social="13">Mein Team und ich, wir wollen Yasring - oder was noch von ihr übrig ist - an einen sichereren Ort bringen. Wir stehen alle unter Schock, aber jemand muss ja darüber Bericht erstatten.&lt;BR&gt;&lt;BR&gt;Unter uns gesagt, mache ich mir Sorgen um das Nervenkostüm der anderen Späher. Geht Ihr nur weiter. Ich bringe meine Truppe zurück, damit wir uns neu formieren können.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="412" prevId="4" villagerId="2005">
+        <Page social="13">Ich wollte gerade schon die Hoffnung aufgeben, als Ihr gekommen seid. Ihr habt ja keine Ahnung, wie schön es ist, jemanden zu sehen, der nicht blau leuchtet.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="412" prevId="5" villagerId="2006">
+        <Page social="1">N-noch nicht, ja? Nichts wie weg von hier.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2001">
+        <Page social="8">Wir haben die Explosionen gehört. Ein Schlag mitten ins Herz des Argoneneinsatzes kann sich nur positiv auswirken. Ich muss nur noch einige wenige Punkte in meinen Bericht aufnehmen.&lt;BR&gt;&lt;BR&gt;Könnt Ihr einen Moment warten?&lt;NEXTPAGEBUTTON&gt;"Wie Ihr wollt."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hier ist er. Dieser Bericht enthält alles, was ich über die Drei Türme und die Argonen in Erfahrung bringen konnte. Sorgt dafür, dass Kommandant Tamur ihn erhält.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2008">
+        <Page social="4">Und bevor ich es noch vergesse ... Danke. Ich bin {@Creature:246#2008$$Hasmina}.&lt;BR&gt;&lt;BR&gt;Ich hatte nicht erwartet, die Drei Türme zu überleben. Um ehrlich zu sein, ich bin mir nicht sicher, ob ich sie überhaupt überleben wollte.&lt;BR&gt;&lt;BR&gt;Ich verdanke Euch mein Leben.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2008">
+        <Page social="4">Ich muss nach {@Rgn:84001$$Kaiator}. zurückkehren. Der Kampf ist noch nicht vorbei, aber ich habe den Eindruck, unsere Reise hat gerade erst begonnen.</Page>
+    </Text>
+</QuestDialog>

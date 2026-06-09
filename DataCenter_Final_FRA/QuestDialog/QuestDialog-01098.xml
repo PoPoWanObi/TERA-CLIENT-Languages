@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Cette fois, vous allez affronter les géants et leurs animaux. Nous ne pouvons plus tolérer leur ingérence.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:34#1000#géants fendeurs-de-glace}, les {@LinkCreature:34#1010#géants ravage-glace}, les {@LinkCreature:34#1100#barsicores marche-glace} et les {@LinkCreature:34#1110#barsicores chasseurs-de-givre}.&lt;BR&gt;&lt;BR&gt;Prévenez Kahuere quand vous aurez terminé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">Tuer les géants, c’est fait!&amp;nbsp; Je vais le noter dans votre fiche permanente. Beau travail, soldat!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">Toutes mes excuses, mais vos ordre me paraissent tout à fait clairs. Vous devez tuer les géants et les barsicores pour retirer le mérite de vos exploits.</Page>
+    </Text>
+</QuestDialog>

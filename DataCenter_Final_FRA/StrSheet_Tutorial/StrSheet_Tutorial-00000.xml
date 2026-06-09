@@ -1,0 +1,547 @@
+<StrSheet_Tutorial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Tutorial StrSheet_Tutorial.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Tutorial">
+    <String id="1" string="Cliquez sur un objet de votre inventaire et appuyez sur la touche [Maj] pour verrouiller les infobulles d'objets." />
+    <String id="2" string="Cliquez sur un objet de votre inventaire tout en maintenant la touche [Ctrl] pour l'insérer dans la fenêtre de discussion." />
+    <String id="3" string="Faites part de votre position en tapant /position dans la fenêtre de discussion, ou cliquez sur la carte du monde en maintenant la touche [Ctrl] enfoncée." />
+    <String id="4" string="Tapez /? pour afficher le menu d'aide des commandes de discussion." />
+    <String id="5" string="Vous pouvez passer d'un canal de discussion à un autre en appuyant sur les flèches gauche et droite lorsque vous vous trouvez sur une ligne de discussion active vide." />
+    <String id="6" string="Dans la fenêtre de discussion, parcourez votre historique de discussion récent à l'aide des flèches haut/bas." />
+    <String id="7" string="Pour répondre aux messages murmurés, appuyez sur la touche [R]." />
+    <String id="8" string="Appuyez sur [Y] pour voir les autres joueurs cherchant à former des groupes." />
+    <String id="9" string="Les cristaux d'amélioration sont fragiles, ils peuvent se briser lorsque vous mourez." />
+    <String id="10" string="Tenez-vous près d'un feu de camp pour récupérer de l'endurance et des PV." />
+    <String id="11" string="Les joueurs solo peuvent taper /inviter [Joe] pour demander à rejoindre le groupe de Joe." />
+    <String id="12" string="Tapez /rejoindre [Jane] pour demander à rejoindre le groupe de [Jane]." />
+    <String id="13" string="La fenêtre Recherche de groupe vous permet d'indiquer un objectif pour que tout le groupe soit au courant du plan." />
+    <String id="14" string="Pour une plus grande efficacité au combat, vous pouvez sertir des cristaux d'amélioration sur les emplacements vides de vos armes, armures, bagues et boucles d'oreilles." />
+    <String id="15" string="Impossible de déplacer votre personnage ? Cliquez sur Déblocage, depuis le Menu système pour vous téléporter vers la ville la plus proche." />
+    <String id="16" string="Les joueurs doués et les joueurs polis sont choisis en priorité pour faire partie des groupes." />
+    <String id="17" string="Tapez /objectif pour mettre à jour l'objectif de votre groupe dans la fenêtre Recherche de groupe." />
+    <String id="18" string="Les quêtes marquées d'un point d'exclamation rouge sont essentielles au déroulement de l'histoire." />
+    <String id="19" string="Pour afficher l'emplacement d'un monstre sur la carte, cliquez sur son nom dans la quête ou dans votre Journal de quêtes" />
+    <String id="20" string="Affrontez des gros boss en groupe pour obtenir plus rapidement des récompenses." />
+    <String id="21" string="Vous devez d'abord visiter un camp avant de pouvoir vous y téléporter." />
+    <String id="22" string="Une équipe équilibrée composée d'un tank, un soigneur et trois attaquants a de quoi donner du fil à retordre à n'importe quel adversaire." />
+    <String id="23" string="Le soigneur du groupe peut invoquer les membres du groupe en même temps." />
+    <String id="24" string="Lorsque plusieurs membres d'un groupe puisent dans une source, cette dernière produit plus de ressources." />
+    <String id="25" string="Un match à mort peut accueillir jusqu'à 20 joueurs. Commencez-en un via le menu Activités!" />
+    <String id="27" string="Les membres du groupe peuvent marquer les monstres en utilisant la touche [A]." />
+    <String id="28" string="Certains marchands vendent des cristaux pour les armes, les armures et les accessoires." />
+    <String id="29" string="La couleur du nom d'une quête, dans le Journal de quêtes, indique son niveau de difficulté." />
+    <String id="30" string="Au combat, lorsqu'une icône de compétence apparaît à côté du viseur, appuyez sur la barre d'espace pour déclencher instantanément la chaîne de compétences." />
+    <String id="31" string="Les chefs de groupe peuvent régler le partage du butin sur Chacun son tour pour une distribution équitable des récompenses." />
+    <String id="32" string="Les équipements fabriqués peuvent être harmonisés en vue d'un enchantement qui leur conférera de nouvelles capacités." />
+    <String id="33" string="Les chefs de groupe peuvent marquer des cibles à l'aide des touches [Ctrl] + 1, 2 et 3." />
+    <String id="34" string="Une lueur surgit dans les yeux d'un monstre avant une attaque puissante." />
+    <String id="35" string="Vous souhaitez enchanter un équipement ? Ouvrez le menu Activités et cliquez sur Enchantement." />
+    <String id="36" string="Pour enchanter un objet, vous devez utiliser des matières premières ainsi que de l'alkahest, tous deux de même rang que l'objet. Vous pouvez obtenir de l'alkahest auprès d'une boutique." />
+    <String id="37" string="Lorsque le bouton d'aide apparait à l'écran, appuyez sur la touche [H] pour découvrir une astuce." />
+    <String id="38" string="La plupart des donjons instanciés sont plus faciles à terminer en groupe." />
+    <String id="39" string="Tapez /inviter [nom du personnage] dans la fenêtre de discussion pour inviter un joueur à rejoindre votre groupe." />
+    <String id="40" string="En mode interface, effectuez un clic droit sur un joueur pour l'inviter à rejoindre un groupe, le défier en duel, etc." />
+    <String id="41" string="Un pégase vous portera de village en village... moyennant finance." />
+    <String id="42" string="Chaque race dispose de ses propres compétences." />
+    <String id="43" string="Les parchemins de téléportation, bien qu'onéreux, restent le moyen le plus rapide et pratique d'atteindre les villes lointaines." />
+    <String id="44" string="Faites disparaître l'Interface en appuyant sur [Ctrl] + [Z] pour prendre de meilleures captures d'écran." />
+    <String id="45" string="Vous pouvez modifier vos raccourcis depuis le menu des Options (touche [O])." />
+    <String id="46" string="Vous pouvez créer une guilde auprès de l'intendant de guilde dans toutes les grandes villes. Vous devez avoir atteint au minimum le niveau 8. Venez avec un autre membre de groupe et {@money:3000}." />
+    <String id="47" string="Utilisez les charmes près d'un feu de camp pour en faire profiter les joueurs à proximité." />
+    <String id="48" string="Vous pouvez envoyer de l'or ou des objets à d'autres joueurs par colis postal." />
+    <String id="49" string="Pour changer la taille et la couleur de la police de vos messages, effectuez un clic droit sur l'onglet de discussion." />
+    <String id="50" string="Changez de canal via la commande des canaux depuis le menu Système." />
+    <String id="51" string="Passez la souris sur la barre de santé d'un membre du groupe pour voir où il se trouve." />
+    <String id="52" string="Les membres de votre groupe apparaissent en surbrillance sur vos cartes, même si vous vous trouvez dans des canaux différents." />
+    <String id="53" string="Votre canal de discussion peut changer suite à l'utilisation d'un parchemin de téléportation, d'un téléportail ou d'un voyage par pégase." />
+    <String id="54" string="Effectuez un clic droit sur un cristal pour le retirer de son emplacement." />
+    <String id="55" string="Les gestionnaires d'inventaire peuvent agrandir votre inventaire contre une somme d'argent." />
+    <String id="56" string="La recherche d'instances permet aux membres du groupe de poursuivre leurs quêtes ou leur fabrication jusqu'au moment de commencer le donjon." />
+    <String id="57" string="Pour ajouter des quêtes à votre suivi de quêtes, cochez la case à côté de leur nom dans votre Journal de quêtes." />
+    <String id="60" string="Les groupes bien préparés récupèrent des bonus de collecte et brûlent des talismans avant d'entrer dans les donjons." />
+    <String id="61" string="Enchantez des objets en cliquant sur Enchanter dans le menu Activités." />
+    <String id="62" string="Une quête de niveau 11 vous donnera accès à une monture." />
+    <String id="63" string="Certaines potions ne peuvent être achetées auprès des marchands." />
+    <String id="64" string="Les prêtres de haut niveau et les mystiques peuvent téléporter des membres du groupe auprès d'eux." />
+    <String id="65" string="Appuyez sur [Y] pour ouvrir la boîte de dialogue &quot;Recherche de groupe&quot;, ou envoyez un message depuis la fenêtre de discussion en tapant /rdg." />
+    <String id="66" string="Dans la liste des guildes, accessible depuis le menu Social, vous pouvez postuler dans une guilde, consulter ses informations ou la recommander." />
+    <String id="67" string="Maintenez la touche [Q] et effectuez un clic-gauche sur un monstre pour afficher son nom et son état dans votre IU." />
+    <String id="68" string="Trop occupé pour discuter en combat ? Maintenez la touche [E] pour choisir un cri de combat." />
+    <String id="69" string="Pour lancer rapidement votre attaque de base, maintenez simplement le bouton d'attaque enfoncé." />
+    <String id="70" string="Envie de danser ? Tapez /danser dans le canal de discussion." />
+    <String id="71" string="Si quelqu'un vous fait signe, rendez-lui la pareille en tapant /saluer dans le canal de discussion." />
+    <String id="72" string="La recherche d'instances vérifie que les membres du groupe sont suffisamment équipés. Vous pouvez également taper /inspecter [Nom du personnage]." />
+    <String id="73" string="La porte rouge sous votre boussole vous mène à la recherche d'instances avec votre groupe." />
+    <String id="74" string="Certains monstres ne sont jamais seuls." />
+    <String id="75" string="Cliquez sur le bouton du milieu de la souris pour réinitialiser l'angle de la caméra." />
+    <String id="76" string="La présence d'un tank chargé de s'occuper de l'agressivité de l'ennemi facilite la tâche de tous les membres du groupe." />
+    <String id="77" string="Vous pouvez agrandir votre barre de compétence pour afficher plus de commandes. Pour ce faire, cliquez sur le bouton Agrandir/Réduire la barre." />
+    <String id="78" string="Vous pouvez sauvegarder jusqu'à 9 ensembles de compétences par personnage. Appuyez sur [Alt] puis sur les touches 1-9 pour passer de l'un à l'autre à tout moment." />
+    <String id="79" string="Appuyez sur la touche [BACK] de votre manette pour ouvrir la fenêtre de configuration de la manette." />
+    <String id="80" string="Les gâchettes gauche et droite de votre manette sont les touches d'attaque combinée. En les utilisant, chaque bouton de la manette permet de lancer jusqu'à 4 compétences." />
+    <String id="81" string="Personnalisez les messages dans le menu de discussion rapide de l'onglet Jeu de la fenêtre des Options." />
+    <String id="82" string="Les armes nommées ont parfois des caractéristiques uniques." />
+    <String id="84" string="Les parchemins énigmatiques confèrent une chance de créer un objet de maître." />
+    <String id="85" string="Les bonus d'enchantement peuvent être modifiés à l'aide d'un parchemin énigmatique." />
+    <String id="87" string="Les énigmes complexes sont susceptibles d'obscurcir des objets de maître." />
+    <String id="88" string="Les équipements de maître peuvent recevoir des enchantements +12." />
+    <String id="90" string="Les marchands de teintures des grandes villes vous permettent de changer la couleur de votre armure." />
+    <String id="91" string="Une seule teinture peut donner des nuances variées en fonction de la couleur d'origine de l'armure." />
+    <String id="92" string="Maintenez [Ctrl] enfoncé puis effectuez un clic droit sur un icône pour prévisualiser son apparence sur votre personnage." />
+    <String id="93" string="Pendant une fabrication, une parfaite maîtrise artisanale peut vous faire obtenir des objets différents ou des matériaux supplémentaires." />
+    <String id="94" string="Mettez vos recettes d'artisanat préférées en favori en cliquant sur l'étoile à gauche de leur nom dans la fenêtre d'artisanat." />
+    <String id="95" string="Lorsque vous remaniez de l'équipement, l'objet servant de modèle visuel est systématiquement détruit." />
+    <String id="97" string="Les armes bénéficiant d'un enchantement +7 émettent une lueur bien visible." />
+    <String id="98" string="Les guildes sont un excellent moyen de trouver des groupes, mais la Recherche de groupe (Y) est également une bonne solution." />
+    <String id="99" string="En rejoignant un groupe, vous pouvez affronter des adversaires plus gros et plus coriaces, et obtenir ainsi un équipement de meilleure qualité afin d'affronter des adversaires plus gros..." />
+    <String id="101" string="Ajoutez automatiquement un terme de recherche dans l'hôtel des ventes en maintenant {Ctrl} puis en effectuant un clic gauche sur un objet de votre inventaire." />
+    <String id="104" string="Vous pouvez réinitialiser les instances en tapant '/réinitialiser' dans la fenêtre de discussion ou en cliquant sur le bouton &quot;Réinitialiser les instances&quot; de votre profil (P)." />
+    <String id="105" string="Faites un clic droit sur la recette que vous avez achetée pour obtenir la compétence d'artisanat." />
+    <String id="106" string="Faites un clic droit sur le glyphe dans votre inventaire pour la voir sur la liste des glyphes." />
+    <String id="107" string="Vous pouvez régler la distance maximale de visée de votre caméra dans le menu Options." />
+    <String id="108" string="Dans les batailles à grande échelle, maximiser la distance de votre caméra vous permettra d'avoir une vue d'ensemble du champ de bataille." />
+    <String id="109" string="Après avoir atteint le niveau 13, vous pouvez appuyer sur H pour ouvrir les quêtes de l'initiative de l'avant-garde." />
+    <String id="110" string="Connectez-vous et accomplissez quotidiennement des quêtes de la Fédération Valkyon pour obtenir des récompenses." />
+    <String id="111" string="Servez-vous des plates-formes de téléportation du Val d'Oriyn pour vous déplacer plus rapidement." />
+    <String id="112" string="Dans le Val d'Oriyin, les personnages reçoivent des PEX de repos en cas de déconnexion depuis Hautegarde, un des camps ou une plate-forme de téléportation." />
+    <String id="113" string="Vous trouverez des téléportails dans les camps du Val d'Oriyn. Utilisez-les pour rejoindre tous les camps que vous avez déjà visités." />
+    <String id="114" string="Il existe un téléportail de Hautegarde vers Velika. Mais vous allez devoir le débloquer via une série de quêtes." />
+    <String id="115" string="Des sanctuaires apparaissent parfois dans Val Oriyn pour donner des effets bénéfiques." />
+    <String id="116" string="Des gros boss puissants hantent les terres du Val d'Oriyn." />
+    <String id="117" string="Votre personnage peut mourir suite aux dégâts causés par une chute." />
+    <String id="10041" string="Le Mysterium est une Importante organisation assez secrète dirigée principalement par des Hauts-Elfes." />
+    <String id="10042" string="Velik est assez fière de ses enfants humains adoptés, et de la Fédération qu'ils ont contribué à fonder." />
+    <String id="10043" string="Les agents du Mysterium parcourent le monde pour découvrir ses secrets perdus, mais dans quel but ?" />
+    <String id="10044" string="Les piégeurs Poporis peuvent rester embusqués dans les arbres pendant des semaines, il arrive même que certains ennemis se demandent s'ils poussent sur des branches." />
+    <String id="10045" string="Les costumes castanics sont parfaits pour les fêtes. Les artisans fabriquent de superbes répliques de cornes... moyennant finance." />
+    <String id="10046" string="Les habitants du royaume Popori se rassemblent autour du Lac des larmes à l'occasion des fêtes et autres festivals." />
+    <String id="10047" string="Le paysage cauchemardesque de la Montagne Fyr est parsemé de minerais. Les forgerons Castanics gardent jalousement le métal qu'ils y trouvent." />
+    <String id="10048" string="Les Amans apprécient la chasse au gros gibier. Et par &quot;gros&quot;, entendez &quot;énorme&quot;." />
+    <String id="10049" string="L'artisanat et l'enchantement sont deux compétences que la plupart des Hauts-Elfes apprennent dès leur plus jeune âge." />
+    <String id="10050" string="Les Hauts-elfes ne connaissent pas les monarchies ou les lignées de dirigeants. Chaque décision est le fruit d'un processus subtil, parfois sinistre." />
+    <String id="10051" string="Les familles Elfes sont responsables de l'éducation de leurs enfants, leur inculquant notamment l'étude approfondie de la généalogie et de l'histoire des ancêtres." />
+    <String id="10052" string="Durant leur long exil, les humains sont devenus des explorateurs, des aventuriers ou des pionniers hors pair." />
+    <String id="10053" string="De nombreuses raisons poussent les Amans à se battre : le sport, la conquête et la survie." />
+    <String id="10054" string="Les Amans vénèrent les batailles de leurs ancêtres, longtemps sous le joug de l'empire des géants à présent disparu." />
+    <String id="10055" string="Les forges et forgerons de Kaiator sont les plus productifs de ce monde et constituent le nerf de la guerre de la Fédération Valkyon." />
+    <String id="10056" string="Les Descendants de Lok travaillent sans relâche pour faire enfin revenir le dieu Lok dans ce monde. Les méandres de leurs complots couvrent Arun telle une sombre toile." />
+    <String id="10057" string="Tout ce qui ne se trouve pas à Velika est soit illégal, soit toxique. Pour ce genre d'objets, mieux vaut se rendre à Castanica." />
+    <String id="10058" string="Les Barakas restent un mystère pour les autres races de la Fédération et suscitent bien des interrogations." />
+    <String id="10059" string="Le Mysterium étudie le comportement des créatures, mais n'est pas à l'abri de quelques échecs." />
+    <String id="10060" string="De nombreuses races forment le royaume Popori. Mais leur reine est toujours une Elin orpheline." />
+    <String id="10061" string="Les Castanics sont une société à forte tendance matriarcale. Les mâles font souvent fortune hors du clan, mais y possèdent toujours une place." />
+    <String id="10062" string="Les Castanics en manque d'aventures sont des parieurs invétérés. Ils sont également incroyablement chanceux!" />
+    <String id="10063" string="Proverbe Aman : prends garde à la nourriture d'un Popori au maigre appétit." />
+    <String id="10064" string="Les Tuwangis primitifs sont obsédés par les grenouilles. Pour un Tuwangi, la grenouille se fait à la fois repas, animal de compagnie, monture, vêtement ou encore matériau de construction." />
+    <String id="10065" string="Le porcidé mijoté est une spécialité Aman. Ils rôtissent la viande dans des fosses, vestiges de leur passé d'esclave, lorsqu'ils devaient cacher la nourriture à leurs cruels maîtres." />
+    <String id="10066" string="Les artisans castanics allient compétences et magie pour créer de fantastiques artefacts. Autrefois, l'artisanat castanic était très apprécié des dieux eux-mêmes." />
+    <String id="10067" string="La magie des elfes alimente une cité merveilleuse, au beau milieu du désert de Shara." />
+    <String id="10068" string="Les humains ont débarqué à Arun pour ériger la cité de Velika, qui ne tarda pas à devenir un carrefour commercial mondial." />
+    <String id="10069" string="Les Barakas sont réputés pour leur soif de connaissance, ainsi que pour leur tendance à se plonger dans un bon livre." />
+    <String id="10070" string="Pour jouer au sport Aman du nom de &quot;huumka&quot;, une seule règle : rester à l'intérieur du cercle!" />
+    <String id="20001" string="Prenez les commandes! Présentez-vous aux élections de Vanarch de la Fédération Valkyon. A vous les honneurs et le pouvoir." />
+    <String id="20002" string="Les Vanarchs sont régulièrement élus sur chaque serveur. Déposez votre candidature auprès d'un greffier des élections de n'importe quelle grande ville." />
+    <String id="20003" string="Certains sièges de Vanarch sont choisis par le vote populaire, d'autres par des combats singuliers." />
+    <String id="20004" string="Lors des élections, vous pouvez voter pour un candidat par continent grâce à l'icône de vote situé près de votre boussole." />
+    <String id="20005" string="Chaque Vanarch victorieux se verra assigné à une région : ils définissent les lois et mettent en place des taxes locales." />
+    <String id="20006" string="Les Vanarchs peuvent faire passer des annonces spéciales et collecter des taxes. Les membres de la guilde du Vanarch ont accès à des montures spéciales." />
+    <String id="30000" string="Allez voir le prêtre Ahdum." />
+    <String id="30001" string="Les membres de l'expédition vers l'Île de l'Aube ont des problèmes! (Prologue)" />
+    <String id="30010" string="Vous pouvez vous déplacer en utilisant les touches {Z}{Q}{S}{D}." />
+    <String id="30011" string="Vous pouvez vous déplacer en utilisant &lt;img src='img://__S1UIRES_GameControllerIcon.231145' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231147' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231146' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231148' width='40' height='40' vspace='-7'&gt;" />
+    <String id="30012" string="Vous pouvez vous déplacer en utilisant &lt;img src='img://__S1UIRES_GameControllerIcon.231207' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231209' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231208' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231210' width='40' height='40' vspace='-7'&gt;" />
+    <String id="30020" string="Appuyez sur la touche {F} pour parler à Ahdum." />
+    <String id="30021" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; pour parler à Ahdum." />
+    <String id="30022" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; pour parler à Ahdum." />
+    <String id="30030" string="Allez voir le quartier-maître Popomin pour un meilleur équipement." />
+    <String id="30040" string="Le nouvel équipement apparaîtra dans votre Inventaire {I}. Effectuez un clic droit {MR} pour vous en équiper." />
+    <String id="30041" string="Le nouvel équipement apparaîtra dans votre Inventaire &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; pour l'équiper." />
+    <String id="30042" string="Le nouvel équipement apparaîtra dans votre inventaire &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; pour l'équiper." />
+    <String id="30050" string="Faites votre rapport au commandant adjoint Akrak." />
+    <String id="30060" string="Allez dans la grotte." />
+    <String id="30070" string="Appuyez sur {SPACE} pour sauter." />
+    <String id="30071" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; pour sauter." />
+    <String id="30072" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; pour sauter." />
+    <String id="30080" string="Appuyez sur {NUMLOCK} pour courir automatiquement." />
+    <String id="30081" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231129' width='40' height='40' vspace='-7'&gt; pour courir automatiquement." />
+    <String id="30082" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231201' width='40' height='40' vspace='-7'&gt; pour courir automatiquement." />
+    <String id="30090" string="Appuyez sur {ALT} pour passer en mode interface. Dans ce mode, vous pouvez utiliser la souris." />
+    <String id="30091" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt; pour passer en mode interface. Dans ce mode, vous pouvez utiliser le curseur." />
+    <String id="30092" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt; pour passer en mode interface. Dans ce mode, vous pouvez utiliser le curseur." />
+    <String id="30100" string="Vous allez bientôt commencer un combat. Lisez les informations sur les compétences dans votre barre d'action avant de vous lancer." />
+    <String id="30110" string="Appuyez sur {ALT}, puis passez le curseur sur les icônes de votre barre d'action pour connaître les effets de chaque compétence." />
+    <String id="30111" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt;, puis passez le curseur {MO} sur les icônes de votre barre d'action pour connaître les effets de chaque compétence." />
+    <String id="30112" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt;, puis passez le curseur {MO} sur les icônes de votre barre d'action pour connaître les effets de chaque compétence." />
+    <String id="30120" string="Appuyez sur {F} pour commencer à grimper." />
+    <String id="30121" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; pour commencer à grimper." />
+    <String id="30122" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; pour commencer à grimper." />
+    <String id="31000" string="&quot;Notre voyage vers le salut devait débuter sur l'Île de l'Aube.&#xA;Mais c'est par la destruction qu'il a commencé.&quot;&#xA;-Elion" />
+    <String id="30130" string="Le pont s'est effondré! Vous allez devoir nager." />
+    <String id="30140" string="Avancez. Vous devez trouver Elion!" />
+    <String id="30150" string="Avancez." />
+    <String id="30160" string="Les troupes de l'expédition combattront à vos côtés." />
+    <String id="50000" string="Ciblez l'ennemi au centre de l'écran et cliquez sur {ML} pour attaquer." />
+    <String id="50001" string="Ciblez l'ennemi au centre de l'écran et appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50002" string="Ciblez l'ennemi au centre de l'écran et appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50003" string="Ciblez l'ennemi au centre de l'écran et cliquez pour l'attaquer avec une Boule de feu {ML}." />
+    <String id="50004" string="Ciblez l'ennemi au centre de l'écran, puis utilisez une Boule de feu &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50005" string="Ciblez l'ennemi au centre de l'écran, puis utilisez une Boule de feu &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50006" string="Ciblez l'ennemi au centre de l'écran et cliquez pour attaquer avec une Lueur divine {ML}." />
+    <String id="50007" string="Ciblez l'ennemi au centre de l'écran, puis utilisez une Lueur divine &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50008" string="Ciblez l'ennemi au centre de l'écran, puis utilisez une Lueur divine &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50009" string="Ciblez l'ennemi au centre de l'écran et cliquez pour attaquer avec un Éclair de Shara {ML}." />
+    <String id="50013" string="Ciblez l'ennemi au centre de l'écran, puis utilisez un Éclair de Shara &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50014" string="Ciblez l'ennemi au centre de l'écran, puis utilisez un Éclair de Shara &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour attaquer." />
+    <String id="50010" string="Position offensive {F2} vous aide à attaquer." />
+    <String id="50011" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; vous aide à attaquer." />
+    <String id="50012" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; vous aide à attaquer." />
+    <String id="50020" string="Position défensive {F3} vous aide à vous protéger." />
+    <String id="50021" string="Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; vous aide à vous protéger." />
+    <String id="50022" string="Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; vous aide à vous protéger." />
+    <String id="50030" string="Lorsque l'ennemi devient rouge, il prépare une attaque puissante. Effectuez un clic droit {MR} pour la bloquer." />
+    <String id="50032" string="Lorsque l'ennemi devient rouge, il prépare une attaque puissante. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pour la bloquer." />
+    <String id="50033" string="Lorsque l'ennemi devient rouge, il prépare une attaque puissante. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pour la bloquer." />
+    <String id="50031" string="Les attaques lancées par un ennemi devenu rouge sont très puissantes. Effectuez un clic droit {MR} pour esquiver." />
+    <String id="50034" string="Les attaques lancées par un ennemi devenu rouge sont très puissantes. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pour esquiver." />
+    <String id="50035" string="Les attaques lancées par un ennemi devenu rouge sont très puissantes. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pour esquiver." />
+    <String id="50040" string="Aidez Elion." />
+    <String id="50041" string="Aidez Elion." />
+    <String id="50042" string="Aidez Elion." />
+    <String id="50050" string="Détruisez la barricade et progressez avec vos nouveaux alliés." />
+    <String id="50051" string="Détruisez la barricade et progressez avec vos nouveaux alliés." />
+    <String id="50052" string="Détruisez la barricade et progressez avec vos nouveaux alliés." />
+    <String id="50060" string="Pour survivre, vous devez coopérer avec vos alliés." />
+    <String id="50061" string="Pour survivre, vous devez coopérer avec vos alliés." />
+    <String id="50062" string="Pour survivre, vous devez coopérer avec vos alliés." />
+    <String id="50070" string="Le monstre est furieux! Il se déplace et attaque encore plus rapidement." />
+    <String id="50071" string="Le monstre est furieux! Il se déplace et attaque encore plus rapidement." />
+    <String id="50072" string="Le monstre est furieux! Il se déplace et attaque encore plus rapidement." />
+    <String id="50080" string="Le monstre est fatigué. Concentrez vos attaques maintenant!" />
+    <String id="50081" string="Le monstre est fatigué. Concentrez vos attaques maintenant!" />
+    <String id="50082" string="Le monstre est fatigué. Concentrez vos attaques maintenant!" />
+    <String id="51090" string="Cri de défi {F1} pour attirer l'attention de l'ennemi." />
+    <String id="51091" string="Cri de défi &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attire l'attention de l'ennemi." />
+    <String id="51092" string="Cri de défi &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attire l'attention de l'ennemi." />
+    <String id="52090" string="Utilisez Cri de triomphe {F1} pour restaurer vos PM instantanément." />
+    <String id="52091" string="Utilisez Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour restaurer vos PM instantanément." />
+    <String id="52092" string="Utilisez Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour restaurer vos PM instantanément." />
+    <String id="53090" string="Utilisez Piège paralysant {F1} pour fabriquer un piège et tromper l'ennemi." />
+    <String id="53091" string="Utilisez Piège paralysant &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour fabriquer un piège qui ralentira l'ennemi." />
+    <String id="53092" string="Utilisez Piège paralysant &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour fabriquer un piège qui ralentira l'ennemi." />
+    <String id="54090" string="Utilisez Cercle purificateur {F1} pour soigner rapidement les membres de votre groupe." />
+    <String id="54091" string="Utilisez Cercle purificateur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour soigner rapidement vosalliés." />
+    <String id="54092" string="Utilisez Cercle purificateur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour soigner rapidement vosalliés." />
+    <String id="55090" string="Serviteur de protection {F1} invoque un serviteur qui combat à vos côtés." />
+    <String id="55091" string="Serviteur de protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui combat à vos côtés." />
+    <String id="55092" string="Serviteur de protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui combat à vos côtés." />
+    <String id="51100" string="Utilisez Assaut {F2} pour lancer une attaque concentrée." />
+    <String id="51101" string="Utilisez Assaut &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pour lancer une attaque concentrée." />
+    <String id="51102" string="Utilisez Assaut &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pour lancer une attaque concentrée." />
+    <String id="50100" string="Appuyez sur {F2}." />
+    <String id="50101" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50102" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="52100" string="Utilisez Déluge de coups {2} pour attirer l'attention de l'ennemi." />
+    <String id="52101" string="Utilisez Déluge de coups &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour attirer l'attention de l'ennemi." />
+    <String id="52102" string="Utilisez Déluge de coups &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour attirer l'attention de l'ennemi." />
+    <String id="53100" string="Cri de triomphe {F2} restaure vos PM instantanément." />
+    <String id="53101" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restaure vos PM instantanément." />
+    <String id="53102" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restaure vos PM instantanément." />
+    <String id="54100" string="Sélectionnez un ennemi après avoir choisi Barrage embrasé {F2}. Utilisez {F2} ou {SPACE} pour lancer la compétence." />
+    <String id="54101" string="Sélectionnez un ennemi après avoir choisi Barrage embrasé &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;. Utilisez &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; ou &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; pour lancer la compétence." />
+    <String id="54102" string="Sélectionnez un ennemi après avoir choisi Barrage embrasé &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;. Utilisez &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; ou &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; pour lancer la compétence." />
+    <String id="55100" string="Combat rapproché {F2} permet de lancer 2 attaques consécutives." />
+    <String id="55101" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; permet de lancer 2 attaques consécutives." />
+    <String id="55102" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; permet de lancer 2 attaques consécutives." />
+    <String id="56100" string="Utilisez Cercle de régénération {F2} pour soigner vos alliés." />
+    <String id="56101" string="Utilisez Cercle de régénération &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pour soigner vos alliés." />
+    <String id="56102" string="Utilisez Cercle de régénération &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pour soigner vos alliés." />
+    <String id="57100" string="Serviteur de vie {F2} invoque un serviteur qui vous soigne." />
+    <String id="57101" string="Serviteur de vie &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui vous soigne." />
+    <String id="57102" string="Serviteur de vie &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui vous soigne." />
+    <String id="50110" string="Échappez à votre ennemi en utilisant Trait de rupture {F3}." />
+    <String id="50111" string="Échappez à votre ennemi en utilisant Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50112" string="Échappez à votre ennemi en utilisant Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51110" string="Utilisez Second souffle {F3} pour récupérer votre endurance." />
+    <String id="51111" string="Utilisez Second souffle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; pour restaurer vos PV." />
+    <String id="51112" string="Utilisez Second souffle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; pour restaurer vos PV." />
+    <String id="52110" string="Serviteur de vengeance {F3} invoque un serviteur qui inflige des dégâts de foudre à l'ennemi." />
+    <String id="52111" string="Serviteur de vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui inflige des dégâts de foudre à l'ennemi." />
+    <String id="52112" string="Serviteur de vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; invoque un serviteur qui inflige des dégâts de foudre à l'ennemi." />
+    <String id="50120" string="Utilisez Coup de pied surprenant {F4} pour interrompre l'action de l'ennemi." />
+    <String id="50121" string="Utilisez Coup de pied surprenant &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; pour interrompre l'action de l'ennemi." />
+    <String id="50122" string="Utilisez Coup de pied surprenant &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; pour interrompre l'action de l'ennemi." />
+    <String id="51120" string="Infusion de mana {F4} restaure vos PM. Tout déplacement annule ses effets." />
+    <String id="51121" string="Infusion de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restaure vos PM. Tout déplacement annule cette compétence." />
+    <String id="51122" string="Infusion de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restaure vos PM. Tout déplacement annule cette compétence." />
+    <String id="50130" string="Appuyez sur {F5}." />
+    <String id="50131" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50132" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50140" string="Appuyez sur {F6}." />
+    <String id="50141" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50142" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50150" string="Appuyez sur {F7}." />
+    <String id="50151" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50152" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50160" string="Appuyez sur {F8}." />
+    <String id="50161" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50162" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50170" string="Appuyez sur {F9}." />
+    <String id="50171" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231141' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50172" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231203' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50180" string="Appuyez sur {F10}." />
+    <String id="50181" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231142' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50182" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231202' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50190" string="Appuyez sur {F11}." />
+    <String id="50191" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50192" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50200" string="Appuyez sur {F12}." />
+    <String id="50201" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50202" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50210" string="Coup renversant {1} -&gt; Frappe verticale {2}" />
+    <String id="50211" string="Coup renversant &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; -&gt; Frappe verticale &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50212" string="Coup renversant &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; -&gt; Frappe verticale &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51210" string="Aiguille de glace {1} ralentit l'ennemi." />
+    <String id="51211" string="Aiguille de glace &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; ralentit l'ennemi." />
+    <String id="51212" string="Aiguille de glace &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; ralentit l'ennemi." />
+    <String id="52210" string="Combat rapproché {F2} interrompt l'action de l'ennemi." />
+    <String id="52211" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; interrompt l'action de l'ennemi." />
+    <String id="52212" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; interrompt l'action de l'ennemi." />
+    <String id="53210" string="Volée de flèches {1} permet de lancer des attaques simultanées sur plusieurs ennemis." />
+    <String id="53211" string="Volée de flèches &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; permet de lancer des attaques simultanées sur plusieurs ennemis." />
+    <String id="53212" string="Volée de flèches &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; permet de lancer des attaques simultanées sur plusieurs ennemis." />
+    <String id="50220" string="Bombe de magma {2} permet d'attaquer l'ennemi à distance." />
+    <String id="50221" string="Bombe de magma &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; permet d'attaquer l'ennemi à distance." />
+    <String id="50222" string="Bombe de magma &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; permet d'attaquer l'ennemi à distance." />
+    <String id="51220" string="Utilisez Coup de bouclier {2} pour bloquer l'attaque ennemie." />
+    <String id="51221" string="Utilisez Coup de bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour interrompte l'attaque ennemie." />
+    <String id="51222" string="Utilisez Coup de bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour bloquer l'attaque ennemie." />
+    <String id="52220" string="Frappe de tonnerre {2} permet de lancer une attaque concentrée." />
+    <String id="52221" string="Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; permet de lancer une puissante attaque." />
+    <String id="52222" string="Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; permet de lancer une puissante attaque." />
+    <String id="52230" string="Coup vampirique {3} restaure votre endurance." />
+    <String id="52231" string="Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restaure votre endurance." />
+    <String id="52232" string="Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restaure votre endurance." />
+    <String id="53230" string="Repoussez vos ennemis à l'aide de Trait de rupture {F3}." />
+    <String id="53231" string="Repoussez vos ennemis à l'aide de Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="53232" string="Repoussez vos ennemis à l'aide de Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50240" string="Appuyez sur {4}." />
+    <String id="50241" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50242" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="52240" string="Frappe combative {4} affaiblit l'ennemi." />
+    <String id="52241" string="Frappe combative &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; réduit la défense de l'ennemi." />
+    <String id="52242" string="Frappe combative &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; réduit la défense de l'ennemi." />
+    <String id="50250" string="Infusion de mana {5} restaure vos PM. Tout déplacement interrompt cette compétence." />
+    <String id="50251" string="Infusion de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restaure vos PM. Tout déplacement interrompt cette compétence." />
+    <String id="50252" string="Infusion de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restaure vos PM. Tout déplacement interrompt cette compétence." />
+    <String id="50260" string="Appuyez sur {6}." />
+    <String id="50261" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50262" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50270" string="Appuyez sur {7}." />
+    <String id="50271" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50272" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50280" string="Appuyez sur {8}." />
+    <String id="50281" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50282" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50290" string="Appuyez sur {9}." />
+    <String id="50291" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50292" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50300" string="Appuyez sur {0}." />
+    <String id="50301" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50302" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50310" string="Toucher épurateur d'Arun {6} soigne les alliés souffrant d'affaiblissements dus aux ennemis." />
+    <String id="50311" string="Toucher épurateur d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; soigne les alliés souffrant d'affaiblissements dus aux ennemis." />
+    <String id="50312" string="Toucher épurateur d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; soigne les alliés souffrant d'affaiblissements dus aux ennemis." />
+    <String id="50320" string="Appuyez sur {=}." />
+    <String id="50321" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50322" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50330" string="Inébranlable {MR}" />
+    <String id="50331" string="Inébranlable &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50332" string="Inébranlable &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51330" string="Blocage frontal {MR}" />
+    <String id="51331" string="Blocage frontal &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51332" string="Blocage frontal &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50340" string="Réaction {TAB}" />
+    <String id="50341" string="Réaction &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50342" string="Réaction &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51340" string="Utilisez Soin personnel {TAB} pour récupérer des PV." />
+    <String id="51341" string="Utilisez Soin personnel &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; pour récupérer des PV." />
+    <String id="51342" string="Utilisez Soin personnel &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; pour récupérer des PV." />
+    <String id="50350" string="Esquivez avec {MR}" />
+    <String id="50351" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pour esquiver." />
+    <String id="50352" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pour esquiver." />
+    <String id="60000" string="Le pont s'est effondré." />
+    <String id="60001" string="Barrage au bouclier {1} peut être utilisé deux fois de suite." />
+    <String id="61001" string="Barrage au bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; peut être utilisé deux fois de suite." />
+    <String id="62001" string="Barrage au bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; peut être utilisé deux fois à la suite." />
+    <String id="60002" string="Attaque bondissante est déclenchée immédiatement si elle est utilisée après Barrage au bouclier {1} ou Coup de bouclier {2}." />
+    <String id="61002" string="Attaque bondissante &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; est déclenchée immédiatement si elle est utilisée après Barrage au bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; ou Coup de bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62002" string="Attaque bondissante &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; est déclenchée immédiatement si elle est utilisée après Barrage au bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; ou Coup de bouclier &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60003" string="Avec Fente chargée {4}, vous vous précipitez vers l'ennemi." />
+    <String id="61003" string="Fente chargée &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; vous fait vous précipiter sur l'ennemi." />
+    <String id="62003" string="Fente chargée &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; vous fait vous précipiter sur l'ennemi." />
+    <String id="60004" string="Cri de défi {F1} attire l'attention d'un ennemi à proximité. Cette compétence peut s'avérer utile si un de vos alliés cherche à fuir un ennemi." />
+    <String id="61004" string="Cri de défi {F1} attire l'attention d'un ennemi à proximité. Cette compétence peut s'avérer utile si un de vos alliés cherche à fuir un ennemi." />
+    <String id="62004" string="Cri de défi &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attire l'attention d'un ennemi à proximité. Cette compétence peut s'avérer utile si un de vos alliés cherche à fuir un ennemi." />
+    <String id="60005" string="Position offensive {F2} vous aide à attaquer, mais réduit vos défenses." />
+    <String id="61005" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; vous aide à attaquer, mais réduit vos défenses." />
+    <String id="62005" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; vous aide à attaquer, mais réduit vos défenses." />
+    <String id="60006" string="Position défensive {F2} vous aide à vous défendre, mais réduit vos attaques." />
+    <String id="61006" string="Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; vous aide à vous défendre, mais réduit vos attaques." />
+    <String id="62006" string="Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; vous aide à vous défendre, mais réduit vos attaques." />
+    <String id="60007" string="Position offensive {F2} et Position défensive {F3} consomment des PM en continu (ON/OFF)." />
+    <String id="61007" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; et Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; consomment des PM en continu (ON/OFF)." />
+    <String id="62007" string="Position offensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; et Position défensive &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; consomment des PM en continu (activable/désactivable)." />
+    <String id="60008" string="Fureur montante {3} peut être utilisée deux fois de suite." />
+    <String id="61008" string="Fureur montante &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; peut être utilisée deux fois de suite." />
+    <String id="62008" string="Fureur montante &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; peut être utilisée deux fois de suite." />
+    <String id="60009" string="Frappe combative {4} réduit la défense de l'ennemi." />
+    <String id="61009" string="Frappe combative &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; réduit la défense de l'ennemi." />
+    <String id="62009" string="Frappe combative &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; réduit la défense de l'ennemi." />
+    <String id="60010" string="Évasion {MR} -&gt; Entaille Vortex {5} vous permet d'attaquer un ennemi à proximité quand vous vous relevez." />
+    <String id="61010" string="Évasion &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; -&gt; Entaille Vortex &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; vous permet d'attaquer un ennemi à proximité lorsque vous vous relevez." />
+    <String id="62010" string="Évasion &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; -&gt; Entaille Vortex &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; vous permet d'attaquer un ennemi à proximité lorsque vous vous relevez." />
+    <String id="60011" string="Cri de bataille {F1} attaque tous les ennemis à portée et confère des chances de les étourdir." />
+    <String id="61011" string="Cri de bataille &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attaque tous les ennemis à portée et confère des chances de les étourdir." />
+    <String id="62011" string="Cri de bataille &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attaque tous les ennemis à portée et confère des chances de les étourdir." />
+    <String id="60012" string="Cri de triomphe {F2} et Ténacité {F3} restaurent vos PM instantanément." />
+    <String id="61012" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; et Ténacité &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; restaurent vos PM instantanément." />
+    <String id="62012" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; et Ténacité &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; restaurent vos PM instantanément." />
+    <String id="60013" string="Les PM diminuent automatiquement avec le temps. Restaurez vos PM en combattant!" />
+    <String id="61013" string="Les PM diminuent automatiquement avec le temps. Restaurez vos PM en combattant!" />
+    <String id="62013" string="Les PM diminuent automatiquement avec le temps. Restaurez vos PM en combattant!" />
+    <String id="60014" string="Les attaques Frappe de tonnerre {2}, Coup vampirique {3} et Cyclone {1} sont plus puissantes à pleine charge, mais réduisent également vos PV." />
+    <String id="61014" string="Les attaques Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; et Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; sont plus puissantes à pleine charge, mais réduisent également vos PV." />
+    <String id="62014" string="Les attaques Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;, Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; et Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; sont plus puissantes à pleine charge, mais réduisent également vos PV." />
+    <String id="60015" string="Écrasement {F1} permet de lancer une attaque efficace lorsque plusieurs ennemis sont rassemblés." />
+    <String id="61015" string="Écrasement &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; est efficace lorsqu'elle touche plusieurs ennemis rassemblés." />
+    <String id="62015" string="Écrasement &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; est efficace lorsqu'elle touche plusieurs ennemis rassemblés." />
+    <String id="60016" string="Vous pouvez utiliser Frappe de tonnerre {2}, Coup vampirique {3} et Cyclone {1} tout en vous déplaçant." />
+    <String id="61016" string="Vous pouvez utiliser Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; et Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; tout en vous déplaçant." />
+    <String id="62016" string="Vous pouvez utiliser Frappe de tonnerre &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;, Coup vampirique &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; et Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; tout en vous déplaçant." />
+    <String id="60017" string="Cri de triomphe {F1} et Ténacité {F2} restaurent vos PM instantanément." />
+    <String id="61017" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; et Ténacité &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restaurent vos PM instantanément." />
+    <String id="62017" string="Cri de triomphe &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; et Ténacité &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restaurent vos PM instantanément." />
+    <String id="60018" string="Les PM diminuent automatiquement avec le temps. Restaurez vos PM en combattant!" />
+    <String id="60019" string="Frappe verticale {2} est lancée immédiatement si elle est utilisée après Coup renversant {1}." />
+    <String id="61019" string="Frappe verticale &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; est lancée immédiatement si elle est utilisée après Coup renversant &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;." />
+    <String id="62019" string="Frappe verticale &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; est lancée immédiatement si elle est utilisée après Coup renversant &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60020" string="Tourbillon {3} permet de lancer une attaque efficace lorsque plusieurs ennemis sont rassemblés." />
+    <String id="61020" string="Tourbillon &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; est efficace lorsqu'elle touche plusieurs ennemis." />
+    <String id="62020" string="Tourbillon &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; permet de lancer une attaque efficace lorsque plusieurs ennemis sont rassemblés." />
+    <String id="60021" string="Utilisez Colonne de feu {3} et Retraite glaciale {4} l'un à la suite de l'autre pour infliger de lourds dégâts aux ennemis à proximité." />
+    <String id="61021" string="Utilisez Colonne de feu &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; et Retraite glaciale &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; à la suite pour infliger de lourds dégâts aux ennemis à proximité." />
+    <String id="62021" string="Utilisez Colonne de feu &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; et Retraite glaciale &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; à la suite pour infliger de lourds dégâts aux ennemis à proximité." />
+    <String id="60022" string="Vos PM se reconstituent automatiquement quand vous ne les utilisez pas." />
+    <String id="60023" string="Une stratégie efficace consiste à ralentir l'ennemi à distance avec Aiguille de glace {1} avant de l'attaquer." />
+    <String id="61023" string="Une stratégie efficace consiste à ralentir l'ennemi à distance avec Aiguille de glace &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; avant de l'attaquer." />
+    <String id="62023" string="Une stratégie efficace consiste à ralentir l'ennemi à distance avec Aiguille de glace &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; avant de l'attaquer." />
+    <String id="60024" string="Lancez Barrage embrasé en appuyant deux fois sur {F2} —une fois pour verrouiller la cible et à nouveau pour lancer la compétence." />
+    <String id="61024" string="Lancez Barrage embrasé en appuyant deux fois sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; : une première fois pour verrouiller la cible, une autre pour lancer." />
+    <String id="62024" string="Lancez Barrage embrasé en appuyant deux fois sur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; : une première fois pour verrouiller la cible, une autre pour lancer." />
+    <String id="60025" string="Utilisez Piège paralysant {F1} pour fabriquer un piège et tromper l'ennemi." />
+    <String id="61025" string="Utilisez Piège paralysant &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour fabriquer un piège qui ralentira l'ennemi." />
+    <String id="62025" string="Utilisez Piège paralysant &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour fabriquer un piège qui ralentira l'ennemi." />
+    <String id="60026" string="Essayez d'utiliser Combat rapproché {F2} et Trait de rupture {F3} à la suite." />
+    <String id="61026" string="Essayez d'utiliser Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; et Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; à la suite." />
+    <String id="62026" string="Essayez d'utiliser Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; et Trait de rupture &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; à la suite." />
+    <String id="60027" string="Combat rapproché {F2} peut être utilisé deux fois de suite {F2}{F2}." />
+    <String id="61027" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; peut être utilisé deux fois de suite &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62027" string="Combat rapproché &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; peut être utilisé deux fois de suite &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60028" string="Tir rapide envoie une salve de flèches tant que vous maintenez la touche {4} appuyée." />
+    <String id="61028" string="Tir rapide envoie une salve de flèches tant que vous maintenez la touche &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; appuyée." />
+    <String id="62028" string="Tir rapide envoie une salve de flèches tant que vous maintenez la touche &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; appuyée." />
+    <String id="60029" string="Flèche irradiante {3} lance une attaque puissante sur une cible unique." />
+    <String id="61029" string="Flèche irradiante &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; lance une attaque puissante sur une cible unique." />
+    <String id="62029" string="Flèche irradiante &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; lance une attaque puissante sur une cible unique." />
+    <String id="60030" string="Volée de flèches {1} et Flèche pénétrante {2} permettent de lancer des attaques efficaces sur plusieurs ennemis." />
+    <String id="61030" string="Volée de flèches &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; et Flèche pénétrante &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; permettent de lancer des attaques efficaces sur plusieurs ennemis." />
+    <String id="62030" string="Volée de flèches &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; et Flèche pénétrante &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; permettent de lancer des attaques efficaces sur plusieurs ennemis." />
+    <String id="60031" string="Implosion électrique {1} et Contre-attaque finale {3} sont des attaques de mêlée." />
+    <String id="61031" string="Implosion électrique &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; et Contre-attaque finale &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; attaquent les ennemis proches." />
+    <String id="62031" string="Implosion électrique &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; et Contre-attaque finale &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; sont des attaques de mêlée." />
+    <String id="60032" string="Triple némésis {2} et Lueur divine {4} sont des attaques de mêlée." />
+    <String id="61032" string="Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; et Coup de métamorphose &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; sont des attaques de mêlée." />
+    <String id="62032" string="Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; et Coup de métamorphose &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; sont des attaques de mêlée." />
+    <String id="60033" string="Triple némésis {2} peut être utilisée 3 fois de suite." />
+    <String id="61033" string="Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; peut être utilisée 3 fois de suite." />
+    <String id="62033" string="Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; peut être utilisée 3 fois de suite." />
+    <String id="60034" string="Contre-attaque finale {3} est lancée immédiatement si elle est utilisée après Implosion électrique {1} ou Triple némésis {2}." />
+    <String id="61034" string="Contre-attaque finale &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; est lancée immédiatement si elle est utilisée après Implosion électrique &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; ou Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62034" string="Contre-attaque finale &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; est lancée immédiatement si elle est utilisée après Implosion électrique &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; ou Triple némésis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60035" string="Cercle purificateur {F1} retire les effets négatifs présents sur votre groupe et vous. Cercle de régénération {F2} soigne les membres du groupe à proximité." />
+    <String id="61035" string="Cercle purificateur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; retire les effets négatifs présents sur votre groupe et vous. Cercle de régénération &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; soigne les membres du groupe à proximité." />
+    <String id="62035" string="Cercle purificateur &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; retire les effets négatifs présents sur votre groupe et vous. Cercle de régénération &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; soigne les membres du groupe à proximité." />
+    <String id="60036" string="Soin personnel {TAB} vous soigne instantanément." />
+    <String id="61036" string="Soin personnel &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; vous soigne instantanément." />
+    <String id="62036" string="Soin personnel &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; vous soigne instantanément." />
+    <String id="60037" string="Poussée restauratrice {F3} soigne les alliés plus vite, mais sur une zone plus réduite." />
+    <String id="61037" string="Poussée restauratrice &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; soigne les alliés plus vite, mais sur une zone plus réduite." />
+    <String id="62037" string="Poussée restauratrice &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; soigne les alliés plus vite, mais sur une zone plus réduite." />
+    <String id="60038" string="Vous ne pouvez pas invoquer plusieurs serviteurs simultanément." />
+    <String id="61038" string="Vous ne pouvez pas invoquer plusieurs serviteurs simultanément." />
+    <String id="62038" string="Vous ne pouvez pas invoquer plusieurs serviteurs simultanément." />
+    <String id="60039" string="Invoquez un Serviteur de protection {F1} pour vous protéger quand vous lancez des sorts infligeant d'importants dégâts." />
+    <String id="61039" string="Invoquez un Serviteur de protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pour vous protéger quand vous lancez des sorts infligeant d'importants dégâts." />
+    <String id="62039" string="Invoquez un Serviteur de protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pour vous protéger quand vous lancez des sorts infligeant d'importants dégâts." />
+    <String id="60040" string="Utilisez Vie d'Arun {5} pour vous soigner vous ou une personne près de vous." />
+    <String id="61040" string="Utilisez Vie d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; pour vous soigner vous ou une personne près de vous." />
+    <String id="62040" string="Utilisez Vie d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; pour vous soigner vous ou une personne près de vous." />
+    <String id="60041" string="Appuyez sur {F} après avoir abandonné Vie d'Arun {5} pour utiliser la graine de soins." />
+    <String id="61041" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; après avoir abandonné Vie d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; pour utiliser la graine de soins." />
+    <String id="62041" string="Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; après avoir abandonné Vie d'Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; pour utiliser la graine de soins." />
+    <String id="60042" string="Utilisez une potion de soins de l'expédition {F5}." />
+    <String id="61042" string="Utilisez une Potion de soins de l'expédition &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62042" string="Utilisez une Potion de soins de l'expédition &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60043" string="Utilisez une potion de mana de l'expédition {F6}." />
+    <String id="61043" string="Utilisez une Potion de mana de l'expédition &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62043" string="Utilisez une Potion de mana de l'expédition &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="70000" string="5 joueurs maximum peuvent conduire l'aéronef simultanément." />
+    <String id="70001" string="Réparez les armes de siège détruites en appuyant sur la touche [F]." />
+    <String id="70002" string="Pour monter à bord d'un aéronef ou d'une arme de siège, appuyer sur la touche [F]." />
+    <String id="70003" string="Les deux équipes changeront de rôle lors de la deuxième manche L'équipe qui détruira la pierre angulaire le plus rapidement remporte la victoire." />
+    <String id="70004" string="Les aéronefs détruits réapparaitront après quelques minutes." />
+    <String id="70005" string="Les tourelles sont plus puissantes que les armes mobiles." />
+    <String id="70006" string="Capturez des lieux de résurrections pour pouvoir choisir de ressusciter au plus près de la bataille." />
+    <String id="70007" string="Pour capturer un lieu de résurrection, appuyer sur la touche [F]." />
+    <String id="70008" string="Lorsqu'un aéronef ou une arme de siège est détruit/e, tous les joueurs se trouvant à l'intérieur meurent." />
+    <String id="70009" string="La deuxième manche durera aussi longtemps que la première manche." />
+    <String id="70010" string="En entrant dans le Fort des Corsaires, tous les joueurs auront un équipement de même valeur adapté au JcJ." />
+    <String id="70011" string="Seuls les équipements équipés sont remplacés. Les emplacements d'équipement vides au moment d'entrer sur le champ de bataille restent vides." />
+    <String id="70012" string="Plus vous vous battez sur le champ de bataille, plus vous recevez de récompenses." />
+    <String id="70013" string="Sur ce champ de bataille, tous les personnages sont ajustés au niveau 65." />
+    <String id="70014" string="Seuls les défenseurs peuvent embarquer sur l'aéronef du château." />
+    <String id="70015" string="Vous ne pouvez pas chevaucher de canon ni de monture lorsque vous êtes un kamikaze." />
+    <String id="70016" string="Ramassez les bombes autour de chaque point pour devenir un kamikaze." />
+    <String id="70017" string="Vous pouvez utiliser la fonction de bannissement d'une discussion sur le champ de bataille lorsque votre équipe compte plus de 5 membres." />
+    <String id="71000" string="Afin de l'emporter, les joueurs de la fédération doivent localiser les sucres d'orge Kumas, puis les ramasser et les rapporter à l'embarcadère." />
+    <String id="71002" string="Les joueurs kumas ralentissent au fur et à mesure que leurs PV diminuent." />
+    <String id="71003" string="Lorsqu'ils portent des sucres d'orge, les joueurs de la fédération sont ralentis et ne peuvent utiliser de compétences." />
+    <String id="71004" string="Attention : certaines compétences kumas ont une chance de voir leur temps de recharge réinitialisé." />
+    <String id="71005" string="Le sort kumas Fessée! ne peut pas être levé." />
+    <String id="71006" string="Les joueurs de la fédération doivent détruire les coffres au trésor pour trouver des sucres d'orge." />
+    <String id="71007" string="Les coffres au trésor contiennent d'autres objets, en dehors des sucres d'orge." />
+    <String id="71008" string="Si un joueur de la fédération est tué alors qu'il transporte un sucre d'orge, ce dernier est attribué au joueur kumas qui a tué le joueur de la fédération." />
+    <String id="71009" string="Si un joueur kumas est tué en portant un sucre d'orge, ce dernier tombe par terre et les joueurs de la fédération peuvent le ramasser." />
+    <String id="71010" string="Certaines compétences kumas ont une chance minime de voir leur temps de recharge réinitialisé." />
+    <String id="71011" string="Seule l'équipe de la Fédération peut utiliser le bannissement de discussion au Refuge de Kumas." />
+    <String id="72000" string="Dans la Gorge de Venteguerre, vous devez marquer plus de points que votre adversaire en capturant des bûchers pour gagner." />
+    <String id="72001" string="Des monstres neutres apparaissent à intervalles réguliers. En les éliminez, vous obtenez des effets positifs immédiats pour votre équipe." />
+    <String id="72002" string="Si votre équipe affiche un score et un nombre de kills nettement inférieurs lorsque le score atteint 2 000, des bonus vous seront offerts." />
+    <String id="72003" string="Un bûcher peut être pris par trois alliés au maximum." />
+    <String id="72004" string="Utilisez vos compétences exclusives de chef pour influencer la bataille à votre avantage." />
+    <String id="72005" string="Vous pouvez utiliser la fonction de bannissement d'une discussion sur le champ de bataille lorsque votre équipe compte plus de 5 membres." />
+    <String id="40000" string="De nouveaux consommables sont affichés dans votre inventaire [I]. Effectuez un clic droit pour les utiliser." />
+    <String id="40001" string="De nouveaux consommables sont affichés dans votre inventaire &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; pour en faire usage." />
+    <String id="40002" string="De nouveaux consommables sont affichés dans votre inventaire &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Appuyez sur &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; pour en faire usage." />
+    <String id="40100" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainSuperBlow_Tex' width='54' height='54' vspace='-17'&gt; Coup sinistre." />
+    <String id="40101" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainUppercut_Tex' width='54' height='54' vspace='-17'&gt; Frappe pendulaire." />
+    <String id="40102" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainBlade_Tex' width='54' height='54' vspace='-17'&gt; Torrent de lames." />
+    <String id="40103" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainBlow_Tex' width='54' height='54' vspace='-17'&gt; Frappe déchirante." />
+    <String id="40104" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ReverseCapture_Tex' width='54' height='54' vspace='-17'&gt; Etreinte fulgurante." />
+    <String id="40105" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainBrandish_Tex' width='54' height='54' vspace='-17'&gt; Spirale funeste." />
+    <String id="40106" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.DarkExplosion_Tex' width='54' height='54' vspace='-17'&gt; Déferlement macabre." />
+    <String id="40107" string="Vous avez acquis la compétence &lt;img src='img://__Icon_Skills.ChainStrike_Tex' width='54' height='54' vspace='-17'&gt; Assommoir." />
+    <String id="40110" string="Compétence automatiquement ajoutée à la fenêtre de compétence [K]. Glissez-la parmi vos raccourcis à l'aide de votre souris." />
+    <String id="40200" string="&lt;img src='img://__Icon_Skills.CounterAttack_Tex' width='54' height='54' vspace='-17'&gt; Utilisez la compétence Réaction pour sauter en l'air et attaquer le Basilic." />
+    <String id="40300" string="Vos PV sont bien bas. &lt;img src='img://__Icon_Skills.ChainBlade_Tex' width='54' height='54' vspace='-17'&gt; Servez-vous de Torrent de lames." />
+    <String id="40400" string="&lt;img src='img://__Icon_Skills.ReverseCapture_Tex' width='54' height='54' vspace='-17'&gt; Utilisez Etreinte fulgurante sur la palissade en bois. Etreinte fulgurante projette vos faux à une distance pouvant aller jusqu'à 18 mètres." />
+    <String id="101510" string="En utilisant Roulade de réarmement &lt;imgㆍsrc='img://__Icon_Skills.AmbushRolling_Tex'ㆍwidth='54'ㆍheight='54'ㆍvspace='-17'&gt; avec la touche ({MR}), vous pouvez utiliser Salve de dispersion &lt;imgㆍsrc='img://__Icon_Skills.BuckShot_Tex'ㆍwidth='54'ㆍheight='54'ㆍvspace='-17'&gt; à nouveau et plus rapidement." />
+    <String id="101511" string="Appuyez sur la touche {MR} pour utiliser Roulade de réarmement &lt;img src='img://__Icon_Skills.AmbushRolling_Tex' width='42' height='42' vspace='-17'&gt; et terminer le temps de recharge de Salve de dispersion. &lt;img src='img://__Icon_Skills.BuckShot_Tex' width='42' height='42' vspace='-17'&gt;" />
+</StrSheet_Tutorial>

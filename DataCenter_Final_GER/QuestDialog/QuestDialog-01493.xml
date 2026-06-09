@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="4">Es gibt da diese ... Dingsbums ... der Argonen, die meiner Ansicht nach die Entwicklung der Iterisscherben beeinflussen. Ich müsste eines davon untersuchen, aber ich bin kein Venator. Könntet Ihr zur Südlichen Teleportplattform gehen und mir eine Nachricht schicken, wenn es dort sicher ist?&lt;NEXTPAGEBUTTON&gt;"Wie kann ich Euch eine Nachricht schicken?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Die Harmonie der Teleportplattform ist auf die in Kanstria abgestimmt. Einfacher geht es nicht.&lt;BR&gt;&lt;BR&gt;Sagt mir Bescheid, wenn es sicher ist, dann begebe ich mich dorthin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1101">
+        <Page social="6">(Ihr könnt keine Gefahr erkennen.)&lt;BR&gt;&lt;BR&gt;(Informiert Shirka.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1016">
+        <Page social="6">Überraschung! Ich bin nicht Shirka.&lt;BR&gt;&lt;BR&gt;Entschuldigt bitte, aber mein Befehl lautet, dass sie um jeden Preis am Leben bleiben soll. Dieses Gebiet ist für sie zu gefährlich, daher kam ich an ihrer Stelle hierher.&lt;NEXTPAGEBUTTON&gt;"Gut. Was kommt als Nächstes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Der {@Rgn:49002} südlich von hier projiziert Energiestrahlen auf organische Strukturen, die wir Cyasmanahülsen nennen.&lt;BR&gt;&lt;BR&gt;Shirka benötigt ein Fragment von einer dieser Hülsen. Zerstört eine, holt Euch ein Stück davon und bringt es zu mir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="1016">
+        <Page social="6">Perfekt. Das wird Shirka erfreuen.&lt;BR&gt;&lt;BR&gt;Ihr könnt mithilfe der Teleportplattform nach Kanstria zurückkehren, wann immer Ihr wollt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" villagerId="1016">
+        <Page social="0">Die Cyasmanahülsen befinden sich unter dem {@Rgn:49002}. Folgt einfach dem Lichtstrahl am Himmel.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="5" villagerId="1022">
+        <Page social="6">Diese Probe dürfte sich als sehr aufschlussreich herausstellen.&lt;BR&gt;&lt;BR&gt;Ich hoffe, Ihr hattet keine großen Probleme.&lt;NEXTPAGEBUTTON&gt;"Ich wurde von Kelbas angegriffen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">In der Hülse gab es Kelbas? Das ist aber seltsam.&lt;BR&gt;&lt;BR&gt;Vielleicht sind sie ja für die Verbesserung der Scherben verantwortlich. Darüber muss ich nachdenken. Jedenfalls danke ich Euch für Eure Hilfe!</Page>
+    </Text>
+</QuestDialog>

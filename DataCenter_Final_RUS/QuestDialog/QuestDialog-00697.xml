@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="5">Один из моих патрулей не вернулся, и зная, как опасна пустыня, можно предположить все что угодно. Здесь легко можно погибнуть.&lt;BR&gt;&lt;BR&gt;Они ушли на север. Отправляйся туда и поищи их следы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1026">
+        <Page social="0">(Какой-то дикий зверь изуродовал это тело до неузнаваемости.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="2" villagerId="1027">
+        <Page social="0">(В груди мертвеца глубокая колотая рана. Похоже на след орканского клинка.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="2" villagerId="1028">
+        <Page social="0">(Мертвец весь покрыт ранами.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="224" prevId="2" villagerId="1029">
+        <Page social="0">(Тело нетронуто, но все мехи с водой пусты.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="224" prevId="3" villagerId="1009">
+        <Page social="5">Я надеялся, что будет хотя бы несколько выживших. Вот черт!&lt;BR&gt;&lt;BR&gt;Хорошо, что удалось вернуть хотя бы их жетоны. Мы не забудем павших товарищей.&lt;BR&gt;&lt;BR&gt;Но там, в пустыне, остался еще один солдат. Поможешь ему?&lt;BR&gt;&lt;BR&gt;Найди Касимира у входа в Деревню песчаных бурь... если он еще там.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="224" prevId="7" villagerId="1014">
+        <Page social="4">Мертвы? Все? Вот черт! Стадриану, наверное, сейчас совсем несладко.&lt;BR&gt;&lt;BR&gt;Патруль должен был помочь нам с кулкари.&lt;BR&gt;&lt;BR&gt;Не хочешь их подменить?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="5">Незадолго до того, как тут обосновались Кровавые изверги, повсюду начали расти странные растения. Они удивительно похожи на кровоцветы.&lt;BR&gt;&lt;BR&gt;Может быть, это просто совпадение, но лучше внимательно их изучить. Может быть, ты для меня соберешь их цветы?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1024">
+        <Page social="5">Да, именно об этом растении я и говорил. Сорванные цветы становятся кроваво-красными. Выглядят вполне обычными, но внешний вид может быть обманчив.&lt;BR&gt;&lt;BR&gt;Вот, прими в знак благодарности от скромного ученого.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1024">
+        <Page social="0">Берегись Кровавых извергов, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

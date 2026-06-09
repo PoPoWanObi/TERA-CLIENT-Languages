@@ -1,0 +1,394 @@
+<AnimSoundData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AnimSoundData AnimSoundData.xsd" animSet="Popori_M_ANI.Anim.Popori_M_Class04_Anim" xmlns="https://vezel.dev/novadrop/dc/AnimSoundData">
+    <AnimSound animName="bash">
+        <Sound time="0.156865" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.533483" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.079332" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.964348" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="2.039601" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="3.232326" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="3.413938" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="2.987152" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="2.064685" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.0445" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.PreAttackMCue" volume="1" />
+        <Sound time="1.126028" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="1.236534" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_02CUE" volume="0.3" />
+        <Sound time="1.286534" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="0.3" />
+        <Sound time="0.689073" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.Moving_Cue.Cartoon_Turn_S_04" volume="0.2" />
+        <Sound time="1.964348" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+    </AnimSound>
+    <AnimSound animName="blastSlashLoop" />
+    <AnimSound animName="blastSlashShot">
+        <Sound time="0.057737" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.505607" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.606647" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.000236" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.188085" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.675599" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.744111" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.967944" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.332275" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.557004" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="blastSlashStart">
+        <Sound time="0.33211" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.666078" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.524764" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.23852" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.PreAttackLCue" volume="1" />
+        <Sound time="0.089871" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="bReactionCom2">
+        <Sound time="0.048132" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.703805" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.167339" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.442018" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.654841" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.133957" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.188854" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.MovingCUE.Climb_CUE" volume="0.2" />
+        <Sound time="0.254924" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.WeaponCUE.Weapon_BareHand_LCUE" volume="0.5" />
+        <Sound time="1.418049" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.288404" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+        <Sound time="0.223262" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.103343" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.679836" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="bReactionDown2">
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.GroggyCUE" volume="0.3" />
+    </AnimSound>
+    <AnimSound animName="bReactionStart2">
+        <Sound time="0.453115" type="FallDown" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.453115" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.BodyFall_Cue.BodyFall_FullPlate_Boss" volume="0.5" />
+        <Sound time="0.979885" type="FallDown" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="1.099541" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.422448" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_MetalDrop_Heavy" volume="0.5" />
+        <Sound time="0.422448" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_StaffDrop_Heavy" volume="0.3" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_04CUE" volume="1" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.BigDamageCUE" volume="1" />
+    </AnimSound>
+    <AnimSound animName="combo1">
+        <Sound time="0.123169" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.568258" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.641573" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.181438" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.226493" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.511472" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.490122" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.485624" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackFCue" volume="1" />
+        <Sound time="1.117587" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="combo1R">
+        <Sound time="0.507563" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.70605" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+    </AnimSound>
+    <AnimSound animName="combo2">
+        <Sound time="0.521347" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.605702" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.480348" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="combo2R">
+        <Sound time="0.150405" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.231185" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.70089" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.825677" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+    </AnimSound>
+    <AnimSound animName="combo3">
+        <Sound time="0.151562" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.830992" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.086795" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.905791" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.855791" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.776606" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.903392" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="combo3R">
+        <Sound time="0.086984" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.306541" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.567492" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.731082" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.975476" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+    </AnimSound>
+    <AnimSound animName="combo4">
+        <Sound time="0.21605" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.942058" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.080252" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.650791" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.68096" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.991238" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="2.286047" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.929501" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.401198" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.894614" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.854032" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_04CUE" volume="0.8" />
+        <Sound time="0.423173" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+        <Sound time="0.933542" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="1.654588" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+        <Sound time="0.401198" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="1" />
+    </AnimSound>
+    <AnimSound animName="Death">
+        <Sound time="0.317644" type="FallDown" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.317644" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.BodyFall_Cue.BodyFall_FullPlate_Boss" volume="0.5" />
+        <Sound time="2.434946" type="FallDown" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="2.432924" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="2.682815" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.187419" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_MetalDrop_Heavy" volume="0.5" />
+        <Sound time="0.187419" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_StaffDrop_Heavy" volume="0.3" />
+        <Sound time="1.10764" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.Moving_Cue.Cartoon_Turn_S_04" volume="0.5" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_04CUE" volume="1" />
+        <Sound time="0.851311" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.550748" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.Death00CUE" volume="1" />
+        <Sound time="0.90907" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.Death01CUE" volume="0.3" />
+        <Sound time="2.40272" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.Death02CUE" volume="0.3" />
+    </AnimSound>
+    <AnimSound animName="Deathwait" />
+    <AnimSound animName="defenceCancel">
+        <Sound time="0.089871" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.50462" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.640357" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.906601" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.999944" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.267857" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.MovingCUE.Climb_CUE" volume="0.2" />
+        <Sound time="0.247857" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.359587" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="1E-06" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.507418" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.387857" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.SitDownCUE" volume="0.5" />
+        <Sound time="0.801815" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="defenceHit">
+        <Sound time="0.102784" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.574348" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.970607" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.639941" type="Normal" radius="0.5" shapeId="0" soundcue="PC_Skill.BerserkerCUE.Berserker_AxeDefenceCue" volume="1" />
+        <Sound time="0.491708" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.62955" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="defenceLoop" />
+    <AnimSound animName="defenceStart">
+        <Sound time="0.06468" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.48615" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.45837" type="Normal" radius="0.5" shapeId="0" soundcue="PC_Skill.BerserkerCUE.Berserker_AxeDefenceCue" volume="1" />
+        <Sound time="0.3308" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.44094" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackFCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="Groggy1">
+        <Sound time="1E-06" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.GroggyCUE" volume="0.3" />
+        <Sound time="0.498288" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="0.639175" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="1.249482" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="1.448106" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+    </AnimSound>
+    <AnimSound animName="GuardReaction1" />
+    <AnimSound animName="inweapon">
+        <Sound time="0.082506" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.448868" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.176809" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.652675" type="WeaponOff" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.545854" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.053411" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="outweapon">
+        <Sound time="0.12376" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.769195" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.002098" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.2723" type="WeaponOn" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="0.557989" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.845023" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.OutWeaponCue" volume="0.7" />
+    </AnimSound>
+    <AnimSound animName="Run">
+        <Sound time="0.039984" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.460149" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.039984" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.Run00Cue" volume="0.3" />
+        <Sound time="0.460149" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.Run01Cue" volume="0.3" />
+    </AnimSound>
+    <AnimSound animName="sReaction">
+        <Sound time="0.152356" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.1" />
+        <Sound time="0.713131" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.797514" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.1" />
+        <Sound time="0.059456" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.SmallDamageCUE" volume="1" />
+    </AnimSound>
+    <AnimSound animName="Wait" />
+    <AnimSound animName="SelfBuffOn">
+        <Sound time="0.011728" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.244749" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.421842" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.725157" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.072934" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.209477" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="ShockingShoutEnd">
+        <Sound time="0.326442" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.529568" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.611668" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.MovingCUE.Climb_CUE" volume="0.1" />
+        <Sound time="0.551668" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.004878" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="ShockingShoutLoop">
+        <Sound time="1E-06" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="ShockingShoutStart">
+        <Sound time="0.256907" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="0.70089" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.291719" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.MovingCUE.Climb_CUE" volume="0.1" />
+        <Sound time="0.291719" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="1E-06" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.497183" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.478899" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.RoarCUE" volume="1" />
+    </AnimSound>
+    <AnimSound animName="TurnAttack">
+        <Sound time="0.471091" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.724343" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.149137" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.486704" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.531031" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.501031" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.520147" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="1.422401" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.05" />
+        <Sound time="0.985719" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="DownBlow">
+        <Sound time="0.536848" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="0.543566" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.226335" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.232866" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.44503" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.660553" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.809647" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.404506" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.00989" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_04CUE" volume="0.3" />
+        <Sound time="0.00989" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_05CUE" volume="0.2" />
+        <Sound time="0.639411" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.58667" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.216445" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+        <Sound time="1.600841" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.40097" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="MovingCharge">
+        <Sound time="0.03033" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.49554" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+    </AnimSound>
+    <AnimSound animName="RisingAttack">
+        <Sound time="0.212466" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.283172" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.350933" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.738778" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.10808" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.526773" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.451736" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.421736" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.421736" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="1" />
+        <Sound time="0.190803" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.606377" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.055744" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.57599" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.473976" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="WhirlwindEnd">
+        <Sound time="0.150178" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.264675" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.572627" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.921419" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="1.389723" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.300357" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.043277" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+        <Sound time="0.325864" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="0.15" />
+        <Sound time="0.385864" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="0.3" />
+        <Sound time="0.385864" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="0.3" />
+        <Sound time="0.936609" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.WeaponDrop_Cue.WeaponDrop_Steel" volume="0.1" />
+        <Sound time="0.73298" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.341431" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.284152" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="0.3" />
+        <Sound time="1E-06" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="0.3" />
+    </AnimSound>
+    <AnimSound animName="WhirlwindLoop" />
+    <AnimSound animName="WhirlwindShot">
+        <Sound time="0.122866" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.301657" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.015592" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+        <Sound time="0.005592" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="0.3" />
+        <Sound time="0.005592" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_00CUE" volume="0.3" />
+    </AnimSound>
+    <AnimSound animName="WhirlwindStart">
+        <Sound time="0.354112" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.60916" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="0.346778" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.429042" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.PreAttackMCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="SoulStrike">
+        <Sound time="1E-06" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.439951" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="0.48209" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.842401" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.936152" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.263795" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.768553" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.801943" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.142168" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.142168" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="0.3837" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.819012" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.25" />
+        <Sound time="1.202906" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.684996" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="RibBreaker">
+        <Sound time="0.053759" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="1.006128" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.071724" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.450785" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.BodyFallCue.BodyFall_FullPlate_LCUE" volume="0.5" />
+        <Sound time="0.450785" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.8" />
+        <Sound time="0.432906" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.985167" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="0.108355" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_09CUE" volume="0.5" />
+        <Sound time="0.108355" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_03CUE" volume="0.5" />
+        <Sound time="0.120315" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackMCue" volume="1" />
+    </AnimSound>
+    <AnimSound animName="sideSlash">
+        <Sound time="0.113689" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.676588" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.06394" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.156939" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.6" />
+        <Sound time="1.337604" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.384104" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.895384" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.3" />
+        <Sound time="1.947003" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.301355" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.252974" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.594041" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.00187" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.316914" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.838646" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.650778" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.Moving_Cue.Cartoon_JumpFoot_S_01" volume="0.7" />
+        <Sound time="1.000703" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.Moving_Cue.Cartoon_JumpFoot_S_01" volume="0.4" />
+        <Sound time="1.378985" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_01.Moving_Cue.Cartoon_JumpFoot_S_01" volume="0.5" />
+        <Sound time="0.254116" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackLCue" volume="1" />
+        <Sound time="0.036048" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+    </AnimSound>
+    <AnimSound animName="ThrowAxe">
+        <Sound time="0.450708" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="0.727502" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.5" />
+        <Sound time="1.111093" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="1.573722" type="FootStep" radius="0.5" shapeId="0" soundcue="" volume="0.4" />
+        <Sound time="0.533828" type="Weapon" radius="0.5" shapeId="0" soundcue="" volume="1" />
+        <Sound time="0.533828" type="Normal" radius="0.5" shapeId="0" soundcue="PCModuleSound_00.TrafficLineCUE.TrafficLine_S_10CUE" volume="1" />
+        <Sound time="0.446789" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.684064" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="1.129413" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.2" />
+        <Sound time="0.524309" type="Normal" radius="0.5" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.AttackFCue" volume="1" />
+        <Sound time="1E-06" type="Rustle" radius="0.5" shapeId="0" soundcue="" volume="0.1" />
+    </AnimSound>
+    <AnimSound animName="bReactionCom3">
+        <Sound time="1E-06" type="Normal" radius="1" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.SitDownCUE" volume="1.5" />
+    </AnimSound>
+    <AnimSound animName="bReactionDown3" />
+    <AnimSound animName="bReactionRolling3">
+        <Sound time="0.320446" type="FallDown" radius="0.3" shapeId="0" soundcue="" volume="0.5" />
+    </AnimSound>
+    <AnimSound animName="bReactionStart3">
+        <Sound time="1E-06" type="Normal" radius="0.3" shapeId="0" soundcue="SoundFx.bReaction3_00_Cue" volume="1" />
+        <Sound time="0.239888" type="Normal" radius="0.3" shapeId="0" soundcue="SoundFx.bReaction3_01_Cue" volume="0.4" />
+        <Sound time="1.417771" type="FallDown" radius="0.3" shapeId="0" soundcue="" volume="1.8" />
+        <Sound time="1E-06" type="Normal" radius="0.3" shapeId="0" soundcue="PCMale_Voice00.Male_VoiceCue.BigDamageCUE" volume="1" />
+    </AnimSound>
+</AnimSoundData>

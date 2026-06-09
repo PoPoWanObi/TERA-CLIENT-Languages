@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="4">Проклятие! На селян, которые пытаются восстановить свои дома, постоянно нападают {@LinkCreature:31#2#Оссугонские владыки льда} и {@LinkCreature:31#5#Морозные костяные рабы}.&lt;BR&gt;&lt;BR&gt;К тому же мне сказали, что у строителей кончился пепел для цемента. Но мы можем прибить двух зайцев одним махом!&lt;BR&gt;&lt;BR&gt;Убей ходячих мертвецов и собери их кости. Посмотрим, подойдут ли они для цемента.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1009">
+        <Page social="4">Отлично, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Конечно, костяной порошок - не пепел, но эти мертвецы настолько упорны, что смесь должна получиться прочнее некуда! Ха!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1009">
+        <Page social="0">Поговорим, когда ты убьешь монстров.</Page>
+    </Text>
+</QuestDialog>

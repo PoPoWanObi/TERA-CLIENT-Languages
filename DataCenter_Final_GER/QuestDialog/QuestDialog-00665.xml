@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="4">Ja, die Darmschlitzer sind uns ein Dorn im Auge, aber wir haben andere Probleme. Die {@LinkCreature:21#7#Yurklaghyänen} und {@LinkCreature:21#14#Wüstenarachnenarbeiter} stellen eine größere Gefahr dar.&lt;BR&gt;&lt;BR&gt;Ich hörte, Ihr seid gut im Töten. Das ist Eure Chance, es zu beweisen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1033">
+        <Page social="4">Nun, da wir nicht mehr auf dem Speiseplan dieser Bestien stehen, können wir viel mehr erledigen. Gute Arbeit, &lt;PCNAME&gt;. Danke.</Page>
+    </Text>
+</QuestDialog>

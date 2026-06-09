@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вы уничтожили последователей Лока и вернулись в Велику.&lt;BR&gt;&lt;BR&gt;В честь ваших достижений командир Сеир организовал праздничную церемонию, а Эллеон поблагодарил вас за решающий вклад в устранение Потомков Лока.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;При первой возможности явитесь к Баруху в Тулуфане.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">А вот и ты! Рад, что ты снова здесь!&lt;BR&gt;&lt;BR&gt;В Велике собираются устроить праздник в честь победы над Потомками Лока. Тебя очень хотят там видеть прямо сейчас. Троюс будет ждать тебя возле платформы пегасов.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4">&lt;PCNAME&gt;, наслышан о твоей помощи Эллеону. Отличная работа!&lt;BR&gt;&lt;BR&gt;Уриэлла ищет тебя. Хочет с тобой поговорить.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1101">
+        <Page social="4">&lt;PCNAME&gt;! Мы все восхищены твоей отвагой и героизмом!&lt;BR&gt;&lt;BR&gt;Командир Сеир ожидает тебя внутри.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1102">
+        <Page social="4">Отличная работа, &lt;PCNAME&gt;! То, как ловко тебе удалось разобраться с Потомками Лока, достойно восхищения.&lt;BR&gt;&lt;BR&gt;Мы рады видеть тебя в наших рядах. Ты просто находка для нас и всей Федерации!&lt;BR&gt;&lt;BR&gt;Тебя искал Эллеон. Не заставляй его ждать.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1169">
+        <Page social="4">Говорят, не следует ругать героев, которые опаздывают на свой праздник, но как же ты долго!&lt;BR&gt;&lt;BR&gt;Проходи скорее! Не заставляй Сеира ждать. Он без ума от подобных мероприятий.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1169">
+        <Page social="4">Твоя храбрость помогла вывести на чистую воду вероломного Самаэля и коварных Потомков Лока, а также помешать аж двум попыткам убийства Велики.&lt;BR&gt;&lt;BR&gt;Валькионской Федерации все еще угрожает опасность и нашей работе не видно конца, но с союзниками вроде тебя мы можем надеяться на светлое будущее.&lt;BR&gt;&lt;BR&gt;Работать с тобой было огромной честью, &lt;PCNAME&gt;. Мы всегда будем об этом помнить.</Page>
+    </Text>
+</QuestDialog>

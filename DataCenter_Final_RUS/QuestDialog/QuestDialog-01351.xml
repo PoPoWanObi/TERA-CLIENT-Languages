@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="4">Я привез груз с молодыми поросятами, чтобы накормить войска хорошей домашней едой.&lt;BR&gt;&lt;BR&gt;Но к моему разочарованию, несколько поросят убежали прошлой ночью. Мне сегодня нужно накормить столько человек. Мне позарез нужно мясо! Думаешь, сможешь мне помочь?&lt;NEXTPAGEBUTTON&gt;"Где они могут быть?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Посмотри у входа в крепость с восточной стороны. Скорее всего, они там пасутся.&lt;BR&gt;&lt;BR&gt;Удачной охоты!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1009">
+        <Page social="6">Отличная работа, дружище. Наши солдаты заслужили поощрение и должны восполнить силы.&lt;BR&gt;&lt;BR&gt;Теперь можно приступать к копчению, зажариванию и запеканию. Бекончика?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1009">
+        <Page social="0">{@LinkCreature:48#100}. Не видали? У меня куча голодных ртов.</Page>
+    </Text>
+</QuestDialog>

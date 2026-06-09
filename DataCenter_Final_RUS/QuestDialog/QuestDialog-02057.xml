@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">Некоторые существа Нексуса носят с собой поврежденные ящички-теинокроны.&lt;BR&gt;&lt;BR&gt;Мы не думаем, что они делают так из соображений сентиментальности, так что, видимо, и у сломанных ящичков есть какое-то предназначение. Изучение сломанных теинокронов может помочь нам разобраться, для чего нужны исправные, а это станет очень ценными сведениями для Агнитора.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">Спасибо за сломанные теинокроны.&lt;BR&gt;&lt;BR&gt;Если моя гипотеза верна, теинокроны либо используют для защиты от энергии Нексуса, либо носят с собой, чтобы поддерживать Нексус. Для чего же нужны поломанные устройства я, честно говоря, предположить не могу.&lt;BR&gt;&lt;BR&gt;Спасибо за помощь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1002">
+        <Page social="0">Убивай слабых существ Нексуса и собирай поврежденные теинокроны. Если мы правы, они должны их носить.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Seid Ihr hier, um zu helfen?&lt;NEXTPAGEBUTTON&gt;"Aber sicher, was kann ich für Euch tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Könnt Ihr {@LinkCreature:63#3002#Taratia} zur Hand gehen? Sie versucht gerade, ein paar dringend benötigte Handwerksmaterialien aufzutreiben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">So, {@LinkCreature:63#3003#Elthienne} hat Euch geschickt, mir zu helfen, ja? Wurde auch Zeit!&lt;BR&gt;&lt;BR&gt;Seit Tagen muss ich Kunden schon an andere Stellen verweisen, weil wir die Materialien nicht vorrätig haben.&lt;BR&gt;&lt;BR&gt;Könnt Ihr mit beschaffen, was ich brauche?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Danke. Jetzt kann ich all die überfälligen Bestellungen abarbeiten.&lt;BR&gt;&lt;BR&gt;Richtet {@LinkCreature:63#3003#Elthienne} meinen Dank dafür aus, dass sie Euch hergeschickt hat. Und dann tretet ihr vor's Schienenbein. Nein, das war nur Spaß!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ich brauche Verdrafasern. Ihr wisst doch, was das ist, oder?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Wuhu! Ware!&lt;BR&gt;&lt;BR&gt;Richtet {@LinkCreature:63#3003#Elthienne} aus, dass das eine große Hilfe ist.&lt;BR&gt;&lt;BR&gt;Danke, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Habt Ihr die Waren?&lt;BR&gt;&lt;BR&gt;Die Dämmerhaut? Ich sehe sie nicht ...&lt;BR&gt;&lt;BR&gt;Macht Ihr Witze? Warum, in Veliks Namen seid Ihr noch hier?&lt;BR&gt;&lt;BR&gt;Habt Ihr eine Ahnung, wie groß die Nachfrage nach Dämmerhaut ist?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, Ihr seid wirklich viel zu hilfsbereit. Ihr dürft jederzeit wiederkommen und "viel zu hilfsbereit" sein!&lt;BR&gt;&lt;BR&gt;Im Ernst, wir schätzen uns glücklich, Euch bei uns zu haben.</Page>
+    </Text>
+</QuestDialog>

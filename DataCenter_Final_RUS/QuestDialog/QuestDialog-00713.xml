@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="4">Переходим к ящерам!&lt;BR&gt;&lt;BR&gt;Убей несколько {@LinkCreature:24#5#Резвых штормовых ящеров}, и все в порядке.&lt;BR&gt;&lt;BR&gt;Когда закончишь, успокой Элстона.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1008">
+        <Page social="4">Большое спасибо! Теперь нам не придется бояться, что нас сожрут, пока мы ищем реликвии... то есть, патрулируем!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1008">
+        <Page social="0">Не бойся. Если не смотреть на всю эту чешую, зубища, острые когти и шипастый хвост, Резвые штормовые ящеры так же смертны, как ты.</Page>
+    </Text>
+</QuestDialog>

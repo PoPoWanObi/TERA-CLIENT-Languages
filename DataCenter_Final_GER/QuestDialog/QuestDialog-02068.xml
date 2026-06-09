@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0">Ihr habt den Entwurf. Ich sehe aber, dass Ihr über die Materialien für die Finsterschmiedewaffen verwundert seid, &lt;PCNAME&gt;. Ihr braucht Metallüberzüge. Ich habe gehört, dass Kerkion und Barbosa jeweils Teile einer Waffe aus einer anderen Welt haben. Da ihr nicht mit einer zerstörten Waffe kämpfen könnt, schmelze ich sie in verwendbares Metall ein. Beschafft zwei zerstörte Waffen, dann habe ich genug Metall!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">Diese Waffen werden dazu verwendet, Metallüberzüge für Finsterschmiedeausrüstungen anzufertigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" villagerId="5001">
+        <Page social="0">Das ist nicht einfach,  &lt;PCNAME&gt;. Aber ich weiß, dass Ihr das schafft.&lt;BR&gt;&lt;BR&gt;Nur Mut! Wir müssen ja nur zwei Monster erledigen.</Page>
+    </Text>
+</QuestDialog>

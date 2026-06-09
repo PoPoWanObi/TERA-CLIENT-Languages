@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">Готова поспорить, половина моих бойцов здесь ради пиратских сокровищ, другая - чтобы отомстить сброду из Красной плети за жестокость, с которой они обошлись с их родными.&lt;BR&gt;&lt;BR&gt;Но ведь можно объединить оба мотива, верно, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Проберись в трюм, это на западе отсюда. Награда будет королевская.&lt;BR&gt;&lt;BR&gt;Лови шанс, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Нет, наги точно отличаются от обычных пиратов! Любой пират сразу бы понял, насколько ценны все эти антикварные вещи. Но они преспокойно лежали у нагов под носом - эм, хоботом, - и никто не проявил к ним интерес.&lt;BR&gt;&lt;BR&gt;Глупость их, а денежки - наши, верно?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">Даже не надейся вынести все содержимое грота за один раз, &lt;PCNAME&gt;. Поблизости еще полно пиратов.</Page>
+    </Text>
+</QuestDialog>

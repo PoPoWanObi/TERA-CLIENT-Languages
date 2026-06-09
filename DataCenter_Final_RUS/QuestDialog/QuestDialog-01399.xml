@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Мы знали, что аргоны перебрасывают отсюда войска к Хановарским предместьям. Но мы не знали, откуда эти войска приходят сюда. Благодаря данным, что вы с Хасминой собрали, мы знаем как они сюда попадают.&lt;BR&gt;&lt;BR&gt;И мы их остановим.&lt;NEXTPAGEBUTTON&gt;"Отлично! Как?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@LinkCreature:76#1025} состряпал кое-что как раз на этот случай. Он посвятит тебя в детали.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1025">
+        <Page social="6">Возьми эти бомбы. Их выходная мощность завязана на частотные спектры золнаж-переносчиков.&lt;BR&gt;&lt;BR&gt;Проберись в Мелгатолский портал, избавься от аргонских стражей и заложи бомбы. Проще не бывает.&lt;BR&gt;&lt;BR&gt;Но будь осторожней. Пальцы сами по себе обратно не отрастают.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1005">
+        <Page social="6">О, подкрепления! Это что-то новенькое.&lt;BR&gt;&lt;BR&gt;Я пытался вывести переносчик из строя, но мое оружие даже краску на нем не поцарапало.&lt;BR&gt;&lt;BR&gt;Есть идеи? Нет?&lt;BR&gt;&lt;BR&gt;А ладно, ты главное будь тут поосторожней. Аргоны на каждом шагу</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">Без переносчика аргонам будет куда сложнее нападать на Хановарские предместья.&lt;BR&gt;&lt;BR&gt;Мы выиграли немного времени.</Page>
+    </Text>
+</QuestDialog>

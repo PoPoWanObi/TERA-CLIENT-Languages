@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0">Das Mysterium bat Euch um Eure Hilfe dabei, die Forschungspläne der Nachkommen Loks zu durchkreuzen. Ihr habt Hinweise auf eine alte Quelle gefunden und konntet Tezluar, den Anführer der Nachkommen, aufhalten, bevor sie ihr Werk verrichten konnten. Unglücklicherweise reagierten die Nachkommen darauf mit einem mächtigen Angriff auf das Sanctum Mysterium. Ihr habt Mattin beschützt, damit dieser magische Schilde einsetzen und das Sanctum retten konnte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4">Wir liegen in einem Wettstreit mit den Nachkommen Loks, um die alten Geheimnisse in den Ruinen von Cardovek zu lüften. Leider sind sie uns voraus.&lt;BR&gt;&lt;BR&gt;Die Himmelshügel waren für viele Götter sehr wichtig, und die Nachkommen könnten nach etwas Derartigem suchen. Die riesigen Gesteinsbrocken der Ebene von Omphalos sind ganz gewiss göttlichen Ursprungs.&lt;BR&gt;&lt;BR&gt;Geht zu Padraig, einem unserer Gelehrten in der Nähe der Ruinen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1044">
+        <Page social="4">Jawohl, die haben etwas vor. Was, weiß ich nicht so genau. Sie haben irgendwelche Dokumente, aber die sind alle verschlüsselt, und sie haben sie in mehrere Teile gespalten.&lt;BR&gt;&lt;BR&gt;Wenn Ihr ein ganzes Dokument zusammenbringen könnt, könnte ich vielleicht den Sinn erfassen. Am ehesten werdet Ihr eine komplette Kopie der Seiten bei den Zauberern Loks finden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1044">
+        <Page social="4">Verdammt noch mal!&lt;BR&gt;&lt;BR&gt;Das Dokument ist vollständig, aber ich kann es nicht entschlüsseln. Ich habe die {@LinkCreature:7#13#Berserker Loks} Geheimschriftstücke lesen sehen. Vielleicht haben sie einen Weg zur Entschlüsselung gefunden.&lt;BR&gt;&lt;BR&gt;Findet einen Berserker und sucht nach etwas, um den Text zu entziffern. Wir müssen herausfinden, was sie vorhaben.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="4">Habt Ihr alles?&lt;BR&gt;&lt;BR&gt;Alle Geheimschriftstücke und das Entschlüsselungsgerät? Wir können sonst nicht schlau daraus werden.&lt;BR&gt;&lt;BR&gt;Habt Ihr die Schriften entziffern können?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0">Ihr habt es verloren?&lt;BR&gt;&lt;BR&gt;Was mache ich nun? Oh! Wartet eine Minute, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0">Macht schon, ich möchte endlich die komplett entschlüsselte Schrift sehen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4">Jemand gab mir dies vor einer Weile, aber ich habe es damals nicht begriffen ...&lt;BR&gt;&lt;BR&gt;Ihr müsst {@gender:DER/DIE} glücklichste &lt;PCClass&gt; sein, {@gender:DEN/DIE} ich je getroffen habe. Ist dies das Entschlüsselungsgerät, das Ihr verloren habt? Hier! Nehmt es und gelangt an die Entschlüsselung.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4">Diese flammende Nagafährte {@LinkCreature:7#102#Tezluar}! Er steckt dahinter! Er sucht nach einem Brunnen - es scheint, als ob Akasha irgendwann einmal dahinter her war.&lt;BR&gt;&lt;BR&gt;Sie haben keine Ahnung, wo es gerade ist und mit ein wenig Hilfe von Euch, werden sie es nie herausfinden.&lt;BR&gt;&lt;BR&gt;Vernichtet Tezluar und beschert diesen närrischen Nachkommen einen echten Rückschlag.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1044">
+        <Page social="0">Die {@LinkCreature:7#13#Berserker Loks} müssen einen Weg kennen, diese Geheimschriftstücke zu lesen. Sie selbst haben ja nicht genug Grips dazu.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1044">
+        <Page social="4">Das habt Ihr sehr gut gemacht, mein Freund! Kehrt schnell zu Mattin zurück und überbringt ihm die guten Neuigkeiten!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1001">
+        <Page social="4">Die Nachkommen Loks scheinen schlechte Verlierer zu sein. Sie schließen sich für einen Angriff zusammen. Unser Schild kann sie abwehren - wenn wir ihn rechtzeitig errichten können.&lt;BR&gt;&lt;BR&gt;Haltet uns die Feinde vom Leib, bis die Verteidigung bereit ist!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="419" prevId="12" villagerId="99">
+        <Page social="4">Mut und Geschick schützten die Geheimnisse und das Wissen, das wir enthüllt haben. Dafür sind wir sehr dankbar.&lt;BR&gt;&lt;BR&gt;Die Himmelshügel haben viele Geheimnisse. Manche, für die wir noch nicht bereit sind, dass wir sie entdecken, und manche, die vielleicht nie dazu bestimmt waren, dass wir sie erfahren. Zusammen haben wir sie sicher bewahrt.&lt;BR&gt;&lt;BR&gt;Geht mit unserem Dank.</Page>
+    </Text>
+</QuestDialog>

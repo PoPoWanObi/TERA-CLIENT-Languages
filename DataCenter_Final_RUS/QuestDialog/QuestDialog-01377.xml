@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">&lt;PCNAME&gt;! Мне снова нужна твоя помощь.&lt;NEXTPAGEBUTTON&gt;"Что-то нашел?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Навашады, которые продолжают стирать наши войска в порошок, вовсе не магические и не разумные. Аргоны используют свои технологии, чтобы управлять их щупальцами.&lt;BR&gt;&lt;BR&gt;Если ты убьешь тех, кто ими управляет, боевые машины аргонов выйдут из строя. Я видел как Наути, один из зарииков, управлял навашадом.&lt;NEXTPAGEBUTTON&gt;"Я справлюсь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">У тебя получилось! Навашады остановлены! Без этих гигантских металлических рук, сеющих хаос в наших войсках, у нас появился шанс выстоять.&lt;NEXTPAGEBUTTON&gt;"Нам нужно прекратить это раз и навсегда".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Правильно. Не знаю, чем питаются навашады, но я добьюсь, чтобы поиски топлива стали главной задачей наших разведчиков.&lt;BR&gt;&lt;BR&gt;Отличная работа, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

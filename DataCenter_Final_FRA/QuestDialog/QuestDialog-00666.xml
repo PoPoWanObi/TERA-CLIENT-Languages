@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="4">L'&lt;FONT COLOR='#660000'&gt;essence de vent&lt;/FONT&gt; est connue pour ses merveilleuses vertus purificatrices. Par exemple, ici, dans cette oasis, l'eau est potable parce qu'il y a de l'&lt;FONT COLOR='#660000'&gt;essence de vent&lt;/FONT&gt; au fond du point d'eau.&lt;BR&gt;&lt;BR&gt;C'est une ressource inestimable qui permet à la vie de prospérer.&lt;BR&gt;&lt;BR&gt;Si vous en avez, je vous paierai généreusement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1008">
+        <Page social="4">Oh, vous en avez. Merci.&lt;BR&gt;&lt;BR&gt;Les gens qui dépendent de l'eau de cette oasis vous en seront certainement très reconnaissants, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" villagerId="1008">
+        <Page social="0">Si vous me rapportiez de l'essence de vent pour purifier l'eau de cette oasis, je vous en saurais gré.</Page>
+    </Text>
+</QuestDialog>

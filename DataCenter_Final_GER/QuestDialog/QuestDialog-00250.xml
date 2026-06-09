@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0">Die Gula der Hungrigen Höhlen entführen Opfer für ihre Eintopfgerichte.&lt;BR&gt;&lt;BR&gt;Eine dieser Entführten war Hennika, die Schwester von Detrian, der ein Bekannter von Euch ist. Detrian ist ihr in die Hungrigen Höhlen gefolgt.&lt;BR&gt;&lt;BR&gt;Ihr konntet Detrian nicht finden, aber Ihr nahmt einem Gula Detrians Schwert ab. Es gelang Euch, Hennika vor dem Sklavenmarkt zu retten, und sie schwor beim Schwert ihres Bruders, dass sie ihn rächen würde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="5">Also, das muss unbedingt aufhören! Die Gula sind völlig außer Kontrolle!&lt;BR&gt;&lt;BR&gt;Ich habe hier eine Liste der letzten Opfer, die sie zu ihren Kochtöpfen verschleppt haben. Geht in die Hungrigen Höhlen und rettet so viele von ihnen, wie Ihr nur könnt.&lt;BR&gt;&lt;BR&gt;Was? Ist darunter etwa ein Name, den Ihr kennt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="5">Ja, das ist Detrians Schwester Hennika. Er ist schon vorausgeeilt, um sie zu suchen, also könnt Ihr eigentlich auch ihn gleich auf die Liste setzen.&lt;BR&gt;&lt;BR&gt;Durchsucht den Vorhutposten Alpha in der Höhle der Fesseln. Wenn Ihr Euch beeilt, könnt Ihr vielleicht ein paar von ihnen davor bewahren, aufgefressen zu werden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="5">Wen haben wir den da? Moment mal ... Ihr seid nicht Detrian!&lt;BR&gt;&lt;BR&gt;Was? Detrian ist in die Höhlen gegangen? Er hat dort drin keine Chance!&lt;BR&gt;&lt;BR&gt;Nun gut, wie ich sehe, habt Ihr vor, ihm dorthin zu folgen. Dann solltet Ihr Folgendes wissen: Die Küchen befinden sich auf dieser Ebene. Dort bringen sie die Gefangenen hin, bevor sie sie ... Ihr versteht schon!&lt;BR&gt;&lt;BR&gt;Passt auf, dass Ihr nicht selbst im Topf landet, &lt;PCCLASS&gt;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1031">
+        <Page social="5">(Die Bissspuren an dieser Leiche haben Gulagröße. Sie ist schon lange Zeit tot, als wurde nicht erst vor Kurzem gefangen.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1022">
+        <Page social="5">Sie waren nicht da? Dann müssen sie auf den unteren Ebenen sein.&lt;BR&gt;&lt;BR&gt;Es ist noch immer ein Wettlauf gegen die Zeit. Meldet Euch beim Vorhutposten Beta und fragt nach Rendia. Wenn jemand etwas Neues in Erfahrung gebracht hat, dann wird sie es wissen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1014">
+        <Page social="5">Ja, Loxetrius hatte wie immer instinktiv recht. Die Entführten, darunter wahrscheinlich Detrian, werden sehr wahrscheinlich in den Gefängniszellen festgehalten. Diesen Bereich nennen die Gula die "Höhle der Tränen".&lt;BR&gt;&lt;BR&gt;Dort gibt es zwei Zellenblocks. Der erste Zellenblock ist direkt hier den Durchgang entlang.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1024">
+        <Page social="5">&lt;PCNAME&gt;... (hust) ... (keuch). Ich habe versucht ...&lt;BR&gt;&lt;BR&gt;Ich konnte Hennika sehen, aber es waren zu viele. Ich bin nicht zu ihr durchgekommen.&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:8#4011#Gulonabweichler} haben sie in den &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7004#78829,63010,-3794&amp;type=1&amp;name=Zweiter Zellenblock"&gt;zweiten Zellenblock&lt;/A&gt;&lt;/FONT&gt; gebracht. Wir müssen sie retten, &lt;PCNAME&gt; ...&lt;NEXTPAGEBUTTON&gt;"Das werden wir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich kann mich nur gerade ... nicht bewegen, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich müsste mich kurz ausruhen ...&lt;BR&gt;&lt;BR&gt;Nur für einen Moment ...&lt;BR&gt;&lt;BR&gt;(Detrian hört auf zu atmen, und Ihr fühlt keinen Puls mehr. Seine Augen jedoch bleiben offen, ganz so, als hielte er noch immer Ausschau nach seiner Schwester.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1027">
+        <Page social="5">Bin ich froh, Euch zu sehen! Ich dachte schon, ich ende im Eintopf!&lt;BR&gt;&lt;BR&gt;Seid Ihr von derselben Einheit wie dieser junge Soldat, der uns gefunden hat? Er hat sehr tapfer gekämpft ...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1028">
+        <Page social="5">Danke, dass Ihr mich gerettet habt! Wie heißt Ihr? Ich werde mein erstgeborenes Kind nach Euch nennen!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="208" prevId="8" villagerId="1029">
+        <Page social="5">Wir sind schwach und verängstigt, ansonsten geht es uns gut.&lt;BR&gt;&lt;BR&gt;Besser als dem Soldaten, der uns zu retten versuchte ...&lt;BR&gt;&lt;BR&gt;Hat er es heil wieder raus geschafft?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="208" prevId="8" villagerId="1005">
+        <Page social="5">Hennika ... Es tut mir so leid um sie.&lt;BR&gt;&lt;BR&gt;Dieser Soldat, der versucht hat, uns zu retten, war ihr Bruder.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="208" prevId="8" villagerId="1026">
+        <Page social="5">Ich hab wirklich gedacht, ich würde in einer Gulabratpfanne enden.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="208" prevId="9" villagerId="1025">
+        <Page social="5">&lt;PCNAME&gt;! Ich erinnere mich an Euch! Wo ist Detrian? Ist er ...?&lt;BR&gt;&lt;BR&gt;Sagt es nicht! Schweigt!&lt;NEXTPAGEBUTTON&gt;"Seine letzten Gedanken galten Euch ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Oh, Detrian ... Detrian ... (schluchz) ...&lt;BR&gt;&lt;BR&gt;Ich weiß, er würde wollen, dass ich tapfer bin, aber das ist nicht so einfach.&lt;BR&gt;&lt;BR&gt;Und er würde wollen, dass Ihr ihn rächt, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Das letzte Mal, als ich ihn sah, kämpfte er gegen einen dieser Primitiven Inquisitoren.&lt;NEXTPAGEBUTTON&gt;"Dann wird dieser auch mein Ziel sein!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich darf nicht mehr weinen! Ich muss den anderen Überlebenden gegenüber Stärke beweisen.&lt;BR&gt;&lt;BR&gt;Ich bringe sie alle zum Rächeraußenposten.&lt;BR&gt;&lt;BR&gt;Sucht nach dem Schwert meines Bruders. Es wird Euch zeigen, welchen Inquisitor Ihr töten müsst.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1030">
+        <Page social="5">Detrians Schwert ...&lt;BR&gt;&lt;BR&gt;Detrian, wenn Ihr mich hört: Ich schwöre auf dieses Schwert, dass ich genau wie Ihr ein Schwert Kaias werde. Ich werde in Eurem Namen Menschen retten.&lt;BR&gt;&lt;BR&gt;Das gelobe ich!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="208" villagerId="1030">
+        <Page social="0">Rächt Detrian! Tötet den Inquisitor und bringt meines Bruders Schwert zurück!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="208" prevId="15" villagerId="1001">
+        <Page social="5">Die Überlebenden sind heil hier angekommen, &lt;PCNAME&gt;. Gut gemacht!&lt;BR&gt;&lt;BR&gt;Doch die Sache mit Detrian tut mir so leid ... Er war ein guter Soldat. Vielleicht begegnen wir ihm in unseren Träumen.&lt;BR&gt;&lt;BR&gt;Das würde mich freuen und Detrians Schwester sicher ebenfalls. Sie ist so ein ernstes kleines Mädchen ...</Page>
+    </Text>
+</QuestDialog>

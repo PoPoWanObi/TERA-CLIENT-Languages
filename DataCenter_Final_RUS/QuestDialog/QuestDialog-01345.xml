@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Белоснежный лес все еще опасное для исследователя место. Я была бы очень признательна, если бы кто-то избавил его от {@LinkCreature:47#1001#Тиркаев-гризли}. Заодно убей {@LinkCreature:47#4001#Аргоновых дагонитов-крестоносцев} и {@LinkCreature:47#2001#Аргоновых капринских бесов}, раз уж ты там будешь.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:247#1002#Салейн} из Полевой базы "Безумие" отдаст тебе награду.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Спасибо.&lt;BR&gt;&lt;BR&gt;Благодаря тебе всем нам стало немного спокойнее.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">После того, как убьешь {@LinkCreature:47#1001#Тиркаев-гризли}, {@LinkCreature:47#4001#Аргоновых дагонитов-крестоносцев} и {@LinkCreature:47#2001#Аргоновых капринских бесов} в Белоснежном лесу, возвращайся сюда.</Page>
+    </Text>
+</QuestDialog>

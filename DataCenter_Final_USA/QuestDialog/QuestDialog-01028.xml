@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">An undead general named {@LinkCreature:32#19$$Chimakur} is terrorizing {@Rgn:32006$$Frigid Vigil}.&lt;BR&gt;&lt;BR&gt;They call him the high executioner, which is apt because he's killed three experienced federation soldiers already.&lt;BR&gt;&lt;BR&gt;What do you say? Are you up to the challenge? I sure hope so. It won't be long before the executioner comes for all our heads.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">I wasn't wrong about you. Here's a little something for saving our bacon.</Page>
+    </Text>
+</QuestDialog>

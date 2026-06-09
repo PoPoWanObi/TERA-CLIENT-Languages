@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">Wusstet Ihr, dass es gegen den Biss der {@LinkCreature:39#160#Schreckzahnarachnen} ein Gegengift gibt? Gerade bekam ich Befehl, Giftproben zu sammeln. Die Föderation lässt von einigen Forschern Untersuchungen anstellen.&lt;BR&gt;&lt;BR&gt;Ich möchte, dass Ihr Euch der Sache annehmt und falls Ihr gewillt seid, mir einige Reißer bringt. Darin sollte eine Menge Gift sein.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1015">
+        <Page social="4">Gut gemacht! Ich schicke sie gleich zu den Gelehrten der Föderation.&lt;BR&gt;&lt;BR&gt;Dies ist ein Sieg für uns alle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1015">
+        <Page social="0">Jedes Mal, wenn eine dieser {@LinkCreature:39#160#Schreckzahnarachnen} einen unserer Leute beißt, stirbt derjenige.&lt;BR&gt;&lt;BR&gt;Es gilt, keine Zeit zu verlieren.</Page>
+    </Text>
+</QuestDialog>

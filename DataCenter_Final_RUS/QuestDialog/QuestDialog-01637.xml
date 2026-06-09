@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="4">Префект Бараз просит помощи! Времена смутные, так что будь осторожнее. Помни, безопасность Дрэгонфолла превыше всего.&lt;BR&gt;&lt;BR&gt;Отправляйся на Даконскую заставу и помоги ему. Задай им жару!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">Мне действительно нужна помощь, но не здесь, а в Амена-Кватла.&lt;BR&gt;&lt;BR&gt;Хулил попросил меня выделить свободного человека. У меня таких нет, поэтому я отправил запрос в Дрэгонфолл.&lt;BR&gt;&lt;BR&gt;За исчезновениями стоят сикандари. Они приносят в жертву наших людей, чтобы пробудить Сикандера. Отправляйся в Лагерь "Алый молот" и помоги Хулилу!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" prevId="3" villagerId="1006">
+        <Page social="4">Тебя прислал Бараз? Отлично! Я с радостью приму любую помощь. Пришло время взяться за этих сикандари!</Page>
+    </Text>
+</QuestDialog>

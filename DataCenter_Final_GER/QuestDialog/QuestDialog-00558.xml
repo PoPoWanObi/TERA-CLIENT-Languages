@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="5">Willkommen in der Schlacht! Habt Ihr schon den alten Haudegen Cafnil kennengelernt? Und hat er schon versucht, Euch umzubringen? Bleibt bei uns, und Euch wird schon nichts geschehen.&lt;BR&gt;&lt;BR&gt;Unsere Aufgabe lautet, die Lebensmittelversorgung der Kultisten zu stören. Schaut nach Norden. Seht Ihr diese riesige Farm? Dort arbeitet ein Haufen ausgelaugter Irrer, während die ausgeruhten Irren sie antreiben.&lt;BR&gt;&lt;BR&gt;Deshalb töten wir die Ausgeruhten! Beseitigt alle {@LinkCreature:17#103#Himmelsfallaufseher} und ihre {@LinkCreature:17#102#Himmelsfallarbeiter}. Hm. Und sackt auch alle Farmwerkzeuge ein, die Ihr findet!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1022">
+        <Page social="5">Habt Ihr sie erledigt? Und wie viele? Oh, ich könnte schwören, dass sie jetzt außer sich sind vor Wut! Gut gemacht.&lt;BR&gt;&lt;BR&gt;Bleibt hier, Kindchen - wir müssen noch mehr Schaden anrichten!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1022">
+        <Page social="0">Raubt diesen Himmelsfallaufsehern die Werkzeuge. Wenn Euch irgendwelche Himmelsfallarbeiter Ärger machen, dann beseitigt die gleich mit.</Page>
+    </Text>
+</QuestDialog>

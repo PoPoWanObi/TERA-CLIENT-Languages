@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="5">Isobel hat in den Zeitlosen Wäldern um Hilfe gebeten. Sie ist nicht gerade bekannt für ihre Geduld, daher solltet Ihr Euch lieber beeilen.&lt;BR&gt;&lt;BR&gt;Ich wünsche Euch eine sichere Reise.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Das hat ja lange genug gedauert, bis sie jemanden geschickt haben! Verdammt! Dachten sie, ich bitte nur aus Spaß um Hilfe?&lt;BR&gt;&lt;BR&gt;Wir werden später über die Befehlskette reden. Jetzt möchte ich, dass Ihr zum nördlichen Weg geht und die {@LinkCreature:29#1021#Tintensäbelzähne} und die {@LinkCreature:29#1031#Tintensäbelzahnleittiere} vernichtet, die unsere Versorgungsroute blockieren.&lt;BR&gt;&lt;BR&gt;Bringt mir ihre Reißzähne, die kann ich gut gebrauchen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Tja, es ist schön, einen kompetenten Soldaten zu sehen, und besser spät als nie. Ihr seid wenigstens kein hirnloser Schaumschläger oder ein Paragrafenreiter.&lt;BR&gt;&lt;BR&gt;Trotz der Schönheit dieser Gegend gibt es hier viele Gefahren, aber meine Vorgesetzten wollen nicht auf mich hören. Ich lasse meine Truppen nicht sterben, weil wir nur "den Wald beobachten".</Page>
+    </Text>
+    <Text id="5" huntingZoneId="229" villagerId="1006">
+        <Page social="0">Hey, Ihr habt Eure Befehle. Ich möchte, dass die Versorgungsroute sofort geräumt wird, oder ich mache mir aus Euren Eingeweiden ein Strumpfband!</Page>
+    </Text>
+</QuestDialog>

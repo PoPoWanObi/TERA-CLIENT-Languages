@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="1">Wir untersuchen leichte Veränderungen in Balders Muster: Die Glyphen und Linien, die am Himmel während des Tages erscheinen. Aber wir können nichts ausrichten, solange wir die Muster nicht zur gleichen Zeit an unterschiedlichen Orten untersuchen.&lt;BR&gt;&lt;BR&gt;Ich habe Forscher sowohl im {@Rgn:30009$$Oberarchiv} als auch im {@Rgn:30008$$Unterarchiv}, aber ihre Berichte sind spät dran.&lt;BR&gt;&lt;BR&gt;Könntet Ihr dort vorbeischauen und ihnen sagen, dass der Bericht eilt? Redet zuerst mit {@LinkCreature:230#1026$$Meterok}. Er ist irgendwo im Oberachiv.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1026">
+        <Page social="1">Bericht?&lt;BR&gt;&lt;BR&gt;Ich kann keinen Bericht schicken, solange ich nichts von {@LinkCreature:230#1020$$Ronush} gehört habe. Aber seine Beobachtungen sind nicht abgeschlossen. Typisch.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1020$$Ronush} hat bereits meine Daten. Ihr könnt also zu ihm gehen und so zwei Fliegen mit einer Klappe schlagen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1020">
+        <Page social="1">Eine Spende für die Veteranenhilfe? Ich habe vorigen Monat schon gespendet ... &lt;BR&gt;&lt;BR&gt;Entschuldigung, mein Fehler. Sestena hat Euch geschickt? Natürlich hat sie das. Sie ist ganz schön ungeduldig.&lt;BR&gt;&lt;BR&gt;Wir müssen die Zeit für die Änderungen in Balders Muster genau festhalten und {@LinkCreature:230#1026$$Meterok}s Aufzeichnungen sind ziemlich unklar, was meine Arbeit verlangsamt.&lt;BR&gt;&lt;BR&gt;Ihr müsst warten, bis ich meine Beobachtungen abgeschlossen habe. Und während Ihr wartet, habt Ihr vielleicht Interesse, Euch ein wenig Gold zu verdienen?</Page>
+    </Text>
+</QuestDialog>

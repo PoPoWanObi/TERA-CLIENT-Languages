@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Crafting for the War Effort&lt;BR&gt;&lt;BR&gt;Support the federation war effort by tailoring cloth armor!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1604">
+        <Page social="0">A researcher in Scythera Fae has discovered a new strengthening solution for cloth armor. Will you travel there and bring some back for our crafters?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1011">
+        <Page social="0">Is this what Kunar wants for the crafters in Kaiator? I spent a lot of time developing it. If it helps our soldiers, he may certainly have some.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" prevId="4" villagerId="1609">
+        <Page social="0">Thank you, &lt;PCNAME&gt;. Take this design for your efforts.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">От всех этих древних пророчеств мертвых богов не будет никакого толка, если здесь продолжат бесчинствовать {@LinkCreature:30#510#Отчаянные мандрилы}.&lt;BR&gt;&lt;BR&gt;Они уже разнесли весь Верхний Архив, и мы должны положить этому конец, чтобы исследователи могли спокойно работать.&lt;BR&gt;&lt;BR&gt;Сократи их число - так, как это умеешь лишь ты, - а потом доложи декуриону {@LinkCreature:230#1001#Литерусу}, который отвечает за Нижний Архив.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">Я только начал беспокоиться об этих {@LinkCreature:30#510#Отчаянных мандрилах}, как являешься ты и решаешь эту проблему. Вот что я называю быстро.</Page>
+    </Text>
+</QuestDialog>

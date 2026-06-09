@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="4">Der {@Rgn:49005$$Casianbaum} nordöstlich von uns zieht einzigartige Argonen an. Die zu jagen, macht ordentlich Spaß und schützt außerdem den Baum.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} wird Euch einweisen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Oh, am {@Rgn:49005$$Casianbaum} tummelt sich heute allerhand Geschmeiß.&lt;BR&gt;&lt;BR&gt;Dort sind {@LinkCreature:49#20#Zariikarbeiterinnen}, {@LinkCreature:49#19#Zariikspodas} und {@LinkCreature:49#15#Yusulschlitzer}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Die sind interessant, nicht? Ganz anders als die anderen Argonen, die ich gesehen habe.</Page>
+    </Text>
+</QuestDialog>

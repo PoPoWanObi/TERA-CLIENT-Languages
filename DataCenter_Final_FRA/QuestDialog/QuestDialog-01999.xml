@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="1">On dirait que les intellectuels de l'Union des Éclairés ont toujours du noctenium à portée de main. Coupons leur approvisionnement à la source, qu'en dites-vous?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Infiltrez leur territoire et récoltez du noctenium sur les {@linkcreature:122#202#mugatos anciens} et les {@linkcreature:122#205#ghilliedhus d'oasis}.&lt;BR&gt;&lt;BR&gt;Le plus important, ce n'est pas de rapporter du noctenium, mais d'empêcher l'Union d'en avoir. Vous pouvez donc faire ce que vous voulez avec le noctenium que vous trouverez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="9001">
+        <Page social="0">Votre travail donne de la force à l'Ordre!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

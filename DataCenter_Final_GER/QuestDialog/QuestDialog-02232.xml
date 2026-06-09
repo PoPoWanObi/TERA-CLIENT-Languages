@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Unsere Späher haben von {@LinkCreature:418#2008#Vendronkondensatoren} in den Argonenkatakomben berichtet. Diese Geräte speisen die argonischen Einheiten an der Oberfläche mit Energie.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} weiß, wo die Kondensatoren zu finden sind.&lt;BR&gt;&lt;BR&gt;Eure Aufgabe ist es, sie zu zerstören.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2002">
+        <Page social="4">Die {@LinkCreature:418#2008#Vendronkondensatoren}?&lt;BR&gt;&lt;BR&gt;Die sind nördlich von hier, aber sie sind nicht nur Metallbrocken, die man mit einem Schlag zerstören kann. Die Argonen werden versuchen, sie zu beschützen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2002">
+        <Page social="4">Ha! Jetzt wo die Kondensatoren außer Gefecht gesetzt sind, werden die Argonen feststellen müssen, dass unser nächster Schritt zu unseren Gunsten ausfällt und nicht zu ihren eigenen!&lt;BR&gt;&lt;BR&gt;Lang leben die Shariar!</Page>
+    </Text>
+</QuestDialog>

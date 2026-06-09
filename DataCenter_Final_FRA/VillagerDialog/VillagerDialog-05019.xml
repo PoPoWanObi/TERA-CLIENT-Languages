@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="401" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5">Je n'aurais jamais cru qu'une chose pareille puisse se produire.&lt;BR&gt;&lt;BR&gt;Notre détermination ne doit pas vaciller!&amp;nbsp;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Il est temps de mettre un terme au complot de Samael. Il a trahi notre cause et n'a pas hésité à mettre la Fédération toute entière en danger.&lt;BR&gt;&lt;BR&gt;Vous êtes {@gender:prêt/prête}&amp;nbsp;?&lt;TEXTBUTTON&gt;"Elle ne faiblira pas!&amp;nbsp;"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Nous le vaincrons ensemble..."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="10">Général... Comment avez-vous pu...</Page>
+    </Text>
+</VillagerDialog>

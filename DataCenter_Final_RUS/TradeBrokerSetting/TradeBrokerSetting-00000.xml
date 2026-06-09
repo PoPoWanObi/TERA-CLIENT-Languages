@@ -1,0 +1,9 @@
+<TradeBrokerSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TradeBrokerSetting TradeBrokerSetting.xsd" xmlns="https://vezel.dev/novadrop/dc/TradeBrokerSetting">
+    <Deal>
+        <Suggest maxCount="20" lifeTime="180000" />
+    </Deal>
+    <SearchCondition>
+        <MaxEnchantLevel value="15" />
+        <MaxItemRank value="6" />
+    </SearchCondition>
+</TradeBrokerSetting>

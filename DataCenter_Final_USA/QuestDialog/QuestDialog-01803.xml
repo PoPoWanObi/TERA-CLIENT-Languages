@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">All right. You've got alkahest, an enchantable weapon, and some sacrifical weapons.&lt;BR&gt;&lt;BR&gt;Let's get started.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Enchanting takes good equipment and makes it better, but it only works on items with the enchantable attribute.&lt;BR&gt;&lt;BR&gt;You can enchant equipment to three tiers of power but, until you're more powerful, just focus on the first tier.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">When you enchant an item, you also must consume an item of the same type and tier. I've given you a rare tier 5 weapon and two normal and two uncommon weapons.&lt;BR&gt;&lt;BR&gt;First, open the enchant menu by pressing the "T" key. Right-click the item you want to enchant, your consumable item, and the alkahest, and then click the Enchant button.&lt;BR&gt;&lt;BR&gt;Remember, though, that the more you enchant, the harder it gets. You might fail, but keep trying.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Got it? Good.&lt;BR&gt;&lt;BR&gt;Enchanting becomes more difficult as you empower your equipment, but using better quality gear yields better results. Try enchanting your weapon again with the uncommon weapon.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1605">
+        <Page social="0">You did it! Excellent work.&lt;BR&gt;&lt;BR&gt;You don't need to go through the expense of enchanting your items to their maximum potential, but someday you'll find it useful.&lt;BR&gt;&lt;BR&gt;You're a good student, &lt;PCNAME&gt;. I hope this helped.</Page>
+    </Text>
+</QuestDialog>

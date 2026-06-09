@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt;, könnt Ihr gut springen?&lt;BR&gt;&lt;BR&gt;Und wie ist es mit fallen?&lt;BR&gt;&lt;BR&gt;Wir brauchen jemanden, der durch den eingestürzten Boden durchspringt - und sich ins Kellergeschoss fallen lässt.&lt;BR&gt;&lt;BR&gt;Dort ist Wagaar, ein Späher, von dem wir schon eine Weile nichts mehr gehört haben. Sucht nach ihm und kämpft Euch dann wieder nach hier oben durch, wenn Ihr da unten fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1024">
+        <Page social="4">Die schlechte Nachricht ist: Das ist das Loch, durch das Ihr springen werdet. Und nein, es gibt keinen anderen Weg nach unten.&lt;BR&gt;&lt;BR&gt;Die gute Nachricht ist: Wir haben gestern schon einen Meister der Teleportation hinuntergeschickt, also solltet Ihr wieder zurückkommen können.&lt;BR&gt;&lt;BR&gt;Zumindest, wenn der Meister der Teleportation den Fall überlebt hat ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1013">
+        <Page social="4">Was für eine Hetze, nicht wahr?&lt;BR&gt;&lt;BR&gt;Ich hoffe, Ihr kommt mit dem Kampf genauso gut zurecht wie mit der Schwerkraft, &lt;PCCLASS&gt;.&lt;BR&gt;&lt;BR&gt;Wir haben hier unten eine Menge Arbeit zu erledigen.</Page>
+    </Text>
+</QuestDialog>

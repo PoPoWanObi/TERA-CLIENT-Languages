@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Большая Валсекирская охота]&lt;BR&gt;&lt;BR&gt;Готовы к новым приключениям? Канстрия, где проходит Большая Валсекирская охота, ждет вас!&lt;BR&gt;&lt;BR&gt;По прибытии найдите {@LinkCreature:76#3001#Кеинбара}, который расскажет, с чего начать это захватывающее приключение.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">Для меня честь познакомиться с тобой &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;О тебе уже начали слагать легенды. Победитель Акаши! Тулсы! Келсаика! Это впечатляет.&lt;BR&gt;&lt;BR&gt;Мне никогда не доводилось сражаться с богами, но и наша добыча не из легких - аргоны. Мы помогаем военным, поднимаем боевой дух и, конечно же, зарабатываем себе славу. Мне удалось тебя заинтересовать?</Page>
+    </Text>
+</QuestDialog>

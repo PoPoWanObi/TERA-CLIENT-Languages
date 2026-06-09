@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0">Туванги невозможно раздражают! Никакой на них управы!&lt;BR&gt;&lt;BR&gt;Твоя задача - вырезать в Лощине ветров всех {@LinkCreature:5#1#Туванги-надсмотрщиков}, {@LinkCreature:5#2#Туванги-помощников} и {@LinkCreature:5#3#Туванги-рабочих}. &lt;BR&gt;&lt;BR&gt;Доложи Гаре в Болотище, что задание выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1010">
+        <Page social="5">Отлично! Мне нравится наблюдать, как растут эти цифры.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1010">
+        <Page social="0">Ты разве здесь не для того, чтобы изменить мир к лучшему, все дела? Или уже надоело?&lt;BR&gt;&lt;BR&gt;Ладно, забудь. Просто поддерживаю разговор.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="0">Um Zugang zu Balders Tempel zu erhalten, habt Ihr und {@Creature:71#1114$$Rida} einige Prüfungen von {@Creature:230#1007$$Lashinuk}, einem sehr alten Baraka, bestehen müssen. Ihr und {@Creature:71#1114$$Rida} konntet mit etwas Hilfe von {@Creature:230#1015$$Elsine} eines der Siegel von Seren am Tempel brechen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="1">Es ist Zeit, dass Ihr einen der Consos kennenlernt. Das ist der Barakaclan, der {@Rgn:30001#Balders Zuflucht} bewacht.&lt;BR&gt;&lt;BR&gt;Wir glauben, sie sind schon seit dem Verfall des Riesenreichs hier, oder sogar noch länger. Ein paar von ihnen, wie ihr Anführer Nandu, lebten hier, als Lok und Thulsa Balder töteten.&lt;BR&gt;&lt;BR&gt;Die Hilfe der Consos ist unverzichtbar. Ihr braucht außerdem ihre Erlaubnis.&lt;NEXTPAGEBUTTON&gt;"Wie bekomme ich sie?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Anscheinend haben die Götter jenen verschiedene rituelle Prüfungen auferlegt, die den Tempel betreten wollen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1007$$Lashinuk} trifft Euch am Lager des Sonnenlichts. Bei ihm legt Ihr die erste Prüfung ab.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Ihr seid &lt;PCNAME&gt;? Es mir eine Ehre, Euch kennenzulernen! Elsine gab mir Schriftrollen mit Euren Heldentaten.&lt;BR&gt;&lt;BR&gt;Wie aufregend! Meine Freunde werden mich beneiden, dass ich als Erster mit Euch reden durfte.&lt;BR&gt;&lt;BR&gt;Ich komme nicht oft raus. Ihr seid {@gender:der erste Kriegsheld, den/die erste Kriegsheldin, die} ich treffe.&lt;NEXTPAGEBUTTON&gt;"Ihr habt eine Prüfung für mich?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ah! Ja, natürlich.&lt;BR&gt;&lt;BR&gt;Ähm ... "Sucht Ihr die Sonne, müsst Ihr Eure Stärke gegen den Messingmeister beweisen."&lt;BR&gt;&lt;BR&gt;Da gibt es einen {@LinkCreature:30#2004#Messingwächter} in der Nähe. Ein tödliches Wesen, aber ich bin mir sicher, dass Ihr ihn leicht überwältigt! Bringt eins seiner Zahnräder - dann können wir uns auf die nächste Prüfung stürzen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">Hurra! Ein Ritual einzustudieren ist etwas ganz anderes, als es dann vor sich seinen Lauf nehmen zu sehen!&lt;BR&gt;&lt;BR&gt;Eines Tages zeige ich Euch das Buch, aus dem ich das Ritual erlernt habe und das der Gott Balder selbst auf die Messingseiten geschrieben hat, bevor er starb.&lt;BR&gt;&lt;BR&gt;Jetzt zu Eurer nächsten Prüfung.&lt;BR&gt;&lt;BR&gt;"Hat die Erde ihre Stärke bewiesen, können die Lüfte ihre Weisheit zeigen."&lt;NEXTPAGEBUTTON&gt;"Lüfte? Ihr meint Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ja, die Prinzessin! Das ist ihre Prüfung.&lt;BR&gt;&lt;BR&gt;Seren half Balder, sich zu verstecken und den Tempel vor jenen zu schützen, die seine Kraft missbrauchen. Seren rief Rida hierher, weil sie wusste, dass eine Elin den Tempel keiner falschen Person öffnen würde.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1081$$Rida} muss den nächsten Teil des Rätsels finden und entschlüsseln. Ihr dürft ihr helfen ... und vielleicht braucht sie auch Hilfe.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Eliminiert den {@LinkCreature:30#2004#Messingwächter} und beschafft eins seiner Zahnräder. Ich werde warten.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1081">
+        <Page social="1">Jetzt bin ich an der Reihe, stimmt's? Ich weiß, wo ich hingehen muss - ich sah diesen Ort in meinen Visionen. &lt;BR&gt;&lt;BR&gt;Ich hielt Serens Schwert und es zog mich hierher. Irgendwie bin ich auf das Schwert gestoßen ...&lt;BR&gt;&lt;BR&gt;Aber ich habe das Schwert nicht. Ich weiß nicht, was ich tun soll.&lt;NEXTPAGEBUTTON&gt;"Die Antwort muss hier liegen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Hmm. Das ist wahrscheinlich ein doppelseitiges Siegel. Ich muss an der Innenseite arbeiten und es gleichzeitig von außen öffnen. Aber wo ist das Siegel?&lt;BR&gt;&lt;BR&gt;Wartet. Etwas ist hier anders.&lt;BR&gt;&lt;BR&gt;Das spiegelnde Wasser war nicht in meiner Vision.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="1081">
+        <Page social="1">Das war's! Wir haben es geschafft ... aber ich bin erledigt.&lt;BR&gt;&lt;BR&gt;Und ich glaube nicht, dass dies das einzige Siegel war. Ich mache mich auf die Suche nach dem nächsten.&lt;BR&gt;&lt;BR&gt;Fragt Euren Bewunderer bei den Consos doch bitte, was wir noch brauchen. Geschafft ... aber ich bin erschöpft.&lt;BR&gt;&lt;BR&gt;Und ich denke, das war nicht das einzige Siegel. Ich werde das nächste finden.&lt;BR&gt;&lt;BR&gt;Fragt Eure Bewunderer von den Consos, was wir noch brauchen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1007">
+        <Page social="1">Ein weiterer Schritt im Ritual ist abgeschlossen. Von diesem Tag haben wir geträumt!&lt;BR&gt;&lt;BR&gt;Prinzessin Rida ist sehr begabt. Wegen ihrer eher geistigen als fleischlichen Natur träumen die meisten Elins nicht einmal, auch nicht die Prinzessin.&lt;BR&gt;&lt;BR&gt;Oh, ich rede mal wieder zuviel. Als Nächstes führt Ihr und Rida eine Zeremonie durch. Aber nicht hier, sondern im Archiv. &lt;NEXTPAGEBUTTON&gt;"Archiv?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Die Quellen des Wissens im Archiv enthalten besondere Tafeln mit riesigen Wissenschätzen.&lt;BR&gt;&lt;BR&gt;Die Tafel, die Ihr braucht, liegt in Stücke zerbrochen in Balders Pavillon.&lt;BR&gt;&lt;BR&gt;Findet die Teile und {@LinkCreature:230#1015$$Elsine} setzt sie für Euch zusammen. Viel Glück, {@gender:Held/Heldin} der Erde!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1015">
+        <Page social="1">Ich bin froh, dass Ihr damit beauftragt worden seid, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Kann ich die Tafelstücke sehen ... bemerkenswert! Jetzt einfach zusammenfügen ... perfekt.&lt;BR&gt;&lt;BR&gt;Jetzt lese ich die Schriftrollen zur Steuerung der Quelle der Weisheit.&lt;BR&gt;&lt;BR&gt;Wartet - hier sind sie!&lt;NEXTPAGEBUTTON&gt;"Was?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Die Schriftrollen zur Steuerung der Quelle. Ohne sie funktioniert es nicht.&lt;BR&gt;&lt;BR&gt;Nicht zu fassen! Die Tasche ist von diesen elenden Faultieren angeknabbert worden! Ich kam Euch zur Hilfe, &lt;PCNAME&gt;, aber jetzt brauche ich Eure Hilfe.&lt;BR&gt;&lt;BR&gt;Beschafft meine Steuerungsschriftrollen. Ich werde um keine {@LinkCreature:30#130#Plündererfaultiere} weinen, Ihr müsst sie fürchterlich in die Mangel nehmen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="1015">
+        <Page social="0">Zwar freue ich mich, Euch zu sehen, aber wir müssen unsere Begrüßung ein wenig verschieben. Erst müssen wir die Tafelfragmente haben, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1015">
+        <Page social="1">Ah, Ihr habt die Schriftrollen gefunden! Waren sie zerrissen oder beschädigt?&lt;BR&gt;&lt;BR&gt;Diese Tafeln sind zu dicht codiert, um sie laut vorzulesen. Aber mit ihnen kann die Quelle geöffnet werden ...&lt;BR&gt;&lt;BR&gt;Versuchen wir Folgendes: Steckt die Schriftrollen und die Tafel direkt in die Quelle, so als wären sie Schlüssel. Ich möchte diese Zeremonie sehen!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="1015">
+        <Page social="0">Zerreißt die Schriftrollen nicht. Es dauert ewig, sie zu schreiben.&lt;BR&gt;&lt;BR&gt;Macht mit den Faultieren, was Ihr wollt.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="11" villagerId="1015">
+        <Page social="1">Jetzt lest die Pergamente, die die Quelle uns herausgegeben hat.&lt;BR&gt;&lt;BR&gt;Ich hatte Recht. Ein Großteil des Inhalts ist historisch.&lt;BR&gt;&lt;BR&gt;Die Gebäude hier stammen aus dem Riesenreich. Balder schützte sie vor dem Tag des Feuers, als die Götter dieses Reich in Ruinen legten. Und es scheint, dass der Gott Lok die Konstrukte und Quellen für Balder erbaut hat.&lt;BR&gt;&lt;BR&gt;Eine Ironie, wenn man bedenkt, dass eine andere Vorrichtung Loks für den Tod von Balder verantwortlich war.&lt;NEXTPAGEBUTTON&gt;"Was ist mit der Zeremonie?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Vergebt einer Gelehrten ihre Neugier. Ich fahre fort.&lt;BR&gt;&lt;BR&gt;Balder und die Consos bauten den Tempel, Seren verschloss ihn mit ihren Siegeln ... hier. Das muss es sein. "Der Pfad der Reinigung." Wir können eine Zeremonie abhalten.&lt;BR&gt;&lt;BR&gt;Behaltet diese Tafel! Die Neugierigen brauchen sie ganz bestimmt wieder.</Page>
+    </Text>
+</QuestDialog>

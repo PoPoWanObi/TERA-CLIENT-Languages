@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Здесь твоя работа закончена, &lt;PCNAME&gt;. По этим мостикам ты переберешься в часть грота, в которой живут главари Красной плети.&lt;BR&gt;&lt;BR&gt;Нам удалось незаметно отправить туда разведчиков, благодаря поднятому тобой шуму, и они, возможно, уже видели дементалит.&lt;BR&gt;&lt;BR&gt;Поговори с Эбосиусом. Вся информация стекается к нему.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Дементалит? Большой камень? Где-то с месяц тому я видел, как несколько мелких существ тащили вниз какую-то глыбу.&lt;BR&gt;&lt;BR&gt;Она сорвалась, и кого-то придавило. Возможно, это и был твой дементалит.</Page>
+    </Text>
+</QuestDialog>

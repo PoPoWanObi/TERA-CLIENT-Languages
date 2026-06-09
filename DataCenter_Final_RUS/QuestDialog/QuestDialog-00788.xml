@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Разбей сторонников легиона Брогара и просвети их, как глупо сражаться против Федерации. Уничтожь воинов Тулсы: {@LinkCreature:27#13#Стражников}, {@LinkCreature:27#14#Колдунов}, {@LinkCreature:27#15#Последователей}, {@LinkCreature:27#4#Жутких караульных}, {@LinkCreature:27#6#Безжалостных искарагардов} и {@LinkCreature:27#7#Диких искарагардов}, после чего собери их знаки отличия.&lt;BR&gt;&lt;BR&gt;Когда выполнишь задание, доложи Вларе.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1009">
+        <Page social="5">Исход борьбы очевиден, когда на нашей стороне сражаются такие воины, как ты. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1009">
+        <Page social="0">Недостаточно знаков отличия. Возвращайся, когда задание будет выполнено.</Page>
+    </Text>
+</QuestDialog>

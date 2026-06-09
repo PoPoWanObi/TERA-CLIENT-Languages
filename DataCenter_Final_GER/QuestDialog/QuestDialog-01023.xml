@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">&lt;PCNAME&gt;, Nashwa hat mir von Euren vielen erfolgreichen Missionen berichtet.&lt;BR&gt;&lt;BR&gt;Unter den geheimen Dokumenten, die Ihr erbeuten konntet, befindet sich eine Karte, auf der das Lager von einem von Kaiduns Stabsoffizieren verzeichnet ist. {@LinkCreature:32#21#Lotisharas} Strategien haben schon vielen Föderationssoldaten das Leben gekostet.&lt;BR&gt;&lt;BR&gt;Macht Euch zu ihr auf und demonstriert ihr die Macht der Valkyon-Föderation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Hervorragend! Mit Lotisharas Tod hat die Armee des Verräters ihre rechte Hand verloren. Das Ende des Kampfes ist in Sicht.</Page>
+    </Text>
+</QuestDialog>

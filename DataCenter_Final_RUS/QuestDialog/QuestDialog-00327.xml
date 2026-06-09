@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="98" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="4">Гигантские наги расплодились в пугающем количестве. Необходимо сократить их популяцию.&lt;BR&gt;&lt;BR&gt;Приоритетная цель - {@LinkCreature:10#18#Наги-левиафаны}.&lt;BR&gt;&lt;BR&gt;Об успешном выполнении задания отчитайся перед Либин из Берегового дозора.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Эти наги - как заноза в... Не буду уточнять. Но я счастлива, что мы от них избавились.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">Выбора у нас нет: или победим нагов сейчас, или скоро придется сражаться против бога-змеи Дагона.</Page>
+    </Text>
+</QuestDialog>

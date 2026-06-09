@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion hat behauptet, die Nachkommen Loks würden mit Samael kooperieren, weil er ihnen versprochen hat, Lok wieder zum Leben zu erwecken, wenn sie ihm helfen, Göttlichkeit zu erlangen.&lt;BR&gt;&lt;BR&gt;Samael wollte mithilfe der verfluchten Lanze des alten Gottes Gidd Veliks Kräfte stehlen.&lt;BR&gt;&lt;BR&gt;Um Velik zu schützen, habt Ihr mit Elion zusammengearbeitet, damit die verfluchte Lanze nicht in Samaels Hände fällt und Ihr sie als Beweis für seinen Verrat verwenden könnt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Bin endlich im Halsabschneiderhafen angekommen (mieses Wetter) und bringe Neuigkeiten aus Velika über die Pläne von "S". Trefft mich so schnell es geht.&lt;BR&gt;&lt;BR&gt; E.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1036">
+        <Page social="4">Samael hat die Nachkommen Loks davon überzeugt, dass er Lok wieder zum Leben erwecken könne, wenn sie ihm treu ergeben zur Seite stehen.&lt;BR&gt;&lt;BR&gt;Samael muss absichtlich Truppen vom Südlichen Arun weggelenkt haben, um die Kultisten zu schützen. Ohne unsere Truppen wäre Arcadia fast überrannt worden und Poporia beinahe einem Bürgerkrieg anheimgefallen!&lt;BR&gt;&lt;BR&gt;Sie sind hinter der Lanze von Gidd her, die einen Gott niederstrecken und dessen Kräfte rauben können soll. Die Lanze befindet sich im Besitz von {@LinkCreature:12#23#Slawgesh}, einem Gula des Kazuursyndikats. Jagt sie ihm ab! Samael darf dieses Artefakt nicht in die Hände bekommen!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1035">
+        <Page social="4">Slawgesh war doch nur ein Gula. Warum sollte ein Gula Geschäftsaufzeichnungen führen?&lt;BR&gt;&lt;BR&gt;Aber es heißt ja immer, für jedes Schloss gibt es auch einen Schlüssel, nicht wahr?&lt;BR&gt;&lt;BR&gt;Vielleicht haben ja ein paar {@LinkCreature:12#7#Gulazänker} von Slawgesh die Möglichkeit, es zu entziffern. Beeilt Euch!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Wir können ein Buch ja wohl kaum einschüchtern, damit es seine Geheimnisse preisgibt. Wir müssen es entziffern, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" prevId="4" villagerId="1035">
+        <Page social="4">Der Schlüssel! Damit ist es sicher ein Kinderspiel, die Aufzeichnungen zu dechiffrieren! Und wer spielt schon nicht gerne!&lt;BR&gt;&lt;BR&gt;Hier sind die Aufzeichnungen. Macht schnell, damit wir vorankommen!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="212" prevId="6" villagerId="1035">
+        <Page social="4">Ist das unser Beweis, dass die Justikare mit dem Kazuursyndikat zusammenarbeiten? Und die Lanze von Gidd ist tatsächlich in den Händen der Gula? Hervorragend!&lt;BR&gt;&lt;BR&gt;Wo?&lt;BR&gt;&lt;BR&gt;Verdammt! Azarels Labyrinth ist mit Sicherheit der am meisten von Gula verseuchte Ort der ganzen Welt. Es erfordert einen beachtlichen Kraftakt, da reinzukommen!&lt;BR&gt;&lt;BR&gt;Informiert {@LinkCreature:62#1036#Elion} über das, was wir in Erfahrung gebracht haben. Samael schreitet entweder gerade zur Tat oder er verwischt seine Spuren. So oder so - wir müssen uns beeilen!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Ihr wisst doch, wie das mit der Substitution funktioniert, oder? Tauscht einfach die Buchstaben in den Aufzeichnungen mit den Buchstaben im Entschlüsselungsbuch aus.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1036">
+        <Page social="4">Was haben wir in Erfahrung gebracht?&lt;BR&gt;&lt;BR&gt;Erstaunlich ... Samael und Akia müssen heimlich miteinander kommuniziert haben, und Kutmaschuk bewacht wohl diese verfluchte Lanze.&lt;BR&gt;&lt;BR&gt;Begebt Euch zu Azarels Labyrinth. Wir werden uns aufteilen, für den Fall, dass ein paar der Justikare unserem Zugriff entkommen sind. Wir treffen uns im {@LinkCreature:209#1031#Lager nahe des Labyrinths}.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="209" prevId="9" villagerId="1031">
+        <Page social="4">Samaels Plan wird langsam deutlich. Mit der Lanze bewaffnet könnte er Velik töten und die Stadt der Räder ohne große Mühe einnehmen. Ehrlich gesagt, wer Velika kontrolliert, beherrscht das ganze Südliche Arun.&lt;BR&gt;&lt;BR&gt;Das dürfen wir nicht zulassen!&lt;BR&gt;&lt;BR&gt;Wir müssen den {@LinkCreature:209#1030#Zugang} zu Kutmaschuks Versteck finden.&lt;BR&gt;&lt;BR&gt;Auf geht’s!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="209" prevId="10" villagerId="1030">
+        <Page social="4">(Dieses Teleportal riecht seltsam. Vielleicht ist es Kutmaschuks Geruch - benutzt dieses Portal und betretet sein Versteck.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="209" prevId="11" villagerId="1031">
+        <Page social="4">Die Lanze von Gidd ... ihre Macht ist jetzt mein! Und ihr Narren habt mir vertraut!&lt;BR&gt;&lt;BR&gt;Ach, Unsinn! Ich wollte nur schon immer einmal dieses Masche "altes Artefakt macht einen böse" abziehen. Die Lanze ist eine Fälschung, und eine ziemlich laienhafte noch dazu. Es scheint, als ob die Gula Samael hintergehen wollten.&lt;BR&gt;&lt;BR&gt;Fälschung oder nicht, diese Lanze und die Aufzeichnungen sind die Beweise für Samaels Schuld, die wir brauchen.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="209" villagerId="1031">
+        <Page social="0">Wenn Samael und die Nachkommen Loks die Lanze von Gidd in die Finger kriegen ... Nein, das darf einfach nicht passieren!&lt;BR&gt;&lt;BR&gt;Velik ist vielleicht ihr erstes Ziel, aber sicher nicht ihr letztes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="4">Приветствую, &lt;PCNAME&gt;. Я слышала, что тебе сопутствует удача. Как видишь, у нас здесь кишмя кишат злобные терроны. Обычно они не сколько опасны, сколько назойливы. Однако в последнее время они словно взбесились и стали нападать на исследователей. Взгляни на Камарну. Терроны ранили его, и теперь вынужден оставаться в лагере.&lt;BR&gt;&lt;BR&gt;Мы не можем позволить этим тварям бесчинствовать и дальше. Убей {@LinkCreature:13#302#Терронов-заводил} в этой области и принеси лепестки с их голов в качестве доказательства.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1147">
+        <Page social="4">Пока этого хватит. Но не сомневаюсь, что они заявятся снова. Будут хихикать, прыгать, вертеться... Вот уж не думала, что в армии придется заниматься прополкой сорняков!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1147">
+        <Page social="0">Камарну забыл о долге, поглощенный мыслями о мести. Здесь это слишком частая ошибка.&lt;BR&gt;&lt;BR&gt;Однако, в отличие от Леандра, у барака объекты мести скачут прямо под носом. Прибей пару десятков, и его настроение наверняка улучшится.</Page>
+    </Text>
+</QuestDialog>

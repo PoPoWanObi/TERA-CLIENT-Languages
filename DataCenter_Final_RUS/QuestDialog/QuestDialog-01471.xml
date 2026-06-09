@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="4">Безумные ледяные великаны не позволяют нам забрать тела погибших.&lt;BR&gt;&lt;BR&gt;Мы должны выполнить свой долг перед ними - даже после их смерти.&lt;BR&gt;&lt;BR&gt;Отправляйся в Разерскую крепость и принеси останки наших солдат.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1014">
+        <Page social="4">Я очень ценю твою помощь, &lt;PCNAME&gt;. Мы все умираем в одиночестве, но это не значит, что о нас забудут. Благодаря тебе, мы сможем немного облегчить страдания семей погибших.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1014">
+        <Page social="0">Принеси сюда любые жетоны или амулеты, которые найдешь. Я отправлю их родным с письмами соболезнования.</Page>
+    </Text>
+</QuestDialog>

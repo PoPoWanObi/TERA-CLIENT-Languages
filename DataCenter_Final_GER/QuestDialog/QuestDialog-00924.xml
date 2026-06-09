@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="0">Ihr habt {@Rgn:9025001$$Balders Tempel} betreten und eine sehr überraschte Prinzessin Rida vorgefunden, die irgendwie mit Euch gekommen war. Ihr habt die Prüfungen vom {@Creature:425#8005#Wächter des Relikts} bestanden. Die Göttin Mystel erzählte Euch, dass der Welt durch Euer Bestehen der Prüfungen neue Möglichkeiten eröffnet worden waren. Danach sagte {@Creature:71#1114$$Rida}, sie habe gespürt, wie sich die Welt verändert - zum Besseren.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="1">&lt;PCNAME&gt;? Wie sind wir hierher gekommen? Ich sprach gerade mit meinen Beratern und - oh, das ist Balders Tempel, nicht wahr?&lt;BR&gt;&lt;BR&gt; Eure Sinne sind nicht so fein wie meine. Ich spüre etwas Mächtiges in seiner Mitte.&lt;BR&gt;&lt;BR&gt;Worauf warten wir? Los, gehen wir!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10008">
+        <Page social="1">Ich sagte Euch schon bei unserem letzten Treffen, dass Eure Prüfungen nie enden werden.&lt;BR&gt;&lt;BR&gt;Wie Euer Triumph am Brunnen bringt Euch Euer Preis von heute mehr Möglichkeiten für morgen ein.&lt;BR&gt;&lt;BR&gt;Zeigt {@LinkCreature:425#10005$$Rida} Euren Tempelschlüssel.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="425" prevId="3" villagerId="10005">
+        <Page social="1">Hm. Der einzige arkane Teil ist dieser Spiegel am Griff.&lt;BR&gt;&lt;BR&gt;Es sieht so aus, als würde es in den Sockel des großen Spiegels passen!&lt;BR&gt;&lt;BR&gt;Nehmt ihn, &lt;PCNAME&gt;. Ihr habt ... wirklich die Ehre verdient. Und es ist bestimmt nicht gefährlich.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="425" prevId="4" villagerId="10009">
+        <Page social="1">(Hier ist genau Platz für den kleinen Spiegel.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="425" prevId="5" villagerId="10008">
+        <Page social="1">Vor Balders Tod sah ich, wie sich die schwarzen Wolken des Schicksals zusammenzogen, um die Strahlen des Lichts zu schlucken. Ein paar helle Strahlen mochten dieses Gewirr vielleicht durchdringen, aber nur sehr wenige.&lt;BR&gt;&lt;BR&gt;Balders Strahl war leider nicht dabei.&lt;BR&gt;&lt;BR&gt;Aber was die Götter nicht vermögen, könnt Ihr Sterblichen erreichen.&lt;NEXTPAGEBUTTON&gt;"Was haben wir geöffnet?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Nicht alle Kräfte von Balder starben mit ihm. Einige versiegelte er. Eines dieser Siegel ist jetzt für Sterbliche geöffnet.&lt;BR&gt;&lt;BR&gt;Eure Freundin, die Prinzessin, kann fühlen, wie es wirkt.&lt;BR&gt;&lt;BR&gt;Vorerst lebt wohl - aber nicht auf immer!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="425" prevId="6" villagerId="10005">
+        <Page social="1">Boah. "Die Natur lächelt." So fühlt es sich an, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es ist überall! Ich fühle etwas Lebendiges in der Welt, das es vorher nicht gegeben hat.&lt;BR&gt;&lt;BR&gt;Das Mysterium wird enttäuscht sein, klar. Ich denke, sie wollten etwas, was sie wegschleppen und ausnutzen können.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1047">
+        <Page social="1">Glückwunsch! Ich fühlte eine Veränderung in der Welt, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Zweifelsohne wird jetzt unser Clan wieder ganz normal altern. Die Consos brauchen eine neue Aufgabe, vielleicht sogar einen neuen Anführer.&lt;BR&gt;&lt;BR&gt;Aber seid nicht traurig, ich bin's ja auch nicht. Vielleicht kann ich ja reisen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1053">
+        <Page social="1">Mystels Worte sind zum Verrücktwerden. Was nutzen Ihre Vorhersagungen, wenn sie nur Kauderwelsch redet? Wenn sie die Zukunft sehen kann, kann sie nicht meine aus diesem Gerede resultierende Verwirrung sehen?&lt;BR&gt;&lt;BR&gt;Deshalb betreiben wir Forschung, vermute ich. Und wir haben viel Neues zu untersuchen.&lt;BR&gt;&lt;BR&gt;Ihr übertrefft, was Elsine über Euch sagte, &lt;PCNAME&gt;. Ich wünsche Euch alles Gute.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1054">
+        <Page social="1">&lt;PCNAME&gt;! Die Legende wächst!&lt;BR&gt;&lt;BR&gt;Niemand weiß, was Ihr im Tempel freigesetzt habt, aber jeder ist gespannt drauf. Ich helfe beim Katalogisieren von Tafeln, dann sucht mehr verlorene Artefakte.&lt;BR&gt;&lt;BR&gt;Vielleicht sehen wir uns wieder.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1083">
+        <Page social="1">Die Welt ist gesünder und die Elfe ist frustriert. Meine Arbeit hier ist getan.&lt;BR&gt;&lt;BR&gt;Es ist Zeit, nach Poporia zurückzukehren. Meine Schwester und ich sollten reden.&lt;BR&gt;&lt;BR&gt;Lasst sie das Banner haben. Lasst sie die Königin sein, wenn sie will. Streit ist eine Verschwendung an Energie, die ich mir nicht leisten kann.&lt;NEXTPAGEBUTTON&gt;"Gesprochen wie eine Anführerin."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ja. Gut, ähm ... ich wollte, dass Ihr das bekommt.&lt;BR&gt;&lt;BR&gt;Tragt es das nächste Mal, wenn Euch was auffressen will.&lt;BR&gt;&lt;BR&gt;Macht keine Dummheiten, wenn ich nicht dabei bin!</Page>
+    </Text>
+</QuestDialog>

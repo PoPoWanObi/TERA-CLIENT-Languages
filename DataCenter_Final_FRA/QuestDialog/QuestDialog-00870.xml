@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1027">
+        <Page social="0">Les érudits du Mysterium travaillant au Bassin béni ont fait appel à votre aide suite à l'apparition d'inscriptions sur d'anciens cénotaphes, mentionnant vos hauts faits.&lt;BR&gt;&lt;BR&gt;En étudiant ces pierres, vous avez découvert que vous alliez devoir faire face à une épreuve sérieuse. Vous avez alors affronté les Gardiens du destin avant de vous retrouver face à face avec Mystel, la Devineresse des dieux. Cette dernière vous avertit alors de dangers à venir avant de vous remettre un grimoire ancien.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1027">
+        <Page social="5">Mmh... L'équipe du Mysterium travaillant au Bassin béni a fait nommément appel à votre aide. On dit qu'elle a fait une découverte importante vous concernant directement.&lt;BR&gt;&lt;BR&gt;Vous devriez aller parler au plus vite au magistrat Jelren, de Tralion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="69" prevId="2" villagerId="1001">
+        <Page social="5">Les chercheurs du Mysterium étaient pressés de vous rencontrer. Il est impossible d'obtenir d'eux le moindre commentaire concernant leur travail, mais ils ont insisté pour obtenir votre aide.&lt;BR&gt;&lt;BR&gt;Allez les rejoindre, ils se trouvent encore sur le terrain, au Camp du Carrefour, à l'ouest. Préparez-vous à une surprise, &lt;PCNAME&gt;. Leur demande sera certainement aussi atypique que l'insistance avec laquelle ils ont demandé votre venue.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" prevId="3" villagerId="1025">
+        <Page social="5">Merveilleux!&amp;nbsp; Depuis que nous avons lu tous vos exploits, nous avions hâte de pouvoir travailler avec vous. On peut dire qu'il ne vous aura pas fallu longtemps pour vous faire un nom. Pas étonnant que vous ayez fini par attirer l'attention des dieux!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Vous avez lu mes exploits?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Des inscriptions mentionnant votre nom et vos faits d'armes sont apparues sur les cénotaphes il y a quelques semaines de cela. Elles relatent toutes vos aventures dans la partie sud de Shara.&lt;BR&gt;&lt;BR&gt;Vous devriez parler à Ansine, au Locus des Scrutateurs. Chemin faisant, jetez un œil aux pierres. Vous verrez par vous-même!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="226" prevId="4" villagerId="1102">
+        <Page social="4">Il y a bien longtemps de cela, fatigués de la guerre, Arun et Shara quittèrent ce monde de violence.&lt;BR&gt;&lt;BR&gt;Ils mirent leurs trésors et leurs habits légendaires à l'abri, avant de sombrer dans un profond sommeil. C'est ainsi que leur rêve donna naissance au monde tel que nous le connaissons.&lt;NEXTPAGEBUTTON&gt;"Rien là-dedans ne me concerne."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">En s'endormant, Arun donna naissance aux terres de l'est, et Shara à celles de l'ouest.&lt;BR&gt;&lt;BR&gt;Leurs larmes donnèrent naissance aux océans, et leur souffle au vent. Leurs rêves devinrent réalité.&lt;BR&gt;&lt;BR&gt;(La pierre narre successivement l'Age des Dieux, la Guerre divine, et l'Age des Mortels.)&lt;NEXTPAGEBUTTON&gt;Lire directement la fin&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Et au nombre de ceux qui arrivèrent pour explorer et protéger cette terre nouvelle, l' Île de l'Aube, vint {@gender:un aventurier nommé/une aventurière nommée} &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="226" prevId="4" villagerId="1104">
+        <Page social="4">... et &lt;PCNAME&gt;, qui avait triomphé de Karascha sur l' Île de l'Aube, partit pour la cité de la déesse Velik. La ville vivait sous la menace d'un groupe de comploteurs, et les adorateurs de Lok semaient le chaos partout où ils le pouvaient sur le continent d'Arun, mais &lt;PCNAME&gt; révéla l'affaire au grand jour et les arrêta.&lt;BR&gt;&lt;BR&gt;Sans &lt;PCNAME&gt; et Elion, le royaume aurait été anéanti.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="226" prevId="4" villagerId="1105">
+        <Page social="4">... Et c'est en un lieu des plus inattendus qu'une grande révélation sera faite à &lt;PCNAME&gt;...&lt;BR&gt;&lt;BR&gt;... &lt;PCNAME&gt; devra relever un défi...&lt;BR&gt;&lt;BR&gt;... La Main de la Devineresse devra se frayer un chemin à travers les ombres de la Forêt du Bassin béni et faire rayonner la vérité.&lt;NEXTPAGEBUTTON&gt;"Incroyable..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Peut-être Ansine pourra-t-elle vous en dire plus.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="226" prevId="5" villagerId="1003">
+        <Page social="4">Fascinant, n'est-ce pas?&amp;nbsp; Nous n'avons commencé à prendre tout cela au sérieux qu'après avoir vérifié auprès de la Fédération Valkyon qu'elle comptait bien dans ses rangs un soldat de votre nom.&lt;BR&gt;&lt;BR&gt;Les exploits d'Elion sont célèbres, les vôtres un peu moins.&lt;NEXTPAGEBUTTON&gt;"Je ne suis pas là pour la gloire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Une attitude qui vous honore...&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, les instructions sont claires. Apparemment, vous êtes la "Main de la Devineresse". Vous allez devoir traverser les ombres.&lt;BR&gt;&lt;BR&gt;Quelles que soient les épreuves auxquelles vous devrez faire face, ces pierres vous guideront.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="226" prevId="8" villagerId="1107">
+        <Page social="4">La Main de la Devineresse va devoir surmonter une épreuve. Quand elle se sentira prête, elle n'aura qu'à employer cette pierre.&lt;BR&gt;&lt;BR&gt;Mais elle devra prendre garde... Nulle destinée n'est écrite à l'avance et les visions de la Devineresse ne peuvent prédire l'imprévisible.&lt;BR&gt;&lt;BR&gt;Le destin de tout un chacun procède de ses choix et de ses actions.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="402" prevId="9" villagerId="1003">
+        <Page social="4">(Les symboles présents sur la pierre restent immobiles, mais une vision se manifeste dans votre esprit.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="402" prevId="10" villagerId="1001">
+        <Page social="1">Ainsi, nous nous rencontrons enfin, &lt;PCNAME&gt;. Je suis Mystel, la devineresse des dieux. Il vous aura fallu accomplir un long périple pour arriver jusqu'ici. Je sais que la chasseresse elle-même vous a {@gender:mis/mise} à l'épreuve et il fallait que mon tour vienne.&lt;BR&gt;&lt;BR&gt;Mon devoir est de m'assurer que vous possédez la force d'âme nécessaire pour poursuivre ce voyage et affronter un mal défiant l'imagination.&lt;NEXTPAGEBUTTON&gt;"De quoi parlez-vous?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Personne ne réalise la gravité de la menace qui pèse sur notre monde. Seul un soldat doté d'un courage et d'une volonté hors normes a une chance de pouvoir se mesurer à un adversaire aussi redoutable et de triompher de lui. Cette épreuve était cruelle, mais nécessaire.&lt;BR&gt;&lt;BR&gt;Vous m'avez surprise... Une chose qui n'arrive que trop rarement.&lt;NEXTPAGEBUTTON&gt;"J'ai surmonté votre épreuve?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Elle ne fait que commencer, &lt;PCNAME&gt;. Cela dit, je dois reconnaître que votre démonstration était des plus prometteuses. Désormais, votre chemin est lié au mien. D'autres révélations vous seront faites en temps et en heure. Pour l'instant, prenez ce grimoire et plongez-vous dans ses secrets. Viendra le temps où ses enseignements joueront un rôle déterminant.&lt;BR&gt;&lt;BR&gt;Puisse la force ne jamais déserter votre cœur et votre esprit.&lt;NEXTPAGEBUTTON&gt;"J'y veillerai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nos destins sont liés, &lt;PCNAME&gt;. Un chemin s'ouvre clairement à nous, mais nul ne saurait dire où il mène.&lt;BR&gt;&lt;BR&gt;J'ai d'autres pions à placer sur l'échiquier et je me dois maintenant de prendre congé. Mais ce n'est qu'un au revoir...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="226" prevId="11" villagerId="1003">
+        <Page social="4">La Déesse du destin vous a fait passer un test et vous l'avez réussi!&amp;nbsp; C'est incroyable!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il y a peu d'appelés et ceux qui survivent à ce genre d'épreuve sont encore moins nombreux. C'est un jour à marquer d'une pierre blanche. Je dois immédiatement aller rédiger un rapport. Vous devriez rallier Tralion au plus vite et raconter ce que vous avez vécu au magistrat Jelren.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="69" prevId="12" villagerId="1001">
+        <Page social="1">Vous revoilà!&amp;nbsp; Nous étions sur des charbons ardents. Que s'est-il passé?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"J'ai surmonté une épreuve corsée..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Epoustouflant!&amp;nbsp; Vous avez rencontré Mystel?&amp;nbsp; Et vous avez survécu à son épreuve?&amp;nbsp; On peut dire que vous avez eu de la chance!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Le grimoire qu'elle vous a remis se nomme le Codex de Nelsiir. Il est censé indiquer l'emplacement d'un artefact incroyablement puissant.&lt;BR&gt;&lt;BR&gt;Je vais le faire parvenir pour étude au Mysterium d'Allemantheia. Vous le récupérerez en temps et en heure.&lt;BR&gt;&lt;BR&gt;Félicitations, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

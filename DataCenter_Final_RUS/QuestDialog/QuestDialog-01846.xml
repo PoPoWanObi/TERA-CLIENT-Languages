@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="0">Зажатый в угол Дурион сковал вас своей магией. Но ему не удалось подавить несгибаемую волю Родоса. Раненый Дурион скрылся, а вы вернулись в Верхний Дозор вместе с Верикамом. Дугал собрался отправиться на "Бесстрашном" в Велику, чтобы продолжить поиски Дуриона, а Родос поклялся, что будет преследовать Дуриона до самого края света.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="4">Мы спасем Верикама и убьем Дуриона. Я из его башки ночной горшок сделаю!&lt;BR&gt;&lt;BR&gt;Вперед, &lt;PCNAME&gt;. В бой!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" villagerId="12">
+        <Page social="0">Больше, чем я ожидал... Что делают архидеванцы?&lt;BR&gt;&lt;BR&gt;Хотя, неважно. Допросим уцелевших, когда убьем Дуриона.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="826" prevId="2" villagerId="1001">
+        <Page social="4">Дурион! Тебе конец!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="826" prevId="4" villagerId="1002">
+        <Page social="4">Своим колдовством он высосал из меня много сил, но скоро я буду в полном порядке.&lt;BR&gt;&lt;BR&gt;Спасибо вам. Нужна великая смелость, чтобы сразиться с Дурионом.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="826" prevId="5" villagerId="1004">
+        <Page social="4">Он сбежал! Невероятно! Ха!&lt;BR&gt;&lt;BR&gt;Проводи Верикама в Верхний Дозор. Так мы заручимся поддержкой барака, а она понадобится, чтобы раз и навсегда разделаться с архидеванцами.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1014">
+        <Page social="4">Твои героические деяния позволили нам разрушить планы Дуриона и спасти Верикама. Мы будем вечно благодарны тебе. Верхний Дозор плечом к плечу встанет с Валькионской Федерацией и кирийцами, чтобы дать отпор архидеванцам.&lt;BR&gt;&lt;BR&gt;Наши пути еще пересекутся... а сейчас с тобой желает поговорить Дугал.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1021">
+        <Page social="4">Отличная работа, &lt;PCNAME&gt;. Мы потеряли Золин и Пэйсена. Это большое горе. Но нам удалось спасти Верикама и остановить Дуриона, по крайней мере, на время.&lt;BR&gt;&lt;BR&gt;Я отправил сообщение в Велику и попросил прислать подкрепления. Крейсер с солдатами уже в пути.&lt;BR&gt;&lt;BR&gt;И мы вновь перед тобой в долгу...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="4108">
+        <Page social="4">Кирийцы не успокоятся, пока Дурион не заплатит за свои преступления, &lt;PCNAME&gt;. Я даю слово, что мы сразим его и победим архидеванцев.</Page>
+    </Text>
+</QuestDialog>

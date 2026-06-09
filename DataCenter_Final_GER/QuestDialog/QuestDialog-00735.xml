@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="5">Mehrere Patrouillen wurden von ungewöhnlichen brennenden Kreaturen angegriffen.&lt;BR&gt;&lt;BR&gt;Ich möchte sie studieren und auslöschen. Stellt und tötet einige Exemplare der {@LinkCreature:23#9#Schmelzreißzahnbrut} und nehmt ihre Kerne an Euch.&lt;BR&gt;&lt;BR&gt;Durch sie bekomme ich vielleicht einen Hinweis auf eine dauerhaftere Lösung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1036">
+        <Page social="5">Die sollten reichen. Ich werde sofort mit meinen Studien beginnen.&lt;BR&gt;&lt;BR&gt;Autsch - immer noch heiß ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1036">
+        <Page social="0">Wenn wir die Kerne nicht bekommen, könnten diese Kreaturen unkontrollierbar werden.&lt;BR&gt;&lt;BR&gt;Stellt Euch eine Schmelzreißzahnbrutarmee vor, die nach Pora Elinu marschiert! Geht wieder da raus und besorgt mir diese Kerne!</Page>
+    </Text>
+</QuestDialog>

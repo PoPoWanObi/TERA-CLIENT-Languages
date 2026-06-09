@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">Es ist ja gut und schön, die Rotpeitschen hier unten in der Grotte zu erledigen, aber wir müssen auch sichergehen, dass sie nicht auslaufen können.&lt;BR&gt;&lt;BR&gt;Der Großteil der Rotpeitschenflotte wird gerade repariert. Unser Timing könnte kaum besser sein.&lt;BR&gt;&lt;BR&gt;Für Reparaturen sind meist die {@LinkCreature:11#3003#Rotpeitscheningenieure} zuständig. Tötet sie und stehlt ihre Werkzeuge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Viel Glück bei der Reparatur des Rumpfs, so ganz ohne Werkzeuge und Arbeiter. Sie nennen sich Piraten aber kommen nicht aus dem Dock!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">Es geht um die {@LinkCreature:11#3003#Rotpeitscheningenieure}. Ohne sie werden die Piratenschiffe niemals das Dock verlassen können.</Page>
+    </Text>
+</QuestDialog>

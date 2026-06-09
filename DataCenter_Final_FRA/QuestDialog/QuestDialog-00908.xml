@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="5">Nous avons repéré un groupe d'humanoïdes suspects, il y a peu de temps. Nous ne saurions dire ce qu'ils sont venus faire ici, mais ils nous sont clairement hostiles.&lt;BR&gt;&lt;BR&gt;Nous devons en apprendre plus sur leurs chefs et leurs projets. Allez affronter les {@LinkCreature:29#4011#enragés de combat}, les {@LinkCreature:29#4012#prêtres guerriers}, les {@LinkCreature:29#4021#fauche-morts}, les {@LinkCreature:29#4022#mages de guerre} de Lok, et rapportez-moi tout indice permettant d'identifier ceux qui sont à leur tête.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1008">
+        <Page social="5">Cet appareil m'est étranger. Les Adorateurs de Lok ont peut-être développé ça eux-mêmes, mais ça m'étonnerait. Je devrais faire parvenir au plus vite un rapport aux justiciers et aux Avant-gardes. Peut-être ont-ils déjà croisé ce genre d'objet dans leur contrée ténébreuse.&lt;BR&gt;&lt;BR&gt;Votre travail était irréprochable, &lt;PCNAME&gt;. Félicitations.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1008">
+        <Page social="0">Nous devrions pouvoir trouver un indice relatif à leur origine ou à ceux qui les ont poussés à venir ici. Les Adorateurs de Lok se vendent souvent au plus offrant. Quelqu'un a dû les monter contre nous moyennant finances. Nous devons découvrir de qui il s'agit.</Page>
+    </Text>
+</QuestDialog>

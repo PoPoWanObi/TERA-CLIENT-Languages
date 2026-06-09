@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Noruks sind normalerweise recht zahm, werden aber bei der kleinsten magischen Unregelmäßigkeit verdammt launenhaft.&lt;BR&gt;&lt;BR&gt;Ihr müsst mehrere {@LinkCreature:13#300921#Noruks} töten und ihre Felle zu Neziir am Nördlichen Ausblick bringen.&lt;BR&gt;&lt;BR&gt;Denkt Ihr, Ihr kriegt das hin? Noruks sind ein bisschen zäher als Ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1004">
+        <Page social="4">Das habt Ihr gut gemacht, &lt;PCNAME&gt;! Vielen Dank!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1004">
+        <Page social="0">Hütet Euch vor dem Sturmangriff der Noruks. Er ist tödlich!</Page>
+    </Text>
+</QuestDialog>

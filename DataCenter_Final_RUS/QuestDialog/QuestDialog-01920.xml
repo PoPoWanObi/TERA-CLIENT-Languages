@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="4">Направляешься в лабиринт? Будь осторожнее. Некоторые из этих статуй - ловушки.&lt;BR&gt;&lt;BR&gt;Я здесь для того, чтобы отомстить за Канмура, моего... главного... командира.&lt;BR&gt;&lt;BR&gt;Я провел тут дни и ночи в поисках низкого трусливого подлеца, вырвавшего ему рога. Этого негодяя зовут Алейстер. &lt;NEXTPAGEBUTTON&gt;"Я его знаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ты... Ты же &lt;PCNAME&gt;! Да, я слышал, что тебе довелось видеть Алейстера в Кайаторе.&lt;BR&gt;&lt;BR&gt;Я не смогу уснуть, пока мы его не найдем и не убьем, а рога генерала не окажутся у того, кому они принадлежат по праву.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1015">
+        <Page social="4">Сп-пасибо.&lt;BR&gt;&lt;BR&gt;Без рогов тело амана неполноценно.&lt;BR&gt;&lt;BR&gt;Генерал наконец-то может покоиться с миром.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1015">
+        <Page social="0">Тебе удалось найти Алейстера?&lt;BR&gt;&lt;BR&gt;Если найдешь его, он - твой, но как только меня вылечат, я вернусь туда, найду этого клоуна и разрублю его надвое!</Page>
+    </Text>
+</QuestDialog>

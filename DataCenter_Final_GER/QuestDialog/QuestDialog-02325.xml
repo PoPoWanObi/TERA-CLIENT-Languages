@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Ihr habt dem Consosclan dabei geholfen, den Gartenbereich des Tempels zu säubern.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Habt Ihr mit Nahad gesprochen? Er hat um mehr Hilfe bei der Säuberung des Tempelgartens gebeten.&lt;NEXTPAGEBUTTON&gt;"Ich kann helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Oh, &lt;PCNAME&gt;. Ich bin froh, Euch zu sehen. Vielen Dank für Eure Hilfe. Ich bin etwas überfordert von dem ganzen Abfall, den Schmierereien und den Vampiren.&lt;NEXTPAGEBUTTON&gt;"Wo benötigt Ihr meine Hilfe?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Danke für Eure Dienst für den Tempel.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Danke für Eure Dienst für den Tempel.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Danke für Eure Dienst für den Tempel.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Ein Behälter für Abfall. &lt;NEXTPAGEBUTTON&gt;Schließt den Deckel.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Danke, &lt;PCNAME&gt;. Bitte nehmt dies als Zeichen meiner Dankbarkeit.</Page>
+    </Text>
+</QuestDialog>

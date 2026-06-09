@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Здесь аргоны проводили своего рода ботанические исследования. Мы не знаем, над чем они работали, но исследования были обширными.&lt;BR&gt;&lt;BR&gt;Мы также нашли несколько колбообразных контейнеров. Принеси мне то, что найдешь внутри них, но остерегайся больших аргонов.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">Эти записи подтверждают, что аргоны проводили здесь ботанические исследования.&lt;BR&gt;&lt;BR&gt;Если я смогу продублировать их методологию, то, возможно, мы поймем, что аргоны пытались сделать.&lt;BR&gt;Твоя следующая цель - Зал Колдовского сердца. Поговори с Берани.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1024">
+        <Page social="0">Аргоновые кулкари попытаются тебя остановить. Они намного смертоноснее обычных кулкари, но ты не сдавайся! Собери образцы этих растений!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1026">
+        <Page social="4">Ты здесь по просьбе {@LinkCreature:246#1024#Платанока}? Я удивлена, что у него остались свободные солдаты. Тем не менее, от твоей помощи я не откажусь.</Page>
+    </Text>
+</QuestDialog>

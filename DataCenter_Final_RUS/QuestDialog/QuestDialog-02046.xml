@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Элтиэнн} тебя искала. Почему бы тебе с ней не поговорить?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Привет! Я как раз пытаюсь тебя найти.&lt;BR&gt;&lt;BR&gt;Похоже, нашим соседям на юге не дают продохнуть штормовые ящеры, валканы и кумасы.&lt;BR&gt;&lt;BR&gt;Я бы хотела им помочь, но... валканы? Кумасы? В искусстве боя ты превосходишь любого из "Руки", а может, и всех нас, вместе взятых.&lt;BR&gt;&lt;BR&gt;Может быть, ты сможешь разобраться с угрозами в Вал-Ауреуме?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Ты возвращаешься с Аурумской дороги? Что это было, самоубийственное задание? В таком случае, оно окончилось неудачно.&lt;BR&gt;&lt;BR&gt;Скажи {@LinkCreature:63#3003#Элтиэнн}, что ей придется постараться получше, если она вознамерилась тебя прикончить.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Убей несколько {@LinkCreature:24#5#Резвых штормовых ящеров} на Аурумской дороге и принеси мне их кожу.&lt;BR&gt;&lt;BR&gt;Элтиэнн кожу не просила, но я не хочу упускать возможность получить материал для новых костюмов. Они будут просто потрясными!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Терпеть не могу Аурумскую дорогу. Серьезно, ну какой от нее толк? Ужасная жара, а кругом мертвецы и те, кто хочет превратить в мертвеца тебя. Я вообще думаю, что юг нам ни к чему.&lt;BR&gt;&lt;BR&gt;Я говорила {@LinkCreature:63#3003#Элтиэнн}, чтобы она даже не думала меня туда отправлять. Уверена, что тебе она наобещала всяких ценных наград...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Охоться на {@LinkCreature:24#9#Пустынных молниеносных кумасов} на Аурумской дороге и принеси все полезное, что от них удастся получить.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Твои деяния становятся источником вдохновения для всех нас! Я серьезно!&lt;BR&gt;&lt;BR&gt;Надеюсь, {@LinkCreature:63#3003#Элтиэнн} так же высоко ценит тебя, как я. Сходи к ней и узнай!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Убивай {@LinkCreature:24#12#Скупых валканов} на Аурумской дороге и приноси все, что мы сможем использовать... а мы можем использовать что угодно.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">О, {@LinkCreature:63#3003#Элтиэнн}! Смотри, кто возвращается!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Убивай {@LinkCreature:24#62#Целеустремленных валканов} на Аурумской дороге и собирай все ценное, что будет на их трупах.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Таратия выглядит очень довольной. Должно быть, тебе удалось найти у поверженных врагов на Аурумской дороге что-то очень ценное. Твои возможности не перестают меня удивлять.</Page>
+    </Text>
+</QuestDialog>

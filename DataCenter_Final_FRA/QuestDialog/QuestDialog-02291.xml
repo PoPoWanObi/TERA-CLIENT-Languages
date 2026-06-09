@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Soldat, mes camarades et moi avons besoin d'aide, et vous avez une tête de &lt;PCCLASS:lcase&gt; tout à fait compétent.&lt;BR&gt;&lt;BR&gt;Ce que ça vous rapporte?&amp;nbsp; Eh bien, en plus de nous permettre de faire connaissance, les Mains de Velika récompensent bien ceux qui leur rendent service.&lt;BR&gt;&lt;BR&gt;Si tout cela suscite votre intérêt, allez parler à {@LinkCreature:63#3003#Elthienne}, là-bas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Alors, vous avez parlé à Taratia?&amp;nbsp; Elle est persuasive, hein?&amp;nbsp; C'est pour ça que nous la gardons!&amp;nbsp; Je plaisante. En fait non, c'est la véritable raison.&lt;BR&gt;&lt;BR&gt;Ecoutez-moi, nous avons désespérément besoin d'un objet, mais pas une de ces babioles pour le bébé de votre sœur, vous comprenez?&amp;nbsp; Il nous faut quelqu'un d'extrêmement doué.&lt;BR&gt;&lt;BR&gt;Vous vous sentez {@gender:concerné/concernée}?&amp;nbsp; Bien. Fabriquez ce dont j'ai besoin et apportez le tout à Barian. Contre paiement bien sûr.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Magnifique!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia} pour qu'elle voie à vous payer.&lt;BR&gt;&lt;BR&gt;Vous avez remarqué?&amp;nbsp; "Voir" pour qu'elle "voie". Je suis trop drôle. Assez discuté.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Lingot de xeracier. Lingot de xeracier. Lingot de xeracier.&lt;BR&gt;&lt;BR&gt;Le terme n'est-il pas superbe?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;A peine moins que son apparence. Fabriquez m'en un, voulez-vous?&amp;nbsp;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Magnifique!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia} pour qu'elle voie à vous payer.&lt;BR&gt;&lt;BR&gt;Vous avez remarqué?&amp;nbsp; "Voir" pour qu'elle "voie" à vous payer. Euh finalement ce n'est pas drôle du tout.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du galvasilex et apportez-le-moi. Ne vous inquiétez pas, la récompense sera généreuse.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Magnifique!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia}. Nous en avons terminé.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du cuir de cere. Apportez-le-moi.&lt;BR&gt;&lt;BR&gt;Impossible d'être plus direct.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Magnifique!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} a un petit quelque chose pour vous.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">La commande de confection du jour, c'est pour du tissu de Luria. Cela vous dit, ou je m'en occupe moi-même?&amp;nbsp;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Vous êtes tout feu, tout flamme!&amp;nbsp; Et venant d'un castanic, ça veut dire beaucoup.&lt;BR&gt;&lt;BR&gt;Nous n'oublierons pas l'aide que vous avez apportée aux Mains de Velika et à notre cause. Revenez bientôt.</Page>
+    </Text>
+</QuestDialog>

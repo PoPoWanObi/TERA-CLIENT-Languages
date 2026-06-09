@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">Мне нужно немного отдохнуть. Пожалуйста, ступай к {@LinkCreature:213#1134#Эдану} и передай ему, что я в порядке.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">Какое облегчение! У нас как раз подошли к концу каменные реликвии. Как удачно, что мы получили новую партию.&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

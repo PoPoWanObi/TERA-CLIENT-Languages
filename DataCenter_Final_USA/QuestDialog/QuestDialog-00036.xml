@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0">We just need to get through to Maon's Cabin. The only thing in our way is those {@LinkCreature:2#4#slinking sabertooths}.&lt;BR&gt;&lt;BR&gt;They were afraid of humans before, but now they hunt everything on sight.&lt;BR&gt;&lt;BR&gt;Kill those beasts and bring their teeth to Reindal. He has a thing for teeth. I didn't ask what he does with them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">Excellent! Just look at them...beautiful.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Do you see those sabertooths? Those teeth are just...they're lovely.</Page>
+    </Text>
+</QuestDialog>

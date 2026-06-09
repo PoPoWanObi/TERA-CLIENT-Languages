@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="4">Линкия в своих дневниках упоминает некую королеву аргонов - Шандру Манайю. Очевидно, она - отличная цель для атаки, лучше не придумаешь.&lt;BR&gt;&lt;BR&gt;В этой связи, я отправляю тебя на помощь {@LinkCreature:250#1003}у. Если мы сможем выследить королеву, мы ее убьем. Или умрем пытаясь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1003">
+        <Page social="6">Ну, я ничего не могу обещать, но охрана тут серьезная. Есть там королева или нет, аргоны явно что-то охраняют.&lt;BR&gt;&lt;BR&gt;Если ты сможешь убить Дуликсана и его отряд Присмаров-наблюдателей, я найду вход для Медвана.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1008">
+        <Page social="6">Невероятно! Ох! У меня кровь закипает в жилах, как только подумаю о том, что мы можем уничтожить эту тварь.&lt;BR&gt;&lt;BR&gt;Я немедля доложу обо всем в Кайатор. Отличная работа, солдат.</Page>
+    </Text>
+</QuestDialog>

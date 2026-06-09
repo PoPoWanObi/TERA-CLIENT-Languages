@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="5">Наги и нежить - странный союз, не правда ли? Эту тайну я хотел бы разгадать. Не желаешь поохотиться на {@LinkCreature:42#600#Костяных наблюдателей} и попробовать найти у них какие-нибудь доказательства?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">Камень, управляющий нежитью. Где-то я уже о таком слышал...&lt;BR&gt;&lt;BR&gt;Думаю, это как-то связано с Тулсой.&lt;BR&gt;&lt;BR&gt;Отличная работа. Это важная информация.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">Довелось уже сразиться с {@LinkCreature:42#600#Костяными защитниками}? Нам нужны доказательства того, что они работают на нагов.</Page>
+    </Text>
+</QuestDialog>

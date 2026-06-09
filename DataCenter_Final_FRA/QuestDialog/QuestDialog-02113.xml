@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="471" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="471" prevId="0" villagerId="1011">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Eliminez les créatures inquisitoriales dans la Tombe des Nécromanciens.&lt;BR&gt;&lt;BR&gt;Exterminez les {@LinkCreature:471#3#inquisiteurs cœurs d'ébène}, les {@LinkCreature:471#7#chevaliers sanglants eldritchs}, les {@LinkCreature:471#900#ombres vengeresses}, les {@LinkCreature:471#1#discoupeurs acharnés} et les {@LinkCreature:471#901#faucheurs dents-de-scie}.&lt;BR&gt;&lt;BR&gt;Présentez-vous à Valona quand vous aurez fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="471" prevId="2" villagerId="1011">
+        <Page social="5">Formidable!&amp;nbsp; Je vous en prie, ne relâchez pas vos efforts avant d'avoir éradiqué le dernier de ces épouvantables monstres!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="471" villagerId="1011">
+        <Page social="0">La Tombe des Nécromanciens doit totalement passer sous notre contrôle. A vous de jouer, &lt;PCNAME&gt;!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Die Popori sehnen sich nach Nähe zu ihrer Göttin Seren, aber sie wollen einfach nicht begreifen, dass eine Pilgerreise zu {@Rgn:30014$$Serens See} ihre letzte Reise sein könnte.&lt;BR&gt;&lt;BR&gt;Wir brauchen jemanden, der dazu in der Lage ist, die Pilger sicher zum See zu eskortieren.&lt;BR&gt;&lt;BR&gt;Ist dieser Jemand &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="41">
+        <Page social="0">Die typisch herablassende Art der Hochelfen. Wir können selbst auf uns aufpassen!&lt;BR&gt;&lt;BR&gt;Sagt Zenturio Spitzohr, dass ich ein Veteran des Argonenkrieges bin und allein auf mich aufpassen kann!&lt;BR&gt;&lt;BR&gt;Nun, ich ... äh ... scheine jedoch meine Karte verlegt zu haben. Könnt Ihr mir den Weg zu {@Rgn:30014$$Serens See} weisen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Ich danke Euch, &lt;PCNAME&gt;. Es ist fast so, als hörte ich Seren selbst in mein Ohr flüstern.</Page>
+    </Text>
+</QuestDialog>

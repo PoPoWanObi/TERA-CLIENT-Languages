@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3510#Toray} an der {@Rgn:47007$$Foschungsstation Pesthauch} ersucht um Hilfe. Er hat Probleme, Forschungsproben zu beschaffen.&lt;BR&gt;&lt;BR&gt;Eure Fertigkeiten prädestinieren Euch geradezu für eine solche Aufgabe!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">In der Nähe gibt es ein Gelege von Nagaeiern. Die Sache ist die: Ich bin überzeugt, sie stammen von argonomorphen Naga. Stellt Euch doch nur mal vor, was das bedeutet!&lt;BR&gt;&lt;BR&gt;Ohne Beweis ist das leider alles nur Spekulation. Ich brauche Proben von den Eiern, aber argonomorph oder nicht, die Naga lassen das nicht zu.&lt;BR&gt;&lt;BR&gt;Denkt Ihr, Ihr könntet da helfen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Oh ja, ich sehe Unterschiede an den Bruchstücken.&lt;BR&gt;&lt;BR&gt;Merkwürdig. Wie haben die Argonen das nur geschafft?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Ich muss zunächst herausfinden, wie die Argonen eine kristalline Spezies wie die Wendigos beeinflussen können.&lt;BR&gt;&lt;BR&gt;Tötet alle verseuchten Wendigos, die Ihr finden könnt, und sammelt ihre Scherben ein. Sie sind der Schlüssel.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">Faszinierend. Ich habe mich schon gefragt, welche physikalischen Veränderungen die Argonomorphen während ihres Übergangs durchlaufen.&lt;BR&gt;&lt;BR&gt;Das hier sollte Licht in die Sache bringen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Die Veränderungen an den Naga sind tiefer gehend.&lt;BR&gt;&lt;BR&gt;Ich möchte gern einige Nagahäute untersuchen, die durch den argonomorphen Prozess beeinflusst wurden.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">Eigelb von einem verseuchten Ei? Faszinierend! Ob die Argonenmutationen sich wohl auf spätere Generationen übertragen ...?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Ich möchte die verseuchten Nagaeier untersuchen. Dies ist das erste Beispiel argonomorpher Fortpflanzung.&lt;BR&gt;&lt;BR&gt;Wir müssen alles über die Gefahr in Erfahrung bringen, die das darstellt.</Page>
+    </Text>
+</QuestDialog>

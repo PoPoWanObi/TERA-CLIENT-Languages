@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">Das Mysterium streitet jegliches Wissen über die Pfeiler ab, die in Fyrkuppe versteckt sein sollen. Vielleicht hattet Ihr ja schon mit dem Cruentalpfeiler zu tun?&lt;BR&gt;&lt;BR&gt;Wenn sich meine Leute nicht mehr an die Antwort erinnern, müssen wir sie erneut in Erfahrung bringen. Daher also die Untersuchung ...&lt;NEXTPAGEBUTTON&gt;"Ich bin {@g:kein Weiser/keine Weise}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Zu lernen ist nicht nur etwas für Weise, &lt;PCNAME&gt;. Frühere Kontakte mit dem Cruentalpfeiler zeigen, dass Magie der Shurianer involviert ist.&lt;BR&gt;&lt;BR&gt;Wenn sich ihre Magie selbst umkehrt, werden alle Steine im Verteidigungsnetzwerk nutzlos.&lt;BR&gt;&lt;BR&gt;Und was wäre ein mächtiges Symbol der Umkehr? Spiegel, ... wie jene, die {@LinkCreature:4#3041#Shurianische Geistbiegerinnen} und {@LinkCreature:4#3042#Höllionleibeigenen} bei sich tragen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Das ist es! Der erste Schritt zu ...&lt;BR&gt;&lt;BR&gt;Völliger, magischer Umkehr!&lt;BR&gt;&lt;BR&gt;Unsere Pläne nehmen Fahrt auf.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">{@LinkCreature:4#3041#Shurianische Geistbiegerinnen} haben die Spiegel, die wir zur völligen ... magischen ... Umkehr brauchen!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Dieses Mal werdet Ihr den Riesen und ihren Begleitern begegnen. Wir können ihre Einmischung nicht länger tolerieren.&lt;BR&gt;&lt;BR&gt;Tötet die {@LinkCreature:34#1000#Eisspalterriesen}, {@LinkCreature:34#1010#Eisräuberriesen}, {@LinkCreature:34#1100#Eisgängerbarsicoren} und {@LinkCreature:34#1110#Frostjägerbarsicoren}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Kahuere, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">Riesen eliminiert: erledigt! Ich werde dies in Eurer Personalakte vermerken. Gut gemacht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">Entschuldigt, aber Eure Befehle erscheinen mir eindeutig. Ihr müsst die Riesen und Barsicoren töten, um eine Belohnung zu erhalten.</Page>
+    </Text>
+</QuestDialog>

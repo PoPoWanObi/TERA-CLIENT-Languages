@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="8">Ordres de mission&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:8#4011#gulons anormaux}, les {@LinkCreature:8#4021#poporis ranimés}, les {@LinkCreature:8#4032#serviteurs osseux caïmans}, les {@LinkCreature:8#4031#caïmans squelettiques}, les {@LinkCreature:8#4041#inquisiteurs cruels}, les {@LinkCreature:8#4051#inquisiteurs vulgaires}, les {@LinkCreature:8#4052#farfadets auriques vicieux} et les {@LinkCreature:8#4061#mineurs immortels}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Rendia, dans les Profondeurs des Cavernes affamées.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="8">Bon boulot. Ce sera pour moi un plaisir de vous récompenser.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1014">
+        <Page social="0">Si vous voulez une récompense, il va falloir commencer par la mériter.</Page>
+    </Text>
+</QuestDialog>

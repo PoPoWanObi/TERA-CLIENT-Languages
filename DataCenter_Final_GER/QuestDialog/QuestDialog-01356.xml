@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ihr habt geholfen, das {@Rgn:47001$$Unterholz von Tirkai} wiederherzustellen und die Argonenforschung von Yasring und dem Mysterium in der {@Rgn:45001$$Knechtfeste} vorangetrieben. Ronalt war neugierig über die Lebensenergie, die einige Argonenstrukturen ausstrahlen, und hat versucht, argonifizierte Tiere zu reinigen, doch er versagte.&lt;BR&gt;&lt;BR&gt;Ihr habt der Transformation von kleineren Argonen in andere Formen, darunter auch leblose Bauwerke, beigewohnt. Das Mysterium hat Euch gebeten, mehr darüber herauszufinden. Ihr wolltet zu Yasring gehen, konntet sie aber nicht finden.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Es ist eine Nachricht von Yasring.)&lt;BR&gt;&lt;BR&gt;"Ich untersuche die Argonen in der {@Rgn:45001$$Knechtfeste}. Ich brauche Eure Hilfe."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1022">
+        <Page social="4">Yasring? Sie kam her, um ein paar Reagenzien zu holen und ging wieder weg, um sich ein Argonenkonstrukt genauer anzusehen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="3" villagerId="2001">
+        <Page social="4">&lt;PCNAME&gt;! Hoffentlich unterbreche ich nichts Wichtiges, aber ich brauchte dringend Eure Hilfe hierbei.&lt;NEXTPAGEBUTTON&gt;"Nein, ich bin froh, dass Ihr mir geschrieben habt."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich habe Verschiedenes über diese Argonenstrukturen herausgefunden. Dinge, die Elinu zum Aufwachen und Weinen brächten.&lt;BR&gt;&lt;BR&gt;Ich habe ein paar Notizen für Mitiel gemacht. Er hat eine Menge Forschung betrieben an dem, was die Argonen zurückgelassen haben. Würdet Ihr sie zu ihm bringen?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="4" villagerId="2002">
+        <Page social="4">Ja? Braucht Ihr irgendwas?&lt;NEXTPAGEBUTTON&gt;"Das ist von Yasring."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10">Das schau ich mir mal an. Ronalt hat nach Euch gefragt. Ihr solltet zu ihm gehen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="5" villagerId="2003">
+        <Page social="4">Wir arbeiten hier alle an verschiedenen Aspekten der Argonenhinterlassenschaften: Pflanzen, Tiere und sogar Gebäude wurden schrecklich transformiert.&lt;BR&gt;&lt;BR&gt;Kupan hier hat eine Quelle für Stücke von Argonenrüstung gefunden. Leider ist er dabei auf ein Problem gestoßen und könnte Eure Hilfe gebrauchen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="6" villagerId="2004">
+        <Page social="4">Das stimmt. Ich kann alles beschaffen, von Nüssen bis zur Suppe. Mmm ... habe ich Hunger.&lt;BR&gt;&lt;BR&gt;Ein paar Rüstungsteile waren unterwegs, aber sie sind schon ein bisschen überfällig.&lt;BR&gt;&lt;BR&gt;Hoffentlich wurden sie nicht angegriffen. Würdet Ihr am Treffpunkt nach der Lieferung Ausschau halten? Churimon begleitet sie vermutlich.&lt;BR&gt;&lt;BR&gt;Ich muss nur schnell was zu essen besorgen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="7" villagerId="2005">
+        <Page social="9">Kupan schickt Euch? Wir sind gerettet!&lt;BR&gt;&lt;BR&gt;Unser Hinterrad hat sich verklemmt, und als ich dann Monster sah, bin ich losgerannt.&lt;BR&gt;&lt;BR&gt;Könntet Ihr Euch den Karren mal ansehen?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="2012">
+        <Page social="0">(Churimon hatte Recht. Das Hinterrad hat sich verklemmt.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="2005">
+        <Page social="8">Ich habe gesehen, wie er verschwunden ist. Geht doch nichts über verzauberte Karren, stimmt's?&lt;BR&gt;&lt;BR&gt;Wenigstens haben wir Kupans Ladung nicht verloren. Sagt ihm, dass wir bald da sind.&lt;BR&gt;Wie wäre es übrigens, wenn Ihr irgendwann zu mir ins {@Rgn:45009$$Lager des Wahnsinns} kommen würdet? Dort wird die führende Argonenforschung betrieben.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="2009">
+        <Page social="4">Ich weiß Eure Hilfe mit dem Karren wirklich zu schätzen. Churimons Arbeit könnte uns allen helfen.&lt;BR&gt;&lt;BR&gt;Und wie es der Zufall so will, möchte Churimon Euch noch einmal sprechen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" prevId="11" villagerId="2011">
+        <Page social="9">&lt;PCNAME&gt;, ich möchte, dass {@Creature:245#2009$$Ronalt} sich eine neue Forschungsstätte ansieht, über die ich gestolpert bin. Ich will nicht, dass er dabei ums Leben kommt, also begleitet ihn bitte zu meiner neuen &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=Forschungsstätte"&gt;Forschungsstätte&lt;/A&gt;&lt;/font&gt;. Die Zeit drängt!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="245" prevId="12" villagerId="2009">
+        <Page social="4">Was ist denn los? Ich habe {@Creature:245#2011$$Churimon} noch nie so aufgeregt gesehen.&lt;BR&gt;&lt;BR&gt;Eine neue Forschungsstätte also? Klingt faszinierend. Geht schon vor - ich treffe Euch bei der &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=Forschungsstätte"&gt;Forschungsstätte&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="245" prevId="13" villagerId="2010">
+        <Page social="10">Das ist ja entsetzlich! Wenn meine Messungen hier stimmen, lässt sich einfach alles argonifizieren. Absolut alles!&lt;BR&gt;&lt;BR&gt;Geht zum Lager zurück, aber beschafft mir ein paar &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#813, -53203, -3631&amp;type=1&amp;name=Argonisierte Pflanzen"&gt;argonisierte Pflanzen&lt;/A&gt;&lt;/font&gt; auf dem Weg. Wir müssen dieser Sache auf den Grund gehen, sonst werden wir noch alle zu Argonen.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="245" prevId="14" villagerId="2009">
+        <Page social="10">Wir haben alles, was wir brauchen. Fangen wir an!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="245" villagerId="2009">
+        <Page social="0">Argonisierte Pflanzen! Ich brauche Proben davon!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="245" prevId="15" villagerId="2009">
+        <Page social="4">Es dreht sich alles darum, die argonomorphen Frequenzen auf sich selbst zurückzuwerfen, sodass sie sich auflösen. Soweit zumindest die Theorie.&lt;BR&gt;&lt;BR&gt;Hier hätten wir den Trank. Probieren wir ihn an ein paar armen Argonomorphkreaturen aus und sehen, was passiert.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="245" prevId="17" villagerId="2028">
+        <Page social="1">(Benutzt Ronalts Trank.)</Page>
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="18" villagerId="2009">
+        <Page social="4">Das ist nicht ganz das erwartete Ergebnis. Irgendetwas fehlt, aber was? Bringt Mitiel diese Forschungsnotizen. Vielleicht entdeckt er den Fehler.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="2002">
+        <Page social="4">Selbst wenn das Ergebnis nicht unseren Erwartungen entspricht, so war Ronalt doch auf der richtigen Spur. Ich denke, Ihr solltet Euch mit Yasring und Rancien bei den Drei Türmen beraten.&lt;BR&gt;&lt;BR&gt;Bringt Eure Fragen und Ronalts Forschungsergebnisse zu Rancien.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="2021">
+        <Page social="4">Ihr sucht nach {@creature:245#2001$$Yasring}? Sie ist schon vorausgegangen. Sie ist bei den {@Rgn:46001$$Drei Türme}n.</Page>
+    </Text>
+</QuestDialog>

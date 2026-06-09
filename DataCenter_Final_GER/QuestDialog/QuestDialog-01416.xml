@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Wir beobachten bereits, wie wieder einheimische Pflanzen und Tiere Einzug halten, die am Rand der Ausrottung standen. Eklipsendisteln haben etliche medizinische Anwendungsgebiete.&lt;NEXTPAGEBUTTON&gt;"Sie sind nützlich?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Die Disteln? Ja, wenn sie richtig zubereitet werden.&lt;BR&gt;&lt;BR&gt;Pflückt ein paar und bringt sie zu Lenorele im {@Rgn:47006$$Feldlager des Irrsinns}, falls Ihr dorthin unterwegs seid. Sie wird wissen, was mit ihnen zu tun ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">Danke. Ich werde daraus einen Trank gegen die Effekte der Argonenverseuchung herstellen, den wir dringend brauchen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1014">
+        <Page social="0">"Kann ich Euch helfen?"</Page>
+    </Text>
+</QuestDialog>

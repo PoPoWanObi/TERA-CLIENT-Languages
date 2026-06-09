@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="42">Wir haben den Naga zwar Schaden zugefügt, aber wir müssen jetzt weiter Druck auf sie ausüben.&lt;BR&gt;&lt;BR&gt;Schaltet die überlebenden Naga aus, die die dritte Ebene des Tempels bewachen.&lt;BR&gt;&lt;BR&gt;Vernichtet so viele {@LinkCreature:42#210#Dagonitkreuzritter}, {@LinkCreature:42#310#Nagatridentare}, {@LinkCreature:42#330#Nagawächter}, {@LinkCreature:42#900#Mekonarischamanen}, {@LinkCreature:42#910#Mekonarihexer} und {@LinkCreature:42#1000#Mekonarinachtwachen} wie nötig.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei {@LinkCreature:75#1016#Glaserine} in Frontera, wenn Ihr durch genug Blut gewatet seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1016">
+        <Page social="0">Die Naga sind geschwächt, dank Euch. Aber es gibt noch immer viel zu tun, ich hoffe, Ihr könnt uns hier weiter aushelfen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" villagerId="1016">
+        <Page social="0">Ich habe nie gesagt, dass es leicht sei, aber Ihr helft uns, zu überleben und das zu tun, weswegen wir hierhergekommen sind. Hört jetzt nicht auf.</Page>
+    </Text>
+</QuestDialog>

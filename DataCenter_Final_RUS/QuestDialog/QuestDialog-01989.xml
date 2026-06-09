@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Ах, ты про это? Это знак Шариара. Так люди узнают, что я вношу свой вклад в борьбу с аргонской тиранией.&lt;NEXTPAGEBUTTON&gt;"И как ее достать?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ее надо для начала заслужить в бою.&lt;BR&gt;&lt;BR&gt;Поговори с Навелдом, в Хановарской цитадели. Он расскажет, как подобные штуки добываются.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">Знак Шариара? Безусловно. Ведь от твоей руки гибли сами боги! И знак ты заслуживаешь по праву.&lt;BR&gt;&lt;BR&gt;Посмотрим, что тебе понадобится... {@LinkCreature:48#7#Сногсшибательные зариики} - у них есть кристаллы маны. {@LinkCreature:48#5#Хулрапы-мордовороты} - с их тел получишь ядра, либо {@LinkCreature:48#13#Синдренские всадники} - их циазмы подойдут.&lt;BR&gt;&lt;BR&gt;Принеси что-либо из перечисленного, и получишь знак.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">Тот, кто сумел расправиться со всеми этими аргонами, заслуживает права быть в наших рядах. И пусть никто в этом не усомнится, увидев знак в качестве доказательства!&lt;BR&gt;&lt;BR&gt;Прекрасная работа, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" villagerId="3001">
+        <Page social="0">{@LinkCreature:48#7#Сногсшибательные зариики} хорошо защищают кристаллы маны, что делает их отличной мишенью для совершенствования боевых навыков.&lt;BR&gt;&lt;BR&gt;Ты не добудешь еще кристаллов?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="7" villagerId="3001">
+        <Page social="4">Тот, кто сумел расправиться со всеми этими аргонами, заслуживает права быть в наших рядах. И пусть никто в этом не усомнится, увидев знак в качестве доказательства!&lt;BR&gt;&lt;BR&gt;Прекрасная работа, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" villagerId="3001">
+        <Page social="0">{@LinkCreature:48#5#Хулрапы-мордовороты} - у них есть ядра, которые также послужат нашей цели. Просто снеси им головы, и тащи сюда их добро.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="9" villagerId="3001">
+        <Page social="4">Тот, кто сумел расправиться со всеми этими аргонами, заслуживает права быть в наших рядах. И пусть никто в этом не усомнится, увидев знак в качестве доказательства!&lt;BR&gt;&lt;BR&gt;Прекрасная работа, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" villagerId="3001">
+        <Page social="0">{@LinkCreature:48#13#Синдренские всадники}, вернее, их циазмы, будет для нас не лишними. Вот только тебе надо знать, на что эта циазмы похожи.</Page>
+    </Text>
+</QuestDialog>

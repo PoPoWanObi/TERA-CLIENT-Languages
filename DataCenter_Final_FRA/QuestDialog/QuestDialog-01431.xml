@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1004">
+        <Page social="4">Pourquoi toutes ces monstruosités ne sont-elles pas parties avec les argons qui les ont conçues?&amp;nbsp; Y a-t-il une raison stratégique?&amp;nbsp; Il y a un wendigo quelque part dans l'{@Rgn:47012$$Émetteur du Bouclier argon} qui dirige la meute. Il s'appelle {@Creature:47#6001$$Erphisha}. Allez voir s'il porte des ordres sur lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1004">
+        <Page social="4">Alors, qu'avez-vous trouvé sur lui?&amp;nbsp; Eh, ce ne sont pas des ordres!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Non, c'est de la peau."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">De la peau!&amp;nbsp; C'est horrible!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Enfin, le plus horrible, c'est l'état dans lequel elle se trouve. Elle est très décomposée.&lt;BR&gt;&lt;BR&gt;Il était donc déjà mort quand vous l'avez tué…</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,1941 @@
+<AreaList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AreaList AreaList.xsd" xmlns="https://vezel.dev/novadrop/dc/AreaList">
+    <Continent id="13" desc="StartZone" originZoneX="43" originZoneY="58">
+        <Area name="ATW_P" superlow="ATW_P_SL">
+            <Zones>
+                <Zone x="46" y="52" />
+                <Zone x="46" y="53" />
+                <Zone x="47" y="52" />
+                <Zone x="47" y="53" />
+                <Zone x="48" y="52" />
+                <Zone x="49" y="52" />
+            </Zones>
+        </Area>
+        <IntroMovie name="Opening_Movie_P.gmp">
+            <AlwaysLoading name="ATW" />
+            <AlwaysLoading name="ATW_4652" />
+            <AlwaysLoading name="ATW_4653" />
+            <AlwaysLoading name="ATW_4752" />
+            <AlwaysLoading name="ATW_4753" />
+            <AlwaysLoading name="ATW_4852" />
+            <AlwaysLoading name="ATW_4952" />
+            <AlwaysLoading name="ATW_Collision_Map" />
+            <AlwaysLoading name="ATW_Technique1_map" />
+            <AlwaysLoading name="ATW_Technique2_map" />
+            <AlwaysLoading name="ATW_Technique3_map" />
+        </IntroMovie>
+    </Continent>
+    <Continent id="1" desc="A" originZoneX="43" originZoneY="58">
+        <Area name="VK_P" superlow="VK_P_SL">
+            <Zones>
+                <Zone x="42" y="56" />
+                <Zone x="42" y="57" />
+                <Zone x="42" y="58" />
+                <Zone x="42" y="59" />
+                <Zone x="43" y="57" />
+                <Zone x="43" y="58" />
+                <Zone x="43" y="59" />
+            </Zones>
+        </Area>
+        <Area name="VK_FA_P" superlow="VK_FA_P_SL">
+            <Zones>
+                <Zone x="42" y="55" />
+                <Zone x="43" y="54" />
+                <Zone x="43" y="55" />
+                <Zone x="43" y="56" />
+                <Zone x="44" y="55" />
+                <Zone x="44" y="56" />
+                <Zone x="44" y="57" />
+                <Zone x="44" y="58" />
+                <Zone x="44" y="59" />
+            </Zones>
+        </Area>
+        <Area name="ANC_A_P" superlow="ANC_A_P_SL">
+            <Zones>
+                <Zone x="48" y="56" />
+                <Zone x="48" y="57" />
+                <Zone x="49" y="56" />
+                <Zone x="49" y="57" />
+                <Zone x="50" y="56" />
+                <Zone x="50" y="57" />
+            </Zones>
+        </Area>
+        <Area name="ANC_B_P" superlow="ANC_B_P_SL">
+            <Zones>
+                <Zone x="46" y="57" />
+                <Zone x="46" y="58" />
+                <Zone x="46" y="59" />
+                <Zone x="46" y="60" />
+                <Zone x="47" y="57" />
+                <Zone x="47" y="58" />
+                <Zone x="47" y="59" />
+                <Zone x="47" y="60" />
+                <Zone x="48" y="58" />
+                <Zone x="48" y="59" />
+                <Zone x="48" y="60" />
+            </Zones>
+        </Area>
+        <Area name="ANC_C_P" superlow="ANC_C_P_SL">
+            <Zones>
+                <Zone x="49" y="58" />
+                <Zone x="49" y="59" />
+                <Zone x="49" y="60" />
+                <Zone x="50" y="58" />
+                <Zone x="50" y="59" />
+                <Zone x="50" y="60" />
+            </Zones>
+        </Area>
+        <Area name="ASE_A_P" superlow="ASE_A_P_SL">
+            <Zones>
+                <Zone x="41" y="60" />
+                <Zone x="41" y="61" />
+                <Zone x="41" y="62" />
+                <Zone x="42" y="60" />
+                <Zone x="42" y="61" />
+                <Zone x="42" y="62" />
+                <Zone x="42" y="63" />
+            </Zones>
+        </Area>
+        <Area name="ASE_B_P" superlow="ASE_B_P_SL">
+            <Zones>
+                <Zone x="39" y="60" />
+                <Zone x="40" y="59" />
+                <Zone x="40" y="60" />
+                <Zone x="40" y="61" />
+                <Zone x="41" y="59" />
+            </Zones>
+        </Area>
+        <Area name="ASE_ENC_P">
+            <Zones>
+                <Zone x="41" y="59" />
+            </Zones>
+        </Area>
+        <Area name="ASW_A_P" superlow="ASW_A_P_SL">
+            <Zones>
+                <Zone x="40" y="52" />
+                <Zone x="40" y="53" />
+                <Zone x="40" y="54" />
+                <Zone x="40" y="55" />
+                <Zone x="41" y="52" />
+                <Zone x="41" y="53" />
+                <Zone x="41" y="54" />
+                <Zone x="41" y="55" />
+            </Zones>
+        </Area>
+        <Area name="ASW_B_P" superlow="ASW_B_P_SL">
+            <Zones>
+                <Zone x="39" y="56" />
+                <Zone x="39" y="57" />
+                <Zone x="40" y="56" />
+                <Zone x="40" y="57" />
+                <Zone x="40" y="58" />
+                <Zone x="41" y="56" />
+                <Zone x="41" y="57" />
+                <Zone x="41" y="58" />
+            </Zones>
+        </Area>
+        <Area name="ASW_C_P" superlow="ASW_C_P_SL">
+            <Zones>
+                <Zone x="37" y="53" />
+                <Zone x="37" y="54" />
+                <Zone x="37" y="55" />
+                <Zone x="38" y="52" />
+                <Zone x="38" y="53" />
+                <Zone x="38" y="54" />
+                <Zone x="38" y="55" />
+                <Zone x="39" y="52" />
+                <Zone x="39" y="53" />
+                <Zone x="39" y="54" />
+                <Zone x="39" y="55" />
+            </Zones>
+        </Area>
+        <Area name="ASW_TOC_P">
+            <Zones>
+                <Zone x="37" y="55" />
+                <Zone x="38" y="55" />
+            </Zones>
+        </Area>
+        <Area name="ASW_MOD_P">
+            <Zones>
+                <Zone x="40" y="54" />
+                <Zone x="40" y="55" />
+                <Zone x="41" y="54" />
+                <Zone x="41" y="55" />
+            </Zones>
+        </Area>
+        <Area name="AEN_A_P" superlow="AEN_A_P_SL">
+            <Zones>
+                <Zone x="49" y="61" />
+                <Zone x="49" y="62" />
+                <Zone x="50" y="61" />
+                <Zone x="50" y="62" />
+                <Zone x="50" y="63" />
+                <Zone x="50" y="64" />
+            </Zones>
+        </Area>
+        <Area name="AEN_B_P" superlow="AEN_B_P_SL">
+            <Zones>
+                <Zone x="47" y="61" />
+                <Zone x="47" y="62" />
+                <Zone x="47" y="63" />
+                <Zone x="47" y="64" />
+                <Zone x="48" y="61" />
+                <Zone x="48" y="62" />
+                <Zone x="48" y="63" />
+                <Zone x="48" y="64" />
+                <Zone x="49" y="63" />
+                <Zone x="49" y="64" />
+            </Zones>
+        </Area>
+        <Area name="AEN_C_P" superlow="AEN_C_P_SL">
+            <Zones>
+                <Zone x="44" y="63" />
+                <Zone x="44" y="64" />
+                <Zone x="45" y="61" />
+                <Zone x="45" y="62" />
+                <Zone x="45" y="63" />
+                <Zone x="45" y="64" />
+                <Zone x="46" y="61" />
+                <Zone x="46" y="62" />
+                <Zone x="46" y="63" />
+                <Zone x="46" y="64" />
+            </Zones>
+        </Area>
+        <Area name="AEN_CIC_P">
+            <Zones>
+                <Zone x="48" y="61" />
+                <Zone x="48" y="62" />
+            </Zones>
+        </Area>
+        <Area name="AEN_GDT_P">
+            <Zones>
+                <Zone x="47" y="61" />
+                <Zone x="47" y="62" />
+            </Zones>
+        </Area>
+        <Area name="AEN_PIC_P">
+            <Zones>
+                <Zone x="45" y="61" />
+                <Zone x="45" y="62" />
+            </Zones>
+        </Area>
+        <Area name="ACN_P" superlow="ACN_P_SL">
+            <Zones>
+                <Zone x="51" y="58" />
+                <Zone x="51" y="59" />
+                <Zone x="51" y="60" />
+                <Zone x="51" y="61" />
+                <Zone x="51" y="62" />
+                <Zone x="52" y="58" />
+                <Zone x="52" y="59" />
+                <Zone x="52" y="60" />
+                <Zone x="52" y="61" />
+                <Zone x="52" y="62" />
+                <Zone x="53" y="61" />
+                <Zone x="53" y="62" />
+            </Zones>
+        </Area>
+        <Area name="AX2_P" superlow="AX2_P_SL">
+            <Zones>
+                <Zone x="45" y="57" />
+                <Zone x="45" y="58" />
+                <Zone x="45" y="59" />
+            </Zones>
+        </Area>
+        <Area name="AB1_P" superlow="AB1_P_SL">
+            <Zones>
+                <Zone x="37" y="56" />
+                <Zone x="38" y="56" />
+            </Zones>
+        </Area>
+        <Area name="ACE_P" superlow="ACE_P_SL">
+            <Zones>
+                <Zone x="43" y="60" />
+                <Zone x="43" y="61" />
+                <Zone x="43" y="62" />
+                <Zone x="44" y="60" />
+                <Zone x="44" y="61" />
+                <Zone x="44" y="62" />
+                <Zone x="45" y="60" />
+            </Zones>
+        </Area>
+        <Area name="ASC_P" superlow="ASC_P_SL">
+            <Zones>
+                <Zone x="38" y="57" />
+                <Zone x="38" y="58" />
+                <Zone x="38" y="59" />
+                <Zone x="39" y="58" />
+                <Zone x="39" y="59" />
+            </Zones>
+        </Area>
+        <Area name="ASE_P_VOID" />
+        <Area name="ASW_P_VOID" />
+        <ChannelContinent id="7001" desc="[채널]ANC">
+            <Area name="ANC_A_P" />
+            <Area name="ANC_B_P" />
+            <Area name="ANC_C_P" />
+            <Area name="AX2_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7002" desc="[채널]ASE">
+            <Area name="ASE_A_P" />
+            <Area name="ASE_B_P" />
+            <Area name="ASE_ENC_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7003" desc="[채널]ASW">
+            <Area name="ASW_A_P" />
+            <Area name="ASW_B_P" />
+            <Area name="ASW_C_P" />
+            <Area name="ASW_TOC_P" />
+            <Area name="ASW_MOD_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7004" desc="[채널]AEN">
+            <Area name="AEN_A_P" />
+            <Area name="AEN_B_P" />
+            <Area name="AEN_C_P" />
+            <Area name="AEN_CIC_P" />
+            <Area name="AEN_GDT_P" />
+            <Area name="AEN_PIC_P" />
+        </ChannelContinent>
+    </Continent>
+    <Continent id="2" desc="H" originZoneX="45" originZoneY="42">
+        <Area name="AL_P" superlow="AL_P_SL">
+            <Zones>
+                <Zone x="44" y="41" />
+                <Zone x="44" y="42" />
+                <Zone x="44" y="43" />
+                <Zone x="45" y="41" />
+                <Zone x="45" y="42" />
+                <Zone x="45" y="43" />
+            </Zones>
+        </Area>
+        <Area name="AL_CommandCenter_P">
+            <Zones>
+                <Zone x="46" y="30" />
+            </Zones>
+        </Area>
+        <Area name="AL_ConsuleRoom_P">
+            <Zones>
+                <Zone x="44" y="30" />
+            </Zones>
+        </Area>
+        <Area name="AL_FB_P" superlow="AL_FB_P_SL">
+            <Zones>
+                <Zone x="43" y="39" />
+                <Zone x="43" y="40" />
+                <Zone x="43" y="41" />
+                <Zone x="43" y="42" />
+                <Zone x="43" y="43" />
+            </Zones>
+        </Area>
+        <Area name="HSC_A_P" superlow="HSC_A_P_SL">
+            <Zones>
+                <Zone x="40" y="42" />
+                <Zone x="40" y="43" />
+                <Zone x="41" y="39" />
+                <Zone x="41" y="40" />
+                <Zone x="41" y="41" />
+                <Zone x="41" y="42" />
+                <Zone x="41" y="43" />
+                <Zone x="42" y="39" />
+                <Zone x="42" y="40" />
+                <Zone x="42" y="41" />
+                <Zone x="42" y="42" />
+                <Zone x="42" y="43" />
+            </Zones>
+        </Area>
+        <Area name="HSC_B_P" superlow="HSC_B_P_SL">
+            <Zones>
+                <Zone x="38" y="41" />
+                <Zone x="38" y="42" />
+                <Zone x="39" y="40" />
+                <Zone x="39" y="41" />
+                <Zone x="39" y="42" />
+                <Zone x="39" y="43" />
+                <Zone x="40" y="40" />
+                <Zone x="40" y="41" />
+            </Zones>
+        </Area>
+        <Area name="HSC_DOD_P">
+            <Zones>
+                <Zone x="39" y="43" />
+                <Zone x="40" y="42" />
+                <Zone x="40" y="43" />
+            </Zones>
+        </Area>
+        <Area name="HWC_A_P" superlow="HWC_A_P_SL">
+            <Zones>
+                <Zone x="45" y="34" />
+                <Zone x="45" y="35" />
+                <Zone x="45" y="36" />
+                <Zone x="45" y="37" />
+                <Zone x="45" y="38" />
+                <Zone x="46" y="34" />
+                <Zone x="46" y="35" />
+                <Zone x="46" y="36" />
+                <Zone x="46" y="37" />
+                <Zone x="46" y="38" />
+            </Zones>
+        </Area>
+        <Area name="HWC_B_P" superlow="HWC_B_P_SL">
+            <Zones>
+                <Zone x="43" y="35" />
+                <Zone x="43" y="36" />
+                <Zone x="43" y="37" />
+                <Zone x="43" y="38" />
+                <Zone x="44" y="35" />
+                <Zone x="44" y="36" />
+                <Zone x="44" y="37" />
+                <Zone x="44" y="38" />
+            </Zones>
+        </Area>
+        <Area name="HWC_C_P" superlow="HWC_C_P_SL">
+            <Zones>
+                <Zone x="40" y="35" />
+                <Zone x="40" y="36" />
+                <Zone x="40" y="37" />
+                <Zone x="40" y="38" />
+                <Zone x="41" y="35" />
+                <Zone x="41" y="36" />
+                <Zone x="41" y="37" />
+                <Zone x="41" y="38" />
+                <Zone x="42" y="35" />
+                <Zone x="42" y="36" />
+                <Zone x="42" y="37" />
+                <Zone x="42" y="38" />
+            </Zones>
+        </Area>
+        <Area name="HWC_HAC_P">
+            <Zones>
+                <Zone x="43" y="37" />
+            </Zones>
+        </Area>
+        <Area name="HNC_A_P" superlow="HNC_A_P_SL">
+            <Zones>
+                <Zone x="47" y="36" />
+                <Zone x="47" y="37" />
+                <Zone x="47" y="38" />
+                <Zone x="47" y="39" />
+                <Zone x="48" y="37" />
+                <Zone x="48" y="38" />
+                <Zone x="48" y="39" />
+            </Zones>
+        </Area>
+        <Area name="HNC_B_P" superlow="HNC_B_P_SL">
+            <Zones>
+                <Zone x="46" y="40" />
+                <Zone x="46" y="41" />
+                <Zone x="46" y="42" />
+                <Zone x="47" y="40" />
+                <Zone x="47" y="41" />
+                <Zone x="47" y="42" />
+                <Zone x="48" y="40" />
+                <Zone x="48" y="41" />
+                <Zone x="48" y="42" />
+                <Zone x="48" y="43" />
+                <Zone x="48" y="44" />
+            </Zones>
+        </Area>
+        <Area name="HNC_C_P" superlow="HNC_C_P_SL">
+            <Zones>
+                <Zone x="49" y="41" />
+                <Zone x="49" y="42" />
+                <Zone x="49" y="43" />
+                <Zone x="49" y="44" />
+            </Zones>
+        </Area>
+        <Area name="HEC_A_P" superlow="HEC_A_P_SL">
+            <Zones>
+                <Zone x="41" y="44" />
+                <Zone x="41" y="45" />
+                <Zone x="42" y="44" />
+                <Zone x="42" y="45" />
+                <Zone x="43" y="44" />
+                <Zone x="43" y="45" />
+            </Zones>
+        </Area>
+        <Area name="HEC_B_P" superlow="HEC_B_P_SL">
+            <Zones>
+                <Zone x="41" y="46" />
+                <Zone x="42" y="46" />
+                <Zone x="43" y="46" />
+            </Zones>
+        </Area>
+        <Area name="HEC_C_P" superlow="HEC_C_P_SL">
+            <Zones>
+                <Zone x="39" y="44" />
+                <Zone x="39" y="45" />
+                <Zone x="40" y="44" />
+                <Zone x="40" y="45" />
+            </Zones>
+        </Area>
+        <Area name="HEC_MIA_P">
+            <Zones>
+                <Zone x="43" y="44" />
+                <Zone x="43" y="45" />
+            </Zones>
+        </Area>
+        <Area name="HEC_TOD_P">
+            <Zones>
+                <Zone x="39" y="45" />
+                <Zone x="40" y="45" />
+            </Zones>
+        </Area>
+        <Area name="HNE_P" superlow="HNE_P_SL">
+            <Zones>
+                <Zone x="46" y="43" />
+                <Zone x="46" y="44" />
+                <Zone x="47" y="43" />
+                <Zone x="47" y="44" />
+                <Zone x="47" y="45" />
+            </Zones>
+        </Area>
+        <Area name="HX1_P" superlow="HX1_P_SL">
+            <Zones>
+                <Zone x="44" y="39" />
+                <Zone x="44" y="40" />
+                <Zone x="45" y="39" />
+                <Zone x="45" y="40" />
+                <Zone x="46" y="39" />
+            </Zones>
+        </Area>
+        <Area name="HX2_P" superlow="HX2_P_SL">
+            <Zones>
+                <Zone x="44" y="44" />
+                <Zone x="45" y="44" />
+            </Zones>
+        </Area>
+        <Area name="HB1_P" superlow="HB1_P_SL">
+            <Zones>
+                <Zone x="39" y="46" />
+                <Zone x="40" y="46" />
+            </Zones>
+        </Area>
+        <Area name="HEN_P" superlow="HEN_P_SL">
+            <Zones>
+                <Zone x="43" y="47" />
+                <Zone x="44" y="45" />
+                <Zone x="44" y="46" />
+                <Zone x="44" y="47" />
+                <Zone x="45" y="45" />
+                <Zone x="45" y="46" />
+                <Zone x="45" y="47" />
+                <Zone x="46" y="45" />
+                <Zone x="46" y="46" />
+                <Zone x="46" y="47" />
+            </Zones>
+        </Area>
+        <Area name="HES_P" superlow="HES_P_SL">
+            <Zones>
+                <Zone x="40" y="47" />
+                <Zone x="41" y="47" />
+                <Zone x="41" y="48" />
+                <Zone x="42" y="47" />
+                <Zone x="42" y="48" />
+            </Zones>
+        </Area>
+        <ChannelContinent id="7011" desc="[채널]HNC">
+            <Area name="HNC_A_P" />
+            <Area name="HNC_B_P" />
+            <Area name="HNC_C_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7012" desc="[채널]HWC">
+            <Area name="HWC_A_P" />
+            <Area name="HWC_B_P" />
+            <Area name="HWC_C_P" />
+            <Area name="HWC_HAC_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7013" desc="[채널]HEC">
+            <Area name="HEC_A_P" />
+            <Area name="HEC_B_P" />
+            <Area name="HEC_C_P" />
+            <Area name="HEC_MIA_P" />
+            <Area name="HEC_TOD_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7014" desc="[채널]HSC">
+            <Area name="HSC_A_P" />
+            <Area name="HSC_B_P" />
+            <Area name="HSC_DOD_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7015" desc="[채널]HEN">
+            <Area name="HEN_P" />
+        </ChannelContinent>
+    </Continent>
+    <Continent id="3" desc="S" originZoneX="55" originZoneY="41">
+        <Area name="KA_P" superlow="KA_P_SL">
+            <Zones>
+                <Zone x="53" y="40" />
+                <Zone x="53" y="41" />
+                <Zone x="54" y="40" />
+                <Zone x="54" y="41" />
+                <Zone x="55" y="40" />
+                <Zone x="55" y="41" />
+            </Zones>
+        </Area>
+        <Area name="KA_CommandCenter_P">
+            <Zones>
+                <Zone x="56" y="30" />
+            </Zones>
+        </Area>
+        <Area name="KA_ConsuleRoom_P">
+            <Zones>
+                <Zone x="54" y="30" />
+            </Zones>
+        </Area>
+        <Area name="KA_FA_P" superlow="KA_FA_P_SL">
+            <Zones>
+                <Zone x="53" y="42" />
+                <Zone x="54" y="42" />
+                <Zone x="55" y="42" />
+            </Zones>
+        </Area>
+        <Area name="SEC_P" superlow="SEC_P_SL">
+            <Zones>
+                <Zone x="53" y="43" />
+                <Zone x="53" y="44" />
+                <Zone x="53" y="45" />
+                <Zone x="54" y="43" />
+                <Zone x="54" y="44" />
+                <Zone x="54" y="45" />
+                <Zone x="55" y="43" />
+                <Zone x="55" y="44" />
+                <Zone x="55" y="45" />
+            </Zones>
+        </Area>
+        <Area name="SSC_A_P" superlow="SSC_A_P_SL">
+            <Zones>
+                <Zone x="49" y="39" />
+                <Zone x="49" y="40" />
+                <Zone x="50" y="39" />
+                <Zone x="50" y="40" />
+                <Zone x="50" y="41" />
+                <Zone x="51" y="39" />
+                <Zone x="51" y="40" />
+                <Zone x="51" y="41" />
+            </Zones>
+        </Area>
+        <Area name="SSC_B_P" superlow="SSC_B_P_SL">
+            <Zones>
+                <Zone x="50" y="42" />
+                <Zone x="50" y="43" />
+                <Zone x="50" y="44" />
+                <Zone x="51" y="42" />
+                <Zone x="51" y="43" />
+                <Zone x="51" y="44" />
+                <Zone x="52" y="42" />
+                <Zone x="52" y="43" />
+                <Zone x="52" y="44" />
+            </Zones>
+        </Area>
+        <Area name="SWC_P" superlow="SWC_P_SL">
+            <Zones>
+                <Zone x="53" y="37" />
+                <Zone x="53" y="38" />
+                <Zone x="53" y="39" />
+                <Zone x="54" y="37" />
+                <Zone x="54" y="38" />
+                <Zone x="54" y="39" />
+                <Zone x="55" y="37" />
+                <Zone x="55" y="38" />
+                <Zone x="55" y="39" />
+                <Zone x="56" y="37" />
+                <Zone x="56" y="38" />
+                <Zone x="56" y="39" />
+                <Zone x="57" y="37" />
+                <Zone x="57" y="38" />
+                <Zone x="57" y="39" />
+            </Zones>
+        </Area>
+        <Area name="SWC_TES_P">
+            <Zones>
+                <Zone x="56" y="39" />
+                <Zone x="57" y="38" />
+                <Zone x="57" y="39" />
+            </Zones>
+        </Area>
+        <Area name="SX3_P" superlow="SX3_P_SL">
+            <Zones>
+                <Zone x="52" y="39" />
+                <Zone x="52" y="40" />
+                <Zone x="52" y="41" />
+            </Zones>
+        </Area>
+        <Area name="SB1_P" superlow="SB1_P_SL">
+            <Zones>
+                <Zone x="50" y="38" />
+                <Zone x="51" y="38" />
+                <Zone x="52" y="38" />
+            </Zones>
+        </Area>
+        <Area name="SEN_P" superlow="SEN_P_SL">
+            <Zones>
+                <Zone x="56" y="44" />
+                <Zone x="56" y="45" />
+                <Zone x="56" y="46" />
+                <Zone x="57" y="46" />
+            </Zones>
+        </Area>
+        <Area name="SNE_P" superlow="SNE_P_SL">
+            <Zones>
+                <Zone x="58" y="46" />
+                <Zone x="58" y="47" />
+                <Zone x="59" y="46" />
+                <Zone x="59" y="47" />
+                <Zone x="60" y="46" />
+                <Zone x="60" y="47" />
+            </Zones>
+        </Area>
+        <Area name="SX4_P" superlow="SX4_P_SL">
+            <Zones>
+                <Zone x="56" y="40" />
+                <Zone x="56" y="41" />
+                <Zone x="56" y="42" />
+                <Zone x="56" y="43" />
+            </Zones>
+        </Area>
+        <Area name="SWC_P_VOID" />
+        <ChannelContinent id="7021" desc="[채널]SSC">
+            <Area name="SSC_A_P" />
+            <Area name="SSC_B_P" />
+            <Area name="SX3_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7022" desc="[채널]SEC">
+            <Area name="SEC_P" />
+            <Area name="SEN_P" />
+            <Area name="SX4_P" />
+        </ChannelContinent>
+        <ChannelContinent id="7023" desc="[채널]SWC">
+            <Area name="SWC_P" />
+            <Area name="SWC_TES_P" />
+        </ChannelContinent>
+    </Continent>
+    <Continent id="9754" desc="인던_오르카의 신전" originZoneX="1000" originZoneY="1000">
+        <Area name="Orca_Temple_P">
+            <Zones>
+                <Zone x="994" y="1009" />
+                <Zone x="994" y="1010" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9054" desc="인던_오르카의 신전" originZoneX="1000" originZoneY="1000">
+        <Area name="Orca_Temple_P">
+            <Zones>
+                <Zone x="994" y="1009" />
+                <Zone x="994" y="1010" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9055" desc="인던_하르키아의 안식처" originZoneX="1000" originZoneY="1000">
+        <Area name="AncientForest_P">
+            <Zones>
+                <Zone x="992" y="1011" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9885" desc="인던_환영의 탑" originZoneX="1000" originZoneY="1000">
+        <Area name="IllusionTower_SD_P">
+            <Zones>
+                <Zone x="1000" y="991" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9886" desc="인던_환영의 탑(16층)" originZoneX="1000" originZoneY="1000">
+        <Area name="IllusionTower_SD_P">
+            <Zones>
+                <Zone x="1000" y="991" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="2000" desc="로비_캐릭터선택" originZoneX="0" originZoneY="0">
+        <Area name="Lobby_SelectCharacter_P" />
+    </Continent>
+    <Continent id="3000" desc="로비_캐릭터생성" originZoneX="0" originZoneY="0">
+        <Area name="Lobby_RaceSelect_P" />
+    </Continent>
+    <Continent id="4000" desc="로비_캐릭터생성_낮" originZoneX="0" originZoneY="0">
+        <Area name="Lobby_SelectCharacter_Day_P" />
+    </Continent>
+    <Continent id="5000" desc="로비_캐릭터생성_밤" originZoneX="0" originZoneY="0">
+        <Area name="Lobby_SelectCharacter_Night_P" />
+    </Continent>
+    <Continent id="111" desc="전장_거점점령전_맵1" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_01_P">
+            <Zones>
+                <Zone x="1110" y="1111" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="112" desc="전장_거점점령전_맵2" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_02_P">
+            <Zones>
+                <Zone x="1110" y="1112" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="113" desc="결투장_5 : 5 맵" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_5x5_P">
+            <Zones>
+                <Zone x="1110" y="1113" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="114" desc="전장_P v E 맵1" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_03_P">
+            <Zones>
+                <Zone x="1109" y="1114" />
+                <Zone x="1109" y="1115" />
+                <Zone x="1110" y="1114" />
+                <Zone x="1110" y="1115" />
+                <Zone x="1111" y="1114" />
+                <Zone x="1111" y="1115" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="115" desc="결투장_3 : 3 맵" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_3x3_P">
+            <Zones>
+                <Zone x="1110" y="1116" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="102" desc="눈싸움전장" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_SnowBattle_P">
+            <Zones>
+                <Zone x="1110" y="1102" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="116" desc="포화의 전장" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_RainFire_P">
+            <Zones>
+                <Zone x="1110" y="1117" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="117" desc="쿠마스 월드" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_KumasWorld_P">
+            <Zones>
+                <Zone x="1110" y="1118" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="119" desc="PVE 경쟁 맵" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_PVEBattle_P">
+            <Zones>
+                <Zone x="1110" y="1119" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="110" desc="대혼전" originZoneX="1110" originZoneY="1110">
+        <Area name="BF_FreeFight_P">
+            <Zones>
+                <Zone x="1110" y="1110" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="8001" desc="S" originZoneX="55" originZoneY="41">
+        <Area name="SNC_A_P" superlow="SNC_A_P_SL">
+            <Zones>
+                <Zone x="57" y="42" />
+                <Zone x="57" y="43" />
+                <Zone x="58" y="42" />
+                <Zone x="58" y="43" />
+                <Zone x="59" y="42" />
+                <Zone x="59" y="43" />
+                <Zone x="60" y="42" />
+                <Zone x="60" y="43" />
+            </Zones>
+        </Area>
+        <Area name="SNC_B_P" superlow="SNC_B_P_SL">
+            <Zones>
+                <Zone x="57" y="44" />
+                <Zone x="57" y="45" />
+                <Zone x="58" y="44" />
+                <Zone x="58" y="45" />
+                <Zone x="59" y="44" />
+                <Zone x="59" y="45" />
+                <Zone x="60" y="44" />
+                <Zone x="60" y="45" />
+            </Zones>
+        </Area>
+        <Area name="SNC_BLC_P">
+            <Zones>
+                <Zone x="59" y="45" />
+                <Zone x="60" y="45" />
+            </Zones>
+        </Area>
+        <Area name="SWN_P" superlow="SWN_P_SL">
+            <Zones>
+                <Zone x="57" y="40" />
+                <Zone x="57" y="41" />
+                <Zone x="58" y="40" />
+                <Zone x="58" y="41" />
+                <Zone x="59" y="40" />
+                <Zone x="59" y="41" />
+                <Zone x="60" y="40" />
+                <Zone x="60" y="41" />
+            </Zones>
+        </Area>
+        <Area name="SNC_P_VOID" />
+    </Continent>
+    <Continent id="9001" desc="특수_사마엘의 관저" originZoneX="1000" originZoneY="1000">
+        <Area name="VK_SD_P">
+            <Zones>
+                <Zone x="1004" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9002" desc="특수_생명의 샘" originZoneX="45" originZoneY="42">
+        <Area name="HNC_A_P">
+            <Zones>
+                <Zone x="47" y="36" />
+                <Zone x="47" y="37" />
+                <Zone x="47" y="38" />
+                <Zone x="47" y="39" />
+                <Zone x="48" y="37" />
+                <Zone x="48" y="38" />
+                <Zone x="48" y="39" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9003" desc="특수_폭염의 산맥 심층부" originZoneX="43" originZoneY="58">
+        <Area name="AEN_A_P">
+            <Zones>
+                <Zone x="49" y="61" />
+                <Zone x="49" y="62" />
+                <Zone x="50" y="61" />
+                <Zone x="50" y="62" />
+                <Zone x="50" y="63" />
+                <Zone x="50" y="64" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9005" desc="특수_속박의 암굴[HSC_DOD_P]" originZoneX="45" originZoneY="42">
+        <Area name="HSC_DOD_P">
+            <Zones>
+                <Zone x="39" y="43" />
+                <Zone x="40" y="42" />
+                <Zone x="40" y="43" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9007" desc="특수_툴사의 군단 지휘소" originZoneX="45" originZoneY="42">
+        <Area name="HEC_MIA_P">
+            <Zones>
+                <Zone x="43" y="44" />
+                <Zone x="43" y="45" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9008" desc="특수_말라키의 실험실" originZoneX="1000" originZoneY="1000">
+        <Area name="AL_A_Quest_P">
+            <Zones>
+                <Zone x="1004" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9010" desc="특수_카이아도르 사령부" originZoneX="55" originZoneY="41">
+        <Area name="KA_CommandCenter_P">
+            <Zones>
+                <Zone x="56" y="30" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9011" desc="특수_철기장의 작업실" originZoneX="1000" originZoneY="1000">
+        <Area name="SEC_Forge_P">
+            <Zones>
+                <Zone x="1005" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9012" desc="특수_세계의 탑" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_03_P">
+            <Zones>
+                <Zone x="1003" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9013" desc="특수_아르고네아" originZoneX="1000" originZoneY="1000">
+        <Area name="SNC_SD_P">
+            <Zones>
+                <Zone x="1003" y="998" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9014" desc="특수_카노비아전선" originZoneX="1000" originZoneY="1000">
+        <Area name="SWN_SD_P">
+            <Zones>
+                <Zone x="1001" y="998" />
+                <Zone x="1001" y="999" />
+                <Zone x="1002" y="998" />
+                <Zone x="1002" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9015" desc="여명의 정원 Start_01" originZoneX="1000" originZoneY="1000">
+        <Area name="ATW_Start_01_P">
+            <Zones>
+                <Zone x="1000" y="996" />
+                <Zone x="1000" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9016" desc="여명의 정원 Start_02" originZoneX="1000" originZoneY="1000">
+        <Area name="ATW_Start_02_P">
+            <Zones>
+                <Zone x="997" y="996" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9017" desc="일퀘_태양의 정원" originZoneX="1000" originZoneY="1000">
+        <Area name="HEN_SD_P">
+            <Zones>
+                <Zone x="1002" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9018" desc="일퀘_카노비아전선 " originZoneX="1000" originZoneY="1000">
+        <Area name="SWN_SD_02_P">
+            <Zones>
+                <Zone x="1002" y="1003" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9019" desc="특수_미스테리움 연구소 앞마당" originZoneX="43" originZoneY="58">
+        <Area name="AX2_P">
+            <Zones>
+                <Zone x="45" y="57" />
+                <Zone x="45" y="58" />
+                <Zone x="45" y="59" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9020" desc="특수_비밀기지 후문" originZoneX="1000" originZoneY="1000">
+        <Area name="ANC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1000" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9021" desc="특수_숨겨진 토굴" originZoneX="1000" originZoneY="1000">
+        <Area name="ASW_A_Quest_Kubel_P">
+            <Zones>
+                <Zone x="1004" y="994" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9022" desc="특수_고통의 전당" originZoneX="1000" originZoneY="1000">
+        <Area name="ASW_A_Quest_02_P">
+            <Zones>
+                <Zone x="1004" y="995" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9023" desc="특수_쿠트마슈크의 은신처" originZoneX="1000" originZoneY="1000">
+        <Area name="ASW_A_Quest_P">
+            <Zones>
+                <Zone x="1004" y="996" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9024" desc="인던_버려진 회당" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_C_SD_P">
+            <Zones>
+                <Zone x="1000" y="1000" />
+                <Zone x="1000" y="1001" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9724" desc="인던_버려진 회당(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_C_SD_P">
+            <Zones>
+                <Zone x="1000" y="1000" />
+                <Zone x="1000" y="1001" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9825" desc="인던_발더의 신전(1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="HEN_SD_02_P">
+            <Zones>
+                <Zone x="1000" y="1003" />
+                <Zone x="1000" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9025" desc="인던_발더의 신전" originZoneX="1000" originZoneY="1000">
+        <Area name="HEN_SD_02_P">
+            <Zones>
+                <Zone x="1000" y="1003" />
+                <Zone x="1000" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9725" desc="인던_발더의 신전(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="HEN_SD_02_P">
+            <Zones>
+                <Zone x="1000" y="1003" />
+                <Zone x="1000" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9026" desc="아르곤 멜디티아(하급)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_02_P">
+            <Zones>
+                <Zone x="999" y="1005" />
+                <Zone x="999" y="1006" />
+                <Zone x="1000" y="1005" />
+                <Zone x="1000" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9726" desc="아르곤 멜디티아(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_02_P">
+            <Zones>
+                <Zone x="999" y="1005" />
+                <Zone x="999" y="1006" />
+                <Zone x="1000" y="1005" />
+                <Zone x="1000" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9027" desc="샨드라 마나이아(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_02_P">
+            <Zones>
+                <Zone x="999" y="1005" />
+                <Zone x="999" y="1006" />
+                <Zone x="1000" y="1005" />
+                <Zone x="1000" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9727" desc="샨드라 마나이아(하급)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_02_P">
+            <Zones>
+                <Zone x="999" y="1005" />
+                <Zone x="999" y="1006" />
+                <Zone x="1000" y="1005" />
+                <Zone x="1000" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9028" desc="특수_말라키의 실험실2" originZoneX="1000" originZoneY="1000">
+        <Area name="AL_A_Quest_P">
+            <Zones>
+                <Zone x="1004" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9036" desc="특수_카라스챠 소환지" originZoneX="1000" originZoneY="1000">
+        <Area name="ATW_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9037" desc="특수_검은 틈 입구" originZoneX="43" originZoneY="58">
+        <Area name="ATW_P">
+            <Zones>
+                <Zone x="46" y="52" />
+                <Zone x="46" y="53" />
+                <Zone x="47" y="52" />
+                <Zone x="47" y="53" />
+                <Zone x="48" y="52" />
+                <Zone x="49" y="52" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9038" desc="특수_안개의 섬 스토리 미션" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_C_Quest_P">
+            <Zones>
+                <Zone x="1004" y="998" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9039" desc="특수_광기의 언덕 (마차수호)" originZoneX="43" originZoneY="58">
+        <Area name="ASE_A_P">
+            <Zones>
+                <Zone x="41" y="60" />
+                <Zone x="41" y="61" />
+                <Zone x="41" y="62" />
+                <Zone x="42" y="60" />
+                <Zone x="42" y="61" />
+                <Zone x="42" y="62" />
+                <Zone x="42" y="63" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9040" desc="일퀘_벨리카01" originZoneX="1000" originZoneY="1000">
+        <Area name="VK_DQ_SD_01_P">
+            <Zones>
+                <Zone x="1002" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9041" desc="일퀘_벨리카03" originZoneX="1000" originZoneY="1000">
+        <Area name="VK_DQ_SD_03_P">
+            <Zones>
+                <Zone x="1002" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9042" desc="일퀘_벨리카02" originZoneX="1000" originZoneY="1000">
+        <Area name="VK_DQ_SD_02_P">
+            <Zones>
+                <Zone x="1002" y="1007" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9043" desc="마법사의 요새(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_VK_SD1_T42_P">
+            <Zones>
+                <Zone x="1001" y="996" />
+                <Zone x="1001" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9743" desc="마법사의 요새(하급)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_VK_SD1_T42_P">
+            <Zones>
+                <Zone x="1001" y="996" />
+                <Zone x="1001" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9047" desc="할로윈인던" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_Halloween_T42_P">
+            <Zones>
+                <Zone x="1000" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9061" desc="특수_거인의 유적지[HSC_B_Quest_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_B_Quest_P">
+            <Zones>
+                <Zone x="1004" y="991" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9062" desc="특수_광대의 별장[HSC_A_Quest_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_A_Quest_P">
+            <Zones>
+                <Zone x="1004" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9063" desc="특수_칠흑의 제단[SSC_B_Quest_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="SSC_B_Quest_P">
+            <Zones>
+                <Zone x="1004" y="989" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9064" desc="특수_용암의 홀[SEC_Quest_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="SEC_Quest_P">
+            <Zones>
+                <Zone x="1004" y="988" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9065" desc="특수_여신의 화원[SSC_A_Quest_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="SSC_A_Quest_P">
+            <Zones>
+                <Zone x="1004" y="987" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9071" desc="인던_사령술 연구소[HWC_B_SD_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HWC_B_SD_P">
+            <Zones>
+                <Zone x="1004" y="1003" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9771" desc="인던_사령술 연구소[HWC_B_SD_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HWC_B_SD_P">
+            <Zones>
+                <Zone x="1004" y="1003" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9072" desc="인던_황금의 미궁[AEN_B_SD_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_B_SD_P">
+            <Zones>
+                <Zone x="1004" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9073" desc="인던_검은 탑[HSC_A_SD_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9773" desc="인던_검은 탑[HSC_A_SD_P]" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9074" desc="특수_부활의 성소(SWC_Quest_P)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_Quest_P">
+            <Zones>
+                <Zone x="1004" y="993" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9075" desc="인던_켈사이크의 둥지(SWC_SD_P)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_P">
+            <Zones>
+                <Zone x="1004" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9775" desc="인던_켈사이크의 둥지(SWC_SD_P)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_P">
+            <Zones>
+                <Zone x="1004" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9804" desc="인던_켈사이크의 둥지(SWC_SD_P)_일본 오프라인 대회용" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_P">
+            <Zones>
+                <Zone x="1004" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9975" desc="인던_켈사이크의 둥지_20인레이드_상급(SWC_SD_Raid20_High_P)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_Raid20_High_P">
+            <Zones>
+                <Zone x="1003" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9911" desc="인던_켈사이크의 둥지_20인레이드_하급(SWC_SD_Raid20_Low_P)" originZoneX="1000" originZoneY="1000">
+        <Area name="SWC_SD_Raid20_Low_P">
+            <Zones>
+                <Zone x="1003" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9076" desc="인던_공포의 미궁" originZoneX="1000" originZoneY="1000">
+        <Area name="SEC_JOK_SD_P">
+            <Zones>
+                <Zone x="1004" y="1010" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9776" desc="인던_공포의 미궁" originZoneX="1000" originZoneY="1000">
+        <Area name="SEC_JOK_SD_P">
+            <Zones>
+                <Zone x="1004" y="1010" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9077" desc="인던_T3- 바투의 사막" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ASW_A_SD_P">
+            <Zones>
+                <Zone x="1001" y="987" />
+                <Zone x="1001" y="988" />
+                <Zone x="1001" y="989" />
+                <Zone x="1002" y="986" />
+                <Zone x="1002" y="987" />
+                <Zone x="1002" y="988" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9078" desc="인던_T3- 비비슈의 실험실" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HWC_B_SD_P">
+            <Zones>
+                <Zone x="999" y="987" />
+                <Zone x="999" y="988" />
+                <Zone x="1000" y="987" />
+                <Zone x="1000" y="988" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9079" desc="인던_T3 자바르만 돔" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HNC_A_SD_P">
+            <Zones>
+                <Zone x="1002" y="995" />
+                <Zone x="1002" y="996" />
+                <Zone x="1002" y="997" />
+                <Zone x="1003" y="995" />
+                <Zone x="1003" y="996" />
+                <Zone x="1003" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9080" desc="인던_T3 굴라드쉬의 결계" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SSC_A_SD_P">
+            <Zones>
+                <Zone x="994" y="998" />
+                <Zone x="994" y="999" />
+                <Zone x="995" y="998" />
+                <Zone x="995" y="999" />
+                <Zone x="996" y="998" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9081" desc="인던_T3 생존의 수련장(소)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HEC_B_SD_P">
+            <Zones>
+                <Zone x="996" y="1004" />
+                <Zone x="997" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9082" desc="인던_T3 철벽의 수련장(소)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ATW_A_SD_P">
+            <Zones>
+                <Zone x="1002" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9083" desc="인던_T3 돌파의 수련장(소)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ASW_C_SD_P">
+            <Zones>
+                <Zone x="1001" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9084" desc="인던_T4 킬링포인트(소)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SWC_Quest_SD_P">
+            <Zones>
+                <Zone x="1002" y="1000" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9085" desc="인던_T4 터렛디펜스(소)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HSC_DOD_SD_P">
+            <Zones>
+                <Zone x="1002" y="1002" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9087" desc="인던_비밀기지" originZoneX="1000" originZoneY="1000">
+        <Area name="ANC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1000" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9088" desc="인던_밤피르 저택" originZoneX="1000" originZoneY="1000">
+        <Area name="ASE_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1001" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9089" desc="인던_사교도의 은신처" originZoneX="1000" originZoneY="1000">
+        <Area name="ASW_C_SD_P">
+            <Zones>
+                <Zone x="1004" y="1002" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9090" desc="특수_숲의 오솔길" originZoneX="43" originZoneY="58">
+        <Area name="ANC_A_P">
+            <Zones>
+                <Zone x="48" y="56" />
+                <Zone x="48" y="57" />
+                <Zone x="49" y="56" />
+                <Zone x="49" y="57" />
+                <Zone x="50" y="56" />
+                <Zone x="50" y="57" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9091" desc="인던_차원의 결계" originZoneX="1000" originZoneY="1000">
+        <Area name="ASE_ENC_SD_P">
+            <Zones>
+                <Zone x="1004" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9092" desc="인던_다곤의 무덤" originZoneX="1000" originZoneY="1000">
+        <Area name="HEC_TOD_SD_P">
+            <Zones>
+                <Zone x="1004" y="1007" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9093" desc="인던_아카샤의 은신처(중형몹5)" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1008" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9793" desc="인던_아카샤의 은신처(중형몹5)" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1008" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9094" desc="인던_살레론의 공중정원" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_DOD_SD_P">
+            <Zones>
+                <Zone x="1002" y="1011" />
+                <Zone x="1003" y="1011" />
+                <Zone x="1004" y="1011" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9095" desc="T4.2소규모인던_기록경쟁" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_AL_SD1_T41_P">
+            <Zones>
+                <Zone x="997" y="987" />
+                <Zone x="998" y="987" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9096" desc="T4.1소규모인던_터렛디펜스" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_AL_SD2_T41_P">
+            <Zones>
+                <Zone x="999" y="989" />
+                <Zone x="1000" y="989" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9801" desc="T4.2검은틈인던_특수공간( 1 )" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SWN_DL_01_T41_P">
+            <Zones>
+                <Zone x="1000" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9802" desc="T4.2검은틈인던_특수공간( 2 )" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SWN_DL_01_T41_P">
+            <Zones>
+                <Zone x="1000" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9803" desc="T4.2검은틈인던_특수공간( 3 )" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SWN_DL_01_T41_P">
+            <Zones>
+                <Zone x="1000" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9051" desc="여름축제_발더의 신전" originZoneX="1000" originZoneY="1000">
+        <Area name="FV_SUM_Balder_P">
+            <Zones>
+                <Zone x="998" y="1004" />
+                <Zone x="998" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9052" desc="여름축제_밤피르의 저택" originZoneX="1000" originZoneY="1000">
+        <Area name="FV_SUM_Vampir_P">
+            <Zones>
+                <Zone x="998" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9053" desc="거인의숲" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HEC_B_SD_02_P">
+            <Zones>
+                <Zone x="997" y="1005" />
+                <Zone x="996" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9046" desc="T4.2_소규모인던(3)_골렘" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HSC_A_T42_03_P">
+            <Zones>
+                <Zone x="996" y="1007" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9121" desc="T5연맹맵_황금의길" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ASW_C_CE_P">
+            <Zones>
+                <Zone x="991" y="987" />
+                <Zone x="991" y="988" />
+                <Zone x="992" y="987" />
+                <Zone x="992" y="988" />
+                <Zone x="992" y="989" />
+                <Zone x="993" y="987" />
+                <Zone x="993" y="988" />
+                <Zone x="993" y="989" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9151" desc="T5연맹가이드미션_특수공간" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ASW_C_CE_P">
+            <Zones>
+                <Zone x="991" y="987" />
+                <Zone x="991" y="988" />
+                <Zone x="992" y="987" />
+                <Zone x="992" y="988" />
+                <Zone x="992" y="989" />
+                <Zone x="993" y="987" />
+                <Zone x="993" y="988" />
+                <Zone x="993" y="989" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9122" desc="T5연맹맵_추방자의계곡" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HSC_A_CE_P">
+            <Zones>
+                <Zone x="991" y="991" />
+                <Zone x="992" y="990" />
+                <Zone x="992" y="991" />
+                <Zone x="992" y="992" />
+                <Zone x="993" y="990" />
+                <Zone x="993" y="991" />
+                <Zone x="993" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9123" desc="T5연맹맵_그림자숲" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_SSC_A_CE_P">
+            <Zones>
+                <Zone x="991" y="993" />
+                <Zone x="991" y="994" />
+                <Zone x="992" y="993" />
+                <Zone x="992" y="994" />
+                <Zone x="993" y="993" />
+                <Zone x="993" y="994" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9124" desc="연맹 훈련소 1인" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_UnionTC_SD_CE_P">
+            <Zones>
+                <Zone x="991" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9125" desc="연맹 훈련소 1인" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_UnionTC_SD_CE_P">
+            <Zones>
+                <Zone x="991" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9126" desc="연맹 훈련소 1인" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_UnionTC_SD_CE_P">
+            <Zones>
+                <Zone x="991" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9127" desc="연맹 훈련소 5인" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_UnionTC_SD_CE_P">
+            <Zones>
+                <Zone x="991" y="992" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9777" desc="소규모 인던-지하수로" originZoneX="1000" originZoneY="1000">
+        <Area name="VK_Sewer_P">
+            <Zones>
+                <Zone x="992" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9766" desc="소규모 인던-해적선" originZoneX="1000" originZoneY="1000">
+        <Area name="Pirateship_P">
+            <Zones>
+                <Zone x="995" y="996" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9050" desc="탐욕의 카슈바르 협곡" originZoneX="1000" originZoneY="1000">
+        <Area name="EX01_Kamai_SD_P">
+            <Zones>
+                <Zone x="997" y="1011" />
+                <Zone x="998" y="1011" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9750" desc="카슈바르 협곡" originZoneX="1000" originZoneY="1000">
+        <Area name="EX01_Kamai_SD_P">
+            <Zones>
+                <Zone x="997" y="1011" />
+                <Zone x="998" y="1011" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9811" desc="인던_어둠의 동굴" originZoneX="1000" originZoneY="1000">
+        <Area name="RNW_DarkCave_P">
+            <Zones>
+                <Zone x="993" y="1011" />
+                <Zone x="993" y="1012" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9711" desc="인던_어둠의 동굴" originZoneX="1000" originZoneY="1000">
+        <Area name="RNW_DarkCave_P">
+            <Zones>
+                <Zone x="993" y="1011" />
+                <Zone x="993" y="1012" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9810" desc="인던_라칸의 제단" originZoneX="1000" originZoneY="1000">
+        <Area name="Lakan_Altor_P">
+            <Zones>
+                <Zone x="994" y="1011" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9826" desc="특수_듀리온의 방" originZoneX="1000" originZoneY="1000">
+        <Area name="RNC_Durion_Room_P">
+            <Zones>
+                <Zone x="999" y="991" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9916" desc="인던_폭풍의 엘카라스 호" originZoneX="1000" originZoneY="1000">
+        <Area name="Airship_P">
+            <Zones>
+                <Zone x="1003" y="1008" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9716" desc="인던_엘카라스 호" originZoneX="1000" originZoneY="1000">
+        <Area name="Airship_P">
+            <Zones>
+                <Zone x="1003" y="1008" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9714" desc="프리미엄 전용 공간" originZoneX="1000" originZoneY="1000">
+        <Area name="Cut_Velic_P">
+            <Zones>
+                <Zone x="999" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9713" desc="길리안의 숲 (프리미엄 전용)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_Ghillian_SD_P">
+            <Zones>
+                <Zone x="1003" y="1007" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9813" desc="길리안의 숲" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_Ghillian_SD_P">
+            <Zones>
+                <Zone x="1003" y="1007" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9820" desc="특수_저항군 비밀 캠프" originZoneX="1000" originZoneY="1000">
+        <Area name="RNW_Resist_Camp_P">
+            <Zones>
+                <Zone x="1003" y="1000" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9818" desc="특수_비밀실험실" originZoneX="1000" originZoneY="1000">
+        <Area name="RNC_Experiment_P">
+            <Zones>
+                <Zone x="1003" y="1003" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9821" desc="특수_듀리온의 방" originZoneX="1000" originZoneY="1000">
+        <Area name="RNC_Durion_P">
+            <Zones>
+                <Zone x="998" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9099" desc="인던만들기실습" originZoneX="1000" originZoneY="1000">
+        <Area name="TRAINING_P">
+            <Zones>
+                <Zone x="998" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="7087" desc="불타는_포라엘리누" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_ASE_SD_P">
+            <Zones>
+                <Zone x="996" y="994" />
+                <Zone x="996" y="995" />
+                <Zone x="995" y="995" />
+                <Zone x="996" y="996" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="8999" desc="컷씬-벨릭의 신전" originZoneX="1000" originZoneY="1000">
+        <Area name="Cut_Velic_P">
+            <Zones>
+                <Zone x="999" y="999" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="4" desc="R" originZoneX="56" originZoneY="57">
+        <Area name="RWS_P" superlow="RWS_P_SL">
+            <Zones>
+                <Zone x="54" y="55" />
+                <Zone x="54" y="56" />
+                <Zone x="55" y="54" />
+                <Zone x="55" y="55" />
+                <Zone x="55" y="56" />
+                <Zone x="55" y="57" />
+            </Zones>
+        </Area>
+        <Area name="RNW_A_P" superlow="RNW_A_P_SL">
+            <Zones>
+                <Zone x="56" y="54" />
+                <Zone x="56" y="55" />
+                <Zone x="56" y="56" />
+            </Zones>
+        </Area>
+        <Area name="RNW_B_P" superlow="RNW_B_P_SL">
+            <Zones>
+                <Zone x="57" y="54" />
+                <Zone x="57" y="55" />
+                <Zone x="57" y="56" />
+                <Zone x="58" y="55" />
+                <Zone x="58" y="56" />
+            </Zones>
+        </Area>
+        <Area name="RNW_C_P" superlow="RNW_C_P_SL">
+            <Zones>
+                <Zone x="56" y="57" />
+                <Zone x="57" y="57" />
+                <Zone x="58" y="57" />
+                <Zone x="59" y="57" />
+            </Zones>
+        </Area>
+        <Area name="RNC_P" superlow="RNC_P_SL">
+            <Zones>
+                <Zone x="57" y="58" />
+                <Zone x="57" y="59" />
+                <Zone x="57" y="60" />
+                <Zone x="58" y="58" />
+                <Zone x="58" y="59" />
+                <Zone x="58" y="60" />
+                <Zone x="59" y="58" />
+                <Zone x="59" y="59" />
+                <Zone x="59" y="60" />
+            </Zones>
+        </Area>
+        <ChannelContinent id="7031" desc="RWS">
+            <Area name="RWS_P" />
+            <Area name="RNW_A_P" />
+            <Area name="RNW_B_P" />
+            <Area name="RNW_C_P" />
+            <Area name="RNC_P" />
+        </ChannelContinent>
+    </Continent>
+    <Continent id="9822" desc="아크데바 아지트" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_RNW_SecretCamp_P">
+            <Zones>
+                <Zone x="997" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9814" desc="아르카나그나이아" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_RNW_Arcana_P">
+            <Zones>
+                <Zone x="999" y="990" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9823" desc="엘카이아호(퀘)" originZoneX="1000" originZoneY="1000">
+        <Area name="Airship_Quest_P">
+            <Zones>
+                <Zone x="998" y="991" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9057" desc="인던_아케론의 염옥(상급)" originZoneX="1000" originZoneY="1000">
+        <Area name="BurningCave_P">
+            <Zones>
+                <Zone x="994" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9757" desc="인던_아케론의 염옥(하급)" originZoneX="1000" originZoneY="1000">
+        <Area name="BurningCave_P">
+            <Zones>
+                <Zone x="994" y="1006" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="99" desc="테스트용 대륙 " originZoneX="1000" originZoneY="1000">
+        <Area name="TEST_P">
+            <Zones>
+                <Zone x="998" y="998" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9887" desc="인던_비밀기지 (1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="ANC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1000" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9888" desc="인던_밤피르 저택 (1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="ASE_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1001" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9889" desc="인던_사교도의 은신처 (1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="ASW_C_SD_P">
+            <Zones>
+                <Zone x="1004" y="1002" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9871" desc="인던_사령술 연구소[HWC_B_SD_P](1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="HWC_B_SD_P">
+            <Zones>
+                <Zone x="1004" y="1003" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9872" desc="인던_황금의 미궁[AEN_B_SD_P](1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="AEN_B_SD_P">
+            <Zones>
+                <Zone x="1004" y="1004" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9873" desc="인던_검은 탑(1인)" originZoneX="1000" originZoneY="1000">
+        <Area name="HSC_A_SD_P">
+            <Zones>
+                <Zone x="1004" y="1005" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9808" desc="아크데바 무기고" originZoneX="1000" originZoneY="1000">
+        <Area name="RNW_ArcDevaArmory_SD_P">
+            <Zones>
+                <Zone x="1002" y="1008" />
+                <Zone x="1002" y="1009" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9809" desc="데모크론 실험실" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_RNC_Laboratory_P">
+            <Zones>
+                <Zone x="1002" y="1010" />
+            </Zones>
+        </Area>
+    </Continent>
+    <Continent id="9979" desc="인던_T3 자바르만 돔(저렙)" originZoneX="1000" originZoneY="1000">
+        <Area name="EX_HNC_A_SD_P">
+            <Zones>
+                <Zone x="1002" y="995" />
+                <Zone x="1002" y="996" />
+                <Zone x="1002" y="997" />
+                <Zone x="1003" y="995" />
+                <Zone x="1003" y="996" />
+                <Zone x="1003" y="997" />
+            </Zones>
+        </Area>
+    </Continent>
+</AreaList>

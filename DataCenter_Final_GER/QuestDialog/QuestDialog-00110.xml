@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Es ist die {@LinkCreature:4#1011#Reißzahnbrut}. Immer nur beißen, niemals bellen. Reicht man ihnen die Hand, reißen sie einem gleich den ganzen Arm aus.&lt;BR&gt;&lt;BR&gt;Vernichtet die Reißzahnbrut und bringt mir ihre Herzen. Dann können wir es vielleicht zu etwas bringen.&lt;BR&gt;&lt;BR&gt;Der Geruch vertreibt andere Fleischfresser.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Diese Reißzahnbrut vermehrt sich ja schnell, aber Ihr tötet sie noch schneller, was?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Also, wir können die Minen nicht wieder öffnen, bis die Reißzahnbrut erledigt ist.&lt;BR&gt;&lt;BR&gt;Wie soll man denn eine Spitzhacke schwingen, wenn einem die Reißzahnbrut die Arme abgekaut hat!</Page>
+    </Text>
+</QuestDialog>

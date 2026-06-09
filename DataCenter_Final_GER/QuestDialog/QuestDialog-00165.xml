@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">Ihr kennt mittlerweile sicher das Problem, dass die Tuwangi uns bereitet haben. Es war ehrlich gesagt eine ziemliche Überraschung. Wer hätte gedacht, dass sie so etwas anfangen?&lt;BR&gt;&lt;BR&gt;Jedenfalls läuft es darauf hinaus, dass wir hier nicht über viele Truppen verfügen, weil diese Gegend früher zu den sichersten der Föderation gehörte. Wir haben allerdings darüber nachgedacht und sind uns ziemlich sicher, einen Weg gefunden zu haben, wie wir sie mit den uns zur Verfügung stehenden Truppen bekämpfen können.&lt;NEXTPAGEBUTTON&gt;"Ach? Und wie soll das gehen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Das geht, indem wir die Kommunikation zwischen ihren Dörfern ausschalten. Gegen die isolierten Dörfer zu kämpfen dürfte wohl nicht allzu schwierig werden, oder?&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:5#12#Froschtrommeln} der Steinhammertuwangi sind ein extrem wichtiges Kommunikationsmittel, mit denen die Dörfer sich in Notfällen verständigen. Wenn wir die Froschtrommeln zerstören können, werden die Dörfer auf sich alleine gestellt sein.&lt;BR&gt;&lt;BR&gt;Ihr habt doch nichts anderes vor, oder? Ich möchte, dass Ihr diese Aufgabe übernehmt.&lt;BR&gt;&lt;BR&gt;Ich selbst habe schon genug mit der Ausbildung der neuen Soldaten zu tun. Bitte helft uns.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="5">Sie sind also alle unbrauchbar gemacht? Alles ist erledigt? Großartig.&lt;BR&gt;&lt;BR&gt;Dann können wir ja losschlagen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Shandra Manaya s'est emparée du Feu de Sikander avant de se terrer au fond de son repaire. Vous l'avez trouvée et tuée, mettant ainsi un terme à la guerre d'Argon, mais juste avant qu'elle ne rende l'âme, vous l'avez entendue murmurer un nom... "Manahan".</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Kaia s'est rendue à {@Rgn:76001$$Kanstria} pour y prendre des nouvelles de Shandra Manaya. Allez à sa rencontre et parlez-lui du feu de Sikander dérobé par Shandra Manaya.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1040">
+        <Page social="1">&lt;PCNAME&gt;!&amp;nbsp; Que s'est-il passé?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous avez vu Shandra Manaya?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Oui, et elle possède le Feu de Sikander."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Voilà donc pourquoi les argons se sont emparés de la dépouille de Kelsaik. J'ignorais qu'une part de Sikander avait survécu à l'intérieur de Kelsaik... et j'ignore ce que Shandra Manaya compte en faire.&lt;BR&gt;&lt;BR&gt;La peste soit de l'abomination dépourvue de sentiments à laquelle vous avez donné le jour, Manahan. Arun et Shara ont été bien inspirés de vous enfermer.&lt;NEXTPAGEBUTTON&gt;"Attendez... qui est Manahan?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Manahan est... un nom que le monde a oublié, &lt;PCNAME&gt;... et c'est très bien comme ça.&lt;BR&gt;&lt;BR&gt;Ne perdez pas votre objectif de vue. La Flamme de Sikander est un rémanent des forces ayant présidé à la création. Prenez la puissance du Noyau et multipliez-la par mille... ça vous parle?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Entre les griffes de Shandra Manaya, le Feu de Sikander pourrait bien faire rimer création avec destruction et changer la face du monde. Vous devez à tout prix trouver Shandra Manaya et récupérer le Feu de Sikander!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5009">
+        <Page social="1">J'ai ressenti la mort de Shandra Manaya... comme une vague de souffrance déferlant sur le monde. La guerre d'Argon touche enfin à son terme, et c'est nous qui l'avons gagnée!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais c'est à vous que le monde tel que nous le connaissons doit sa survie. Vous avez accompli une entreprise que ni les dieux ni les mortels ne pouvaient mener à bien. Gloire à &lt;PCNAME&gt;, Némésis des argons, des dieux maléfiques, et {@gender:champion/championne} {@gender:incontesté/incontestée} de la Fédération Valkyon!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Dans les mois qui viennent, nous allons tâcher de comprendre à quelles fins Shandra Manaya s'était emparée du Feu de Sikander. J'ai bien ma petite idée, mais dans l'immédiat, le plus important est que les projets de Shandra Manaya soient morts en même temps qu'elle.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="4">От этого Дулари не отделаться, верно? Давай-ка я расскажу тебе кое-что важное, вместо этой болтовни о "чистом знании".&lt;BR&gt;&lt;BR&gt;Каждый раз, когда ты выходишь из защищенной зоны, ты становишься легкой добычей. Раньше тебя учили сражаться с одиночными противниками, верно? Теперь тебе нужно научиться драться сразу с несколькими.&lt;BR&gt;&lt;BR&gt;Видишь тех {@LinkCreature:13#1#поросят} &lt;font color='#660000'&gt;на юге&lt;/font&gt;? Потренируйся на них, чтобы подготовиться к тому, что может ждать тебя за следующим поворотом. Я буду наблюдать за тобой и скажу, когда тебе можно будет отправляться дальше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1121">
+        <Page social="4">Отличная вышла резня. И не переживай из-за поросят - они плодятся с невероятной скоростью. Дулари говорит, что раньше их и вовсе не было на острове, но потом кто-то завез и они стремительно все заполонили.&lt;BR&gt;&lt;BR&gt;Вот, возьми. Понимаю, это немного, но хоть как-то тебе поможет.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1121">
+        <Page social="0">Это слишком простое задание. Поупражняйся в изученных навыках, выполняя &lt;font color='#660000'&gt;чистые убийства&lt;/font&gt;. Можешь потренироваться на {@LinkCreature:13#1#поросятах}. Я лишь хочу помочь стать тебе лучшим бойцом, ведь мы сражаемся на одной стороне.</Page>
+    </Text>
+</QuestDialog>

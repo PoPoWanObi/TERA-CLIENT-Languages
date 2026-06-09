@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Die Föderation unterstützt uns hier, weil wir die Tiere und Pflanzen des Mysteriums im Auge behalten.&lt;BR&gt;&lt;BR&gt;Keine Berichte - keine Unterstützung. {@LinkCreature:71#3018#Meiga} fehlt noch ein Bericht. Helft ihm, ihn abzugeben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Hmpf. Wenn {@LinkCreature:71#3001#Arisel} ihre Berichte unbedingt rechtzeitig haben möchte, müssen wir eben Baraka anwerben.&lt;BR&gt;&lt;BR&gt;Ah, da ist ja die Schlafmütze. Hat wahrscheinlich nur die Zeit vergessen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="2" villagerId="3027">
+        <Page social="4">Bericht?&lt;BR&gt;&lt;BR&gt;Ach ja, richtig!&lt;BR&gt;&lt;BR&gt;Habe mich etwas ausgeruht und es darüber ganz vergessen. Aber keine Sorge, er ist fertig.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3028">
+        <Page social="4">Hier ist der Bericht.&lt;BR&gt;&lt;BR&gt;Auf der einen Seite die Golems, auf der anderen die Ruinen voller Faultiere - wie hätte ich den Bericht denn da schicken sollen?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3029">
+        <Page social="4">Ich habe ihn nicht geschickt, weil es nichts zu berichten gibt!&lt;BR&gt;&lt;BR&gt;Golem mäht Gras. Golem spielt verrückt. Golem geht kaputt. Golem wird durch neuen Golem ersetzt.&lt;BR&gt;&lt;BR&gt;Die Tage verfliegen nur so!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3030">
+        <Page social="4">Den letzten haben die Faultiere gefressen!&lt;BR&gt;&lt;BR&gt;Nein, nicht den Bericht, den Beobachter! Ernsthaft!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="230" prevId="13" villagerId="3031">
+        <Page social="4">Richtet Meiga aus, mit besserer Verpflegung könnte ich besser denken.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="230" prevId="14" villagerId="3032">
+        <Page social="4">Bericht? Ja richtig!&lt;BR&gt;&lt;BR&gt;Ich fülle das hier nur noch schnell aus ...</Page>
+    </Text>
+    <Text id="16" huntingZoneId="71" prevId="15" villagerId="3018">
+        <Page social="4">Und dies ist der letzte für heute.&lt;BR&gt;&lt;BR&gt;Schätze, in der Armee geht es etwas anders zu als hier, was?</Page>
+    </Text>
+</QuestDialog>

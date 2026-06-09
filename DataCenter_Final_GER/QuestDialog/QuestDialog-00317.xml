@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Es gibt im Labyrinth hier noch mehr zu tun ... Lasst mich sehen ...&lt;BR&gt;&lt;BR&gt;Es scheint, dass {@LinkCreature:9#600#Unsterbliche Kämpfer}, {@LinkCreature:9#430#Gulaaufschlitzer}, {@LinkCreature:9#700#Alizarinwichteljäger}, {@LinkCreature:9#710#Alizarinwichtelbewacher}, {@LinkCreature:9#800#Gulaschlächter} und {@LinkCreature:9#900#Kaimanköche} die Nächsten sind.&lt;BR&gt;&lt;BR&gt;Was für eine Liste. Sprecht mit Noleta, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1006">
+        <Page social="4">Gut gemacht, &lt;PCCLASS&gt;. Wenn das Labyrinth gesäubert ist, können wir alle nach Hause!&lt;BR&gt;&lt;BR&gt;Oder zumindest woanders stationiert werden, was?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1006">
+        <Page social="0">Ich erwarte mehr von Euch, &lt;PCCLASS&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Эта нежить повсюду. Я знать не хочу, откуда они пришли - с севера или откуда-то еще, работают они на аргонов или на кого они там могут работать...&lt;BR&gt;&lt;BR&gt;Я хочу одного: чтобы и духу их тут не было!&lt;BR&gt;&lt;BR&gt;Вон {@LinkCreature:4#1061#Деванские темные рыцари} и {@LinkCreature:4#1062#Восставшие деванские пехотинцы} - начни с них. И собирай их жетоны. Добавлю себе в коллекцию.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Еще одним поводом для беспокойства меньше, &lt;PCNAME&gt;. У тебя отлично получается.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Да ладно, не такие они и крутые. Одни кости... доспехи... мерзкое оружие... Идем, добьем уже их!</Page>
+    </Text>
+</QuestDialog>

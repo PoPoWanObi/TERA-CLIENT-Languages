@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="0">La participation des vampires au complot mettant le psycholithe en scène a profondément troublé le préfet Paka. Il vous a demandé de vous rendre au Val du croc pour contacter Jelena et découvrir la vérité.&lt;BR&gt;&lt;BR&gt;Sur place, vous avez découvert l'existence d'un pacte conclu entre la noblesse vampire et le culte de Lok. L'objet de ce pacte était la création de psycholithes au Manoir sinistre. En apprenant la nouvelle, Jelena a envisagé un plan audacieux consistant à s'infiltrer dans le manoir pour y interrompre la production.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="4">Ce type nommé {@LinkCreature:67#1007#Paka} vous cherchait. Vous avez de drôles de relations, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1007">
+        <Page social="4">&lt;PCNAME&gt;!&amp;nbsp; Merci d'avoir fait le déplacement.&lt;BR&gt;&lt;BR&gt;Les vampires et nous étions autrefois amis, avant que ce vent de folie ne balaie la région, mais aujourd'hui, ils mettent en péril l'existence même de ma ville.&lt;BR&gt;&lt;BR&gt;Si vous alliez faire un tour au Val du Croc pour, disons... réduire un peu leur nombre... les gens se sentiraient certainement plus en sécurité.&lt;BR&gt;&lt;BR&gt;Cette fois, c'est moi qui veillerai à vous récompenser personnellement. Ce Bruke s'est comporté comme un sale ingrat!&amp;nbsp; &lt;NEXTPAGEBUTTON&gt;"Je dois pouvoir trouver une autre solution."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tiens, je reconnais cette odeur sur vos vêtements... l'odeur d'une personne qui nous a aidés par le passé... et qui vit aujourd'hui en fuyarde!&amp;nbsp; Si {@LinkCreature:216#1026#elle} pense qu'il existe une autre solution, je la crois sur parole.&lt;BR&gt;&lt;BR&gt;N'ayez crainte, je ne la trahirai pas.&lt;BR&gt;&lt;BR&gt;Nous lui devons beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1026">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. Apparemment, nous avons un don commun pour jouer les fauteurs de trouble!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;En ce qui concerne les vampires, j'avais raison&amp;nbsp;: ils sont manipulés!&amp;nbsp; Les nobles ont vendu leur peuple au culte de Lok;&amp;nbsp; ce sont là de bien tristes nouvelles.&lt;BR&gt;&lt;BR&gt;J'ai repéré un cultiste en particulier&amp;nbsp;: un certain {@LinkCreature:16#2406#Surdek}, qui prend constamment des notes. Nous devons nous les procurer!&amp;nbsp; Je dois me figurer l'étendue de leurs connaissances en magie de sang, ainsi que la manière dont ils comptent s'en servir. Vous pensez pouvoir vous occuper de lui?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Très bien, alors faites-le. Je vais trouver un moyen de m'infiltrer dans le Manoir sinistre. Les vampires y font de nombreuses allées et venues.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1026">
+        <Page social="4">Voyons ces notes.&lt;BR&gt;&lt;BR&gt;Ici, c'est le Manoir sinistre... et l'engin dont il parle pourrait permettre de créer des centaines de psycholithes.&lt;BR&gt;&lt;BR&gt;Enfer et damnation!&amp;nbsp; Avec ça, l'ennemi pourrait faire sombrer Poporia dans le chaos le plus complet... si ce n'est tout le reste du monde.&lt;BR&gt;&lt;BR&gt;Bon... j'ai trouvé un moyen d'entrer dans le manoir, mais il s'agit d'une porte secrète dont le système de sécurité est basé sur la reconnaissance du sang royal. Heureusement pour nous, il n'est pas impossible de s'en procurer!&amp;nbsp; Trouvez le {@LinkObject:216#5#cercueil de la comtesse} et le {@LinkObject:216#4#cercueil du comte}. Ils seront "ravis" de faire une petite donation pour la bonne cause.&lt;BR&gt;&lt;BR&gt;Je vous retrouverai au {@LinkCreature:216#1028#Manoir sinistre}. Tâchez de trouver du sang!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="216" villagerId="1026">
+        <Page social="0">Allez estourbir {@LinkCreature:16#2406#Surdek} et rapportez-moi ses notes. Nous devons découvrir ce que l'ennemi est en train de mijoter.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4">Alors, la noblesse a eu droit à sa petite saignée?&amp;nbsp; Bien joué.&lt;BR&gt;&lt;BR&gt;J'ai des bombes... et un moyen de nous protéger de la magie de sang.&lt;BR&gt;&lt;BR&gt;Une petite rasade, et au boulot!&amp;nbsp; En route!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

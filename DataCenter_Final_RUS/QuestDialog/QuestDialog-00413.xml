@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">У меня для тебя есть новое задание.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#301194#Камнеклювы с высокими гребнями} таскают научное оборудование и не дают нам провести важные измерения на северо-восточной границе базы.&lt;BR&gt;&lt;BR&gt;Отправляйся туда и попробуй вернуть наши &lt;b&gt;приборы&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;А затем отнеси их Джайрусу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1042">
+        <Page social="4">Какой приятный сюрприз! А я как раз пытался понять, как же мне закончить исследования этого великолепного дерева. Каждый раз, когда я устанавливаю приборы, камнеклювы их забирают. Интересно, зачем они им....&lt;BR&gt;&lt;BR&gt;В общем, спасибо тебе за помощь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1042">
+        <Page social="0">Адрия сказала, что кто-то вернет мне мои приборы. Речь шла о тебе? Я спрашиваю, потому что у тебя, как я погляжу, нет приборов, что украли {@LinkCreature:13#301194#Камнеклювы с высокими гребнями}.&lt;BR&gt;&lt;BR&gt;Если тебе представится возможность как следует врезать им, я был бы очень признателен за свое оборудование...</Page>
+    </Text>
+</QuestDialog>

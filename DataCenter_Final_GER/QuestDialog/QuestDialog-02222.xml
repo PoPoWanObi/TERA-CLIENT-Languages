@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Die Zulfikarfestung ist der letzte Verteidigungsposten in Helkan. Wenn die Argonen sie überrennen, ist ihr nächstes Ziel Kaiator.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:78#3006} sucht ein paar fähige Soldaten. Warum findet Ihr nicht heraus, womit Ihr ihm helfen könnt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">Ehrlich gesagt, sind meine größte Sorge die {@LinkCreature:48#29#Argonomorphleichenunholde}. Sie sind äußerst zäh und brutal. Alles an ihnen ist aufs Töten ausgelegt.&lt;BR&gt;&lt;BR&gt;Wenn Ihr bei den Shariar einen guten Eindruck machen wollt, würde ich da anfangen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">Nicht schlecht! Ihr besteht wohl nicht nur aus leeren Worten!&lt;BR&gt;&lt;BR&gt;Die Shariar werden stolz sein, an Eurer Seite zu kämpfen.</Page>
+    </Text>
+</QuestDialog>

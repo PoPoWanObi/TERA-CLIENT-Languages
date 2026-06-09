@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="0">Vous avez empêché les adorateurs de Lok de s'emparer de la magie des Géants, avant de détruire le livre contenant toutes les informations, afin qu'il ne puisse plus tomber entre de mauvaises mains.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="4">Nous devons prévenir Elsine que les descendants de Lok ont découvert l'emplacement des armes des géants. Nous aurons besoin de son expertise pour les arrêter.&lt;BR&gt;&lt;BR&gt;Retournez la voir aussi vite que possible!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1023">
+        <Page social="4">Les descendants de Lok n'ont pas mis bien longtemps à trouver le sanctuaire des géants... dire que nous l'avons cherché pendant des années.&lt;BR&gt;&lt;BR&gt;Enfin, ils l'ont peut-être trouvé, mais nous ne les laisserons pas s'emparer des reliques. Dotés d'un tel pouvoir, ils pourraient tuer Velik et lui voler ses pouvoirs.&lt;BR&gt;&lt;BR&gt;Allez prévenir Baruch. Nous allons avoir besoin d'aide pour arrêter les descendants de Lok.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1001">
+        <Page social="4">Bien sûr, vous pouvez compter sur notre aide!&amp;nbsp; Par les titans, nous n'allons pas rester les bras croisés!&amp;nbsp; Je vais ordonner aux hommes de tous les avant-postes de doubler les patrouilles. Nous allons trouver les descendants de Lok et les arrêter.&lt;BR&gt;&lt;BR&gt;Allez parler à Veltana au Poste d'Observation ouest. Conformément à mes ordres, elle fera tout son possible pour vous aider.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="4" villagerId="1005">
+        <Page social="4">Nous n'avons pas repéré d'activité suspecte ici... en dehors de celle de ces brutes de fouaille-tripes.&lt;BR&gt;&lt;BR&gt;J'ai lu un rapport émanant du décurion Stadrian, un homme du Refuge de Marchesable. Il n'a pas cité nommément les descendants de Lok, mais il a signalé un groupe d'étrangers qui patrouillait le long des routes.&lt;BR&gt;&lt;BR&gt;Vous n'avez pas déjà écrasé ces fameux descendants de Lok, il y a quelque temps?&amp;nbsp; A l'époque de la mort du commandant Samael?&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="224" prevId="5" villagerId="1009">
+        <Page social="4">Je ne sais pas s'il s'agit de descendants de Lok, mais ce qui est certain, c'est qu'ils ne jouent pas dans notre camp... ils fricotent avec les orkans. Trafic, pillage, ce genre de choses.&lt;BR&gt;&lt;BR&gt;Vous pourriez rompre leur chaîne de ravitaillement en éliminant les {@LinkCreature:24#11#berserkers orkans cornus}. Ce serait peut-être également l'occasion pour vous d'obtenir certaines informations.&lt;BR&gt;&lt;BR&gt;Qui plus est, ça nous débarrassera d'un certain nombre d'orkans. Tout le monde y gagne!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="224" prevId="6" villagerId="1009">
+        <Page social="4">Pendant que vous étiez en train de vous expliquer avec les orkans, Qasimir vous a fait parvenir un message. Apparemment, les descendants de Lok sont en train de mijoter quelque chose au Village du vent de sable. Il se prépare à fouiller le village. En faisant vite, vous aurez peut-être une chance de le rejoindre à temps pour participer.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="224" prevId="7" villagerId="1014">
+        <Page social="4">C'est un plaisir d'avoir enfin l'occasion de faire votre connaissance. Mon jeune cousin Kaeden a rédigé une chronique de vos exploits sur l' Île de l'Aube.&lt;BR&gt;&lt;BR&gt;J'ignore pourquoi les descendants de Lok collaborent avec les fouaille-tripes, mais le moins qu'on puisse dire, c'est que nous avons été témoins de choses étranges, dernièrement.&lt;BR&gt;&lt;BR&gt;Pour pouvoir aller fouiner, vous devrez commencer par éliminer les {@LinkCreature:24#13#gardiens des runes rusés} et les {@LinkCreature:24#58#chamanes du vent de sable} qui gardent le village. Dans l'enceinte du camp, vos cibles seront les {@LinkCreature:24#19#déformateurs eldritchs}. Ce sont eux qui pourront nous apprendre le plus.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="224" prevId="8" villagerId="1009">
+        <Page social="4">Zuulrakar, Ezzareshar et Terenoff... ce sont certainement eux qui supervisent les recherches d'artefacts. Quels noms bizarres. Je n'avais jamais entendu parler d'eux, mais je ne suis qu'un soldat.&lt;BR&gt;&lt;BR&gt;Si vous travaillez avec Elsine, à votre place, j'irais lui poser la question. Elle en sait certainement plus là-dessus que vous ou moi.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="9" villagerId="1023">
+        <Page social="4">Zuulrakar!&amp;nbsp; Vraiment?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il s'agit d'un démon ancien. Ezzareshar et Terenoff sont ses fidèles serviteurs. Si les descendants de Lok les ont invoqués, ça signifie qu'ils sont en train d'essayer de découvrir les armes des géants et le grimoire de sceau. Nous ne pouvons les laisser faire!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous devez tuer Zuulrakar ainsi que ses serviteurs et récupérez le grimoire.&lt;BR&gt;&lt;BR&gt;Rendez-vous à l'Avant-poste du Torrent et parlez à Raquib. C'est un vétéran;&amp;nbsp; il sera certainement en mesure de vous aider.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="224" prevId="10" villagerId="1012">
+        <Page social="4">Des démons, hein?&amp;nbsp; Oui, je les ai vus.&lt;BR&gt;&lt;BR&gt;On en trouve bon nombre dans les &lt;font color='#0080FF'&gt;Ruines de Storst&lt;/font&gt;. Vos copains {@LinkCreature:24#5003#Ezzareshar} et {@LinkCreature:24#5004#Terenoff} font partie du lot.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à les tuer, vous n'aurez plus qu'à éliminer {@LinkCreature:24#5002#Zuulrakar} dans la foulée et à récupérer son grimoire.&lt;BR&gt;&lt;BR&gt;Si vous réussissez, je connais quelqu'un qui sera prêt à vous payer une tournée ou douze. Pas moi, mais... disons juste "quelqu'un".</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" prevId="11" villagerId="1023">
+        <Page social="4">Ce grimoire contient des secrets qui pourraient changer la face du monde, &lt;PCNAME&gt;. Des secrets qui font les royaumes, les dynasties... comme ils peuvent les anéantir en un clin d'œil.&lt;NEXTPAGEBUTTON&gt;"Nous devons le détruire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10">Quel dommage... les membres du Mysterium d'Allemantheia s'étrangleraient s'ils vous entendaient dire une chose pareille.&lt;BR&gt;&lt;BR&gt;Mais d'un autre côté, qui pourrait sans risque devenir dépositaire de secrets aussi dangereux. Nous n'avons pas la sagesse nécessaire pour jouer avec de tels pouvoirs.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="66" villagerId="1023">
+        <Page social="0">Si Zuulrakar récupère les armes des géants, toute cette histoire virera directement au cauchemar. Tuez {@LinkCreature:24#5002#Zuulrakar} et récupérez le grimoire de sceau.</Page>
+    </Text>
+</QuestDialog>

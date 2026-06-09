@@ -1,0 +1,8 @@
+<StormEffectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StormEffectData StormEffectData.xsd" xmlns="https://vezel.dev/novadrop/dc/StormEffectData">
+    <StormEffectList>
+        <StormEffect id="1" distance="80" downAcc="450" downRotate="5600" downSpeed="10" fluctuation="5" fluctuationRate="7" fluctuationRotate="0" upAcc="-100" upRotate="5600" upSpeed="200" />
+        <StormEffect id="2" distance="80" downAcc="450" downRotate="5600" downSpeed="10" fluctuation="5" fluctuationRate="7" fluctuationRotate="0" upAcc="-300" upRotate="5600" upSpeed="200" />
+        <StormEffect id="3" distance="900" downAcc="300" downRotate="4200" downSpeed="0" fluctuation="1" fluctuationDuration="0" fluctuationRate="1" fluctuationRotate="4200" upAcc="-300" upRotate="5600" upSpeed="300" />
+        <StormEffect id="4" distance="400" downAcc="200" downRotate="0" downSpeed="100" fluctuation="3" fluctuationDuration="2500" fluctuationRate="5" fluctuationRotate="5" upAcc="0" upRotate="5" upSpeed="35" />
+    </StormEffectList>
+</StormEffectData>

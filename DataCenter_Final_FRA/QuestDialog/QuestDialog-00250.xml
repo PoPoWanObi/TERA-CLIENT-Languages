@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0">Les gulas des Cavernes affamées enlèvent des gens pour agrémenter leurs ragoûts.&lt;BR&gt;&lt;BR&gt;Une de leurs prises, Hennika, était la jeune sœur de Detrian, un soldat dont vous aviez fait la connaissance. Detrian s'est lancé à sa recherche dans les Cavernes affamées.&lt;BR&gt;&lt;BR&gt;Vous n'avez jamais retrouvé Detrian, mais vous avez récupéré son épée sur le corps d'un gula. Vous avez ensuite arraché Hennika à des marchands d'esclaves, et elle a juré sur l'épée de son frère de le venger!&amp;nbsp;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="5">Bon, nous allons devoir mettre un terme à tout ça... les gulas sont devenus incontrôlables!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai ici toute une liste de victimes enlevées par ces vermines dans l'idée d'en faire leurs casse-croûtes. Foncez aux Cavernes affamées et sauvez-y autant de monde que vous le pourrez.&lt;BR&gt;&lt;BR&gt;Quoi?&amp;nbsp; L'un de ces noms vous est familier?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="5">Oui, c'est Hennika, la sœur de Detrian. Il est déjà parti à sa recherche... autant dire qu'on peut déjà ajouter le nom de Detrian à la liste des disparus.&lt;BR&gt;&lt;BR&gt;Cherchez le Poste alpha de l'Avant-garde dans la Caverne des Entraves. En faisant vite, vous avez peut-être une chance de sauver quelques victimes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="5">Qui va là?&amp;nbsp; Attendez... vous n'êtes pas Detrian!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Comment?&amp;nbsp; Detrian s'est aventuré dans les grottes?&amp;nbsp; Il n'a pas la moindre chance de s'en sortir!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Bon, je vois que vous êtes {@gender:parti/partie} pour le suivre, alors autant vous dire ce que je sais des lieux. Les cuisines se trouvent à ce niveau. C'est là qu'ils retiennent leurs victimes prisonnières avant de les... enfin, vous voyez ce que je veux dire.&lt;BR&gt;&lt;BR&gt;Tâchez de ne pas finir vous-même dans un chaudron ou un fourneau, &lt;PCCLASS:lcase&gt;!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1031">
+        <Page social="5">(Les traces de morsures présentes sur ce cadavre semblent avoir été laissées par des gulas.)&lt;BR&gt;&lt;BR&gt;(Il est mort depuis trop longtemps pour appartenir à la dernière fournée de disparus.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1022">
+        <Page social="5">Ils n'étaient pas là?&amp;nbsp; Ils doivent donc se trouver quelque part dans les niveaux inférieurs.&lt;BR&gt;&lt;BR&gt;C'est une véritable course contre la montre. Allez jeter un œil au Poste bêta de l'avant-garde. Cherchez-y Rendia. Si quelqu'un a découvert quoi que ce soit de neuf, elle sera forcément au courant.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1014">
+        <Page social="5">Oui, Loxetrius est toujours aussi doué. Les disparus, et peut-être Detrian, se trouvent certainement dans la zone de détention... un endroit que les gulas nomment Caverne des larmes.&lt;BR&gt;&lt;BR&gt;Il y a deux blocs distincts. Le {@LinkCreature:208#1024#premier bloc de cellules} se trouve en bas du passage.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1024">
+        <Page social="5">&lt;PCNAME&gt;... (Il tousse)... (Il s'étouffe). J'ai essayé...&lt;BR&gt;&lt;BR&gt;J'ai pu voir ma sœur, Hennika, mais il y avait trop de gardes. Je n'ai pas pu arriver jusqu'à elle.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:8#4011#gulons anormaux} ont emmené Hennika au &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7004#78829,63010,-3794&amp;type=1&amp;name=deuxième bloc de cellules"&gt;deuxième bloc de cellules&lt;/A&gt;&lt;/FONT&gt;. Nous devons la sauver, &lt;PCNAME&gt;...&lt;NEXTPAGEBUTTON&gt;"Je vous le promets."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je ne peux... pas bouger, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je vais me reposer un peu...&lt;BR&gt;&lt;BR&gt;Juste une minute...&lt;BR&gt;&lt;BR&gt;(Detrian cesse de respirer et vous ne trouvez plus son pouls. Ses yeux restent ouverts, comme s'il cherchait encore sa sœur du regard.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1027">
+        <Page social="5">Bon sang que je suis content de vous voir!&amp;nbsp; J'ai cru que j'allais finir dans une marmite!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous êtes dans la même unité que ce jeune soldat qui nous a trouvés?&amp;nbsp; Il a combattu si bravement...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1028">
+        <Page social="5">Merci de m'avoir sauvé la vie!&amp;nbsp; Comment vous appelez-vous?&amp;nbsp; Je donnerai votre nom à mon premier enfant!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="208" prevId="8" villagerId="1029">
+        <Page social="5">Nous sommes effrayés et épuisés, mais sains et saufs.&lt;BR&gt;&lt;BR&gt;Ce qui n'est pas le cas de ce soldat qui a tenté de nous sauver...&lt;BR&gt;&lt;BR&gt;Est-ce qu'il s'en est sorti?&amp;nbsp;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="208" prevId="8" villagerId="1005">
+        <Page social="5">Hennika... j'ai beaucoup de chagrin pour elle.&lt;BR&gt;&lt;BR&gt;Le soldat qui a tenté de nous secourir était son frère.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="208" prevId="8" villagerId="1026">
+        <Page social="5">J'ai bien cru que j'allais finir mes jours dans la poêle d'un gula, ça c'est sûr.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="208" prevId="9" villagerId="1025">
+        <Page social="5">&lt;PCNAME&gt;!&amp;nbsp; Je me souviens de vous!&amp;nbsp; Où est Detrian?&amp;nbsp; Est-ce qu'il est...?&lt;BR&gt;&lt;BR&gt;Non, ne me le dites pas!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Ses dernières pensées ont été pour vous..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Oh, Detrian... Detrian... (elle sanglote)...&lt;BR&gt;&lt;BR&gt;Je sais qu'il me dirait d'être courageuse, mais c'est dur.&lt;BR&gt;&lt;BR&gt;Et je sais qu'il vous demanderait aussi de le venger, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La dernière fois que je l'ai aperçu, il était en train de combattre un de ces {@LinkCreature:8#4051#inquisiteurs vulgaires}.&lt;NEXTPAGEBUTTON&gt;"Alors, je sais qui punir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je dois ravaler mes larmes. Je dois être forte pour les autres rescapés.&lt;BR&gt;&lt;BR&gt;Je vais guider tout le monde jusqu'à l'Avant-poste du Vengeur pendant que vous irez venger Detrian.&lt;BR&gt;&lt;BR&gt;Cherchez l'épée de mon frère. Elle vous indiquera quel inquisiteur tuer.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1030">
+        <Page social="5">L'épée de Detrian...&lt;BR&gt;&lt;BR&gt;Detrian, si tu m'entends, je te jure de rejoindre un jour les rangs des Epées de Kaia comme tu l'as fait avant moi, et de mettre ma vie au service des autres en souvenir de toi.&lt;BR&gt;&lt;BR&gt;J'en fais le serment!&amp;nbsp;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="208" villagerId="1030">
+        <Page social="0">Vengez Detrian!&amp;nbsp; Tuez l'inquisiteur et rapportez-moi l'épée de mon frère!&amp;nbsp;</Page>
+    </Text>
+    <Text id="17" huntingZoneId="208" prevId="15" villagerId="1001">
+        <Page social="5">Les rescapés sont parvenus jusqu'ici, &lt;PCNAME&gt;. Beau travail!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;C'est bien triste, ce qui est arrivé à Detrian. C'était un bon soldat. Peut-être le reverrons-nous dans nos rêves?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ça me plairait. Et à sa sœur aussi. C'est une fillette tellement sérieuse...</Page>
+    </Text>
+</QuestDialog>

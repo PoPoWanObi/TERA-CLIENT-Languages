@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="750" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;BR&gt;Vandraul rekrutiert Mitglieder für eine Expedition zur Suche nach dem schwebenden Stein am Rand des Abgrunds.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="750" prevId="2" villagerId="3006">
+        <Page social="4">Neue Rekruten! Hervorragend!&lt;BR&gt;&lt;BR&gt;Diese Aufgabe mag zwar abschreckend wirken, doch Ihr scheint dazu in der Lage zu sein, sie zu bewältigen!&lt;NEXTPAGEBUTTON&gt;Ihr fragt, ob es an diesem Ort tatsächlich schwebende Steine gibt.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich weiß aus einer zuverlässigen Quelle, dass sich der schwebende Stein tief im Inneren der Höhlen am Rande des Abgrunds befindet.&lt;BR&gt;&lt;BR&gt;Dorthin zu gelangen, wird nicht einfach sein. In der Schlucht wimmelt es von großen Monstern und der schwebende Stein wird von tödlichen Bestien bewacht.&lt;BR&gt;&lt;BR&gt;Doch zunächst müsst Ihr Euch einen Weg durch das Guwangidorf bahnen. Folgt meinem Rat: Beseitigt zunächst die schwächeren Monster! Wenn Ihr versuchen solltet, ihre Anführer zu bezwingen, werden Euch die Guwangi überwältigen.&lt;BR&gt;&lt;BR&gt;Viel Glück!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="750" prevId="3" villagerId="3010">
+        <Page social="0">Das war äußerst beeindruckend! Wenn ich es nicht mit meinen eigenen Augen gesehen hätte, würde ich es nicht glauben!&lt;BR&gt;&lt;BR&gt;Ihr habt uns einen gewaltigen Dienst erwiesen. Der schwebende Stein ist nun unser Problem. Ich habe bereits angeordnet, dass er auf die Arche gebracht wird.&lt;BR&gt;&lt;BR&gt;Ihr solltet Euch ausruhen und Euren Sieg genießen!</Page>
+    </Text>
+</QuestDialog>

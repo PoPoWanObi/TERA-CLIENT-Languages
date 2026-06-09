@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">Орлесс никуда не выходит без телохранителей. И это не просто бойцы, а {@LinkCreature:11#1011#Офицеры Красной плети}, {@LinkCreature:11#2008#Буканьеры Красной плети} и {@LinkCreature:11#4005#Надсмотрщики Красной плети}.&lt;BR&gt;&lt;BR&gt;Избавишься от телохранителей, и сможешь подобраться к Орлессу. Только проследи, чтобы никто из них не смог занять место капитана, когда разделаешься с Орлессом.&lt;BR&gt;&lt;BR&gt;Принеси мне их жетоны. Есть одна идея...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Да тут целая куча жетонов! Я раздам их нашим бойцам - ребятам понравятся такие сувениры.&lt;BR&gt;&lt;BR&gt;Отличная работа, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Капитана охраняют {@LinkCreature:11#1011#Офицеры Красной плети}, {@LinkCreature:11#2008#Буканьеры Красной плети} и {@LinkCreature:11#4005#Надсмотрщики Красной плети}. Разберись с ними.</Page>
+    </Text>
+</QuestDialog>

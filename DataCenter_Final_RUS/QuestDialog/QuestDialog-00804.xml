@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1015">
+        <Page social="9">Буэ-э! Как тебе удается сдерживать тошноту? Неужели зловоние не жжет тебе ноздри?&lt;BR&gt;&lt;BR&gt;Наш интендант обещал добыть нам целый ящик душистого шиповника, а сам сбежал в Искаженную долину. Если ты сможешь найти этот шиповник, хотя бы немного, то здорово поможешь нам.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1024">
+        <Page social="5">(От ящика остались лишь обломки. На земле валяется несколько лепестков шиповника. Нужно отнести их Болге.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" prevId="3" villagerId="1015">
+        <Page social="8">И это все, что удалось найти? Ты же не шутишь, верно? Потому что это не смешно. Вонь преследует меня даже во сне!&lt;BR&gt;&lt;BR&gt;Что ж, если это все, придется обходиться тем, что есть!</Page>
+    </Text>
+</QuestDialog>

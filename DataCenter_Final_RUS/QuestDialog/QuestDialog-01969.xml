@@ -1,0 +1,79 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="4">Один из наших молодых исследователей, {@LinkCreature:77#3002#Паруру}, потерял двух дорогих ему собак. Проблема в том, что мы не можем рисковать его жизнью ради спасения собак, поэтому нам нужна твоя помощь.&lt;BR&gt;&lt;BR&gt;Ты, в отличие от него, солдат.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="4">Меня не волнует, посинеют ли лица аргонов, я не буду работать, пока не увижу своих собак.&lt;NEXTPAGEBUTTON&gt;"Ладно. Как их зовут?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Да! Одного зовут Принц, а вторую - Миляга! Помоги мне найти моих собак, и я обещаю продолжить работу.&lt;BR&gt;&lt;BR&gt;Кстати, они очень любят копченое мясо. Используешь его, чтобы заманить их домой, хорошо?&lt;BR&gt;&lt;BR&gt;М-м-м-м... копченое.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="77" prevId="2" villagerId="3015">
+        <Page social="4">(Собака смотрит на вас так, словно думает, что вы собираетесь сделать что-то ужасное.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="8" villagerId="3017">
+        <Page social="4">(Собака смотрит на вас так, словно думает, что вы собираетесь сделать что-то не то.))</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" prevId="9" villagerId="3018">
+        <Page social="4">(Собака смотрит на вас так, словно думает, что вы собираетесь сделать что-то ужасное.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="10" villagerId="3019">
+        <Page social="4">(Собака смотрит на вас так, словно думает, что вы собираетесь сделать что-то не то.))</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="4">Миляга получил копченое мясо? Он вернется?&lt;BR&gt;&lt;BR&gt;Тебе же не пришло в голову съесть его в одиночку?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="14" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="15" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="16" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="17" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="18" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="11" villagerId="3517">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="3518">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="3519">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="22" huntingZoneId="247" prevId="21" villagerId="3515">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="23" huntingZoneId="247" prevId="22" villagerId="3516">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="24" huntingZoneId="247" prevId="23" villagerId="3517">
+        <Page social="4">(Пес недоверчиво посмотрел на вас такими глазами, будто его вынуждают носить бантики на голове.)</Page>
+    </Text>
+    <Text id="25" huntingZoneId="77" prevId="24" villagerId="3002">
+        <Page social="4">Принц нашелся? Он съел копченое мясо? Он так любит копченое мясо, что готов бежать за ним несколько миль.&lt;BR&gt;&lt;BR&gt;Я очень признателен тебе за помощь. Я обещаю усердно работать над нашими исследованиями.</Page>
+    </Text>
+</QuestDialog>

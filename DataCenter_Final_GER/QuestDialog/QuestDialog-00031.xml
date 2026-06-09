@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Wir haben mehr, als wir auf unserem Grill unterbringen können, &lt;PCNAME&gt;. Wir haben etwas Fleisch übrig, und um es lagern zu können, müssen wir es salzen.&lt;NEXTPAGEBUTTON&gt;"Des Geschmacks wegen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nein, damit das Fleisch nicht verdirbt. Es geht natürlich nichts über frisch gegrilltes Fleisch. Es löst sich zart vom Knochen, der Saft rinnt einem über die Finger und ...&lt;BR&gt;&lt;BR&gt;... Wo war ich stehen geblieben? Ah! Das Einlagern des übrig gebliebenen Fleischs. Verus hat alles, was man zum Pökeln braucht. Könnt Ihr das restliche Fleisch zu ihm bringen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1004">
+        <Page social="4">Übriges Essen? Das ist mal ein willkommenes Problem. Ich kann Euch gerne zeigen, was zu tun ist.&lt;BR&gt;&lt;BR&gt;Hier ist ein leeres Fass und etwas Salz. Macht Euch an die Arbeit!&lt;BR&gt;&lt;BR&gt;Wenn Ihr das ganze Fleisch eingepökelt habt, bringt es zu &lt;b&gt;Einna&lt;/b&gt; - sie ist eine der Anführerinnen bei den Flüchtlingen und wird es weiter verteilen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1043">
+        <Page social="4">Erst verschafft Ihr uns ein Festessen, und jetzt bewahrt Ihr uns vor dem Verhungern. Es war wohl doch die richtige Entscheidung, hier in Holzhausen Zuflucht zu suchen.&lt;BR&gt;&lt;BR&gt;Ich danke Euch im Namen von uns allen, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1043">
+        <Page social="0">Ihr habt das übrige Fleisch eingepökelt! Vielen Dank, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

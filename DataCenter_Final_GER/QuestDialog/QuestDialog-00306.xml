@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">Wir sind hier, um den Eingang zu blockieren und dafür zu sorgen, dass die Gula dort drinnen bleiben - weit weg von uns. Aber es werden einfach immer mehr!&lt;BR&gt;&lt;BR&gt;Eigentlich hatte man uns versprochen, Verstärkung vom {@Rgn:62001$$Halsabschneiderhafen} zu schicken, aber ich habe noch nichts davon bemerkt.&lt;BR&gt;&lt;BR&gt;Würdet Ihr {@LinkCreature:62#1007$$Kasib} am {@Rgn:62001$$Halsabschneiderhafen} aufsuchen und in Erfahrung bringen, wann die Verstärkung kommt? Wir können diese Wilden nicht mehr lang in Schach halten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">Ich weiß, ich weiß! Da draußen ist die Hölle los. Überall ist die Hölle los. Die Welt versinkt im Chaos. Ich hab's ja verstanden.&lt;BR&gt;&lt;BR&gt;Aber das heißt nicht, dass ich aus dem Nichts mehr Soldaten zaubern kann. Sagt {@LinkCreature:209#1007$$Raviv}, dass es mir leid tut, aber ich weiß nicht, wann wir ihm Verstärkung schicken können.&lt;BR&gt;&lt;BR&gt;Ich weiß, dass es schwer ist, aber sie müssen den {@Rgn:9011$$Außenposten der Reliquienjäger} um jeden Preis verteidigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1007">
+        <Page social="4">Er weiß, dass wir allein keine Chance haben und will trotzdem, dass wir es versuchen? Tolle Neuigkeiten.&lt;BR&gt;&lt;BR&gt;Hört zu, Ihr dürft keinem erzählen, was er gesagt hat, klar? Ich ... Ich lüge meine Soldaten nur ungern an, aber wenn sie wissen, dass keine Hilfe zu erwarten ist, verlieren wir den Posten garantiert.&lt;BR&gt;&lt;BR&gt;Danke, dass Ihr den Weg auf Euch genommen habt.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1006">
+        <Page social="5">Si vous vous croyez de taille à relever un défi plus corsé, rendez-vous au Castra Mysterium, au nord. C'est là que se déroulent les combats les plus violents.&lt;BR&gt;&lt;BR&gt;Trouvez {@LinkCreature:227#1008#Velnen}. Il saura quoi faire d'un "héros de votre trempe".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1008">
+        <Page social="5">Oubliez Ellahne... elle est un peu dépassée par les événements et peut parfois se montrer un peu cinglante.&lt;BR&gt;&lt;BR&gt;D'un autre côté, c'est vrai qu'ici, les combats vont bon train;&amp;nbsp; nous devons affronter les meilleurs éléments de Thulsa. Nous aurions bien besoin d'un soldat dans votre genre.</Page>
+    </Text>
+</QuestDialog>

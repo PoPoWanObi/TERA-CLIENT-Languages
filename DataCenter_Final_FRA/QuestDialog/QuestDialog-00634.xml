@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">J'aurais également besoin de... ceci. Mon dieu, quelle liste!&amp;nbsp; Vous devriez peut-être prendre des notes. Vous êtes {@gender:prêt/prête}?&amp;nbsp; Ils veulent que vous éliminer des {@linkcreature:19#4000#enragés de Lok}, {@linkcreature:19#4001#éventreurs de Lok}, {@linkcreature:19#4002#fendeurs de Lok}, {@linkcreature:19#4003#ravage-tripes de Lok}, {@linkcreature:19#4004#seigneurs des épées de Lok}, {@linkcreature:19#4005#saigneurs de Lok}, {@linkcreature:19#4006#tisseurs sanglants de Lok}, {@linkcreature:19#4007#visiteurs d'ébène de Lok} et des {@linkcreature:19#4008#mages sombres de Lok}.&lt;BR&gt;&lt;BR&gt;Waouh!&amp;nbsp; Je suis essoufflé rien que de te les avoir lu!&amp;nbsp; Bon, quand tu auras terminé, va voir Karadus</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1020">
+        <Page social="4">Beau boulot. Acceptez ceci en récompense.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1020">
+        <Page social="0">Le temps passe!&amp;nbsp; Vous aurez votre récompense quand vous aurez accompli votre tâche.</Page>
+    </Text>
+</QuestDialog>

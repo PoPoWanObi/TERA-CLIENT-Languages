@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">Это дневник прионского археолога. &lt;NEXTPAGEBUTTON&gt;"О чем там написано?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Послушай вот это место - "Мы надеялись захватить великана, которого нашли внутри пирамиды, но он слишком яростно отбивался, поэтому у нас ничего не вышло. Несколько выживших, которым удалось отступить, определенно благословлены нашим отцом Салероном".&lt;BR&gt;&lt;BR&gt;Ну разве это не восхитительно, &lt;PCNAME&gt;? Великан! Все еще живой, а ведь столько веков прошло.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Восхитительно и немного пугающе".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Твоя правда. Представь, что было бы, если бы они восстановили свою ужасную империю. Великан, должно быть, все еще находится внутри пирамиды в Грозовом пределе. Вряд ли ему позволили сбежать.&lt;BR&gt;&lt;BR&gt;Уничтожишь его?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1026">
+        <Page social="5">Используй этот телепорт, чтобы попасть в пирамиду.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1027">
+        <Page social="5">Одной угрозой меньше. Но если здесь был великан, не значит ли это, что они могут быть где-то еще? Можем только надеяться, что нет.</Page>
+    </Text>
+</QuestDialog>

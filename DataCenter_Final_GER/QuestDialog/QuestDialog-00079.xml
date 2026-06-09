@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Die Devaner hier in der Gegend führen ein paar neue Waffen, die sich von den anderen unterscheiden. Wenn ihnen das ausreicht, reicht es uns erst recht aus.&lt;BR&gt;&lt;BR&gt;Erledigt {@LinkCreature:3#300141#Devanerklingenmeister}, {@LinkCreature:3#19#Devanerbanditen} oder {@LinkCreature:3#18#Devanerschläger} und sammelt ihre Waffen ein. Wenn ihre Waffen verzaubert sind, nehmen wir sie besser an uns. Macht bitte keinen Fehler, die Leute zu Hause zählen auf uns.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Hervorragende Arbeit! Das tut den Devanern weh und hilft uns weiter. Ich werde einen Weg finden, um die Waffen nach Crescentia oder zum Vorhutposten zu bringen.&lt;BR&gt;&lt;BR&gt;Vielen Dank für Eure Hilfe, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Oh, sie sind nicht schwer zu finden. In Deva Silva wimmelt es nur so von ihnen. Ich habe die neuen Waffen vor allem bei den Devanerfrauen und den Devanerbanditen gesehen. Versucht es zuerst bei ihnen.</Page>
+    </Text>
+</QuestDialog>

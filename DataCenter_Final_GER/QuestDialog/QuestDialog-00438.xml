@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0">Auf Chiones Ersuchen hin habt Ihr gegen Acharak und seine Schergen gekämpft und eine gewöhnlich aussehende Feder geborgen, die ihr dann zu Zenturio Edan brachtet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">Wenn die Orkaner mein Luftschiff zum Abstürzen gebracht haben, dann auf Befehl von {@linkcreature:13#1002#Acharak}.&lt;BR&gt;&lt;BR&gt;Wir verfolgen seine Schritte seit Wochen, aber noch nie haben sich so viele Orkaner an einem Ort versammelt.&lt;BR&gt;&lt;BR&gt;Er muss die Garnison des Verdorbenen Schlundes überrannt haben, aber ein gezielter Schlag sollte die Moral seiner Truppen zerstören.&lt;BR&gt;&lt;BR&gt;Tötet Acherak und nehmt den Talisman der Düsteren Klauen - eine schwarze Feder - an Euch. Falls Zenturio Edan noch lebt, wird er wissen, was damit zu tun ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">Dieses Amulett ist so klein und einfach, und doch ist es ein mächtiger Talisman für die Orkaner.&lt;BR&gt;&lt;BR&gt;Für eine Kurierin hat Chione viel Verständnis von Taktik. Ich bin beeindruckt! Ihr habt Euch ebenfalls gut geschlagen, &lt;PCNAME&gt;. Vielen Dank.</Page>
+    </Text>
+</QuestDialog>

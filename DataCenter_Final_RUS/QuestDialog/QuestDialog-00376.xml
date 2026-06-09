@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="5">Я слышал, что ты отправляешься на Остров Мистмур. Проклятые рабовладельцы! Я сумел сбежать, но они схватили моего брата. Я должен сделать хоть что-нибудь, пока его не успели отправить на невольничий рынок, и продать! Он кричал, чтобы я убегал, когда его волокли в лагерь.&lt;NEXTPAGEBUTTON&gt;"Куда они направились?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">К востоку. К рынку, который называют Дождливым лагерем. Больше я ничего не помню. Умоляю, помоги. Верни моего брата.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1012">
+        <Page social="4">Кто ты? Ты солдат? Ты случайно не встречал моего брата, Зебулона?&lt;BR&gt;&lt;BR&gt; Он жив? Хвала богам.&lt;BR&gt;&lt;BR&gt;Нужен ключ, чтобы я смог отсюда выбраться. Все ключи у {@LinkCreature:12#16#Надсмотрщиков}. Я не знаю, какой именно подойдет к этому замку, так что неси всю связку.&lt;BR&gt;&lt;BR&gt;А я пока спрячусь. Только, пожалуйста, не погибни!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1012">
+        <Page social="4">Свобода - какое удивительное чувство! Ты не передашь нашей маме, что мы в безопасности?&lt;BR&gt;&lt;BR&gt;Да, и мама обрадуется, когда узнает, что мы поклялись больше не иметь никаких дел с Диркеном. Кажется, это он сдал нас работорговцам!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1012">
+        <Page social="0">Скорее, &lt;PCCLASS:lcase&gt;! Работорговцы тебя тоже запрут, если поймают!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1023">
+        <Page social="4">Они живы? Оба? Хвала титанам!&lt;BR&gt;&lt;BR&gt;Они сказали, когда вернутся? Уж я им задам за все мои нервы! За то, что связались с кем-то вроде Диркена! Они что, не слушали, о чем я их предупреждала?&lt;BR&gt;&lt;BR&gt;Если бы только они хоть немного походили на тебя, &lt;PCNAME&gt;. Ты - живой пример того, каких высот можно достичь, если слушаться родителей.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1018">
+        <Page social="4">Своими поступками и примером ты оказываешь честь Мечам Кайи. Своими преданностью и смелостью ты оказываешь честь этому месту.&lt;BR&gt;&lt;BR&gt;И сегодня мы с гордостью готовы заявить, что &lt;PCCLASS:lcase&gt; навечно будет занесен в списки нашего полка.&lt;BR&gt;&lt;BR&gt;Ступай, &lt;PCNAME&gt;, но помни, что среди нашего братства для тебя всегда найдется место.</Page>
+    </Text>
+</QuestDialog>

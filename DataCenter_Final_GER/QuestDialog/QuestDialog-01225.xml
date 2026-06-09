@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1010">
+        <Page social="4">Panzer! Ich brauche mehr Panzer!&lt;BR&gt;&lt;BR&gt;Ihr habt es schon einmal geschafft. Geht und tötet einige {@LinkCreature:39#130#Arachnenmatriarchinnen} und {@LinkCreature:39#131#Arachnenmatronen}, und bringt mir mehr Panzer. Ende der Durchsage!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1010">
+        <Page social="4">Panzer. Großartig, es lebe die Natur!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1010">
+        <Page social="0">Es funktioniert so: Ihr bringt mir die Panzer und ich höre auf, Euch deswegen auf den Geist zu gehen.</Page>
+    </Text>
+</QuestDialog>

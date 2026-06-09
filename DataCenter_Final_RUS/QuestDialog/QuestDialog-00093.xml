@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="4">{@LinkCreature:4#2041#Жуткие грабители} снижают боевой дух моих солдат. Потери огромные, а они... для них каждый убитый солдат - повод над нами посмеяться.&lt;BR&gt;&lt;BR&gt;Прикончи этих тварей, &lt;PCNAME&gt;. Дай и нам повод посмеяться над ними.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1136">
+        <Page social="4">Впечатляюще, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Тебе удалось не только ослабить силы противника, но и приободрить наших солдат - ребята начали срамословить грабителей, которым не по силам боец-одиночка.&lt;BR&gt;&lt;BR&gt;Я бы тебе пересказала, что они говорят, но это... ух, как скверно!</Page>
+    </Text>
+</QuestDialog>

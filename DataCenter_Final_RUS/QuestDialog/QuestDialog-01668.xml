@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="61" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Вы получили письмо от Эллеона).&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;наша война еще не окончена. Чтобы победить Тулсу и спасти Сериона нам нужно подготовиться.&lt;BR&gt;Встретимся на Мемориальной площади в Кастанике. Береги себя.&lt;BR&gt;&lt;BR&gt;{@linkcreature:61#1104}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1104">
+        <Page social="3">Спасибо за визит.&lt;BR&gt;&lt;BR&gt;Грядущие сражения будут куда сложнее, а враги намного сильнее тех, с кем мы сталкивались раньше.&lt;BR&gt;&lt;BR&gt;Нужно подготовиться.&lt;NEXTPAGEBUTTON&gt;"Каким образом?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Нужно зачаровать снаряжение до более высокого уровня. Для начала попробуем зачаровать снаряжение до +9. В какой-то момент нам понадобится и шедевральный алкагест, но давай не будем забегать вперед.&lt;NEXTPAGEBUTTON&gt;"Хорошо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">К сожалению, у меня сейчас есть только сырье первой ступени и немного алкагеста.&lt;BR&gt;Но ни в коем случае не выбрасывай это сырье, ведь ты можешь повысить его ступень.&lt;BR&gt;&lt;BR&gt;Удачи, друг мой!</Page>
+    </Text>
+</QuestDialog>

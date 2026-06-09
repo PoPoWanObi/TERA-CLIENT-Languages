@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">Наши разведчики отдали жизни за эту информацию.&lt;BR&gt;&lt;BR&gt;В докладе указано место - &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastion Entrance"&gt;вход в бастион&lt;/A&gt;&lt;/FONT&gt; и имя их командира - {@LinkCreature:487#101}.&lt;BR&gt;&lt;BR&gt;Четкие инструкции тебе даст {@LinkCreature:203#1006} в Зверином доле.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4">Тебя прислал центурион {@LinkCreature:203#1007}? Хорошо.&lt;BR&gt;&lt;BR&gt;Один из наших разведчиков {@LinkCreature:203#1033} ждет тебя снаружи. Он укажет вход. Когда окажешься внутри, найди {@LinkCreature:487#1111}.&lt;BR&gt;&lt;BR&gt;Сразимся с Потомками!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1033">
+        <Page social="4">Стой, где стоишь!&lt;NEXTPAGEBUTTON&gt;"Я на твоей стороне".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="9">Извини, &lt;PCCLASS:lcase&gt;. Мне очень больно, но зрение у меня по-прежнему острое.&lt;BR&gt;&lt;BR&gt;Вход справа отсюда. Слева от меня есть дорожка, иди по ней до входа в пещеру. Я видел, как туда-сюда сновали враги, возможно, они пользовались &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Teleportal"&gt;телепортом&lt;/A&gt;&lt;/font&gt;. Грапин скрывается внутри.&lt;BR&gt;&lt;BR&gt;Эти гады убили большую часть моего отряда. Не щади их!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="487" prevId="4" villagerId="1111">
+        <Page social="4">Потомки собирают оружие и накапливают силы. Не знаю, каков их план, но Мурдранак собирается возглавить Аркадию во имя кого-то, кого мы не знаем.&lt;BR&gt;&lt;BR&gt;Когда дело успело обрести такой поворот?&lt;NEXTPAGEBUTTON&gt;"К чему они готовятся?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Я слышал слишком много историй, чтобы утверждать что-то определенное, но в самых правдоподобных говорится о ритуале обожествления.&lt;BR&gt;&lt;BR&gt;Осторожно, &lt;PCNAME&gt;, {@LinkCreature:487#101#Мурдранак} командует {@LinkCreature:487#3006#Связанным кровью валканом}.&lt;BR&gt;&lt;BR&gt;Придется убить голема {@LinkCreature:487#1006#Душегубителя}, который охраняет путь.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1007">
+        <Page social="4">Их смерти изрядно облегчат мне жизнь.&lt;BR&gt;&lt;BR&gt;Вольно!</Page>
+    </Text>
+</QuestDialog>

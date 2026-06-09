@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="6">Мне удалось добраться сюда в целости и сохранности, но вернуться в Эленею будет не так просто, а все из-за этих Блуждающих адских гончих.&lt;BR&gt;&lt;BR&gt;Я наблюдал за ними и заметил, что они сторонятся одного мерзко пахнущего цветка.&lt;BR&gt;&lt;BR&gt;Кажется, его запах им не нравится. Сможешь принести мне несколько таких цветов, чтобы я смог защитить себя от гончих?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="8">Они и правда ужасно воняют!&lt;BR&gt;&lt;BR&gt;Этого должно хватить, чтобы безопасно добраться до Эленеи. Большое спасибо!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">Этого недостаточно, чтобы я смог безопасно вернуться в Эленею.&lt;BR&gt;&lt;BR&gt;Пожалуйста, найди еще парочку.</Page>
+    </Text>
+</QuestDialog>

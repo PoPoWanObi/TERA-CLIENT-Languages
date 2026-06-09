@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="90" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="4">Les becailloux menacent les routes commerciales et si nous ne leur donnons pas une bonne leçon, leurs attaques vont s'intensifier.&lt;BR&gt;&lt;BR&gt;Traquez les {@LinkCreature:3#1001#combattants becailloux} et les {@LinkCreature:3#101#soldats becailloux}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter leurs lances à Rhona au Camp de la Digue. Elle vous donnera une récompense.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1016">
+        <Page social="4">Excellent travail, soldat. Voici votre récompense.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1016">
+        <Page social="0">Retournez-y, &lt;PCCLASS:lcase&gt;. Personne n'a envie de voir des becailloux se balader librement.</Page>
+    </Text>
+</QuestDialog>

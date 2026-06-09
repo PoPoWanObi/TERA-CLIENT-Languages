@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="4">Die {@LinkCreature:20#30011100#Moralverbesserer} sorgen dafür, dass die Sklaven weiterarbeiten - wenn Ihr sie also loswerdet, werden die Grabungen aufhören.&lt;BR&gt;&lt;BR&gt;Vernichtet sie und geht dann zur Reliquienstation in den Hallen des Schattens. Dort hat man um Verstärkung gebeten.&lt;BR&gt;&lt;BR&gt;Ihr werdet feststellen, dass Ihr hier ein wenig herumgereicht werdet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1004">
+        <Page social="0">Endlich! Gut, dass sie uns nicht völlig vergessen haben.&lt;BR&gt;&lt;BR&gt;Ich hoffe, Ihr müsst Euch nicht ausruhen, denn dafür ist keine Zeit.</Page>
+    </Text>
+</QuestDialog>

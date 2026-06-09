@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Странно от тебя пахнет. Что это такое?&lt;BR&gt;&lt;BR&gt;О, нет! Это не от тебя, это от меня! Видишь, у меня на ботинке? Лепешка древня. Наверное, наступила по дороге на работу. Постоянно такое случается.&lt;BR&gt;&lt;BR&gt;У {@LinkCreature:63#3003#Элтиэнн} для тебя есть какая-то работа, если тебе это интересно. А я пойду почищусь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Самое время. Нам нужны кое-какие материалы, а добыть их можно на берегу Озера слез.&lt;BR&gt;&lt;BR&gt;Если ты согласишься на задание, тебе нужно будет выследить определенных монстров и добыть для нас трофеи.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Только посмотри! То что надо для наших целей.&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;. Отправляйся к {@LinkCreature:63#3003#Элтиэнн}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">"Руке" нужны надежные доспехи. К сожалению, мы не можем позволить себе купить их.&lt;BR&gt;&lt;BR&gt;Отправляйся к Озеру слез и забери доспехи у {@LinkCreature:23#9#Огненных клыкарей}.&lt;BR&gt;&lt;BR&gt;Если они могут защитить клыкарей, то защитят и нас. Мастерства подогнать трофеи под наши нужды у нас хватит.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">Замечательно! Ты - просто чудо.&lt;BR&gt;&lt;BR&gt;Скажи {@LinkCreature:63#3003#Элтиэнн}, что я считаю, что ты заслуживаешь надбавку. Она меня, правда, никогда не слушает...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">У нас заканчиваются доспехи. Оказывается, если постоянно драться с арахненами и кулкари, то их приходится заменять.&lt;BR&gt;&lt;BR&gt;Может быть, ты принесешь нам броню с трупов {@LinkCreature:23#13#Обжигающих клыкарей} с берегов Озера слез?&lt;BR&gt;&lt;BR&gt;Конечно, сначала придется превратить их в трупы...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">Ага, то что надо. Передай {@LinkCreature:63#3003#Элтиэнн}, что я тотчас же принимаюсь за работу.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Мы хотим попросить тебя отправиться к Озеру слез и принести пыли, что получается из {@LinkCreature:23#14#Затаившихся тералитов}.&lt;BR&gt;&lt;BR&gt;Из этой пыли, если смешать ее с водой и кое-какими секретными добавками, получается отличная прочная глина.&lt;BR&gt;&lt;BR&gt;Я делаю из нее множество вещей, от керамики до дробительных орудий. Я вообще довольно мастеровитая.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Иногда я думаю, а достойна ли Длань Велики твоей помощи?</Page>
+    </Text>
+</QuestDialog>

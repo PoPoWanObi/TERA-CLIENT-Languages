@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1056">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1056">
+        <Page social="5">Je suppose que vous avez déjà entendu parler de l'orbe du nécromancien, n'est-ce pas?&amp;nbsp; Oui... forcément. Eh bien, il m'en faut un fragment. Ne me demandez pas pourquoi;&amp;nbsp; j'en ai besoin, c'est tout. Mais si vous le trouvez, nous pourrions procéder à un échange.&lt;NEXTPAGEBUTTON&gt;"L'échanger contre quoi?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Eh bien, contre un fragment du bec de Kelsaik, rien de moins!&amp;nbsp; Et je le céderai contre deux petits fragments d'orbe du nécromancien. Une opportunité en or, non?&amp;nbsp; Alors n'hésitez pas à repasser si vous mettez la main sur ces fragments d'orbe, entendu?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1056">
+        <Page social="5">Je vois que vous avez les fragments d'orbe. Vous avez tenu parole, et je vais respecter ma part du marché. Voici ce que je vous avais promis. Vous pourrez toujours compter sur moi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1056">
+        <Page social="0">Pas de fragments d'orbe?&amp;nbsp; Pas de récompense.</Page>
+    </Text>
+</QuestDialog>

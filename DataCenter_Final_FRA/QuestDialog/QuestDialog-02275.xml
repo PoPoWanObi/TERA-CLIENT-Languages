@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Vous n'allez pas me croire&amp;nbsp;: {@LinkCreature:63#3002#Taratia} est partie se saouler au flambewhisky... en plein milieu de la journée!&amp;nbsp; Je lui ai passé un de ces savons!&amp;nbsp; Elle n'est bonne à rien dans cet état.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Allez donc lui donner cette outre d'eau, et voyez si vous pouvez la rendre suffisamment intelligible pour qu'elle vous confie une partie de ses tâches quotidiennes. On dirait qu'elle a une patate dans la bouche, mais vous en avez entendu d'autres, je parie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Vous!&amp;nbsp; Je vous aime... je vous ai jamais dit ça?&amp;nbsp; Mais non vraiment, je vous adoooore, &lt;PCNAME&gt;. Beaucoup, passionnément... hein?&amp;nbsp; Quoi?&amp;nbsp; Oh, elle?&amp;nbsp; Quelle bécasse!&amp;nbsp; Tu m'entends, Elthienne?&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Hein?&amp;nbsp; Vous voulez m'aider?&amp;nbsp; OK.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Vous avez vu {@LinkCreature:63#3002#Taratia} aujourd'hui?&amp;nbsp; Mais qu'est-ce qui lui prend, au juste?&amp;nbsp; Merci d'avoir pris le relais. Elle est tombée trois fois sur le chemin, ce matin. A son arrivée, elle avait perdu la moitié de ce que je lui avais demandé. Il doit y en avoir partout dans Velika.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">C'est difficile de mettre la main sur de l'essence stellaire, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je regrette que vous ayez à payer les pots cassés par Taratia.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Vous avez le minerai de normétal?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Beau travail. Vous avez du talent.&lt;BR&gt;Veuillez dire à {@LinkCreature:63#3002#Taratia} que ma reconnaissance sera sans limite.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Le minerai de normétal, c'est vrai!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il était censé faire partie de la livraison d'aujourd'hui.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">Je vous a-dooooo-re!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Ihr habt das Bankett des Blutes gestört, indem Ihr die Macht der Kleriker des Consosclans angewendet habt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Mir wurde gesagt, dass Ihr dabei geholfen habt, einen kleinen Vampirüberfall auf den Tempel abzuwehren. Der Zeitpunkt ist ... besorgniserregend.&lt;BR&gt;&lt;BR&gt;Das Sonnenfestival soll den Tempel verjüngen, damit die Sonne stark bleibt - doch die  Vampire können Balders Licht nicht ertragen. Wenn sie versuchen, die jährliche Reinigung des Tempels zu stören, könnte dies bedeuten, dass sie das Licht der Sonne schwächen wollen ... &lt;NEXTPAGEBUTTON&gt;"Wie kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nahad sagte mir, dass Ihr ohne große Schwierigkeiten Vampire aus dem Tempel vertrieben habt, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ihr könnt ihre Aktivitäten stören und dem Consosclan ermöglichen, unsere Rituale zu vollenden. &lt;NEXTPAGEBUTTON&gt;"Ihr könnt auf mich zählen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bitte sprecht mit Harun. Er ist unser Kampfkleriker und für die Vernichtung von Vampiren zuständig. &lt;NEXTPAGEBUTTON&gt;"Ich bin auf dem Weg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt;? Seid ganz leise. Vielen Dank fürs Kommen. Renmi sagte mir, dass Ihr helfen könnt.&lt;BR&gt;&lt;BR&gt;Wir müssen uns beeilen - das Bankett des Blutes der Vampire ist bereits im Gange. Seid Ihr bereit?&lt;NEXTPAGEBUTTON&gt;"Ich bin bereit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sehr gut. Möge Balder über uns beide wachen.&lt;BR&gt;&lt;BR&gt;Ich kann Euch vorübergehend Balders Gaben verleihen und Euch mit der Macht eines Kriegspriesters erfüllen, aber Ihr dürft diese Macht nur gegen Vampire anwenden. &lt;NEXTPAGEBUTTON&gt;"Ich verspreche es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich bewundere Eure Hingabe, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"Was nun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="3" villagerId="7002">
+        <Page social="4">Bitte hört aufmerksam zu. Ich werde Euch erklären, wie diese Geschenke funktionieren. &lt;NEXTPAGEBUTTON&gt;"Ich höre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Balder gewährt drei Effekte, die Schutz vor Vampiren bieten.&lt;BR&gt;&lt;BR&gt;"Furcht" bringt die Vampire zum Weglaufen.&lt;BR&gt;&lt;BR&gt;"Betäubung" macht die Vampire vorübergehend bewegungsunfähig.&lt;BR&gt;&lt;BR&gt;"Beben" lässt alle Vampire um Euch herum zu Boden fallen. &lt;NEXTPAGEBUTTON&gt;"Ich verstehe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Es gibt auch hochwirksame Geschenke, mit denen Ihr Vampire erledigen könnt.&lt;BR&gt;&lt;BR&gt;"Mutation" verwandelt einen Vampir in einen Eber, was ein Vorteil für Euch sein kann.&lt;BR&gt;&lt;BR&gt;"Licht" verbrennt alle Vampire um Euch herum mit Balders Licht. Dies könnte Eure effektivste Waffe gegen die Vampire sein.&lt;BR&gt;&lt;BR&gt;Zu guter Letzt, "Bestrafung" tötet umgehend einen Vampir. &lt;NEXTPAGEBUTTON&gt;Nicken.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Wenn Ihr erst einmal drinnen seid, müsst Ihr verhindern, dass die Vampire noch mehr Geister herbeirufen. Außerdem müssen wir irgendwie in den Zeremonienraum gelangen und ihren blutigen Altar zerstören.&lt;BR&gt;&lt;BR&gt;Es ist an der Zeit. Im Namen von Balder, wir müssen diesem Gräuel ein Ende setzen!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7002">
+        <Page social="4">Ihr habt heute eine hehre Tat vollbracht, &lt;PCNAME&gt;. Der Consosclan wird Euch noch über Generationen in Erinnerung behalten.&lt;BR&gt;&lt;BR&gt;Bitte nehmt dies als Zeichen unserer Wertschätzung und seid versichert, dass Ihr hier immer Freunde haben werdet.</Page>
+    </Text>
+</QuestDialog>

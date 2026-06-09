@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0">Adria hat weitere Informationen zu Elion, Lians älterem Bruder.&lt;BR&gt;&lt;BR&gt;Es haben ihn zwar einige Leute gesehen, aber die übereinstimmende Meinung ist, dass er auf der Suche nach etwas verschwunden ist.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Ich habe Informationen zu Elion erhalten, &lt;PCNAME&gt;. Der "Held der Föderation" ist mal wieder verschwunden.&lt;BR&gt;&lt;BR&gt;Sein Bruder Lian macht sich Sorgen und bittet um Eure Hilfe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1008">
+        <Page social="4">Mein Bruder Elion ist verschwunden. Wahrscheinlich jagt er einer vermeintlichen Bedrohung für die Föderation hinterher, aber wer weiß das schon.&lt;BR&gt;&lt;BR&gt;Vielleicht finden wir seine Motive heraus, wenn wir seine Schritte rekonstruieren, auch wenn uns das nicht seinen Aufenthaltsort verrät. Taras hat Elion als Letzter gesehen. Sprecht mit ihm und folgt seinen Hinweisen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1028">
+        <Page social="4">Elion ist schon wieder verschwunden? Aber jetzt, da Ihr es erwähnt, ich habe ihn vor ein paar Stunden gesehen. Er war auf dem Weg zum Südlichen Kontrollpunkt.&lt;BR&gt;&lt;BR&gt;Er sagte irgendetwas über Ghilliedhus, aber ich habe ihn nicht ganz verstanden. Es kann aber nicht schaden, ein paar davon zu erledigen, also kümmert Euch auf Eurem Weg dorthin darum, ja?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1147">
+        <Page social="4">Elion? Ja, den habe ich gen Süden gehen sehen. Ich fand es etwas merkwürdig, da das Lager derzeit verlassen ist, aber ich dachte mir, dass er schon seine Gründe haben wird. Aber das ist schon ein paar Stunden her.&lt;BR&gt;&lt;BR&gt;Er sah in letzter Zeit immer so ... verwirrt aus. Ehrlich gesagt denke ich, dass {@linkcreature:213#1008$$Lian} wahrscheinlich viel besser Bescheid weiß als ich, was da vor sich geht.&lt;NEXTPAGEBUTTON&gt; "Verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Die Einzeilheiten Eurer Interaktion stehen in diesem Bericht. Vielleicht kann {@linkcreature:213#1008$$Leander} darin mehr Bedeutung erkennen. Ihr solltet so schnell wie möglich zu ihm gehen.&lt;BR&gt;&lt;BR&gt;Und falls Euch Sporenwandler den Weg versperren, wisst Ihr, was zu tun ist.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1008">
+        <Page social="4">Hmm, Elion scheint nach irgendetwas zu suchen. Wie Ihr vielleicht schon gehört habt, tut er das von Zeit zu Zeit.&lt;BR&gt;&lt;BR&gt;Wenn es sich um eine offizielle Mission handelt, dann kann Euch Ratsmitglied {@linkcreature:64#1009$$Teel} sicherlich mehr über Elions Handeln verraten.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="64" prevId="6" villagerId="1009">
+        <Page social="4">Ja, ich weiß, wonach Elion suchte. Oder zumindest weiß ich, was er mir erzählt hat. Er glabut, dass es eine Verschwörung gegen die Insel der Dämmerung gibt.&lt;BR&gt;&lt;BR&gt;Ich bereite gerade einen Bericht darüber vor, aber wir werden mehr als nur sein Wort dafür brauchen, um Gehör zu finden.&lt;BR&gt;&lt;BR&gt;Ich kommandiere Euch hiermit dazu ab, die Sache zu untersuchen.</Page>
+    </Text>
+</QuestDialog>

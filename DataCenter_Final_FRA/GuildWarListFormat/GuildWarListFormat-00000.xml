@@ -1,0 +1,21 @@
+<GuildWarListFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/GuildWarListFormat GuildWarListFormat.xsd" xmlns="https://vezel.dev/novadrop/dc/GuildWarListFormat">
+    <Format id="1" name="play">
+        <Button tooltipId="0" uiId="4" />
+        <Button condition="traceButtonActive" tooltipId="0" uiId="5" />
+    </Format>
+    <Format id="2" name="standby" />
+    <Format id="3" name="declare_To">
+        <Button tooltipId="0" uiId="0" />
+    </Format>
+    <Format id="4" name="declare_From">
+        <Button tooltipId="0" uiId="1" />
+        <Button condition="canRaise" tooltipId="0" uiId="2" />
+        <Button tooltipId="0" uiId="3" />
+    </Format>
+    <Format id="5" name="raise_To" />
+    <Format id="6" name="raise_From">
+        <Button tooltipId="0" uiId="1" />
+        <Button condition="canRaise" tooltipId="0" uiId="2" />
+        <Button tooltipId="0" uiId="3" />
+    </Format>
+</GuildWarListFormat>

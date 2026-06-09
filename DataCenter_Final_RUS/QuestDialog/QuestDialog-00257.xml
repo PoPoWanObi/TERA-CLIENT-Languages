@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">Все жалуются на отсутствие припасов, но знаешь что? Это не единственная проблема. &lt;BR&gt;&lt;BR&gt;Они присылают сюда желторотых новичков, которые не знают, как держать меч. Ты же, &lt;PCNAME&gt;, не новичок?&lt;BR&gt;&lt;BR&gt;Потому что, клянусь титанами, {@LinkCreature:9#100#Смуглые саблезубы} уже разжирели на новичках. Убей парочку, чтобы у новобранцев появился шанс научиться сражаться и стать настоящими воинами.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">Прекрасная работа, &lt;PCNAME&gt;. Мы убили их достаточно, теперь саблезубы будут поджимать хвосты и убегать, завидев солдата.</Page>
+    </Text>
+</QuestDialog>

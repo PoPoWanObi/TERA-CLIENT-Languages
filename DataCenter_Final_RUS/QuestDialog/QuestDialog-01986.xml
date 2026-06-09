@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="4">Аргоны не унимаются. Нужно придумать способ для их сдерживания получше, чем отправлять людей на пушечное мясо.&lt;NEXTPAGEBUTTON&gt;"Я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Несомненно. Мой друг {@LinkCreature:248#3014#Дамиан} в Литейной цианопушек уже на пределе.&lt;BR&gt;&lt;BR&gt;Если ты сможешь помочь литейщикам, это облегчит жизнь всем нам.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Да, нам нужна помощь! Наши припасы на исходе, а когда вход запечатан, найти сырье непросто.&lt;NEXTPAGEBUTTON&gt;"Что я могу сделать?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">В округе очень много лома, и нашего, и чужого, и мы можем его забрать. Собери детали, разбросанные по Хановарским предместьям.&lt;BR&gt;&lt;BR&gt;Чем больше мы сможем переработать, тем меньше времени нам потребуется на изготовление оружия.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Аргонские компоненты - это основные компоненты для цианопушки. Хотелось бы мне их достать.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="10" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Нам нужны детали осадного орудия. Эти штуки наносят серьезный урон! Это как раз то, что нам надо.&lt;BR&gt;&lt;BR&gt;Желаю удачи.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="12" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Аргонские компоненты - это основные компоненты для цианопушки. Хотелось бы мне их достать.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="14" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Нам нужны детали осадного орудия. Эти штуки наносят серьезный урон! Это как раз то, что нам надо.&lt;BR&gt;&lt;BR&gt;Желаю удачи.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="16" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Аргонские компоненты - это основные компоненты для цианопушки. Хотелось бы мне их достать.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="18" villagerId="3014">
+        <Page social="4">Наконец-то! Своевременная помощь!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем пнуть аргонов по яйцам!&lt;BR&gt;&lt;BR&gt;А у аргонов вообще есть яйца?</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Нам нужны детали осадного орудия. Эти штуки наносят серьезный урон! Это как раз то, что нам надо.&lt;BR&gt;&lt;BR&gt;Желаю удачи.</Page>
+    </Text>
+</QuestDialog>

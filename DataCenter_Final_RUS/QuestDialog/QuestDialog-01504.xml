@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Хорошо, "герой Валькиона", посмотрим, что у нас есть.&lt;BR&gt;&lt;BR&gt;Сможешь принести мне голову Терсы, командира некромантов? Справишься?&lt;NEXTPAGEBUTTON&gt;"Покажи мне его".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Я пошутил, но мне нравится твой подход, &lt;PCCLASS:lcase&gt;. Лучше сходи в... &lt;BR&gt;&lt;BR&gt; Что? Не смотри на меня так!&lt;BR&gt;&lt;BR&gt;Отлично, давай поступим по-твоему. Отправляйся к Терсе. Раз мне прислали только одного солдата, то только одного я и смогу туда отправить.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">Это голова Терсы?&lt;BR&gt;&lt;BR&gt;Не могу поверить, что кому-то удалось обезглавить командира некромантов!&lt;BR&gt;&lt;BR&gt;Ладно, признаю. Ты - лучший &lt;PCCLASS:lcase&gt;, которого я когда-либо видел. Может, один &lt;PCNAME&gt; окажется лучше, чем целая фаланга лучших воинов Кайатора.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1044">
+        <Page social="0">Если у тебя не хватает смелости сразиться с Терсой, отправляйся в Кайатор. &lt;BR&gt;&lt;BR&gt; Стань ремесленником! Ничего слушать не хочу.</Page>
+    </Text>
+</QuestDialog>

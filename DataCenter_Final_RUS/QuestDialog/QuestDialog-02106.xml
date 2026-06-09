@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="0">Вы помогли Миллии в работе над "Руководством фермера".</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="4">Вольноземье славится своими фермерскими продуктами. Я уверена, что мое "Руководство фермера" будет замечательно продаваться, но у меня не хватает времени закончить его.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ты поможешь мне с этим? Я упомяну тебя в списке тех, кто внес свой вклад. Подумай над этим! Думаю, это может тебе понравиться!&lt;NEXTPAGEBUTTON&gt;"Сделай меня соавтором, и я в деле".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Идет. Вот то, что у меня уже есть. Попробуй заполнить недостающие части.&lt;BR&gt;&lt;BR&gt;Общая структура уже готова, так что на самом деле тебе осталось только найти кое-какие фрукты и овощи и зарисовать их на нужных страницах.&lt;BR&gt;&lt;BR&gt;Спасибо тебе большое!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7006">
+        <Page social="4">Как идут дела с "Руководством"? Посмотрим, как у тебя успехи...&lt;BR&gt;&lt;BR&gt;Он же закончен! Великолепно! Спасибо большое. &lt;PCNAME&gt;. Я прослежу, чтобы твое имя было на обложке.&lt;BR&gt;&lt;BR&gt;А пока прими вот это в знак моей благодарности. Тебе это очень пригодится.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7006">
+        <Page social="0">&lt;PCNAME&gt;, как успехи с "Руководством"?</Page>
+    </Text>
+</QuestDialog>

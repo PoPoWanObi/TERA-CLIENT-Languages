@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;Ihr habt den Soldaten, die Vorräte in den Verlorenen Wäldern wiederbeschafft haben, geholfen und weitere Informationen über die Pläne der Orkaner gesammelt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="4">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;&lt;PCNAME&gt;, ich muss zum Lager zurückkehren. Ihr werdet den Versorgungskarren auf der rechten Seite finden, wenn Ihr die Straße weiter entlang geht. Bitte sammelt die Vorräte, die dort verstreut liegen, und bringt sie zu Ketrath.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1026">
+        <Page social="4">Endlich ist jemand da! Aber ich fürchte, Ihr kommt zu spät.&lt;NEXTPAGEBUTTON&gt;"Was ist passiert?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Orkaner. Sie erbeuteten die Vorräte, die wir geborgen haben. Und meine Truppen haben sie besiegt. Mich haben sie hier dem Tode überlassen.&lt;BR&gt;&lt;BR&gt;Könnt Ihr sie aufspüren und meinen Kameraden zur Flucht verhelfen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" villagerId="1026">
+        <Page social="0">Die Zeit drängt. Bitte beeilt Euch.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="3" villagerId="1040">
+        <Page social="4">Habt Dank. Ich habe versucht, zu Ketrath zu gelangen, aber ich kam nicht durch.&lt;BR&gt;&lt;BR&gt;Ich konnte den Orkanern vor einiger Zeit entkommen ... Ich bin ihnen entschlüpft, als sie abgelenkt waren. Aber ich konnte sehen, wohin sie den Rest der Einheit gebracht haben ... und wollte Hilfe holen. Ihr scheint die Hilfe zu sein, die sie brauchen.&lt;BR&gt;&lt;BR&gt;Macht Euch um mich keine Sorgen. Da der Weg nun frei ist, werde ich es schaffen. Geht zum Lager der Orkaner und befreit meine Kameraden!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1041">
+        <Page social="4">Ihr seid hier, um uns zu befreien!&lt;BR&gt;&lt;BR&gt;Mir geht es gut ... Aber bitte helft meinem Freund Milio. Ich hörte ihn kürzlich schreien, daher weiß ich, dass er in der Nähe dieses Lagers gefangen gehalten wird.&lt;BR&gt;&lt;BR&gt;Ich kehre zum Lager der Versorgungseinheit zurück. Das schaffe ich allein.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1042">
+        <Page social="4">Esere lebt? Und Ketrath auch? Dann war es zumindest kein völliges Gemetzel ...&lt;BR&gt;&lt;BR&gt;Wo sind sie?&lt;NEXTPAGEBUTTON&gt;"Sie sind zum Lager zurückgekehrt."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich werde dort zu ihnen stoßen.&lt;BR&gt;&lt;BR&gt;Bevor ich gehe ... Ich habe Informationen, die für Euch nützlich sein könnten. Die Orkaner in den Verlorenen Wäldern haben eine Befehlskette. Sucht nach Gruppen, die rote Siegel tragen.&lt;BR&gt;&lt;BR&gt;Erledigt einige von diesen Orkanern, nehmt ihre Siegel an Euch und bringt sie zu Lapau ... falls er noch lebt. Keiner weiß mehr über die Orkaner. Wenn einer die Bedeutung der roten Siegel kennt, dann Lapau.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1009">
+        <Page social="4">Hallo! Was macht der Widerstand?&lt;BR&gt;&lt;BR&gt;Was habt Ihr da? Oh ... ein Siegel der Orkaner zum Brandmarken! Die Orkaner nutzen sie, um ihre Sklaven zu markieren.&lt;BR&gt;&lt;BR&gt;Hmm, das ist interessant. Diese hier sind magisch! Der Meister kann durch das Siegel Macht auf seinen Diener kanalisieren!&lt;NEXTPAGEBUTTON&gt;"Ihr solltet Euch verstecken."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Haha! Ihr seid witzig! Ich verstecke mich vor den Orkanern! Ich bin nur einfach besser darin als alle anderen!&lt;BR&gt;&lt;BR&gt;Oh, hallo! Ein Freund von Euch?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" villagerId="1009">
+        <Page social="0">Hier gibt es nichts, das für Euch von Interesse wäre!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="87" prevId="8" villagerId="1037">
+        <Page social="4">Gute Arbeit, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich habe nachgeforscht. Das war kein bloßer Kampf um Vorräte. Die Orkaner haben einen Anführer, der ihren Angriff auf Pora Elinu koordiniert hat.&lt;BR&gt;&lt;BR&gt;Die Taktiken der Orkaner sind nun einmal etwas plump.&lt;NEXTPAGEBUTTON&gt;"Aber leider sehr effektiv."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nun gut. Hört zu: Ich habe eine neue Aufgabe für Euch. Ich habe einen weiteren Späher tief in das von Orkanern kontrollierte Gebiet entsandt. Er sollte eine Schwachstelle finden, die wir nutzen können, um sie aus den Verlorenen Wäldern zu vertreiben.&lt;BR&gt;&lt;BR&gt;Sorgt erneut für Ablenkung. Wenn Euch das gelingt, habt Ihr Euch meinen Respekt verdient.&lt;BR&gt;&lt;BR&gt;Nehmt das. Betrachtet es als einen Preis dafür, dass Ihr vor mir hier wart.</Page>
+    </Text>
+</QuestDialog>

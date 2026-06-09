@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Rückrufbefehl] &lt;BR&gt;&lt;BR&gt;{@Rgn:63009} versorgt erfahrene Soldaten mit Schlachtrössern. Alle Soldaten, die diese Nachricht erhalten, sollen zum {@Rgn:63009} zurückkehren.&lt;BR&gt;&lt;BR&gt;Konsul {@LinkCreature:63#1160}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Willkommen zurück, &lt;PCNAME&gt;. Wir dachten, es sei nicht richtig, {@gender:einen erfahrenen Soldaten/eine erfahrene Soldatin} wie Euch weiter zu Fuß gehen zu lassen.&lt;BR&gt;&lt;BR&gt;Wer der Valkyon-Föderation dient, soll auch mit allem Nötigen versorgt werden. Das ist das Mindeste, was wir tun können. Wartet hier! Ich werde die nötigen Anweisungen geben, damit Ihr Euer eigenes Schlachtross beanspruchen könnt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1909">
+        <Page social="0">Seid Ihr &lt;PCNAME&gt;? {@Creature:63#1160} sprach von Euch. Ich habe hier im Stall ein Geschenk für Euch vorbereitet. Ihr habt die Wahl zwischen Braunfell, dem rotbraunen Wallach, Aschfell, dem gescheckten Arkadier oder Graufell, dem grauen Velikaner. Es sind alles gute Züchtungen und werden Euch treu dienen.</Page>
+    </Text>
+</QuestDialog>

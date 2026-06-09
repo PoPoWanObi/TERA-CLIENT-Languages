@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Velik, la divinité protectrice de Velika, a fait part de son désir de vous rencontrer. Au terme d'un bref entretien avec la prêtresse Ciebel, vous avez obtenu audience auprès de Velik. Cette dernière vous a averti de l'existence d'une menace occulte planant sur Velika et a fait appel à votre aide.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Rentrez à Velika immédiatement et allez présenter votre rapport au commandant Samael. Ceci est un ordre prioritaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">Ah, &lt;PCNAME&gt;!&amp;nbsp; Il semble que Velik souhaite vous récompenser en personne pour le travail que vous avez accompli ici.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#1167#Ciebel, prêtresse de Velik}, vous attend près de la statue de la déesse. Je vous suggère de ne pas la faire attendre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4">&lt;PCNAME&gt;, enfin. Quel genre de soldat êtes-vous?&amp;nbsp; Velik cherche des soldats pourvus d'autres qualités que la simple obéissance. La Fédération Valkyon a besoin de champions... aujourd'hui plus que jamais.&lt;BR&gt;&lt;BR&gt;Alors, votre devise, c'est plutôt "obéissance et dévotion" ou "débrouillardise et indépendance"?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Débrouillardise et dévotion."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Très bonne réponse!&amp;nbsp; Vous savez jouer avec les mots.&lt;BR&gt;&lt;BR&gt;Peu de gens en ont conscience pour le moment, mais notre monde va avoir besoin de soldats de votre trempe. Il se trouve en quelque sorte à la croisée des chemins. Le Rêve va-t-il tourner au cauchemar?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Son avenir se trouve entre vos mains et celles de vos pairs.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. J'ai été enchantée de faire votre connaissance.&lt;BR&gt;&lt;BR&gt;Velik va maintenant vous recevoir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="409" prevId="4" villagerId="1001">
+        <Page social="4">Nous nous rencontrons enfin, &lt;PCNAME&gt;. Votre incorporation est encore toute récente, mais vous êtes une recrue des plus prometteuses. Vous avez servi avec courage et honneur, mais au-delà de ça, vous l'avez fait avec compassion.&lt;BR&gt;&lt;BR&gt;J'ai besoin de soldats aussi méritants que vous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1167">
+        <Page social="4">Vous revoilà... imprégnez-vous des paroles de la déesse. Vous devez assurer la défense de la ville... et celle du Rêve.&lt;BR&gt;&lt;BR&gt;Maintenant, vous devez retourner auprès de Samael. Au revoir.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
+        <Page social="4">Avez-vous rencontré la déesse?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous devriez vous sentir {@gender:honoré/honorée}. Tout le monde n'a pas la chance de lui parler.&lt;BR&gt;&lt;BR&gt;Elle doit voir quelque chose de spécial en vous.&lt;BR&gt;&lt;BR&gt;Ha!&amp;nbsp; Je me demande bien quoi...</Page>
+    </Text>
+</QuestDialog>

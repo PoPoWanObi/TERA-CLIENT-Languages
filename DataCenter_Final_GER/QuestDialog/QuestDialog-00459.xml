@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="4">Jehan hat im Weideland &lt;b&gt;südlich&lt;/b&gt; von hier mit winzigen Sendern gespicktes Futter verteilt, und die Zotteligen Noruks haben sie wie geplant entweder zerstört oder aufgefressen.&lt;BR&gt;&lt;BR&gt;Normalerweise widerstrebt es mir, diesen edelmütigen Wächtern Leid anzutun, aber Jehan hat verlangt, dass seine &lt;font color='#660000'&gt;Magieleser&lt;/font&gt; eingesammelt und zurückgebracht werden. Könnt Ihr sie holen? Ich würde es ja selbst tun, aber ich habe mir den Knöchel verstaucht, und meine ... Eskorte weigert sich, mir zu helfen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Kamarnu hat seine Agenten weise gewählt. Diese Messgeräte sind entscheidend für das Verständnis der Kräfte, die auf die Wächter dieser Insel wirken.&lt;BR&gt;&lt;BR&gt;Nachdem Ihr Euer Talent durch die Beschaffung von Gegenständen für Forscher unter Beweis gestellt habt, werdet Ihr hier im Lager jederzeit Arbeit finden. Vielleicht bleibt Ihr besser in der Nähe. Es gibt noch weitere Aufgaben, die erledigt werden müssen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Kamarnu hat seine Befehle, aber irgendwie drückt er sich davor, sie auszuführen. Magieleser sind nur für kurze Zeit aktiv, und jeder {@LinkCreature:13#300920#Zottelige Noruk}, der frei herumstreunen kann, ohne überwacht zu werden, ist eine verpasste Forschungsgelegenheit.</Page>
+    </Text>
+</QuestDialog>

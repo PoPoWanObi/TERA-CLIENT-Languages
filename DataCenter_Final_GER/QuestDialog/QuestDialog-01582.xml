@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion hat Euch lebenswichtige Informationen wissen lassen: einen Weg zum Ebenholzturm, der Festung von Thulsa. Aber für Elions Weg war ein besonderer Schlüssel notwendig: ein Edelstein, der Killian, dem Gott des Chaos, gehört. Elion und Jelena haben Euch zum Labyrinth des Schreckens begleitet, Killians Zuhause. Elion konnte einen Magiestoß abfangen, der für Euch bestimmt war - vielleicht unter Aufopferung seines Lebens ...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, es scheint, wir werden wieder Seite an Seite kämpfen. Thulsa und Killian haben Kelsaik geweckt, aber Ihr habt verhindert, dass sie die völlige Kontrolle erlangten.&lt;BR&gt;&lt;BR&gt;Kelsaik muss nahe bei Thulsa sein ... was beunruhigend ist, aber uns auch eine Gelegenheit bietet. Jelena und ich wissen, wo Thulsa ist: im Tal der Spitzen in Lorcada.&lt;BR&gt;&lt;BR&gt;Unterhalten wir uns persönlich darüber. Ich treffe Euch bei der Schmiedewerkstatt.&lt;BR&gt;&lt;BR&gt;Seid gegrüßt, Elion</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5002">
+        <Page social="4">Lange nicht gesehen, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thulsa, Killian und jetzt auch noch Kelsaik. Wir üben offenbar eine Anziehungskraft auf mächtige Feinde aus, was?&lt;BR&gt;&lt;BR&gt;Schon mal von einer Festung namens Ebenholzturm gehört?&lt;BR&gt;&lt;BR&gt;Also, dort hält sich Thulsa auf ... und vielleicht auch Kelsaik. Aber Thulsa hat nur einem Besucher einen Schlüssel gegeben. Ratet mal, wem?&lt;NEXTPAGEBUTTON&gt;"Killian?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Stimmt genau! Wir brauchen den Edelstein von Killians Stab. Ohne ihn kommen wir nicht in den Ebenholzturm. Und es würde mir nicht leid tun, wenn wir den Edelstein Killians erstarrter Leiche abnehmen würden.&lt;BR&gt;&lt;BR&gt;Also, Killian zuerst. Er ist im Labyrinth des Schreckens.&lt;BR&gt;&lt;BR&gt;Sprecht aber mit Jelena, bevor wir aufbrechen. Sie hat etwas Besonderes für unseren Zielort gebraut.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1103">
+        <Page social="1">Beeindruckend, &lt;PCNAME&gt;, ich sehe, Ihr habt neue Ausrüstung - und auch ein paar neue Narben. Sehr schön, sie stehen Euch gut.&lt;BR&gt;&lt;BR&gt;Nehmt das hier. Es ist ein Trank der Willenskraft. Ich habe ihn zusammen mit dem Ingenieur Gaicus hergestellt; er hat noch mehr davon, falls er Euch später ausgeht.&lt;BR&gt;&lt;BR&gt;Das Labyrinth des Schreckens ist nicht nur ein Furcht erregender Name. Wenn Ihr da ohne den Trank hineingeht, verabschiedet sich Euer Gehirn durch beide Ohren!&lt;BR&gt;&lt;BR&gt;Also dann, auf zum Labyrinth. Ich wette zehn Goldmünzen, dass Elion bereits dort ist.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="252" prevId="4" villagerId="1105">
+        <Page social="1">Wir haben gerade das Siegel durchbrochen, Jelena ist als Erste reingegangen. Also los!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="476" prevId="5" villagerId="1019">
+        <Page social="1">Ich kann Elion nicht sterben lassen. Das bringe ich nicht übers Herz!&lt;BR&gt;&lt;BR&gt;Elion würde ganz bestimmt wollen, dass ich ihn zurücklasse und mit Euch komme, aber in seinem Zustand kann er nicht mit mir streiten. Ich fühle mich allerdings schrecklich dabei ...&lt;NEXTPAGEBUTTON&gt;"Schon gut. Ich habe das im Griff."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Das wusste ich, &lt;PCNAME&gt;. Ich warte in Habere, und ich will sämtliche Einzelheiten wissen. Also los, tötet endlich einen Gott!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="476" prevId="6" villagerId="1021">
+        <Page social="1">Ihr habt den Edelstein an Euch gebracht, der Euch Zutritt zum Ebenholzturm verschafft.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1103">
+        <Page social="1">Wenn Ihr am Leben seid, bedeutet das ... ja! Ja! Ja!&lt;BR&gt;&lt;BR&gt;Elion? Er lebt noch, aber sein Zustand ist kritisch. Aber er ist eben Elion, stimmt's? Das muss doch irgendwas wert sein.&lt;BR&gt;&lt;BR&gt;Elion und ich werden wohl eine Weile lang nicht einsatzfähig sein. Richtet Kelsaik schöne Grüße aus, ja?</Page>
+    </Text>
+</QuestDialog>

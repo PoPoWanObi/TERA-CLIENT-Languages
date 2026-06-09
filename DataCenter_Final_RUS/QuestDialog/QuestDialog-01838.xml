@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="0">Вы пролетели над Аркс-Умброй и атаковали Заставу парфианцев Альфа. После битвы вам открылась истина о порабощении парфианцев архидеванцами.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="4">Наконец-то! Пришло мое время! Я поведу дирижабль, а ты сможешь с него спрыгнуть.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Спрыгнуть?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Не беспокойся. Я полечу низко, ты почти не ударишься.&lt;BR&gt;&lt;BR&gt;Вперед! Мы доберемся до Золин даже ценой пары твоих синяков!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2136">
+        <Page social="4">Когда мы окажемся в самой гуще врагов, спрыгивай.&lt;BR&gt;&lt;BR&gt;И пусть Кайа дарует тебе победу!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2137">
+        <Page social="4">&lt;PCNAME&gt;, сюда, скорее!&lt;BR&gt;&lt;BR&gt;Он еще жив. И пытается что-то сказать!&lt;BR&gt;Род? Какой еще род? О! Родос! Он зовет Родоса!&lt;NEXTPAGEBUTTON&gt;"Я поговорю с ним".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2202">
+        <Page social="4">Разум... прояснился... Скажи Родосу...&lt;BR&gt;&lt;BR&gt;Мы не слуги архидеванцев. Мы рабы.&lt;NEXTPAGEBUTTON&gt;"Что это значит?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Их магия... подавила наш разум. Подчинила нас их воле.&lt;BR&gt;&lt;BR&gt;Попроси Родоса освободить нас... и отомстить за меня.&lt;NEXTPAGEBUTTON&gt;"Покойся с миром".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">Отличный бой, &lt;PCNAME&gt;. Тебе удалось пробиться!&lt;NEXTPAGEBUTTON&gt;"Меня просили передать тебе это".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Это кинжал Джитта!&lt;BR&gt;Откуда он у тебя? Где Джитт?</Page>
+    </Text>
+</QuestDialog>

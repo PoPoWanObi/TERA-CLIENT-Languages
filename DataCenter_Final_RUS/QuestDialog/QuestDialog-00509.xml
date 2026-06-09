@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="4">Мы изнемогаем от голода. Поставки должны были осуществляться раз в две недели, но все пошло не по плану.&lt;BR&gt;&lt;BR&gt;Слушай, может быть, у тебя есть линметаллическая руда? Без нее я не могу чинить оружие и доспехи. Заплачу выше рыночной стоимости!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="4">О, так мы сможем продержаться, пока не подвезут новый груз! Последняя партия так и не нашлась. Спасибо еще раз!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1007">
+        <Page social="0">Так и не удалось найти линметаллическую руду? Если дыра в поножах Кафнила станет еще больше, я с ума сойду!</Page>
+    </Text>
+</QuestDialog>

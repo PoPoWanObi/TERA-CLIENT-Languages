@@ -1,0 +1,44 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="80010" name="Erster Effekt - Stampfen VII" tooltip="Verursacht bei Monstern $value mehr Schaden." />
+    <String id="80020" name="Erster Effekt - Rau VII" tooltip="Kritische Treffer verursachen bei einem Angriff von hinten zusätzlich 1,52-fachen Schaden." />
+    <String id="80030" name="Erster Effekt - Zerstörerisch VII" tooltip="Erhöht die Stärke der kritischen Treffer bei Monstern, deren LP unter 50% liegen, um das 1,74-fache." />
+    <String id="80040" name="Erster Effekt - Wütend VII" tooltip="Verursacht beim Ziel $value zusätzlichen Schaden, wenn Eure LP unter 50% sinken." />
+    <String id="80050" name="Erster Effekt - Fokussiert VII" tooltip="Kritische Treffer verursachen 1,88-mal mehr Schaden bei wütenden Monstern." />
+    <String id="80060" name="Erster Effekt - Virulent VII" tooltip="Kritische Treffer fügen niedergeschlagenen Gegnern Schaden durch Gifteffekte zu." />
+    <String id="80070" name="Erster Effekt - Brutal VII" tooltip="Verursache bei niedergeschlagenen Gegnern $value mehr Schaden." />
+    <String id="80080" name="Erster Effekt - Grausam VII" tooltip="Erhöht die Stärke der kritischen Treffer um 0,48, wenn Ihr einen Gegner niederschlagt." />
+    <String id="80090" name="Erster Effekt - Eindringlich VII" tooltip="Erhöht die Kraft bei kritischen Treffern von hinten." />
+    <String id="80100" name="Erster Effekt - Wild VII" tooltip="Kritische Treffer verursachen bei einem Angriff von hinten 1,32-mal mehr Schaden." />
+    <String id="80110" name="Erster Effekt - List VII" tooltip="Erhöht die maximalen MP um $value." />
+    <String id="80120" name="Erster Effekt - Durchdringend VII" tooltip="Stellt 255 MP wieder her, wenn Ihr niedergeschlagen wurdet." />
+    <String id="80130" name="Erster Effekt - Funkelnd VII" tooltip="Kritische Treffer stellen bei einem Angriff von hinten 249 MP wieder her." />
+    <String id="80140" name="Erster Effekt - Flink VII" tooltip="Erhöht die Bewegungsgeschwindigkeit während des Kampfes um $value." />
+    <String id="80150" name="Erster Effekt - Brillant VII" tooltip="Stellt immer nach $tickInterval $value MP wieder her." />
+    <String id="80160" name="Erster Effekt - Schneidend VII" tooltip="Erhöht die Chance auf kritische Treffer um 3,3%." />
+    <String id="80170" name="Erster Effekt - Geifern VII" tooltip="Wenn Ihr einen Spieler angreift, werden 89 MP wiederhergestellt." />
+    <String id="80180" name="Erster Effekt - Bedrohlich VII" tooltip="Nach dem erfolgreichen einsetzen einer Fertigkeit, erhöht sich die Aggro von Monstern um $value." />
+    <String id="80190" name="Erster Effekt - Abgehärtet VII" tooltip="Verringert den Schaden von Monstern um $value." />
+    <String id="80200" name="Erster Effekt - Schützend VII" tooltip="Erhöht die Chance auf Resistenz gegen kritische Treffer um $value, wenn Eure LP unter 50% sinken." />
+    <String id="80210" name="Erster Effekt - Resolut VII" tooltip="Verringert den erlittenen Schaden um $value, wenn Eure LP unter 50% gesunken sind." />
+    <String id="80220" name="Erster Effekt - Souverän VII" tooltip="Verringert den erlittenen Schaden von wütenden Monstern um $value." />
+    <String id="80230" name="Erster Effekt - Empyrianisch VII" tooltip="Der Schild wird aktiviert, wenn Ihr von wütenden Monstern niedergeschlagen werdet." />
+    <String id="80240" name="Erster Effekt - Schutz VII" tooltip="Aktiviert den Schild wird mit einer Wahrscheinlichkeit von $prob, wenn Ihr niedergeschlagen werdet." />
+    <String id="80250" name="Erster Effekt - Inspirierend VII" tooltip="Erhöht die LP-Regeneration mit einer Wahrscheinlichkeit von $prob, wenn Ihr niedergeschlagen werdet." />
+    <String id="80260" name="Erster Effekt - Unaufhaltsam VII" tooltip="Erhöht die maximalen LP um $value." />
+    <String id="80270" name="Erster Effekt - Leichtfüßigkeit VII" tooltip="Erhöht die Bewegungsgeschwindigkeit um $value." />
+    <String id="80280" name="Erster Effekt - Vitalität VII" tooltip="Heilt immer nach $tickinterval $value LP." />
+    <String id="80290" name="Erster Effekt - Trauern VII" tooltip="Wenn Ihr von einem Spieler getroffen werdet, werden 117 MP wiederhergestellt." />
+    <String id="81001" name="Zweiter Effekt - Funkelnd VII" tooltip="Kritische Treffer stellen bei einem Angriff von hinten 60 MP wieder her." />
+    <String id="81002" name="Zweiter Effekt - List VII" tooltip="Erhöht die maximalen MP um $value." />
+    <String id="81003" name="Zweiter Effekt - Durchdringend VII" tooltip="Stellt 63 MP wieder her, wenn Ihr niedergeschlagen wurdet." />
+    <String id="81004" name="Zweiter Effekt - Geifern VII" tooltip="Wenn Ihr einen Spieler angreift, werden 21% der MP wiederhergestellt." />
+    <String id="81005" name="Zweiter Effekt - Brutal VII" tooltip="Verursache bei niedergeschlagenen Gegnern $value mehr Schaden." />
+    <String id="81006" name="Zweiter Effekt - Brillant VII" tooltip="Stellt immer nach $tickInterval $value MP wieder her." />
+    <String id="81007" name="Zweiter Effekt - Flink VII" tooltip="Erhöht die Bewegungsgeschwindigkeit während des Kampfes um $value." />
+    <String id="81008" name="Zweiter Effekt - Souverän VII" tooltip="Verringert den erlittenen Schaden von wütenden Monstern um $value." />
+    <String id="81009" name="Zweiter Effekt - Resolut VII" tooltip="Verringert den erlittenen Schaden um $value, wenn Eure LP unter 50% gesunken sind." />
+    <String id="81010" name="Zweiter Effekt - Trauern VII" tooltip="Wenn Ihr von einem Spieler getroffen werdet, werden sofort 28 MP wiederhergestellt." />
+    <String id="81011" name="Zweiter Effekt - Schützend VII" tooltip="Erhöht die Chance auf Resistenz gegen kritische Treffer um $value, wenn Eure LP unter 50% sinken." />
+    <String id="81012" name="Zweiter Effekt - Unaufhaltsam VII" tooltip="Erhöht die maximalen LP um $value." />
+    <String id="81013" name="Zweiter Effekt - Vitalität VII" tooltip="Heilt immer nach $tickinterval $value LP." />
+</StrSheet_Passivity>

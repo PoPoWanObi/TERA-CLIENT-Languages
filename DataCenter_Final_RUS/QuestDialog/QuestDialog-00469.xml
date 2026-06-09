@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="5">Панпи сшил себе перчатки из кожи саблезуба и пришел ими хвастаться.&lt;BR&gt;&lt;BR&gt;А на мои сапоги только фыркнул! Фыркнул! Задрал нос и сказал, что у меня от них только лапы будут вонять!&lt;BR&gt;&lt;BR&gt;Ох-х, даже не знаю... я должен ему отомстить!&lt;NEXTPAGEBUTTON&gt;"Да, конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&lt;PCNAME&gt;, помоги мне.&lt;BR&gt;&lt;BR&gt;Что может быть лучше кожи саблезуба? Что?&lt;BR&gt;&lt;BR&gt;О, придумал! Тебе приходилось видеть наручи {@LinkCreature:15#6#Пробужденных конструктов}? Они из кожи василиска. Нет ничего лучше, чем она.&lt;BR&gt;&lt;BR&gt;Если ты их убьешь, кожа ведь станет им не нужна, верно?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1017">
+        <Page social="5">Ах!&lt;BR&gt;&lt;BR&gt;Какая мягкая. Какая нежная! Теперь Панпи никак меня не обойти!&lt;BR&gt;&lt;BR&gt;Спасибо!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1017">
+        <Page social="0">Принеси же мне кожу! Я не могу позволить Панпи меня обойти!</Page>
+    </Text>
+</QuestDialog>

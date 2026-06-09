@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">Wie kann ich an den Krieg denken, wenn jeder meiner Gedanken Nashwa gilt?&lt;BR&gt;&lt;BR&gt;Ich würde mich kopfüber in die Schlacht stürzen, wenn ich damit ihr Interesse wecken könnte. Aber unser Mangel an Waffen lenkt sie so sehr ab, dass sie gar nichts anderes mehr bemerkt.&lt;BR&gt;&lt;BR&gt;Ich höre, Acarum bewaffnet Rekruten, indem sie Söldnerlager überfallen. Könntet Ihr das vielleicht für uns übernehmen?&lt;BR&gt;&lt;BR&gt;Wir können für eine solche Mission keine Soldaten erübrigen. Aber wenn Ihr auf die Lager stoßt, die {@LinkCreature:32#8#Pirschjägerzerstörer} sollten genügend Waffen für unsere Rekruten haben. Dann hätte Nashwa endlich wieder den Kopf frei für andere Dinge ... wie mich zum Beispiel!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">Das ist ja toll. Wenn ich die zu Nashwa bringe, bin ich ihr Held!&lt;BR&gt;&lt;BR&gt;Hier ist ein Zeichen meiner Wertschätzung. Kauft Euch etwas Nettes zum Anziehen für unsere Hochzeit!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">Die Söldnerlager in der Düsteren Tundra sind der beste Platz, um Waffen zu finden. Ihr müsst nur die {@LinkCreature:32#8#Pirschjägerzerstörer} töten.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">Für wie dumm hält der mich eigentlich? Khasib hat mir gerade einen Haufen Waffen übergeben, so als wären sie ein Blumenstrauß. Was hat er denn geglaubt, wie ich reagieren würde?&lt;BR&gt;&lt;BR&gt;Wir befinden uns mitten in einem Krieg, und da benimmt er sich wie ein Schuljunge. Ich war wohl nicht deutlich genug, das nächste Mal habe ich nicht mehr so viel Geduld mit ihm.</Page>
+    </Text>
+</QuestDialog>

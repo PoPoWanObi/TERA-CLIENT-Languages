@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="9">Ich soll hier für Neacal die Karawanenroute behalten, aber das bedeutet nicht, dass es hier nicht auch normale Arbeit zu tun gibt.&lt;BR&gt;&lt;BR&gt;Ledolus hat eine ganze Lieferung verloren, als die {@LinkCreature:3#300142#Devanerkrieger} sie überfallen haben. Sie haben sie wahrscheinlich noch bei sich. Seht zu, ob Ihr sie wiederbeschaffen könnt. Ihr würdet sein kleines castanisches Herz vor habsüchtiger Freude höher schlagen lassen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1013">
+        <Page social="8">Foledus wird mit Eurer Arbeit sehr zufrieden sein. Lauft zurück zum Bollwerklager und überbringt die guten Neuigkeiten.&lt;BR&gt;&lt;BR&gt;Und falls er etwas Bier übrig hat, bringt mir was davon.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1013">
+        <Page social="0">Knöpft Euch irgendeinen Devaner vor, und die Chancen stehen gut, dass er diese Beute bei sich hat.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1005">
+        <Page social="4">Donner und Verdammnis! Ich hätte nicht gedacht, dass ich die zurückbekomme! Danke! Diese verfluchten Devaner müssen immer alles ruinieren.&lt;BR&gt;&lt;BR&gt;Falls es mir gelingt, im Dorf einen Laden zu eröffnen, gewähre ich Euch den ersten Zuschlag auf die beste Ware - zum Vorzugspreis!</Page>
+    </Text>
+</QuestDialog>

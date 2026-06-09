@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4">Я живу сейчас лишь праведной местью. Гулы... уничтожили все, что у меня было.&lt;BR&gt;&lt;BR&gt;Друзей... сожрали. Семью... сожрали. Всю мою жизнь... сожрали.&lt;BR&gt;&lt;BR&gt;Но знай, &lt;PCNAME&gt;, вслед за мной в мир Грез отправится множество гулов.&lt;NEXTPAGEBUTTON&gt;"Я с тобой, Курак".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Я охочусь на гулов многие годы, но до сих пор не могу добраться до их главной крепости: Золотого Лабиринта.&lt;BR&gt;&lt;BR&gt;Телепорт в Катакомбах в Голодных пещерах должен вести туда, но почему-то он не срабатывает!&lt;BR&gt;&lt;BR&gt;Согласишься ли ты стать оружием справедливости, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Убьешь ли ты {@LinkCreature:472#4#Гулов-несущих смерть}, {@LinkCreature:472#24#Гулов-грабителей} и {@LinkCreature:472#11#Гулов-дикарей}, а также {@LinkCreature:472#207#Окаянных гулов}? Забери их сердца, как они однажды забрали сердца моей семьи.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6">Спасибо, &lt;PCNAME&gt;. Спасибо тебе за сердца.&lt;BR&gt;&lt;BR&gt;Если позволишь, то я пойду, а то я... проголодался.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Они падут на колени перед лицом нашей праведной мощи! Я уничтожу их так же, как они уничтожили меня!</Page>
+    </Text>
+</QuestDialog>

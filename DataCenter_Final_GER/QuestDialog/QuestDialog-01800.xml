@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Ihr seid ein außergewöhnlicher Soldat, &lt;PCNAME&gt;. Wir würden Euch gerne eine weitere Belohnung geben!&lt;BR&gt;&lt;BR&gt;Ihr könnt sie Euch bei {@linkcreature:63#9000} in Velika abholen. Danke für alles, was Ihr tut.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9000">
+        <Page social="0">Belohnung, Belohnung, Belohnung. Das ist alles, was ich von Euch höre.&lt;BR&gt;&lt;BR&gt;Was ist mit meiner Belohnung, häh? Wo ist die Anerkennung für die harte Arbeit, die ich leiste. Den ganzen Tag Gegenstände verteilen?&lt;BR&gt;&lt;BR&gt;Oh, gut. Zeigt mir Eure Föderationsscheine und ich werde nachsehen, was ich Euch anbieten kann.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0">Irgendetwas spricht zu mir. Ich höre immer eine Stimme, die sagt "Beschaffe Schattenfragmente" und "Lausche unseren Stimmen".&lt;BR&gt;&lt;BR&gt;Ihr denkt, ich bin verrückt? Nun, ich werde beweisen, dass ich es nicht bin! Tötet ein paar {@LinkCreature:33#6#Böse Geister} auf den Schwindelweiten und beschafft die Schattenfragmente. Dann werden wir ja sehen, wer hier verrückt ist!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1010">
+        <Page social="4">Gut, dann wollen wir mal sehen, ob das funktioniert. Ich stecke die in meine Ohren.&lt;BR&gt;&lt;BR&gt;Was wollt ihr, ihr verdammten Stimmen? Lasst nur hören!&lt;BR&gt;&lt;BR&gt;Es ist ... Oh, es sind die Stimmen der verschwundenen Soldaten!&lt;NEXTPAGEBUTTON&gt;"Kaiduns Soldaten?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ja! Meine Amanikameraden! Verflucht sei Thulsa! Verflucht sei dieser finstere Ort!&lt;BR&gt;&lt;BR&gt;Die Eldritchverteidiger auf der Empore der Angst waren wirklich die vermissten Soldaten und ... nein!&lt;BR&gt;&lt;BR&gt;Helehr ist immer noch dort oben und versucht uns zu warnen ... Dieser Ort ist von einem Fluch durchdrungen. Ach!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Ihr müsst Alssiyah diese Information überbringen!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1010">
+        <Page social="0">Ich bin mir nicht sicher, was ich mit den Schattenfragmenten tun soll. Sie in meine Ohren stecken?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="3" villagerId="1001">
+        <Page social="4">Helehr? Er war die ganze Zeit hier? Oh, finsterer Thulsa, verflucht seid Ihr, dass Ihr einen stolzen Krieger so entehrt habt!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Ihr müsst ihn finden. Der Fluch mag seine Gestalt verändert haben, aber er ist immer noch unser Kamerad. Helft ihm!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1012">
+        <Page social="0">Ihr habt meine Stimme gehört! Ich will nicht, dass mich jemand so sieht. Aber ich kann mich auch nicht ruhig hinlegen und sterben, wenn meine Soldatenkameraden in Gefahr schweben.</Page>
+    </Text>
+</QuestDialog>

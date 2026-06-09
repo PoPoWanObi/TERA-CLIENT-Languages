@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Mehrere Gelehrte stellten Veränderungen fest, die der Nexus bei Steinen bewirkt. Wenn wir den Wirkstoff ermitteln, können wir vielleicht eine Gegenmaßnahme entwickeln.&lt;BR&gt;&lt;BR&gt;Was wir brauchen ist: {@RAWITEM:45277$$}e. Nehmt Ihr diese Herausforderung an?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">Wir werden diese Proben sofort untersuchen. Da muss es eine Verbindung geben.&lt;BR&gt;&lt;BR&gt;Bitte seid Euch unserer Dankbarkeit gewiss.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">Die Fragmente liegen überall dort, wo sich vor Kurzem ein Nexus gebildet haben kann. Sucht Helkan und Val Kaeli ab.</Page>
+    </Text>
+</QuestDialog>

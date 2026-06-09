@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Большинство этих беженцев прибыло из Дивного леса и из селения на холме в Долине титанов. Но Федерация не особо-то и спешит помочь этим бедолагам. Полагаю, проблемы сейчас везде.&lt;BR&gt;&lt;BR&gt;Но мы, по крайней мере, должны обеспечить этих бедолаг пропитанием. А то некоторые из них уже пытаются сварить суп из древесной коры!&lt;NEXTPAGEBUTTON&gt;"Чем я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">В рационе беженцев должно быть мясо. Лучше всего, если тебе попадется {@LinkCreature:2#57#Длинноклыкий бородавочник} или {@LinkCreature:2#7#Бородавочник-лиходей}. Одной кабаньей туши, приготовленной на огне, хватит, чтобы накормить кучу народу!&lt;BR&gt;&lt;BR&gt;Есть только небольшая проблемка. Кабанов вряд ли назовешь... дружелюбными. Так что держи ухо востро!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1031">
+        <Page social="4">Этого хватит на несколько дней, &lt;PCNAME&gt;! Путь к счастью лежит через желудок, верно?&lt;BR&gt;&lt;BR&gt;Мы отложим для тебя порцию кабаньих ребрышек!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1031">
+        <Page social="0">Подумай о голодных ребятишках! Подумай о сочной, прожаренной кабанятинке! Просто добудь нам туши {@LinkCreature:2#57#Длинноклыких бородавочников} или {@LinkCreature:2#7#Бородавочников-лиходеев}!</Page>
+    </Text>
+</QuestDialog>

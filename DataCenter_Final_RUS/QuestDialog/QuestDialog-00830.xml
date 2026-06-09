@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="5">У нас и так хватало неприятностей, а тут еще разведчики сообщили, что заметили поблизости {@LinkCreature:29#4031#Валканов-лесных странников}.&lt;BR&gt;&lt;BR&gt;Валканы способны разнести здесь все в мгновение ока. Их нельзя оставлять в живых. Собери необходимые силы и расправься с угрозой.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1008">
+        <Page social="5">Валканы редко появляются сами по себе. Кто-то призвал их или выпустил на волю. Нужно сообщить Исобель. Я немедленно подготовлю отчет.&lt;BR&gt;&lt;BR&gt;И не волнуйся, &lt;PCNAME&gt;. Твои заслуги будут оценены по достоинству.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">Мне очень неловко просить тебя о такой услуге, особенно в это тяжелое время, но боюсь, без твоей помощи тут не обойтись. Мой пес, Оди, куда-то пропал. Ребятишки сказали, что он направился в сторону кладбища Берзерад. За себя я бы просить не стал. Но другие горожане тоже очень любят Оди.&lt;BR&gt;&lt;BR&gt;Вот, возьми эту сумку. В ней угощение, которое приготовил для меня Эседран. Дай его Оди, и он запрыгнет прямо в сумку. Ну что, поможешь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">Псина Коранна? Этот проклятый пес навлекает на себя больше неприятностей, чем подвыпивший вор.&lt;BR&gt;&lt;BR&gt;Что ж, раз уж мы о нем заговорили: недавно я видел, как он мчался к вершине холма. {@LinkCreature:203#1025#Оди} очень нравится носиться по кладбищу.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">(Лапы Оди запачканы грязью, а на земле виднеется множество свежевырытых ям. Он смотрит на вас с плохо скрываемой радостью и виляет хвостом.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;, я в большом долгу перед тобой. Благодарю тебя за спасение Оди. Не знаю, что бы я... э-э-э... весь город делал, если бы у нас не было такого героя.</Page>
+    </Text>
+</QuestDialog>

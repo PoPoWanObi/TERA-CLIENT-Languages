@@ -1,0 +1,1824 @@
+<StrSheet_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Item StrSheet_Item.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Item">
+    <String id="2001" string="Test_Akasha's Silence" />
+    <String id="2002" string="Test_Killian's Curse" />
+    <String id="2003" string="Test_Power of Undead" />
+    <String id="2004" string="Test_Kelsaik's Freezing" />
+    <String id="2005" string="Test_Kelsaik's Flame" />
+    <String id="2006" string="Test_Possessed" />
+    <String id="2007" string="Test_Bolten's Hammer" />
+    <String id="2008" string="Test_Lugribar's Contamination" />
+    <String id="2009" string="Test_Shargrim's Lightning" />
+    <String id="2010" string="Test_Mottled Vulcan's Wrath" />
+    <String id="2011" string="Test_Vampir's Bloodsucking" />
+    <String id="2012" string="Test_Outer Plane's Lightning" />
+    <String id="2013" string="Test_Root's Entangle" />
+    <String id="2014" string="Test_Sandstorm" />
+    <String id="2015" string="Test_Magical Armor" />
+    <String id="2016" string="Test_Assimilate with Nature" />
+    <String id="6314" string="Peau de bête brute" toolTip="Désactiver" />
+    <String id="6330" string="Tâche de sang du géant enragé" toolTip="Pas utilisé" />
+    <String id="6331" string="Pierre d'âme du héros oublié" toolTip="Pas utilisé" />
+    <String id="6334" string="Tissage du titan" toolTip="Pas utilisé" />
+    <String id="6337" string="Pierre de sagesse" toolTip="Pas utilisé" />
+    <String id="6340" string="Pierre de sagesse limpide" toolTip="Pas utilisé" />
+    <String id="6342" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6346" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6350" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6369" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6373" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6394" string="Braise du titan pure" toolTip="Pas utilisé" />
+    <String id="6395" string="Répit du titan pur" toolTip="Pas utilisé" />
+    <String id="6405" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6409" string="Pas utilisé" toolTip="Pas utilisé" />
+    <String id="6423" string="Pas utilisé" toolTip="Désactiver" />
+    <String id="6427" string="Pas utilisé" toolTip="Désactiver" />
+    <String id="6459" string="Morceau d'aile de Koleogg" toolTip="Non utilisé." />
+    <String id="6490" string="Fortifiant de santé 100%" toolTip="Inutilisé." />
+    <String id="6491" string="Ouvrage du dieu antique" toolTip="Inutilisé." />
+    <String id="6492" string="Talisman d'assaut fait main - Talisman du pouvoir supérieur" toolTip="inutilisé" />
+    <String id="6493" string="Talisman d'assaut fait main - Talisman de ferveur supérieure" toolTip="inutilisé" />
+    <String id="6494" string="Talisman d'assaut fait main - Talisman de vitesse supérieure" toolTip="inutilisé" />
+    <String id="6495" string="Talisman éthéré fait main - Talisman d'endurance supérieur" toolTip="inutilisé" />
+    <String id="6496" string="Talisman éthéré fait main - Talisman miroir supérieur" toolTip="inutilisé" />
+    <String id="6497" string="Talisman infusé fait main - Talisman de régénération des PM IV" toolTip="inutilisé" />
+    <String id="6506" string="Lame inartisanale de rang supérieur" toolTip="Désactiver" />
+    <String id="6507" string="Armure inartisanale de rang supérieure" toolTip="Désactiver" />
+    <String id="6512" string="Morceau inartisanal de broche ordinaire" toolTip="Désactiver" />
+    <String id="6513" string="Morceau inartisanal de broche supérieure" toolTip="Désactiver" />
+    <String id="6514" string="Fragment de bouclier" toolTip="Inutilisé" />
+    <String id="7001" string="Point de glyphe (2 points)" toolTip="Point de Test_glyph donnant des objets" />
+    <String id="7002" string="Point de glyphe (10 points)" toolTip="Point de Test_glyph donnant des objets" />
+    <String id="7003" string="Emblème d'élimination de la baisse de vitesse de déplacement, Frappe de tonnerre_A supprimer" toolTip="Glyphe d'élimination de la baisse de vitesse de déplacement, Frappe de Tonnerre" />
+    <String id="7004" string="Emblème d'Augmente la vitesse de charge, Frappe de tonnerre_A supprimer" toolTip="Glyphe d'augmentation de la vitesse de charge Frappe de onnerre" />
+    <String id="7005" string="Emblème de baisse de consommation de PV, surcharge de Frappe de tonnerre_A supprimer" toolTip="Glyphe de baisse de consommation de PV, surcharge de Frappe de tonnerre" />
+    <String id="7006" string="Emblème de bonus de surcharge d'attaque Cyclone_A supprimer" toolTip="Glyphe de bonus de surcharge d'attaque Cyclone" />
+    <String id="7007" string="Emblème de suppression de la baisse de consommation de PM_A supprimer" toolTip="Glyphe de réduction de la baisse de consommation de PM" />
+    <String id="7008" string="Emblème de Réduit la consommation de PV, Colère déchaînée_A supprimer" toolTip="Glyphe de réduction de la consommation de PV, Colère déchaînée" />
+    <String id="7009" string="Emblème d'augmentation de la quantité de régénération de PV des Soins sur soi_A supprimer" toolTip="Glyphe d'augmentation de la quantité de régénération de PV des Soins sur soi" />
+    <String id="7010" string="Emblème d'augmentation de la quantité de régénération de PM de l'Infusion de mana_A supprimer" toolTip="Glyphe d'augmentation de la quantité de régénération de PM de l'Infusion de mana" />
+    <String id="7011" string="Emblème de régénération de PV, Éclair de Shara_A supprimer" toolTip="Glyphe de régénération de PV, Éclair de Shara" />
+    <String id="7012" string="Emblème d'Augmente le taux de régénération de PM, Libération d'esprit_A supprimer" toolTip="Glyphe d'augmentation du taux de régénération de PM, Libération d'esprit" />
+    <String id="7013" string="Emblème d'Augmente le nombre de cibles verrouillées de la Volée de flèches_A supprimer" toolTip="Glyphe d'augmentation du nombre de cibles verrouillées de la Volée de flèches" />
+    <String id="7014" string="Emblème d'augmentation de la portée des flèches_A supprimer" toolTip="Glyphe d'augmentation de la portée des flèches" />
+    <String id="7015" string="Emblème d'Augmente la vitesse d'attaque de la Frappe verticale_A supprimer" toolTip="Glyphe d'augmentation de la vitesse d'attaque de la Frappe verticale" />
+    <String id="7016" string="Emblème de Réduit le temps de recharge de la Paralysie_A supprimer" toolTip="Glyphe de réduction de le temps de recharge de la Paralysie" />
+    <String id="7017" string="Glyphe de réduction de la consommation de PM de Mort feinte_A supprimer" toolTip="Glyphe de réduction de la consommation de PM de Mort feinte" />
+    <String id="7018" string="Emblème de suppression du temps de recharge de Déluge de coups_A supprimer" toolTip="Glyphe de suppression du temps de recharge de Déluge de coups" />
+    <String id="7019" string="Emblème de non consommation de PM pour Pluie de coups_A supprimer" toolTip="Glyphe de non consommation de PM pour Pluie de coups" />
+    <String id="7020" string="Emblème d'Augmente de puissance d'attaque de l'Attaque basique_A supprimer" toolTip="Glyphe d'Augmente de puissance d'attaque de l'Attaque basique" />
+    <String id="7021" string="Emblème d'augmentation des dégâts de la Lame empoisonnée_A supprimer" toolTip="Glyphe d'augmentation des dégâts de la Lame empoisonnée" />
+    <String id="7022" string="Emblème d'Augmente la durée de la Lame empoisonnée_A supprimer" toolTip="Glyphe d'augmentation de la durée de la Lame empoisonnée" />
+    <String id="7023" string="Emblème d'augmentation de la régénération de PM de l'Attaque basique_A supprimer" toolTip="Glyphe d'augmentation de la régénération de PM de l'Attaque basique" />
+    <String id="7024" string="Emblème d'augmentation du niveau de menace de Provoquer_A supprimer" toolTip="Glyphe d'augmentation du niveau de menace de Provoquer" />
+    <String id="7025" string="Emblème d'activation de la Colère du titan pendant un Coup de bouclier_A supprimer" toolTip="Glyphe d'activation du coup de bouclier de la Colère du titan" />
+    <String id="7026" string="Emblème ajoutant un effet étourdissant pendant une Charge_A supprimer" toolTip="Glyphe ajoutant un effet étourdissant pendant une Charge" />
+    <String id="7112" string="(A supprimer) Talisman" />
+    <String id="7113" string="(A supprimer) Talisman" />
+    <String id="7114" string="(A supprimer) Talisman" />
+    <String id="7115" string="(A supprimer) Talisman" />
+    <String id="7116" string="(A supprimer) Talisman" />
+    <String id="7403" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7420" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7447" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7458" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7479" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7573" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7582" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7591" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7654" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7671" string="Test de lien de pouvoir" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7689" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7706" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7707" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7712" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7721" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="7868" string="Test" toolTip="$H_W_GOOD1 000 points de glyphe$COLOR_END$BRAucun effet" />
+    <String id="8856" string="Rhombe final intact" />
+    <String id="8857" string="Gemme finale intacte" />
+    <String id="8858" string="Hexage final intact" />
+    <String id="8859" string="Pentant final intact" />
+    <String id="8860" string="Concaque final intact" />
+    <String id="8861" string="Pentant final intact" />
+    <String id="13017" string="Test_Greed &amp; Gluttony" />
+    <String id="13018" string="Test_Betsael's Horn" />
+    <String id="13019" string="Test_Sikandari Greatblade" />
+    <String id="13020" string="Test_Thulsan Dreadcleaver" />
+    <String id="13021" string="Test_Sikander's Eye" />
+    <String id="13022" string="Test_Betsael's Torment" />
+    <String id="13023" string="Test_Dreamreaver's Staff" />
+    <String id="13024" string="Test_Kezelran's Wand" />
+    <String id="13025" string="Test_ Divide &amp; Conquer" />
+    <String id="13026" string="Test_Sudden Upheaval" />
+    <String id="13027" string="Test_Crevasse Splayer" />
+    <String id="13028" string="Test_Gravelwright" />
+    <String id="13029" string="Test_Cycloidic Rise" />
+    <String id="13030" string="Test_Gap Traverser" />
+    <String id="13031" string="Test_Welkin Staff" />
+    <String id="13032" string="Test_Extremum Post" />
+    <String id="13033" string="Test_Truth &amp; Consequences" />
+    <String id="13034" string="Test_Bulwark of Longstanding" />
+    <String id="13035" string="Test_Sempiternal Blade" />
+    <String id="13036" string="Test_History Maker" />
+    <String id="13037" string="Test_Sidereal Dial" />
+    <String id="13038" string="Test_Erstwhile Messenger" />
+    <String id="13039" string="Test_Divine Continuum" />
+    <String id="13040" string="Test_Lustrum Scepter" />
+    <String id="13041" string="Test_Cursed Killian's Twin Swords" />
+    <String id="13042" string="Test_Cursed Killian's Lance" />
+    <String id="13043" string="Test_Cursed Killian's Greatsword" />
+    <String id="13044" string="Test_Cursed Killian's Axe" />
+    <String id="13045" string="Test_Cursed Killian's Disc" />
+    <String id="13046" string="Test_Cursed Killian's Bow" />
+    <String id="13047" string="Test_Cursed Killian's Staff" />
+    <String id="13048" string="Test_Cursed Killian's Scepter" />
+    <String id="13049" string="Test_Death &amp; Decay" />
+    <String id="13050" string="Test_Coldheart Lance" />
+    <String id="13051" string="Test_Soulreaver" />
+    <String id="13052" string="Test_Axe of Decimation" />
+    <String id="13053" string="Test_Lens From Beyond" />
+    <String id="13054" string="Test_Stillheart Bow" />
+    <String id="13055" string="Test_Gravemaster's Staff" />
+    <String id="13056" string="Test_Scepter of Unmaking" />
+    <String id="13057" string="Test_Avalanche &amp; Blizzard" />
+    <String id="13058" string="Test_Polar Vanguard" />
+    <String id="13059" string="Test_Deathrime Blade" />
+    <String id="13060" string="Test_Arcturian Axe" />
+    <String id="13061" string="Test_Focus of Cold Fury" />
+    <String id="13062" string="Test_Icebitter Bow" />
+    <String id="13063" string="Test_Icestorm Staff" />
+    <String id="13064" string="Test_Rod of Absolute Zero" />
+    <String id="13065" string="Test_Immolate &amp; Incinerate" />
+    <String id="13066" string="Test_Wildfire Bulwark" />
+    <String id="13067" string="Test_Greatsword of Conflagration" />
+    <String id="13068" string="Test_Sparkwave Axe" />
+    <String id="13069" string="Test_Lens of Fiery Visions" />
+    <String id="13070" string="Test_Flameseeker Bow" />
+    <String id="13071" string="Test_Staff of Purifying Flame" />
+    <String id="13072" string="Test_Charred Scepter" />
+    <String id="13073" string="Test_Dancing Jester Twin Swords" />
+    <String id="13074" string="Test_Dancing Jester Lance" />
+    <String id="13075" string="Test_Dancing Jester Greatsword" />
+    <String id="13076" string="Test_Dancing Jester Axe" />
+    <String id="13077" string="Test_Dancing Jester Disc" />
+    <String id="13078" string="Test_Dancing Jester Bow" />
+    <String id="13079" string="Test_Dancing Jester Staff" />
+    <String id="13080" string="Test_Dancing Jester Scepter" />
+    <String id="13081" string="Test_Raging Conjuror Twin Swords" />
+    <String id="13082" string="Test_Raging Conjuror Lance" />
+    <String id="13083" string="Test_Raging Conjuror Greatsword" />
+    <String id="13084" string="Test_Raging Conjuror Axe" />
+    <String id="13085" string="Test_Raging Conjuror Disc" />
+    <String id="13086" string="Test_Raging Conjuror Bow" />
+    <String id="13087" string="Test_Raging Conjuror Staff" />
+    <String id="13088" string="Test_Raging Conjuror Scepter" />
+    <String id="13089" string="Test_ Kelsaik's Ice Talon Twin Swords" />
+    <String id="13090" string="Test_ Kelsaik's Ice Talon Lance" />
+    <String id="13091" string="Test_ Kelsaik's Ice Talon Greatsword" />
+    <String id="13092" string="Test_ Kelsaik's Ice Talon Axe" />
+    <String id="13093" string="Test_ Kelsaik's Ice Talon Disc" />
+    <String id="13094" string="Test_ Kelsaik's Ice Talon Bow" />
+    <String id="13095" string="Test_ Kelsaik's Ice Talon Staff" />
+    <String id="13096" string="Test_ Kelsaik's Ice Talon Scepter" />
+    <String id="13097" string="Test_ Kelsaik's Fire Talon Twin Swords" />
+    <String id="13098" string="Test_ Kelsaik's Fire Talon Lance" />
+    <String id="13099" string="Test_ Kelsaik's Fire Talon Greatsword" />
+    <String id="13100" string="Test_ Kelsaik's Fire Talon Axe" />
+    <String id="13101" string="Test_ Kelsaik's Fire Talon Disc" />
+    <String id="13102" string="Test_ Kelsaik's Fire Talon Bow" />
+    <String id="13103" string="Test_ Kelsaik's Fire Talon Staff" />
+    <String id="13104" string="Test_ Kelsaik's Fire Talon Scepter" />
+    <String id="18429" string="Plastron de Garde sanglant de Jaruk" />
+    <String id="18430" string="Gantelets de Garde sanglant de Kaiator" />
+    <String id="18431" string="Grèves de Garde sanglant de Kaiator" />
+    <String id="18432" string="Pourpoint de coureur du désert" />
+    <String id="18433" string="Poignées de la haute garde" />
+    <String id="18434" string="Coureurs de la haute garde" />
+    <String id="18435" string="Armure en tissu de haut inquisiteur" />
+    <String id="18436" string="Manches de haut inquisiteur" />
+    <String id="18437" string="Chaussures de haut inquisiteur" />
+    <String id="21000" string="Option Test Twin Swords No Option" toolTip="Arme des abysses." />
+    <String id="21001" string="Option Test Lance No Option" toolTip="Arme des abysses." />
+    <String id="21002" string="Option Test Greatsword No Option" toolTip="Arme des abysses." />
+    <String id="21003" string="Option Test Axe No Option" toolTip="Arme des abysses." />
+    <String id="21004" string="Option Test Disc No Option" toolTip="Arme des abysses." />
+    <String id="21005" string="Option Test Bow No Option" toolTip="Arme des abysses." />
+    <String id="21006" string="Option Test Staff No Option" toolTip="Arme des abysses." />
+    <String id="21007" string="Option Test Scepter No Option" toolTip="Arme des abysses." />
+    <String id="21008" string="Option Test Hauberk No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21009" string="Option Test Gauntlets No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21010" string="Option Test Greaves No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21011" string="Option Test Cuirass No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21012" string="Option Test Gloves No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21013" string="Option Test Boots No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21014" string="Option Test Robe No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21015" string="Option Test Sleeves No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21016" string="Option Test Shoes No Option" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21017" string="Option Test Twin Swords Rear Damage" toolTip="Arme des abysses." />
+    <String id="21018" string="Option Test Lance Rear Damage" toolTip="Arme des abysses." />
+    <String id="21019" string="Option Test Greatsword Rear Damage" toolTip="Arme des abysses." />
+    <String id="21020" string="Option Test Axe Rear Damage" toolTip="Arme des abysses." />
+    <String id="21021" string="Option Test Disc Rear Damage" toolTip="Arme des abysses." />
+    <String id="21022" string="Option Test Bow Rear Damage" toolTip="Arme des abysses." />
+    <String id="21023" string="Option Test Staff Rear Damage" toolTip="Arme des abysses." />
+    <String id="21024" string="Option Test Scepter Rear Damage" toolTip="Arme des abysses." />
+    <String id="21025" string="Option Test Hauberk Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21026" string="Option Test Gauntlets Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21027" string="Option Test Greaves Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21028" string="Option Test Cuirass Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21029" string="Option Test Gloves Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21030" string="Option Test Boots Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21031" string="Option Test Robe Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21032" string="Option Test Sleeves Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21033" string="Option Test Shoes Rear Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21034" string="Option Test Twin Swords Damage" toolTip="Arme des abysses." />
+    <String id="21035" string="Option Test Lance Damage" toolTip="Arme des abysses." />
+    <String id="21036" string="Option Test Greatsword Damage" toolTip="Arme des abysses." />
+    <String id="21037" string="Option Test Axe Damage" toolTip="Arme des abysses." />
+    <String id="21038" string="Option Test Disc Damage" toolTip="Arme des abysses." />
+    <String id="21039" string="Option Test Bow Damage" toolTip="Arme des abysses." />
+    <String id="21040" string="Option Test Staff Damage" toolTip="Arme des abysses." />
+    <String id="21041" string="Option Test Scepter Damage" toolTip="Arme des abysses." />
+    <String id="21042" string="Option Test Hauberk Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21043" string="Option Test Gauntlets Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21044" string="Option Test Greaves Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21045" string="Option Test Cuirass Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21046" string="Option Test Gloves Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21047" string="Option Test Boots Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21048" string="Option Test Robe Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21049" string="Option Test Sleeves Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21050" string="Option Test Shoes Damage" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21051" string="Option Test Twin Swords Attack Speed" toolTip="Arme des abysses." />
+    <String id="21052" string="Option Test Lance Attack Speed" toolTip="Arme des abysses." />
+    <String id="21053" string="Option Test Greatsword Attack Speed" toolTip="Arme des abysses." />
+    <String id="21054" string="Option Test Axe Attack Speed" toolTip="Arme des abysses." />
+    <String id="21055" string="Option Test Disc Attack Speed" toolTip="Arme des abysses." />
+    <String id="21056" string="Option Test Bow Attack Speed" toolTip="Arme des abysses." />
+    <String id="21057" string="Option Test Staff Attack Speed" toolTip="Arme des abysses." />
+    <String id="21058" string="Option Test Scepter Attack Speed" toolTip="Arme des abysses." />
+    <String id="21059" string="Option Test Hauberk Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21060" string="Option Test Gantlets Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21061" string="Option Test Greaves Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21062" string="Option Test Cuirass Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21063" string="Option Test Gloves Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21064" string="Option Test Boots Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21065" string="Option Test Robe Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21066" string="Option Test Sleeves Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21067" string="Option Test Shoes Attack Speed" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21068" string="Option Test Twin Swords Crit Rate" toolTip="Arme des abysses." />
+    <String id="21069" string="Option Test Lance Crit Rate" toolTip="Arme des abysses." />
+    <String id="21070" string="Option Test Greatsword Crit Rate" toolTip="Arme des abysses." />
+    <String id="21071" string="Option Test Axe Crit Rate" toolTip="Arme des abysses." />
+    <String id="21072" string="Option Test Disc Crit Rate" toolTip="Arme des abysses." />
+    <String id="21073" string="Option Test Bow Crit Rate" toolTip="Arme des abysses." />
+    <String id="21074" string="Option Test Staff Crit Rate" toolTip="Arme des abysses." />
+    <String id="21075" string="Option Test Scepter Crit Rate" toolTip="Arme des abysses." />
+    <String id="21076" string="Option Test Hauberk Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21077" string="Option Test Gauntlets Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21078" string="Option Test Greaves Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21079" string="Option Test Cuirass Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21080" string="Option Test Gloves Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21081" string="Option Test Boots Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21082" string="Option Test Robe Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21083" string="Option Test Sleeves Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21084" string="Option Test Shoes Crit Rate" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21085" string="Option Test Twin Swords Crit Power" toolTip="Arme des abysses." />
+    <String id="21086" string="Option Test Lance Crit Power" toolTip="Arme des abysses." />
+    <String id="21087" string="Option Test Greatsword Crit Power" toolTip="Arme des abysses." />
+    <String id="21088" string="Option Test Axe Crit Power" toolTip="Arme des abysses." />
+    <String id="21089" string="Option Test Disc Crit Power" toolTip="Arme des abysses." />
+    <String id="21090" string="Option Test Bow Crit Power" toolTip="Arme des abysses." />
+    <String id="21091" string="Option Test Staff Crit Power" toolTip="Arme des abysses." />
+    <String id="21092" string="Option Test Scepter Crit Power" toolTip="Arme des abysses." />
+    <String id="21093" string="Option Test Hauberk Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21094" string="Option Test Gauntlets Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21095" string="Option Test Greaves Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21096" string="Option Test Cuirass Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21097" string="Option Test Gloves Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21098" string="Option Test Boots Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21099" string="Option Test Robe Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21100" string="Option Test Sleeves Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21101" string="Option Test Shoes Crit Power" toolTip="Une pièce d'armure tombée des tentacules de Meldita. Elle est meilleure que son apparence ne laisse penser, mais ne fournit pas une protection efficace contre les membres de la Fédération." />
+    <String id="21170" string="Option Test Necklace No Option" />
+    <String id="21171" string="Option Test Necklace Rear Damage" />
+    <String id="21172" string="Option Test Necklace Damage" />
+    <String id="21173" string="Option Test Necklace Attack Speed" />
+    <String id="21174" string="Option Test Necklace Crit Rate" />
+    <String id="21175" string="Option Test Necklace Crit Power" />
+    <String id="21176" string="Option Test Earring No Option" />
+    <String id="21177" string="Option Test Ring No Option" />
+    <String id="21178" string="Option Test Earring Rear Damage" />
+    <String id="21179" string="Option Test Ring Rear Damage" />
+    <String id="21180" string="Option Test Earring Damage" />
+    <String id="21181" string="Option Test Ring Damage" />
+    <String id="21182" string="Option Test Earring Attack Speed" />
+    <String id="21183" string="Option Test Ring Attack Speed" />
+    <String id="21184" string="Option Test Earring Crit Rate" />
+    <String id="21185" string="Option Test Ring Crit Rate" />
+    <String id="21186" string="Option Test Earring Crit Power" />
+    <String id="21187" string="Option Test Ring Crit Power" />
+    <String id="28198" string="Recette: Parchemin cinglant de célérité VII" toolTip="Désactiver" />
+    <String id="28200" string="Recette: Talisman d'assaut fait main - Talisman de pouvoir supérieur" toolTip="Désactiver" />
+    <String id="28201" string="Recette: Talisman d'assaut fait main - Talisman de ferveur supérieure" toolTip="Désactiver" />
+    <String id="28202" string="Recette: Talisman d'assaut fait main - Talisman de vitesse supérieure" toolTip="Désactiver" />
+    <String id="28203" string="Recette: Talisman éthéré fait main - Talisman d'endurance supérieur" toolTip="Désactiver" />
+    <String id="28204" string="Recette: Talisman éthéré fait main - Talisman miroir supérieur" toolTip="Désactiver" />
+    <String id="28205" string="Recette: Talisman éthéré fait main - Talisman de régénération des PM IV" toolTip="Désactiver" />
+    <String id="28284" string="Patron: Lame faite-main de rang supérieur" toolTip="Désactiver" />
+    <String id="28285" string="Patron: Armure faite-main de rang supérieur" toolTip="Désactiver" />
+    <String id="28286" string="Patron: Composant de broche ordinaire" toolTip="Désactiver" />
+    <String id="28287" string="Patron: Composant de broche supérieure" toolTip="Désactiver" />
+    <String id="28289" string="Patron: Broche robuste ordinaire de la déesse (fabrication d'arme)" toolTip="Inutilisé" />
+    <String id="28291" string="Patron: Broche féroce ordinaire de la déesse (fabrication d'arme)" toolTip="Non utilisé" />
+    <String id="28293" string="Patron: Broche extravagante ordinaire de la Déesse (fabrication d'arme)" toolTip="Non utilisé" />
+    <String id="28295" string="Patron: Broche robuste ordinaire de la déesse (fabrication d'armure)" toolTip="Non utilisé" />
+    <String id="28297" string="Patron: Broche féroce ordinaire de la déesse (fabrication d'armure)" toolTip="Non utilisé" />
+    <String id="28299" string="Patron: Broche extravagante ordinaire de la déesse (fabrication d'armure)" toolTip="Non utilisé" />
+    <String id="30001" string="TestWeapon_Twin Swords_Performance lvl1" />
+    <String id="30002" string="TestWeapon_Lance_Performance lvl1" />
+    <String id="30003" string="TestWeapon_Greatsword_Performance lvl1" />
+    <String id="30004" string="TestWeapon_Axe_Performance lvl1" />
+    <String id="30005" string="TestWeapon_Disc_Performance lvl1" />
+    <String id="30006" string="TestWeapon_Bow_Performance lvl1" />
+    <String id="30007" string="TestWeapon_Staff_Performance lvl1" />
+    <String id="30008" string="TestWeapon_Scepter_Performance lvl1" />
+    <String id="30009" string="TestArmor_Heavy Armor_Body Armor_Performance lvl1" />
+    <String id="30010" string="TestArmor_Heavy Armor_Gloves_Performance lvl1" />
+    <String id="30011" string="TestArmor_Heavy Armor_Shoes_Performance lvl1" />
+    <String id="30012" string="TestArmor_Light Armor_Body Armor_Performance lvl1" />
+    <String id="30013" string="TestArmor_Light Armor_Gloves_Performance lvl1" />
+    <String id="30014" string="TestArmor_Light Armor_Shoes_Performance lvl1" />
+    <String id="30015" string="TestArmor_Robe_Body Armor_Performance lvl1" />
+    <String id="30016" string="TestArmor_Robe_Gloves_Performance lvl1" />
+    <String id="30017" string="TestArmor_Robe_Shoes_Performance lvl1" />
+    <String id="30018" string="TestWeapon_Twin Swords_Performance lvl2" />
+    <String id="30019" string="TestWeapon_Lance_Performance lvl2" />
+    <String id="30020" string="TestWeapon_Greatsword_Performance lvl2" />
+    <String id="30021" string="TestWeapon_Axe_Performance lvl2" />
+    <String id="30022" string="TestWeapon_Disc_Performance lvl2" />
+    <String id="30023" string="TestWeapon_Bow_Performance lvl2" />
+    <String id="30024" string="TestWeapon_Staff_Performance lvl2" />
+    <String id="30025" string="TestWeapon_Scepter_Performance lvl2" />
+    <String id="30026" string="TestArmor_Heavy Armor_Body Armor_Performance lvl2" />
+    <String id="30027" string="TestArmor_Heavy Armor_Gloves_Performance lvl2" />
+    <String id="30028" string="TestArmor_Heavy Armor_Shoes_Performance lvl2" />
+    <String id="30029" string="TestArmor_Light Armor_Body Armor_Performance lvl2" />
+    <String id="30030" string="TestArmor_Light Armor_Gloves_Performance lvl2" />
+    <String id="30031" string="TestArmor_Light Armor_Shoes_Performance lvl2" />
+    <String id="30032" string="TestArmor_Robe_Body Armor_Performance lvl2" />
+    <String id="30033" string="TestArmor_Robe_Gloves_Performance lvl2" />
+    <String id="30034" string="TestArmor_Robe_Shoes_Performance lvl2" />
+    <String id="30035" string="TestWeapon_Twin Swords_Performance lvl3" />
+    <String id="30036" string="TestWeapon_Lance_Performance lvl3" />
+    <String id="30037" string="TestWeapon_Greatsword_Performance lvl3" />
+    <String id="30038" string="TestWeapon_Axe_Performance lvl3" />
+    <String id="30039" string="TestWeapon_Disc_Performance lvl3" />
+    <String id="30040" string="TestWeapon_Bow_Performance lvl3" />
+    <String id="30041" string="TestWeapon_Staff_Performance lvl3" />
+    <String id="30042" string="TestWeapon_Scepter_Performance lvl3" />
+    <String id="30043" string="TestArmor_Heavy Armor_Body Armor_Performance lvl3" />
+    <String id="30044" string="TestArmor_Heavy Armor_Gloves_Performance lvl3" />
+    <String id="30045" string="TestArmor_Heavy Armor_Shoes_Performance lvl3" />
+    <String id="30046" string="TestArmor_Light Armor_Body Armor_Performance lvl3" />
+    <String id="30047" string="TestArmor_Light Armor_Gloves_Performance lvl3" />
+    <String id="30048" string="TestArmor_Light Armor_Shoes_Performance lvl3" />
+    <String id="30049" string="TestArmor_Robe_Body Armor_Performance lvl3" />
+    <String id="30050" string="TestArmor_Robe_Gloves_Performance lvl3" />
+    <String id="30051" string="TestArmor_Robe_Shoes_Performance lvl3" />
+    <String id="30052" string="TestWeapon_Twin Swords_Performance lvl4" />
+    <String id="30053" string="TestWeapon_Lance_Performance lvl4" />
+    <String id="30054" string="TestWeapon_Greatsword_Performance lvl4" />
+    <String id="30055" string="TestWeapon_Axe_Performance lvl4" />
+    <String id="30056" string="TestWeapon_Disc_Performance lvl4" />
+    <String id="30057" string="TestWeapon_Bow_Performance lvl4" />
+    <String id="30058" string="TestWeapon_Staff_Performance lvl4" />
+    <String id="30059" string="TestWeapon_Scepter_Performance lvl4" />
+    <String id="30060" string="TestArmor_Heavy Armor_Body Armor_Performance lvl4" />
+    <String id="30061" string="TestArmor_Heavy Armor_Gloves_Performance lvl4" />
+    <String id="30062" string="TestArmor_Heavy Armor_Shoes_Performance lvl4" />
+    <String id="30063" string="TestArmor_Light Armor_Body Armor_Performance lvl4" />
+    <String id="30064" string="TestArmor_Light Armor_Gloves_Performance lvl4" />
+    <String id="30065" string="TestArmor_Light Armor_Shoes_Performance lvl4" />
+    <String id="30066" string="TestArmor_Robe_Body Armor_Performance lvl4" />
+    <String id="30067" string="TestArmor_Robe_Gloves_Performance lvl4" />
+    <String id="30068" string="TestArmor_Robe_Shoes_Performance lvl4" />
+    <String id="30069" string="TestWeapon_Twin Swords_Performance lvl5" />
+    <String id="30070" string="TestWeapon_Lance_Performance lvl5" />
+    <String id="30071" string="TestWeapon_Greatsword_Performance lvl5" />
+    <String id="30072" string="TestWeapon_Axe_Performance lvl5" />
+    <String id="30073" string="TestWeapon_Disc_Performance lvl5" />
+    <String id="30074" string="TestWeapon_Bow_Performance lvl5" />
+    <String id="30075" string="TestWeapon_Staff_Performance lvl5" />
+    <String id="30076" string="TestWeapon_Scepter_Performance lvl5" />
+    <String id="30077" string="TestArmor_Heavy Armor_Body Armor_Performance lvl5" />
+    <String id="30078" string="TestArmor_Heavy Armor_Gloves_Performance lvl5" />
+    <String id="30079" string="TestArmor_Heavy Armor_Shoes_Performance lvl5" />
+    <String id="30080" string="TestArmor_Light Armor_Body Armor_Performance lvl5" />
+    <String id="30081" string="TestArmor_Light Armor_Gloves_Performance lvl5" />
+    <String id="30082" string="TestArmor_Light Armor_Shoes_Performance lvl5" />
+    <String id="30083" string="TestArmor_Robe_Body Armor_Performance lvl5" />
+    <String id="30084" string="TestArmor_Robe_Gloves_Performance lvl5" />
+    <String id="30085" string="TestArmor_Robe_Shoes_Performance lvl5" />
+    <String id="30086" string="TestWeapon_Twin Swords_Performance lvl6" />
+    <String id="30087" string="TestWeapon_Lance_Performance lvl6" />
+    <String id="30088" string="TestWeapon_Greatsword_Performance lvl6" />
+    <String id="30089" string="TestWeapon_Axe_Performance lvl6" />
+    <String id="30090" string="TestWeapon_Disc_Performance lvl6" />
+    <String id="30091" string="TestWeapon_Bow_Performance lvl6" />
+    <String id="30092" string="TestWeapon_Staff_Performance lvl6" />
+    <String id="30093" string="TestWeapon_Scepter_Performance lvl6" />
+    <String id="30094" string="TestArmor_Heavy Armor_Body Armor_Performance lvl6" />
+    <String id="30095" string="TestArmor_Heavy Armor_Gloves_Performance lvl6" />
+    <String id="30096" string="TestArmor_Heavy Armor_Shoes_Performance lvl6" />
+    <String id="30097" string="TestArmor_Light Armor_Body Armor_Performance lvl6" />
+    <String id="30098" string="TestArmor_Light Armor_Gloves_Performance lvl6" />
+    <String id="30099" string="TestArmor_Light Armor_Shoes_Performance lvl6" />
+    <String id="30100" string="TestArmor_Robe_Body Armor_Performance lvl6" />
+    <String id="30101" string="TestArmor_Robe_Gloves_Performance lvl6" />
+    <String id="30102" string="TestArmor_Robe_Shoes_Performance lvl6" />
+    <String id="30103" string="TestWeapon_Twin Swords_Performance lvl7" />
+    <String id="30104" string="TestWeapon_Lance_Performance lvl7" />
+    <String id="30105" string="TestWeapon_Greatsword_Performance lvl7" />
+    <String id="30106" string="TestWeapon_Axe_Performance lvl7" />
+    <String id="30107" string="TestWeapon_Disc_Performance lvl7" />
+    <String id="30108" string="TestWeapon_Bow_Performance lvl7" />
+    <String id="30109" string="TestWeapon_Staff_Performance lvl7" />
+    <String id="30110" string="TestWeapon_Scepter_Performance lvl7" />
+    <String id="30111" string="TestArmor_Heavy Armor_Body Armor_Performance lvl7" />
+    <String id="30112" string="TestArmor_Heavy Armor_Gloves_Performance lvl7" />
+    <String id="30113" string="TestArmor_Heavy Armor_Shoes_Performance lvl7" />
+    <String id="30114" string="TestArmor_Light Armor_Body Armor_Performance lvl7" />
+    <String id="30115" string="TestArmor_Light Armor_Gloves_Performance lvl7" />
+    <String id="30116" string="TestArmor_Light Armor_Shoes_Performance lvl7" />
+    <String id="30117" string="TestArmor_Robe_Body Armor_Performance lvl7" />
+    <String id="30118" string="TestArmor_Robe_Gloves_Performance lvl7" />
+    <String id="30119" string="TestArmor_Robe_Shoes_Performance lvl7" />
+    <String id="30120" string="TestWeapon_Twin Swords_Performance lvl8" />
+    <String id="30121" string="TestWeapon_Lance_Performance lvl8" />
+    <String id="30122" string="TestWeapon_Greatsword_Performance lvl8" />
+    <String id="30123" string="TestWeapon_Axe_Performance lvl8" />
+    <String id="30124" string="TestWeapon_Disc_Performance lvl8" />
+    <String id="30125" string="TestWeapon_Bow_Performance lvl8" />
+    <String id="30126" string="TestWeapon_Staff_Performance lvl8" />
+    <String id="30127" string="TestWeapon_Scepter_Performance lvl8" />
+    <String id="30128" string="TestArmor_Heavy Armor_Body Armor_Performance lvl8" />
+    <String id="30129" string="TestArmor_Heavy Armor_Gloves_Performance lvl8" />
+    <String id="30130" string="TestArmor_Heavy Armor_Shoes_Performance lvl8" />
+    <String id="30131" string="TestArmor_Light Armor_Body Armor_Performance lvl8" />
+    <String id="30132" string="TestArmor_Light Armor_Gloves_Performance lvl8" />
+    <String id="30133" string="TestArmor_Light Armor_Shoes_Performance lvl8" />
+    <String id="30134" string="TestArmor_Robe_Body Armor_Performance lvl8" />
+    <String id="30135" string="TestArmor_Robe_Gloves_Performance lvl8" />
+    <String id="30136" string="TestArmor_Robe_Shoes_Performance lvl8" />
+    <String id="30137" string="TestWeapon_Twin Swords_Performance lvl9" />
+    <String id="30138" string="TestWeapon_Lance_Performance lvl9" />
+    <String id="30139" string="TestWeapon_Greatsword_Performance lvl9" />
+    <String id="30140" string="TestWeapon_Axe_Performance lvl9" />
+    <String id="30141" string="TestWeapon_Disc_Performance lvl9" />
+    <String id="30142" string="TestWeapon_Bow_Performance lvl9" />
+    <String id="30143" string="TestWeapon_Staff_Performance lvl9" />
+    <String id="30144" string="TestWeapon_Scepter_Performance lvl9" />
+    <String id="30145" string="TestArmor_Heavy Armor_Body Armor_Performance lvl9" />
+    <String id="30146" string="TestArmor_Heavy Armor_Gloves_Performance lvl9" />
+    <String id="30147" string="TestArmor_Heavy Armor_Shoes_Performance lvl9" />
+    <String id="30148" string="TestArmor_Light Armor_Body Armor_Performance lvl9" />
+    <String id="30149" string="TestArmor_Light Armor_Gloves_Performance lvl9" />
+    <String id="30150" string="TestArmor_Light Armor_Shoes_Performance lvl9" />
+    <String id="30151" string="TestArmor_Robe_Body Armor_Performance lvl9" />
+    <String id="30152" string="TestArmor_Robe_Gloves_Performance lvl9" />
+    <String id="30153" string="TestArmor_Robe_Shoes_Performance lvl9" />
+    <String id="30154" string="TestWeapon_Twin Swords_Performance lvl10" />
+    <String id="30155" string="TestWeapon_Lance_Performance lvl10" />
+    <String id="30156" string="TestWeapon_Greatsword_Performance lvl10" />
+    <String id="30157" string="TestWeapon_Axe_Performance lvl10" />
+    <String id="30158" string="TestWeapon_Disc_Performance lvl10" />
+    <String id="30159" string="TestWeapon_Bow_Performance lvl10" />
+    <String id="30160" string="TestWeapon_Staff_Performance lvl10" />
+    <String id="30161" string="TestWeapon_Scepter_Performance lvl10" />
+    <String id="30162" string="TestArmor_Heavy Armor_Body Armor_Performance lvl10" />
+    <String id="30163" string="TestArmor_Heavy Armor_Gloves_Performance lvl10" />
+    <String id="30164" string="TestArmor_Heavy Armor_Shoes_Performance lvl10" />
+    <String id="30165" string="TestArmor_Light Armor_Body Armor_Performance lvl10" />
+    <String id="30166" string="TestArmor_Light Armor_Gloves_Performance lvl10" />
+    <String id="30167" string="TestArmor_Light Armor_Shoes_Performance lvl10" />
+    <String id="30168" string="TestArmor_Robe_Body Armor_Performance lvl10" />
+    <String id="30169" string="TestArmor_Robe_Gloves_Performance lvl10" />
+    <String id="30170" string="TestArmor_Robe_Shoes_Performance lvl10" />
+    <String id="30171" string="TestWeapon_Twin Swords_Performance lvl11" />
+    <String id="30172" string="TestWeapon_Lance_Performance lvl11" />
+    <String id="30173" string="TestWeapon_Greatsword_Performance lvl11" />
+    <String id="30174" string="TestWeapon_Axe_Performance lvl11" />
+    <String id="30175" string="TestWeapon_Disc_Performance lvl11" />
+    <String id="30176" string="TestWeapon_Bow_Performance lvl11" />
+    <String id="30177" string="TestWeapon_Staff_Performance lvl11" />
+    <String id="30178" string="TestWeapon_Scepter_Performance lvl11" />
+    <String id="30179" string="TestArmor_Heavy Armor_Body Armor_Performance lvl11" />
+    <String id="30180" string="TestArmor_Heavy Armor_Gloves_Performance lvl11" />
+    <String id="30181" string="TestArmor_Heavy Armor_Shoes_Performance lvl11" />
+    <String id="30182" string="TestArmor_Light Armor_Body Armor_Performance lvl11" />
+    <String id="30183" string="TestArmor_Light Armor_Gloves_Performance lvl11" />
+    <String id="30184" string="TestArmor_Light Armor_Shoes_Performance lvl11" />
+    <String id="30185" string="TestArmor_Robe_Body Armor_Performance lvl11" />
+    <String id="30186" string="TestArmor_Robe_Gloves_Performance lvl11" />
+    <String id="30187" string="TestArmor_Robe_Shoes_Performance lvl11" />
+    <String id="30188" string="TestWeapon_Twin Swords_Performance lvl12" />
+    <String id="30189" string="TestWeapon_Lance_Performance lvl12" />
+    <String id="30190" string="TestWeapon_Greatsword_Performance lvl12" />
+    <String id="30191" string="TestWeapon_Axe_Performance lvl12" />
+    <String id="30192" string="TestWeapon_Disc_Performance lvl12" />
+    <String id="30193" string="TestWeapon_Bow_Performance lvl12" />
+    <String id="30194" string="TestWeapon_Staff_Performance lvl12" />
+    <String id="30195" string="TestWeapon_Scepter_Performance lvl12" />
+    <String id="30196" string="TestArmor_Heavy Armor_Body Armor_Performance lvl12" />
+    <String id="30197" string="TestArmor_Heavy Armor_Gloves_Performance lvl12" />
+    <String id="30198" string="TestArmor_Heavy Armor_Shoes_Performance lvl12" />
+    <String id="30199" string="TestArmor_Light Armor_Body Armor_Performance lvl12" />
+    <String id="30200" string="TestArmor_Light Armor_Gloves_Performance lvl12" />
+    <String id="30201" string="TestArmor_Light Armor_Shoes_Performance lvl12" />
+    <String id="30202" string="TestArmor_Robe_Body Armor_Performance lvl12" />
+    <String id="30203" string="TestArmor_Robe_Gloves_Performance lvl12" />
+    <String id="30204" string="TestArmor_Robe_Shoes_Performance lvl12" />
+    <String id="30205" string="TestWeapon_Twin Swords_Performance lvl13" />
+    <String id="30206" string="TestWeapon_Lance_Performance lvl13" />
+    <String id="30207" string="TestWeapon_Greatsword_Performance lvl13" />
+    <String id="30208" string="TestWeapon_Axe_Performance lvl13" />
+    <String id="30209" string="TestWeapon_Disc_Performance lvl13" />
+    <String id="30210" string="TestWeapon_Bow_Performance lvl13" />
+    <String id="30211" string="TestWeapon_Staff_Performance lvl13" />
+    <String id="30212" string="TestWeapon_Scepter_Performance lvl13" />
+    <String id="30213" string="TestArmor_Heavy Armor_Body Armor_Performance lvl13" />
+    <String id="30214" string="TestArmor_Heavy Armor_Gloves_Performance lvl13" />
+    <String id="30215" string="TestArmor_Heavy Armor_Shoes_Performance lvl13" />
+    <String id="30216" string="TestArmor_Light Armor_Body Armor_Performance lvl13" />
+    <String id="30217" string="TestArmor_Light Armor_Gloves_Performance lvl13" />
+    <String id="30218" string="TestArmor_Light Armor_Shoes_Performance lvl13" />
+    <String id="30219" string="TestArmor_Robe_Body Armor_Performance lvl13" />
+    <String id="30220" string="TestArmor_Robe_Gloves_Performance lvl13" />
+    <String id="30221" string="TestArmor_Robe_Shoes_Performance lvl13" />
+    <String id="30222" string="TestWeapon_Twin Swords_Performance lvl14" />
+    <String id="30223" string="TestWeapon_Lance_Performance lvl14" />
+    <String id="30224" string="TestWeapon_Greatsword_Performance lvl14" />
+    <String id="30225" string="TestWeapon_Axe_Performance lvl14" />
+    <String id="30226" string="TestWeapon_Disc_Performance lvl14" />
+    <String id="30227" string="TestWeapon_Bow_Performance lvl14" />
+    <String id="30228" string="TestWeapon_Staff_Performance lvl14" />
+    <String id="30229" string="TestWeapon_Scepter_Performance lvl14" />
+    <String id="30230" string="TestArmor_Heavy Armor_Body Armor_Performance lvl14" />
+    <String id="30231" string="TestArmor_Heavy Armor_Gloves_Performance lvl14" />
+    <String id="30232" string="TestArmor_Heavy Armor_Shoes_Performance lvl14" />
+    <String id="30233" string="TestArmor_Light Armor_Body Armor_Performance lvl14" />
+    <String id="30234" string="TestArmor_Light Armor_Gloves_Performance lvl14" />
+    <String id="30235" string="TestArmor_Light Armor_Shoes_Performance lvl14" />
+    <String id="30236" string="TestArmor_Robe_Body Armor_Performance lvl14" />
+    <String id="30237" string="TestArmor_Robe_Gloves_Performance lvl14" />
+    <String id="30238" string="TestArmor_Robe_Shoes_Performance lvl14" />
+    <String id="30239" string="TestWeapon_Twin Swords_Performance lvl15" />
+    <String id="30240" string="TestWeapon_Lance_Performance lvl15" />
+    <String id="30241" string="TestWeapon_Greatsword_Performance lvl15" />
+    <String id="30242" string="TestWeapon_Axe_Performance lvl15" />
+    <String id="30243" string="TestWeapon_Disc_Performance lvl15" />
+    <String id="30244" string="TestWeapon_Bow_Performance lvl15" />
+    <String id="30245" string="TestWeapon_Staff_Performance lvl15" />
+    <String id="30246" string="TestWeapon_Scepter_Performance lvl15" />
+    <String id="30247" string="TestArmor_Heavy Armor_Body Armor_Performance lvl15" />
+    <String id="30248" string="TestArmor_Heavy Armor_Gloves_Performance lvl15" />
+    <String id="30249" string="TestArmor_Heavy Armor_Shoes_Performance lvl15" />
+    <String id="30250" string="TestArmor_Light Armor_Body Armor_Performance lvl15" />
+    <String id="30251" string="TestArmor_Light Armor_Gloves_Performance lvl15" />
+    <String id="30252" string="TestArmor_Light Armor_Shoes_Performance lvl15" />
+    <String id="30253" string="TestArmor_Robe_Body Armor_Performance lvl15" />
+    <String id="30254" string="TestArmor_Robe_Gloves_Performance lvl15" />
+    <String id="30255" string="TestArmor_Robe_Shoes_Performance lvl15" />
+    <String id="30256" string="TestWeapon_Twin Swords_Performance lvl16" />
+    <String id="30257" string="TestWeapon_Lance_Performance lvl16" />
+    <String id="30258" string="TestWeapon_Greatsword_Performance lvl16" />
+    <String id="30259" string="TestWeapon_Axe_Performance lvl16" />
+    <String id="30260" string="TestWeapon_Disc_Performance lvl16" />
+    <String id="30261" string="TestWeapon_Bow_Performance lvl16" />
+    <String id="30262" string="TestWeapon_Staff_Performance lvl16" />
+    <String id="30263" string="TestWeapon_Scepter_Performance lvl16" />
+    <String id="30264" string="TestArmor_Heavy Armor_Body Armor_Performance lvl16" />
+    <String id="30265" string="TestArmor_Heavy Armor_Gloves_Performance lvl16" />
+    <String id="30266" string="TestArmor_Heavy Armor_Shoes_Performance lvl16" />
+    <String id="30267" string="TestArmor_Light Armor_Body Armor_Performance lvl16" />
+    <String id="30268" string="TestArmor_Light Armor_Gloves_Performance lvl16" />
+    <String id="30269" string="TestArmor_Light Armor_Shoes_Performance lvl16" />
+    <String id="30270" string="TestArmor_Robe_Body Armor_Performance lvl16" />
+    <String id="30271" string="TestArmor_Robe_Gloves_Performance lvl16" />
+    <String id="30272" string="TestArmor_Robe_Shoes_Performance lvl16" />
+    <String id="30273" string="TestWeapon_Twin Swords_Performance lvl17" />
+    <String id="30274" string="TestWeapon_Lance_Performance lvl17" />
+    <String id="30275" string="TestWeapon_Greatsword_Performance lvl17" />
+    <String id="30276" string="TestWeapon_Axe_Performance lvl17" />
+    <String id="30277" string="TestWeapon_Disc_Performance lvl17" />
+    <String id="30278" string="TestWeapon_Bow_Performance lvl17" />
+    <String id="30279" string="TestWeapon_Staff_Performance lvl17" />
+    <String id="30280" string="TestWeapon_Scepter_Performance lvl17" />
+    <String id="30281" string="TestArmor_Heavy Armor_Body Armor_Performance lvl17" />
+    <String id="30282" string="TestArmor_Heavy Armor_Gloves_Performance lvl17" />
+    <String id="30283" string="TestArmor_Heavy Armor_Shoes_Performance lvl17" />
+    <String id="30284" string="TestArmor_Light Armor_Body Armor_Performance lvl17" />
+    <String id="30285" string="TestArmor_Light Armor_Gloves_Performance lvl17" />
+    <String id="30286" string="TestArmor_Light Armor_Shoes_Performance lvl17" />
+    <String id="30287" string="TestArmor_Robe_Body Armor_Performance lvl17" />
+    <String id="30288" string="TestArmor_Robe_Gloves_Performance lvl17" />
+    <String id="30289" string="TestArmor_Robe_Shoes_Performance lvl17" />
+    <String id="30290" string="TestWeapon_Twin Swords_Performance lvl18" />
+    <String id="30291" string="TestWeapon_Lance_Performance lvl18" />
+    <String id="30292" string="TestWeapon_Greatsword_Performance lvl18" />
+    <String id="30293" string="TestWeapon_Axe_Performance lvl18" />
+    <String id="30294" string="TestWeapon_Disc_Performance lvl18" />
+    <String id="30295" string="TestWeapon_Bow_Performance lvl18" />
+    <String id="30296" string="TestWeapon_Staff_Performance lvl18" />
+    <String id="30297" string="TestWeapon_Scepter_Performance lvl18" />
+    <String id="30298" string="TestArmor_Heavy Armor_Body Armor_Performance lvl18" />
+    <String id="30299" string="TestArmor_Heavy Armor_Gloves_Performance lvl18" />
+    <String id="30300" string="TestArmor_Heavy Armor_Shoes_Performance lvl18" />
+    <String id="30301" string="TestArmor_Light Armor_Body Armor_Performance lvl18" />
+    <String id="30302" string="TestArmor_Light Armor_Gloves_Performance lvl18" />
+    <String id="30303" string="TestArmor_Light Armor_Shoes_Performance lvl18" />
+    <String id="30304" string="TestArmor_Robe_Body Armor_Performance lvl18" />
+    <String id="30305" string="TestArmor_Robe_Gloves_Performance lvl18" />
+    <String id="30306" string="TestArmor_Robe_Shoes_Performance lvl18" />
+    <String id="30307" string="TestWeapon_Twin Swords_Performance lvl19" />
+    <String id="30308" string="TestWeapon_Lance_Performance lvl19" />
+    <String id="30309" string="TestWeapon_Greatsword_Performance lvl19" />
+    <String id="30310" string="TestWeapon_Axe_Performance lvl19" />
+    <String id="30311" string="TestWeapon_Disc_Performance lvl19" />
+    <String id="30312" string="TestWeapon_Bow_Performance lvl19" />
+    <String id="30313" string="TestWeapon_Staff_Performance lvl19" />
+    <String id="30314" string="TestWeapon_Scepter_Performance lvl19" />
+    <String id="30315" string="TestArmor_Heavy Armor_Body Armor_Performance lvl19" />
+    <String id="30316" string="TestArmor_Heavy Armor_Gloves_Performance lvl19" />
+    <String id="30317" string="TestArmor_Heavy Armor_Shoes_Performance lvl19" />
+    <String id="30318" string="TestArmor_Light Armor_Body Armor_Performance lvl19" />
+    <String id="30319" string="TestArmor_Light Armor_Gloves_Performance lvl19" />
+    <String id="30320" string="TestArmor_Light Armor_Shoes_Performance lvl19" />
+    <String id="30321" string="TestArmor_Robe_Body Armor_Performance lvl19" />
+    <String id="30322" string="TestArmor_Robe_Gloves_Performance lvl19" />
+    <String id="30323" string="TestArmor_Robe_Shoes_Performance lvl19" />
+    <String id="30324" string="TestWeapon_Twin Swords_Performance lvl20" />
+    <String id="30325" string="TestWeapon_Lance_Performance lvl20" />
+    <String id="30326" string="TestWeapon_Greatsword_Performance lvl20" />
+    <String id="30327" string="TestWeapon_Axe_Performance lvl20" />
+    <String id="30328" string="TestWeapon_Disc_Performance lvl20" />
+    <String id="30329" string="TestWeapon_Bow_Performance lvl20" />
+    <String id="30330" string="TestWeapon_Staff_Performance lvl20" />
+    <String id="30331" string="TestWeapon_Scepter_Performance lvl20" />
+    <String id="30332" string="TestArmor_Heavy Armor_Body Armor_Performance lvl20" />
+    <String id="30333" string="TestArmor_Heavy Armor_Gloves_Performance lvl20" />
+    <String id="30334" string="TestArmor_Heavy Armor_Shoes_Performance lvl20" />
+    <String id="30335" string="TestArmor_Light Armor_Body Armor_Performance lvl20" />
+    <String id="30336" string="TestArmor_Light Armor_Gloves_Performance lvl20" />
+    <String id="30337" string="TestArmor_Light Armor_Shoes_Performance lvl20" />
+    <String id="30338" string="TestArmor_Robe_Body Armor_Performance lvl20" />
+    <String id="30339" string="TestArmor_Robe_Gloves_Performance lvl20" />
+    <String id="30340" string="TestArmor_Robe_Shoes_Performance lvl20" />
+    <String id="30341" string="TestWeapon_Twin Swords_Performance lvl21" />
+    <String id="30342" string="TestWeapon_Lance_Performance lvl21" />
+    <String id="30343" string="TestWeapon_Greatsword_Performance lvl21" />
+    <String id="30344" string="TestWeapon_Axe_Performance lvl21" />
+    <String id="30345" string="TestWeapon_Disc_Performance lvl21" />
+    <String id="30346" string="TestWeapon_Bow_Performance lvl21" />
+    <String id="30347" string="TestWeapon_Staff_Performance lvl21" />
+    <String id="30348" string="TestWeapon_Scepter_Performance lvl21" />
+    <String id="30349" string="TestArmor_Heavy Armor_Body Armor_Performance lvl21" />
+    <String id="30350" string="TestArmor_Heavy Armor_Gloves_Performance lvl21" />
+    <String id="30351" string="TestArmor_Heavy Armor_Shoes_Performance lvl21" />
+    <String id="30352" string="TestArmor_Light Armor_Body Armor_Performance lvl21" />
+    <String id="30353" string="TestArmor_Light Armor_Gloves_Performance lvl21" />
+    <String id="30354" string="TestArmor_Light Armor_Shoes_Performance lvl21" />
+    <String id="30355" string="TestArmor_Robe_Body Armor_Performance lvl21" />
+    <String id="30356" string="TestArmor_Robe_Gloves_Performance lvl21" />
+    <String id="30357" string="TestArmor_Robe_Shoes_Performance lvl21" />
+    <String id="30358" string="TestWeapon_Twin Swords_Performance lvl22" />
+    <String id="30359" string="TestWeapon_Lance_Performance lvl22" />
+    <String id="30360" string="TestWeapon_Greatsword_Performance lvl22" />
+    <String id="30361" string="TestWeapon_Axe_Performance lvl22" />
+    <String id="30362" string="TestWeapon_Disc_Performance lvl22" />
+    <String id="30363" string="TestWeapon_Bow_Performance lvl22" />
+    <String id="30364" string="TestWeapon_Staff_Performance lvl22" />
+    <String id="30365" string="TestWeapon_Scepter_Performance lvl22" />
+    <String id="30366" string="TestArmor_Heavy Armor_Body Armor_Performance lvl22" />
+    <String id="30367" string="TestArmor_Heavy Armor_Gloves_Performance lvl22" />
+    <String id="30368" string="TestArmor_Heavy Armor_Shoes_Performance lvl22" />
+    <String id="30369" string="TestArmor_Light Armor_Body Armor_Performance lvl22" />
+    <String id="30370" string="TestArmor_Light Armor_Gloves_Performance lvl22" />
+    <String id="30371" string="TestArmor_Light Armor_Shoes_Performance lvl22" />
+    <String id="30372" string="TestArmor_Robe_Body Armor_Performance lvl22" />
+    <String id="30373" string="TestArmor_Robe_Gloves_Performance lvl22" />
+    <String id="30374" string="TestArmor_Robe_Shoes_Performance lvl22" />
+    <String id="30375" string="TestWeapon_Twin Swords_Performance lvl23" />
+    <String id="30376" string="TestWeapon_Lance_Performance lvl23" />
+    <String id="30377" string="TestWeapon_Greatsword_Performance lvl23" />
+    <String id="30378" string="TestWeapon_Axe_Performance lvl23" />
+    <String id="30379" string="TestWeapon_Disc_Performance lvl23" />
+    <String id="30380" string="TestWeapon_Bow_Performance lvl23" />
+    <String id="30381" string="TestWeapon_Staff_Performance lvl23" />
+    <String id="30382" string="TestWeapon_Scepter_Performance lvl23" />
+    <String id="30383" string="TestArmor_Heavy Armor_Body Armor_Performance lvl23" />
+    <String id="30384" string="TestArmor_Heavy Armor_Gloves_Performance lvl23" />
+    <String id="30385" string="TestArmor_Heavy Armor_Shoes_Performance lvl23" />
+    <String id="30386" string="TestArmor_Light Armor_Body Armor_Performance lvl23" />
+    <String id="30387" string="TestArmor_Light Armor_Gloves_Performance lvl23" />
+    <String id="30388" string="TestArmor_Light Armor_Shoes_Performance lvl23" />
+    <String id="30389" string="TestArmor_Robe_Body Armor_Performance lvl23" />
+    <String id="30390" string="TestArmor_Robe_Gloves_Performance lvl23" />
+    <String id="30391" string="TestArmor_Robe_Shoes_Performance lvl23" />
+    <String id="30392" string="TestWeapon_Twin Swords_Performance lvl24" />
+    <String id="30393" string="TestWeapon_Lance_Performance lvl24" />
+    <String id="30394" string="TestWeapon_Greatsword_Performance lvl24" />
+    <String id="30395" string="TestWeapon_Axe_Performance lvl24" />
+    <String id="30396" string="TestWeapon_Disc_Performance lvl24" />
+    <String id="30397" string="TestWeapon_Bow_Performance lvl24" />
+    <String id="30398" string="TestWeapon_Staff_Performance lvl24" />
+    <String id="30399" string="TestWeapon_Scepter_Performance lvl24" />
+    <String id="30400" string="TestArmor_Heavy Armor_Body Armor_Performance lvl24" />
+    <String id="30401" string="TestArmor_Heavy Armor_Gloves_Performance lvl24" />
+    <String id="30402" string="TestArmor_Heavy Armor_Shoes_Performance lvl24" />
+    <String id="30403" string="TestArmor_Light Armor_Body Armor_Performance lvl24" />
+    <String id="30404" string="TestArmor_Light Armor_Gloves_Performance lvl24" />
+    <String id="30405" string="TestArmor_Light Armor_Shoes_Performance lvl24" />
+    <String id="30406" string="TestArmor_Robe_Body Armor_Performance lvl24" />
+    <String id="30407" string="TestArmor_Robe_Gloves_Performance lvl24" />
+    <String id="30408" string="TestArmor_Robe_Shoes_Performance lvl24" />
+    <String id="30409" string="Level 25 twin swords" />
+    <String id="30410" string="Level 25 lance" />
+    <String id="30411" string="Level 25 greatsword" />
+    <String id="30412" string="Level 25 axe" />
+    <String id="30413" string="Level 25 disc" />
+    <String id="30414" string="Level 25 bow" />
+    <String id="30415" string="Level 25 staff" />
+    <String id="30416" string="Level 25 scepter" />
+    <String id="30417" string="Level 25 hauberk" />
+    <String id="30418" string="Level 25 gauntlets" />
+    <String id="30419" string="Level 25 greaves" />
+    <String id="30420" string="Level 25 cuirass" />
+    <String id="30421" string="Level 25 gloves" />
+    <String id="30422" string="Level 25 boots" />
+    <String id="30423" string="Level 25 robe" />
+    <String id="30424" string="Level 25 sleeves" />
+    <String id="30425" string="Level 25 shoes" />
+    <String id="30426" string="Level 26 twin swords" />
+    <String id="30427" string="Level 26 lance" />
+    <String id="30428" string="Level 26 greatsword" />
+    <String id="30429" string="Level 26 axe" />
+    <String id="30430" string="Level 26 disc" />
+    <String id="30431" string="Level 26 bow" />
+    <String id="30432" string="Level 26 staff" />
+    <String id="30433" string="Level 26 scepter" />
+    <String id="30434" string="Level 26 hauberk" />
+    <String id="30435" string="Level 26 gauntlets" />
+    <String id="30436" string="Level 26 greaves" />
+    <String id="30437" string="Level 26 cuirass" />
+    <String id="30438" string="Level 26 gloves" />
+    <String id="30439" string="Level 26 boots" />
+    <String id="30440" string="Level 26 robe" />
+    <String id="30441" string="Level 26 sleeves" />
+    <String id="30442" string="Level 26 shoes" />
+    <String id="30443" string="Level 27 twin swords" />
+    <String id="30444" string="Level 27 lance" />
+    <String id="30445" string="Level 27 greatsword" />
+    <String id="30446" string="Hache niveau 27" />
+    <String id="30447" string="Level 27 disc" />
+    <String id="30448" string="Level 27 bow" />
+    <String id="30449" string="Level 27 staff" />
+    <String id="30450" string="Level 27 scepter" />
+    <String id="30451" string="Level 27 hauberk" />
+    <String id="30452" string="Level 27 gauntlets" />
+    <String id="30453" string="Level 27 greaves" />
+    <String id="30454" string="Level 27 cuirass" />
+    <String id="30455" string="Level 27 gloves" />
+    <String id="30456" string="Level 27 boots" />
+    <String id="30457" string="Level 27 robe" />
+    <String id="30458" string="Level 27 sleeves" />
+    <String id="30459" string="Level 27 shoes" />
+    <String id="30460" string="Level 28 twin swords" />
+    <String id="30461" string="Level 28 lance" />
+    <String id="30462" string="Level 28 greatsword" />
+    <String id="30463" string="Level 28 axe" />
+    <String id="30464" string="Level 28 disc" />
+    <String id="30465" string="Level 28 bow" />
+    <String id="30466" string="Level 28 staff" />
+    <String id="30467" string="Level 28 scepter" />
+    <String id="30468" string="Level 28 hauberk" />
+    <String id="30469" string="Level 28 gauntlets" />
+    <String id="30470" string="Level 28 greaves" />
+    <String id="30471" string="Level 28 cuirass" />
+    <String id="30472" string="Level 28 gloves" />
+    <String id="30473" string="Level 28 boots" />
+    <String id="30474" string="Level 28 robe" />
+    <String id="30475" string="Level 28 sleeves" />
+    <String id="30476" string="Level 28 shoes" />
+    <String id="30477" string="Level 29 twin swords" />
+    <String id="30478" string="Level 29 lance" />
+    <String id="30479" string="Level 29 greatsword" />
+    <String id="30480" string="Level 29 axe" />
+    <String id="30481" string="Level 29 disc" />
+    <String id="30482" string="Level 29 bow" />
+    <String id="30483" string="Level 29 staff" />
+    <String id="30484" string="Level 29 scepter" />
+    <String id="30485" string="Level 29 hauberk" />
+    <String id="30486" string="Level 29 gauntlets" />
+    <String id="30487" string="Level 29 greaves" />
+    <String id="30488" string="Level 29 cuirass" />
+    <String id="30489" string="Level 29 gloves" />
+    <String id="30490" string="Level 29 boots" />
+    <String id="30491" string="Level 29 robe" />
+    <String id="30492" string="Level 29 sleeves" />
+    <String id="30493" string="Level 29 shoes" />
+    <String id="30494" string="Level 30 twin swords" />
+    <String id="30495" string="Level 30 lance" />
+    <String id="30496" string="Level 30 greatsword" />
+    <String id="30497" string="Level 30 axe" />
+    <String id="30498" string="Level 30 disc" />
+    <String id="30499" string="Level 30 bow" />
+    <String id="30500" string="Level 30 staff" />
+    <String id="30501" string="Level 30 scepter" />
+    <String id="30502" string="Level 30 hauberk" />
+    <String id="30503" string="Level 30 gauntlets" />
+    <String id="30504" string="Level 30 greaves" />
+    <String id="30505" string="Level 30 cuirass" />
+    <String id="30506" string="Level 30 gloves" />
+    <String id="30507" string="Level 30 boots" />
+    <String id="30508" string="Level 30 robe" />
+    <String id="30509" string="Level 30 sleeves" />
+    <String id="30510" string="Level 30 shoes" />
+    <String id="30511" string="Level 31 twin swords" />
+    <String id="30512" string="Level 31 lance" />
+    <String id="30513" string="Level 31 greatsword" />
+    <String id="30514" string="Level 31 axe" />
+    <String id="30515" string="Level 31 disc" />
+    <String id="30516" string="Level 31 bow" />
+    <String id="30517" string="Level 31 staff" />
+    <String id="30518" string="Level 31 scepter" />
+    <String id="30519" string="Level 31 hauberk" />
+    <String id="30520" string="Level 31 gauntlets" />
+    <String id="30521" string="Level 31 greaves" />
+    <String id="30522" string="Level 31 cuirass" />
+    <String id="30523" string="Level 31 gloves" />
+    <String id="30524" string="Level 31 boots" />
+    <String id="30525" string="Level 31 robe" />
+    <String id="30526" string="Level 31 sleeves" />
+    <String id="30527" string="Level 31 shoes" />
+    <String id="30528" string="Level 32 twin swords" />
+    <String id="30529" string="Level 32 lance" />
+    <String id="30530" string="Level 32 greatsword" />
+    <String id="30531" string="Level 32 axe" />
+    <String id="30532" string="Level 32 disc" />
+    <String id="30533" string="Level 32 bow" />
+    <String id="30534" string="Level 32 staff" />
+    <String id="30535" string="Level 32 scepter" />
+    <String id="30536" string="Level 32 hauberk" />
+    <String id="30537" string="Level 32 gauntlets" />
+    <String id="30538" string="Level 32 greaves" />
+    <String id="30539" string="Level 32 cuirass" />
+    <String id="30540" string="Level 32 gloves" />
+    <String id="30541" string="Level 32 boots" />
+    <String id="30542" string="Level 32 robe" />
+    <String id="30543" string="Level 32 sleeves" />
+    <String id="30544" string="Level 32 shoes" />
+    <String id="30545" string="Level 33 twin swords" />
+    <String id="30546" string="Level 33 lance" />
+    <String id="30547" string="Level 33 greatsword" />
+    <String id="30548" string="Level 33 axe" />
+    <String id="30549" string="Level 33 disc" />
+    <String id="30550" string="Level 33 bow" />
+    <String id="30551" string="Level 33 staff" />
+    <String id="30552" string="Level 33 scepter" />
+    <String id="30553" string="Level 33 hauberk" />
+    <String id="30554" string="Level 33 gauntlets" />
+    <String id="30555" string="Level 33 greaves" />
+    <String id="30556" string="Level 33 cuirass" />
+    <String id="30557" string="Level 33 gloves" />
+    <String id="30558" string="Level 33 boots" />
+    <String id="30559" string="Level 33 robe" />
+    <String id="30560" string="Level 33 sleeves" />
+    <String id="30561" string="Level 33 shoes" />
+    <String id="30562" string="Level 34 twin swords" />
+    <String id="30563" string="Level 34 lance" />
+    <String id="30564" string="Level 34 greatsword" />
+    <String id="30565" string="Level 34 axe" />
+    <String id="30566" string="Level 34 disc" />
+    <String id="30567" string="Level 34 bow" />
+    <String id="30568" string="Level 34 staff" />
+    <String id="30569" string="Level 34 scepter" />
+    <String id="30570" string="Level 34 hauberk" />
+    <String id="30571" string="Level 34 gauntlets" />
+    <String id="30572" string="Level 34 greaves" />
+    <String id="30573" string="Level 34 cuirass" />
+    <String id="30574" string="Level 34 gloves" />
+    <String id="30575" string="Level 34 boots" />
+    <String id="30576" string="Level 34 robe" />
+    <String id="30577" string="Level 34 sleeves" />
+    <String id="30578" string="Level 34 shoes" />
+    <String id="30579" string="Level 35 twin swords" />
+    <String id="30580" string="Level 35 lance" />
+    <String id="30581" string="Level 35 greatsword" />
+    <String id="30582" string="Level 35 axe" />
+    <String id="30583" string="Level 35 disc" />
+    <String id="30584" string="Level 35 bow" />
+    <String id="30585" string="Level 35 staff" />
+    <String id="30586" string="Level 35 scepter" />
+    <String id="30587" string="Level 35 hauberk" />
+    <String id="30588" string="Level 35 gauntlets" />
+    <String id="30589" string="Level 35 greaves" />
+    <String id="30590" string="Level 35 cuirass" />
+    <String id="30591" string="Level 35 gloves" />
+    <String id="30592" string="Level 35 boots" />
+    <String id="30593" string="Level 35 robe" />
+    <String id="30594" string="Level 35 sleeves" />
+    <String id="30595" string="Level 35 shoes" />
+    <String id="30596" string="Level 36 twin swords" />
+    <String id="30597" string="Level 36 lance" />
+    <String id="30598" string="Level 36 greatsword" />
+    <String id="30599" string="Level 36 axe" />
+    <String id="30600" string="Level 36 disc" />
+    <String id="30601" string="Level 36 bow" />
+    <String id="30602" string="Level 36 staff" />
+    <String id="30603" string="Level 36 scepter" />
+    <String id="30604" string="Level 36 hauberk" />
+    <String id="30605" string="Level 36 gauntlets" />
+    <String id="30606" string="Level 36 greaves" />
+    <String id="30607" string="Level 36 cuirass" />
+    <String id="30608" string="Level 36 gloves" />
+    <String id="30609" string="Level 36 boots" />
+    <String id="30610" string="Level 36 robe" />
+    <String id="30611" string="Level 36 sleeves" />
+    <String id="30612" string="Level 36 shoes" />
+    <String id="30613" string="Level 37 twin swords" />
+    <String id="30614" string="Level 37 lance" />
+    <String id="30615" string="Level 37 greatsword" />
+    <String id="30616" string="Level 37 axe" />
+    <String id="30617" string="Level 37 disc" />
+    <String id="30618" string="Level 37 bow" />
+    <String id="30619" string="Level 37 staff" />
+    <String id="30620" string="Level 37 scepter" />
+    <String id="30621" string="Level 37 hauberk" />
+    <String id="30622" string="Level 37 gauntlets" />
+    <String id="30623" string="Level 37 greaves" />
+    <String id="30624" string="Level 37 cuirass" />
+    <String id="30625" string="Level 37 gloves" />
+    <String id="30626" string="Level 37 boots" />
+    <String id="30627" string="Level 37 robe" />
+    <String id="30628" string="Level 37 sleeves" />
+    <String id="30629" string="Level 37 shoes" />
+    <String id="30630" string="Level 38 twin swords" />
+    <String id="30631" string="Level 38 lance" />
+    <String id="30632" string="Level 38 greatsword" />
+    <String id="30633" string="Level 38 axe" />
+    <String id="30634" string="Level 38 disc" />
+    <String id="30635" string="Level 38 bow" />
+    <String id="30636" string="Level 38 staff" />
+    <String id="30637" string="Level 38 scepter" />
+    <String id="30638" string="Level 38 hauberk" />
+    <String id="30639" string="Level 38 gauntlets" />
+    <String id="30640" string="Level 38 greaves" />
+    <String id="30641" string="Level 38 cuirass" />
+    <String id="30642" string="Level 38 gloves" />
+    <String id="30643" string="Level 38 boots" />
+    <String id="30644" string="Level 38 robe" />
+    <String id="30645" string="Level 38 sleeves" />
+    <String id="30646" string="Level 38 shoes" />
+    <String id="30647" string="Level 39 twin swords" />
+    <String id="30648" string="Level 39 lance" />
+    <String id="30649" string="Level 39 greatsword" />
+    <String id="30650" string="Level 39 axe" />
+    <String id="30651" string="Level 39 disc" />
+    <String id="30652" string="Level 39 bow" />
+    <String id="30653" string="Level 39 staff" />
+    <String id="30654" string="Level 39 scepter" />
+    <String id="30655" string="Level 39 hauberk" />
+    <String id="30656" string="Level 39 gauntlets" />
+    <String id="30657" string="Level 39 greaves" />
+    <String id="30658" string="Level 39 cuirass" />
+    <String id="30659" string="Level 39 gloves" />
+    <String id="30660" string="Level 39 boots" />
+    <String id="30661" string="Level 39 robe" />
+    <String id="30662" string="Level 39 sleeves" />
+    <String id="30663" string="Level 39 shoes" />
+    <String id="30664" string="Level 40 twin swords" />
+    <String id="30665" string="Level 40 lance" />
+    <String id="30666" string="Level 40 greatsword" />
+    <String id="30667" string="Level 40 axe" />
+    <String id="30668" string="Level 40 disc" />
+    <String id="30669" string="Level 40 bow" />
+    <String id="30670" string="Level 40 staff" />
+    <String id="30671" string="Level 40 scepter" />
+    <String id="30672" string="Level 40 hauberk" />
+    <String id="30673" string="Level 40 gauntlets" />
+    <String id="30674" string="Level 40 greaves" />
+    <String id="30675" string="Level 40 cuirass" />
+    <String id="30676" string="Level 40 gloves" />
+    <String id="30677" string="Level 40 boots" />
+    <String id="30678" string="Level 40 robe" />
+    <String id="30679" string="Level 40 sleeves" />
+    <String id="30680" string="Level 40 shoes" />
+    <String id="30681" string="Level 41 twin swords" />
+    <String id="30682" string="Level 41 lance" />
+    <String id="30683" string="Level 41 greatsword" />
+    <String id="30684" string="Level 41 axe" />
+    <String id="30685" string="Level 41 disc" />
+    <String id="30686" string="Level 41 bow" />
+    <String id="30687" string="Level 41 staff" />
+    <String id="30688" string="Level 41 scepter" />
+    <String id="30689" string="Level 41 hauberk" />
+    <String id="30690" string="Level 41 gauntlets" />
+    <String id="30691" string="Level 41 greaves" />
+    <String id="30692" string="Level 41 cuirass" />
+    <String id="30693" string="Level 41 gloves" />
+    <String id="30694" string="Level 41 boots" />
+    <String id="30695" string="Level 41 robe" />
+    <String id="30696" string="Level 41 sleeves" />
+    <String id="30697" string="Level 41 shoes" />
+    <String id="30698" string="Level 42 twin swords" />
+    <String id="30699" string="Level 42 lance" />
+    <String id="30700" string="Level 42 greatsword" />
+    <String id="30701" string="Level 42 axe" />
+    <String id="30702" string="Level 42 disc" />
+    <String id="30703" string="Level 42 bow" />
+    <String id="30704" string="Level 42 staff" />
+    <String id="30705" string="Level 42 scepter" />
+    <String id="30706" string="Level 42 hauberk" />
+    <String id="30707" string="Level 42 gauntlets" />
+    <String id="30708" string="Level 42 greaves" />
+    <String id="30709" string="Level 42 cuirass" />
+    <String id="30710" string="Level 42 gloves" />
+    <String id="30711" string="Level 42 boots" />
+    <String id="30712" string="Level 42 robe" />
+    <String id="30713" string="Level 42 sleeves" />
+    <String id="30714" string="Level 42 shoes" />
+    <String id="30715" string="Lames doubles niveau 43" />
+    <String id="30716" string="Level 43 lance" />
+    <String id="30717" string="Level 43 greatsword" />
+    <String id="30718" string="Level 43 axe" />
+    <String id="30719" string="Level 43 disc" />
+    <String id="30720" string="Level 43 bow" />
+    <String id="30721" string="Level 43 staff" />
+    <String id="30722" string="Level 43 scepter" />
+    <String id="30723" string="Level 43 hauberk" />
+    <String id="30724" string="Level 43 gauntlets" />
+    <String id="30725" string="Level 43 greaves" />
+    <String id="30726" string="Level 43 cuirass" />
+    <String id="30727" string="Level 43 gloves" />
+    <String id="30728" string="Level 43 boots" />
+    <String id="30729" string="Level 43 robe" />
+    <String id="30730" string="Level 43 sleeves" />
+    <String id="30731" string="Level 43 shoes" />
+    <String id="30732" string="Level 44 twin swords" />
+    <String id="30733" string="Level 44 lance" />
+    <String id="30734" string="Level 44 greatsword" />
+    <String id="30735" string="Level 44 axe" />
+    <String id="30736" string="Level 44 disc" />
+    <String id="30737" string="Level 44 bow" />
+    <String id="30738" string="Level 44 staff" />
+    <String id="30739" string="Level 44 scepter" />
+    <String id="30740" string="Level 44 hauberk" />
+    <String id="30741" string="Level 44 gauntlets" />
+    <String id="30742" string="Level 44 greaves" />
+    <String id="30743" string="Level 44 cuirass" />
+    <String id="30744" string="Level 44 gloves" />
+    <String id="30745" string="Level 44 boots" />
+    <String id="30746" string="Level 44 robe" />
+    <String id="30747" string="Level 44 sleeves" />
+    <String id="30748" string="Level 44 shoes" />
+    <String id="30749" string="Level 45 twin swords" />
+    <String id="30750" string="Level 45 lance" />
+    <String id="30751" string="Level 45 greatsword" />
+    <String id="30752" string="Level 45 axe" />
+    <String id="30753" string="Level 45 disc" />
+    <String id="30754" string="Level 45 bow" />
+    <String id="30755" string="Level 45 staff" />
+    <String id="30756" string="Level 45 scepter" />
+    <String id="30757" string="Level 45 hauberk" />
+    <String id="30758" string="Level 45 gauntlets" />
+    <String id="30759" string="Level 45 greaves" />
+    <String id="30760" string="Level 45 cuirass" />
+    <String id="30761" string="Level 45 gloves" />
+    <String id="30762" string="Level 45 boots" />
+    <String id="30763" string="Level 45 robe" />
+    <String id="30764" string="Level 45 sleeves" />
+    <String id="30765" string="Level 45 shoes" />
+    <String id="30766" string="Level 46 twin swords" />
+    <String id="30767" string="Level 46 lance" />
+    <String id="30768" string="Level 46 greatsword" />
+    <String id="30769" string="Level 46 axe" />
+    <String id="30770" string="Level 46 disc" />
+    <String id="30771" string="Level 46 bow" />
+    <String id="30772" string="Level 46 staff" />
+    <String id="30773" string="Level 46 scepter" />
+    <String id="30774" string="Level 46 hauberk" />
+    <String id="30775" string="Level 46 gauntlets" />
+    <String id="30776" string="Level 46 greaves" />
+    <String id="30777" string="Level 46 cuirass" />
+    <String id="30778" string="Level 46 gloves" />
+    <String id="30779" string="Level 46 boots" />
+    <String id="30780" string="Level 46 robe" />
+    <String id="30781" string="Level 46 sleeves" />
+    <String id="30782" string="Level 46 shoes" />
+    <String id="30783" string="Level 47 twin swords" />
+    <String id="30784" string="Level 47 lance" />
+    <String id="30785" string="Level 47 greatsword" />
+    <String id="30786" string="Level 47 axe" />
+    <String id="30787" string="Level 47 disc" />
+    <String id="30788" string="Level 47 bow" />
+    <String id="30789" string="Level 47 staff" />
+    <String id="30790" string="Level 47 scepter" />
+    <String id="30791" string="Level 47 hauberk" />
+    <String id="30792" string="Level 47 gauntlets" />
+    <String id="30793" string="Level 47 greaves" />
+    <String id="30794" string="Level 47 cuirass" />
+    <String id="30795" string="Level 47 gloves" />
+    <String id="30796" string="Level 47 boots" />
+    <String id="30797" string="Level 47 robe" />
+    <String id="30798" string="Level 47 sleeves" />
+    <String id="30799" string="Level 47 shoes" />
+    <String id="30800" string="Level 48 twin swords" />
+    <String id="30801" string="Level 48 lance" />
+    <String id="30802" string="Level 48 greatsword" />
+    <String id="30803" string="Level 48 axe" />
+    <String id="30804" string="Level 48 disc" />
+    <String id="30805" string="Level 48 bow" />
+    <String id="30806" string="Level 48 staff" />
+    <String id="30807" string="Level 48 scepter" />
+    <String id="30808" string="Level 48 hauberk" />
+    <String id="30809" string="Level 48 gauntlets" />
+    <String id="30810" string="Level 48 greaves" />
+    <String id="30811" string="Level 48 cuirass" />
+    <String id="30812" string="Level 48 gloves" />
+    <String id="30813" string="Level 48 boots" />
+    <String id="30814" string="Level 48 robe" />
+    <String id="30815" string="Level 48 sleeves" />
+    <String id="30816" string="Level 48 shoes" />
+    <String id="30817" string="Level 49 twin swords" />
+    <String id="30818" string="Level 49 lance" />
+    <String id="30819" string="Level 49 greatsword" />
+    <String id="30820" string="Level 49 axe" />
+    <String id="30821" string="Level 49 disc" />
+    <String id="30822" string="Level 49 bow" />
+    <String id="30823" string="Level 49 staff" />
+    <String id="30824" string="Level 49 scepter" />
+    <String id="30825" string="Level 49 hauberk" />
+    <String id="30826" string="Level 49 gauntlets" />
+    <String id="30827" string="Level 49 greaves" />
+    <String id="30828" string="Level 49 cuirass" />
+    <String id="30829" string="Level 49 gloves" />
+    <String id="30830" string="Level 49 boots" />
+    <String id="30831" string="Level 49 robe" />
+    <String id="30832" string="Level 49 sleeves" />
+    <String id="30833" string="Level 49 shoes" />
+    <String id="30834" string="Level 50 twin swords" />
+    <String id="30835" string="Level 50 lance" />
+    <String id="30836" string="Level 50 greatsword" />
+    <String id="30837" string="Level 50 axe" />
+    <String id="30838" string="Level 50 disc" />
+    <String id="30839" string="Level 50 bow" />
+    <String id="30840" string="Level 50 staff" />
+    <String id="30841" string="Level 50 scepter" />
+    <String id="30842" string="Level 50 hauberk" />
+    <String id="30843" string="Level 50 gauntlets" />
+    <String id="30844" string="Level 50 greaves" />
+    <String id="30845" string="Level 50 cuirass" />
+    <String id="30846" string="Level 50 gloves" />
+    <String id="30847" string="Level 50 boots" />
+    <String id="30848" string="Level 50 robe" />
+    <String id="30849" string="Level 50 sleeves" />
+    <String id="30850" string="Level 50 shoes" />
+    <String id="30851" string="Level 51 twin swords" />
+    <String id="30852" string="Level 51 lance" />
+    <String id="30853" string="Level 51 greatsword" />
+    <String id="30854" string="Level 51 axe" />
+    <String id="30855" string="Level 51 disc" />
+    <String id="30856" string="Level 51 bow" />
+    <String id="30857" string="Level 51 staff" />
+    <String id="30858" string="Level 51 scepter" />
+    <String id="30859" string="Level 51 hauberk" />
+    <String id="30860" string="Level 51 gauntlets" />
+    <String id="30861" string="Level 51 greaves" />
+    <String id="30862" string="Level 51 cuirass" />
+    <String id="30863" string="Level 51 gloves" />
+    <String id="30864" string="Level 51 boots" />
+    <String id="30865" string="Level 51 robe" />
+    <String id="30866" string="Level 51 sleeves" />
+    <String id="30867" string="Level 51 shoes" />
+    <String id="30868" string="Level 52 twin swords" />
+    <String id="30869" string="Level 52 lance" />
+    <String id="30870" string="Level 52 greatsword" />
+    <String id="30871" string="Level 52 axe" />
+    <String id="30872" string="Level 52 disc" />
+    <String id="30873" string="Level 52 bow" />
+    <String id="30874" string="Level 52 staff" />
+    <String id="30875" string="Level 52 scepter" />
+    <String id="30876" string="Level 52 hauberk" />
+    <String id="30877" string="Level 52 gauntlets" />
+    <String id="30878" string="Level 52 greaves" />
+    <String id="30879" string="Level 52 cuirass" />
+    <String id="30880" string="Level 52 gloves" />
+    <String id="30881" string="Level 52 boots" />
+    <String id="30882" string="Level 52 robe" />
+    <String id="30883" string="Level 52 sleeves" />
+    <String id="30884" string="Level 52 shoes" />
+    <String id="30885" string="Level 53 twin swords" />
+    <String id="30886" string="Level 53 lance" />
+    <String id="30887" string="Level 53 greatsword" />
+    <String id="30888" string="Level 53 axe" />
+    <String id="30889" string="Level 53 disc" />
+    <String id="30890" string="Level 53 bow" />
+    <String id="30891" string="Level 53 staff" />
+    <String id="30892" string="Level 53 scepter" />
+    <String id="30893" string="Level 53 hauberk" />
+    <String id="30894" string="Level 53 gauntlets" />
+    <String id="30895" string="Level 53 greaves" />
+    <String id="30896" string="Level 53 cuirass" />
+    <String id="30897" string="Level 53 gloves" />
+    <String id="30898" string="Level 53 boots" />
+    <String id="30899" string="Level 53 robe" />
+    <String id="30900" string="Level 53 sleeves" />
+    <String id="30901" string="Level 53 shoes" />
+    <String id="30902" string="Level 54 twin swords" />
+    <String id="30903" string="Level 54 lance" />
+    <String id="30904" string="Level 54 greatsword" />
+    <String id="30905" string="Level 54 axe" />
+    <String id="30906" string="Level 54 disc" />
+    <String id="30907" string="Level 54 bow" />
+    <String id="30908" string="Level 54 staff" />
+    <String id="30909" string="Level 54 scepter" />
+    <String id="30910" string="Level 54 hauberk" />
+    <String id="30911" string="Level 54 gauntlets" />
+    <String id="30912" string="Level 54 greaves" />
+    <String id="30913" string="Level 54 cuirass" />
+    <String id="30914" string="Level 54 gloves" />
+    <String id="30915" string="Level 54 boots" />
+    <String id="30916" string="Level 54 robe" />
+    <String id="30917" string="Level 54 sleeves" />
+    <String id="30918" string="Level 54 shoes" />
+    <String id="30919" string="Level 55 twin swords" />
+    <String id="30920" string="Level 55 lance" />
+    <String id="30921" string="Level 55 greatsword" />
+    <String id="30922" string="Level 55 axe" />
+    <String id="30923" string="Level 55 disc" />
+    <String id="30924" string="Level 55 bow" />
+    <String id="30925" string="Level 55 staff" />
+    <String id="30926" string="Level 55 scepter" />
+    <String id="30927" string="Level 55 hauberk" />
+    <String id="30928" string="Level 55 gauntlets" />
+    <String id="30929" string="Level 55 greaves" />
+    <String id="30930" string="Level 55 cuirass" />
+    <String id="30931" string="Level 55 gloves" />
+    <String id="30932" string="Level 55 boots" />
+    <String id="30933" string="Level 55 robe" />
+    <String id="30934" string="Level 55 sleeves" />
+    <String id="30935" string="Level 55 shoes" />
+    <String id="30936" string="Level 56 twin swords" />
+    <String id="30937" string="Level 56 lance" />
+    <String id="30938" string="Level 56 greatsword" />
+    <String id="30939" string="Level 56 axe" />
+    <String id="30940" string="Level 56 disc" />
+    <String id="30941" string="Level 56 bow" />
+    <String id="30942" string="Level 56 staff" />
+    <String id="30943" string="Level 56 scepter" />
+    <String id="30944" string="Level 56 hauberk" />
+    <String id="30945" string="Level 56 gauntlets" />
+    <String id="30946" string="Level 56 greaves" />
+    <String id="30947" string="Level 56 cuirass" />
+    <String id="30948" string="Level 56 gloves" />
+    <String id="30949" string="Level 56 boots" />
+    <String id="30950" string="Level 56 robe" />
+    <String id="30951" string="Level 56 sleeves" />
+    <String id="30952" string="Level 56 shoes" />
+    <String id="30953" string="Level 57 twin swords" />
+    <String id="30954" string="Level 57 lance" />
+    <String id="30955" string="Level 57 greatsword" />
+    <String id="30956" string="Level 57 axe" />
+    <String id="30957" string="Level 57 disc" />
+    <String id="30958" string="Level 57 bow" />
+    <String id="30959" string="Level 57 staff" />
+    <String id="30960" string="Level 57 scepter" />
+    <String id="30961" string="Level 57 hauberk" />
+    <String id="30962" string="Level 57 gauntlets" />
+    <String id="30963" string="Level 57 greaves" />
+    <String id="30964" string="Level 57 cuirass" />
+    <String id="30965" string="Level 57 gloves" />
+    <String id="30966" string="Level 57 boots" />
+    <String id="30967" string="Level 57 robe" />
+    <String id="30968" string="Level 57 sleeves" />
+    <String id="30969" string="Level 57 shoes" />
+    <String id="30970" string="Level 58 twin swords" />
+    <String id="30971" string="Level 58 lance" />
+    <String id="30972" string="Level 58 greatsword" />
+    <String id="30973" string="Level 58 axe" />
+    <String id="30974" string="Level 58 disc" />
+    <String id="30975" string="Level 58 bow" />
+    <String id="30976" string="Level 58 staff" />
+    <String id="30977" string="Level 58 scepter" />
+    <String id="30978" string="Level 58 hauberk" />
+    <String id="30979" string="Level 58 gauntlets" />
+    <String id="30980" string="Level 58 greaves" />
+    <String id="30981" string="Level 58 cuirass" />
+    <String id="30982" string="Level 58 gloves" />
+    <String id="30983" string="Level 58 boots" />
+    <String id="30984" string="Level 58 robe" />
+    <String id="30985" string="Level 58 sleeves" />
+    <String id="30986" string="Level 58 shoes" />
+    <String id="30987" string="Level 59 twin swords" />
+    <String id="30988" string="Level 59 lance" />
+    <String id="30989" string="Level 59 greatsword" />
+    <String id="30990" string="Level 59 axe" />
+    <String id="30991" string="Level 59 disc" />
+    <String id="30992" string="Level 59 bow" />
+    <String id="30993" string="Level 59 staff" />
+    <String id="30994" string="Level 59 scepter" />
+    <String id="30995" string="Level 59 hauberk" />
+    <String id="30996" string="Level 59 gauntlets" />
+    <String id="30997" string="Level 59 greaves" />
+    <String id="30998" string="Level 59 cuirass" />
+    <String id="30999" string="Level 59 gloves" />
+    <String id="31000" string="Level 59 boots" />
+    <String id="31001" string="Level 59 robe" />
+    <String id="31002" string="Level 59 sleeves" />
+    <String id="31003" string="Level 59 shoes" />
+    <String id="31004" string="Level 60 twin swords" />
+    <String id="31005" string="Level 60 lance" />
+    <String id="31006" string="Level 60 greatsword" />
+    <String id="31007" string="Level 60 axe" />
+    <String id="31008" string="Level 60 disc" />
+    <String id="31009" string="Level 60 bow" />
+    <String id="31010" string="Level 60 staff" />
+    <String id="31011" string="Level 60 scepter" />
+    <String id="31012" string="Level 60 hauberk" />
+    <String id="31013" string="Level 60 gauntlets" />
+    <String id="31014" string="Level 60 greaves" />
+    <String id="31015" string="Level 60 cuirass" />
+    <String id="31016" string="Level 60 gloves" />
+    <String id="31017" string="Level 60 boots" />
+    <String id="31018" string="Level 60 robe" />
+    <String id="31019" string="Level 60 sleeves" />
+    <String id="31020" string="Level 60 shoes" />
+    <String id="31021" string="Level 61 twin swords" />
+    <String id="31022" string="Level 61 lance" />
+    <String id="31023" string="Level 61 greatsword" />
+    <String id="31024" string="Level 61 axe" />
+    <String id="31025" string="Level 61 disc" />
+    <String id="31026" string="Level 61 bow" />
+    <String id="31027" string="Level 61 staff" />
+    <String id="31028" string="Level 61 scepter" />
+    <String id="31029" string="Level 61 hauberk" />
+    <String id="31030" string="Level 61 gauntlets" />
+    <String id="31031" string="Level 61 greaves" />
+    <String id="31032" string="Level 61 cuirass" />
+    <String id="31033" string="Level 61 gloves" />
+    <String id="31034" string="Level 61 boots" />
+    <String id="31035" string="Level 61 robe" />
+    <String id="31036" string="Level 61 sleeves" />
+    <String id="31037" string="Level 61 shoes" />
+    <String id="31038" string="Level 62 twin swords" />
+    <String id="31039" string="Level 62 lance" />
+    <String id="31040" string="Level 62 greatsword" />
+    <String id="31041" string="Level 62 axe" />
+    <String id="31042" string="Level 62 disc" />
+    <String id="31043" string="Level 62 bow" />
+    <String id="31044" string="Level 62 staff" />
+    <String id="31045" string="Level 62 scepter" />
+    <String id="31046" string="Level 62 hauberk" />
+    <String id="31047" string="Level 62 gauntlets" />
+    <String id="31048" string="Level 62 greaves" />
+    <String id="31049" string="Level 62 cuirass" />
+    <String id="31050" string="Level 62 gloves" />
+    <String id="31051" string="Level 62 boots" />
+    <String id="31052" string="Level 62 robe" />
+    <String id="31053" string="Level 62 sleeves" />
+    <String id="31054" string="Level 62 shoes" />
+    <String id="31055" string="Level 63 twin swords" />
+    <String id="31056" string="Level 63 lance" />
+    <String id="31057" string="Level 63 greatsword" />
+    <String id="31058" string="Level 63 axe" />
+    <String id="31059" string="Level 63 disc" />
+    <String id="31060" string="Level 63 bow" />
+    <String id="31061" string="Level 63 staff" />
+    <String id="31062" string="Level 63 scepter" />
+    <String id="31063" string="Level 63 hauberk" />
+    <String id="31064" string="Level 63 gauntlets" />
+    <String id="31065" string="Level 63 greaves" />
+    <String id="31066" string="Level 63 cuirass" />
+    <String id="31067" string="Level 63 gloves" />
+    <String id="31068" string="Level 63 boots" />
+    <String id="31069" string="Level 63 robe" />
+    <String id="31070" string="Level 63 sleeves" />
+    <String id="31071" string="Level 63 shoes" />
+    <String id="31072" string="Level 64 twin swords" />
+    <String id="31073" string="Level 64 lance" />
+    <String id="31074" string="Level 64 greatsword" />
+    <String id="31075" string="Level 64 axe" />
+    <String id="31076" string="Level 64 disc" />
+    <String id="31077" string="Level 64 bow" />
+    <String id="31078" string="Level 64 staff" />
+    <String id="31079" string="Level 64 scepter" />
+    <String id="31080" string="Level 64 hauberk" />
+    <String id="31081" string="Level 64 gauntlets" />
+    <String id="31082" string="Level 64 greaves" />
+    <String id="31083" string="Level 64 cuirass" />
+    <String id="31084" string="Level 64 gloves" />
+    <String id="31085" string="Level 64 boots" />
+    <String id="31086" string="Level 64 robe" />
+    <String id="31087" string="Level 64 sleeves" />
+    <String id="31088" string="Level 64 shoes" />
+    <String id="31089" string="Level 65 twin swords" />
+    <String id="31090" string="Level 65 lance" />
+    <String id="31091" string="Level 65 greatsword" />
+    <String id="31092" string="Level 65 axe" />
+    <String id="31093" string="Level 65 disc" />
+    <String id="31094" string="Level 65 bow" />
+    <String id="31095" string="Level 65 staff" />
+    <String id="31096" string="Level 65 scepter" />
+    <String id="31097" string="Level 65 hauberk" />
+    <String id="31098" string="Level 65 gauntlets" />
+    <String id="31099" string="Level 65 greaves" />
+    <String id="31100" string="Level 65 cuirass" />
+    <String id="31101" string="Level 65 gloves" />
+    <String id="31102" string="Level 65 boots" />
+    <String id="31103" string="Level 65 robe" />
+    <String id="31104" string="Level 65 sleeves" />
+    <String id="31105" string="Level 65 shoes" />
+    <String id="31106" string="Test Ring_Common_Level1" />
+    <String id="31107" string="Test Ring_Common_Level2" />
+    <String id="31108" string="Test Ring_Common_Level3" />
+    <String id="31109" string="Test Ring_Common_Level4" />
+    <String id="31110" string="Test Ring_Common_Level5" />
+    <String id="31111" string="Test Ring_Common_Level6" />
+    <String id="31112" string="Test Ring_Common_Level7" />
+    <String id="31113" string="Test Ring_Common_Level8" />
+    <String id="31114" string="Test Ring_Common_Level9" />
+    <String id="31115" string="Test Ring_Common_Level10" />
+    <String id="31116" string="Test Ring_Common_Level11" />
+    <String id="31117" string="Test Ring_Common_Level12" />
+    <String id="31118" string="Test Ring_Common_Level13" />
+    <String id="31119" string="Test Ring_Common_Level14" />
+    <String id="31120" string="Test Ring_Common_Level15" />
+    <String id="31121" string="Test Ring_Common_Level16" />
+    <String id="31122" string="Test Ring_Common_Level17" />
+    <String id="31123" string="Test Ring_Common_Level18" />
+    <String id="31124" string="Test Ring_Common_Level19" />
+    <String id="31125" string="Test Ring_Common_Level20" />
+    <String id="31126" string="Test Ring_Common_Level21" />
+    <String id="31127" string="Test Ring_Common_Level22" />
+    <String id="31128" string="Test Ring_Common_Level23" />
+    <String id="31129" string="Test Ring_Common_Level24" />
+    <String id="31130" string="Level 25 ring" />
+    <String id="31131" string="Level 26 ring" />
+    <String id="31132" string="Level 27 ring" />
+    <String id="31133" string="Level 28 ring" />
+    <String id="31134" string="Level 29 ring" />
+    <String id="31135" string="Level 30 ring" />
+    <String id="31136" string="Level 31 ring" />
+    <String id="31137" string="Level 32 ring" />
+    <String id="31138" string="Level 33 ring" />
+    <String id="31139" string="Level 34 ring" />
+    <String id="31140" string="Level 35 ring" />
+    <String id="31141" string="Level 36 ring" />
+    <String id="31142" string="Level 37 ring" />
+    <String id="31143" string="Level 38 ring" />
+    <String id="31144" string="Level 39 ring" />
+    <String id="31145" string="Level 40 ring" />
+    <String id="31146" string="Level 41 ring" />
+    <String id="31147" string="Level 42 ring" />
+    <String id="31148" string="Level 43 ring" />
+    <String id="31149" string="Level 44 ring" />
+    <String id="31150" string="Level 45 ring" />
+    <String id="31151" string="Level 46 ring" />
+    <String id="31152" string="Level 47 ring" />
+    <String id="31153" string="Level 48 ring" />
+    <String id="31154" string="Level 49 ring" />
+    <String id="31155" string="Level 50 ring" />
+    <String id="31156" string="Level 51 ring" />
+    <String id="31157" string="Level 52 ring" />
+    <String id="31158" string="Level 53 ring" />
+    <String id="31159" string="Level 54 ring" />
+    <String id="31160" string="Level 55 ring" />
+    <String id="31161" string="Level 56 ring" />
+    <String id="31162" string="Level 57 ring" />
+    <String id="31163" string="Level 58 ring" />
+    <String id="31164" string="Level 59 ring" />
+    <String id="31165" string="Level 60 ring" />
+    <String id="31166" string="Test Earring_Common_Level1" />
+    <String id="31167" string="Test Earring_Common_Level2" />
+    <String id="31168" string="Test Earring_Common_Level3" />
+    <String id="31169" string="Test Earring_Common_Level4" />
+    <String id="31170" string="Test Earring_Common_Level5" />
+    <String id="31171" string="Test Earring_Common_Level6" />
+    <String id="31172" string="Test Earring_Common_Level7" />
+    <String id="31173" string="Test Earring_Common_Level8" />
+    <String id="31174" string="Test Earring_Common_Level9" />
+    <String id="31175" string="Test Earring_Common_Level10" />
+    <String id="31176" string="Test Earring_Common_Level11" />
+    <String id="31177" string="Test Earring_Common_Level12" />
+    <String id="31178" string="Test Earring_Common_Level13" />
+    <String id="31179" string="Test Earring_Common_Level14" />
+    <String id="31180" string="Test Earring_Common_Level15" />
+    <String id="31181" string="Test Earring_Common_Level16" />
+    <String id="31182" string="Test Earring_Common_Level17" />
+    <String id="31183" string="Test Earring_Common_Level18" />
+    <String id="31184" string="Test Earring_Common_Level19" />
+    <String id="31185" string="Test Earring_Common_Level20" />
+    <String id="31186" string="Test Earring_Common_Level21" />
+    <String id="31187" string="Test Earring_Common_Level22" />
+    <String id="31188" string="Test Earring_Common_Level23" />
+    <String id="31189" string="Test Earring_Common_Level24" />
+    <String id="31190" string="Level 25 earring" />
+    <String id="31191" string="Level 26 earring" />
+    <String id="31192" string="Level 27 earring" />
+    <String id="31193" string="Level 28 earring" />
+    <String id="31194" string="Level 29 earring" />
+    <String id="31195" string="Level 30 earring" />
+    <String id="31196" string="Level 31 earring" />
+    <String id="31197" string="Level 32 earring" />
+    <String id="31198" string="Level 33 earring" />
+    <String id="31199" string="Level 34 earring" />
+    <String id="31200" string="Level 35 earring" />
+    <String id="31201" string="Level 36 earring" />
+    <String id="31202" string="Level 37 earring" />
+    <String id="31203" string="Level 38 earring" />
+    <String id="31204" string="Level 39 earring" />
+    <String id="31205" string="Level 40 earring" />
+    <String id="31206" string="Level 41 earring" />
+    <String id="31207" string="Level 42 earring" />
+    <String id="31208" string="Level 43 earring" />
+    <String id="31209" string="Level 44 earring" />
+    <String id="31210" string="Level 45 earring" />
+    <String id="31211" string="Level 46 earring" />
+    <String id="31212" string="Level 47 earring" />
+    <String id="31213" string="Level 48 earring" />
+    <String id="31214" string="Level 49 earring" />
+    <String id="31215" string="Level 50 earring" />
+    <String id="31216" string="Level 51 earring" />
+    <String id="31217" string="Level 52 earring" />
+    <String id="31218" string="Level 53 earring" />
+    <String id="31219" string="Level 54 earring" />
+    <String id="31220" string="Level 55 earring" />
+    <String id="31221" string="Level 56 earring" />
+    <String id="31222" string="Level 57 earring" />
+    <String id="31223" string="Level 58 earring" />
+    <String id="31224" string="Level 59 earring" />
+    <String id="31225" string="Level 60 earring" />
+    <String id="31226" string="Test Necklace_Common_Level1" />
+    <String id="31227" string="Test Necklace_Common_Level2" />
+    <String id="31228" string="Test Necklace_Common_Level3" />
+    <String id="31229" string="Test Necklace_Common_Level4" />
+    <String id="31230" string="Test Necklace_Common_Level5" />
+    <String id="31231" string="Test Necklace_Common_Level6" />
+    <String id="31232" string="Test Necklace_Common_Level7" />
+    <String id="31233" string="Test Necklace_Common_Level8" />
+    <String id="31234" string="Test Necklace_Common_Level9" />
+    <String id="31235" string="Test Necklace_Common_Level10" />
+    <String id="31236" string="Collier niveau 11" />
+    <String id="31237" string="Test Necklace_Common_Level12" />
+    <String id="31238" string="Test Necklace_Common_Level13" />
+    <String id="31239" string="Test Necklace_Common_Level14" />
+    <String id="31240" string="Test Necklace_Common_Level15" />
+    <String id="31241" string="Test Necklace_Common_Level16" />
+    <String id="31242" string="Test Necklace_Common_Level17" />
+    <String id="31243" string="Test Necklace_Common_Level18" />
+    <String id="31244" string="Test Necklace_Common_Level19" />
+    <String id="31245" string="Test Necklace_Common_Level20" />
+    <String id="31246" string="Test Necklace_Common_Level21" />
+    <String id="31247" string="Test Necklace_Common_Level22" />
+    <String id="31248" string="Test Necklace_Common_Level23" />
+    <String id="31249" string="Test Necklace_Common_Level24" />
+    <String id="31250" string="Level 25 necklace" />
+    <String id="31251" string="Level 26 necklace" />
+    <String id="31252" string="Level 27 necklace" />
+    <String id="31253" string="Level 28 necklace" />
+    <String id="31254" string="Level 29 necklace" />
+    <String id="31255" string="Level 30 necklace" />
+    <String id="31256" string="Level 31 necklace" />
+    <String id="31257" string="Level 32 necklace" />
+    <String id="31258" string="Level 33 necklace" />
+    <String id="31259" string="Level 34 necklace" />
+    <String id="31260" string="Level 35 necklace" />
+    <String id="31261" string="Level 36 necklace" />
+    <String id="31262" string="Level 37 necklace" />
+    <String id="31263" string="Level 38 necklace" />
+    <String id="31264" string="Level 39 necklace" />
+    <String id="31265" string="Level 40 necklace" />
+    <String id="31266" string="Level 41 necklace" />
+    <String id="31267" string="Level 42 necklace" />
+    <String id="31268" string="Level 43 necklace" />
+    <String id="31269" string="Level 44 necklace" />
+    <String id="31270" string="Level 45 necklace" />
+    <String id="31271" string="Level 46 necklace" />
+    <String id="31272" string="Level 47 necklace" />
+    <String id="31273" string="Level 48 necklace" />
+    <String id="31274" string="Level 49 necklace" />
+    <String id="31275" string="Level 50 necklace" />
+    <String id="31276" string="Level 51 necklace" />
+    <String id="31277" string="Level 52 necklace" />
+    <String id="31278" string="Level 53 necklace" />
+    <String id="31279" string="Level 54 necklace" />
+    <String id="31280" string="Level 55 necklace" />
+    <String id="31281" string="Level 56 necklace" />
+    <String id="31282" string="Level 57 necklace" />
+    <String id="31283" string="Level 58 necklace" />
+    <String id="31284" string="Level 59 necklace" />
+    <String id="31285" string="Inventaire supplémentaire" />
+    <String id="31286" string="Test_T4.1_Ring" />
+    <String id="31287" string="Test_T4.1_Earring" />
+    <String id="31288" string="Test_T4.1_Necklace" />
+    <String id="32001" string="Inventaire supplémentaire" />
+    <String id="32002" string="Inventaire supplémentaire" />
+    <String id="32003" string="Inventaire supplémentaire" />
+    <String id="32004" string="Inventaire supplémentaire" />
+    <String id="32005" string="Inventaire supplémentaire" />
+    <String id="32006" string="Inventaire supplémentaire" />
+    <String id="32007" string="Inventaire supplémentaire" />
+    <String id="32008" string="Inventaire supplémentaire" />
+    <String id="32009" string="Inventaire supplémentaire" />
+    <String id="32010" string="Inventaire supplémentaire" />
+    <String id="32011" string="Inventaire supplémentaire" />
+    <String id="32012" string="Inventaire supplémentaire" />
+    <String id="32013" string="Inventaire supplémentaire" />
+    <String id="32014" string="Inventaire supplémentaire" />
+    <String id="32015" string="Inventaire supplémentaire" />
+    <String id="32016" string="Inventaire supplémentaire" />
+    <String id="32017" string="Inventaire supplémentaire" />
+    <String id="32018" string="Inventaire supplémentaire" />
+    <String id="32019" string="Inventaire supplémentaire" />
+    <String id="32020" string="Inventaire supplémentaire" />
+    <String id="32021" string="Inventaire supplémentaire" />
+    <String id="32022" string="Inventaire supplémentaire" />
+    <String id="32023" string="Inventaire supplémentaire" />
+    <String id="32024" string="Inventaire supplémentaire" />
+    <String id="32025" string="Inventaire supplémentaire" />
+    <String id="32026" string="Inventaire supplémentaire" />
+    <String id="32027" string="Inventaire supplémentaire" />
+    <String id="32028" string="Inventaire supplémentaire" />
+    <String id="32029" string="Inventaire supplémentaire" />
+    <String id="32030" string="Inventaire supplémentaire" />
+    <String id="32031" string="Inventaire supplémentaire" />
+    <String id="32032" string="Inventaire supplémentaire" />
+    <String id="32033" string="Inventaire supplémentaire" />
+    <String id="32034" string="Inventaire supplémentaire" />
+    <String id="32035" string="Inventaire supplémentaire" />
+    <String id="32036" string="Inventaire supplémentaire" />
+    <String id="32037" string="Inventaire supplémentaire" />
+    <String id="32038" string="Inventaire supplémentaire" />
+    <String id="32039" string="Inventaire supplémentaire" />
+    <String id="32040" string="Inventaire supplémentaire" />
+    <String id="32041" string="Inventaire supplémentaire" />
+    <String id="32042" string="Inventaire supplémentaire" />
+    <String id="32043" string="Inventaire supplémentaire" />
+    <String id="32044" string="Inventaire supplémentaire" />
+    <String id="32045" string="Inventaire supplémentaire" />
+    <String id="32046" string="Inventaire supplémentaire" />
+    <String id="32047" string="Inventaire supplémentaire" />
+    <String id="32048" string="Inventaire supplémentaire" />
+    <String id="32049" string="Inventaire supplémentaire" />
+    <String id="32050" string="Inventaire supplémentaire" />
+    <String id="32051" string="Inventaire supplémentaire" />
+    <String id="32052" string="Inventaire supplémentaire" />
+    <String id="32053" string="Inventaire supplémentaire" />
+    <String id="32054" string="Inventaire supplémentaire" />
+    <String id="32055" string="Inventaire supplémentaire" />
+    <String id="32056" string="Inventaire supplémentaire" />
+    <String id="32057" string="Inventaire supplémentaire" />
+    <String id="32058" string="Inventaire supplémentaire" />
+    <String id="32059" string="Inventaire supplémentaire" />
+    <String id="32060" string="Inventaire supplémentaire" />
+    <String id="32061" string="Inventaire supplémentaire" />
+    <String id="32062" string="Inventaire supplémentaire" />
+    <String id="32063" string="Inventaire supplémentaire" />
+    <String id="32064" string="Inventaire supplémentaire" />
+    <String id="32065" string="Inventaire supplémentaire" />
+    <String id="32066" string="Inventaire supplémentaire" />
+    <String id="32067" string="Inventaire supplémentaire" />
+    <String id="32068" string="Inventaire supplémentaire" />
+    <String id="32069" string="Inventaire supplémentaire" />
+    <String id="32070" string="Inventaire supplémentaire" />
+    <String id="32071" string="Inventaire supplémentaire" />
+    <String id="32072" string="Inventaire supplémentaire" />
+    <String id="32073" string="Inventaire supplémentaire" />
+    <String id="32074" string="Inventaire supplémentaire" />
+    <String id="32075" string="Inventaire supplémentaire" />
+    <String id="32076" string="Inventaire supplémentaire" />
+    <String id="32077" string="Inventaire supplémentaire" />
+    <String id="32078" string="Inventaire supplémentaire" />
+    <String id="32079" string="Inventaire supplémentaire" />
+    <String id="32080" string="Inventaire supplémentaire" />
+    <String id="32081" string="Inventaire supplémentaire" />
+    <String id="32082" string="Inventaire supplémentaire" />
+    <String id="32083" string="Inventaire supplémentaire" />
+    <String id="32084" string="Inventaire supplémentaire" />
+    <String id="32085" string="Inventaire supplémentaire" />
+    <String id="32086" string="Inventaire supplémentaire" />
+    <String id="32087" string="Inventaire supplémentaire" />
+    <String id="32088" string="Inventaire supplémentaire" />
+    <String id="32089" string="Inventaire supplémentaire" />
+    <String id="32090" string="Inventaire supplémentaire" />
+    <String id="32091" string="Inventaire supplémentaire" />
+    <String id="32092" string="Inventaire supplémentaire" />
+    <String id="32093" string="Inventaire supplémentaire" />
+    <String id="32094" string="Inventaire supplémentaire" />
+    <String id="32095" string="Inventaire supplémentaire" />
+    <String id="32096" string="Inventaire supplémentaire" />
+    <String id="32097" string="Inventaire supplémentaire" />
+    <String id="32098" string="Inventaire supplémentaire" />
+    <String id="46000" string="Lames doubles d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46001" string="Lance d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46002" string="Espadon d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46003" string="Hache d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46004" string="Disque d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46005" string="Arc d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46006" string="Bâton d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46007" string="Sceptre d'ensemble d'objets JcE" toolTip="Arme des Abysses. test" />
+    <String id="46008" string="Haubert d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46009" string="Gantelets d'ensemble d'objets JcE" toolTip="armure test." />
+    <String id="46010" string="Jambières d'ensemble d'objets JcE" toolTip="armure test." />
+    <String id="46011" string="Cuirasse d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46012" string="Gants d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46013" string="Bottes d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46014" string="Armure en tissu d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46015" string="Manches d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46016" string="Chaussures d'ensemble d'objets JcE" toolTip="armure test" />
+    <String id="46017" string="Lames doubles d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46018" string="Lance d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46019" string="Espadon d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46020" string="Hache d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46021" string="Disque d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46022" string="Arc d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46023" string="Bâton d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46024" string="Sceptre d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46025" string="Haubert d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46026" string="Gantelets d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46027" string="Jambières d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46028" string="Cuirasse d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46029" string="Gants d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46030" string="Bottes d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46031" string="Armure en tissu d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46032" string="Gants d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46033" string="Chaussures d'ensemble d'objets JcJ" toolTip="&lt;font color = '#c21919'&gt;Ne peut être transformé en objet de maître.&lt;/font&gt;&lt;br&gt;Manifeste des effets en JcJ en cas d'enchantement. test" />
+    <String id="46034" string="Collier d'ensemble d'objets" />
+    <String id="71374" string="Bobine lustrée" />
+    <String id="71375" string="Anneau élégant" />
+    <String id="71456" string="Explosif à jeter pour tester les compétences" toolTip="T.E.S.T." />
+    <String id="71529" string="Test de rang d'enchantement" toolTip="Test de rang d'enchantement" />
+    <String id="71686" string="Gilet en fusion" />
+    <String id="71687" string="Moufles crépitantes" />
+    <String id="71688" string="Bottes cloutées" />
+    <String id="71689" string="Décroissant de lune" />
+    <String id="71690" string="Gilet de larmes" />
+    <String id="71691" string="Gants terminaux" />
+    <String id="71692" string="Forgefaux" />
+    <String id="71754" string="Bottes de noblesse" />
+    <String id="91190" string="(Test) Lance de la Faveur de Zuras" />
+    <String id="91191" string="(Test) Espadon de la Faveur de Zuras" />
+    <String id="91192" string="(Test) Hache de la Faveur de Zuras" />
+    <String id="94901" string="Lames doubles de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94902" string="Lance de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94903" string="Espadon de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94904" string="Hache de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94905" string="Disque de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94906" string="Arc de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94907" string="Bâton de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94908" string="Sceptre de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94909" string="Faux de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94910" string="Haubert de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94911" string="Gantelets de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94912" string="Solerets de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94913" string="Cuirasse de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94914" string="Gants de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94915" string="Bottes de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94916" string="Armure en tissu de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94917" string="Manches de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94918" string="Chaussures de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94919" string="Gants de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94921" string="Bottes de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94922" string="Armure en tissu de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94925" string="Manches de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="94927" string="Chaussures de Dunkan" toolTip="Equipement archétypique adapté à un enchantement éveillé de rang 6." />
+    <String id="96000" string="Potion test_Prêtre" toolTip="Utilisez cette potion pour recevoir 4 bonus de prêtre." />
+    <String id="96001" string="Potion test_Mystique" toolTip="Utilisez cette potion pour recevoir 3 bonus de mystique." />
+    <String id="96002" string="Catalyseur de combinaison des cristaux (RANGPLUS)" toolTip="LinkRawStonId=99998" />
+    <String id="96003" string="Catalyseur de combinaison des cristaux (AMELIORATION)" toolTip="LinkRawStonId=99999" />
+    <String id="96004" string="Artefact I (improvisé virulent)" toolTip="LinkCustomizingId=41248" />
+    <String id="96005" string="Artefact II (improvisé brutal)" toolTip="LinkCustomizingId=41247" />
+    <String id="96006" string="Artefact III (improvisé cruel)" toolTip="LinkCustomizingId=41246" />
+    <String id="96007" string="(improvisé, virulent) Nivéot" toolTip="Performance identique avec le rang 6." />
+    <String id="96008" string="(improvisé brutal) Nivéot" toolTip="Performance identique avec le rang 6." />
+    <String id="101510" string="" toolTip="" />
+    <String id="101511" string="" toolTip="" />
+    <String id="101512" string="" toolTip="" />
+    <String id="101513" string="" toolTip="" />
+    <String id="101514" string="" toolTip="" />
+    <String id="101515" string="" toolTip="" />
+    <String id="101516" string="" toolTip="" />
+    <String id="101517" string="" toolTip="" />
+    <String id="101518" string="" toolTip="" />
+    <String id="101519" string="" toolTip="" />
+    <String id="101520" string="" toolTip="" />
+    <String id="101521" string="" toolTip="" />
+    <String id="101522" string="" toolTip="" />
+    <String id="101523" string="" toolTip="" />
+    <String id="101524" string="" toolTip="" />
+    <String id="101525" string="" toolTip="" />
+    <String id="101526" string="" toolTip="" />
+    <String id="101527" string="" toolTip="" />
+    <String id="101528" string="" toolTip="" />
+    <String id="101529" string="" toolTip="" />
+</StrSheet_Item>

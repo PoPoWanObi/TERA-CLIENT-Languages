@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0">&lt;PCNAME&gt;, éliminez les cochons sauvages frayant dans la ferme située au sud de l'avant-poste assiégé et rapportez-nous leurs défenses.&lt;BR&gt;&lt;BR&gt;Vos cibles sont les {@LinkCreature:17#300050#phacochères traîne-tripes prudents} et les {@LinkCreature:17#104#phacochères à défenses fourchues}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1008">
+        <Page social="5">Grâce à vous, &lt;PCNAME&gt;, nos terres sont en train de retrouver un semblant de normalité.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1008">
+        <Page social="0">Chassez les {@LinkCreature:17#300050#phacochères traîne-tripes prudents} et les {@LinkCreature:17#104#phacochères à défenses fourchues}, avant de me rapporter leurs défenses.</Page>
+    </Text>
+</QuestDialog>

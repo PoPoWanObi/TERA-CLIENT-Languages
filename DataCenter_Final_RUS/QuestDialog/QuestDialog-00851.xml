@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">&lt;PCNAME&gt;! Могу я попросить тебя об услуге? Мне нужна помощь сильного и быстрого воина.&lt;NEXTPAGEBUTTON&gt;"Для чего? Что случилось?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Мне нужны доклады моих полевых отрядов.&lt;BR&gt;&lt;BR&gt;Они работают не так далеко отсюда, но гонцы от них являются сюда полумертвыми, и от них прямо несет ленивцами. Серьезно!&lt;BR&gt;&lt;BR&gt;Ты много путешествуешь, так что тебе не составит труда заглянуть к каждому из отрядов.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1085">
+        <Page social="1">Этой дорогой ходят либо храбрецы, либо глупцы.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1086">
+        <Page social="1">Я собирался доставить доклад сам, но весьма признателен тебе за то, что мне не придется этого делать.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1087">
+        <Page social="1">{@LinkCreature:230#1005#Наисас} заставляет нас работать на износ.&lt;BR&gt;&lt;BR&gt;Думаю, он хочет побыстрее закончить полевые работы и вернуться в город. А мне нравится работать в поле!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1088">
+        <Page social="1">Осторожно, здесь обрыв! Вот мой доклад. Передай {@LinkCreature:230#1005#Наисасу}, что башни просто невероятные!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1005">
+        <Page social="1">Работа выполнена быстро и безупречно!&lt;BR&gt;&lt;BR&gt;К тому же, на тебе меньше отметин от зубов ленивцев, чем у наших обычных гонцов.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Демокроны напали на исследователей со Станции Келдар, поймав их в ловушку.&lt;BR&gt;&lt;BR&gt;Вы спасли ученых и проводили их до места назначения.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Эй? Есть тут кто-нибудь?&lt;BR&gt;&lt;BR&gt;"Здесь пригодится наша помощь!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3006">
+        <Page social="4">Хвала Орину! Мы спасены!&lt;BR&gt;&lt;BR&gt;Я - археолог со Станции Келдар. Мы возвращались с раскопок, когда на нас внезапно набросились демокроны. Охранники не смогли с ними справиться, но они хотя бы отогнали этих чудищ.&lt;BR&gt;&lt;BR&gt;К сожалению, теперь мы здесь застряли и не можем выбраться.&lt;NEXTPAGEBUTTON&gt;"Я помогу вам, если вы готовы отправиться в путь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="5">
+        <Page social="0">Спасибо тебе, &lt;PCNAME&gt;. Извини за неудобства.&lt;BR&gt;&lt;BR&gt;Нам надо поменьше читать о подвигах воинов и побольше времени уделять тренировкам, чтобы научиться защищаться.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1005">
+        <Page social="4">Спасибо за возвращение наших исследователей.&lt;BR&gt;&lt;BR&gt;Обычно стражников хватает, чтобы обеспечить нашу безопасность... но сейчас все пытаются найти высшего старейшину Верикама и укрепить оборону города, так что у них и без нас дел по горло.&lt;BR&gt;&lt;BR&gt;Еще раз спасибо.&lt;NEXTPAGEBUTTON&gt;"Не за что".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

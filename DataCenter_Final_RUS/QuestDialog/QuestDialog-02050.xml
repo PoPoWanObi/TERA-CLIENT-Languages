@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Привет, &lt;PCNAME&gt;! Можно, я буду называть тебя "умняшка-ремесляшка"?&lt;BR&gt;&lt;BR&gt;Нет? Ладно, давай договоримся. Ты поговоришь в {@LinkCreature:63#3003#Элтиэнн} и сделаешь что-нибудь из нашего обширного ремесленного списка, а я буду называть тебя исключительно "&lt;PCNAME&gt;". Звучит неплохо, правда?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Как-как тебя назвала {@LinkCreature:63#3002#Таратия}? Я думаю, что "Ваше королевское величество Царства Ремесел" тебе больше подходит.&lt;BR&gt;&lt;BR&gt;Все равно не нравится? Тебе сложно угодить!&lt;BR&gt;&lt;BR&gt;Что ж, &lt;PCNAME&gt;, покончим с издевательствами и перейдем к делу. Ты сможешь сделать несколько предметов для {@LinkCreature:63#3001#Бариана}? Отлично!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Только посмотри! Какое качество работы! Чего еще ожидать от королевского величества?..&lt;BR&gt;&lt;BR&gt;Ха! У нас новости распространяются быстро.&lt;BR&gt;&lt;BR&gt;Поговори с {@LinkCreature:63#3002#Таратией}, чтобы выслушать еще порцию насмешек и получить плату.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Сделай несколько кристальных слитков и принеси мне. Так ты мне очень поможешь.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Отлично сработано! Может быть, ты хочешь стать придворным ремесленником Длани Велики? Нет?&lt;BR&gt;&lt;BR&gt;Извини, меня Элтиэнн подговорила. Мы всегда тебе рады.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Таратия} заплатит тебе.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Изготовь немного деосилекса и принеси мне.&lt;BR&gt;&lt;BR&gt;Заранее спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Мастерская работа!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Таратия} тоже неплоха, но ты... лучше. Ладно, оставим это.&lt;BR&gt;&lt;BR&gt;Поговори со своей конкуренткой, чтобы получить оплату.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Изготовь салисовую кожу и принеси ее мне, хорошо?&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Спасибо большое!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Таратия} заплатит тебе за труды.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Изготовь ткань из вердры и принеси мне.&lt;BR&gt;&lt;BR&gt;И помни, это работа, а не веселье.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Неплохо, &lt;PCNAME&gt;. Очень неплохо.&lt;BR&gt;&lt;BR&gt;Знай, что Длань Велики весьма довольна твоей работой. А я всегда рада тебя видеть!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1056">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1056">
+        <Page social="5">Так ты знаешь о сфере некроманта? Конечно, знаешь. Вот, мне нужен ее осколок. И не спрашивай, зачем, просто нужен. И я готов предложить кое-что в обмен. &lt;NEXTPAGEBUTTON&gt;"Что же это?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ну, кусок клюва Келсаика, вот что! За два презренных осколка сферы некроманта. Такая сделка выпадает раз в жизни. Так что возвращайся, если отыщешь эти два куска!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1056">
+        <Page social="5">Вижу, у тебя есть осколки сферы. Ты держишь слово, как и я. Вот то, что я обещал тебе в обмен. Можешь всегда рассчитывать на меня.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1056">
+        <Page social="0">Нет осколков сферы? Тогда сделка не состоится.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Останови резню на Острове Мистмур!&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:12#15#Рассекателей Красной плети} и {@LinkCreature:12#21#Гулов-эксплуататоров}. Пора преподать урок синдикату!&lt;BR&gt;&lt;BR&gt;Доложи Таниэль на заставе "Заступник", когда задание будет выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Так держать, &lt;PCNAME&gt;. За Федерацию!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">Мало крови! Убей еще больше врагов, чтобы выполнить задание.</Page>
+    </Text>
+</QuestDialog>

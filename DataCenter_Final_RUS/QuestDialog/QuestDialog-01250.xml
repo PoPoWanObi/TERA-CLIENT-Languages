@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Наги пытаются воскресить Дагона и собирают его таблички.&lt;BR&gt;&lt;BR&gt;Говорят, с их помощью можно воскресить Дагона и сделать его сильнее.&lt;BR&gt;&lt;BR&gt;Мы должны заполучить эти таблички любым способом. Не хочешь немного порасхищать гробницы?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="0">Впечатляет. Независимо от того, обладают эти таблички какой-то силой или нет, они просто удивительные.&lt;BR&gt;&lt;BR&gt;Отлично сработано, &lt;PCNAME&gt;. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Мы не можем оставить таблички Дагона в когтистых лапах нагов. Неизвестно, обладают таблички какой-то силой или нет, но наги уверены, что обладают. Срыв их планов нам только на руку.</Page>
+    </Text>
+</QuestDialog>

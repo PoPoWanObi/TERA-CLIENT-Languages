@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Les patrouilles de la Garde sanglante dans l'enceinte de la citadelle sont si nombreuses qu'il nous est impossible de traverser les donjons sans tomber dans leurs embuscades. Aidez-nous à nous frayer un chemin.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:33#10#mages}, les {@LinkCreature:33#11#berserkers}, les {@LinkCreature:33#12#lanciers}, les {@LinkCreature:33#60#sorciers}, les {@LinkCreature:33#61#faucheurs}, les {@LinkCreature:33#62#champions} et les {@LinkCreature:33#70#arcanistes} de la Garde sanglante.&lt;BR&gt;&lt;BR&gt;Quand nous pourrons à nouveau envoyer nos hommes, allez prévenir Misia, la coordonnatrice du Refuge des espions, située dans les catacombes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1005">
+        <Page social="4">Votre réussite est très motivante pour nous tous. Acceptez cette récompense.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1005">
+        <Page social="0">Les gardiens sanglants nous harcèlent dès que nous quittons la base.</Page>
+    </Text>
+</QuestDialog>

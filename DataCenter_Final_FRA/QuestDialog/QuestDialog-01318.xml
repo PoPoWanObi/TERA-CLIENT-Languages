@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="97" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Hier, les Griffes noires ont attaqué deux de nos équipes de travail. Je vous envoie leur donner une leçon.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:41#3004#écraseurs} et les {@LinkCreature:41#3005#pillards Griffe noire} dans le sud de la Vallée sauvage.&lt;BR&gt;&lt;BR&gt;Présentez-vous à Keltaria à la Pointe de l'Émissaire lorsque vous aurez fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="4">Vous avez bien mérité cette récompense, &lt;PCNAME&gt;. Profitez-en bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1007">
+        <Page social="0">La tribu Corne-de-sang est la bête noire de la Fédération et me casse sérieusement les pieds. Vous nous aideriez beaucoup en tuant les {@LinkCreature:41#3004#écraseurs Griffe noire} et les {@LinkCreature:41#3005#enragés Griffe noire} dès que vous en aurez l’occasion. Rapportez de quoi prouver que vous les avez tués, et vous recevrez un peu d’or de la Fédération pour la peine.</Page>
+    </Text>
+</QuestDialog>

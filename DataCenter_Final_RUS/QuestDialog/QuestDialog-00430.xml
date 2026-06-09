@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1050">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1050">
+        <Page social="4">В свой безрассудный поход в Ущелье Скверны Сорча взяла с собой для защиты несколько живых кукол. Но ей нужны настоящие солдаты. Сможешь ли ты собрать друзей, и отправиться вслед за ней?&lt;BR&gt;&lt;BR&gt;Собери группу, в которой будет рыцарь или воин в качестве танка, лекарь - мистик или жрец, и один или два персонажа, которые будут наносить урон. Такая группа сможет справиться с любой угрозой.&lt;BR&gt;&lt;BR&gt;Телепорт готов перенести вас к Сорче. Удачи.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="437" prevId="2" villagerId="1001">
+        <Page social="4">Это было так страшно! И... м-м... прошу прощения.&lt;BR&gt;&lt;BR&gt;Спасибо, что защитили меня. Не стоило отправляться сюда, не заручившись помощью солдат.&lt;BR&gt;&lt;BR&gt;Я только сделаю еще несколько последних измерений, и догоню вас. А вы можете воспользоваться &lt;B&gt;телепортом&lt;/B&gt;, чтобы вернуться в &lt;B&gt;Форпост у башни&lt;/B&gt;. Скажи &lt;B&gt;адъютанту Джорхону&lt;/B&gt;, что я в порядке... благодаря вам.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1006">
+        <Page social="4">Отличная работа в ущелье, &lt;PCNAME&gt;. Спасибо за помощь Сорче.&lt;BR&gt;&lt;BR&gt;И пусть это станет для тебя уроком: какими бы мы ни были хорошими солдатами, в группе мы сильнее. Помни про это, когда будешь сражаться за Федерацию. С некоторыми опасностями не справиться без команды.</Page>
+    </Text>
+</QuestDialog>

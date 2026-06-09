@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="4">Die Nekromanten legen Knochenhaufen frei. Ich fürchte, sie versuchen, Skelettsoldaten zu mobilisieren.&lt;BR&gt;&lt;BR&gt;Das ist kein angenehmer Auftrag, aber Ihr müsst diese Knochenhaufen einsammeln, sonst kämpfen wir immer wieder gegen denselben Feind.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="4">Das haben wir gerade noch mal abgewendet, was? Nicht auszudenken, was passiert wäre, wenn alle diese Knochen zu Soldaten geworden wären.&lt;BR&gt;&lt;BR&gt;Gute Arbeit, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">Sammelt die Skelettknochen ein, bevor die Nekromanten sie in Soldaten verwandeln!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Меня беспокоит Накараш. Для меня загадка, почему его так трудно убить. Следует отдать должное, мои солдаты сражались как могли, но он просто стер их в порошок.&lt;BR&gt;&lt;BR&gt;Я не совру, если скажу, что битва предстоит очень тяжелая. Когда {@LinkCreature:7#18#Накараш} будет убит, мы на один шаг станем ближе к завершению наших исследований. А там уже можно будет подумать о возвращении этого района под контроль Федерации.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">С Накарашем покончено? И даже удалось раздобыть чешую для исследований? Я начинаю думать, что ты впустую растрачиваешь свои таланты. Тебе следовало бы тренировать наших лучших солдат в Легионе!&lt;BR&gt;&lt;BR&gt;Спасибо, мой бесстрашный и безумный друг, теперь я смогу закончить исследования и вернуться в святилище Аллемантеи. Благодарю, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">Я не рискну продолжать исследования, пока где-то поблизости ошивается Накараш. Убив его, ты спасешь нас всех.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1001">
+        <Page social="5">Кусок брони Накараша? Любопытно. Похоже, ты по-настоящему мастер своего дела - уложить такое чудовище.&lt;BR&gt;&lt;BR&gt;Мы внимательно изучим то, что тебе удалось принести, и посмотрим, как извлечь из этого максимальную пользу. Благодарим тебя.</Page>
+    </Text>
+</QuestDialog>

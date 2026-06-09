@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Прости, что смеялся над тобой, &lt;PCNAME&gt;. Ты действительно великий &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Прими мои извинения. Отлично! Ты можешь помочь моему другу Таруту? Ему нужен отчаянный &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Это безумие - бросаться прямо в пасть смерти. Неужели всех этих трупов и скелетов тебе недостаточно?&lt;BR&gt;&lt;BR&gt;Мне пригодится любая помощь, особенно, если она исходит от Крока.&lt;BR&gt;&lt;BR&gt;Добро пожаловать в место, священное для каждого амана!</Page>
+    </Text>
+</QuestDialog>

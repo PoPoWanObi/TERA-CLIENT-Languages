@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="4">Les sentinelles nagas du Rivage du Boa surveillent nos mouvements de troupes et tiennent le reste de leurs frères informés de ce que nous faisons. Eliminez les {@LinkCreature:10#16#chevauche-griffus nagas};&amp;nbsp; l'espionnage de nos troupes doit cesser. Allez ensuite présenter votre rapport à Briale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1007">
+        <Page social="4">Je parie que maintenant, quand il vous aperçoivent, les nagas doivent perdre leur "sang froid".&lt;BR&gt;&lt;BR&gt;Elle est bonne, non?&amp;nbsp; "Sang froid"?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les reptiles... le sang froid... *toux embarrassée*...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1007">
+        <Page social="0">Si l'ennemi nous met constamment des bâtons dans les roues, nous n'avons aucune chance de gagner cette guerre, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

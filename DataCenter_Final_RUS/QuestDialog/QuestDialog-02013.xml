@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Тебе уже доводилось сталкиваться с ленивцами? И как, понравились?&lt;BR&gt;&lt;BR&gt;Нет? Хочешь оказать им ответную любезность?&lt;BR&gt;&lt;BR&gt;Тогда поговори с {@LinkCreature:71#3014#Арурой}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Сердечно приветствую! Полагаю, тебе немало досталось от зубов ленивцев.&lt;BR&gt;&lt;BR&gt;Пришло время расплаты. По этим фруктам они сходят с ума? Тогда собери их столько, сколько сможешь унести.&lt;BR&gt;&lt;BR&gt;Плевое дело! Просто хорошенько потряси {@WorkObject:75}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Отличная работа. А теперь самое веселое-отравить их!&lt;BR&gt;&lt;BR&gt;Не переживай. Ленивцы - единственные, кто эти фрукты ест!&lt;BR&gt;&lt;BR&gt;Ну и я еще.</Page>
+    </Text>
+</QuestDialog>

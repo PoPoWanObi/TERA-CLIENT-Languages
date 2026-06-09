@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="4">Köpfe, die brauche ich. Insbesondere die Köpfe der Argonomorphkriegsherren aus der Gegend rund um Raga Kabash. Mir ist nicht klar, wie die Argonen sie neu programmieren konnten!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1033">
+        <Page social="4">Mit diesen Exemplaren sollte ich die Indoktrinationstechniken der Argonen nachvollziehen können. Euch steht nun die nächste Kammer offen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1033">
+        <Page social="0">Ich brauche diese Köpfe, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1035">
+        <Page social="4">Ich weiß, ich weiß, Argonen in der Nähe, müssen evakuieren ... Was? Ihr wollt mich nicht vertreiben? Gut. Ich hätte mich ohnehin geweigert.</Page>
+    </Text>
+</QuestDialog>

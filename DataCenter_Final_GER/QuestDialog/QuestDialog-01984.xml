@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220040">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220040">
+        <Page social="0">Wir können die Forschungen der Union der Erleuchtung zwar nicht aufhalten, aber wir können sie bremsen.&lt;BR&gt;&lt;BR&gt;Setzt ihre Nokteniumextraktoren außer Gefecht. Bringt mir die Extraktorschlüssel.&lt;BR&gt;&lt;BR&gt;Sie werden gar nicht wissen, wie ihnen geschieht!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220040">
+        <Page social="0">Ihre Fortschritte zu bremsen, wird dem Eisernen Orden einen Vorsprung verschaffen.&lt;BR&gt; &lt;BR&gt;Wollt Ihr es noch einmal probieren, &lt;PCName&gt;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220040">
+        <Page social="0">Für den Eisernen Orden!</Page>
+    </Text>
+</QuestDialog>

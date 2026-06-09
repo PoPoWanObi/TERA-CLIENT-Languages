@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0">Ihr seid jetzt offiziell {@gender:Föderationssoldat/Föderationssoldatin} geworden. Ihr wurdet nach Velika gerufen, um dort Kommandant Seir zu treffen, den Truppenkommandanten der Valkyon-Föderation.&lt;BR&gt;&lt;BR&gt;Seir war von Euch beeindruckt und hat Euch formell im Dienst der Föderation willkommen geheißen. Der wahre Machthaber des Militärs, Kommandant Samael, scheint jedoch nicht sonderlich viel von Euch zu halten. Er hat Eure Erfolge als reine Glückssache abgetan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="4">&lt;PCNAME&gt;, Ihr habt auf der Insel der Dämmerung gute Arbeit geleistet. Kommandant Seir ist erpicht darauf, Euch zu sprechen. Begebt Euch zum Hauptquartier der Föderation und sprecht mit Uriela.&lt;BR&gt;&lt;BR&gt;Sie wird Euch den richtigen Weg weisen. Viel Glück!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4">&lt;PCNAME&gt;? Habe ich diesen Namen nicht schon einmal gehört? Oh! Aber ja, Ihr seid einer der Rekruten, die uns auf der Insel aus der Not geholfen haben! Was für eine sonderbare Insel ...&lt;BR&gt;&lt;BR&gt;Ah, verzeiht. Ich war gerade in Gedanken versunken. Bitte tretet ein. Kommandant Seir erwartet Euch bereits.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4">&lt;PCNAME&gt;? Sehr erfreut, {@gender:einen jungen Soldaten/eine junge Soldatin} mit Eurer Tatkraft kennenzulernen!&lt;BR&gt;&lt;BR&gt;Aufgrund der Lage in der Provinz Arcadia und der Tatsache, dass wir nur wenige Soldaten hier - so weit von der argonischen Front entfernt - haben, brauchen wir einfach mehr Leute, die die Initiative ergreifen.&lt;BR&gt;&lt;BR&gt;Lasst mich Euch in aller Form in den Rängen der Valkyon-Föderation willkommen heißen!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1102">
+        <Page social="4">Die Kunde von Euren Heldentaten auf der Insel der Dämmerung hat sich schnell verbreitet, &lt;PCNAME&gt;. Die Föderation braucht Euch jetzt mehr denn je. Seid Ihr bereit für neue Befehle?&lt;NEXTPAGEBUTTON&gt;"Ja!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hervorragend! Kommandant Samael wird Euch Euren nächsten Auftrag erteilen. Es war mir eine Freude, Euch kennenzulernen, &lt;PCNAME&gt;. Ich freue mich darauf, Berichte über Eure Heldentaten zu lesen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1137">
+        <Page social="4">Hört mal, Ihr habt Euch ja ganz wacker geschlagen ... Sofern man das Töten von ein paar Ferkeln als Kämpfen bezeichnen kann. Wir haben hier aber echte Probleme, für die es auch echte Soldaten braucht. In Arcadia findet ein Aufstand statt und aus dem Norden kommt kein Nachschub.&lt;BR&gt;&lt;BR&gt;Wenn Ihr dem nicht gewachsen seid, riskiert Ihr damit Leben. Ihr solltet stets das große Ganze im Auge behalten. Es braucht mehr als nur Glück, um Soldat zu sein.</Page>
+    </Text>
+</QuestDialog>

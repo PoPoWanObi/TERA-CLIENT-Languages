@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">Ein Untotengeneral namens {@LinkCreature:32#19$$Chimakur} terrorisiert die {@Rgn:32006$$Eisige Nachtwache}.&lt;BR&gt;&lt;BR&gt;Sie nennen ihn den Oberhenker, was auch passend ist, weil er bereits drei erfahrene Föderationssoldaten umgebracht hat.&lt;BR&gt;&lt;BR&gt;Was meint Ihr? Sucht Ihr eine Herausforderung? Das hoffe ich doch. Es wird nicht lange dauern, bis der Henker auch unsere Köpfe holen kommen möchte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Ich habe mich in Euch nicht getäuscht. Hier ist eine Kleinigkeit für Euch, weil Ihr uns aus dem Schlamassel geholt habt.</Page>
+    </Text>
+</QuestDialog>

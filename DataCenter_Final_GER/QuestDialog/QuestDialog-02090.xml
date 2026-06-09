@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="424" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="4">Seir hat nach Euch gefragt, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es ist Eure Entscheidung, aber ich würde ihn nicht warten lassen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">{@LinkCreature:63#1048} hat letzte Nacht im Collegium Arcanum etwas Verstörendes gesehen: Sie behauptet, es waren Gula.&lt;BR&gt;&lt;BR&gt;Fragt sie danach, und geht der Sache auf den Grund. Wenn sie recht hat, könnte das eine ernste Sache sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1048">
+        <Page social="4">Da waren Gula. Ich bin nicht nahe herangegangen, aber ich weiß, was ich gesehen ... und gerochen habe.&lt;BR&gt;&lt;BR&gt;Sie sahen sich ein Buch an, das über {@LinkCreature:424#2000}, den Ziegendämon. Als sie mich erblickten, rissen sie die Seite mit dem Beschwörungszauber aus dem Buch und verschwanden.&lt;BR&gt;&lt;BR&gt;Sie haben eine Marke des Kazuursyndikats zurückgelassen. Anscheinend sind sie aus Ostgarath gekommen.&lt;BR&gt;&lt;BR&gt;Mehr weiß ich nicht. Vielleicht kann Euch jemand im {@Rgn:12013} noch mehr erzählen, denn die Leute dort haben Umgang mit dem Syndikat.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1007">
+        <Page social="6">Das Kazuursyndikat? Sein Stützpunkt liegt westlich von hier in der Nähe eines Ortes, den man {@Rgn:12003} nennt. Ihr wollt dort bestimmt nicht hingehen.&lt;NEXTPAGEBUTTON&gt;"Doch, und ich sage Euch auch, warum."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Das ist ja eine verrückte Geschichte. Und {@LinkCreature:424#2000} möchte ich nicht einmal sehen, wenn ich heute Abend die Augen schließe.&lt;BR&gt;&lt;BR&gt;Wenn Ihr wirklich entschlossen seid, dann werdet Ihr Euch durch die {@Rgn:12003} durchkämpfen müssen, um zum {@Rgn:9024001} zu gelangen.&lt;BR&gt;&lt;BR&gt;Viel Glück.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" prevId="5" villagerId="1501">
+        <Page social="6">(Dieses Teleportal wird Euch zum {@Rgn:9024001} bringen.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1102">
+        <Page social="6">Ihr habt der Föderation einen großen Dienst erwiesen, indem Ihr {@LinkCreature:424#2000} ausgeschaltet habt, &lt;PCNAME&gt;. Wir möchten Euch mit einem Zeichen unserer Dankbarkeit belohnen.&lt;BR&gt;&lt;BR&gt;Und natürlich mit unserem immerwährenden Dank, aber den habt Ihr Euch ja ohnehin schon längst gesichert.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="1102">
+        <Page social="0">Vielleicht begreift Ihr den Ernst der Lage nicht. {@LinkCreature:424#2000} muss sterben, und Ihr sollt diese Aufgabe übernehmen.&lt;BR&gt;&lt;BR&gt;Kommt erst zurück, wenn es vollbracht ist.</Page>
+    </Text>
+</QuestDialog>

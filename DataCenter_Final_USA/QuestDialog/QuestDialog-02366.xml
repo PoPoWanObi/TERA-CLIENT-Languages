@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="766" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;,&lt;BR&gt;I hope this missive finds you in good health, for I am in urgently in need of your aid.&lt;BR&gt;&lt;BR&gt;The noctenium fleet is overdue, and we believe it may have foundered on the rocks of Basilisk Reef, just off the Jagged Coast, during a heavy storm. We have sent ships to investigate, but they, too, have failed to return.&lt;BR&gt;&lt;BR&gt;The noctenium ore the fleet was carrying is quite valuable, so I am prepared to offer you a significant reward if you can help me locate the ships and secure the cargo.&lt;BR&gt;&lt;BR&gt;I will meet you at Basilisk Reef, and we can begin our search from there.&lt;BR&gt;&lt;BR&gt;- Taylor, Federation Fleet Supply</Page>
+    </Text>
+    <Text id="3" huntingZoneId="766" prevId="2" villagerId="76637">
+        <Page social="0">Thank you for your help, &lt;PCNAME&gt;. If you hadn't come, I would still be stranded out here, surrounded by these monstrously-transformed crewmen—and the noctenium would've been lost forever.&lt;BR&gt;&lt;BR&gt;You have more than earned this reward.</Page>
+    </Text>
+</QuestDialog>

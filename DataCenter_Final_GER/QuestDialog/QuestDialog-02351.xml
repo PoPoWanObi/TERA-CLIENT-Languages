@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">Ihr habt den Tuwangi geholfen und an der Teichfeier teilgenommen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">Die Teichfeier ist eine Zeremonie für alle Tuwangi, die sieben Jahre alt werden. Die Rituale bei dieser Feier sind überraschend kompliziert für eine solch simple Spezies.&lt;BR&gt;&lt;BR&gt;Sprecht mit dem Schamanen Haroso. Vielleicht lässt er Euch die jungen Tuwangi beobachten oder sogar mitfeiern. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Jung Tuwangi Angst. Verstecken jetzt. Müssen finden. Müssen mutig machen! &lt;NEXTPAGEBUTTON&gt;Kann ich helfen?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Haroso geben Trommel.&lt;BR&gt;Bang-bang trommeln! Trommel schlagen, dann Tuwangi mutig.&lt;BR&gt;&lt;BR&gt;Findet Tuwangi! Schlagt Trommel. Macht mutig.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2006">
+        <Page social="4">Muss ... mutig ... sein ...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="4">Danke! Ihr gut gearbeitet. Wir feiern!&lt;BR&gt;&lt;BR&gt;Große Feier für Eure Arbeit! &lt;NEXTPAGEBUTTON&gt;Das war keine Mühe.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bringen Festessen! Bringen Drachenfleisch! Alle Tuwangi feiern! Drachenfleisch gut!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="5" villagerId="2001">
+        <Page social="4">Drachenfleisch!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Drachenfleisch!</Page>
+    </Text>
+</QuestDialog>

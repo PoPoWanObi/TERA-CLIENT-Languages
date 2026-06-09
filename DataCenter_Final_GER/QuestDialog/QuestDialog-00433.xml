@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">Nachdem Ihr als {@gender:neuer Rekrut/neue Rekrutin} auf der Insel der Dämmerung angekommen wart, bat Euch Legat Lam darum, Euch auf Eurem Weg zur Turmbasis bei den anderen Kommandanten zu melden.&lt;BR&gt;&lt;BR&gt;Auf dem Weg zu Dularis Lager hattet Ihr Eure erste Begegnung mit den lebendigen Baumgeistern namens Ghilliedhus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Axelle und ich warten, dass wir hier herauskommen, aber Adria besteht darauf, dass wir uns regelmäßig melden und Bericht erstatten. Na dann mal Glückwunsch, Eure ersten Befehle lauten wie folgt.&lt;BR&gt;&lt;BR&gt;Zählt auf dem Weg zu Adria einmal schnell durch, wie viele wir sind, und sagt ihr, dass es uns gut geht.&lt;BR&gt;&lt;BR&gt;Ich habe &lt;font color='#660000'&gt;Elion&lt;/font&gt; schon eine Weile nicht gesehen, wo ich so darüber nachdenke, wenn Ihr also einen Elf mit einer schlechten Einstellung und einem langen Schal seht, sagt ihm, dass er sich längst hätte melden sollen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">{@gender:Ein neuer Rekrut/Eine neue Rekrutin}? Wie seltsam.&lt;BR&gt;&lt;BR&gt;Ihr seid natürlich sehr willkommen hier. Die Mission dieses Kontrollpunkts ist es, die Anlegestelle zu beschützen. Besonders vor &lt;font color='#660000'&gt;Ghilliedhus&lt;/font&gt;, aber auch vor anderen Bedrohungen.&lt;BR&gt;&lt;BR&gt;Reist diese Straße entlang zu Dularis Lager und erledigt auf dem Weg ein paar {@linkcreature:13#300931#Ghilliedhus}.&lt;BR&gt;&lt;BR&gt;Aber gebt Acht. So manch {@gender:ein Rekrut/eine Rekrutin} ist bereits ihren scharfen Klauen zum Opfer gefallen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">Hmm, diese Klauen ... Ihr habt Ghilliedhus gejagt, nicht wahr?&lt;BR&gt;&lt;BR&gt;Elion sagte etwas davon, sie an der Quelle auszumerzen, aber ich habe ihn schon eine Weile lang nicht mehr gesehen.&lt;BR&gt;&lt;BR&gt;Gut gemacht, {@gender:Rekrut/Rekrutin}!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

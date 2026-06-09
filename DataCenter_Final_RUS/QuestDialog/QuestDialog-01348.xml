@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Нужно убрать мусор, который оставили после себя аргоны.&lt;BR&gt;&lt;BR&gt;Однако {@LinkCreature:47#4002#Аргоновые наги-червеныши}, {@LinkCreature:47#1002#Аргоновые тиркаи-гризли} и {@LinkCreature:47#4003#Аргоновые гулы-драчуны} не дают спокойно передвигаться по Аргонскому пограничью.&lt;BR&gt;&lt;BR&gt;Избавь нас от них, пожалуйста.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1005">
+        <Page social="5">Мы благодарны тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1005">
+        <Page social="0">Надеюсь, ты не забудешь об {@LinkCreature:47#4002#Аргоновых нагах-червенышах}, {@LinkCreature:47#1002#Аргоновых тиркаях-гризли} и {@LinkCreature:47#4003#Аргоновых гулах-драчунах}. Хочу, чтобы они оставили нас в покое.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="479" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">Wir haben Informationen erhalten, dass die übrigen Argonen sich gegen uns verschwören.&lt;BR&gt;&lt;BR&gt;Sie werden Saravash genannt. Tötet sie und zerstört ihr Versteck. Findet Tryphena beim Außenposten der Reliquienjäger. Sie wird Euch zum Teleportal führen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="5">Danke, dass Ihr gekommen seid. Arkaius hat mich angewiesen, hier ein Teleportal aufzustellen. &lt;BR&gt;&lt;BR&gt;Nehmt diesen Argonenschlüssel und benutzt ihn, um das Teleportal zu bedienen und tötet Saravash.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1501">
+        <Page social="0">(Dieses Teleportal wird Euch zum Aufstieg von Saravash bringen.)</Page>
+    </Text>
+</QuestDialog>

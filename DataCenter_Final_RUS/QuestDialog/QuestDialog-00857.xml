@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Попробуем направить твое желание помочь всему миру в правильное русло, &lt;PCNAME&gt;. Ты поможешь Сестене - исследовательнице, которая занимается поиском архивных табличек.&lt;BR&gt;&lt;BR&gt;Считай это своим наказанием за случившееся.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1019">
+        <Page social="1">Ты просто спасаешь меня!&lt;BR&gt;&lt;BR&gt;Верхний Архив так велик, что я даже не знаю, с чего начать.&lt;BR&gt;&lt;BR&gt;Архивные таблички, которые мне нужны, находятся в каменных ящиках, расставленных по всему храму.&lt;BR&gt;&lt;BR&gt;Собери как можно больше табличек и отдай их {@LinkCreature:230#1026#Метерогу}. Надеюсь, он сможет разместить их по порядку.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1026">
+        <Page social="1">Это настоящее сокровище! Обращайся с табличками бережнее, ведь их изготовили еще во времена древней империи великанов.&lt;BR&gt;&lt;BR&gt;У меня есть теория о том, что великаны, написавшие эти таблички, были прямыми предками барака - то есть, стремились не к завоеваниям, а к знаниям.&lt;BR&gt;&lt;BR&gt;Само собой, я награжу тебя за труды.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1026">
+        <Page social="0">О, Сестена прислала мне подмогу. Как раз вовремя.</Page>
+    </Text>
+</QuestDialog>

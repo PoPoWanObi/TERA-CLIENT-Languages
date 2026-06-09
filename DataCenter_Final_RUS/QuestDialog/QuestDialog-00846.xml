@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="1">Эй, у тебя найдется свободная минутка? У меня есть задание, для которого потребуется ловкость и сообразительность. Говорят, что тебе этого не занимать.&lt;BR&gt;&lt;BR&gt;На местных {@LinkCreature:30#10#Пепельных горилл} нападают злобные ленивцы. Нет, правда. Ленивцы.&lt;BR&gt;&lt;BR&gt;Гориллы не нападают, если их не провоцировать, но ленивцы яростно дерутся с ними за территорию! &lt;NEXTPAGEBUTTON&gt;"И чем я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Мы собираем горилл на защищенной территории у ворот Бастиона, чтобы спасти их популяцию.&lt;BR&gt;&lt;BR&gt;Вот, возьми эти фрукты - гориллы их обожают - и замани одну их них в загон. Остальное сделаем мы.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:30#10#Гориллы} - смирные создания, но будь осторожнее с ленивцами!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="23">
+        <Page social="0">(Горилла не сводит глаз с фрукта, но не решается подойти слишком близко.)&lt;BR&gt;&lt;BR&gt;(Если вы медленно пойдете к загону, она последует за вами.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="1104">
+        <Page social="1">Удивительные существа, верно?&lt;BR&gt;&lt;BR&gt;Жаль, что ленивцы не дают им покоя.&lt;BR&gt;&lt;BR&gt;Мы хоть и натуралисты, но только обрадуемся, если эти кошмарные когтистые твари будут истреблены.</Page>
+    </Text>
+</QuestDialog>

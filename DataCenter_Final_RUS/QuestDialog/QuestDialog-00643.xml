@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Ведьмы захватили Пагубные лаборатории и варят там какое-то снадобье. Зелья им хватит, чтобы отравить целый замок. Прошу тебя,&lt;PCNAME&gt;, уничтожь моих сестер, {@LinkCreature:22#19#Вадомских ведьм} и {@LinkCreature:22#20#Сумеречных проводников}, пока не стало слишком поздно.&lt;BR&gt;&lt;BR&gt;Если их не остановить, опасность угрожает всему королевству.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Молодец, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Значит, вся беда была в этих котлах? Но чьи же они?&lt;BR&gt;&lt;BR&gt;Ненавижу тайны.</Page>
+    </Text>
+</QuestDialog>

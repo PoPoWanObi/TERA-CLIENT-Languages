@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="0">Nachdem Ihr in Mags Kulkar Devaner entdeckt hattet, habt Ihr den Darmschlitzerhäuptling Krashar besiegt und eine Marke von Lok an Euch genommen. Jetzt habt Ihr den Beweis, dass die Devaner und die Nachkommen Loks etwas mit der kürzlich erfolgten Invasion der Darmschlitzer zu tun haben.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="4">Normalerweise sind Darmschlitzer nicht so aggressiv - sie haben noch nie vorher ein ganzes Dorf ausgelöscht.&lt;BR&gt;&lt;BR&gt;Infiltrationsagentin Lisadore hat sie in ihrem Revier beobachtet. Wenn Ihr sie findet, hat sie vielleicht inzwischen ein paar Informationen für Euch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1041">
+        <Page social="4">Sozia schickt Euch, hab ich recht? Gut. Meine Adjutantin Ethia hat berichtet, dass die Darmschlitzer möglicherweise besondere Waffen besitzen.&lt;BR&gt;&lt;BR&gt;Ihr müsst einige der {@LinkCreature:6#2061#Darmschlitzerwachposten} und {@LinkCreature:6#2051#Darmschlitzermäher} ausschalten. Wollen wir doch mal sehen, ob wir etwas Ungewöhnliches finden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1041">
+        <Page social="4">Das sollen ihre Waffen sein? Das sieht für mich nach dem üblichen Spielzeug der Darmschlitzer aus.&lt;BR&gt;&lt;BR&gt;Ethia erkundet die Gegend um Mags Kulkar, südlich von hier. Versucht doch einmal herauszufinden, wovon sie gesprochen hat.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" villagerId="1041">
+        <Page social="0">Schauen wir und diesmal die Waffen einer anderen Gruppe an.&lt;BR&gt;&lt;BR&gt;Bringt mir welche der {@LinkCreature:6#2061#Darmschlitzerwachposten} und {@LinkCreature:6#2051#Darmschlitzermäher}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="4" villagerId="1006">
+        <Page social="4">Nun, wenn sie die Berichte, die ich geschickt habe, gelesen hätte ...&lt;BR&gt;&lt;BR&gt;Ich schrieb, dass ich gesehen hatte, wie die Darmschlitzer eine Menge schwerer {@LinkObject:33#Kisten} nach Mags Kulkar brachten. Ich vermute, dass es sich um Waffen handelt, und zwar nicht diese Steindinger, die sie jetzt verwenden.&lt;BR&gt;&lt;BR&gt;Brecht einige von diesen Kisten auf und bringt mir Beweise.&lt;NEXTPAGEBUTTON&gt;"Ihr wollt die Waffen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ja, und findet {@LinkCreature:6#7031#Krashar}, den Häuptling. Er wird wissen, woher diese Kisten stammen.&lt;BR&gt;&lt;BR&gt;Ich bezweifle allerdings, dass er Euch das freiwillig sagen wird ...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1006">
+        <Page social="4">Devaner? Die Kisten waren voller Devaner? Und Krashar ist tot? Soll mir recht sein, solange Ihr die Informationen habt, die ich brauche.&lt;NEXTPAGEBUTTON&gt;"Das hier habe ich gefunden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ein Wappen? Die Darmschlitzer haben keine Wappen ...&lt;BR&gt;&lt;BR&gt;Das ist eine Marke von Lok! Die Darmschlitzer stehen nicht mit Lok im Bund - zumindest war dies bislang so.&lt;BR&gt;&lt;BR&gt;Beeilt Euch. Wir müssen das Verteidigerlager wissen lassen, dass die Devaner und die Nachkommen Loks mit den Darmschlitzern unter einer Decke stecken! Bringt das hier zu Crevan dort.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="206" villagerId="1006">
+        <Page social="0">Habt Ihr schon irgendetwas gefunden? Wir müssen herausfinden, was da vorgeht!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1021">
+        <Page social="4">Das Wappen von Lok! Das habt Ihr von Krashar? Da ist ... das ist wirklich seltsam.&lt;BR&gt;&lt;BR&gt;Ich bin mir nicht sicher, was das zu bedeuten hat. Aber ich werde es herausfinden.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="206" villagerId="1021">
+        <Page social="0">Konntet Ihr etwas über diese Darmschlitzer herausfinden?</Page>
+    </Text>
+</QuestDialog>

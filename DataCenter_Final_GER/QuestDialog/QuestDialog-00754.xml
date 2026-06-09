@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">Das Problem mit der Reißzahnbrut besteht noch immer.&lt;BR&gt;&lt;BR&gt; Dieses Mal lauten Eure Befehle, die {@LinkCreature:23#13#Ätzende Reißzahnbrut} auszuschalten und ihre Herzen an Euch zu nehmen.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Dainell, wenn Ihr die Aufgabe erledigt habt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1005">
+        <Page social="5">Ihr werdet immer besser darin. Vielleicht solltet Ihr über eine Karriere beim Militär nachdenken!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1005">
+        <Page social="0">Tut mir leid, aber ich muss die feurigen Herzen sehen, bevor ich die Belohnung auszahlen kann.</Page>
+    </Text>
+</QuestDialog>

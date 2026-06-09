@@ -1,0 +1,32 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="408" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1001" scale="0.625" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1002" scale="1" shapeId="510523" gender="female" race="HighElf" resourceSize="100" resourceType="medium" size="medium" parentId="51052300" basicActionId="5105200" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="44" maxHp="31439" />
+    </Template>
+    <Template id="1003" scale="1" shapeId="525011" gender="female" race="Highelf" resourceSize="100" resourceType="medium" size="medium" parentId="52501100" basicActionId="5250100" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <Stat level="44" maxHp="31439" />
+    </Template>
+    <Template id="1004" scale="1" shapeId="510580" gender="male" race="Highelf" resourceSize="100" resourceType="medium" size="medium" parentId="51058000" basicActionId="5105800" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <Stat level="44" maxHp="27338" />
+    </Template>
+    <Template id="1007" scale="1" shapeId="510523" gender="female" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5105200" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1008" scale="1" shapeId="525011" gender="female" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5001400" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1009" scale="1" shapeId="527060" gender="male" race="Human" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5270600" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="6001" scale="1.05" shapeId="300851" gender="male" race="YuantiBuserker" resourceSize="100" resourceType="medium" size="large" parentId="30085000" basicActionId="3008500" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true" spawnScriptId="140860011">
+        <NamePlate nameplateHeight="280" deathNameplateHeight="0" />
+        <Stat level="44" maxHp="523831" />
+    </Template>
+</NpcData>

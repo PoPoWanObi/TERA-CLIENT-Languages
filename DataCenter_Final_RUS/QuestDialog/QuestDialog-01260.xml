@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="42">Мы нанесли нагам чувствительный удар, но не стоит расслабляться.&lt;BR&gt;&lt;BR&gt;Сразись с выжившими нагами, охраняющими галерею на третьем этаже храма.&lt;BR&gt;&lt;BR&gt;Убей как можно больше {@LinkCreature:42#210#Дагонитов-крестоносцев}, {@LinkCreature:42#310#Нагов-тридентариев}, {@LinkCreature:42#330#Нагов-стражников}, а также {@LinkCreature:42#900#Меконари-шаманов}, {@LinkCreature:42#910#Меконари-ведьм} и {@LinkCreature:42#1000#Меконари-караульных}.&lt;BR&gt;&lt;BR&gt;Доложи {@LinkCreature:75#1016#Гласринн} в Фронтере, когда закончишь проливать реки крови.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1016">
+        <Page social="0">Благодаря тебе, нам удалось ослабить нагов. Но многое еще предстоит сделать. Надеюсь, ты останешься, чтобы помогать нам и впредь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" villagerId="1016">
+        <Page social="0">Я никогда не говорила, что будет легко, но твои деяния помогают нам выживать и заниматься тем, ради чего мы сюда пришли. Продолжай в том же духе.</Page>
+    </Text>
+</QuestDialog>

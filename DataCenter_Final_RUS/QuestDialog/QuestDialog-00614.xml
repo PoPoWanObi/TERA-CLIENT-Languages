@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">Меня тревожит кое-что, что я увидел в &lt;font color='#660000'&gt;Воющем доле&lt;/font&gt;. Два существа одного вида сражались друг с другом и победитель стал пожирать плоть побежденного.&lt;BR&gt;&lt;BR&gt;Это ненормальное поведение. Думаю, нам нужно во всем разобраться.&lt;NEXTPAGEBUTTON&gt;"Что мы можем сделать?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Наша магия может пролить свет на данный феномен. Твое задание - охота на {@LinkCreature:21#4#Окаянных орисков} и сбор их проб кожи и крови.&lt;BR&gt;&lt;BR&gt;Принеси их обратно и мы посмотрим, сможем ли мы узнать, что заставило их вести себя так необычно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">Надеюсь, что для тебя это было не слишком обременительно. Пустыня грязная и опасная.&lt;BR&gt;&lt;BR&gt;Удалось добыть пробы? Дай мне на них посмотреть. А сейчас отойди. Пришло время для грязной работенки.&lt;BR&gt;&lt;BR&gt;Клянусь Богом! Меня чуть не стошнило от этого запаха! Нужно отдохнуть. Невероятно. Мой нос меня никогда не простит.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">Я понимаю, что существа просто отвратительны, а запах их просто невыносим, но без проб я не смогу провести тесты. Все просто.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,88 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="46" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="101" scale="1.3" shapeId="301262" gender="male" race="SikandariBlindGuardian_B_Argonite_Half" resourceSize="100" resourceType="medium" size="small" parentId="30126200" basicActionId="3012600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="10942" />
+    </Template>
+    <Template id="102" scale="1.2" shapeId="301183" gender="male" race="NympiElementalist_Argonite_Half" resourceSize="100" resourceType="medium" size="small" parentId="30118300" basicActionId="3011800" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="38" deathNameplateHeight="0" />
+        <Stat level="59" maxHp="10942" />
+    </Template>
+    <Template id="201" scale="0.95" shapeId="300564" gender="male" race="MightyKuchartFighter_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30056400" basicActionId="3005600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="202" scale="1" shapeId="300433" gender="male" race="MightyKuchartProphet_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30043300" basicActionId="3004300" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="203" scale="0.9" shapeId="301385" gender="male" race="Slayer_Darker_3_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30138500" basicActionId="3013800" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="301" scale="0.95" shapeId="301162" gender="male" race="SikandariBlindGuardian_B_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30116200" basicActionId="3011600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="39" deathNameplateHeight="0" />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="302" scale="1.1" shapeId="300366" gender="male" race="TwistedBloodCreature_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30036400" basicActionId="3003600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="303" scale="1.1" shapeId="300362" gender="male" race="TwistedBloodCreature_Argonite" resourceSize="0" resourceType="medium" size="medium" parentId="30036500" basicActionId="3003600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="84676" />
+    </Template>
+    <Template id="304" scale="0.9" shapeId="300604" gender="male" race="UnseelieNoble_A_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30060400" basicActionId="3006000" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="401" scale="0.8" shapeId="301144" gender="male" race="UndeadCommander_32_Elite_Argonite_Half" resourceSize="100" resourceType="medium" size="medium" parentId="30114400" basicActionId="3011400" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="402" scale="1.2" shapeId="300364" gender="male" race="TwistedBloodCreature_Argonite" resourceSize="0" resourceType="medium" size="medium" parentId="30036500" basicActionId="3003600" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="403" scale="0.55" shapeId="300734" gender="male" race="KnightPlasmaGuardian_27_Elite_Argonite_half" resourceSize="100" resourceType="medium" size="medium" parentId="30073400" basicActionId="3007300" elite="false" isFreeNamed="false" isObjectNpc="false" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="91545" />
+    </Template>
+    <Template id="501" scale="1.7" shapeId="301347" gender="male" race="LokianBeast_Argonite_Half" resourceSize="100" resourceType="large" size="large" parentId="30134700" basicActionId="3013400" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="3039454" />
+    </Template>
+    <Template id="2013" scale="0.3" shapeId="720200" race="object" resourceSize="100" resourceType="medium" size="medium" despawnScriptId="0" basicActionId="7202000" deathShapeId="720201" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="false" showAggroTarget="false" showShorttermTarget="false" spawnScriptId="0">
+        <AltAnimation />
+        <Stat level="60" maxHp="100" />
+    </Template>
+    <Template id="7001" scale="0.5" shapeId="700110" gender="male" race="NPC_ArgonCommander" resourceSize="100" resourceType="mediun" size="medium" parentId="70011000" basicActionId="7001100" deathShapeId="700111" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+    <Template id="7002" scale="0.1" shapeId="700210" gender="male" race="Argon_Extractor" resourceSize="100" resourceType="medium" size="medium" parentId="70021000" basicActionId="7002100" deathShapeId="700211" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+    <Template id="7003" scale="0.1" shapeId="700210" gender="male" race="Argon_Extractor" resourceSize="100" resourceType="medium" size="medium" parentId="70021000" basicActionId="7002100" deathShapeId="700211" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+    <Template id="7004" scale="0.2" shapeId="700210" gender="male" race="Argon_Extractor" resourceSize="100" resourceType="medium" size="medium" parentId="70021000" basicActionId="7002100" deathShapeId="700211" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+    <Template id="7005" scale="0.8" shapeId="700120" gender="male" race="NPC_ArgonCommander" resourceSize="100" resourceType="mediun" size="medium" parentId="70011000" basicActionId="7001100" deathShapeId="700121" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+    <Template id="7006" scale="0.4" shapeId="700190" gender="male" race="Argon_Excavater_Dig" resourceSize="100" resourceType="medium" size="medium" parentId="70019000" basicActionId="7001900" deathShapeId="700191" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" villager="false">
+        <AltAnimation />
+        <Stat level="59" maxHp="25402" />
+    </Template>
+</NpcData>

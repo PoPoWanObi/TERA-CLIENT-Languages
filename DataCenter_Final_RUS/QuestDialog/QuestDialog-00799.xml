@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1001">
+        <Page social="5">В этом районе у нас есть три измерителя уровня порчи. Но все они почему-то замолчали. &lt;BR&gt;&lt;BR&gt;Я хочу попросить тебя отправиться в лес и вновь включить их. Скорее всего им нужна лишь простая настройка.&lt;BR&gt;&lt;BR&gt;Найди три гореметра, почини их и возвращайся ко мне.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1020">
+        <Page social="0">(Устройство громко лязгает. Похоже, в нем что-то застряло.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" prevId="2" villagerId="1018">
+        <Page social="0">(Гореметр быстро щелкает, словно когти стучат по камню.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="228" prevId="2" villagerId="1019">
+        <Page social="0">(Устройство не издает ни звука.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="228" prevId="3" villagerId="1001">
+        <Page social="5">Замечательно! Все гореметры работают нормально.&lt;BR&gt;&lt;BR&gt;Хороший пинок помогает добиться удивительных результатов. Благодарю тебя от имени Мистериума.&lt;BR&gt;&lt;BR&gt;Что ж, посмотрим, что они записали...</Page>
+    </Text>
+</QuestDialog>

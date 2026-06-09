@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1015">
+        <Page social="5">Wir haben einen kleinen Trick entwickelt. Wenn man den Boden mit ein bisschen Sternenessenz durchdringt, wirkt er als Barriere gegen die Verderbnis.&lt;BR&gt;&lt;BR&gt;Die Essenz ist nicht gerade selten, aber die Kreaturen, die im Wald lauern, erschweren es uns, an sie heranzukommen.&lt;BR&gt;&lt;BR&gt;Wir würden Euch gut dafür bezahlen, wenn Ihr uns welche holen würdet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1015">
+        <Page social="5">Dufthagebutten, Sternenessenz - Ihr seid ja richtig gut im Finden solcher Dinge!&lt;BR&gt;&lt;BR&gt;Ich weiß, dass Ihr {@g:ein Soldat/eine Soldatin} seid, {@g:dem/der} Großes bevorsteht, aber ich hoffe, Ihr vergesst uns kleine Leute bei Eurem Aufstieg nicht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1015">
+        <Page social="0">Überlegt nur, wie wundervoll es wäre, wenn sich die Sternenessenz in Flaschen abfüllen ließe. Wir könnten einfach zum nächsten Händler gehen und eine Kiste davon kaufen!</Page>
+    </Text>
+</QuestDialog>

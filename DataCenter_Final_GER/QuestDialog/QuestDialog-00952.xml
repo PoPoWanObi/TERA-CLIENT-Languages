@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">Ähm, &lt;PCNAME&gt;, ich bin mir gewahr, dass Ihr Euch dem großen und mächtigen Oshar sehr verbunden fühlt.&lt;NEXTPAGEBUTTON&gt;"Ich spüre eine Aufgabe kommen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Richtig, aber es ist nicht Oshar, zumindest nicht direkt. Bevor Oshar auftauchte, war {@LinkCreature:230#1100$$Deresk} mein Mentor.&lt;BR&gt;&lt;BR&gt;Unsere Wege trennten sich mit ... nennen wir es einfach Bitterkeit. Aber ich habe vor, dies mit einem Geschenk für ihn wieder in Ordnung zu bringen.&lt;BR&gt;&lt;BR&gt;Dieser Trank dient zwei Zwecken: Einerseits soll er ein Friedensangebot sein, und andererseits soll er zeigen, wie viel ich von dem mächtigen Oshar gelernt habe. Würdet Ihr ihn für mich überbringen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1100">
+        <Page social="1">&lt;PCNAME&gt; ist von Filine geschickt worden? Ohne irgendwelche Habseligkeiten verloren zu haben?&lt;BR&gt;&lt;BR&gt;Wir sollten nicht mehr verärgert sein, aber Filine war unsere größte Enttäuschung. Manchmal sind wir zu streng mit unseren Schülern. Die Schüler dieses Lehrers rebellierten dagegen und dachten sich einen imaginären Mentor namens "Oshar" aus, damit sie dem Unterricht fernbleiben und als ewige Schüler ein ausschweifendes Leben führen konnten.&lt;NEXTPAGEBUTTON&gt;"Filine hat dies für Euch gefertigt."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Hier drin steckt wahre Kraft ... vielleicht haben wir vorschnell geurteilt ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1056">
+        <Page social="1">Augenblick ... was ist passiert?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1036">
+        <Page social="1">Er hat ihn getrunken! Ha ha ha!&lt;BR&gt;&lt;BR&gt;Nach den unzähligen, unverhohlenen Belehrungen über die geistige Überlegenheit der Hochelfen sehen wir doch einmal, wie es ihm wohl gefällt, kein Hochelf mehr zu sein. Wenn auch nur vorübergehend.&lt;BR&gt;&lt;BR&gt;Jetzt schaut mich nicht so an. Wahrscheinlich hat er seine herausgeputzte Hochelfengestalt längst wieder zurück.&lt;BR&gt;&lt;BR&gt;Hoffentlich war ihm das eine Lehre: Egal, was Ihr zu wissen glaubt - den großen und mächtigen Oshar sollte man nicht verärgern.</Page>
+    </Text>
+</QuestDialog>

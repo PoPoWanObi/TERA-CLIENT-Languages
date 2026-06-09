@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="4">Будучи солдатом, ты наверняка знаешь, что мы не бросаем своих. И мы сделаем все возможное, чтобы забрать тела наших товарищей, либо, как минимум, их личные вещи.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2001#Барустер} как раз планирует для этого вылазку в Аргонские катакомбы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Ни один из воинов Шариара не отправляется в бой без особого кольца. Большой ценностью оно не обладает, но вернуть кольцо семье погибшего - наша священная обязанность.&lt;BR&gt;&lt;BR&gt;Отправляйся в катакомбы, отыщи павших шариарцев и принеси мне их кольца, &lt;PCNAME&gt;. В знак уважения к другим солдатам.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Превосходно. Надеюсь, семьи погибших оценят твой благородный жест.&lt;BR&gt;&lt;BR&gt;Я уж точно оценил!&lt;BR&gt;&lt;BR&gt;Пожалуйста, отнеси эти кольца Аграх, в Зульфикарскую крепость.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Знаю, тебе больше по душе кровавые битвы и масштабные сражения, но то, как мы почитаем наших мертвых, отражает нашу заботу о живых.&lt;BR&gt;&lt;BR&gt;Этим мы и отличаемся от аргонов. Пожалуйста, принеси мне кольца.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2001">
+        <Page social="4">Превосходно. Надеюсь, семьи погибших оценят твой благородный жест.&lt;BR&gt;&lt;BR&gt;Я уж точно оценил!&lt;BR&gt;&lt;BR&gt;Пожалуйста, отнеси эти кольца Аграх, в Зульфикарскую крепость.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Знаю, тебе больше по душе кровавые битвы и масштабные сражения, но то, как мы почитаем наших мертвых, отражает нашу заботу о живых.&lt;BR&gt;&lt;BR&gt;Этим мы и отличаемся от аргонов. Пожалуйста, принеси мне кольца.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2001">
+        <Page social="4">Превосходно. Надеюсь, семьи погибших оценят твой благородный жест.&lt;BR&gt;&lt;BR&gt;Я уж точно оценил!&lt;BR&gt;&lt;BR&gt;Пожалуйста, отнеси эти кольца Аграх, в Зульфикарскую крепость.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Знаю, тебе больше по душе кровавые битвы и масштабные сражения, но то, как мы почитаем наших мертвых, отражает нашу заботу о живых.&lt;BR&gt;&lt;BR&gt;Этим мы и отличаемся от аргонов. Пожалуйста, принеси мне кольца.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="78" prevId="11" villagerId="3007">
+        <Page social="4">Шариар в вечном долгу перед тобой, &lt;PCNAME&gt;. Когда эта война наконец-то закончится, и наступит время вспомнить подвиги наших бойцов, твое имя займет положенное место на скрижалях зала славы.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="78" prevId="13" villagerId="3007">
+        <Page social="4">Шариар в вечном долгу перед тобой, &lt;PCNAME&gt;. Когда эта война наконец-то закончится, и наступит время вспомнить подвиги наших бойцов, твое имя займет положенное место на скрижалях зала славы.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="78" prevId="14" villagerId="3007">
+        <Page social="4">Шариар в вечном долгу перед тобой, &lt;PCNAME&gt;. Когда эта война наконец-то закончится, и наступит время вспомнить подвиги наших бойцов, твое имя займет положенное место на скрижалях зала славы.</Page>
+    </Text>
+</QuestDialog>

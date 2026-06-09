@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Ist ja nicht so, als würden wir diesen Krieg persönlich nehmen, aber ich will den Argonen so viel Schaden wie möglich zufügen.&lt;BR&gt;&lt;BR&gt;Ich habe {@LinkCreature:248#3003#Vikhonul} angewiesen, die Argonenkommandanten zu identifizieren. Eure Aufgabe wird sein, sie auszuschalten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Kalkzak wollte Ziele, also gebe ich Euch Ziele.&lt;BR&gt;&lt;BR&gt;Die drei Argonen, die ich zum Töten ausgewiesen habe, sind für zahllose Gräueltaten gegen Föderationskräfte verantwortlich.&lt;BR&gt;&lt;BR&gt;Hier geht es nicht um Rache, sondern um Gerechtigkeit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Ihr habt {@LinkCreature:48#25#Baruldur}! Gute Arbeit.&lt;BR&gt;&lt;BR&gt;Unsere Moral konnte diesen Schub zur allzu gut gebrauchen. Lang leben die Shariar!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="3003">
+        <Page social="4">{@LinkCreature:48#27#Nauti} ist tot! Gute Arbeit.&lt;BR&gt;&lt;BR&gt;Unsere Moral konnte diesen Schub zur allzu gut gebrauchen. Lang leben die Shariar!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3003">
+        <Page social="4">Ihr habt {@LinkCreature:48#28$$Mogmolor} getötet! Gute Arbeit.&lt;BR&gt;&lt;BR&gt;Unsere Moral konnte diesen Schub zur allzu gut gebrauchen. Lang leben die Shariar!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="4">Без сомнения, аргоны находятся в самой глубокой части Рага-Шади. Но что меня восхищает, так это Аргоновые кошмарные злодеи. Мы полагаем, что их кровь как-то реагирует на сновидения смертных. Другими словами, они становятся сильнее, когда мы спим.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1035">
+        <Page social="4">Смотри, чтобы их кровь не попала на тебя. В определенном количестве кровь кошмарных злодеев может свести с ума.&lt;BR&gt;&lt;BR&gt;Ты же знаешь, как нужно перемещаться по башням, верно? А тебе уже доводилось бывать в Зале Всплеска Души на востоке? Именно туда тебе сейчас и нужно.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1035">
+        <Page social="0">Кровь {@LinkCreature:46#402#Аргоновых кошмарных злодеев} реагирует на сновидения смертных. Мы должны с этим разобраться.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1036">
+        <Page social="4">Флинтон недолго думал, прежде чем послать тебя сюда. Либо у тебя определенные таланты, либо... Хотя нет, все-таки дело в талантах. Ты - настоящий профессионал своего дела.</Page>
+    </Text>
+</QuestDialog>

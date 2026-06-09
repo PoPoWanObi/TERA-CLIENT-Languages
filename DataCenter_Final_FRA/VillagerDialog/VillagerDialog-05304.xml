@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5013" huntingZoneId="464" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Qui êtes-vous&amp;nbsp;? Vous venez me secourir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Excellent!&amp;nbsp; Un petit coup de main ne fera pas de mal. Prenez une arme, je vous expliquerai plus tard.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Ils arrivent!&amp;nbsp; Préparez-vous!&amp;nbsp; &lt;TEXTBUTTON&gt;Parler au Forgeron légendaire&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Commencer la défense&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Habt Ihr Euch je gefragt, was hier meine Aufgabe ist? Ich scheine ja nichts weiter zu tun, als Euch zu Elthienne zu schicken und Euch zu bezahlen, wenn Ihr zurückkommt.&lt;BR&gt;&lt;BR&gt;Aber ich habe auch eine Aufgabe, und die werde ich verrichten!&lt;BR&gt;&lt;BR&gt;Geht zu {@LinkCreature:63#3003#Elthienne}. So. Erledigt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Wurde langsam Zeit, dass Taratia Euch herschickt. Dieses Mädchen ist dermaßen faul!&lt;BR&gt;&lt;BR&gt;In diesem Beruf steht man ständig unter Druck. Wenn man gerade nichts herstellt, besorgt man Teile dafür.&lt;BR&gt;&lt;BR&gt;Heute geht es übrigens ums Handwerk. Bringt Eure fertige Arbeit zu {@LinkCreature:63#3001#Barian}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Danke, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} hat Eure Bezahlung.&lt;BR&gt;&lt;BR&gt;Ich hoffe, wir sehen uns bald wieder!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Norstahlbarren her und bringt sie mir so schnell wie möglich.&lt;BR&gt;&lt;BR&gt;Ich weiß das sehr zu schätzen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Großartig!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} wird Euch bezahlen.&lt;BR&gt;&lt;BR&gt;Helft uns doch bald mal wieder aus!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt ein paar Astrosilexe her und bringt sie mir. Aber gebt Acht vor den Schlangen!&lt;BR&gt;&lt;BR&gt;Das war nur Spaß. In Velika gibt es keine Schlangen. Ich wollte Euch nur aufziehen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Danke, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} hat Eure Bezahlung.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt etwas Marleder her und bringt es mir.&lt;BR&gt;&lt;BR&gt;Vielen Dank.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Ihr habt Euch selbst übertroffen. Tausend Dank!&lt;BR&gt;&lt;BR&gt;Ich hoffe, dass Euch {@LinkCreature:63#3002#Taratia} auch so viel bezahlt, wie Ihr wert seid.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Shetlastoff her und bringt ihn mir.&lt;BR&gt;&lt;BR&gt;Danke, &lt;PCNAME&gt;. Wir haben Euch gar nicht verdient!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3001#Barian} sagte, dass er sehr zufrieden mit Eurer Arbeit ist. Eigentlich weiß jeder bei den Händen von Velika Eure Hilfe sehr zu schätzen.&lt;BR&gt;&lt;BR&gt;Komisch, niemand sagt mir, wie gut ich darin bin, Euch zu anderen Leuten zu schicken.&lt;BR&gt;&lt;BR&gt;Auch gut. Man sieht sich.</Page>
+    </Text>
+</QuestDialog>

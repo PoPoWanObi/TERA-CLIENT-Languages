@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1010">
+        <Page social="5">There's a rumor about the sacred waters of the Fountain of Shara. According to a flirtatious Mysterium chap, the water—Shara's tears, if you believe that sort of thing—can revive and restore almost anyone.&lt;BR&gt;&lt;BR&gt;My son can't walk. No one's certain as to why.&lt;BR&gt;&lt;BR&gt;Could you bring me a flask of this water? I'll try anything to cure my son.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1027">
+        <Page social="5">(The water appears faintly iridescent.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" prevId="3" villagerId="1010">
+        <Page social="4">Did you find the fountain and collect its water?&lt;BR&gt;&lt;BR&gt;Oh, my—you did! Let me take a look.&lt;BR&gt;&lt;BR&gt;It...it glows. This must be blessed water. Thank you, &lt;PCNAME&gt;! I can never repay your kindness.</Page>
+    </Text>
+</QuestDialog>

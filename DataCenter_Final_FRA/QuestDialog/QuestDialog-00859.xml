@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1008">
+        <Page social="5">Les arcanistes de la Légion de Brogar de Thulsa utilisent des amulettes pour contrôler les golems. Si nous parvenions à nous en emparer, les golems deviendraient inoffensifs.&lt;BR&gt;&lt;BR&gt;Traquez les {@LinkCreature:27#9#tisseurs d'effroi de Thulsa}, les {@LinkCreature:27#11#arcanistes de Thulsa}, et récupérez leurs amulettes.&lt;BR&gt;&lt;BR&gt;Attention, &lt;PCNAME&gt;. La Légion de Brogar mérite bien sa réputation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1023">
+        <Page social="5">C'est du bon travail!&amp;nbsp; Les mages vont devoir se passer d'une partie de leurs golems.&lt;BR&gt;&lt;BR&gt;Sans vous, rien de tout cela n'aurait été possible, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1023">
+        <Page social="0">Eliminez les {@LinkCreature:27#9#tisseurs d'effroi de Thulsa} et les {@LinkCreature:27#11#arcanistes de Thulsa} contrôlant les golems.</Page>
+    </Text>
+</QuestDialog>

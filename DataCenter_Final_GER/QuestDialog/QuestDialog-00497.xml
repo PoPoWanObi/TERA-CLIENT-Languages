@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="0">Präfekt Paka war entsetzt, dass die Vampire mit dem Dementalithen in Verbindung stehen. Er schickte Euch ins Reißertal, um Jelena bei der Wahrheitsfindung zu unterstützen.&lt;BR&gt;&lt;BR&gt;Ihr habt einen Handel zwischen den Vampiredelleuten und dem Kult aufgedeckt, bei dem es um die Herstellung von Dementalithen im Anwesen der Arglist geht. Jelena hat einen kühnen Plan ausgeheckt, um in das Anwesen einzudringen und die Produktion zu stoppen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="4">Dieser {@LinkCreature:67#1007#Paka} hat nach Euch gesucht. Ihr pflegt merkwürdige Gesellschaft, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1007">
+        <Page social="4">&lt;PCNAME&gt;! Danke, dass Ihr gekommen seid.&lt;BR&gt;&lt;BR&gt;Bevor dieser Wahnsinn begann, waren die Vampire und wir befreundet. Doch jetzt bedrohen sie mein Dorf.&lt;BR&gt;&lt;BR&gt;Die Leute würden sich sicherer fühlen, wenn Ihr Euch ins Reißertal begeben und ... ihre Anzahl ein wenig verringern könntet.&lt;BR&gt;&lt;BR&gt;Diesmal werde ich Euch persönlich dafür belohnen. Dieser Bruke hat sich als totaler Reinfall erwiesen!&lt;NEXTPAGEBUTTON&gt;"Es muss einen anderen Weg geben."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah, aber ich erkenne an Euren Kleidern noch den Geruch einer anderen Person - jemand, der uns schon früher geholfen hat. Jemand, der auf der Flucht ist! Wenn {@LinkCreature:216#1026#Jelena} glaubt, dass es einen anderen Weg gibt, dann glaube ich ihr das.&lt;BR&gt;&lt;BR&gt;Keine Angst, ich werde sie nicht verraten.&lt;BR&gt;&lt;BR&gt;Wir stehen tief in ihrer Schuld.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1026">
+        <Page social="4">Seid gegrüßt, &lt;PCNAME&gt;. Wir stehen wohl beide auf Ärger, was?!&lt;BR&gt;&lt;BR&gt;Ich hatte recht, was die Vampire angeht. Sie wurden benutzt! Die Edelleute haben ihre Leute an den Kult verkauft. Keine guten Neuigkeiten!&lt;BR&gt;&lt;BR&gt;Da ist ein bestimmter Kultist - {@LinkCreature:16#2406#Surdek} - er macht sich ständig Notizen. Die müssen wir uns ansehen. Ich muss wissen, wie viel Blutmagie sie sich bereits angeeignet haben und wie sie sie einsetzen wollen. Meint Ihr, Ihr könnt ihn Euch schnappen?&lt;BR&gt;&lt;BR&gt;Gut, also los. Ich werde sehen, ob ich einen Weg in das Anwesen der Arglist finde. Da gehen eine Menge Vampire ein und aus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1026">
+        <Page social="4">Dann schauen wir uns mal seine Notizen an.&lt;BR&gt;&lt;BR&gt;Das hier ist das Anwesen der Arglist ... Die Vorrichtung, die er beschreibt, könnte Hunderte von Dementalithen hervorbringen.&lt;BR&gt;&lt;BR&gt;Verdammt und zugenäht! Damit könnten sie in ganz Poporia und weit darüber hinaus totale Verwüstung anrichten!&lt;BR&gt;&lt;BR&gt;Also, ich habe einen Weg hineingefunden. Aber diese Geheimtür öffnet sich nur für königliches Blut. Was für ein Glück, dass ein wenig davon verfügbar ist! Findet den Sarg der Herzogin und des Herzogs. Sie können ruhig Ihren Beitrag zu der guten Sache leisten.&lt;BR&gt;&lt;BR&gt;Ich treffe Euch dann beim {@LinkCreature:216#1028#Anwesen der Arglist}. Bringt so viel Blut wie möglich mit!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="216" villagerId="1026">
+        <Page social="0">Schaltet {@LinkCreature:16#2406#Surdek} aus und bringt mir seine Notizen. Wir müssen herausfinden, was sie vorhaben.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4">Ihr habt die noblen Herrschaften bluten lassen? Sehr gut.&lt;BR&gt;&lt;BR&gt;Ich habe ein paar Bomben ... und Schutz gegen diese Blutmagie.&lt;BR&gt;&lt;BR&gt;Die Ersten beim Kämpfen und die Ersten beim Trinken! Gehen wir!</Page>
+    </Text>
+</QuestDialog>

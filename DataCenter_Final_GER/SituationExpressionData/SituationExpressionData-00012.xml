@@ -1,0 +1,212 @@
+<SituationExpressionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SituationExpressionData SituationExpressionData.xsd" xmlns="https://vezel.dev/novadrop/dc/SituationExpressionData">
+    <Data id="80210" type="Villager" templateId="7500" huntingZoneId="121">
+        <ConditionInfo>
+            <ConditionList>
+                <SearchCondition type="Player" maxDistance="4000" minDistance="0" haveMarker="0" maxNumber="1000" minNumber="1" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <EmoticonJob id="1" type="Infinity" delayTime="2500" />
+        </JobInfo>
+    </Data>
+    <Data id="80210" type="Villager" templateId="7500" huntingZoneId="122">
+        <ConditionInfo>
+            <ConditionList>
+                <SearchCondition type="Player" maxDistance="4000" minDistance="0" haveMarker="0" maxNumber="1000" minNumber="1" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <EmoticonJob id="1" type="Infinity" delayTime="2500" />
+        </JobInfo>
+    </Data>
+    <Data id="80210" type="Villager" templateId="7500" huntingZoneId="123">
+        <ConditionInfo>
+            <ConditionList>
+                <SearchCondition type="Player" maxDistance="4000" minDistance="0" haveMarker="0" maxNumber="1000" minNumber="1" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <EmoticonJob id="1" type="Infinity" delayTime="2500" />
+        </JobInfo>
+    </Data>
+    <Data id="80141" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="1" state="AttackedEnemyStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000060" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80142" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="2" state="AttackedEnemyStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000061" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80143" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="3" state="AttackedEnemyStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000062" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80601" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartMin" timeValue="60" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001115" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80601" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartMin" timeValue="30" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001114" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80601" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartMin" timeValue="10" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001113" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80601" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartMin" timeValue="5" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001101" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80604" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartMin" timeValue="1" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001102" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80607" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleStartSec" timeValue="10" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001103" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80610" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="StartUnionPostBattle" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001104" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80613" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleEndMin" timeValue="10" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001112" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80613" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleEndMin" timeValue="5" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001105" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80616" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleEndMin" timeValue="1" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001106" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80619" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="BeforeUnionPostBattleEndSec" timeValue="10" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001107" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80622" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="EndUnionPostBattle" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001108" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80625" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="1" state="AttackedForceStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001109" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80626" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="2" state="AttackedForceStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001110" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80627" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" unionId="3" state="AttackedForceStone" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90001111" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+</SituationExpressionData>

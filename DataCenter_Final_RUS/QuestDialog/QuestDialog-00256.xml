@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">Крокуты продолжают перехватывать наши караваны! &lt;BR&gt;&lt;BR&gt;Мы удвоили охрану, что позволило отбивать атаки {@LinkCreature:9#300#Бронированных крокутов}. Но теперь к ним присоединились {@LinkCreature:9#310#Крокуты-вожаки}. Наши охранники им на один зуб!&lt;BR&gt;&lt;BR&gt;Ничего поделать не могут.&lt;BR&gt;&lt;BR&gt;Избавься от крокутов, &lt;PCNAME&gt;, и принеси их шкуры. Мы сделаем из них одежду, чтобы не замерзнуть зимой, раз уж новые караваны не скоро прибудут.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1007">
+        <Page social="4">Думаю, мы успеем выдубить шкуры до холодов. И точно до того, как сюда доберется следующий караван.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1007">
+        <Page social="0">Мы не можем получать припасы. {@LinkCreature:9#300#Бронированные крокуты} и {@LinkCreature:9#310#Крокуты-вожаки} убивают наших людей. А у нас осталось не так уж много солдат.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Привет, &lt;PCNAME&gt;. Выходит, что подвески, которые тебе поручил добыть Кимен, гномьи амулеты.&lt;BR&gt;&lt;BR&gt;Пожалуйста, отнеси их {@LinkCreature:67#1020#Адру} к северным воротам. С их помощью можно отпугивать зло, чтобы оно не проникло в нашу любимую Попорию.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1020">
+        <Page social="4">Это Пака прислал? Надеюсь, это нам поможет. Что угодно, чтобы прогнать плохих ребят, да?&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

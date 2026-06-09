@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="4">&lt;PCNAME&gt;, нам нужна твоя помощь!&lt;BR&gt;&lt;BR&gt; {@LinkCreature:4#2021#Шурские молотобойцы}, Жуткие {@LinkCreature:4#2031#кардиналы} и {@LinkCreature:4#2041#грабители}, а вдобавок еще и {@LinkCreature:4#2051#Яростные арбоски} ужесточили свои атаки. Отплати им той же монетой.&lt;BR&gt;&lt;BR&gt;Затем следует доложить Хелон, что задание выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1004">
+        <Page social="4">Ты - пример для подражания, &lt;PCNAME&gt;. Спасибо тебе за помощь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1004">
+        <Page social="0">Осталось совсем немного. Вернись, когда приказ будет выполнен.</Page>
+    </Text>
+</QuestDialog>

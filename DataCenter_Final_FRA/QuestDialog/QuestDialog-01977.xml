@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="1">L'Union des Éclairés a remarqué un changement marqué dans la signature énergétique des zones où l'on trouve du noctenium en grande concentration. Cela a eu un effet secondaire inattendu.&lt;BR&gt;&lt;BR&gt;En utilisant cette énergie, nous pouvons créer des armes plus puissantes.&lt;BR&gt;&lt;BR&gt;Mon ami, s'il vous plaît, recherchez des flux de noctenium, et collectez-en au moins trois échantillons d'énergie de noctenium d'Arun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="0">Cette énergie correspond parfaitement à vos objectifs. Les chercheurs de l'Union seront ravis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">Pour une meilleure union!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="99" huntingZoneId="419" voiceTypeId="53" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="419" prevId="0" villagerId="99" endSocial="14">
+        <Page social="4">Ich hätte nie gedacht, dass das Forschungszentrum angegriffen würde. Da habe mich wohl geirrt.&lt;BR&gt;&lt;BR&gt;Sobald der Schild bereit ist, brauchen wir uns keine Sorgen mehr machen.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Ich werde nun den Verteidigungsschild aktivieren. Beschützt mich vor den Nachkommen Loks.&lt;TEXTBUTTON&gt;Sprecht mit Mattin.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Mattin beschützen, während er daran arbeitet.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

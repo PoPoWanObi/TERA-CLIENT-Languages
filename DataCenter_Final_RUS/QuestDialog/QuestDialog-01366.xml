@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="4">В попытке обезопасить дороги для наших обозов и защитить солдат от нападений аргонов мы наняли кастаников-инженеров, чтобы они проложили туннель в Гранаркус.&lt;BR&gt;&lt;BR&gt;Я телепортирую тебя к {@LinkCreature:249#1015#Ажеланну}, когда скажешь. Передай ему эти приказы и помоги, чем сможешь. Пора возвращаться к бою.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1015">
+        <Page social="4">Мы буквально несколько часов назад взорвали последний камень.&lt;BR&gt;&lt;BR&gt;Из-за аргонов поставка припасов из обычной прогулки превратилась в ежедневный подвиг, особенно, когда нужно войти или выйти из Канстрии.&lt;NEXTPAGEBUTTON&gt;"Что это? Город?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Канстрия? Да. Там живет множество кастаников. Я слышал, как элин назвала его "маленькой Кастаникой".&lt;BR&gt;&lt;BR&gt;К несчастью, аргоны разрушили летную платформу, и теперь они не могут покинуть город. Передай, пожалуйста, этот камень полетов их распорядителю полетов. Он должен помочь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1006">
+        <Page social="6">О, новый камень полетов! Чудесно!&lt;BR&gt;&lt;BR&gt;Теперь мы сможем возобновить полеты в Кайатор и Зульфикарскую крепость. Пожалуйста, прими мою благодарность.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="4">Die Kreaturen, die uns die Gegenwart dieses Außenpostens im Verdorbenen Schlund streitig machen, haben viele Namen. Sersine, Kind von Karas, kennt sie alle, aber &lt;b&gt;Gregor&lt;/b&gt; hat diejenigen identifiziert, die am häufigsten genannt werden.&lt;BR&gt;&lt;BR&gt;Zu den Gefürchtetsten zählen die Moloche, die er "Vernichter" nennt. Ihr Anführer Kugai patrouilliert durch das gesamte Tal, aber Gregor hat nördlich von hier verstärkte Aktivitäten der Vernichter verzeichnet.&lt;BR&gt;&lt;BR&gt;Setzt Euch mit ihm in Verbindung und findet heraus, ob dies eine Bedrohung unserer Mission darstellt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Diese doppelköpfigen Schrecken sind eine Bedrohung - ich bin überrascht, dass Ihr es unversehrt hier hoch geschafft habt. Perrin macht sich zu Recht Sorgen. Die {@LinkCreature:13#9#Vernichter} spielten eine wichtige Rolle bei dem Angriff auf die erste Expedition.&lt;BR&gt;&lt;BR&gt;Bei den Zahlen, die ich beobachte ... ist es nur eine Frage der Zeit, bevor sie wieder einen Vorstoß unternehmen. Wollt Ihr wirklich etwas bewegen - wirklich zu uns gehören? Dann müsst Ihr einige töten.&lt;BR&gt;&lt;BR&gt;Das wird ein deutliches Zeichen setzten, dass wir diesen Boden nicht aufgeben. Niemals. Wir haben zu viel dafür bezahlt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1028">
+        <Page social="4">Ich bin stolz, gemeinsam mit Euch zu dienen. Die Hälfte der Leute in der Turmbasis haben sich nie hier draußen blicken lassen - geschweige denn getan, was wir beide getan haben.&lt;BR&gt;&lt;BR&gt;Unsere kontinuierliche Besetzung dieses Außenpostens ist ein Symbol unseres Widerstandes gegen die dämonischen Truppen im Schlund!&lt;BR&gt;&lt;BR&gt;Berichtet Perrin, was Ihr getan habt, er wird dasselbe sagen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1143">
+        <Page social="4">&lt;PCNAME&gt; ist ein Gewinn für die Valkyon-Föderation. Es soll niemand behaupten, dass {@gender:dieser/diese} tapfere &lt;PCCLASS&gt; es nicht verdient hat, in unserer Mitte zu stehen!</Page>
+    </Text>
+</QuestDialog>

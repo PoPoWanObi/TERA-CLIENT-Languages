@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="5">Тебя ждут, &lt;PCNAME&gt;. Консул Дугал хочет видеть тебя в Велике как можно скорее.&lt;BR&gt;&lt;BR&gt;Что-то по поводу операции по укреплению нашего тыла. Лучше поторопиться.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Спасибо за быстрое прибытие, &lt;PCNAME&gt;. Позволь сразу перейти к делу. Военные траты отразились на качестве жизни во всей Федерации.&lt;BR&gt;&lt;BR&gt;Федерация отправляет тебя и еще нескольких бойцов на помощь членам магистрата. Вы должны оказать городу помощь и добыть необходимые материалы.&lt;BR&gt;&lt;BR&gt;Поговори с Арном в Деревне лесорубов. Докажи горожанам, что их жизни для нас не менее важны, чем аргоны.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1013">
+        <Page social="9">Природа дает, а враги забирают. У нас заканчивается сырье.&lt;BR&gt;&lt;BR&gt;Сейчас нам больше всего нужны волокна вердры, криметаллическая руда и эссенция солнца. Без них жизнь здесь просто невозможна.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="4" villagerId="1013">
+        <Page social="8">Это нас очень выручит! Мы сможем починить инструменты, возделывать землю и исцелять раны. Спасибо!&lt;NEXTPAGEBUTTON&gt;"Служба - вот честь для меня".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ты слишком скромничаешь. Думаю, Биси согласится, когда увидит тебя. Он в Пополионе, и ему сейчас нужна помощь гораздо больше, чем нам.&lt;BR&gt;&lt;BR&gt;Да хранит тебя Велика.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" villagerId="1013">
+        <Page social="0">У всех тяжелые времена. Нам нужна помощь с самым необходимым.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1015">
+        <Page social="9">Да, в Деревне лесорубов мало сырья. Можешь помочь?&lt;BR&gt;&lt;BR&gt;Нужно собрать волокна сильвы, линметаллическую руду и эссенцию ветра. Сможешь? Этим не прославишься, но нам бы это очень помогло.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="7" villagerId="1015">
+        <Page social="13">Спасибо тебе огромное!&lt;BR&gt;&lt;BR&gt;Природа дает, если ей помогает &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"Всего день работы".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Мы никогда не забудем твою помощь. Никогда!&lt;BR&gt;&lt;BR&gt;Тебе пришел новый приказ. Похоже, ты отправляешься в Тулуфан. Им нужна твоя помощь.&lt;BR&gt;&lt;BR&gt;Да хранит тебя Дзерена!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" villagerId="1015">
+        <Page social="0">Все, что я попросил, можно достать на полях Пополиона. Я бы сам все сделал, но монстры...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="8" villagerId="1009">
+        <Page social="5">Спустя чертову тучу времени!&lt;BR&gt;&lt;BR&gt;Я написал в Велику столько писем, что они, наверное, выделили для их хранения отдельный подвал!&lt;BR&gt;&lt;BR&gt;Недавно кто-то обокрал все наши магазины. Мы бы открылись, если бы смогли пополнить запасы волокон шетлы, норметаллической руды и эссенции звезд.&lt;BR&gt;&lt;BR&gt;Поможешь?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="66" prevId="10" villagerId="1009">
+        <Page social="8">Неплохо. Хорошие материалы.&lt;BR&gt;&lt;BR&gt;Если бы мы знали, что Федерация забудет о нас, мы бы к ней ни за что не присоединились.&lt;NEXTPAGEBUTTON&gt;"Это наша общая беда".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ну-ну. Может быть.&lt;BR&gt;&lt;BR&gt;Консул Дугал сказал, что дальше твой путь лежит в Трию в Южной Шаре.&lt;BR&gt;&lt;BR&gt;Благословение Кайи да хранит тебя, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Наверное, мы должны продавать песок. Чертовски полезная вещь, да? Одежды не сделать, оружия тоже, зато можно заставить всех чесаться!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="11" villagerId="1011">
+        <Page social="5">Мы будем рады любой помощи.&lt;BR&gt;&lt;BR&gt;Припасы практически закончились. В особенности нам не хватает волокон тойры, шадметаллической руды и эссенции льда.&lt;BR&gt;&lt;BR&gt;Поддержка Федерации - наш путь к спасению. Пожалуйста, помоги нам.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1011">
+        <Page social="5">Отличная работа.&lt;BR&gt;&lt;BR&gt;У обитателей Трии появилась надежда. Пожалуйста, прими нашу благодарность.&lt;NEXTPAGEBUTTON&gt;"Обращайтесь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Префект Лаума тоже ждет помощи Федерации во Фронтере. Счастливого пути!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" villagerId="1011">
+        <Page social="0">Мы знаем, это сложно, но другого выхода нет. Пожалуйста, помоги нам.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="75" prevId="14" villagerId="1007">
+        <Page social="5">Консул Дугал рассказал, что Федерация решила помочь дальним поселениям. Нам нужна помощь.&lt;BR&gt;&lt;BR&gt;У нас заканчиваются волокна лурии, зерметаллическая руда и эссенция молнии. Любые пополнения наших запасов будут кстати.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="75" prevId="16" villagerId="1007">
+        <Page social="5">Дугал умеет выбирать помощников. Мы благодарны за помощь и найдем этим припасам достойное применение.&lt;BR&gt;&lt;BR&gt;Дугал попросил тебя вернуться Велику. Прощай, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="75" villagerId="1007">
+        <Page social="0">Нам нужно сырье, чтобы поддерживать жизнь и производство во Фронтере.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="1160">
+        <Page social="5">Я слышал о тебе только хорошее. Даже Туррек повеселел.&lt;BR&gt;&lt;BR&gt;Может, тебе и не пришлось разрушать коварные планы и побеждать великих монстров, но помогать другим - это в лучших традициях Федерации. Похвальная работа, &lt;PCNAME&gt;. Спасибо.</Page>
+    </Text>
+</QuestDialog>

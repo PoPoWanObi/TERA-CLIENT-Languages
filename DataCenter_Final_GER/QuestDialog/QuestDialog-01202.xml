@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="18">Als die Prionen uns aus Donnerhalt vertrieben haben, mussten wir Jabel zurücklassen. Wenn Elinu uns gnädig ist, versteckt er sich in den Ruinen da draußen und wartet auf seine Rettung. Wenn nicht ...&lt;BR&gt;&lt;BR&gt;Daran möchte ich lieber nicht denken. Ich brauche einfach jemanden, der ihn findet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1014">
+        <Page social="5">(Jabel ist tot. Er hält ein Buch an seine Brust gedrückt.)&lt;NEXTPAGEBUTTON&gt;Das Buch ansehen.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">(Es ist in einer Sprache verfasst, die Ihr nicht versteht.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1029">
+        <Page social="5">Wenn Jabel hierfür gestorben ist, ist es hoffentlich wichtig.&lt;BR&gt;&lt;BR&gt;Fragt Jerad, ob er es übersetzen kann, er spricht ein Dutzend Sprachen, wenn nicht sogar mehr.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="4" villagerId="1027">
+        <Page social="5">Das ist das Buch, das Ihr bei Jabels Leiche gefunden habt?&lt;BR&gt;&lt;BR&gt;Es wurde eindeutig von einem Prionen geschrieben. Einen Augenblick ...</Page>
+    </Text>
+</QuestDialog>

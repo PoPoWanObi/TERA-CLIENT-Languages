@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">Хотел бы я думать о войне, но все мои мысли поглотила Нашва.&lt;BR&gt;&lt;BR&gt;Я с радостью вернусь в бой, лишь бы она обратила на меня внимание, однако все, что ее сейчас заботит - это нехватка оружия.&lt;BR&gt;&lt;BR&gt;Слышал, Акарум вооружает своих новобранцев за счет набегов на лагеря наемников. Ты не провернешь для нас такой же трюк - у меня для зачистки лагеря слишком мало солдат.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:32#8#Разрушители Ловчих Гильдии} хранят достаточно оружия, чтобы экипировать всех новобранцев. И тогда Нашва сможет подумать о более приятных вещах... например, обо мне!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">Просто потрясающе! Если я принесу все это Нашве, я стану в ее глазах героем!&lt;BR&gt;&lt;BR&gt;Возьми это в знак моей признательности. Купи себе наряд на нашу свадьбу!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">Лагерь наемников в Мрачной тундре - лучшее место для поиска оружия. И только {@LinkCreature:32#8#Разрушители Ловчих Гильдии} стоят между ним и тобою!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">Хасиб меня совсем за дуру принимает? Тащит сюда гору оружия, словно это букет цветов. Да что он о себе вообще возомнил?&lt;BR&gt;&lt;BR&gt;У нас война в разгаре, а он ведет себя, как школьник. Пожалуй, я была с ним слишком добра. В следующий раз пусть готовится к куда более жесткому приему.</Page>
+    </Text>
+</QuestDialog>

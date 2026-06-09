@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0">Наги-пираты украли мой журнал исследований. В нем содержатся сведения о нашей обороне, о нашей численности, припасах... мы должны остановить их, прежде чем они узнают достаточно, чтобы сокрушить нас!&lt;BR&gt;&lt;BR&gt;Истреби {@LinkCreature:31#17#Штормовых нагов-хищников} и {@LinkCreature:31#16#Опустошителей} и верни украденные страницы журнала.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1011">
+        <Page social="4">Большое спасибо. Теперь я могу закончить свой отчет. Нам же не обязательно рассказывать об этом... недосмотре командиру Фрае, верно?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Журнал, украденный нагами, необходимо вернуть.</Page>
+    </Text>
+</QuestDialog>

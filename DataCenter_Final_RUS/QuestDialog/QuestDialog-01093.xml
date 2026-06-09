@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1007">
+        <Page social="5">Движемся дальше. Планы на сегодня.&lt;BR&gt;&lt;BR&gt;Убей несколько {@LinkCreature:37#160#Прионов Ньялваров} и {@LinkCreature:37#170#Хелгеваров}, а также {@LinkCreature:37#180#Туванги-новобранцев} и {@LinkCreature:37#190#Подрывников}.&lt;BR&gt;&lt;BR&gt;Поторопись с этим, и сообщи Хелани, когда справишься.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1007">
+        <Page social="5">Отличная работа. Вот твоя награда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1007">
+        <Page social="0">Твое задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

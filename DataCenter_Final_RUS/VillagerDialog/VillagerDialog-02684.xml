@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="207" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4" voiceTypeId="0">Нет времени на сантименты. Мы понесли большие потери, но если сейчас не поспешить, жертвы будут напрасны.&lt;BR&gt;&lt;BR&gt;Этого не должно произойти.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4" voiceTypeId="0">Эти культисты со своими нагами ненавидят всех! Если у нас ничего не получится, все жертвы будут напрасны.&lt;BR&gt;&lt;BR&gt;Но нас так просто не остановить, и потомки Лока еще пожалеют, что встали на пути Мистериума.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">Гигантские кумасы и кобольды двигаются в сторону исследовательского центра. Если хочешь, я могу немедленно телепортировать тебя к Щиту.&lt;TEXTBUTTON&gt;Защитить Санктум Мистериум&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Войти в Щит&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

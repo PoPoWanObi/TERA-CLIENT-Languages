@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Я знаю того, кому известно многое о {@LinkCreature:13#300931#древнях}. Это Дулари, исследователь и по совместительству мой друг. Отправляйся в его лагерь на юге, а по дороге собирай образцы с ходячих деревьев, которые тебе попадутся.&lt;BR&gt;&lt;BR&gt;Атакуй их с боков или со спины... главное, не останавливайся. С разъяренным древнем шутить не стоит.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">Вижу, по пути тебе пришлось подраться. Обычно они мирные, но сейчас ведут себя весьма странно. &lt;BR&gt;&lt;BR&gt;Древни - духи-защитники, а не бойцы. Мне нужны образцы... нужно разобраться, что происходит.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Очередной солдат. И очередная медвежья услуга Кишале. Принесенные тобой образцы только подтверждают мои выводы. Это место следует изучать, а не завоевывать.&lt;BR&gt;&lt;BR&gt;Но если ты так хочешь подраться, тренируйся, пока не сможешь противостоять Векасу. Думаю, именно он раззадоривает других духов. Изучив его, мы сможем узнать об этом острове гораздо больше, чем путем бессмысленного насилия.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,92 @@
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
+    <String string="Votre guilde a été créée." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Votre guilde a été dissoute." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} a rejoint la guilde." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} a quitté la guilde." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} a été exclu(e) de la guilde." readableId="SMT_GUILDLOG_BAN" />
+    <String string="Le rang [{GroupName}] a été ajouté." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="Le rang {GroupName} a été supprimé." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} est désormais chef de la guilde." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} est désormais de rang {GroupName}." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="Le nom de la guilde n'est plus [{OldName}] mais [{NewName}]." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="{UserName} a défini la taxe de la zone." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="Chef de guilde" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Recrue" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] remporte [{Point}] points de compétition." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Appel à la croisade" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Voulez-vous faire un appel à la croisade contre la guilde {GuildName} ?&#xA;La croisade durera {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Crusade Without Chips" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="Due to the guilds belonging to different leagues, no tactics chip bet was placed. Do you wish to continue with Crusade? Crusade will last for &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;." readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Déclarer" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Croisade en cours" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="Victoire de [{Name}]!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="La croisade s'est soldée par une égalité." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="[{Name}] a capitulé." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="La {Name} a abandonné." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="La {Name} a annulé." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
+    <String string="Confirmation de capitulation" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Souhaitez-vous vraiment capituler ?&#xA;La croisade contre [{Opponent}] prendra fin et ils seront déclarés vainqueurs." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Maître de guilde : {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Vous n'avez plus beaucoup de temps." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} point(s)" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Pacifiste" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Paré au combat" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Confirmer la modification d'état de la guilde" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Passage de l'état de la guilde de {OldState} à {NewState}. Les guildes ayant le statut {NewState} ne peuvent pas participer aux batailles de guildes." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Passage de l'état de la guilde de {OldState} à {NewState}. Les guildes ayant le statut {NewState} peuvent participer aux batailles de guildes." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Changer" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Annuler" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Votre guilde a remporté {Battlechip} Gloire grâce à sa victoire!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire à cause de sa défaite!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire en raison d'un match nul." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Votre guilde a remporté {Battlechip} Gloire car {GuildName} a refusé." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire pour avoir refusé une bataille GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire pour avoir annulé." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="La Croisade contre {GuildName} a été annulée en raison d'un problème survenu dans le système de GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="La Croisade contre {GuildName} a été annulée en raison d'une Gloire insuffisante." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="La Croisade a été annulée car la Gloire de {GuildName} est insuffisante." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="La saison des Croisades est terminée. Les Croisades en cours sont annulées." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Voulez-vous vraiment mettre &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battelchip}&lt;/FONT&gt; Gloire supplémentaire en jeu et continuer la Croisade contre {GuildName} ?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Vous allez perdre {Battlechip} Gloire pour avoir abandonné. Voulez-vous vraiment abandonner ?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Téléportation" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="{UserName} se fait attaquer! Souhaitez-vous être téléporté{@g:/e} à ses côtés ?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Détails de la Croisade" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Vous avez {GuildWarCount} Croisades à examiner. Cliquez sur le bouton de confirmation pour ouvrir la fenêtre de Croisade." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Mettez votre Gloire en jeu et lancez un appel à la Croisade contre une autre guilde. Vous ne pouvez pas mettre plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; de Gloire en jeu. Vous ne pouvez pas appeler à la Croisade sans mettre de Gloire en jeu ou si la guilde adverse n'a pas suffisamment de Gloire." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Mettez un surplus de Gloire en jeu et continuez la Croisade. Vous ne pouvez pas mettre plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; de votre enjeu initial en jeu. Si la guilde la guilde adverse dispose d'une Gloire inférieure à &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150%&lt;/FONT&gt; du montant de votre enjeu, vous ne pouvez placer que le montant actuel." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Votre guilde a lancé un appel à la Croisade contre la guilde {Opponent}." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="La guilde {Opponent} a lancé un appel à la Croisade contre votre guilde!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Votre guilde a placé des enjeux en Gloire supplémentaires dans sa Croisade contre la Guilde {Opponent}." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="La guilde {Opponent} a placé des enjeux en Gloire supplémentaires." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="En attente" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Refuser" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Capituler" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Annulation de la Croisade" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Vous allez perdre {Battlechip} Gloire pour avoir abandonné. Voulez-vous vraiment abandonner ?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Votre guilde perdra {Battlechip} Gloire en cas d'annulation. Voulez-vous vraiment annuler ?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Votre guilde perdra {Battlechip} Gloire en cas de refus. Voulez-vous vraiment refuser ?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Confirmer" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Lancer un appel à la Croisade" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Enjeux supplémentaires" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Déclarer" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Enjeu terminé" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Informations sur la Croisade" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Gloire" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Les guildes avec entre &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt;et&lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; comptes éligibles (des joueurs avec un personnage de niveau &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; ou supérieur) reçoivent &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; points de Gloire tous les mercredis. Si un compte a des personnages 60+ dans plusieurs guildes, la Gloire est répartie entre ces guildes. Toute guilde ayant plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;1&lt;/FONT&gt; point de Gloire peut participer à une bataille de guildes, soit en tant que guilde assaillante, soit en tant que guilde adverse. La Gloire ne peut être mise en jeu qu'entre les guildes de même ligue Croisade (Coupe-gorge ou Challenger)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="Classement" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Sélectionnez Engager une bataille GcG ci-dessous, puis entrez le nom de la guilde que vous souhaitez affronter. (Vous avez également la possibilité de cliquer sur un joueur adverse et choisir parmi les options affichées ou encore choisir Engager GcG via l'option Guilde de l'interface du serveur.) Si une autre guilde engage une bataille GcG, vos options sont : Accepter, Augmenter l'enjeu ou Refuser. (Si vous ne donnez pas de réponse sous &lt;FONT SIZE='18' COLOR='#80E71C'&gt;24&lt;/FONT&gt; heures, votre guilde refuse automatiquement et perd de la Gloire.) Seuls les membres de guilde habilités à la Gestion des GcG peuvent engager une bataille GcG, mettre de la Gloire en jeu ou utiliser les options décrites ci-dessus." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Remporter une bataille GcG" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="La première guilde à faire &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; victimes en 24 heures l'emporte. Si aucune des guildes ne fait &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; victimes, c'est celle qui en a fait le plus qui l'emporte. Si les deux guildes ont fait le même nombre de victimes ou si leur nombre est inférieur à  &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, la bataille GcG se termine sur un match nul et les deux guildes perdent de la Gloire." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Classement" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="La Gloire remportée grâce aux batailles GcG s'ajoute au classement de batailles GcG à la fin de chaque saison de Croisade (Ligue Coupe-gorge uniquement). Cependant, seules les guildes ayant participé à plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; batailles GcG sur une même saison (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 semaines&lt;/FONT&gt;) sont éligibles pour ce classement." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
+</StrSheet_Guild>

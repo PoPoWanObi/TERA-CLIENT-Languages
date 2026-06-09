@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0">Черный Коготь изгнал нас из наших охотничьих угодий. Теперь за каждую крошку еды приходится сражаться с {@LinkCreature:41#4001#Алчными василисками}. День ото дня они убивают все больше и больше наших охотников.&lt;BR&gt;&lt;BR&gt;Декурион говорит, что ты тоже охотник не промах. Возьмешься пощипать василисков немного?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">Только посмотри, какой огромный клык! Этот василиск убил бы немало наших. Спасибо тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1018">
+        <Page social="0">Нам не одолеть {@LinkCreature:41#4001#Алчных василисков}, иначе мы бы не просили тебя о помощи.</Page>
+    </Text>
+</QuestDialog>

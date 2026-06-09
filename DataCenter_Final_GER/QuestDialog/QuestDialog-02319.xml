@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Dies ist eine Aufforderung der Jaxstiftung im Halsabschneiderhafen.&lt;BR&gt;&lt;BR&gt;Schließt diese Quest ab, um Tagesquests der Jaxstiftung freizuspielen.]</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1701">
+        <Page social="4">Ich heiße Jax und bin der Leiter der Jaxstiftung.&lt;BR&gt;&lt;BR&gt;Ich habe gehört, Ihr wart uns bei unseren Geschäften eine große Hilfe, deshalb wollte ich Euch persönlich danken.&lt;BR&gt;&lt;BR&gt;Mein Geschäft ist wie eine Familie für mich, und Ihr seid jetzt offiziell "{@gender:ein Freund/eine Freundin} der Familie"&lt;BR&gt;&lt;BR&gt;Wenn wir profitieren, profitiert der gesamte Halsabschneiderhafen. Ich freue mich schon auf Eure vielen großartigen Leistungen.</Page>
+    </Text>
+</QuestDialog>

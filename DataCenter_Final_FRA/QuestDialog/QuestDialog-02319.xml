@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Il s'agit d'une convocation du Consortium de Jax au Port Coupe-gorge.&lt;BR&gt;&lt;BR&gt;Terminez cette quête pour débloquer les quêtes journalières du Consortium de Jax.]</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1701">
+        <Page social="4">Je m'appelle Jax, je suis le maître du Consortium de Jax.&lt;BR&gt;&lt;BR&gt;J'ai entendu dire que vous aviez beaucoup apporté à nos affaires, je tenais donc à vous remercier personnellement.&lt;BR&gt;&lt;BR&gt;Le monde des affaires, c'est ma famille, et vous êtes maintenant officiellement {@gender:un/une} "{@gender:ami/amie} de la famille."&lt;BR&gt;&lt;BR&gt;Quand les affaires marchent bien, c'est tout le Port Coupe-gorge qui en profite. Nous vous prédisons un bel avenir avec nous.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Приветствую, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Нет, раньше мы не встречались. Но о тебе тут слышали все и каждый. В казармах поговаривают, что Диркен готов отвалить круглую сумму каждому, кто будет распространять про тебя сплетни.&lt;BR&gt;&lt;BR&gt;Но пусть этот Диркен катится куда подальше со своими грязными деньгами. Жаль, далеко не всем хватает моей трезвости мышления и моих безупречных добродетелей.&lt;BR&gt;&lt;BR&gt;Так что тебе придется еще заслужить репутацию среди своих новых братьев по оружию. Твоей первой целью могут стать {@LinkCreature:12#8#Душегубы Красной плети} - разберись с ними и притащи их оружие. Это произведет впечатление.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="4">Гарантирую, теперь у каждого при взгляде на эти мечи первой мыслью будет: "&lt;PCNAME&gt; уже здесь, и может надрать задницу кому угодно".&lt;BR&gt;&lt;BR&gt;А не послать ли один меч Диркену, с запиской: "Дорогой Диркен, вытаскивая этот клинок из очередного поверженного врага, я думал только о тебе..."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1008">
+        <Page social="0">Слушай, если и дальше будешь сидеть сложа руки, заработаешь репутацию раздолбая. Тебе это надо?&lt;BR&gt;&lt;BR&gt;Только прислушайся, как это звучит. "Раздолбай". Меня лично смех разбирает.&lt;BR&gt;&lt;BR&gt;"Раздолбай!" Хе-хе-хе!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">C'est dangereux, en bas. Eliminez les {@LinkCreature:8#3011#mutilateurs gulas}, les {@LinkCreature:8#3022#farfadets auriques esclavagistes}, les {@LinkCreature:8#3031#ravageurs gulas}, les {@LinkCreature:8#3041#surveillants gulas}, les {@LinkCreature:8#3042#bandits kobolds} et les {@LinkCreature:8#3051#reîtres kobolds}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Loxetrius dans les Catacombes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Excellent. Moins il y en a, mieux c'est!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Avez-vous remarqué l'absence de sourire sur mon visage lorsqu'un ordre de mission n'a pas été mené à bien?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

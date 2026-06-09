@@ -1,0 +1,14 @@
+<StrSheet_AdminTool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AdminTool StrSheet_AdminTool.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_AdminTool">
+    <String string="Принудительная перезагрузка" readableId="SMT_ADMINTOOL_DISCONNECT" />
+    <String string="Воскрешение" readableId="SMT_ADMINTOOL_RESURRECT" />
+    <String string="Призвать" readableId="SMT_ADMINTOOL_CALL" />
+    <String string="Телепортация" readableId="SMT_ADMINTOOL_TELEPORT" />
+    <String string="Введите координаты телепорта [continentId] [x] [y] [z]" readableId="SMT_ADMINTOOL_WRITE_POSITION" />
+    <String string="Введите текущее местоположение в закладки, после чего введите название закладки." readableId="SMT_ADMINTOOL_ADD_WRITE_BOOKMARKNAME" />
+    <String string="Список закладок" readableId="SMT_ADMINTOOL_ADD_BOOKMARK" />
+    <String string="Удаление NPC" readableId="SMT_ADMINTOOL_REMOVENPC" />
+    <String string="Удаление закладок" readableId="SMT_ADMINTOOL_REMOVE_BOOKMARK" />
+    <String string="Введите закладку для удаления и подтвердите свой выбор." readableId="SMT_ADMINTOOL_WRITE_REMOVE_BOOKMARKNAME" />
+    <String string="Невидимость" readableId="SMT_ADMINTOOL_TRANSPARENT" />
+    <String string="[GM]" readableId="SMT_ADMINTOOL_GMTITLE" />
+</StrSheet_AdminTool>

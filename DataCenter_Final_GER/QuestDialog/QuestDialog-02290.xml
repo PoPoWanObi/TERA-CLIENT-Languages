@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Wow! Wir haben Euch jede Menge langweilige Handwerksmissionen übertragen, weil Ihr einfach so hervorragende Arbeit leistet.&lt;BR&gt;&lt;BR&gt;Mit seltenen, qualitativ hochwertigen Materialien unterstützen wir die wichtige Sache, für die wir alle kämpfen, und Eure Unterstützung der Hände von Velika ist dankenswert.&lt;BR&gt;&lt;BR&gt;Aber nun habe ich genug geplappert. Sucht {@LinkCreature:63#3003#Elthienne} auf.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Ich bitte Euch nur ungern darum, aber könntet Ihr einige Dinge für {@LinkCreature:63#3001#Barian} herstellen? Wir haben kaum noch Vorräte, und sie dürfen nicht abbrechen, das wäre schlecht fürs Geschäft.&lt;BR&gt;&lt;BR&gt;Ohne den Handel gäbe es auch keine Hände von Velika. Ja, so wichtig sind wir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Wenn das nicht {@gender:mein Lieblingshandwerker/meine Lieblingshandwerkerin} ist. Das sieht großartig aus.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} hat Eure wohlverdiente Belohnung.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fertigt eine Celesiumplatte und bringt sie mir. Das ist ein Spezialauftrag für einen Kunden, den ich nicht enttäuschen darf.&lt;BR&gt;&lt;BR&gt;Wir müssen unsere Kunden schließlich immer bei Laune halten.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Danke, &lt;PCNAME&gt;. Gute Arbeit.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} hatte einen guten Riecher, als sie Euch angeworben hat.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Cryosilex her und bringt es mir, so schnell Ihr könnt.&lt;BR&gt;&lt;BR&gt;Ihr rettet mir damit das Leben.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Vielen Dank.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} gibt Euch Euren Lohn.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Hemeleder her und bringt es schnell zu mir.&lt;BR&gt;&lt;BR&gt;Aber keine Kompromisse! Ich brauche das beste Material, das Ihr anfertigen könnt.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Danke, &lt;PCNAME&gt;. Ich wünschte, ich könnte Euch einen Keks geben, um Euch meine Dankbarkeit zu zeigen.&lt;BR&gt;&lt;BR&gt;Vielleicht hat {@LinkCreature:63#3002#Taratia} ja einen für Euch. Warum fragt Ihr sie nicht einfach? Sagt ihr, sie bekommt ihn von mir zurück.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Toirastoff her, und zwar rasch!&lt;BR&gt;&lt;BR&gt;Diese Kunden und ihre Sonderwünsche sind irgendwann noch mein Tod.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Aber hallo, &lt;PCNAME&gt;! Ihr arbeitet nicht nur hart und stellt hochwertige Materialien her, Ihr seid überdies noch schnell!&lt;BR&gt;&lt;BR&gt;Danke.</Page>
+    </Text>
+</QuestDialog>

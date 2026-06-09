@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="0">Вы отнесли материал для резьбы Долме и получили шлем из рога.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="4">&lt;PCNAME&gt;, добро пожаловать на пляжную вечеринку.&lt;BR&gt;&lt;BR&gt;Если ты хочешь получить шлем из рога, то тебе не повезло. В этом году такие шлемы разлетаются, как горячие пирожки, а я взял с собой недостаточно рогов.&lt;BR&gt;&lt;BR&gt;Но вот, что я тебе скажу, &lt;PCNAME&gt;. Ступай и принеси мне два рога арахненов с Острова Серпентис, и я сделаю тебе шлем из рога. Идет?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2004">
+        <Page social="4">Отличная работа, &lt;PCNAME&gt;! Великолепные рога, их хватит мне до конца дня.&lt;BR&gt;&lt;BR&gt;Вот твой шлем из рога, и спасибо тебе.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Я знаю, что добыть рога арахненов не так-то просто, &lt;PCNAME&gt;. Но я буду благодарен тебе, если ты поторопишься.</Page>
+    </Text>
+</QuestDialog>

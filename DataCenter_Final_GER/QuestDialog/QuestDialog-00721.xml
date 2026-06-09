@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">Wir haben noch immer Probleme mit den {@LinkCreature:22#14#Vadomaakolythinnen} in der Akademie. Ich möchte, dass Ihr sie zur Strecke bringt und den Beweis für ihren Tod an Euch nehmt.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Thara, wenn das erledigt ist. Bei ihr erhaltet Ihr Eure Belohnung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
+        <Page social="5">All diese Mädchen kamen zu uns, weil sie nach jemandem suchten, der ihnen beibringen konnte, wie man für die richtigen Dinge kämpft. Und jetzt sind sie alle tot ...&lt;BR&gt;&lt;BR&gt;Ich werde Euch bezahlen, aber danken werde ich Euch nicht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1011">
+        <Page social="0">Es ist nicht schön, aber die Vadomaakolythinnen müssen aufgehalten werden. Das ist Eure Aufgabe.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">Вы прибыли на Остров Зари зеленым новобранцем. Легат Лам попросил вас найти оставшихся в живых командиров по дороге к Форпосту у башни.&lt;BR&gt;&lt;BR&gt;По дороге к Лагерю Дулари вы вступили в свой первый бой с ожившими духами деревьев - древнями...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Аксель и я скоро отправляемся домой, но Адрия настаивает на ежедневных докладах до нашего отъезда. Поэтому твоим первым заданием станет:&lt;BR&gt;&lt;BR&gt;Отправиться к Форпосту у башни и передать трибуну Адрии, что у нас все в порядке.&lt;BR&gt;&lt;BR&gt;Если посчастливится наткнуться на &lt;font color='#660000'&gt;Эллеона&lt;/font&gt; (ты легко его узнаешь - это эльф с отвратительным характером и длинным черным шарфом) передай ему, что мы его ищем.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">Еще один новобранец? Как странно.&lt;BR&gt;&lt;BR&gt;То есть мы, конечно же, тебе рады. Наша задача - защищать пристань от диких зверей, которые во множестве здесь обитают. Особенно от &lt;font color='#660000'&gt;древней&lt;/font&gt;, хотя опасны не только они.&lt;BR&gt;&lt;BR&gt;Ступай по этой тропе к лагерю Дулари и уничтожь по дороге парочку {@linkcreature:13#300931#древней}.&lt;BR&gt;&lt;BR&gt;Но будь начеку! Немало новобранцев пали жертвой их острых когтей.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">Да уж, острые у них когти. Тебе же пришлось сражаться с древнями?&lt;BR&gt;&lt;BR&gt;Эллеон говорил что-то о том, что нужно уничтожить источник их силы, но что-то давно его не было видно.&lt;BR&gt;&lt;BR&gt;Отличная работа!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

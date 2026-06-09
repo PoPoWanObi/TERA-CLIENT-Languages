@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="89" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Загадочная повестка]&lt;BR&gt;&lt;BR&gt;Если хочешь прожить жизнь по своим правилам, а не подчиняться слабакам, тебя ждет {@LinkCreature:63#1260} в Велике.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1260">
+        <Page social="0">Вижу, у тебя есть пара-тройка боев за плечами.&lt;BR&gt;&lt;BR&gt;Если тебе хватает безрассудства и храбрости на то, чтобы нападать на кого захочешь и когда захочешь, поговори со мной снова.&lt;BR&gt;&lt;BR&gt;Я расскажу, что делать дальше.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1260">
+        <Page social="0">Организации, обеспечивающие соблюдение закона и порядка, были созданы овцами для того, чтобы контролировать волков. Овцы довольны своей жизнью. А ты?&lt;NEXTPAGEBUTTON&gt;"А я точно не из их числа".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Тогда хватай свою удачу за хвост, мой друг. Можешь силой, если нужно.&lt;BR&gt;&lt;BR&gt;Прочтя &lt;font color='#FF0000'&gt;Декларацию разбойника&lt;/font&gt;, ты сможешь выбрать свой собственный путь к могуществу.&lt;BR&gt;&lt;BR&gt;Учти, ты окажешься вне закона. Ты сможешь атаковать людей, но и они смогут атаковать тебя. Боги защищают поистине слабых, но зачем тебе утруждать себя слабаками?&lt;NEXTPAGEBUTTON&gt;"Я люблю настоящие испытания".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Осторожнее, друг мой, чем больше ты убиваешь, тем выше шанс прогневать богов. Дурная слава распространяется быстро.&lt;BR&gt;&lt;BR&gt;Пустяковая жертва в обмен на свободу, по-моему.&lt;BR&gt;&lt;BR&gt;Выбор за тобой...</Page>
+    </Text>
+</QuestDialog>

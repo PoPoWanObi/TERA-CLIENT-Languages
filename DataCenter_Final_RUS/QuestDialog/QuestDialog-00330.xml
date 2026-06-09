@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">Я стараюсь не выходить в море, когда рядом находятся пираты Красной плети. Но если мы в ближайшее время не возобновим ловлю рыбы, мы либо обанкротимся, либо помрем с голоду, и неизвестно, что случится раньше.&lt;BR&gt;&lt;BR&gt;С рыбалкой ты нам не поможешь... Но вот если ты уничтожишь {@LinkCreature:11#4003#Флибустьеров Красной плети}, засевших у Изрезанного берега, то рыбаки наберутся смелости и выйдут в море.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">Теперь, когда у Изрезанного берега стало меньше пиратов, Нерт сумеет уговорить рыбаков снова выйти в море.&lt;BR&gt;&lt;BR&gt;Но наги упрямы, и я уверен, что головорезы Красной плети нам еще доставят проблем.&lt;BR&gt;&lt;BR&gt;Если мы действительно хотим обезопасить рыбаков, то должны раз и навсегда избавиться от базы нагов, которая спрятана в Гроте пиратов.&lt;BR&gt;&lt;BR&gt;Я что, сказал "мы"? Я хотел сказать "ты".</Page>
+    </Text>
+</QuestDialog>

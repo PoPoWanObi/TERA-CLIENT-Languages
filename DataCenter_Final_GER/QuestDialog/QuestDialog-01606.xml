@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="4">Habt Ihr Thulsas ksharanische Wache gesehen?&lt;BR&gt;&lt;BR&gt;Sie haben das Zentrale Kommandozentrum nordöstlich vom Brennofen eingenommen und wir können die Einrichtung nicht zurückerobern, ohne uns um sie zu kümmern.&lt;BR&gt;&lt;BR&gt;Erledigt die Ksharanischen Erzpriester und ihre Vorhut und bringt mir ihre Amulette.&lt;BR&gt;&lt;BR&gt;Traut Ihr Euch das zu, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1035">
+        <Page social="4">Ich hatte recht - ich wusste, Ihr würdet es schaffen!&lt;BR&gt;&lt;BR&gt;Jetzt sind wir unserem Ziel, diesen Ort vom Feind zurückzuerobern, einen Schritt nähergekommen. Gute Arbeit!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1035">
+        <Page social="0">Bringt mir Beweise dafür, dass Ihr die Wachen besiegt habt.&lt;BR&gt;&lt;BR&gt;Ich weiß, es ist nicht einfach, aber ich habe vollstes Vertrauen in Euch.</Page>
+    </Text>
+</QuestDialog>

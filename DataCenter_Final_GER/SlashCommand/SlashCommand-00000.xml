@@ -1,0 +1,84 @@
+<SlashCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SlashCommand SlashCommand.xsd" xmlns="https://vezel.dev/novadrop/dc/SlashCommand">
+    <Command id="16" command="social" socialMotionId="16" paramCount="0" useInteractionMenu="false" />
+    <Command id="17" command="social" socialMotionId="17" paramCount="0" useInteractionMenu="false" />
+    <Command id="18" command="social" socialMotionId="18" paramCount="0" useInteractionMenu="false" />
+    <Command id="19" command="social" socialMotionId="19" paramCount="0" useInteractionMenu="false" />
+    <Command id="20" command="social" socialMotionId="20" paramCount="0" useInteractionMenu="false" />
+    <Command id="21" command="social" socialMotionId="21" paramCount="0" useInteractionMenu="false" />
+    <Command id="22" command="social" socialMotionId="22" paramCount="0" useInteractionMenu="false" />
+    <Command id="23" command="social" socialMotionId="23" paramCount="0" useInteractionMenu="false" />
+    <Command id="24" command="social" socialMotionId="24" paramCount="0" useInteractionMenu="false" />
+    <Command id="25" command="social" socialMotionId="25" paramCount="0" useInteractionMenu="false" />
+    <Command id="26" command="social" socialMotionId="26" paramCount="0" useInteractionMenu="false" />
+    <Command id="27" command="social" socialMotionId="27" paramCount="0" useInteractionMenu="false" />
+    <Command id="28" command="social" socialMotionId="28" paramCount="0" useInteractionMenu="false" />
+    <Command id="29" command="social" socialMotionId="29" paramCount="0" useInteractionMenu="false" />
+    <Command id="30" command="social" socialMotionId="30" paramCount="0" useInteractionMenu="false" />
+    <Command id="38" command="social" socialMotionId="38" paramCount="0" useInteractionMenu="false" />
+    <Command id="39" command="social" socialMotionId="39" paramCount="0" useInteractionMenu="false" />
+    <Command id="101" command="trade" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="102" command="profile" paramCount="0" useInteractionMenu="false" />
+    <Command id="104" command="duel" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="105" command="withdraw" paramCount="0" useInteractionMenu="false" />
+    <Command id="107" command="pos" paramCount="0" useInteractionMenu="false" />
+    <Command id="201" command="invite" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="202" command="leave" paramCount="0" useInteractionMenu="false" />
+    <Command id="203" command="kick" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="205" command="delegate" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="206" command="partypr" paramCount="1" useInteractionMenu="false" />
+    <Command id="207" command="partyapply" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="208" command="partyunitinvite" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="209" command="inviteauthorization" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="210" command="deprivedauthorityinviting" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="301" command="guildleave" paramCount="0" useInteractionMenu="false" />
+    <Command id="302" command="guildkick" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="303" command="guildmaster" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="304" command="guildjoin" paramCount="1" useInteractionMenu="false" />
+    <Command id="305" command="guilddismiss" paramCount="0" useInteractionMenu="false" />
+    <Command id="307" command="guildlist" paramCount="0" useInteractionMenu="false" />
+    <Command id="308" command="guildinvite" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="310" command="guildjointouser" paramCount="1" useInteractionMenu="true" />
+    <Command id="311" command="guildRecommend" paramCount="1" useInteractionMenu="false" />
+    <Command id="312" command="guildRecommendtouser" paramCount="1" useInteractionMenu="true" />
+    <Command id="313" command="guildwar" paramCount="1" useInteractionMenu="true" />
+    <Command id="403" command="help" paramCount="0" useInteractionMenu="false" />
+    <Command id="451" command="groupDuelJoin" paramCount="1" useInteractionMenu="true" />
+    <Command id="452" command="groupDuelInvite" paramCount="1" useInteractionMenu="true" />
+    <Command id="453" command="groupDuelBan" paramCount="1" useInteractionMenu="false" />
+    <Command id="454" command="groupDuelLeave" paramCount="0" useInteractionMenu="false" />
+    <Command id="501" command="friendlist" paramCount="0" useInteractionMenu="false" />
+    <Command id="502" command="friendadd" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="503" command="blockuser" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="504" command="unblockuser" autofillupparam="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="505" command="changegroup" paramCount="0" useInteractionMenu="false" />
+    <Command id="506" command="friendmemo" paramCount="0" useInteractionMenu="false" />
+    <Command id="507" command="friendremove" paramCount="1" useInteractionMenu="false" />
+    <Command id="508" command="requestserver" paramCount="1" useInteractionMenu="false" />
+    <Command id="701" command="jailhold" paramCount="1" useInteractionMenu="false" />
+    <Command id="702" command="jailfree" paramCount="1" useInteractionMenu="false" />
+    <Command id="801" command="createChatChannel" paramCount="2" useInteractionMenu="false" />
+    <Command id="802" command="joinChatChannel" paramCount="2" useInteractionMenu="false" />
+    <Command id="803" command="leaveChatChannel" paramCount="1" useInteractionMenu="false" />
+    <Command id="806" command="changeChatChannelPassword" paramCount="3" useInteractionMenu="false" />
+    <Command id="807" command="kickChatChannelMember" paramCount="2" useInteractionMenu="false" />
+    <Command id="901" command="playtime" paramCount="0" useInteractionMenu="false" />
+    <Command id="902" command="commandList" paramCount="1" useInteractionMenu="false" />
+    <Command id="903" command="dbtime" paramCount="0" useInteractionMenu="false" />
+    <Command id="904" command="serverTime" paramCount="0" useInteractionMenu="false" />
+    <Command id="1001" command="follow" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="1002" command="whisper" paramCount="1" useInteractionMenu="false" />
+    <Command id="1101" command="resetAllDungeon" paramCount="0" useInteractionMenu="false" />
+    <Command id="1102" command="petition" paramCount="0" useInteractionMenu="false" />
+    <Command id="1103" command="otherUserPaperDoll" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="1104" command="SetUserTarget" paramCount="1" useInteractionMenu="false" />
+    <Command id="1105" command="otherUserAchievement" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+    <Command id="1201" command="dice" paramCount="1" useInteractionMenu="false" />
+    <Command id="2001" command="adminLookIntoUserInfo" adminOnly="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="2002" command="vendingMachineShutDown" adminOnly="true" paramCount="1" useInteractionMenu="false" />
+    <Command id="3001" command="reportplayer" paramCount="1" useInteractionMenu="true" />
+    <Command id="3003" command="support" paramCount="0" />
+    <Command id="3004" command="emote" paramCount="0" useInteractionMenu="false" />
+    <Command id="3005" command="bug" paramCount="0" />
+    <Command id="3006" command="controller" paramCount="0" />
+    <Command id="3007" command="summonFriend" autofillupparam="true" paramCount="1" useInteractionMenu="true" />
+</SlashCommand>

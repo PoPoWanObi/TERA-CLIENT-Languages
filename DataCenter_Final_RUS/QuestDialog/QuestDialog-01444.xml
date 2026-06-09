@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="0">Охота на Монстра, Пожирающего Железо.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="4">Ты и {@LinkCreature:249#1013}, вроде, знакомы?&lt;BR&gt;&lt;BR&gt;Он отправился в Виридийские пещеры. Один.&lt;NEXTPAGEBUTTON&gt;"Там опасно?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Да. Виридийские пещеры населяют Зариики-споды - они его на части порвут. Он не боец.&lt;BR&gt;&lt;BR&gt;Я буду у тебя в долгу, если ты его спасешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">Как забавно! Я как раз начал думать - как же мне выбраться отсюда живым, и тут, внезапно, ты.&lt;BR&gt;&lt;BR&gt;Ты обладаешь весьма примечательной способностью вовремя появляться.</Page>
+    </Text>
+</QuestDialog>

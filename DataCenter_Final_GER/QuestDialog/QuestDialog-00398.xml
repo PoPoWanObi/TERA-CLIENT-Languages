@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Wir greifen die Feinde an. Schlagt bei der Piratengrotte zu und schaltet diese Korsaren aus.&lt;BR&gt;&lt;BR&gt;Kümmert Euch besonders um {@LinkCreature:11#2003#Rotpeitschennachtwachen}, {@LinkCreature:11#1008#Rotpeitschenpiraten}, {@LinkCreature:11#2001#Rotpeitschenmaate}, {@LinkCreature:11#1003#Rotpeitschenveteranen} und {@LinkCreature:11#3006#Rotpeitschenberserker}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Beila, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1010">
+        <Page social="4">Gut gemacht, &lt;PCNAME&gt;. Nur immer weiter so!&lt;BR&gt;&lt;BR&gt;Sieg für Valkyon!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1010">
+        <Page social="0">Ich werde Euch belohnen, wenn Ihr mir die Unterwerfungsmarken bringt.</Page>
+    </Text>
+</QuestDialog>

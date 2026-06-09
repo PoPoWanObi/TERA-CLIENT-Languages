@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="5">Nous devons empêcher les géants de rassembler leurs forces à proximité de Raseri Festning. En cas d'attaque coordonnée, nous sommes perdus.&lt;BR&gt;&lt;BR&gt;Exterminez les {@LinkCreature:51#3021#géants de glace vengeurs}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Thenuvia, de la Base de Glace du Défi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="5">Vous avez bien mérité les remerciements de la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

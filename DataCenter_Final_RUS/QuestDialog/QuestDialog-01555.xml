@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Детали задания:&lt;BR&gt;&lt;BR&gt;Заболевшие существа угрожают путешественникам и крестьянам в Скитера-Фэй. Чтобы спасти мирных жителей, нам нужно снизить их поголовье.&lt;BR&gt;&lt;BR&gt;Необходимо убить {@LinkCreature:54#270#Буйных древней}, {@LinkCreature:54#120#Мугато Кровавого Рога}, {@LinkCreature:54#150#Саблезубов-вырывателей кишок} и {@LinkCreature:54#440#Свирепых попори}.&lt;BR&gt;&lt;BR&gt;После выполнения задания зайди к Гиллиан в Скитера-Фэй.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Благодарю от лица всей Федерации. Твоя гильдия вдохновляет всех нас на новые свершения!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

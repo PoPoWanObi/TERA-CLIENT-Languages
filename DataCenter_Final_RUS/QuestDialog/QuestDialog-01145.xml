@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">Мы не можем позволить {@LinkCreature:39#280#Арахненам-разорителям} вести здесь себя как дома. Если они соберутся атаковать, мы долго не продержимся.&lt;BR&gt;&lt;BR&gt;Уменьши их поголовье, пока они не напали.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="4">Хорошо. Одним поводом для беспокойства стало меньше. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">Нам здесь некогда шутки шутить. {@LinkCreature:39#280#Арахнены-разорители} должны умереть!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">Кажется, тебе не помешает небольшой отдых на пляже, &lt;PCNAME&gt;. И у меня есть на этот счет отличная идея.&lt;BR&gt;&lt;BR&gt;В Гавани Головорезов есть один моряк по имени &lt;font color='#660000'&gt;Диркен&lt;/font&gt;. И он пытается натравить на Мечей Кайи местных пиратов, которые считают гавань своим домом.&lt;BR&gt;&lt;BR&gt;Да, все они - бывалые пираты, правда, большинству пришлось сойти на берег после того, как наги отправили их корабли на морское дно.&lt;BR&gt;&lt;BR&gt;По вполне очевидным причинам, мы не можем позволить, чтобы в стратегически важной гавани проливалась кровь. В общем, постарайся не допустить вспышки конфликта, и держись в тени - там повсюду юстициары.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1026">
+        <Page social="4">Диркен слишком занятой человек. У него нет лишнего времени на "блудниц Кайи", или как вы там себя называете.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4">Ну надо же, &lt;PCCLASS:lcase&gt;! Да ладно, не обижайся. Мечей Кайи... я так и хотел сказать. Оговорился.&lt;BR&gt;&lt;BR&gt;Проехали, дай-ка лучше я догадаюсь о причинах твоего визита: ты здесь, чтобы "реквизировать" что-нибудь у законопослушных и трудолюбивых местных жителей, верно?&lt;BR&gt;&lt;BR&gt;У меня есть другое предложение: я готов отвалить пару монет, чтобы ты, и другие вояки, играли в солдатиков в каком-нибудь другом месте.</Page>
+    </Text>
+</QuestDialog>

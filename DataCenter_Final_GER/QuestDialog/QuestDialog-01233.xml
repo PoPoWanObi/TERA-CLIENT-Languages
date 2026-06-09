@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">Wenn wir {@LinkCreature:39#170#Loyale Jalmarak} östlich des Lagers beseitigen könnten, dann ginge von den Arachnen eine Gefahr weniger aus.&lt;BR&gt;&lt;BR&gt;Wenn Ihr unterwegs welche töten könnt, bringt mir ihre Köpfe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1015">
+        <Page social="4">Ihr habt der Föderation, und damit uns allen hier, gute Dienste geleistet. Ich hoffe, Ihr bleibt in der Nähe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1015">
+        <Page social="0">Die Arachnen kontrollieren die Loyalen Jalmarak. Wir wollen, dass sie verschwinden.&lt;BR&gt;&lt;BR&gt;Sind sie schon verschwunden?</Page>
+    </Text>
+</QuestDialog>

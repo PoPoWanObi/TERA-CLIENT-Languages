@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">Ich denke andauernd, dass ich endlich dazu in der Lage sein werde, dieses Gutachten zu beenden, aber ständig kommt etwas dazwischen! {@LinkCreature:5#15#Hungrige Cullare} und {@LinkCreature:5#16#Tentacullare} spazieren mir ständig im Weg herum. Sie sind nicht gerade die angenehmsten Geschöpfe.&lt;BR&gt;&lt;BR&gt;Ihr könnt nicht zufällig da rüber gehen und sie für mich erledigen? Das würde die Arbeit an meinem Gutachten sehr viel einfacher gestalten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">Schon erledigt? Das ging ja schnell, danke! Ohne dieses Ungeziefer müsste ich schnell mit meiner Arbeit fertig werden.&lt;BR&gt;&lt;BR&gt;Nehmt das hier für Eure Anstrengungen. Ich bin Euch sehr dankbar, und das gilt sicher auch für Ackerly.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="222" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Dieses Teleportal wird Euch zum &lt;font color='#0000FF'&gt;Altar von Vadoma&lt;/font&gt; bringen.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(Dieses Teleportal summt vor magischer Kraft.)</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">(Seid Ihr bereit zur Versiegelungsvorrichtung zu gehen?)&lt;TEXTBUTTON&gt;Teleportal verwenden&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Zur Versiegelungsvorrichtung teleportieren&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

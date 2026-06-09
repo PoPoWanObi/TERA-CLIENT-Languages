@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220021">
+        <Page social="1">Habgierige Mitglieder der Freihändler und der Union der Erleuchtung wurden gesichtet, wie sie unser Territorium infiltrieren. Patrouilliert die Wildnis und die Gebiete des Ansturms. Sorgt dafür, dass alles seinen geregelten Gang geht.&lt;BR&gt;&lt;BR&gt;Ihr habt großes Talent als &lt;PCClass&gt; ... Könntet Ihr die {@linkcreature:123#202#Finstermugato} und {@linkcreature:123#205#Flussghilliedhus} ebenfalls dezimieren? Dann wäre es für meine Wachen viel einfacher, die Bewegungen unserer Feinde zu verfolgen.&lt;BR&gt;&lt;BR&gt;Eine Sache noch, bevor Ihr aufbrecht: Diese Aufgabe erfordert Zusammenarbeit. Bildet eine Gruppe und versteht das ganze als Trainingseinheit. &lt;font color='#660000'&gt;Jede Gruppe, in der mindestens ein Mitglied der Stufe 65 und eines mit einer niedrigeren Stufe als 60 zusammenarbeiten, verdient sich eine Bonusbelohnung.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220021">
+        <Page social="0">Exzellent, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ich kann schon besser sehen.&lt;BR&gt;&lt;BR&gt;Für den Eisernen Orden!</Page>
+    </Text>
+</QuestDialog>

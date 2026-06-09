@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="4">Oben auf dem Hügel im Westen der Eisreißerbucht steht ein Leuchtturm. Vor dem magischen Sturm hat der Leuchtturmwärter Schiffe davor bewahrt, an den Felsen zu zerschellen. Aber jetzt, da die Bucht komplett zugefroren ist, könnten wir ihn hier unten gebrauchen.&lt;BR&gt;&lt;BR&gt;So ganz nebenbei bemerkt belagern auch noch die {@LinkCreature:31#10#Frostweitennachtwachen} den Weg zum Leuchtturm. Wir machen uns alle Sorgen, wenn Mogel dort oben allein ist. Würdet Ihr den Weg sichern und ihn hier herunterbringen, wo es sicherer ist?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1006">
+        <Page social="4">Hier in der Gegend habe ich Euch noch nie gesehen. Aber Ihr habt gute Arbeit geleistet bei den Frostweitennachtwachen. Bei so niedrigen Temperaturen ist es sicher kein Kinderspiel, die aus dem Weg zu schaffen.&lt;BR&gt;&lt;BR&gt;Haben Euch hochgeschickt, um mich runterzuholen, was? Na, dann sagt denen mal, das können sie vergessen! Ich geh nicht runter! Dieser Ort hier steckt voller Erinnerungen an mein Leben und das meiner Söhne. Der Leuchtturm bleibt in Betrieb, solange ich lebe ... Ob mit oder ohne Schiffe!&lt;BR&gt;&lt;BR&gt;Sagt ihnen danke, dass sie sich solche Sorgen machen, aber kommt nicht wieder zu mir herauf.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1011">
+        <Page social="4">Diese Gelegenheit bot sich gerade an. Mogels Söhne {@LinkCreature:31#30#Endain}, {@LinkCreature:31#31#Endrenlas} und {@LinkCreature:31#32#Enkanas} waren Soldaten von Acarum und haben die Küste verteidigt. Sie fielen im Kampf, als die Naga hierherkamen, kurz vor dem Sturm.&lt;BR&gt;&lt;BR&gt;Aber die Tragödie ist noch nicht zu Ende. Die Brüder suchen noch immer die Sturmebene heim.&lt;NEXTPAGEBUTTON&gt;"Wie ist das möglich?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thulsas heimtückische Magie hat Mogels Söhne dazu gezwungen, noch einmal im Traum der Titanen zu wandeln.&lt;BR&gt;&lt;BR&gt;Mogel weiß das ganz sicher - wie sollte er nicht? Aber wenn diese Monster in Gestalt seiner Söhne die Küste heimsuchen, dann ist er in umso größerer Gefahr.&lt;BR&gt;&lt;BR&gt;Wenn Ihr den drei Brüdern ihren Frieden wiedergebt und ihre Habseligkeiten einsammelt, bringe ich sie zu Mogel, dann kann er vielleicht ihre Andenken vom Leuchtturm mit hier herunter nehmen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1011">
+        <Page social="10">An diese Tragödie wird man lange denken, und an Euren selbstlosen Akt ebenfalls. Ich werde Mogel persönlich diese Sachen überbringen und ihn den Berg herunterbegleiten.&lt;BR&gt;&lt;BR&gt;Danke für Eure Unterstützung.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Ihr müsst Mogels untote Söhne finden und sie von ihrem Albtraum erlösen.</Page>
+    </Text>
+</QuestDialog>

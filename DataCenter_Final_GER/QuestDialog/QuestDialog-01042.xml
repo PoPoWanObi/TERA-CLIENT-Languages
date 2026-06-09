@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">Oben in der Halle der Jungfern befinden sich die schlimmsten Grauen in diesem Höllenloch. Ich spreche von diesen entsetzlichen Puppen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:33#1#Geisterbälge} und {@LinkCreature:33#2#Verfluchte Bälge} mögen harmlos - ja sogar niedlich - aussehen, wenn man sie zum ersten Mal sieht. Aber wenn sie über Euren Kameraden herfallen und ihm die Haut abziehen ... dann ist das schon nicht mehr ganz so niedlich. Das verfolgt Euch, bis ans Lebensende!&lt;BR&gt;&lt;BR&gt;Seid Ihr mutig genug, ein paar von ihnen zu töten?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">Ihr seht aus, als hättet Ihr Erfolg gehabt!&lt;BR&gt;&lt;BR&gt;Sehr tapfer, &lt;PCNAME&gt;! Die - ACH DU ... DA IST EINE AUF EUREM RÜCKEN!&lt;BR&gt;&lt;BR&gt;Halt! Nein, doch nicht. War nur ein Schatten. Mein Fehler.</Page>
+    </Text>
+</QuestDialog>

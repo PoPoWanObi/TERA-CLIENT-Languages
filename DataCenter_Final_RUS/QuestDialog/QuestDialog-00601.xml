@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">Пару дней назад я отправил разведчика, чтоб тот выследил Скального преследователя кулкари. И с тех пор о нем никаких известий. Больше у меня разведчиков нет, поэтому я отправляю тебя.&lt;BR&gt;&lt;BR&gt;Ступай к западным воротам и найди где-то там {@LinkCreature:221#1047#Хеббин}. Если она жива, разузнай, что случилось и возвращайся. Если нет, найди кулкари и дай как-нибудь о себе знать.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">Капитан беспокоился? Хм. Ну, я просто не могла отсюда выбраться, вот и все.&lt;BR&gt;&lt;BR&gt;Странно, но кулкари ни до чего нет дела. Все было подозрительно тихо.</Page>
+    </Text>
+</QuestDialog>

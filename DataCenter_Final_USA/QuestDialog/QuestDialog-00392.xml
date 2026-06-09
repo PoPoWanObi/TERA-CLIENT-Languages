@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="4">I’ve seen countless companions fall at the hands of our enemies. We raised a mug in their honor, but what about their families? How will they remember their sacrifice?&lt;BR&gt;&lt;BR&gt;We all keep lockers over at Pirate Grotto. If you bring those lockers here, I can hand the personal effects of the fallen back to those who loved them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1032">
+        <Page social="0">(This small locker is filled with worthless trinkets.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1033">
+        <Page social="0">(This small locker is filled with mementos and a shiny, but obviously worthless, rock.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1034">
+        <Page social="0">(This small locker is filled with faded pictures and an empty bottle of rum.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="211" prevId="5" villagerId="1035">
+        <Page social="0">(This small locker is filled with frilly undergarments and a whip.)&lt;BR&gt;&lt;BR&gt;(You close it quickly and move on.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="211" prevId="6" villagerId="1036">
+        <Page social="4">Thanks for collecting these.&lt;BR&gt;&lt;BR&gt;Their families will treasure every item.</Page>
+    </Text>
+</QuestDialog>

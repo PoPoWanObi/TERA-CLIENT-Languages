@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous vous demandez parfois ce que je fais ici?&amp;nbsp; J'ai l'impression que je passe mon temps à vous envoyer voir Elthienne, et à vous payer quand elle vous renvoie ici.&lt;BR&gt;&lt;BR&gt;Mais bon, même si mon travail se limite à ça, je compte le faire bien!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3003#Elthienne}. Et hop. Fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Il était temps que Taratia vous envoie me parler. Quelle fainéante, celle-la!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;C'est un job très stressant. Quand vous n'êtes pas en train de fabriquer quelque chose, vous partez chercher des matières premières pour fabriquer quelque chose.&lt;BR&gt;&lt;BR&gt;D'ailleurs, aujourd'hui, ce sera de la fabrication. Apportez le résultat à {@LinkCreature:63#3001#Barian}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} a votre paiement.&lt;BR&gt;&lt;BR&gt;A bientôt, j'espère!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez des lingots de noracier et rapportez-les moi dès qu'ils seront prêts.&lt;BR&gt;&lt;BR&gt;Et merci bien.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Merveilleux!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} va se charger de vous payer.&lt;BR&gt;&lt;BR&gt;N'hésitez pas à revenir nous aider!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez des astrosilex et revenez me voir. Attention aux serpents!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Non, je plaisante. Il n'y a pas de serpents à Velika. Mais vous y avez cru.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} va vous payer.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du cuir de mar et apportez-le-moi.&lt;BR&gt;&lt;BR&gt;Merci bien.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Vous vous surpassez. Merci mille fois!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'espère que {@LinkCreature:63#3002#Taratia} vous paie suffisamment.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez du tissu de shetla et apportez-le-moi.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Nous ne vous méritons pas!&amp;nbsp;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3001#Barian} me dit qu'il est satisfait de votre travail. D'ailleurs, tout le monde chez les Mains de Velika apprécie les services que vous nous rendez.&lt;BR&gt;&lt;BR&gt;C'est bizarre, personne ne me dit jamais que je vous envoie parler aux gens d'une manière professionnelle et rigoureuse.&lt;BR&gt;&lt;BR&gt;Enfin... à bientôt.</Page>
+    </Text>
+</QuestDialog>

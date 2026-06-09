@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="0">Rhodos und &lt;PCNAME&gt; verfolgten Durion durch die Tunnel unter Trellum Consurgo. Die Suchenden von Höhenwacht zerbrachen das Siegel der Erzdevaner, das &lt;PCNAME&gt; erbeutet hatte, um ihnen eine kleine Chance gegen Durions Magie zu verschaffen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="4">Schnell! Durion darf nicht entkommen!&lt;NEXTPAGEBUTTON&gt;"Wo ist er hin?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich habe gesehen, wie er in Richtung der unteren Ebenen geflohen ist.&lt;BR&gt;&lt;BR&gt;Beeilt Euch!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2125">
+        <Page social="4">Kommt! Ihr dürft keine Zeit verlieren!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2130">
+        <Page social="4">Wie die elende Ratte, die er eben ist, hastet Durion in einen Tunnel. Wie passend!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2129">
+        <Page social="4">Wir haben das Siegel der Erzdevaner zerlegt, das Ihr erbeutet habt. Wir haben wenig Zeit, es auszuprobieren, doch es sollte Euch bei Eurem Kampf gegen Durion helfen.&lt;BR&gt;&lt;BR&gt;Bitte rettet den Hohen Ältesten.</Page>
+    </Text>
+</QuestDialog>

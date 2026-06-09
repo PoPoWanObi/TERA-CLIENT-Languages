@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="0">Die Valkyon-Föderation hat sich fast vollkommen von der Insel der Dämmerung zurückgezogen, doch ein paar Unglücksraben sind dort geblieben und versuchen, das verbleibende Chaos zu beseitigen. Sie haben gefragt, ob Ihr ihnen helfen könntet, um ihre Abfahrt zu beschleunigen, und Ihr habt zugestimmt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="4">Noch {@gender:ein Rekrut/eine Rekrutin}, {@gender:der/die} nach Ruhm und Reichtum sucht? Ihr seid spät dran, aber es gibt hier immer noch genug zu tun, bevor die Valkyon-Föderation die Insel an die Forschungsteams übergibt.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Legat &lt;font color='#660000'&gt;Lam&lt;/font&gt;. Er wird Eure Fähigkeiten einschätzen und Euch entsprechend Aufgaben erteilen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1014">
+        <Page social="4">Jetzt, wo Ihr schon einmal hier seid, können wir Euch auch gleich an die Arbeit schicken. Wir könnten etwas Hilfe bei der Säuberung dieses Ortes gebrauchen.&lt;BR&gt;&lt;BR&gt;Wir werden Euch in Nullkommanichts für alle Pflichten, welche die Föderation für Euch geplant hat, ausgebildet haben.</Page>
+    </Text>
+</QuestDialog>

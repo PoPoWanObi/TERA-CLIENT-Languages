@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">Наш флот застрял в порту, а рыбаки боятся выйти в море. Вскоре мы все пойдем по миру с протянутой рукой! И непохоже, что ситуация в обозримом будущем изменится к лучшему. Да уж, старые деньки остались в прошлом, надо учиться жить в новом мире.&lt;BR&gt;&lt;BR&gt;И ключ к выживанию, &lt;PCCLASS:lcase&gt;, это слово "прятки".&lt;BR&gt;&lt;BR&gt;Не в том смысле, что мы должны прятаться от пиратов, нет. Но мы должны отыскать, где спрятались {@LinkCreature:11#4004#Шипохвостые камара}, туши которых можно продать с немалой выгодой!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">Отличная работа, &lt;PCNAME&gt;! Прекрасный пример рыбакам, который покажет, как мы сможем выжить в будущем!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1007">
+        <Page social="0">И что теперь, станешь одним из тех нытиков, которые целыми днями просиживают в доках, надеясь, что пираты каким-то магическим образом испарятся, а жизнь наладится сама-собой?&lt;BR&gt;&lt;BR&gt;Вот уж сомневаюсь! Нужно отыскать {@LinkCreature:11#4004#Шипохвостых камара}!</Page>
+    </Text>
+</QuestDialog>

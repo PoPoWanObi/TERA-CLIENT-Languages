@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Шляпа "Попорик"? Тише!&lt;BR&gt;&lt;BR&gt;Слушай, я получил жалобу от нескольких попори на то, что делаю шляпы из попори, так что больше я этим не занимаюсь.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Что же мне тогда делать с куклой?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Ну, так как у тебя уже есть кукла попори, полагаю, я могу сделать еще одну.&lt;BR&gt;&lt;BR&gt;Будут ли пожелания насчет цвета шерсти?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Хм...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Ребята из Длани Велики сказали мне, что попори не находят эти шляпы забавными. Но если у тебя уже есть кукла попори, и тебе очень-очень хочется сделать шляпу... Пожалуй, я могу ее сделать.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="4">Тебе доводилось видеть {@LinkCreature:40#33#Зомпори-шахтеров}, которые работают на Легион Тулсы? Что случилось с ними? Как ты думаешь, руда, которую они добывают, может воздействовать на самих шахтеров?&lt;BR&gt;&lt;BR&gt;Можешь помочь мне узнать? Возможно, придется убить нескольких, чтобы раздобыть образцы руды.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Я передам это на анализ экспертам Мистериума. Между нами, даже не хочу руду в руках держать дольше, чем нужно.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Я - простой центурион, но даже мне под силу сложить два плюс два и получить шахты плюс магические камни. Удалось найти руду?</Page>
+    </Text>
+</QuestDialog>

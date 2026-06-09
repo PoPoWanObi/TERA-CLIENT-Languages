@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="4">На юго-востоке находится большой отряд деванцев. Разведчики Атель-акаад... Они отрезали нас от Амена-Кватла. Убей их. Обыщи их до нитки, вдруг найдется какая-то информация о том, зачем они здесь.&lt;BR&gt;&lt;BR&gt;Член гильдии первооткрывателей Касиас следит за ними. Поговори с ним по поводу того, что найдешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">В наши дни только храбрецы ходят по этим дорогам. У тебя ко мне дело? А-а, деванцы.&lt;BR&gt;&lt;BR&gt;Кольца принадлежат Киллиану, чем и объясняется пестрое сборище солдат здесь, на Даконском перепутье. Бог хаоса не станет удовлетворяться одним цветом, когда можно использовать всю палитру.&lt;BR&gt;&lt;BR&gt;Но это всего лишь разведчики. Что наводит на разумный вопрос: где их основная армия?&lt;BR&gt;&lt;BR&gt;Я поговорю с Кеалахом. А ты предупредишь Денмара в Лагере у Черного источника.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1014">
+        <Page social="0">Эти деванцы должны где-то хранить приказы.&lt;BR&gt;&lt;BR&gt;Убей Творцов судьбы и жнецов на востоке и принеси все, что найдешь на их трупах.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1008">
+        <Page social="4">Что, Атель-акаад?&lt;BR&gt;&lt;BR&gt;Чего они добиваются от этих бестолковых богохульников?</Page>
+    </Text>
+</QuestDialog>

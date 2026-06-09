@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Die Argonen haben hier eine Art botanische Forschung durchgeführt. Wir wissen nicht, woran sie gearbeitet haben, aber eines wissen wir sicher: Sie waren groß.&lt;BR&gt;&lt;BR&gt;Wir haben auch flaschenähnliche Behälter gefunden. Bringt mir, was auch immer da drin ist, aber hütet Euch vor den großen Argonen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">Diese Inhalte bestätigen, dass die Argonen hier botanische Forschungen betrieben haben.&lt;BR&gt;&lt;BR&gt;Wenn ich ihre Methodologie kopieren kann, finden wir vielleicht heraus, was die Argonen versucht haben.&lt;BR&gt;Die nächste Station für Euch ist die Fluchherzkammer. Sprecht mit Beranie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1024">
+        <Page social="0">Die Argonomorphdarmschlitzer werden versuchen, Euch aufzuhalten. Sie sind offensichtlich weitaus tödlicher als die normalen Darmschlitzer, aber gebt nicht auf! Beschafft diese Pflanzenproben!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1026">
+        <Page social="4">Ihr seid auf {@Creature:246#1024$$Platanok}s Bitte hier? Es überrascht mich, dass er überhaupt Soldaten entbehren kann. Aber nichtsdestotrotz kann ich Eure Hilfe gut gebrauchen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="0">&lt;PCNAME&gt; est entré{@g:/e} dans la carrière de Dinara et a bu la potion d'invisibilité offerte par Hagand.&lt;BR&gt;Ainsi masqué{@g:/e} &lt;PCNAME&gt; a récupéré des Pierres de relativité au nez et à la barbe des demokrons et des Parthes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="4">Et où allez-vous maintenant?&amp;nbsp; La carrière de Dirana dans la Vallée de la famine?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai bien peur que tout cela soit en pure perte. Personne n'a jamais réussi à tirer ne serait-ce qu'une étincelle de ce téléportail.&lt;BR&gt;&lt;BR&gt;Mais vous m'avez l'air débrouillard{@g:/e}, c'est pourquoi je vous fais confiance pour revenir en vie. Bonne chance.&lt;NEXTPAGEBUTTON&gt;"Il faut que ce téléportail fonctionne, sans quoi nous sommes tous condamnés."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1018">
+        <Page social="4">Hagand demande pierre!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Beaucoup or!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Expérience Hagand, veut pierre!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Puis-je vous faire confiance?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Faire confiance Guikol?&amp;nbsp; Peut-être.&lt;BR&gt;&lt;BR&gt; Faire confiance Hagand, oui.&lt;BR&gt;&lt;BR&gt;Faire confiance or?&amp;nbsp; Bien sûr!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"C'est compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="1018">
+        <Page social="0">Crrrr... &lt;BR&gt;Pas de pierre. Pas de discussion.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1018">
+        <Page social="4">Pierres, trop beaucoup!&amp;nbsp; Trop lourd!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Cacher pierre dans tas. Pas loin!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Chercher de l'aide, revenir, porter pierres.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="2064">
+        <Page social="4">(Il doit s'agir du tas de pierre dont Guikol vous a parlé.)&lt;NEXTPAGEBUTTON&gt;"On dirait que nous y sommes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

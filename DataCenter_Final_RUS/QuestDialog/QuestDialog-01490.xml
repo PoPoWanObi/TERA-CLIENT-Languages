@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">Нам нужна помощь на севере Хабере. Нам удается отбивать атаки армии Тулсы, но бойцы держатся из последних сил. &lt;BR&gt;&lt;BR&gt;Сичел у северных ворот покажет тебе дорогу к Далеком приюту. Да хранит тебя Кайа.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1003">
+        <Page social="4">Эта дорога ведет на северо-восток, к Далекому приюту.&lt;BR&gt;&lt;BR&gt;Это единственный способ попасть туда, но дорогу охраняют рыцари-нежить.&lt;BR&gt;&lt;BR&gt;Если ты уничтожишь рыцарей, одной проблемой станет меньше.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1001">
+        <Page social="4">Ух ты, добро пожаловать! Спасибо за труды! Наверное, сложно было пробираться сюда через груды гниющих трупов!&lt;BR&gt;&lt;BR&gt;Я - префект Хубиар. Раз познакомиться, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+</QuestDialog>

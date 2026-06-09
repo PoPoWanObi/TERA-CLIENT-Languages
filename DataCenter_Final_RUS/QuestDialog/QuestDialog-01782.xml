@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="1">Похоже, у яйцеголовых из Союза Просвещенных нет проблем с запасами ноктиния. Давай-ка избавим их от его источника.&lt;BR&gt;&lt;BR&gt;Проникни на их территорию и собери ноктиний из {@linkcreature:122#202#Горных мугато} и {@linkcreature:122#205#Оазисных древней}.&lt;BR&gt;&lt;BR&gt;Нам не столь важно получить ноктиний, сколько избавить от него союз, так что делай с найденным ноктинием что хочешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="9001">
+        <Page social="0">Благодаря твоей работе, мощь ордена крепнет!</Page>
+    </Text>
+</QuestDialog>

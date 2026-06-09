@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">Ну вот: началось все с гиен, а теперь проблем стало больше. Големы-собиратели взбесились.&lt;BR&gt;&lt;BR&gt;Это место кишит {@linkcreature:19#3003#Пожинающими големами-собирателями} и {@linkcreature:19#3001#Яростными големами-собирателями}! Их слабое место - &lt;font color='#660000'&gt;кристальные сердца&lt;/font&gt;. Если их разбить, голем выключается навсегда.&lt;BR&gt;&lt;BR&gt;Пожалуйста, разбей големов и уничтожь их &lt;font color='#660000'&gt;кристальные сердца&lt;/font&gt;, а потом принеси мне осколки. Я не смогу сопровождать купцов до тех пор, пока не удостоверюсь, что големы больше не представляют угрозы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Без &lt;font color='#660000'&gt;кристальных сердец&lt;/font&gt;, эти големы ничего не смогут сделать. Спасибо. Это большая помощь, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">Уничтожь {@linkcreature:19#3003#Пожинающих големов-собирателей} и {@linkcreature:19#3001#Яростных големов-собирателей} около Сыродельни Филтона и собери их &lt;font color='#660000'&gt;кристальные сердца&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

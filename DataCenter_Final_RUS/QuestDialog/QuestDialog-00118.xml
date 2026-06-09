@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Приходилось бывать в Деревне лесорубов?&lt;BR&gt;&lt;BR&gt;Если доберешься туда, поговори с Томбой. Он из Трясины Туванги, а там сейчас что-то вроде кризиса.&lt;BR&gt;&lt;BR&gt;Трясина - очень необычное место, так что я искренне советую там побывать.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:60#1099} проведет тебя туда.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1099">
+        <Page social="0">Моя из Трясина Туванги - так ты это называть. Там жить много туванги.&lt;BR&gt;&lt;BR&gt;Но они сдуреть сейчас. Туванги бить всех и хотеть править миром. Как короли. Моя не такой. Моя не любить драться. Туванги проиграть, если воевать с чужаками.&lt;BR&gt;&lt;BR&gt;Моя послать тебя в Болотище. Там ты встретить {@LinkCreature:205#1017#Рате}. Ты сказать Рате ты прийти и остановить туванги.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1017">
+        <Page social="5">Туванги подняли вой - наступает конец света, бла-бла-бла. Как увидят кого-то с оружием, начинают умолять пойти к трясине.&lt;BR&gt;&lt;BR&gt;Но на деле же тут, в Трясине Туванги, скука смертная. Вообще местные туванги смирные: бояться нужно лишь тех, которые покинули эти земли, а теперь вернулись.</Page>
+    </Text>
+</QuestDialog>

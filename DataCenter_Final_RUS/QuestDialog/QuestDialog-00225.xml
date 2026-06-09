@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="4">Гулы ужасны, но иногда их питомцы еще хуже.&lt;BR&gt;&lt;BR&gt;Тупые создания. Убей {@LinkCreature:8#2061#Позолоченных бесов} и {@LinkCreature:8#2011#Бронированных гиен}.&lt;BR&gt;&lt;BR&gt;Одной проблемой станет меньше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1004">
+        <Page social="4">Хорошо, что они мертвы. Теперь мы можем перейти непосредственно к гулам.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1004">
+        <Page social="0">Нет времени на бесов и гиен? Знаешь, когда гиена склонится над твоим трупом, твой призрак будет умолять, чтобы нашелся хоть кто-нибудь, у кого это время есть.</Page>
+    </Text>
+</QuestDialog>

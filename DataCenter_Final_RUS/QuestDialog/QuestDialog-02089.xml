@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Вы очистили центральную зону храма.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Кодару требуется помощь в Центра храма.&lt;BR&gt;&lt;BR&gt;Пожалуйста, пройди через телепорт в храм и спроси Кодара, чем ему можно помочь. &lt;NEXTPAGEBUTTON&gt;"Это честь для меня".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Добро пожаловать, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Мой долг требует от меня отправиться в другое место, но я знаю, что могу рассчитывать на твою помощь здесь, в Центре храма. Благовония нужно обновить, зеркала - почистить, к тому же в храм снова проникли вредители и вернулись змеи. Однако пока следует сосредоточиться на чем-то одном.&lt;NEXTPAGEBUTTON&gt;"Я этим займусь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Да осветит тебя свет Балдера!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Да осветит тебя свет Балдера!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Да осветит тебя свет Балдера!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Воистину, сам Балдер прислал тебя!&lt;BR&gt;&lt;BR&gt;Пожалуйста, прими этот скромный дар в знак нашей благодарности.</Page>
+    </Text>
+</QuestDialog>

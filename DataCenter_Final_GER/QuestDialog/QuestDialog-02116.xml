@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4">Wisst Ihr, warum man es Narrengold nennt? Weil nur Narren einen ernsthaften Wissenschaftler auslachen, der hierher gekommen ist, um sich mit elementarer Transmutation zu befassen!&lt;BR&gt;&lt;BR&gt;Und ich stehe kurz vor einem entscheidenden Durchbruch! Bald schon verfüge ich über die Fähigkeit, Gold herzustellen!&lt;NEXTPAGEBUTTON&gt;"Äh ... hurra?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Der Trick - seltsamerweise haben meine Kollegen das nie versucht - besteht darin, Magie zu verwenden, anstatt nur einer Ansammlung chemischer Komponenten.&lt;BR&gt;&lt;BR&gt;Da ist so eine sympathische Magieschiene im Spiel. Es ist ziemlich kompliziert.&lt;BR&gt;&lt;BR&gt;Aus bestimmten willkürlichen und esoterischen Gründen brauche ich die &lt;B&gt;Augen der Gier&lt;/B&gt;. Erledigt {@LinkCreature:472#29#Sihranische Avaritianer} im Goldenen Labyrinth und kommt hierher zurück, dann erkläre ich Euch mehr.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="6">Also, es handelt sich um sympathische Magie. Für eine Transmutation zu Gold brauche ich ein Auge, das von Gier geblendet wurde.&lt;BR&gt;&lt;BR&gt;Bringt es näher heran. Das Licht hier drin ist nicht sehr gut.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Ich kann das nicht alleine machen, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

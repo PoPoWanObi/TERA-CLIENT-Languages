@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Серсин подозревала, что Громила Кугай что-то должен знать о происходящем в Ущелье Скверны, и потому послала вас убить его. Она была права - на его теле вы нашли документ, написанный на древнем языке.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Узнав такое, я не могу позволить солдатам уйти с острова. Но одно дело подозрения, совсем другое - факты. Ты сможешь помочь нам развеять сомнения.&lt;BR&gt;&lt;BR&gt;{@linkcreature:13#1004#Громила Кугай} ходит по землям, кищащим демонами, и на его теле нет ни царапины. Многие из наших братьев погибли от его руки.&lt;BR&gt;&lt;BR&gt;Обыщи его труп, вдруг удастся что-то найти.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Кугай мертв, но вместо ответов ты приносишь мне новые вопросы. На свитке те же символы, что и на собранных раньше жетонах. Древний язык, который не все понимают. Не все, но я вот понимаю.&lt;NEXTPAGEBUTTON&gt;"И что там говорится?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Серсин читает свиток.)&lt;BR&gt;&lt;BR&gt;Боюсь, они проводят ритуал, чтобы призвать тьму, которая поглотит весь мир.&lt;BR&gt;&lt;BR&gt;Командует всем предводитель демонов и служитель Лока, которого мы считали погибшим уже очень давно.&lt;BR&gt;&lt;BR&gt;Караша.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Ich habe einen Auftrag für Euch. Wir verlieren Vorräte an die Kultisten von Himmelsfall. Jeder einzelne Bissen davon stärkt sie und schwächt uns! Ich möchte, dass Ihr die {@LinkCreature:17#300551#Fasskopferntearbeiter} östlich von hier um unsere Vorräte erleichtert. Es ist zwar nicht schön, aber wir müssen diese Heuschrecken aufhalten, um selbst zu überleben!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Gut gemacht. Behaltet diese Lektion stets im Kopf: Hungrige Gegner sind verzweifelte Gegner, und wer verzweifelt ist, macht Fehler. Man muss nur schön Druck ausüben!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1023">
+        <Page social="0">Ich weiß, es ist alles andere als angenehm, aber jeder Kultist, den Ihr umbringt, ist ein doppelter Sieg für uns. Genug geredet.</Page>
+    </Text>
+</QuestDialog>

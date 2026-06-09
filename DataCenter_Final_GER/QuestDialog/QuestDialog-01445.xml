@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ihr seid nach Kaiator zurückgekehrt und habt Tamur einen Forschungsbericht übergeben. Tamur hat Euch dafür gedankt, dass Ihr den Tod seines Vaters gerächt habt, sprach dann aber rasch vom Krieg. Um ein Desaster an der Khanovarfront zu vermeiden, solltet Ihr laut Tamur die Truppen dort unterstützen. Ihr wart auf dem Schlachtfeld, habt eine Belagerungswaffe bemannt und einen Argonenangriff abgewehrt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Kehrt nach {@Rgn:84001$$Kaiator} zurück und übergebt Kommandant Tamur den Forschungsbericht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4">Danke ... Danke, dass Ihr meinen Vater gerächt habt. Aufgrund meiner Pflichten konnte ich nicht selbst Vergeltung üben.&lt;NEXTPAGEBUTTON&gt;"Euer Vater hätte das verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das hoffe ich. Was führt Euch wieder nach Kaiator?&lt;BR&gt;&lt;BR&gt;Was? Ein Bericht von unseren Freunden im Mysterium? Den muss ich mir ansehen. Wir werden uns später unterhalten.&lt;BR&gt;&lt;BR&gt;Gislan würde Euch gern noch sprechen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5026">
+        <Page social="4">Danke, &lt;PCNAME&gt;. {@Creature:246#2008$$Hasmina} ist eine aufgeweckte junge Offizierin und ähnelt Euch. Danke, dass Ihr ihr das Leben gerettet habt.&lt;NEXTPAGEBUTTON&gt;"Ich würde nie einen Kameraden im Stich lassen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Natürlich nicht. Bitte behaltet Hasmina im Auge. Überlebende fühlen sich häufig schuldig, und wir können es uns nicht erlauben, eine Soldatin wie sie zu verlieren.&lt;BR&gt;&lt;BR&gt;Ah, anscheinend möchte Euch Tamur erneut sprechen. Lebt wohl.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5005">
+        <Page social="4">Adeldurs Bericht ist so aufbauend wie das Stöhnen eines Zompori. Die Gefahr durch die Argonen wird immer größer, aber wir wissen nicht, was sie erreichen wollen.&lt;BR&gt;&lt;BR&gt;Geht an die {@Rgn:48001$$Khanovarfront}. Wir müssen unsere Truppen dort verstärken.&lt;NEXTPAGEBUTTON&gt;"Verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Benutzt diese Schriftrolle, um Eure Reise zu beschleunigen. Wir treffen uns dort.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2003">
+        <Page social="12">Willkomme in Khanovar! Argonen und Verwundete sind unsere Spezialität!&lt;BR&gt;&lt;BR&gt;Die Waffen schweigen im Moment. Es gibt viele Gerüchte, aber niemand weiß, warum sich die Argonen zurückgezogen haben.&lt;BR&gt;&lt;BR&gt;Ihr solltet mal mit {@Creature:248#2004$$Charti} sprechen. Viel Glück.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="6" villagerId="2004">
+        <Page social="4">Ich habe gestern die Hälfte meiner Truppen verloren, als wir den Ansturm der Argonen aufgehalten haben. Sie kamen aus dem Nichts, schlugen zu und waren wieder verschwunden. Seitdem waren sie nicht mehr zu sehen. Das ist verrückt.&lt;BR&gt;&lt;BR&gt;Begebt Euch zur {@Rgn:48002$$Zitadelle von Khanovar}. Kommandant {@Creature:248#2001$$Tamur} wartet dort auf Euch. Genug geredet.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="2001">
+        <Page social="4">Es sieht nicht gut aus. Ich hoffe, Ihr seid bereit für den Kampf.&lt;BR&gt;&lt;BR&gt;Wir haben am {@Rgn:48008$$Krater von Magthulk} schwere Verluste hinnehmen müssen und viele unserer besten Schmiede verloren.&lt;NEXTPAGEBUTTON&gt;"Wie kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@Creature:248#2009$$Caerok} braucht sofort medizinische Vorräte. Ihr müsst sie überbringen. Und macht Euch nützlich, während Ihr dort seid.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="2009">
+        <Page social="0">Seid gesegnet, &lt;PCCLASS&gt;. Danke für die Vorräte. Damit kann ich weitere Leben retten.&lt;BR&gt;&lt;BR&gt;Die Argonen haben uns schwer getroffen. Jekahb ist auf der Suche nach Überlebenden. Sprecht mit ihm.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="2005">
+        <Page social="4">Ich kümmere mich um unsere Verwundeten. Wir haben die Belagerungswaffen in die {@Rgn:48002$$Zitadelle von Khanovar} geschickt. Diese Argonomorphriesen werden unsere Leute vernichten, wenn wir sie nicht aufhalten!&lt;BR&gt;&lt;BR&gt;Geht zu Karakhir, und lasst diese Waffen sprechen!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="2006">
+        <Page social="4">Ich habe von Euch gehört, &lt;PCNAME&gt;. Mein Vater hatte eine hohe Meinung von Euch.&lt;BR&gt;&lt;BR&gt;Doch wir haben keine Zeit zum Plaudern. Wir haben eine neue Belagerungswaffe entwickelt ... gerade rechtzeitig für den nächsten Angriff der Argonen.&lt;BR&gt;&lt;BR&gt;Bemannt sie und macht ihnen die Hölle heiß!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="48" prevId="11" villagerId="2000">
+        <Page social="0" />
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="2006">
+        <Page social="8">Ha! Das sollte die Kritik meines Vaters zum Schweigen bringen.&lt;BR&gt;&lt;BR&gt;Gut gemacht, &lt;PCNAME&gt;. Ohne diese Argonomorphriesen stehen wir nicht mehr ganz so stark unter Druck.&lt;BR&gt;&lt;BR&gt;Es war schön, mit Euch zu arbeiten. Viel Glück da draußen.</Page>
+    </Text>
+</QuestDialog>

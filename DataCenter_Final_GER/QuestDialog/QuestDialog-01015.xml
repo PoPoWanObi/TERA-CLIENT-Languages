@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Die lichtlosen Söldner haben gestern weitere Vorräte bekommen.&lt;BR&gt;&lt;BR&gt;Wir wissen nicht genau, wer sie damit versorgt, aber wenn sie weiter so leicht und häufig an Vorräte kommen, dann ist das ganz sicher schlecht für uns.&lt;BR&gt;&lt;BR&gt;Seid Ihr bereit für einen Überfall, &lt;PCNAME&gt;? Macht Euch zum Söldnerlager im Tal im Norden auf und stehlt ihre Vorräte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Danke! Damit sollten wir ein Weilchen länger im Vorteil sein.&lt;BR&gt;&lt;BR&gt;Khasib hat nach Euch gefragt, als Ihr weg wart. Ich glaube, so langsam versteht er, was "nicht mein Typ" bedeutet. Wenn Ihr versteht, was ich meine...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Die Vorräte befinden sich in dem Söldnerlager im Tal nördlich von hier. Nun, habt Ihr sie geholt?</Page>
+    </Text>
+</QuestDialog>

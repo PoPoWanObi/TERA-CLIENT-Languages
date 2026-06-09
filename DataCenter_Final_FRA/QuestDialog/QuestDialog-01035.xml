@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Bon sang!&amp;nbsp; Impossible d’arriver en haut de la montagne sans se faire attaquer de toutes parts!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous voulez une autre mission?&amp;nbsp; Eliminez les {@LinkCreature:32#7#faucheurs}, les {@LinkCreature:32#8#destructeurs}, les {@LinkCreature:32#9#tireurs d’élite} de la troupe des rôdeurs et les {@LinkCreature:32#12#templiers sihrans}.&lt;BR&gt;&lt;BR&gt;Allez voir Relinda quand vous en aurez terminé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1001">
+        <Page social="4">Vos exploits vont faire des merveilles sur le moral des troupes, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1001">
+        <Page social="0">Si vous avez des mercenaires morts, j’ai la récompense.</Page>
+    </Text>
+</QuestDialog>

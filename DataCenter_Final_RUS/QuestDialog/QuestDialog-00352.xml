@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0">Уверен, {@LinkCreature:11#5003#Орлесс}, капитан Красных плетей, хранит магический камень где-то у себя под боком.&lt;BR&gt;&lt;BR&gt;И добровольно он его не отдаст. Но у тебя хватит опыта и сил, чтобы победить его, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Спускайся по северной лестнице, пока не наткнешься на хижину, которую Орлесс называет своим домом. Выбей из него все ответы!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Ага, все названия на карте зашифрованы. Математика никогда не была моим любимым предметом в школе.&lt;BR&gt;&lt;BR&gt;Отнеси карты Иларии, на Изрезанный берег. Она всегда дружила с цифрами, но дружба с ней...&lt;BR&gt;&lt;BR&gt;А, неважно. Долгая история.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Тебе нужен {@LinkCreature:11#5003#Орлесс}. Или ответы тебя более не интересуют?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="3" villagerId="1005">
+        <Page social="4">Удача благоволит тебе, &lt;PCNAME&gt;. Какие новости из грота?&lt;BR&gt;&lt;BR&gt;Что? Дементалит? И бомбы? Да хранят нас Титаны!&lt;BR&gt;&lt;BR&gt;Давай я взгляну на твою карту. Это же пираты. Что они вообще понимают в шифрах?&lt;NEXTPAGEBUTTON&gt;"Вот, держи".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Так-так... первый, внутренний, внешний, последний... разобралась!&lt;BR&gt;&lt;BR&gt;Гммм... Но тебе это не понравится, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;На карте указан секретный выход из грота. Пираты утащили дементалит на материк... куда-то на север.&lt;BR&gt;&lt;BR&gt;Еще хуже... Они называют его "камнем безумия".</Page>
+    </Text>
+</QuestDialog>

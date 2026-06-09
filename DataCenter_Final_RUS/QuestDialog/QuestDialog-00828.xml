@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1008">
+        <Page social="5">Недавно мы обнаружили группу каких-то человекоподобных существ. Пока неясно, в чем заключается их роль в сложившейся ситуации, но без сомнений они настроены враждебно.&lt;BR&gt;&lt;BR&gt;Мы должны узнать, какие у них цели, и кто за ними стоит. Уничтожь {@LinkCreature:29#4011#Яростных бойцов Лока}, {@LinkCreature:29#4012#Боевых жрецов Лока}, {@LinkCreature:29#4021#Жнецов смерти Лока} и {@LinkCreature:29#4022#Боевых волшебников Лока}. Принеси мне что-то, что укажет, кому они служат.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1008">
+        <Page social="5">Мне незнакомо это устройство. Возможно, это работа самих Потомков Лока, но это маловероятно. Я отправлю отчет и зарисовки юстициарам и штурмовикам. Быть может, они встречались с чем-то подобным в своих странствиях по миру теней.&lt;BR&gt;&lt;BR&gt;Безупречно сработано, &lt;PCNAME&gt;. Очень хорошо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1008">
+        <Page social="0">Приложи усилия, и ты обязательно найдешь что-то, что указывает на их нанимателей. Потомки Лока работают на любого, кто больше заплатит. А кто-то нанял их, чтобы сражаться с нами. И мы должны узнать, кто.</Page>
+    </Text>
+</QuestDialog>

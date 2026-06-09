@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Als hätten wir nicht schon genug Feinde; jetzt greifen uns auch noch die Mugato an. Zeigt ihnen, dass das eine dumme Idee war.&lt;BR&gt;&lt;BR&gt;Beseitigt genug der {@LinkCreature:34#900#Frostwachenmugato}, {@LinkCreature:34#910#Frostwachenmugatojunge} und {@LinkCreature:34#920#Frostwachenpatriarchen} und macht der Sache ein Ende.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Kahuere.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">Mugato sind lästige Feinde. Gerissen und hart im Nehmen, aber sie lernen langsam.&lt;BR&gt;&lt;BR&gt;Nun denn, Ihr habt ihnen eine Lehre erteilt!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">Wir müssen die Angriffe der Mugato beenden. Geht und zeigt ihnen, welch ein Albtraum es sein kann, gegen die Föderation zu kämpfen!</Page>
+    </Text>
+</QuestDialog>

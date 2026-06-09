@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Der Hohe Suchende Janiam hat den Kontrollanhänger der Erzdevaner als wichtige strategische Information eingestuft und vorgeschlagen, Verikam, den Hohen Ältesten von Höhenwacht, aufzusuchen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1">Trefft den Hohen Suchenden Janiam.&lt;NEXTPAGEBUTTON&gt;"Gewiss."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2013">
+        <Page social="1">Ihr solltet nicht hier sein, Fremdling. Höhenwacht ist abgeriegelt, bis diese Belagerung beendet ist.&lt;NEXTPAGEBUTTON&gt;"Renish hat mich hergeschickt, um mit Euch zu sprechen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Es sieht dem Suchenden Renish nicht ähnlich, mich mit Belanglosigkeiten zu behelligen. Er hat seine Untersuchung im Tal des Frühlings wohl noch nicht abgeschlossen. Ich kann mir daher nicht vorstellen, warum er meint, mich mitten in einer Belagerung darum bitten zu müssen, die Tore von Höhenwacht zu öffnen.&lt;NEXTPAGEBUTTON&gt;"Reicht dieser Anhänger der Erzdevaner als Erklärung aus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">"Erzdevaner?" Bei Oriyn! Das könnte der Schlüssel zur Beendigung der Belagerung sein!&lt;BR&gt;&lt;BR&gt;Dieser Anhänger ist in der Tat eine sehr gute Erklärung, mein Freund! Also gut, Ihr sollt Zugang zu Höhenwacht haben!&lt;BR&gt;&lt;BR&gt;Folgt der nördlichen Straße zum Nebentor der Stadt. Sucht bei Eurer Ankunft nach Verikam. Er ist unser Hoher Ältester.&lt;NEXTPAGEBUTTON&gt;"Das werde ich. Habt Dank."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ihr werdet auf Eurem Weg in die Stadt natürlich anderen Wachen begegnen. Meisterwachposten Madok bewacht das Nebentor. Zeigt ihm diesen Passierschein. Er wird Euch Einlass gewähren.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1201">
+        <Page social="1">Ihr seid im Besitz des Siegels des Hohen Suchenden Janiam? Ihr müsst über wahrhaft wertvolle Informationen verfügen.&lt;BR&gt;&lt;BR&gt;Willkommen in Höhenwacht, der Geburtsstätte des Wissens.&lt;NEXTPAGEBUTTON&gt;"Ich soll den Hohen Ältesten aufsuchen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ihr findet den Hohen Ältesten Verikam im Zentrum von Höhenwacht.&lt;BR&gt;&lt;BR&gt;Da der Weg lang und kompliziert ist, solltet Ihr erst mit Daraon sprechen. Ihr werdet ihn ein Stück den Pfad weiter hinauf antreffen. Er führt ein paar Reparaturen am Tor durch.&lt;NEXTPAGEBUTTON&gt;"Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="3401">
+        <Page social="1">Ihr seid {@g:kein Einheimischer/keine Einheimische}. Wie ist es Euch gelungen, hierher zu kommen?&lt;NEXTPAGEBUTTON&gt;"Der Hohe Suchende Janiam schickt mich."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Verstehe ...&lt;BR&gt;&lt;BR&gt;Ich fürchte, ich muss Euch fragen, warum Euch der Hohe Suchende Janiam mitten in einer Belagerung nach Höhenwacht geschickt hat ...&lt;NEXTPAGEBUTTON&gt;"Ich habe Informationen für den Hohen Ältesten Verikam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Wie sonderbar.&lt;BR&gt;&lt;BR&gt;Na schön. Der Pfad zum Hohen Ältesten ist so kompliziert, dass Ihr an jeder Biegung Führung benötigen werdet.&lt;BR&gt;&lt;BR&gt;Folgt zunächst dieser Straße in die Stadt und sucht dann nach Marmundam, der Meisterwache von Höhenwacht. Er wird Euch das Haus des Hohen Ältesten zeigen.&lt;NEXTPAGEBUTTON&gt;"Verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2024">
+        <Page social="1">Ein Fremder ist heutzutage ein wahrhaft seltener Anblick - geschweige denn ein Fremdling!&lt;BR&gt;&lt;BR&gt;Gestattet mir, Euch in Höhenwacht willkommen zu heißen. Was hat Euch dazu veranlasst, der Belagerung die Stirn zu bieten, um unsere Stadt zu besuchen?&lt;NEXTPAGEBUTTON&gt;"Ich muss mit dem Hohen Ältesten Verikam sprechen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Der Hohe Älteste ist damit beschäftigt, einen Weg zur Beendigung dieser Belagerung zu finden. Ich kann nicht zulassen, dass Ihr ihn dabei stört, wenn es sich nicht um etwas wirklich Wichtiges handelt.&lt;NEXTPAGEBUTTON&gt;"Dieser Anhänger könnte das sein, wonach er sucht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Das ... ich ... Ihr ...&lt;BR&gt;&lt;BR&gt;Ich glaube, Ihr habt Recht, &lt;PCNAME&gt;. Geht bitte weiter und richtet dem Hohen Ältesten von mir aus, dass er umgehend mit Euch sprechen muss.&lt;NEXTPAGEBUTTON&gt;"Das werde ich. Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1007">
+        <Page social="1">Seid gegrüßt, Fremdling. Ich kann nur vermuten, welche Strapazen und welch Mühsal Ihr auf Euch genommen habt, um eine belagerte Stadt zu erreichen, nur um mit mir zu sprechen. Und ich habe viele Fragen zu Eurer Person und Eurer Herkunft.&lt;BR&gt;&lt;BR&gt;Doch die erste Frage lautet: Welches Begehren führt Euch zu mir?&lt;NEXTPAGEBUTTON&gt;"Ich habe vielleicht einen Weg gefunden, wie die Erzdevaner bezwungen werden können."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Das wäre ein äußerst glücklicher Zufall und mehr als Grund genug dafür, dass wir uns umgehend unterhalten sollten.&lt;BR&gt;&lt;BR&gt;Ihr müsst mir unbedingt sagen, was Ihr gefunden habt.&lt;NEXTPAGEBUTTON&gt;"Die Demokronen werden mit diesen Anhängern kontrolliert."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Hmm ... Ich verstehe. Ich stimme Euch anhand meiner ersten Prüfung zu. Natürlich muss ich die Vorrichtung genauer untersuchen, aber wenn sich Eure Erklärung als korrekt erweist, wäre das nicht nur das Ende dieser Belagerung, sondern des gesamten Kriegs.&lt;BR&gt;&lt;BR&gt;Im Namen von ganz Höhenwacht danke ich Euch dafür, dass Ihr mir diese Vorrichtung gebracht habt.&lt;NEXTPAGEBUTTON&gt;"Ich helfe doch gerne."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ihr seid {@g:ein wahrer Freund/eine wahre Freundin} unserer Leute - und kraft der mir verliehenen Macht ernenne ich Euch hiermit {@g:zum Ehrenbürger/zur Ehrenbürgerin} von Höhenwacht.&lt;BR&gt;&lt;BR&gt;Ihr dürft unsere Tore von nun an frei passieren.&lt;BR&gt;&lt;BR&gt;Außerdem erhaltet Ihr dies: eines von Oriyns Relikten. Wie Ihr vermutlich bereits entdeckt habt, wird derjenige, der die Teile wieder zusammensetzt, über große Macht verfügen.&lt;NEXTPAGEBUTTON&gt;"Habt Dank."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

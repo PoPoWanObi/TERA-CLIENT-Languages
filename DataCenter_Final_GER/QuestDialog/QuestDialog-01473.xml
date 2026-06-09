@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">&lt;PCNAME&gt;! Ich brauche erneut Eure Hilfe.&lt;NEXTPAGEBUTTON&gt;"Worum geht es?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Dieser Navashad, der unseren Truppen so schwer zusetzt, ist weder ein fühlendes Wesen noch magisch. Die Argonen benutzen ihre Technologie, um seine Tentakel zu steuern.&lt;BR&gt;&lt;BR&gt;Wenn Ihr die Bediener ausschaltet, wäre die Argonenmaschine nutzlos. Ich habe gesehen, dass Nauti, einer der Zariik, den Navashad benutzt.&lt;NEXTPAGEBUTTON&gt;"Ich werde mich darum kümmern."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Ihr habt es geschafft! Der Navashad wurde gestoppt! Ohne diese riesigen Metallarme, die unsere Truppen zerschmettern, haben wir eine Chance.&lt;NEXTPAGEBUTTON&gt;"Wir müssen ihn endgültig ausschalten."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das ist richtig. Ich weiß nicht, wie der Navashad angetrieben wird, aber ich werde unsere Vorhut auf diese Sache ansetzen.&lt;BR&gt;&lt;BR&gt;Gut gemacht, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0">Alors, cher ami... Cela va vous vous paraître étrange mais l'Union des Éclairés a besoin de bananes.&lt;BR&gt;&lt;BR&gt;Nos recherches sur l'effet du noctenium sur la vie végétale ont soulevé une question&amp;nbsp;: la contamination au noctenium a-t-elle des conséquences sur les animaux qui mangent ces plantes?&amp;nbsp; Comme les bananes constituent l'aliment de base des animaux de la région, nous avons décidé de les utiliser pour tester nos hypothèses.&lt;BR&gt;&lt;BR&gt;Collectez au moins cinq bananes contaminées dans les {@linkcreature:122#503#bananiers}. Vous allez peut-être devoir faire appel à la force.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="4">Cela devrait nous être bien utile, ami &lt;PCNAME&gt;. Merci!&amp;nbsp; Nos chercheurs seront très heureux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">L'Union des Éclairés triomphera!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

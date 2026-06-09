@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Bon, cette fois-ci, la liste est longue comme mon bras. J'annonce?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Très bien... nous devons nous occuper des {@LinkCreature:9#810#gourmands gulas}, des {@LinkCreature:9#910#zélotes caïmans}, des {@LinkCreature:9#440#étripeurs gulas}, des {@LinkCreature:9#450#enragés gulas}, des {@LinkCreature:9#1000#faucheurs sanglants de Lok}, des {@LinkCreature:9#1100#maîtres archers de Lok}, des {@LinkCreature:9#1200#champions de Lok} et des {@LinkCreature:9#1300#enragés du sang de Lok}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, adressez-vous à Noleta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1006">
+        <Page social="4">Continuez comme ça, et nous serons bientôt débarrassés d'eux, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1006">
+        <Page social="0">Le boulot avance?&amp;nbsp; Dans le cas contraire, il va falloir m'expliquer pourquoi.</Page>
+    </Text>
+</QuestDialog>

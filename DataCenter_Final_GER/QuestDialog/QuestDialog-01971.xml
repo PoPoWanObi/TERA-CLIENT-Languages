@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22002">
+        <Page social="1">Wir brauchen Führungstrophäen. Leider müsst Ihr in die weite Welt ausschwärmen, um sie zu finden.&lt;BR&gt;&lt;BR&gt;Probiert es an diesen Orten:&lt;BR&gt;Balders Tempel (normal) - {@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balders Tempel (Einzel) - {@linkcreature:825#6000#Glaciernus des Albtraums}&lt;BR&gt;Argonenkorpus - {@linkcreature:426#20000#Meldita}&lt;BR&gt;Manayas Herz - {@linkcreature:727#2007#Shandra Manaya}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22002">
+        <Page social="4">Oh gut, mit dieser Marke werden wir zur reichsten Macht, die diese Welt jemals gesehen hat!&lt;BR&gt;&lt;BR&gt;Vielen Dank!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="22002">
+        <Page social="0">Für den Profit!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0">Мы обнаружили в этой местности уникальное явление - кристаллический ноктиний. Возможно, это именно то, чего мне не хватает для того, чтобы высвободить силу ноктиния.&lt;BR&gt;&lt;BR&gt;Тебе нужно будет отколоть осколки от {@linkcreature:123#501#Кристального ноктиния} - и под отколоть я имею в виду, что тебе придется приложить все силы, которыми только обладает &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="4">Превосходно. Я надеюсь, задание не оказалось слишком сложным?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Мои исследования жизненно важны для роста процветания Железного Ордена.</Page>
+    </Text>
+</QuestDialog>

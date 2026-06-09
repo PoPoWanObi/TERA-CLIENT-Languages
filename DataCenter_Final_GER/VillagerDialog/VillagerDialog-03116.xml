@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="216" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">Ich habe Euch beobachtet und bin ganz schön beeindruckt. Ihr seid fähig, schlau und seht auch gar nicht übel aus.&lt;BR&gt;&lt;BR&gt;Ihr seid ohne Zweifel {@gender:ein/eine} tadellose{@gender:r/} &lt;PCCLASS&gt;, was verschlägt Euch ausgerechnet hierher?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">Ihr würdet es niemals durch die Vordertür schaffen. So leicht kommt man nicht in das Anwesen der Arglist - im Gegenteil. Andererseits glaube ich, dass man alles schafft, wenn man nur will.&lt;BR&gt;&lt;BR&gt;Wollt Ihr dort hinein?&lt;BR&gt;&lt;BR&gt;(Erfordert eine Gruppe mit mindestens 3 Spielern.)&lt;TEXTBUTTON&gt;Anwesen der Arglist&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Anwesen betreten&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

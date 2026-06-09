@@ -1,0 +1,208 @@
+<InputRestrictionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/InputRestrictionData InputRestrictionData.xsd" xmlns="https://vezel.dev/novadrop/dc/InputRestrictionData">
+    <CharacterSetRestriction>
+        <CharacterSet name="NarrowWord">
+            <Range from="0x0000" to="0x007F" />
+        </CharacterSet>
+        <CharacterSet name="Alphabet">
+            <Range from="0x0041" to="0x005A" />
+            <Range from="0x0061" to="0x007A" />
+        </CharacterSet>
+        <CharacterSet name="Numeric">
+            <Range from="0x0030" to="0x0039" />
+        </CharacterSet>
+        <CharacterSet name="Special">
+            <Range from="0xFF01" to="0xFFE6" />
+            <Range from="0x0021" to="0x002F" />
+            <Range from="0x003A" to="0x0040" />
+            <Range from="0x005B" to="0x0060" />
+            <Range from="0x007B" to="0x0491" />
+            <Range from="0x1113" to="0x1160" />
+            <Range from="0x1176" to="0x11A2" />
+            <Range from="0x11C3" to="0x30F6" />
+            <Range from="0x3164" to="0x33DD" />
+            <Range from="0xFB01" to="0xFB02" />
+        </CharacterSet>
+        <CharacterSet name="Cyrillic">
+            <Range from="0x0410" to="0x042F" />
+            <Range from="0x0430" to="0x044F" />
+            <Range from="0x0401" to="0x0401" />
+            <Range from="0x0451" to="0x0451" />
+        </CharacterSet>
+        <CharacterSet name="Blank">
+            <Range from="0x0020" to="0x0020" />
+            <Range from="0x0009" to="0x0009" />
+            <Range from="0x2000" to="0x200A" />
+            <Range from="0x00A0" to="0x00A0" />
+            <Range from="0x200B" to="0x200B" />
+            <Range from="0x2060" to="0x2060" />
+            <Range from="0x3000" to="0x3000" />
+            <Range from="0xFEFF" to="0xFEFF" />
+        </CharacterSet>
+        <CharacterSet name="LineFeed">
+            <Range from="0x000A" to="0x000A" />
+            <Range from="0x000D" to="0x000D" />
+        </CharacterSet>
+        <CharacterSet name="NhnCharacterName">
+            <Binary from="0xAC00" to="0xD79D">0x3eff0793, 0x1303b011, 0x11102801, 0x05930000, 0xb0111e7b,0x3b019703, 0x00a01112, 0x306b9593, 0x1102b051, 0x11303201,0x011102b0, 0xb879300a, 0x30011306, 0x00800010, 0x100b0113,0x93000011, 0x00102b03, 0x05930000, 0xb051746b, 0x3b011323,0x00001030, 0x70000000, 0x1303b011, 0x11102900, 0x00012180,0xb0153000, 0x3001030e, 0x02000030, 0x10230111, 0x13000000,0x10106b81, 0x01130300, 0x30111013, 0x00000100, 0x22b85530,0x30000000, 0x9702b011, 0x113afb07, 0x011303b0, 0x00000021,0x3b0d1b00, 0x03b01138, 0x11330113, 0x13000001, 0x111c2b05,0x00000100, 0xb0111000, 0x2a011300, 0x02b01930, 0x10100001,0x11000000, 0x10300301, 0x07130230, 0x0011146b, 0x2b051300,0x8fb8f974, 0x103b0113, 0x00000000, 0xd9700000, 0x01134ab0,0x0011103b, 0x00001103, 0x2ab15930, 0x10000111, 0x11010000,0x00100b01, 0x01130000, 0x0000102b, 0x20000101, 0x02a01110,0x30210111, 0x0102b059, 0x19300000, 0x011307b0, 0xb011383b,0x00000003, 0x00000000, 0x383b0d13, 0x0103b011, 0x00001000,0x01130000, 0x00101020, 0x00000100, 0x00000110, 0x30000000,0x00021811, 0x00100000, 0x01110000, 0x00000023, 0x0b019300,0x00301110, 0x302b0111, 0x13c7b011, 0x01303b01, 0x00000280,0xb0113000, 0x2b011383, 0x03b01130, 0x300a0011, 0x1102b011,0x00002000, 0x01110100, 0xa011102b, 0x2b011302, 0x01000010,0x30000001, 0x13029011, 0x11302b01, 0x000066b0, 0xb0113000,0x6b07d302, 0x07b0113a, 0x00200103, 0x13000000, 0x11386b05,0x011303b0, 0x000010b8, 0x2b051b00, 0x03000110, 0x10000000,0x1102a011, 0x79700a01, 0x0111a2b0, 0x0000100a, 0x00011100,0x00901110, 0x00090111, 0x93000000, 0xf9f2bb05, 0x011322b0,0x2001323b, 0x00000000, 0x06b05930, 0x303b0193, 0x1123a011,0x11700000, 0x001102b0, 0x00001010, 0x03011301, 0x00000110,0x162b0793, 0x01010010, 0x11300000, 0x01110200, 0xb0113029,0x00000000, 0x0eb05130, 0x383b0513, 0x0303b011, 0x00000100,0x01930000, 0x00001039, 0x3b000302, 0x00000000, 0x00230113,0x00000000, 0x00100000, 0x00010000, 0x90113020, 0x00000002,0x00000000, 0x10000000, 0x11020000, 0x00000301, 0x01130000,0xb079b02b, 0x3b011323, 0x02b01130, 0xf0210111, 0x1343b0d9,0x11303b01, 0x011103b0, 0xb0517020, 0x20011322, 0x01901110,0x300b0111, 0x9302b011, 0x0016ab01, 0x01130100, 0xb0113021,0x29010302, 0x02b03130, 0x30000000, 0x1b42b819, 0x11383301,0x00000330, 0x00000020, 0x33051300, 0x00001110, 0x00000000,0x93000001, 0x01302305, 0x00010100, 0x30111010, 0x00000100,0x02301130, 0x10100001, 0x11000000, 0x00000000, 0x85130200,0x10111003, 0x2b011300, 0x63b87730, 0x303b0113, 0x11a2b091,0x7b300201, 0x011357f0, 0xf0d1702b, 0x1b0111e3, 0x0ab97130,0x303b0113, 0x13029001, 0x11302b01, 0x071302b0, 0x3011302b,0x23011303, 0x02b01130, 0x30ab0113, 0x11feb411, 0x71300901,0x05d347b8, 0xb011307b, 0x21015303, 0x00001110, 0x306b0513,0x1102b011, 0x00103301, 0x05130000, 0xa01038eb, 0x30000102,0x02b01110, 0x30200013, 0x0102b071, 0x00101000, 0x01130000,0x1011100b, 0x2b011300, 0x00000000, 0x366b0593, 0x1303b095,0x01103b01, 0x00000200, 0xb0113000, 0x20000103, 0x01000010,0x30000000, 0x030ab011, 0x00101001, 0x01110100, 0x00000003,0x23011302, 0x03000010, 0x10000000, 0x01000000, 0x00100000,0x00000290, 0x30113000, 0x7b015386, 0x03b01130, 0x00210151,0x13000000, 0x11303b01, 0x001102b0, 0x00011010, 0x2b011302,0x02001110, 0x10000000, 0x0102b011, 0x11300100, 0x000102b0,0x00011010, 0x2b011100, 0x02101110, 0x002b0113, 0x93000000,0x11302b03, 0x011302b0, 0x0000303b, 0x00000002, 0x03b01930,0x102b0113, 0x0103b011, 0x11300000, 0x011302b0, 0x00001021,0x00010102, 0x00000010, 0x102b0113, 0x01020011, 0x11302000,0x011102b0, 0x30113001, 0x00000002, 0x02b01130, 0x303b0313,0x0103b011, 0x00002000, 0x05130000, 0xb011303b, 0x10001102,0x00000110, 0x142b0113, 0x01000001, 0x01100000, 0x00010280,0xb0113000, 0x10000102, 0x00000010, 0x10230113, 0x93021011,0x11100b05, 0x01130030, 0xb051702b, 0x3b011323, 0x00000030,0x30000000, 0x1303b011, 0x11102b01, 0x01010330, 0xb011300a,0x20000102, 0x00000000, 0x10000011, 0x9300a011, 0x00102b05,0x00000200, 0x90111000, 0x29011100, 0x00b01110, 0x30000000,0x1302b011, 0x11302b21, 0x000103b0, 0x00000020, 0x2b051300,0x02b01130, 0x103b0113, 0x13002011, 0x11322b21, 0x00130280,0xa0113028, 0x0a011102, 0x02921130, 0x30210111, 0x13020011,0x11302b01, 0x03d30290, 0x3011122b, 0x2b011302</Binary>
+            <Range from="0x0030" to="0x0039" />
+            <Range from="0x0041" to="0x005A" />
+            <Range from="0x0061" to="0x007A" />
+        </CharacterSet>
+    </CharacterSetRestriction>
+    <Enabled client="true" />
+    <RegularExpressions />
+    <RestrictionContents>
+        <Content name="None" readableId="RESTRICTION_NONE" />
+        <Content name="@inputrestriction:1" readableId="RESTRICTION_CHARACTER_NAME">
+            <Rule type="MinLength" awareNarrowWord="false" min="3" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="15" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="CharacterSet" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" exact="false" onFail="RE_FORBIDDEN_NAME_RESTRICTION" table="ForbiddenName" />
+            <Rule type="StringMatch" exact="false" onFail="RE_ABUSE_LETTER_RESTRICTION" table="AbuseWord" />
+            <Rule type="StringMatch" exact="false" onFail="RE_CONFIG_LETTER_RESTRICTION" table="ReservedWord" />
+        </Content>
+        <Content name="@inputrestriction:21" readableId="RESTRICTION_GUILD_NAME">
+            <Rule type="MinLength" awareNarrowWord="false" min="3" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="30" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="LengthNarrowWordOnly" max="30" onFail="RE_LENGTHASCIIONLY_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="CharacterSet" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" exact="false" onFail="RE_FORBIDDEN_NAME_RESTRICTION" table="ForbiddenName" />
+            <Rule type="StringMatch" exact="false" onFail="RE_ABUSE_LETTER_RESTRICTION" table="AbuseWord" />
+            <Rule type="StringMatch" exact="false" onFail="RE_CONFIG_LETTER_RESTRICTION" table="ReservedWord" />
+        </Content>
+        <Content name="@inputrestriction:2" readableId="RESTRICTION_CHAT">
+            <Rule type="MaxLength" max="1300" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+        </Content>
+        <Content name="@inputrestriction:3" readableId="RESTRICTION_VENDINGMACHINE_ADVERTISE">
+            <Rule type="MinLength" awareNarrowWord="false" min="1" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="300" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:5" readableId="RESTRICTION_PARCEL_TITLE">
+            <Rule type="MaxLength" max="100" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:6" readableId="RESTRICTION_PARCEL_MESSAGE">
+            <Rule type="MaxLength" max="300" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:8" readableId="RESTRICTION_PARTY_BOARD_DESC">
+            <Rule type="MaxLength" max="30" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:9" readableId="RESTRICTION_ADMINTOOL_BOOKMARK_NAME">
+            <Rule type="MaxLength" max="40" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" exclude="Special" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+        </Content>
+        <Content name="@inputrestriction:10" readableId="RESTRICTION_GREETING_MESSAGE">
+            <Rule type="MaxLength" max="40" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:11" readableId="RESTRICTION_GUILD_NOTICE">
+            <Rule type="MaxLength" max="120" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:12" readableId="RESTRICTION_GUILD_TITLE">
+            <Rule type="MaxLength" max="14" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric|Blank" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_FORBIDDEN_NAME_RESTRICTION" replace="true" table="ForbiddenName" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:13" readableId="RESTRICTION_GUILD_MYPR">
+            <Rule type="MaxLength" max="60" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric|Blank" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:14" readableId="RESTRICTION_GUILD_GUILDPR">
+            <Rule type="MaxLength" max="60" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric|Blank" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:15" readableId="RESTRICTION_GUILD_APPLY">
+            <Rule type="MaxLength" max="60" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric|Blank" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:16" readableId="RESTRICTION_GUILD_GROUP">
+            <Rule type="MaxLength" max="15" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+        </Content>
+        <Content name="@inputrestriction:17" readableId="RESTRICTION_PERSONAL_CHAT_NAME">
+            <Rule type="MinLength" awareNarrowWord="false" min="2" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="8" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+        </Content>
+        <Content name="@inputrestriction:22" readableId="RESTRICTION_PERSONAL_CHAT_PASSWORD">
+            <Rule type="RangedNumericOnly" max="9999" min="1000" onFail="RE_RANGEDNUMERICONLY_RESTRICTION" />
+            <Rule type="MaxLength" max="4" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+        </Content>
+        <Content name="@inputrestriction:19" readableId="RESTRICTION_LORD_GREETINGS">
+            <Rule type="MaxLength" max="200" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:20" readableId="RESTRICTION_LORD_CANDIDATE_PLEDGE">
+            <Rule type="MaxLength" max="300" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:23" readableId="RESTRICTION_GUILD_WAR_DECLARE_MESSAGE">
+            <Rule type="MaxLength" max="40" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:24" readableId="RESTRICTION_GROUPDUEL_PR_MESSAGE">
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:25" readableId="RESTRICTION_SERVANT_NAME">
+            <Rule type="MinLength" awareNarrowWord="false" min="3" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="15" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="LengthNarrowWordOnly" max="15" onFail="RE_LENGTHASCIIONLY_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="CharacterSet" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" exact="false" onFail="RE_FORBIDDEN_NAME_RESTRICTION" table="ForbiddenName" />
+            <Rule type="StringMatch" exact="false" onFail="RE_ABUSE_LETTER_RESTRICTION" table="AbuseWord" />
+            <Rule type="StringMatch" exact="false" onFail="RE_CONFIG_LETTER_RESTRICTION" table="ReservedWord" />
+        </Content>
+        <Content name="@inputrestriction:25" readableId="RESTRICTION_UNION_CONSUL_NOTICE">
+            <Rule type="MaxLength" max="256" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:26" readableId="RESTRICTION_UNION_POLICY">
+            <Rule type="MaxLength" max="256" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="StringMatch" onFail="RE_ABUSE_LETTER_RESTRICTION" replace="true" table="AbuseWord" />
+            <Rule type="ConvertUrlEncodeStr" onFail="RE_UNKNOWN" />
+        </Content>
+        <Content name="@inputrestriction:28" readableId="RESTRICTION_ITEM_MESSAGE">
+            <Rule type="MinLength" awareNarrowWord="false" min="1" onFail="RE_MINLENGTH_RESTRICTION" />
+            <Rule type="MaxLength" max="8" awareNarrowWord="false" onFail="RE_LENGTH_RESTRICTION" />
+            <Rule type="LengthNarrowWordOnly" max="8" onFail="RE_LENGTHASCIIONLY_RESTRICTION" />
+            <Rule type="CharacterSet" include="Cyrillic|Alphabet|Numeric|Blank" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="CharacterSet" onFail="RE_SPECIAL_CHARACTER_RESTRICTION" />
+            <Rule type="StringMatch" exact="false" onFail="RE_FORBIDDEN_NAME_RESTRICTION" table="ForbiddenName" />
+            <Rule type="StringMatch" exact="false" onFail="RE_ABUSE_LETTER_RESTRICTION" table="AbuseWord" />
+            <Rule type="StringMatch" exact="false" onFail="RE_CONFIG_LETTER_RESTRICTION" table="ReservedWord" />
+        </Content>
+    </RestrictionContents>
+    <UrlEncode>
+        <Char from="&lt;" to="&amp;lt;" />
+        <Char from="&gt;" to="&amp;gt;" />
+        <Char from="&quot;" to="&amp;quot;" />
+    </UrlEncode>
+</InputRestrictionData>

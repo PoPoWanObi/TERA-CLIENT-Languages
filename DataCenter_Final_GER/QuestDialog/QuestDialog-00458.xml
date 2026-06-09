@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="0">Ihr gingt nahe der Matharspitze auf Patrouille, erklettertet eine Klippe und sprangt hinunter, um so leicht wie eine Feder zu landen. Als Ihr Euch wieder bei Jorhon meldetet, erklärte er Euch als vollständig ausgebildet und einsatzbereit.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="4">Es ist an der Zeit, Euch zu beweisen, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Gyebrik, Kind von Karas, bewacht den östlichen Zugang zur Turmbasis. Geht zu ihm, während ich Jorhon von Euren Fortschritten berichte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1024">
+        <Page social="4">{@g:Ein neuer Rekrut/Eine neue Rekrutin} nähert sich und eine Aufgabe steht {@g:ihm/ihr} bevor. Dieser Zufall ist ein gutes Zeichen für Eure Zukunft. &lt;BR&gt;&lt;BR&gt;Jeden Tag patrouillieren wir in dem Gebiet um die Matharspitze und sammeln Blumen auf ihrem Gipfel. Sie werden zur Herstellung eines ganz besonderen Tranks benötigt und wir haben einen Obelisken aufgestellt, um das Gebiet zu schützen.&lt;NEXTPAGEBUTTON&gt;"Was genau soll ich tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ist das nicht offensichtlich? {@linkcreature:13#301194#Felsschnäbel} haben den Obelisken beschädigt und Teile davon gefressen. Holt sie zurück, repariert den Obelisken und pflückt die Blume. Wenn Ihr dies tut, wird Gyebrik, Kind von Karas, Eure Aufnahme als volles Mitglied der Garnison befürworten.&lt;BR&gt;&lt;BR&gt;Ihr werdet diesen Federleichten Schwebetrank benötigen. Benutzt ihn erst, wenn der richtige Zeitpunkt gekommen ist.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1053">
+        <Page social="4">(Als Ihr die Splitter wieder einsetzt, beginnt der Obelisk zu leuchten. Es scheint zu funktionieren.)&lt;BR&gt;&lt;BR&gt;(Klettert nun an den Ranken dort vorne hinauf.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1053">
+        <Page social="0">(Ihr benötigt scheinbar noch mehr Splitter.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Als ich Euch zur Ausbildung schickte, hatte ich Euch früher zurück erwartet.&lt;BR&gt;&lt;BR&gt;Nun, was habt Ihr zu Eurer Verteidigung vorzubringen?&lt;NEXTPAGEBUTTON&gt;"Ich habe meine Patrouille beendet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, eine Himmelsblume. Ihr habt die Aufgabe erledigt.&lt;BR&gt;&lt;BR&gt;Nun, &lt;PCNAME&gt;, Ihr habt Eure Ausbildung zu meiner vollsten Zufriedenheit abgeschlossen. Glückwunsch! Ihr seid nun ein vollwertiges Mitglied unserer Garnison. Es ist an der Zeit, dass Ihr auch so ausseht ...</Page>
+    </Text>
+</QuestDialog>

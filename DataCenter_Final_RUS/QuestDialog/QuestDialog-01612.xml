@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="4">Отряды мертвецов Бледнокостов продолжают подходить по дороге с юга. У меня дурное предчувствие, что это... свежая нежить.&lt;BR&gt;&lt;BR&gt;Возьми эти флаконы. В момент упокоения из нежити выходит черная жидкость. Наполни флаконы и верни их мне.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1024">
+        <Page social="4">Полные? Каждый флакон? Потрясающе, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Давай-ка посмотрим... О, кровавая ярость Велики... Я была права. Эти бедолаги были живы меньше дня назад.&lt;BR&gt;&lt;BR&gt;Это похищенные горожане. Они нам их вернули. Монстрами!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1024">
+        <Page social="0">Бледнокосты-всадники, Бледнокосты-рубаки и Бледнокосты-защитники отрезали нас от города. Уничтожь их и помоги понять, откуда они пришли, солдат!</Page>
+    </Text>
+</QuestDialog>

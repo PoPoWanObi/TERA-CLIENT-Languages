@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="5">Vous venez tuer des trucs?&amp;nbsp; Fort bien. Et si... hmm...&lt;BR&gt;&lt;BR&gt;Oh, non, laissez tomber... voyons un peu ce que racontent ces ordres.&lt;BR&gt;&lt;BR&gt;Cette fois, vous allez devoir vous occuper des {@LinkCreature:35#5#écraseurs}, des {@LinkCreature:35#6#mutileurs}, des {@LinkCreature:35#2#tailladeurs}, des {@LinkCreature:35#1#éclaireurs} et des {@LinkCreature:35#4#faucheurs} fléau du désert, ainsi que des {@LinkCreature:35#14#pillards vulcains}.&lt;BR&gt;&lt;BR&gt;Quand vous en aurez fini, adressez-vous à Donabel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1004">
+        <Page social="5">Bon travail.&lt;BR&gt;&lt;BR&gt;Grâce à vous, nous allons peut-être enfin pouvoir reprendre cette mine.&lt;BR&gt;&lt;BR&gt;Veuillez accepter cette récompense.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1004">
+        <Page social="0">Une récompense vous attend une fois que vous aurez accompli la mission.</Page>
+    </Text>
+</QuestDialog>

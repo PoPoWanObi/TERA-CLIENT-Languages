@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="1">Нам нужно проверить твои силы, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;О, я знаю, тебе уже пришлось немало сражаться и ты, наверное, кое-что мнишь о себе, но чтобы стать частью Сообщества Торговцев, нужно быть лучшим воином.&lt;BR&gt;&lt;BR&gt;Тебе нужно убить {@linkcreature:124#102#Циклопа}, {@linkcreature:125#101#Драколота} или {@linkcreature:126#101#Воздающего валкана}. Ты получишь жетон сердца для выполнения этого задания.&lt;BR&gt;&lt;BR&gt;Когда справишься, принеси жетон обратно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22008">
+        <Page social="4">Хорошо. Похоже, ты станешь ценным приобретением для Сообщества.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="22008">
+        <Page social="0">За Сообщество Торговцев!</Page>
+    </Text>
+</QuestDialog>

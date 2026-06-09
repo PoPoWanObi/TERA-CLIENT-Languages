@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="5">На нижних уровнях академии находятся Пагубные лаборатории и Катакомбы королевы ведьм.&lt;BR&gt;&lt;BR&gt;Я обследовала эти места при помощи магии и убедилась, что они просто кишат демонами. Вот здесь нам твоя сила и понадобится.&lt;BR&gt;&lt;BR&gt;Отправляйся на нижние уровни и найди {@LinkCreature:222#1023#Чалин}. Она знает, что делать дальше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">А как проходит битва на верхних уровнях? Надеюсь, что лучше, чем здесь внизу.&lt;BR&gt;&lt;BR&gt;У нас хватает проблем с демонами, &lt;PCNAME&gt;. Наши проблемы на первый взгляд не так уж серьезны, но к услугам демонов часто прибегают те, кто хочет получить силу быстро. Не важно в чем суть, но давай положим этому конец.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="5">Нам нужно помешать исследованиям, которые проводят Потомки Лока, и в то же время самим наверстать упущенное. Они, как и мы, охотятся за огромной силой, сокрытой в этих местах. Если украсть у них инструменты, это сильно затруднит их работу.&lt;BR&gt;&lt;BR&gt;Пробегись по Руинам Кордовека и собери их ящики с инструментами. Орудуя одними когтями, пожалуй, много не сделаешь!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1010">
+        <Page social="5">Ха! Маленькая победоносная партизанская война - наш выбор.&lt;BR&gt;&lt;BR&gt;А теперь самое время приступить к работе. Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1010">
+        <Page social="0">Что ты стоишь и смотришь?! Укради ящики с инструментами, до того как Потомки окончательно обойдут нас в исследованиях!</Page>
+    </Text>
+</QuestDialog>

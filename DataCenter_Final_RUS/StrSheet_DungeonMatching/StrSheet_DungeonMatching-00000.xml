@@ -1,0 +1,74 @@
+<StrSheet_DungeonMatching xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DungeonMatching StrSheet_DungeonMatching.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_DungeonMatching">
+    <String string="Выполняйте приказы Валькиона" readableId="SMT_DUNGEONMATCHING_POSITION_CALL_TITLE" />
+    <String string="Путь к спасению:" readableId="SMT_DUNGEONMATCHING_ADD_ENTRY_TITLE" />
+    <String string="Выполняйте задания подземелья:" readableId="SMT_DUNGEONMATCHING_DUNGEON_CLEAR_TITLE" />
+    <String string="Уничтожьте {NpcName} ({Amount})" readableId="SMT_DUNGEONMATCHING_CLEAR_CONDITION" />
+    <String string="Отмена подбора для подземелий" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_TITLE" />
+    <String string="Вы хотите отменить подбор подземелий?" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_MESSAGE" />
+    <String string="Отменить подбор" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_YES" />
+    <String string="Продолжить подбор" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_NO" />
+    <String string="Войти в подземелье" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_TITLE" />
+    <String string="Подбор группы завершен. Вы хотите войти в подземелье: {DungeonName}?" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_MESSAGE" />
+    <String string="Войти сейчас" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_YES" />
+    <String string="Войти позже" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_NO" />
+    <String string="Дополнительный набор" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_TITLE" />
+    <String string="Вы хотите набрать дополнительных членов группы?" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_MESSAGE" />
+    <String string="Набрать" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_YES" />
+    <String string="Продолжить так" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_NO" />
+    <String string="Набрать больше" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_TITLE" />
+    <String string="Вы набираете дополнительных членов группы. Вы хотите отменить набор?" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_MESSAGE" />
+    <String string="Да" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_YES" />
+    <String string="Нет" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_NO" />
+    <String string="Разрешить дополнительный набор" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_TITLE" />
+    <String string="Вы получили приглашение в подземелье &quot;{DungeonName}&quot;. Присоединиться к группе?" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_MESSAGE" />
+    <String string="Да" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_YES" />
+    <String string="Нет" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_NO" />
+    <String string="Подбор подземелий недоступен" readableId="SMT_DUNGEONMATCHING_CANNOT_APPLY" />
+    <String string="Подбор подземелий доступен" readableId="SMT_DUNGEONMATCHING_CAN_APPLY" />
+    <String string="Подбор в подземелья: {Num}." readableId="SMT_DUNGEONMATCHING_MATCHING_IN_PROGRESS" />
+    <String string="Подбор подземелий завершен" readableId="SMT_DUNGEONMATCHING_MATCHED" />
+    <String string="Дополнительный набор доступен" readableId="SMT_DUNGEONMATCHING_CAN_RECRUIT" />
+    <String string="Набор дополнительных участников в подземелье: {DungeonName}" readableId="SMT_DUNGEONMATCHING_RECRUITING_IN_PROGRESS" />
+    <String string="Подтверждение подбора подземелий" readableId="SMT_DUNGEONMATCHING_CONFIRM_APPLICATION" />
+    <String string="Информация о подборе подземелий" readableId="SMT_DUNGEONMATCHING_SHARE_APPLICATION" />
+    <String string="Информация о подборе подземелий" readableId="SMT_DUNGEONMATCHING_VIEW_PROGRESS" />
+    <String string="ОК" readableId="SMT_DUNGEONMATCHING_OK" />
+    <String string="Запросить" readableId="SMT_DUNGEONMATCHING_APPLY" />
+    <String string="Отмена" readableId="SMT_DUNGEONMATCHING_CANCEL_BTN" />
+    <String string="Отменить запрос" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION" />
+    <String string="Изменить" readableId="SMT_DUNGEONMATCHING_MODIFY_APPLICATION" />
+    <String string="Перезарядка" readableId="SMT_DUNGEONMATCHING_COOLTIME_REJECT_MSG" />
+    <String string="Слишком низкий уровень предмета" readableId="SMT_DUNGEONMATCHING_ITEM_LEVEL_REJECT_MSG" />
+    <String string="Победа" readableId="SMT_BFMATCHING_BF_WIN_TITLE" />
+    <String string="Поражение" readableId="SMT_BFMATCHING_BF_LOSE_TITLE" />
+    <String string="Отмена подбора подземелий" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_TITLE" />
+    <String string="Вы хотите отменить подбор подземелий?" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_MESSAGE" />
+    <String string="Отменить подбор" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_YES" />
+    <String string="Продолжить подбор" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_NO" />
+    <String string="Войти на арену" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_TITLE" />
+    <String string="Подбор арены завершен. Вы хотите войти на арену: {BFName}?" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_MESSAGE" />
+    <String string="Войти сейчас" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_YES" />
+    <String string="Войти позже" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_NO" />
+    <String string="Дополнительный набор" readableId="SMT_BFMATCHING_SUGGEST_POPUP_TITLE" />
+    <String string="Вы получили приглашение в подземелье &quot;{BFName}&quot;. Присоединиться к группе?" readableId="SMT_BFMATCHING_SUGGEST_POPUP_MESSAGE" />
+    <String string="Принять" readableId="SMT_BFMATCHING_SUGGEST_POPUP_YES" />
+    <String string="Отклонить" readableId="SMT_BFMATCHING_SUGGEST_POPUP_NO" />
+    <String string="Подбор подземелий недоступен" readableId="SMT_BFMATCHING_CANNOT_APPLY" />
+    <String string="Подбор подземелий доступен" readableId="SMT_BFMATCHING_CAN_APPLY" />
+    <String string="Подборе подземелий: {Num}." readableId="SMT_BFMATCHING_MATCHING_IN_PROGRESS" />
+    <String string="Подбор подземелий завершен" readableId="SMT_BFMATCHING_MATCHED" />
+    <String string="Дополнительный набор доступен" readableId="SMT_BFMATCHING_CAN_RECRUIT" />
+    <String string="Набор дополнительных участников в подземелье: {BFName}" readableId="SMT_BFMATCHING_RECRUITING_IN_PROGRESS" />
+    <String string="Подтверждение подбора подземелий" readableId="SMT_BFMATCHING_CONFIRM_APPLICATION" />
+    <String string="Информация о подборе подземелий" readableId="SMT_BFMATCHING_SHARE_APPLICATION" />
+    <String string="Информация о подборе подземелий" readableId="SMT_BFMATCHING_VIEW_PROGRESS" />
+    <String string="ОК" readableId="SMT_BFMATCHING_OK" />
+    <String string="Запросить" readableId="SMT_BFMATCHING_APPLY" />
+    <String string="Отмена" readableId="SMT_BFMATCHING_CANCEL_BTN" />
+    <String string="Отменить запрос" readableId="SMT_BFMATCHING_CANCEL_APPLICATION" />
+    <String string="Изменить" readableId="SMT_BFMATCHING_MODIFY_APPLICATION" />
+    <String string="Перезарядка" readableId="SMT_BFMATCHING_COOLTIME_REJECT_MSG" />
+    <String string="Слишком низкий уровень предмета" readableId="SMT_BFMATCHING_ITEM_LEVEL_REJECT_MSG" />
+    <String string="(Для одного)" readableId="SMT_BFMATCHING_SOLO_POSTFIX" />
+    <String string="(Без ограничений)" readableId="SMT_BFMATCHING_FREE_POSTFIX" />
+</StrSheet_DungeonMatching>

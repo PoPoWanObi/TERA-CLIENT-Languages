@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt; a informé le Sagegarde Braga que Verikam a été enlevé et que l'arcane d'Oriyin est désormais entre les mains de Dkurion.&lt;BR&gt;Sur demande de Braga, Skald Omero chante un poème afin de diffuser la nouvelle. Tous les barakas de Hautegarde sont sous le choc.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="4">Voici ce qu'il faut que vous fassiez, &lt;PCNAME&gt;&amp;nbsp;: allez parler à Braga, le sagegarde de la ville et annoncez-lui l'enlèvement de Verikam et le vol de l'arcane d'Oriyn.&lt;BR&gt;&lt;BR&gt;Je vais contacter le commandant Seir et lui demander des renforts.&lt;NEXTPAGEBUTTON&gt;"Tout de suite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4">Ah, quelle triste journée que celle où j'apprends que Verikam a été enlevé.&lt;BR&gt;&lt;BR&gt;J'ai été bien sot de ne pas rester aux côtés du Vénérable!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Si seulement j'avais été avec lui...&lt;NEXTPAGEBUTTON&gt;"J'étais là&amp;nbsp;: vous n'auriez rien pu faire pour le sauver."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'ai... j'aurais tendance à vous croire, étrang{@gender:er/ère}. Vous semblez plutôt compétent{@g:/e}.&lt;BR&gt;&lt;BR&gt;Et avec l'arcane d'Oriyn également disparue, nous allons avoir besoin de la sagesse collective de tous les barakas pour décider de comment procéder. Il faut que je m'assure que les défenses de la ville sont bien en place.&lt;BR&gt;&lt;BR&gt;Pendant ce temps, voulez-vous bien vous rendre à l'Agora et y chercher Skald Omeros. Dites-lui ce qui est arrivé et demandez-lui de répandre la nouvelle dans toute l'Agora et la cité alentour. Tout le monde sera bientôt au courant.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4">Je... vois. C'est une journée tragique pour tout Hautegarde et nous devons tout mettre en œuvre pour retrouver le Vénérable sain et sauf.&lt;BR&gt;&lt;BR&gt;Je vais m'adresser aux miens et leur demander de répandre la nouvelle.&lt;BR&gt;&lt;BR&gt;Veuillez informer le Sagegarde Braga que je lui enverrai toutes les personnes qui se manifesteront.&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="4">Merci, &lt;PCNAME&gt;. J'ai fait quelques arrangements pour réunir un bilan des forces en présence ici.&lt;BR&gt;&lt;BR&gt;Avec la disparition de deux de nos entités culturelles parmi les plus importantes, j'ai bien peur que Hautegarde ne soit fort vulnérable.&lt;BR&gt;&lt;BR&gt;Vous devriez vous préparer également.&lt;NEXTPAGEBUTTON&gt;"Je vais me préparer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="5">Ну почему нам никак не удается установить порядок в этом районе?! Не одно случится, так другое!&lt;BR&gt;&lt;BR&gt;Теперь вот наши припасы не доходят до заставы. Их пожирают проклятые клыкари. Поручаю тебе расчистить путь на восток, уничтожить {@LinkCreature:29#1051#Адских клыкарей} и примкнуть к основным силам. А по дороге узнай, как дела у моего разведчика.&lt;BR&gt;&lt;BR&gt;Действуй без промедления и постарайся помочь Лешалу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1028">
+        <Page social="5">Рад встрече! Я следил за дорогой, надеялся, что Исобель сможет выслать нам подмогу. И если уж мы об этом заговорили, то где наши припасы?&lt;BR&gt;&lt;BR&gt;Все сожрали клыкари? Обычное дело.&lt;BR&gt;&lt;BR&gt;Здесь постоянно творится полная неразбериха. Что ж, центуриону Лешалу должно быть не терпится поговорить с тобой.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="3" villagerId="1008">
+        <Page social="5">Намерения у Исобель самые благие, но ее неопытность становится для нее непреодолимым препятствием. Она хороший солдат, но ее призвание - следовать, а не вести за собой.&lt;BR&gt;&lt;BR&gt;Победа над клыкарями станет для нас большим подспорьем. Звери в этом регионе особенно агрессивны, но никто не знает, почему. Возможно, ты сможешь помочь нам раскрыть эту тайну.</Page>
+    </Text>
+</QuestDialog>

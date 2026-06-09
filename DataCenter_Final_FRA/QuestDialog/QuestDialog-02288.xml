@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous voulez faire un peu de confection, aujourd'hui?&amp;nbsp; Je vous en prie, dites "oui"!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Merveilleux!&amp;nbsp; C'est mon jour de repos. Mais personne ne le sait. Enfin... j'en avais parlé à {@LinkCreature:63#3003#Elthienne}. Je suis malade, alors elle aura sans doute besoin de votre aide, vu la qualité de ce que vous produisez.&lt;BR&gt;&lt;BR&gt;Vous voyez?&amp;nbsp; On y gagne tous les deux!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Quel plaisir de vous voir!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Taratia est malade, et Barian a besoin d'un artisan de qualité, aujourd'hui. En fait, il sera probablement plus heureux de travailler avec vous. Et une journée sans avoir Taratia sur le dos, ça me fera des vacances. Remettez votre travail à {@LinkCreature:63#3001#Barian} quand vous aurez fini.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Excellent travail, comme toujours.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} vous dédommagera. Il paraît qu'elle se sent assez bien pour gérer les paiements.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez des lingots de linacier et apportez-les-moi.&lt;BR&gt;&lt;BR&gt;Hé, au fait, ça vous dirait d'entrer chez les Mains de Velika?&amp;nbsp; Je vous ai déjà posé la question?&amp;nbsp; Et ça ne vous intéresse pas?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je comprends, vous avez beaucoup de choses à faire.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia} pour vous faire payer. Il paraît qu'elle se sent assez en forme pour régler les factures.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez quelques aérosilex et rapportez-les-moi. Si vous vous y connaissez, ça ne devrait poser aucun problème... et je sais que vous vous y connaissez.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">&lt;PCNAME&gt;, c'était du rapide!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Dites à {@LinkCreature:63#3002#Taratia} que vous devriez avoir une prime, surtout quand on sait qu'elle tire au flanc aujourd'hui.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Préparez du cuir de bosc et apportez-le-moi dès que vous aurez fini. J'en ai besoin pour une armure que je prépare.&lt;BR&gt;&lt;BR&gt; Elthienne compte envoyer un membre des Mains en mission dangereuse. Et les Mains font toujours en sorte que leurs membres soient bien protégés sur le terrain.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">J'espère que vous reviendrez vite, &lt;PCNAME&gt;. Votre travail est d'excellente qualité.&lt;BR&gt;&lt;BR&gt;Oh, vous pourriez dire à {@LinkCreature:63#3002#Taratia} que je l'ai appelée "sac de crottes de hyène"?&amp;nbsp; Elle est malade?&amp;nbsp; Ben voyons... Tout le monde n'a pas le luxe de pouvoir prendre une journée de repos, vous savez.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un peu de tissu de sylva et rapportez-le-moi.&lt;BR&gt;&lt;BR&gt;Merci pour tout votre travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Beau travail. Pas de doute, vous m'obligez à travailler dur pour rester à la hauteur.&lt;BR&gt;&lt;BR&gt;Il vaudrait mieux que j'arrête de jouer le malade imaginaire, ou plus personne ne me passera de commandes!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

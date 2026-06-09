@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0">Племя живодеров сеет хаос и разрушение на руинах Колчестера. Пора положить этому конец.&lt;BR&gt;&lt;BR&gt;Цель - {@LinkCreature:6#1062#Расхитители-живодеры} и {@LinkCreature:6#1061#Разбойники-живодеры}.&lt;BR&gt;&lt;BR&gt;Затем следует доложить Даконе к северу от Ранчо "Эхо", что задание выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="5">Отличная работа. Благодарю тебя от имени Федерации!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1020">
+        <Page social="0">О, я с удовольствием наградила бы тебя. Вот только вначале тебе придется выполнить задание.&lt;BR&gt;&lt;BR&gt;Приходи, когда закончишь.</Page>
+    </Text>
+</QuestDialog>

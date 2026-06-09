@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="1">Wir müssen Euch noch besser ausbilden, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ach, ich weiß, Ihr habt jetzt schon eine ganze Weile lang trainiert, doch wie gut Ihr auch denkt, dass Ihr seid, Ihr müsst noch besser werden, um zum Freihandelskollektiv zu gehören.&lt;BR&gt;&lt;BR&gt;Tötet eine dieser Kreaturen: {@linkcreature:124#102#Zyklop}, {@linkcreature:125#103#Dracoloth} oder {@linkcreature:126#104#Vulcanusschlitzer}. Bringt mir das Herz des Biestes, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22008">
+        <Page social="4">Gut gemacht. Ich weiß jetzt schon, dass Ihr eine Bereicherung für das Kollektiv sein werdet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="22008">
+        <Page social="0">Für das Freihandelskollektiv!</Page>
+    </Text>
+</QuestDialog>

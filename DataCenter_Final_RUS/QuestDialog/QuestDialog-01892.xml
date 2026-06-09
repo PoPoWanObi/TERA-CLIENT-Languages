@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4">Знаешь, кто меня больше всего злит? Люди, ссылающиеся на "искусство алхимии".&lt;BR&gt;&lt;BR&gt;Это же наука!&lt;BR&gt;&lt;BR&gt;Например, академические аналитические исследования дали мне понять, что внутри Золотого Лабиринта можно найти кровавые кристаллы - застывшие муки жертв лабиринта.&lt;NEXTPAGEBUTTON&gt;"Это ученые говорят такое?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Да! Существует целый метод и тому подобное!&lt;BR&gt;&lt;BR&gt;Наука тоже требует жертв. Например, тех людей, которые погибли в Золотом Лабиринте и создали кровавые кристаллы, которые ты сейчас пойдешь собирать.&lt;BR&gt;&lt;BR&gt;Все это весьма научно.&lt;NEXTPAGEBUTTON&gt;"Зачем нужны эти кристаллы?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Мы не знаем... пока что! Нам нужно провести больше исследований!&lt;BR&gt;&lt;BR&gt;Но дистиллированная эссенция предсмертной боли... Разве это не прекрасно?&lt;BR&gt;&lt;BR&gt;А сейчас отправляйся на поиски кровавых кристаллов. Наука ждет тебя!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4">Кровавые кристаллы... Превосходно. Я даже отсюда чувствую заключенную в них боль.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Ты же не боишься небольшой боли?</Page>
+    </Text>
+</QuestDialog>

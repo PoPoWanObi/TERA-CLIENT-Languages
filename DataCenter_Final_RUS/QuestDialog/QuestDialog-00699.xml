@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="5">Так, не напрягай голову, она тут вряд ли понадобится. В Деревне песчаных бурь есть арена, на которой кулкари заставляют пленников, рабов и даже других кулкари сражаться с монстрами.&lt;BR&gt;&lt;BR&gt;Самого страшного противника зовут {@LinkCreature:24#5001#Меркаратос}. Мы должны убить его и лишить мерзавцев кровавого развлечения. И под нами я подразумеваю тебя и всех, кого ты позовешь с собой. Мне, конечно, хотелось бы повеселиться вместе с вами, но разведка важнее.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="5">Хочешь, чтобы твоих друзей-солдатов схватили и заставили драться насмерть? Убей Меркаратоса.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">Не знаю, как они его поймали, но пока у {@LinkCreature:24#5001#Меркаратоса} есть, на кого охотиться, он не сбежит.</Page>
+    </Text>
+</QuestDialog>

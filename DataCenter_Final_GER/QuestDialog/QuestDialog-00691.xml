@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="5">{@LinkCreature:223#1054$$Dullulu} hat die Lage in der Eldritchakademie erkundet. Offensichtlich wimmelt es dort nur so von gefährlichen Bestien. Solltet Ihr vorhaben, dort hinzugehen, erkundigt Euch bei ihm, auf was Ihr achten müsst.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1054">
+        <Page social="5">Ich werde Euch sagen, worauf Ihr achten müsst: Wenn ich Euch nicht davon überzeugen kann, diesem gottverlassenen Ort fernzubleiben, müsst Ihr auf Euren Verstand achten.&lt;BR&gt;&lt;BR&gt;Wenn Ihr aber tatsächlich gehen wollt, erledigt möglichst viele {@LinkCreature:22#4#Vadomazentauren}, {@LinkCreature:22#5#Kunsthandwerker der Powrie} und {@LinkCreature:22#3#Zauberstabmacher der Powrie}.&lt;BR&gt;&lt;BR&gt;Wenn wir irgendetwas ausrichten wollen, müssen wir zuerst freien Zugang zur Akademie haben.&lt;NEXTPAGEBUTTON&gt;"Ich werde Euch nicht enttäuschen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Danke, &lt;PCNAME&gt;. Ihr seid wirklich in Ordnung, wisst Ihr das?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" prevId="3" villagerId="1005">
+        <Page social="5">Oh, den Göttern sei Dank, dass Ihr ein paar dieser Zentauren und Powrie erledigt habt. Momentan ist die Anzahl der Gefahren hier gar nicht abzuschätzen. Vielleicht ist jetzt der Weg so frei, dass auch andere uns zu Hilfe kommen können.&lt;BR&gt;&lt;BR&gt;Mit tapferen Soldaten wie Euch haben wir vielleicht sogar eine Chance.</Page>
+    </Text>
+</QuestDialog>

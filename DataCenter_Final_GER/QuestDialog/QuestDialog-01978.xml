@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0">Also ... das mag vielleicht etwas merkwürdig klingen, aber die Union der Erleuchtung braucht Bananen.&lt;BR&gt;&lt;BR&gt;Unsere Forschungen bezüglich des Effekts von Noktenium auf die Pflanzenwelt haben die Frage aufgeworfen, ob die Nokteniumkontamination Auswirkungen auf die Tiere hat, die diese Pflanzen fressen. Da Bananen ein Grundnahrungsmittel vieler Tiere in dieser Gegend sind, haben wir diese zur Überprüfung unserer Hypothesen gewählt.&lt;BR&gt;&lt;BR&gt;Sammelt mindestens fünf verseuchte Bananen von {@linkcreature:122#503#Bananenbäumen}. Es kann sein, dass Ihr ein gewisses Maß an Kraft aufwenden müsst.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="4">Das sollte hilfreich sein, &lt;PCNAME&gt;. Vielen Dank! Unsere Forscher werden sehr zufrieden sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">Die Union der Erleuchtung wird obsiegen!</Page>
+    </Text>
+</QuestDialog>

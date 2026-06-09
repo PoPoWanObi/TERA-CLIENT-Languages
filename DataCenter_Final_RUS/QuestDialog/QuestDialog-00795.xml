@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1009">
+        <Page social="9">Полагаю, тебе уже доводилось слышать о чудесной силе гривы единорога? Я уверен, что все это - сказки попори, но других мне убедить не удается.&lt;BR&gt;&lt;BR&gt;Принеси несколько грив {@LinkCreature:28#1011#Единорогов с черными копытами}, чтобы я мог раз и навсегда доказать, что это лишь пустые россказни. Единорогов можно найти по пути на юг. Ты их сразу узнаешь, как увидишь. Они, знаешь ли, с рогами.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1009">
+        <Page social="5">Быстро ты! Уверен, этого мне хватит, чтобы доказать, что все эти истории - несусветная чушь.&lt;BR&gt;&lt;BR&gt;А заодно и неплохо заработать!&lt;BR&gt;&lt;BR&gt;Спасибо за помощь, &lt;PCNAME&gt;. Меня бы эти единороги уже продырявили.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1009">
+        <Page social="0">Клянусь головой матери отца дяди племянника моего друга, что действую исключительно в интересах общества.&lt;BR&gt;&lt;BR&gt;Честно.</Page>
+    </Text>
+</QuestDialog>

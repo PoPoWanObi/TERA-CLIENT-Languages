@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Die Balthasäulen zeichnen das Vergangene auf. Ich vermute, dass {@LinkCreature:71#1101$$Alais}, Eure Freundin in der Bastion, gerne wissen möchte, was die Zukunft bringt.&lt;BR&gt;&lt;BR&gt;Als eine Art Dankeschön dafür, dass er Euch zu mir sandte, werde ich Euch erzählen, wo mein Stamm die {@LinkCreature:230#1095$$Balthasäule}n in Balders Zuflucht aufgestellt hat.&lt;BR&gt;&lt;BR&gt;Hört Euch die prophetischen Weisungen der Scherben an und berichtet dann Alais, was Ihr erfahren habt.&lt;BR&gt;&lt;BR&gt;Ich muss kein Prophet sein, um zu wissen, dass er vor Freude fast in Ohnmacht fallen wird.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1095">
+        <Page social="1">(Auf dieser Scherbe steht geschrieben: Mystel, Göttin des Schicksals, warnte den Gott Balder, dass schon bald mächtige Kräfte das himmlische Reich zerstören und viele der überlebenden Götter vernichten würden. Balder fürchtete, dass die Sonne selbst die kommende Zerstörung nicht überleben würde, und so rief er weise Baraka herbei, angeführt vom Hohen Ältesten Vernicus und seinem Kind, Nandu.)&lt;BR&gt;&lt;BR&gt;(Der Rest ist in einer Sprache geschrieben, die Ihr nicht versteht.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1096">
+        <Page social="1">(Auf dieser Scherbe steht geschrieben: Die weisen Baraka errichteten einen Tempel, um das Geschenk von Balder darin aufzubewahren: den Spiegel der Sonne.&lt;BR&gt;&lt;BR&gt;Sollte sich die Welt verfinstern oder von Feinden bedroht werden, dann wird ein wahrer Held den Tempel betreten und den Spiegel rechtmäßig an sich nehmen.)&lt;BR&gt;&lt;BR&gt;(Der Rest ist in einer Sprache geschrieben, die Ihr nicht versteht.)&lt;BR&gt;&lt;BR&gt;(Der Rest ist in einer Sprache geschrieben, die Ihr nicht versteht.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1097">
+        <Page social="1">(Auf dieser Scherbe steht geschrieben: Trotz ihrer Weisheit sorgten sich die Baraka. Woran sollten sie einen wahren Helden erkennen? Doch Mystel, die Göttin des Schicksals, vertrieb ihre Sorgen und sagte, dass der Name des wahren Helden auf dem {@LinkCreature:226#1102$$Ehrengrabmal} geschrieben stehen und er einen Schlüssel bei sich tragen werde.)&lt;BR&gt;&lt;BR&gt;(Der Rest ist in einer Sprache geschrieben, die Ihr nicht versteht.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1098">
+        <Page social="1">(Auf dieser Scherbe steht geschrieben: Die Göttin Mystel fuhr fort: Ich gewähre Eurem Stamm ein langes Leben, sodass Ihr diesen Tag noch selbst erleben werdet. Solange Ihr Balders Muster am Himmel seht und der Leuchtturm der Sonne erstrahlt, soll Euch nichts geschehen. Ab dem Zeitpunkt, an dem sich der Tempel öffnet, werdet Ihr wieder normal altern.)&lt;BR&gt;&lt;BR&gt;(Der Rest ist in einer Sprache geschrieben, die Ihr nicht versteht.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="3" villagerId="1101">
+        <Page social="1">Was hat Euch {@LinkCreature:230#1047$$Nandu} gezeigt?&lt;BR&gt;&lt;BR&gt;Also befahl Balder den Baraka einen Tempel zu errichten ... Ähnliche Prophezeiungen hörten wir schon zuvor.&lt;BR&gt;&lt;BR&gt;Aber der Teil mit Balders Muster - diesen Glyphen und Linien am Himmel - und dem Leuchtturm der Sonne, ist neu. Welche Macht ... so urzeitlich, so gewaltig. Die anderen vom Mysterium sollten so schnell wie möglich davon erfahren.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" villagerId="1101">
+        <Page social="0">Ihr sucht nach etwas. Ich weiß es.</Page>
+    </Text>
+</QuestDialog>

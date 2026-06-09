@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">Diese verdammten Argonen! Es sind einfach zu viele. Ich kann mich alleine nicht durchkämpfen.&lt;NEXTPAGEBUTTON&gt;"Was habt Ihr vor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Gestern sind drei Soldaten gefallen. Ich will ihre Erkennungsmarken für ihre Familien bergen.&lt;BR&gt;&lt;BR&gt;Jared, Genevieve und Misha haben etwas Besseres verdient, aber ich lasse nicht zu, dass ihr Andenken verlorengeht.&lt;BR&gt;&lt;BR&gt;Alles, was ich tun kann, ist diese Stellung halten. Ich kann mich nicht zu ihren Leichen durchkämpfen. Könnt Ihr die Marken für mich bergen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1018">
+        <Page social="6">(Ihr habt die Erkennungsmarke von Genevieve gefunden.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1020">
+        <Page social="6">(Die Marke von Misha ist zerbrochen, aber noch lesbar.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1019">
+        <Page social="6">(Ihr habt Jareds Erkennungsmarke gefunden, aber Euch sticht noch etwas anderes ins Auge.)&lt;NEXTPAGEBUTTON&gt;"Was ist das?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Das ist eins von Dalmuris verschwundenen Kapiteln.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="48" prevId="3" villagerId="1012">
+        <Page social="4">Ich habe versucht, die Argonen zu beschäftigen. Hoffentlich habt Ihr nicht zu viel abbekommen.&lt;BR&gt;&lt;BR&gt;Danke für Eure Hilfe. Das bedeutet mir sehr viel.</Page>
+    </Text>
+</QuestDialog>

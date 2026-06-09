@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Деванцы, которых я здесь видел, носят с собой какое-то новое оружие - больше мы такого нигде не встречали. Я считаю, что если оно хорошо для них, то для нас окажется еще лучше.&lt;BR&gt;&lt;BR&gt;Устрани {@LinkCreature:3#300141#Деванских мастеров клинка}, {@LinkCreature:3#19#Деванских разбойников} или, если попадутся, {@LinkCreature:3#18#Деванских задир}, и забери их оружие. Если на нем есть какие-то чары, лучше и нам обладать таким оружием. Постарайся не провалить это задание. Те, кто остался на родине, очень рассчитывают на нас.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Отлично сработано! Это ослабит деванцев и усилит нас. Я пока подумаю над тем, как переправить оружие в Кресцентию или на Заставу авангарда.&lt;BR&gt;&lt;BR&gt;Спасибо тебе за помощь, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">О, ты легко найдешь их. Дэва-Сильва буквально кишит ими. Новое оружие я видел у их женщин и Деванских разбойников. Начни с них.</Page>
+    </Text>
+</QuestDialog>

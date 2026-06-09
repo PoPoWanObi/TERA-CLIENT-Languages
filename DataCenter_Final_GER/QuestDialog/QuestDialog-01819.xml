@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1448">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1448">
+        <Page social="4">Hmm... Ihr braucht jemanden mit einem akademischen Hintergrund, damit Ihr wisst, wonach Ihr auf den Terrassen von Sirjuka sucht. Das heißt wohl, dass ich mit Euch gehen sollte.&lt;BR&gt;&lt;BR&gt;Falls Thulsa Fallen aufgestellt hat, finde ich sie vielleicht. Wie gesagt, Dinge zu verstecken war nicht gerade Thulsas Stärke.&lt;BR&gt;&lt;BR&gt;Versammelt Eure Freunde und trefft mich auf den Terrassen von Sirjuka.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="496" prevId="2" villagerId="1001">
+        <Page social="4">Thulsa hat möglicherweise insgeheim dem Kern Macht entzogen und in diesem Kristall aufbewahrt.&lt;BR&gt;&lt;BR&gt;Mit Sicherheit lässt sich das aber nur durch genauere Untersuchung des Kristalls feststellen ...&lt;NEXTPAGEBUTTON&gt;"Ist das mein Stichwort?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ja. Ihn zu besorgen wird aber nicht einfach sein. Hier herrscht eine unheilvolle Energie, die sich ähnlich anfühlt wie die im Labor.&lt;BR&gt;&lt;BR&gt;Die Wahrscheinlichkeit, dass Thulsa den Kristall nicht von seiner dunklen Magie bewachen lässt? Verschwindend gering.&lt;NEXTPAGEBUTTON&gt;"Was machen wir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Gehen wir davon aus, dass der Kristall festsitzt. Thulsa dachte sich vermutlich, wenn er ihn nicht haben kann, soll ihn auch sonst keiner bekommen. Den Kristall in Sicherheit zu bringen ist unsere oberste Priorität.&lt;BR&gt;&lt;BR&gt;Jermir und ich werden uns von dem Kristall fernhalten und Euch aus der Entfernung unterstützen. Sorgt dafür, dass der Kristall um jeden Preis intakt bleibt!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1448">
+        <Page social="4">Der Kristall ist intakt! Jetzt können wir ihn mit Frayas Kernenergie vergleichen und herausfinden, ob Thulsas Versuche erfolgreich waren.&lt;BR&gt;&lt;BR&gt;Berichtet Fraya, was wir herausgefunden haben. Den Kristall zu transportieren wird etwas dauern, ich werde aber so schnell wie möglich nachkommen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="518" prevId="4" villagerId="1001">
+        <Page social="4">Das ist ja eine ziemliche Geschichte, &lt;PCNAME&gt;. Ich frage mich ...&lt;BR&gt;&lt;BR&gt;Ich frage mich, ob Jerad Thulsas Technik rückgängig machen kann. Anstatt den Kern zu spalten und zu verderben könnte dadurch der Kern in mir vielleicht stabilisiert und gestärkt werden. Das wäre jedenfalls weitere Versuche wert, findet Ihr nicht?&lt;BR&gt;&lt;BR&gt;Die Angelegenheit wäre geregelt, vergesst aber nicht: Auch wenn Ihr Eure Mission erfolgreich abgeschlossen habt, bleibt sie streng vertraulich. Wir wollen nicht, dass Thulsas Versuche jemanden "inspirieren".</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Eines der großen Geheimnisse des Flammentals: Was ist mit dem {@LinkCreature:204#1117#Cruentalpfeiler} los?&lt;BR&gt;&lt;BR&gt;Er hat eindeutig große Kräfte. Wenn wir nur wüssten, wie man sie nutzen kann ...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} interagiert ständig mit dem Pfeiler. Ich wette, sie weiß etwas darüber, oder hat irgendeine Verbindung zu ihm.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1117">
+        <Page social="0">(Der Pfeiler wäre heiß genug, um Euch bei Berührung zu verbrennen.)&lt;BR&gt;&lt;BR&gt;(Als Ihr den Schlüssel hineinsteckt, kommt eine beschriftete Tafel aus dem Innern des Steins hervor.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1117">
+        <Page social="0">(Der Pfeiler ist zu heiß, um ihn zu berühren. Vielleicht kennt {@LinkCreature:4#7011#Marakadi} irgendeinen geheimen Weg, mit ihm zu interagieren.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="3" villagerId="1003">
+        <Page social="7">Das war im Innern des Cruentalpfeilers? Erstaunlich!&lt;BR&gt;&lt;BR&gt;Dort wurde shurianische Magie eingraviert, aber die Shurianer geben sich nicht mit Dämonen ab.&lt;BR&gt;&lt;BR&gt;Nun, das taten sie jedenfalls noch nie zuvor. Beunruhigend, aber ich vermute, Ignoranz wäre schlimmer, nicht wahr?</Page>
+    </Text>
+</QuestDialog>

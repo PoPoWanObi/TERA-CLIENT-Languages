@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">Нашему прототипу волшебного робота EX-TRX для работы требуется постоянный приток энергии. А неужели ты не хочешь увидеть его за работой?&lt;BR&gt;&lt;BR&gt;Принеси мне кристаллы {@LinkCreature:34#1010#Ледорвущих великанов} из Морозного предела.&lt;BR&gt;&lt;BR&gt;И не смотри на меня так! Во время разработки кристаллы великанов показались нам вполне доступным источником энергии.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1704">
+        <Page social="4">Здесь хватит кристаллов на целый день работы робота! Это здорово, но завтра мне снова понадобится твоя помощь.&lt;BR&gt;&lt;BR&gt;EX-TRX готов потребить всю энергию, до которой дотянется! Хм-м-м... Давай сделаем вид, что это не прозвучало зловеще.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1704">
+        <Page social="0">Чтобы наш автомат работал, нужна энергия. А именно, кристаллы Ледорвущих великанов.&lt;BR&gt;&lt;BR&gt;Это наука о слиянии. Тебе не понять.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">В Зале Дев шныряют самые худшие наши кошмары во всей этой адовой дыре. Я говорю об этих жутких куклах.&lt;BR&gt;&lt;BR&gt;На первый взгляд {@LinkCreature:33#1#Призрачные игрушки} и {@LinkCreature:33#2#Проклятые игрушки} могут показаться безобидными, даже забавными, но когда они набрасываются на твоих товарищей, живьем сдирая с них кожу, вся их "забавность" в миг улетучивается. И это зрелище будет преследовать тебя до конца жизни.&lt;BR&gt;&lt;BR&gt;Хватит ли тебе смелости выйти против них?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">Они все повержены!&lt;BR&gt;&lt;BR&gt;У тебя стальные нервы, &lt;PCNAME&gt;! ВЕЛИКАЯ КАЙА, ОДИН ИЗ НИХ У ТЕБЯ НА СПИНЕ!&lt;BR&gt;&lt;BR&gt;А, нет. Нет. Это всего лишь тень. Ошибочка вышла.</Page>
+    </Text>
+</QuestDialog>

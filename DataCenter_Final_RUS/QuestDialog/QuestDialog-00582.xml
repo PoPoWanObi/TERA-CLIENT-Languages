@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">У меня брат был шахтером, и тоже погиб, как и многие другие. Монстры... наверное, уже обглодали его кости.&lt;BR&gt;&lt;BR&gt;Но, по крайней мере, в память о нем у меня осталась его кирка. Я хотел бы что-нибудь передать семьям других пропавших шахтеров.&lt;BR&gt;&lt;BR&gt;Если будешь идти через шахту... можешь собрать вещи погибших шахтеров? Я знаю, их семьи были бы рады.&lt;BR&gt;&lt;BR&gt;Отдай все найденные вещи Немуро на Заставе Вечной Тьмы. Он позаботится обо всем остальном.&lt;BR&gt;&lt;BR&gt;Для всех нас это действительно очень важно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="2002">
+        <Page social="4">Это так трогательно с твоей стороны, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Я доставлю эти вещи семьям погибших, когда вернусь в Чебику.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="2002">
+        <Page social="0">Я готовлюсь в путь, &lt;PCCLASS:lcase&gt;. Если тебе что-то нужно передать в Чебику со мной, давай поскорее.</Page>
+    </Text>
+</QuestDialog>

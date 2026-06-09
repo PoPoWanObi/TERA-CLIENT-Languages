@@ -1,0 +1,131 @@
+<StrSheet_ChatChannelName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName StrSheet_ChatChannelName.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName">
+    <Channel id="0" name="Dire" />
+    <Channel id="1" name="Groupe" />
+    <Channel id="2" name="Guilde" />
+    <Channel id="3" name="Zone" />
+    <Channel id="4" name="Échange" />
+    <Channel id="5" name="Equipe" />
+    <Channel id="7" name="Chuchote" />
+    <Channel id="9" name="Raid" />
+    <Channel id="11" name="Canal 1" />
+    <Channel id="12" name="Canal 2" />
+    <Channel id="13" name="Canal 3" />
+    <Channel id="14" name="Canal 4" />
+    <Channel id="15" name="Canal 5" />
+    <Channel id="16" name="Canal 6" />
+    <Channel id="17" name="Canal 7" />
+    <Channel id="18" name="Canal 8" />
+    <Channel id="19" name="Marchander" />
+    <Channel id="20" name="RdG" />
+    <Channel id="21" name="Notification" />
+    <Channel id="22" name="Alerte d'équipe" />
+    <Channel id="24" name="Système" />
+    <Channel id="25" name="Annonce du meneur du raid" />
+    <Channel id="27" name="Global" />
+    <Channel id="28" name="Alliance" />
+    <Channel id="29" name="Groupe de leaders" />
+    <Channel id="30" name="Exarque" />
+    <Channel id="212" name="JdR" />
+    <Channel id="CHATTYPE_NORMAL" name="Dire" shortcuts="s,général" />
+    <Channel id="CHATTYPE_PARTY" name="Groupe" shortcuts="p, groupe" />
+    <Channel id="CHATTYPE_GUILD" name="Guilde" shortcuts="g,guilde" />
+    <Channel id="CHATTYPE_GUARD" name="Zone" shortcuts="a,zone" />
+    <Channel id="CHATTYPE_BARGAIN" name="Échange" shortcuts="t,échange" />
+    <Channel id="CHATTYPE_TEAM" name="Equipe" shortcuts="b, équipe" />
+    <Channel id="CHATTYPE_WHISPER" name="Chuchote" shortcuts="w, murmurer" />
+    <Channel id="CHATTYPE_RAID" name="Raid" shortcuts="h,raid" />
+    <Channel id="CHATTYPE_RAID_LEADER" name="Chef de raid" shortcuts="" />
+    <Channel id="CHATTYPE_PRIVATE_1" name="Canal 1" shortcuts="1" />
+    <Channel id="CHATTYPE_PRIVATE_2" name="Canal 2" shortcuts="2" />
+    <Channel id="CHATTYPE_PRIVATE_3" name="Canal 3" shortcuts="3" />
+    <Channel id="CHATTYPE_PRIVATE_4" name="Canal 4" shortcuts="4" />
+    <Channel id="CHATTYPE_PRIVATE_5" name="Canal 5" shortcuts="5" />
+    <Channel id="CHATTYPE_PRIVATE_6" name="Canal 6" shortcuts="6" />
+    <Channel id="CHATTYPE_PRIVATE_7" name="Canal 7" shortcuts="7" />
+    <Channel id="CHATTYPE_PRIVATE_8" name="Canal 8" shortcuts="8" />
+    <Channel id="CHATTYPE_DEALING" name="Marchander" shortcuts="j,marchander" />
+    <Channel id="CHATTYPE_PARTY_SEARCH" name="Rdg" shortcuts="u, rdg" />
+    <Channel id="CHATTYPE_PARTY_NOTICE" name="Notification" shortcuts="n,alerte" />
+    <Channel id="CHATTYPE_COMMAND" name="Alerte d'équipe" shortcuts="d" />
+    <Channel id="CHATTYPE_ADMIN_NOTICE" name="Système" shortcuts="" />
+    <Channel id="CHATTYPE_RAID_NOTICE" name="Annonce du meneur du raid" shortcuts="n,alerte" />
+    <Channel id="CHATTYPE_GENERAL" name="General" shortcuts="y" />
+    <Channel id="CHATTYPE_UNION" name="Alliance" shortcuts="f,alliance" />
+    <Channel id="CHATTYPE_UNIONELITE" name="Groupe de leaders" shortcuts="l, groupe de leaders" />
+    <Channel id="CHATTYPE_UNION_NOTICE" name="Exarque" shortcuts="x,exarque" />
+    <Channel id="CHATTYPE_UNION_POST" name="Conflit d'Alliance" shortcuts="" />
+    <Channel id="CHATTYPE_SOCIAL" name="Emote" shortcuts="" />
+    <Channel id="CHATTYPE_RP" name="JdR" shortcuts="em" />
+    <Channel id="CHATTYPE_MY_ATTACK" name="Attaques" />
+    <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" name="Coups critiques" />
+    <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="Dégâts de chute" />
+    <Channel id="CHATTYPE_MY_DAMAGE_SMALL" name="Dégâts infligés par les sbires" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" name="Dégâts critiques infligés par les sbires" />
+    <Channel id="CHATTYPE_MY_DAMAGE" name="Dégâts infligés par les monstres ordinaires" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" name="Dégâts critiques infligés par les monstres ordinaires" />
+    <Channel id="CHATTYPE_MY_DAMAGE_LARGE" name="Dégâts infligés par les boss" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" name="Dégâts critiques infligés par les boss" />
+    <Channel id="CHATTYPE_INFO" name="Alertes" />
+    <Channel id="CHATTYPE_WORLD_INFO" name="Alertes globales" />
+    <Channel id="CHATTYPE_ERROR_INFO" name="Notifications" />
+    <Channel id="CHATTYPE_PARTY_INFO" name="Alertes de groupe" />
+    <Channel id="CHATTYPE_GUILD_INFO" name="Alertes de guilde" />
+    <Channel id="CHATTYPE_TEAM_INFO" name="Alertes d'équipe" />
+    <Channel id="CHATTYPE_INTERACTION_INFO" name="Alertes d'interface" />
+    <Channel id="CHATTYPE_WARNING" name="Avertissements" />
+    <Channel id="CHATTYPE_GET_ITEM" name="Objets obtenus" />
+    <Channel id="CHATTYPE_GET_EXP" name="PEX reçus" />
+    <Channel id="CHATTYPE_GET_MONEY" name="Or obtenu" />
+    <ChatCommandList>
+        <CommandCategory name="Discussion">
+            <Command name="Ordres du canal de discussion privé :&#xA;Le pseudo du canal de discussion doit comporter de 2 à 8 caractères. Le mot de passe doit comporter 4 chiffres." />
+            <Command name="/créer [NomDuCanal] [motdepasse] (créer un canal de discussion privé)" />
+            <Command name="/chat [NomDuCanal] [motdepasse] (rejoindre un canal de discussion privé existant.)" />
+            <Command name="/quitter [Nom/N°DuCanal]" />
+            <Command name="/NomCanal(NuméroCanal) (utiliser la barre oblique / le slash et le nom ou le numéro du canal pour discuter.)" />
+            <Command name="/mdp [N°DuCanal] [MotDePasseActuel] [NouveauMotDePasse] (modifier le mot de passe.)" />
+            <Command name="/exclure [N°duCanal] [Personnage] (exclure un joueur du canal.)" />
+        </CommandCategory>
+        <CommandCategory name="Groupe">
+            <Command name="Ordres du groupe :" />
+            <Command name="/inviter [Personnage] (inviter un personnage dans votre groupe.)" />
+            <Command name="/laisser (quitter le groupe.)" />
+            <Command name="/chef [MembreDuGroupe] (faire de quelqu'un le chef de groupe.)" />
+            <Command name="/exclure [MembreDuGroupe] (exclure un personnage de votre groupe.)" />
+            <Command name="/rejoindre [partymember]  (Demande pour rejoindre un groupe.)" />
+            <Command name="Ordres du raid :" />
+            <Command name="/tous les [partymember]  (Invite un groupe à participer à votre raid.)" />
+            <Command name="/assistance [raidmember]  (Invite un groupe à participer à votre raid.)" />
+            <Command name="/ra  ou /i (Discussion dans le canal de discussion pour raid)" />
+        </CommandCategory>
+        <CommandCategory name="RdG">
+            <Command name="Y   (Pour trouver les joueurs qui cherchent un groupe.)" />
+            <Command name="/coop [objectif] (modifier l'objectif de votre groupe.)" />
+            <Command name="/u [message]   (discussion dans le canal de discussion RFG.)" />
+        </CommandCategory>
+        <CommandCategory name="Emote">
+            <Command name="/salut" />
+            <Command name="/révérence" />
+            <Command name="/joyeux" />
+            <Command name="/triste" />
+            <Command name="/victoire" />
+            <Command name="/danser" />
+            <Command name="/provoquer" />
+            <Command name="/applaudir" />
+            <Command name="/demander" />
+            <Command name="/réfléchir" />
+            <Command name="/aimer" />
+            <Command name="/charger" />
+            <Command name="/désigner" />
+            <Command name="/timide" />
+            <Command name="/colère" />
+        </CommandCategory>
+        <CommandCategory name="Match à mort">
+            <Command name="/invitermam [personnage]" />
+            <Command name="/rejoindremam [chef]" />
+            <Command name="/excluremam [personnage]" />
+            <Command name="/quittermam" />
+            <Command name="/abandonner" />
+        </CommandCategory>
+    </ChatCommandList>
+</StrSheet_ChatChannelName>

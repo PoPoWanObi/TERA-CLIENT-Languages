@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Im Kampf gegen die Kaiserliche Armee der Erzdevaner bemerkte &lt;PCNAME&gt;, dass die Erzdevaner Mysteriöse Erzkarren beschützen.&lt;BR&gt;&lt;PCNAME&gt; vermutete, dass es sich dabei um etwas Wichtiges handeln könnte und schnappte sich einige der "Devanersteine", die sich in den Karren befanden.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Die Parthianerelite beschützt diese Erzkarren besonders gut. Was für wertvolle Dinge befinden sich darin nur?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4">Verflucht, Ihr seid aber auch clever, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Jeder andere hätte sich einfach davongemacht und wäre später zurückgekommen!&lt;BR&gt;&lt;BR&gt;Ich werde diese Steine Hagand zeigen. Vielleicht kann er herausfinden, wozu sie gut sind.&lt;NEXTPAGEBUTTON&gt;"War mir ein Vergnügen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

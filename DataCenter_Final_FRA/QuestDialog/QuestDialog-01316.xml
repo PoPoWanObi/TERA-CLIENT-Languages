@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Nous devons nous emparer des deux extrémités de la Vallée sauvage, alors je vous envoie au front.&lt;BR&gt;&lt;BR&gt;Chassez les {@LinkCreature:41#1001#arachnéens chasseurs de la vallée}, les {@LinkCreature:41#1002#kamaras noralks} et les {@LinkCreature:41#1003#dents-de-sabre des sables} à chaque entrée de la Vallée sauvage.&lt;BR&gt;&lt;BR&gt;Lorsque votre mission sera accomplie, présentez-vous à Jeulile, à la Station de la Vallée sauvage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">Avec des combattants de votre trempe dans les environs, cet endroit devient nettement moins dangereux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">La Fédération offre une prime pour l’élimination des {@LinkCreature:41#1001#arachnéens chasseurs de la vallée}, des {@LinkCreature:41#1002#kamaras noralks} et des {@LinkCreature:41#1003#dents-de-sabre des sables} aux deux extrémités de la Vallée sauvage. Des preuves de leur mort seront évidemment nécessaires.</Page>
+    </Text>
+</QuestDialog>

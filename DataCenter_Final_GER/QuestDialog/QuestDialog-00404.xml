@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="9">Seid Ihr beim hiesigen Regiment von Kaias Schwert? Könnt Ihr mir helfen?&lt;BR&gt;&lt;BR&gt;Meine Söhne haben vor ein paar Tagen das Haus verlassen und so langsam mache ich mir Sorgen. Könntet Ihr für mich nach ihnen sehen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">Ihr sucht nach Wynnes Söhnen? Zebedah und Zebulon?&lt;BR&gt;&lt;BR&gt;Tut mir leid, ich wollte Euch keine falschen Hoffnungen machen. Ich habe nichts von ihnen gesehen oder gehört. Ich versuche ja, ein Auge auf alles hier zu haben, aber ich bin eben nicht Balder. Ich sehe nicht alles.&lt;BR&gt;&lt;BR&gt;Sprecht mit {@LinkCreature:212#1001#Munam}. Lasst Euch nicht von ihrem groben Getue abschrecken. Sie ist das größte Klatschmaul weit und breit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1001">
+        <Page social="4">Sagtet Ihr, Ihr seid auf Wynnes Bitte hier? Was meint Ihr damit, die Kinder seien verschwunden? Es geschehen so viele Dinge, aber davon hat man mir noch nicht berichtet. Vor ein paar Tagen ist hier ein Kind umhergewandert. Warum fragt Ihr nicht die Wachen, während Ihr Euch im Lager umseht? Tut mir leid, dass ich nicht mehr Hilfe bieten kann. Jedenfalls ist es schön, dass Ihr wieder gesund und munter zurück seid.</Page>
+    </Text>
+</QuestDialog>

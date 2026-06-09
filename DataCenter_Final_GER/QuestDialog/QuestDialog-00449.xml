@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Ein aufmerksames Auge sieht viele {@LinkCreature:13#300932#Ghilliedhus}, die zwischen Euch und Euren Pflichten stehen. Beweist Eure Kampffertigkeiten, damit wir wissen, wie wir Euch am wirkungsvollsten einsetzen können.&lt;BR&gt;&lt;BR&gt;Achtet auf ihre Extremitäten - es empfiehlt sich, abzublocken oder auszuweichen, wenn sie sich auf Euch herabstürzen. Falls Ihr erschöpft oder verwundet seid, rastet hier am Feuer oder sucht die Kleriker auf.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">Die heute bewiesenen Fertigkeiten erfüllen alle Anwesenden mit Hoffnung. Die Taten von &lt;PCNAME&gt; verleihen müden Streitern neue Kräfte, aber sie werfen auch neue Fragen auf ...</Page>
+    </Text>
+</QuestDialog>

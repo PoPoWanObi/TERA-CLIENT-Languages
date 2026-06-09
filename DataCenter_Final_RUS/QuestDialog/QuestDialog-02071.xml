@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4">Мы хотим отправить созданных нами волшебных роботов нашим исследователям, работающим в различных местах. Но путь до них неблизок, а на дорогах бывает опасно, так что... мы подумали о тебе.&lt;BR&gt;&lt;BR&gt;Я собрал пульт управления волшебными роботами. Используй его, чтобы призвать по волшебному роботу к каждому из полевых исследователей. Конечно же, ты тоже можешь им пользоваться. Испытания в реальных условиях никогда не помешают, верно?&lt;BR&gt;&lt;BR&gt;Клисса передаст тебе пульт. Развлекайся!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Постой, тебе нужен пульт управления?&lt;BR&gt;&lt;BR&gt;Извини, я отдала его попользоваться Фитаэ и Зериту. Не знаю, зачем он был нужен. Наверняка, для какой-то ерунды.&lt;BR&gt;&lt;BR&gt;В общем, пульт должен быть у кого-то из них. Ступай, поговори с ними.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Пульт управления волшебными роботами? Конечно, забирай.&lt;BR&gt;&lt;BR&gt;Ты можешь использовать его, как любой другой предмет: открой сумку, наведи указатель на пульт и щелкни правой кнопкой мыши.&lt;BR&gt;&lt;BR&gt;Твоя цель: Велтор в Убежище Балдера.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Пульт управления волшебными роботами? Конечно, забирай.&lt;BR&gt;&lt;BR&gt;Ты можешь использовать его, как любой другой предмет: открой сумку, наведи указатель на пульт и щелкни правой кнопкой мыши.&lt;BR&gt;&lt;BR&gt;Твоя цель: Синдел в Убежище Балдера.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1701">
+        <Page social="4">Что привело тебя сюда?&lt;BR&gt;&lt;BR&gt;Магический робот, говоришь? Дай-ка поглядеть.&lt;NEXTPAGEBUTTON&gt;"Пожалуйста".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Да, полезная штуковина.&lt;BR&gt;&lt;BR&gt;И, между нами говоря, с ней можно неплохо повеселиться.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1702">
+        <Page social="4">Магический робот... чего только не придумают!&lt;NEXTPAGEBUTTON&gt;"Управлять можно при помощи вот этого пульта".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Уверена, я найду ему здесь применение. И все же я удивляюсь этим чудакам из Аллемантеи.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" villagerId="1702">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Ärger, Ärger, nichts als Ärger. Brauche Hilfe von {@LinkCreature:218#1027#Takucha}, kann aber nicht gehen.&lt;BR&gt;&lt;BR&gt;Ihr geht, und sagt, dass ich Euch schicke. Wenn nicht sprechen, keine Hilfe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Hmm. Kunchara? Treuer Freund. Ich helfe.&lt;BR&gt;&lt;BR&gt;Stamm war böse. Wegen Fluch. Jetzt kein Zurück mehr.&lt;BR&gt;&lt;BR&gt;Muss Anführer {@LinkCreature:18#101#Tukarus} töten. Los, los, los.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1027">
+        <Page social="0">Das ist Tukarus. Erinnere mich gut.&lt;BR&gt;&lt;BR&gt;Hat immer großen Kopf gehabt. HA!&lt;BR&gt;&lt;BR&gt;Zurück zu Kunchara bringen, ja?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1027">
+        <Page social="0">Verirrt? {@LinkCreature:18#101#Tukarus} ist dort hinten.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="4" villagerId="1002">
+        <Page social="0">Der Kopf von Tukarus? Ihr ... uhm?&lt;BR&gt;&lt;BR&gt;Er kannte die Wahrheit, glaubte aber nicht, dass Takucha Euch dazu bringen würde ...&lt;NEXTPAGEBUTTON&gt;"Fühlt Ihr Euch wohl?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh. Ja! Kunchara gut.&lt;BR&gt;&lt;BR&gt;Danke für äh ... dafür.</Page>
+    </Text>
+</QuestDialog>

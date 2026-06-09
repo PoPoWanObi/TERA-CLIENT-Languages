@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Verzeihung ... mein Mann ist ein Zauberer des Mysteriums. Arimol.&lt;BR&gt;&lt;BR&gt;Er hat mir stets regelmäßig Briefe geschickt, aber seit er an hierher versetzt wurde, habe ich nichts mehr von ihm gehört.&lt;BR&gt;&lt;BR&gt;Ich habe versucht, einen Termin bei {@LinkCreature:209#1005$$Tryphena} zu bekommen, aber sie empfängt nur Soldaten. Könntet Ihr vielleicht herausfinden, ob sie weiß, was mit meinem Mann ist?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Arimol? Der Name sagt mir nichts. Da muss ich erst im Verzeichnis nachsehen.&lt;BR&gt;&lt;BR&gt;Ah, da haben wir ihn ja. Das sieht so aus, als ob ... oh ...&lt;BR&gt;&lt;BR&gt;Er ... äh ... Ich fürchte, Ihr müsst eine schlechte Nachricht überbringen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1012">
+        <Page social="4">Oh ...&lt;BR&gt;&lt;BR&gt;Ich ... danke Euch für Eure Hilfe.&lt;BR&gt;&lt;BR&gt;Ich würde jetzt gern etwas allein sein.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1007">
+        <Page social="5">Загляни за любую дюну - непременно наткнешься на стервятника-кулкари. Я приказываю убивать их при встрече, но с тем же успехом можно пытаться уничтожить муравейник по одному муравью. &lt;BR&gt;&lt;BR&gt;Ты не представляешь, как меня достало с ними драться, но что еще делать? Если наткнешься на {@LinkCreature:24#56#Падальщиков Песчаной бури}, сделай мне одолжение, убей парочку.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1007">
+        <Page social="5">Неплохо! Если ты возвращаешься в Тулуфан, выпей за мое здоровье, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

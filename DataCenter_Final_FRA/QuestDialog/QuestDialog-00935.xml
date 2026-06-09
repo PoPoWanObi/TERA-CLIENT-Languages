@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Savez-vous pourquoi vous vous tenez là, &lt;PCNAME&gt;?&amp;nbsp; C'est votre destin que de m'aider, ô élève favori du grand sorcier Oshar. Je peux faire bien plus que de simples lotions qui font pousser les cheveux.&lt;BR&gt;&lt;BR&gt;Je tente de trouver un moyen de protéger un soldat - ou un étudiant en mystères eldritch - contre une électrocution.&lt;BR&gt;&lt;BR&gt;Pouvez-vous m'aider à écrire l'histoire de la para-électricité?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"De quoi avez-vous besoin?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il suffit que chacun mette à profit ses points forts. J'ai un esprit ingénieux et une volonté indomptable. J'ai entendu dire que vous... vous avez du talent pour tuer des choses.&lt;BR&gt;&lt;BR&gt;J'ai besoin d'une touffe de poils d'un de ces paresseux qui grouillent dans ce prétendu jardin. Oui, vraiment... des paresseux.&lt;BR&gt;&lt;BR&gt;Ma théorie est basée sur la fourrure mouillée et l'électricité statique. C'est de la magie compatissante. Vous ne pouvez pas comprendre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">Vous avez un vrai talent pour la violence, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Enfin, je peux à présent créer mon chef-d'œuvre. Le "linceul d'humidification"!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">Il me faut plus de poils de paresseux pour tisser un linceul!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je veux dire, pour mener à bien mon expérience!&amp;nbsp; Oui, c'est tout à fait ça!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

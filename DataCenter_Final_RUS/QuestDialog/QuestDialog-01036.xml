@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="5">Сколько же в тебе энергии! Работы хватит на всех, включая заказы на убийство.&lt;BR&gt;&lt;BR&gt;Вот, это кажется довольно простым. Иди и убей {@LinkCreature:35#11#Валканов-странников пустошей}. Проще простого.&lt;BR&gt;&lt;BR&gt;Поговори с Калтамирой в Вирмовом ущелье, когда закончишь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1006">
+        <Page social="5">Хорошая работа!&lt;BR&gt;&lt;BR&gt;Вот твоя награда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1006">
+        <Page social="0">Нет, так не пойдет. Возвращайся, когда все сделаешь.</Page>
+    </Text>
+</QuestDialog>

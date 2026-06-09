@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">Болото в центре долины накрыто каким-то куполом. Похоже на силовое поле аргонов. Полагаю, сам купол образуется в {@LinkCreature:45#7002#Колонне Тролника}.&lt;BR&gt;&lt;BR&gt;Сможешь принести мне несколько частей этих управляющих шпилей для анализа? Возможно, тебе придется их сломать...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Да, это подойдет, &lt;PCNAME&gt;. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">Фрагменты шпилей у тебя с собой?</Page>
+    </Text>
+</QuestDialog>

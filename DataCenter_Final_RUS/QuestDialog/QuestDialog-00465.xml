@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="5">Мой начальник был опытным стратегом. Он всегда говорил так: "Хороший солдат побеждает врагов, но умный солдат еще и забирает все их добро".&lt;NEXTPAGEBUTTON&gt;"Точно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Слушай, &lt;PCNAME&gt;. {@LinkCreature:15#11#Жестокие наездники}, {@LinkCreature:15#12#Мутирующие гномы-пастухи} и {@LinkCreature:15#13#Мутирующие гномы-задиры}, что обитают к северу отсюда, носят очень любопытные подвески. Уникальные символы победы Федерации над злом скоро весьма вырастут в цене. Понимаешь, о чем я толкую?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1016">
+        <Page social="5">&lt;PCNAME&gt;, как я рад встретить солдата с предпринимательской жилкой! Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1016">
+        <Page social="0">&lt;PCNAME&gt;, победу можно описать не только словами, но и символами. Эти подвески - символ моего, то есть, нашего - будущего богатства.&lt;BR&gt;&lt;BR&gt;Ступай и собери их.</Page>
+    </Text>
+</QuestDialog>

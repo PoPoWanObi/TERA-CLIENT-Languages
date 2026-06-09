@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Nun, es wäre einfacher, diesen "Magiestein" zu finden, wenn wir mehr über ihn wüssten. Und er soll sich hier auf dem Schiff befinden?&lt;BR&gt;&lt;BR&gt;Jedes Schiff der Rotpeitschenflotte hat ein Logbuch. Und wenn die Schiffe anlegen, tragen es die {@LinkCreature:11#2001#Rotpeitschenmaate} und ihre Untergebenen, die {@LinkCreature:11#2005#Rotpeitschenbohrer} mit sich.&lt;BR&gt;&lt;BR&gt;Lasst uns mit den Logbüchern verschwinden und ein paar Nachforschungen anstellen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Mal sehen ... "Stein, magischer ..." Da ist es!&lt;BR&gt;&lt;BR&gt;Er kam vor einem Jahr hierher. Er ist richtig groß und war die einzige Fracht auf der Fahrt. In den anderen Spalten steht nur "Dementalith, siehe Kapitän".&lt;BR&gt;&lt;BR&gt;Ich hatte ehrlich gesagt auf mehr gehofft.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1031">
+        <Page social="0">Diese Logbücher sind der Schlüssel. In ihnen steht, nach welcher Art magischen Steins wir suchen müssen. Erledigt die {@LinkCreature:11#2001#Rotpeitschenmaate} und {@LinkCreature:11#2005#Rotpeitschenbohrer}.</Page>
+    </Text>
+</QuestDialog>

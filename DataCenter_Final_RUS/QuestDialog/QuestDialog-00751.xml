@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1007">
+        <Page social="5">Я местный хранитель леса, а это значит, что все в этих лесах зависит от меня. Я поддерживаю равновесие, а лесные кулкари угрожают ему.&lt;BR&gt;&lt;BR&gt;Если {@LinkCreature:26#1001#Шаманам-лесным странникам} и {@LinkCreature:26#1002#Колотильщикам-лесным странникам} нужна моя защита, им придется ее заслужить. Придется тебе "намекнуть" им об этом. Ты понимаешь, о чем я?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1007">
+        <Page social="5">Что ж, посмотрим, усвоили ли они урок. Я буду за ними приглядывать.</Page>
+    </Text>
+</QuestDialog>

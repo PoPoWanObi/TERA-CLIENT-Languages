@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="213" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">Не сомневайся, &lt;PCCLASS:lcase&gt;, в Ущелье Скверны Федерацию ждет либо триумф, либо полнейшее фиаско. Достаточно просто оглядеться, чтобы в этом убедиться.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">Ну же! Вперед! Настоящий герой всегда готов ринуться в бой! Караша должен умереть!&lt;TEXTBUTTON&gt;К Караше.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Телепорт к Караше&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

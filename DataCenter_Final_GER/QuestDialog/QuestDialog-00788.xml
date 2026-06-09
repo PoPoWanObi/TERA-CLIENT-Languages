@@ -1,0 +1,58 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Trotz Samaels Tod und entgegen allen Erwartungen konnten sich die Nachkommen Loks neu gruppieren. Als ihre erste Amtshandlung planten sie, Samael wiederzubeleben und mit Hilfe der Magie der uralten Riesen Rache an der Föderation zu üben.&lt;BR&gt;&lt;BR&gt;Die Nachkommen Loks erweckten die Riesen und befragten sie, um die Magie zu finden, nach der sie gesucht hatten.&lt;BR&gt;&lt;BR&gt;Ihr habt die Riesen gerettet und verhindert, dass ihre Magie in falsche Hände gerät.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Kehrt sofort nach Velika zurück. Es gibt neue besorgniserregende Berichte über Aktivitäten der Kultisten. Wir müssen sofort handeln.&lt;BR&gt;&lt;BR&gt; Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">Wir wissen nicht genau, was vor sich geht, aber man hat beobachtet, wie sich die Nachkommen Loks in der Düsteren Kathedrale versammeln. Elion führt einen kleinen Einsatztrupp dorthin und hat ausdrücklich nach Euch verlangt.&lt;BR&gt;&lt;BR&gt;Wenn das volle Ausmaß der Kultistenverschwörung bekannt wäre, würde das die Valkyon-Föderation bis in ihre Grundfesten erschüttern. Sprecht mit Elion und helft ihm, diesem Schlamassel ein Ende zu machen.&lt;BR&gt;&lt;BR&gt;Wegtreten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1168">
+        <Page social="4">Ein vertrauenswürdiger Verbündeter ist mehr wert als eine ganze Kompanie Soldaten. Schön, Euch wiederzusehen! Hat Seir Euch die Lage erklärt?&lt;NEXTPAGEBUTTON&gt;"Die Nachkommen Loks machen also Ärger?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mehr als je zuvor! Die Nachkommen Loks haben geschworen, Velika zu zerstören, um Samaels Tod und Loks fortwährenden nicht lebenden Zustand zu rächen.&lt;BR&gt;&lt;BR&gt;Jelenas Kundschafter haben eine Reihe Kultisten in Val Aureum ausfindig gemacht, speziell um die Kolossalen Ruinen herum. Elsine, eine sehr liebe Verwandte, braucht dringend einen geschickten Soldaten.&lt;BR&gt;&lt;BR&gt;Also senden wir Euch da hin. Ha!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
+        <Page social="4">Elion spricht in den höchsten Tönen von Euch. Wir sind froh, bei dieser Mission Eure Hilfe zu haben.&lt;BR&gt;&lt;BR&gt;Ich habe beobachtet, wie die Nachkommen Loks die Relikte in den Kolossalen Ruinen durchstöberten. Wir können nicht zulassen, dass ihnen etwas in die Hände fällt, das ihre Macht noch weiter vergrößert. Bitte erklärt Primus Baruch die Lage. Vielleicht können wir sie zusammen aufhalten.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="1001">
+        <Page social="4">Nachkommen Loks? Das fehlte uns gerade noch! Eben gerade erst habe ich Turrek überzeugt, dass die Föderation gegen die Darmschlitzer von Nutzen sein kann. Jetzt wird er denken, wir hätten die Nachkommen Loks nach Tulufan gelockt!&lt;BR&gt;&lt;BR&gt;Zum Glück seid Ihr jetzt hier. Für Elsine ist es nicht sicher, bei den Ruinen weiterzumachen. Aber ich benötige mehr Informationen zu der dortigen Sachlage.&lt;BR&gt;&lt;BR&gt;Tribun Kardelen verschafft sich gerade ein Bild über die Situation im Lager von Marrakeen. Findet heraus, was Ihr für ihn tun könnt!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1003">
+        <Page social="4">Willkommen, &lt;PCNAME&gt;. Ich würde Euch ja gern bei Eurem Problem helfen, aber keiner von uns wird Informationen erhalten, wenn wir nicht näher herankommen.&lt;BR&gt;&lt;BR&gt;Der Wüstenfeuerstamm ist gewalttätig geworden - extrem gewalttätig - ein direktes Herangehen wäre also unklug! Wir könnten viele von ihnen töten, aber dann würden wir auch auf unserer Seite große Verluste in Kauf nehmen müssen.&lt;BR&gt;&lt;BR&gt;Irgendetwas hat sie offensichtlich sehr aufgebracht, und ich würde zu gern wissen, was.&lt;BR&gt;&lt;BR&gt;Versucht, ob Ihr die {@LinkCreature:18#8#Wüstenfeuerzerstörer}, {@LinkCreature:18#3#Wüstenfeuerwüter} und {@LinkCreature:18#9#Wüstenfeuerpropheten} zum Reden bringen könnt. Sollten sie nicht sehr gesprächig sein, werden wir uns eben etwas anderes einfallen lassen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1003">
+        <Page social="4">Geheimnisse? Macht? Anscheinend sind sie in ein ganz großes Ding verwickelt.&lt;BR&gt;&lt;BR&gt;Diese Namen ... Ynorr? Surtr? Worlkir? Hört sich nach Riesen an.&lt;BR&gt;&lt;BR&gt;Dafür brauchen wir einen Experten. Dinian hat mit seinem Wissen über die Geschichte der Riesen Karriere gemacht. Fragt ihn.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" prevId="8" villagerId="1001">
+        <Page social="4">Das sind die Namen von legendären Riesen.&lt;BR&gt;&lt;BR&gt;Als die Götter gegen das Riesenreich Krieg führten, bauten diese drei Riesen eine mächtige Waffe und versiegelten sie - nur für alle Fälle. Dann versiegelten sie auch sich selbst, um den Aufbewahrungsort der Waffe geheim zu halten.&lt;BR&gt;&lt;BR&gt;Wenn sie also von ihnen sprechen ...&lt;BR&gt;&lt;BR&gt;Oh nein! Die Nachkommen müssen die Riesen gefunden haben und jetzt versuchen, ihre geheime Waffe zu bergen. Wir müssen Mirak sofort darüber informieren!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="218" prevId="9" villagerId="1022">
+        <Page social="4">Es wird Zeit, dass wir uns genauere Informationen beschaffen, und ich denke, die Anführer der Nachkommen haben genau das, was wir brauchen. Adarak und Jerexis müssen doch Pläne, Befehle oder etwas Derartiges haben.&lt;BR&gt;&lt;BR&gt;Wie es das Glück so will, wurden die beiden vor Kurzem im Westen gesichtet. Geht. Vielleicht könnt Ihr {@LinkCreature:18#107#Adarak} und {@LinkCreature:18#108#Jerexis} finden und Euch mal ein wenig mit ihnen unterhalten.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="218" prevId="10" villagerId="1022">
+        <Page social="4">Das legt nahe, dass die Nachkommen Loks die schlafenden Riesen gefunden haben. Nachdem sie wach waren, haben sie sie an einen Qualstein gefesselt und gefoltert, um Informationen aus ihnen herauszuholen. Die Riesen müssen noch am Leben sein!&lt;BR&gt;&lt;BR&gt;Bitte sucht Nema und sagt ihr Bescheid. Wir müssen einen Weg finden, sie zu retten.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="218" villagerId="1022">
+        <Page social="0">Wie konnten sie es finden? Wie können wir sie aufhalten?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="218" prevId="11" villagerId="1007">
+        <Page social="4">Wir versuchen schon länger, das Gewölbe des Ruhms - die Ruinen, in denen die Riesen schlafen - zu finden, aber anscheinend sind uns die Nachkommen Loks knapp zuvorgekommen. Höchstwahrscheinlich ist das {@LinkCreature:218#1501#Teleportal} im Zentrum des Tithustempels der Zugang zum Gewölbe des Ruhms.&lt;BR&gt;&lt;BR&gt;Ihr müsst dort hinein, die Nachkommen Loks töten und den Qualstein zerstören.&lt;BR&gt;&lt;BR&gt;Viel Glück.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="218" prevId="13" villagerId="1501">
+        <Page social="4">(Verschafft Euch Zugang zum Gewölbe des Ruhms und rettet die Riesen.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="422" prevId="14" villagerId="1003">
+        <Page social="4">Die Nachkommen Loks haben einen Folianten gestohlen, der die Verteidigung um unsere Waffen genau beschreibt. Ihr müsst diesen Folianten zerstören, bevor sie die Artefakte benutzen können. Die Macht ist einfach zu groß für Sterbliche.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="422" prevId="14" villagerId="1007">
+        <Page social="4">Unsere Magie war unvergleichlich. Wir forderten die Götter heraus und wären beinahe siegreich gewesen.&lt;BR&gt;&lt;BR&gt;Doch unser Stolz machte uns voreilig. Die Götter verschworen sich gegen uns und vernichteten die meisten unserer Art an einem Tag des Feuers.&lt;BR&gt;&lt;BR&gt;Sollten die Nachkommen Loks ihre finsteren Pläne in die Tat umsetzen können, geschieht so etwas möglicherweise erneut.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="422" prevId="14" villagerId="1005">
+        <Page social="4">Die Nachkommen Loks erfuhren von unserer Magie. Wir hielten so lange durch, wie wir konnten, doch der Druck wurde zu stark. Als Strafe ließen sie uns gefesselt und unter unerträglichen Qualen zurück.&lt;BR&gt;&lt;BR&gt;Ihr müsst den Folianten bergen, auf den sie es abgesehen habe. Erst wenn der zerstört ist, sind wir vor ihren Machenschaften sicher.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="218" prevId="15" villagerId="1022">
+        <Page social="4">Die Nachkommen Loks haben die schlafenden Riesen bereits geweckt? Dann kommen wir zu spät.</Page>
+    </Text>
+</QuestDialog>

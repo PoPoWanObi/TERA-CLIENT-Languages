@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">Эм-м, &lt;PCNAME&gt;, я знаю, что ты тоже испытываешь симпатию к великой и могучей Ошар.&lt;NEXTPAGEBUTTON&gt;"Похоже, очередная просьба".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Это так, но эта просьба не для Ошар. По крайней мере, не напрямую. Прежде чем моей наставницей стала Ошар, меня учил {@LinkCreature:230#1100#Дереск}.&lt;BR&gt;&lt;BR&gt;Мы с ним расстались... не самым лучшим образом. Но я хочу помириться с ним, и для этого приготовила дар.&lt;BR&gt;&lt;BR&gt;Я хочу, чтобы этот эликсир стал примирительным подарком и показал, сколь многому я научилась у великой Ошар. Пожалуйста, отнеси зелье Дереску.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1100">
+        <Page social="1">Ты от Филине, &lt;PCNAME&gt;? И все твои вещи при тебе?&lt;BR&gt;&lt;BR&gt;Я не люблю злословить, но Филине стала нашей самой большой неудачей. Иногда мы слишком жестко обходимся со студентами. Мои ученики взбунтовались и придумали себе воображаемого наставника по имени Ошар. Теперь они прогуливают занятия и живут беззаботной жизнью вечных студентов.&lt;NEXTPAGEBUTTON&gt;"Филине сделала для тебя это зелье".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Я чувствую в нем истинное могущество... хм-м. Быть может, я ошибся в ней?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1056">
+        <Page social="1">Но... что случилось?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1036">
+        <Page social="1">Он выпил! Ха-ха-ха!&lt;BR&gt;&lt;BR&gt;Во всех его лекциях красной нитью проходила тема расового превосходства эльфов. Что ж, посмотрим, как ему понравится побывать в чужой шкуре... пусть и ненадолго.&lt;BR&gt;&lt;BR&gt;И не смотри на меня так. Он наверняка уже вернулся в свое драгоценное эльфийское тело.&lt;BR&gt;&lt;BR&gt;Надеюсь, он усвоил урок. Не имеет значения, что ты о себе воображаешь. Не стоит связываться с великой и могучей Ошар.</Page>
+    </Text>
+</QuestDialog>

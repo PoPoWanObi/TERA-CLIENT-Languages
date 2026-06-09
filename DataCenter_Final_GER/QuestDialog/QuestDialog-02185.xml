@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Eliminiert die herzoglichen Streitkräfte im Anwesen der Arglist.&lt;BR&gt;&lt;BR&gt;Vernichtet {@LinkCreature:488#19#Herzogliche Loyalisten}, {@LinkCreature:488#20#Herzogliche Leibwächter} und {@LinkCreature:488#102#Herzogliche Rekruten}.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Segodun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="5">Gute Arbeit. Macht bitte weiter so mit Eurer Unterstützung der Föderation.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1011">
+        <Page social="0">Was steht Ihr hier rum? Unsere Feinde spazieren sorglos umher!</Page>
+    </Text>
+</QuestDialog>

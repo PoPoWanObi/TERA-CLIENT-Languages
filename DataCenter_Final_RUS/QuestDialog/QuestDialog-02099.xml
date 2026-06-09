@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2005">
+        <Page social="0">Вы сыграли в игру "Разбей арбуз" у Вамеля.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2005">
+        <Page social="4">С возвращением, &lt;PCNAME&gt;! Ты хочешь сыграть в лучшую игру на берегу еще раз?&lt;BR&gt;&lt;BR&gt;Думаешь, у тебя получится побить собственный рекорд? Давай проверим!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2005">
+        <Page social="4">Ну что, новый рекорд? Я весь внимание. Нет?&lt;BR&gt;&lt;BR&gt;Ладно, как бы то ни было, я обещал тебе приз, и ты его получишь!&lt;BR&gt;&lt;BR&gt;Наслаждайся!</Page>
+    </Text>
+</QuestDialog>

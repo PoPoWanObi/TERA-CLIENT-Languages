@@ -37,7 +37,8 @@
     <String id="301" name="Piège de foudre" tooltip="Étourdi. Impossible de bouger." />
     <String id="302" name="Piège de foudre" tooltip="Étourdi. Impossible de bouger." />
     <String id="303" name="Piège de foudre" tooltip="Etourdi[{@g:/e}. Ne peut pas bouger." />
-    <String id="501" name="Augmentation de la vitesse de déplacement" tooltip="La vitesse de déplacement augmente considérablement." />
+        <String id="333" name="Statut élite" tooltip="Membre bénéficiant du statut élite. Reçoit des avantages exclusifs." />
+<String id="501" name="Augmentation de la vitesse de déplacement" tooltip="La vitesse de déplacement augmente considérablement." />
     <String id="601" name="Colère du titan I" tooltip="Augmente la puissance de $H_W_GOOD$value$COLOR_END." />
     <String id="602" name="Colère du titan II" tooltip="Augmente la puissance de $H_W_GOOD$value$COLOR_END." />
     <String id="603" name="Colère du titan III" tooltip="Augmente la puissance de $H_W_GOOD$value$COLOR_END." />
@@ -53,7 +54,9 @@
     <String id="911" name="Infusion au noctenium" tooltip="Les dégâts infligés en PvP sont augmentés de 5%; les dégâts reçus en PVP sont réduits de 5%." />
     <String id="912" name="Infusion au noctenium" tooltip="Les dégâts infligés en PvP sont augmentés de 5%; les dégâts reçus en PVP sont réduits de 5%." />
     <String id="913" name="Infusion au noctenium" tooltip="Les dégâts infligés en PvP sont augmentés de 5%; les dégâts reçus en PVP sont réduits de 5%." />
-    <String id="1100" name="Potion d'opportunité culturelle" tooltip="Bonus d'expérience de combat de $H_W_GOOD$value$COLOR_END." />
+        <String id="1000" name="Testeur BETA" tooltip="Un testeur BETA." />
+    <String id="1001" name="Double PEX !" tooltip="Profitez de cet événement de double PEX ! $H_W_GOODLe bonus d'expérience ne s'applique qu'aux éliminations, pas aux récompenses de quête.$COLOR_END" />
+<String id="1100" name="Potion d'opportunité culturelle" tooltip="Bonus d'expérience de combat de $H_W_GOOD$value$COLOR_END." />
     <String id="1101" name="Adoration I" tooltip="L'expérience acquise au combat augmente de $H_W_GOOD$value$COLOR_END.$BRL'effet persiste après la mort." />
     <String id="1102" name="Fureur festive I" tooltip="L'expérience acquise au combat augmente de $H_W_GOOD$value$COLOR_END.$BRL'effet persiste après la mort." />
     <String id="1103" name="Adoration II" tooltip="L'expérience acquise au combat augmente de $H_W_GOOD$value$COLOR_END.$BRL'effet persiste après la mort." />
@@ -1197,7 +1200,8 @@
     <String id="457053" name="Bénédiction d'Archeron" tooltip="Pris de rage après avoir reçu la bénédiction d'Archeron." />
     <String id="457054" name="Saignement" tooltip="Un coup qui laisse des traces. Les PV vont continuer à chuter." />
     <String id="457055" name="Ceci n'est pas censé s'afficher" tooltip="Ceci n'est pas censé s'afficher" />
-    <String id="473650" name="Terreur transférée" tooltip="Étourdi. Déplacement impossible." />
+        <String id="457056" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+<String id="473650" name="Terreur transférée" tooltip="Étourdi. Déplacement impossible." />
     <String id="475150" name="Déchaînement" tooltip="Kelsaik se déchaîne! Personne ne peut plus l'arrêter désormais." />
     <String id="475151" name="Futilité" tooltip="Réduit les dégâts infligés par les compétences de $H_W_BAD$value$COLOR_END. Cet effet affectera de manière continue tous les membres du groupe jusqu'à ce qu'Apôtre de la futilité soit retiré du joueur affecté." />
     <String id="476106" name="Choc électrique" tooltip="Étourdi. Impossible de bouger." />
@@ -1478,7 +1482,66 @@
     <String id="701701" name="Infection" tooltip="Vous êtes malade pendant $time. La constitution est réduite de $H_W_BAD$value2$COLOR_END. Les compétences de purification ne permettent pas d'éliminer cet effet. Il infecte les créatures dans un rayon de 7 mètres autour de vous." />
     <String id="701800" name="Affliction" tooltip="Malade. Subit $H_W_BAD$value$COLOR_END points de dégâts par seconde." />
     <String id="701801" name="Affliction" tooltip="Malade. Régénération de PV réduite de $H_W_BAD$value2$COLOR_END. L'affliction inflige $H_W_BAD$value$COLOR_END points de dégâts par seconde." />
-    <String id="776013" name="Bombe du navire" tooltip="Vous êtes une bombe!" />
+        <String id="757001" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757002" name="Pierre de feu" tooltip="Le géant de pierre est en flammes. Les cibles dans un rayon de 21 m gagnent «Chaleur»." />
+    <String id="757003" name="Pierre de feu" tooltip="Le géant de pierre est en flammes. Les cibles dans un rayon de 3 m gagnent «Chaleur»." />
+    <String id="757004" name="Chaleur" tooltip="Les flammes entourant le géant de pierre dégagent une chaleur brûlante." />
+    <String id="757005" name="Feu dévorant" tooltip="La chaleur extrême de la lave consume votre corps." />
+    <String id="757006" name="Fleur de feu" tooltip="Rester près de cette fleur de feu créée par Archeron vous confère l'altération «Chaleur». Tant que la Chaleur persiste, une attaque puissante se propage." />
+    <String id="757007" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757008" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757009" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757010" name="Lifting the Character Up In the Air" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757011" name="Impact d'explosion" tooltip="Peut être renversé lorsque plusieurs impacts se cumulent." />
+    <String id="757012" name="BAM-BAM-BAM !" tooltip="Assommé par trop de coups violents en succession rapide." />
+    <String id="757013" name="Épée scellée vraiment trop géniale" tooltip="Cette épée scellée régénère continuellement des PV d'elle-même." />
+    <String id="757014" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757015" name="Absorption" tooltip="Le pyrovore absorbe l'humidité de l'air environnant." />
+    <String id="757016" name="Endurci" tooltip="Étendu sur la bouche d'aération, le pyrovore durcit sa peau, augmentant son endurance de $H_W_GOOD$value$COLOR_END." />
+    <String id="757017" name="Égide d'Archeron" tooltip="Le bouclier d'Archeron annule tous les dégâts, mais le géant de pierre peut encore vous piétiner." />
+    <String id="757018" name="Fusion d'arme" tooltip="Votre équipement commence à fondre sous la chaleur extrême du géant de pierre." />
+    <String id="757019" name="Ordre d'Archeron" tooltip="Archeron vous a marqué. Ses serviteurs concentreront leurs attaques sur vous." />
+    <String id="757020" name="Restez concentré !" tooltip="Restez concentré !" />
+    <String id="757021" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757022" name="L'ordre d'Archeron" tooltip="L'esprit est momentanément vide. Profitez-en pour frapper." />
+    <String id="757023" name="Restez concentré !" tooltip="Restez concentré !" />
+    <String id="757024" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757025" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757026" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757027" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757028" name="Souffle profond" tooltip="Pendant que vous reprenez votre souffle, votre résistance aux réactions diminue considérablement." />
+    <String id="757029" name="Corrosion d'Archeron" tooltip="Archeron fait se corroder l'épée." />
+    <String id="757030" name="Bénédiction d'Archeron – Corps endurci" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757031" name="Corrosion d'Archeron" tooltip="Archeron fait se corroder l'épée." />
+    <String id="757032" name="Corrosion d'Archeron" tooltip="Archeron fait se corroder l'épée." />
+    <String id="757033" name="Corrosion d'Archeron" tooltip="Archeron fait se corroder l'épée." />
+    <String id="757034" name="Forme bénie d'Archeron" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757035" name="Forme bénie d'Archeron" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757036" name="Forme bénie d'Archeron" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757037" name="Forme bénie d'Archeron" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757038" name="Moral puissant" tooltip="Augmente la puissance de $H_W_GOOD$value$COLOR_END." />
+    <String id="757039" name="Bénédiction de l'épée divine de Mystel" tooltip="La puissance d'attaque augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757040" name="Bénédiction de l'épée divine de Mystel" tooltip="La puissance d'attaque augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757041" name="Bénédiction de l'épée divine de Mystel" tooltip="La puissance d'attaque augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757042" name="Puissance de l'épée divine de Mystel" tooltip="La puissance d'attaque augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757043" name="L'Esprit du lion" tooltip="Portez l'Esprit du lion jusqu'à l'épée divine de Mystel." />
+    <String id="757044" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757045" name="Grand plan" tooltip="Donner des ordres augmente le risque d'étourdissement." />
+    <String id="757046" name="Endormi" tooltip="Plongé dans un profond sommeil... mais se réveille si attaqué." />
+    <String id="757047" />
+    <String id="757048" />
+    <String id="757049" name="Obscurité totale" tooltip="Vos touches de déplacement sont inversées." />
+    <String id="757050" name="Forme bénie d'Archeron" tooltip="L'endurance augmente de $H_W_GOOD$value$COLOR_END." />
+    <String id="757051" name="Bénédiction rapide de la prêtresse" tooltip="La bénédiction de la prêtresse augmente la vitesse d'attaque de $H_W_GOOD10%$COLOR_END." />
+    <String id="757052" name="Main d'Archeron" tooltip="Sous la protection d'Archeron, les fimbrilisks vont bientôt gagner en puissance." />
+    <String id="757053" name="Bénédiction d'Archeron" tooltip="Est entré en rage après avoir reçu la bénédiction d'Archeron." />
+    <String id="757054" name="Saignement" tooltip="Les PV vont continuer à chuter." />
+    <String id="757055" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757056" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757057" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757058" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757059" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+<String id="776013" name="Bombe du navire" tooltip="Vous êtes une bombe!" />
     <String id="776014" name="Explosion de la bombe" tooltip="Vous explosez" />
     <String id="776015" name="Explosion de la bombe" tooltip="Vous explosez" />
     <String id="776017" name="Pouvoir des ténèbres" tooltip="Renforcé par les ténèbres, Barbosa est désormais très puissant." />
@@ -2671,7 +2734,8 @@
     <String id="81300022" name="Protection de Banyakas" tooltip="Banyakas est en mode auto-défense. Il est immunisé contre tous les types de dégâts." />
     <String id="81300023" name="Feu forain de Banyakas" />
     <String id="81300024" name="Feu forain de Banyakas" />
-    <String id="90048060" name="Étourdissement" tooltip="Étourdi. Impossible de bouger." />
+        <String id="81300025" name="Bénédiction de la forêt" tooltip="Augmente les dégâts des compétences de $H_W_GOOD25%$COLOR_END. Valable uniquement pour les Lanciers." />
+<String id="90048060" name="Étourdissement" tooltip="Étourdi. Impossible de bouger." />
     <String id="90991001" name="Test" tooltip="Test" />
     <String id="90991002" name="Test" tooltip="Test" />
     <String id="91100200" name="Feu du destin" tooltip="Perte de $H_W_BAD3%$COLOR_END du total des PV toutes les $H_W_BAD$tickInterval$COLOR_END. La cible meurt quand l'effet prend fin.$BRFeu du destin ne peut être levé qu'avec Givre du destin." />

@@ -37,7 +37,8 @@
     <String id="301" name="Lightning Trap" tooltip="Stunned. Cannot move." />
     <String id="302" name="Lightning Trap" tooltip="Stunned. Cannot move." />
     <String id="303" name="Lightning Trap" tooltip="Stunned. Cannot move." />
-    <String id="501" name="Movement Speed Increases" tooltip="Increases Movement Speed immensely." />
+        <String id="333" name="Elite Status" tooltip="An Elite Status member. Receives exclusive benefits."/>
+<String id="501" name="Movement Speed Increases" tooltip="Increases Movement Speed immensely." />
     <String id="601" name="Titanic Wrath I" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
     <String id="602" name="Titanic Wrath II" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
     <String id="603" name="Titanic Wrath III" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
@@ -53,7 +54,9 @@
     <String id="911" name="Noctenium Infusion" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
     <String id="912" name="Noctenium Infusion" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
     <String id="913" name="Noctenium Infusion" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
-    <String id="1100" name="Potion of Cultural Opportunity" tooltip="Grants combat XP bonus of $H_W_GOOD$value$COLOR_END." />
+        <String id="1000" name="BETA Tester" tooltip="A BETA Tester."/>
+    <String id="1001" name="Double XP!" tooltip="Get out there and enjoy this limited double XP event! $H_W_GOODExperience bonus is only applied to kills, and not quest rewards.$COLOR_END"/>
+<String id="1100" name="Potion of Cultural Opportunity" tooltip="Grants combat XP bonus of $H_W_GOOD$value$COLOR_END." />
     <String id="1101" name="Adoration I" tooltip="Increases combat XP by $H_W_GOOD$value$COLOR_END.$BREffect persists through death." />
     <String id="1102" name="Festival Furor I" tooltip="Increases combat XP by $H_W_GOOD$value$COLOR_END.$BREffect persists through death." />
     <String id="1103" name="Adoration II" tooltip="Increases combat XP by $H_W_GOOD$value$COLOR_END.$BREffect persists through death." />
@@ -1197,7 +1200,8 @@
     <String id="457053" name="Archeron's Blessing" tooltip="Became enraged by receiving Archeron's Blessing." />
     <String id="457054" name="Bleeding" tooltip="A most palpable hit. HP will keep decreasing." />
     <String id="457055" name="Not supposed to be shown" tooltip="Not supposed to be shown" />
-    <String id="473650" name="Transferred Terror" tooltip="Stunned. Cannot move." />
+        <String id="457056" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+<String id="473650" name="Transferred Terror" tooltip="Stunned. Cannot move." />
     <String id="475150" name="Rampancy" tooltip="Kelsaik is rampant! No one can stop him now." />
     <String id="475151" name="Futility" tooltip="Decreases skill damage by $H_W_BAD$value$COLOR_END. Continuously affects all party members until Harbinger of Futility is removed from the affected party member." />
     <String id="476106" name="Electric Shock" tooltip="Stunned. Cannot move!" />
@@ -1478,7 +1482,66 @@
     <String id="701701" name="Infection" tooltip="You are diseased for $time. Decreases Endurance by $H_W_BAD$value2$COLOR_END. Cannot be cleared with purifying skill. Infects creatures within 7m of you." />
     <String id="701800" name="Affliction" tooltip="Diseased. Deals $H_W_BAD$value$COLOR_END damage every second." />
     <String id="701801" name="Affliction" tooltip="Diseased. Decreases HP recovery by $H_W_BAD$value2$COLOR_END. Deals $H_W_BAD$value$COLOR_END damage every second." />
-    <String id="776013" name="Ship's Bomb" tooltip="You are a bomb!" />
+        <String id="757001" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757002" name="Firestone" tooltip="The stone giant is on fire. Targets within 21m gain &quot;Heat.&quot;" />
+    <String id="757003" name="Firestone" tooltip="The stone giant is on fire. Targets within 3m gain &quot;Heat.&quot;" />
+    <String id="757004" name="Heat" tooltip="The flames around the stone giant produce a blistering heat." />
+    <String id="757005" name="Withering Fire" tooltip="The extreme heat from the lava is causing your body to burn." />
+    <String id="757006" name="Fireflower" tooltip="Standing near this fireflower created by Akeron grants you the &quot;Heat&quot; abnormality. Until Heat ends, a powerful attack spreads." />
+    <String id="757007" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757008" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757009" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757010" name="Lifting the Character Up In the Air" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757011" name="Impact from the Explosion" tooltip="Can be knocked down when multiple impacts overlap." />
+    <String id="757012" name="BAM-BAM-BAM!" tooltip="Got knocked out from taking too many powerful blows in rapid succession." />
+    <String id="757013" name="Super-Cool-Awesome Sealed Sword" tooltip="This Sealed Sword just keeps healing HP by itself" />
+    <String id="757014" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757015" name="Absorption" tooltip="The Pyrovore is absorbing moisture from the air around it." />
+    <String id="757016" name="Hardened" tooltip="Lying on the cooling vent hardens the Pyrovore's hide, increasing its Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="757017" name="Aegis of Akeron" tooltip="Akeron's shield prevents all damage, but the stone giant can only step on you." />
+    <String id="757018" name="Weapon Melt" tooltip="Your gear is beginning to melt from the stone giant's extreme heat." />
+    <String id="757019" name="Akeron's Command" tooltip="Akeron has put his mark on you. His minions will focus their attacks on you." />
+    <String id="757020" name="Stay Focused!" tooltip="Stay focused!" />
+    <String id="757021" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757022" name="The Order from Akeron" tooltip="Currently feeling empty-headed. Take this opportunity and strike." />
+    <String id="757023" name="Stay Focused!" tooltip="Stay focused!" />
+    <String id="757024" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757025" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757026" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757027" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757028" name="Deep Breaths" tooltip="While you catch your breath, your reaction resistance decreases drastically." />
+    <String id="757029" name="Akeron's Corrosion" tooltip="Akeron causes the sword to corrode." />
+    <String id="757030" name="Akeron's Blessing-Hardened Body" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757031" name="Akeron's Corrosion" tooltip="Akeron causes the sword to corrode." />
+    <String id="757032" name="Akeron's Corrosion" tooltip="Akeron causes the sword to corrode." />
+    <String id="757033" name="Akeron's Corrosion" tooltip="Akeron causes the sword to corrode." />
+    <String id="757034" name="Akeron's Blessed Form" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757035" name="Akeron's Blessed Form" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757036" name="Akeron's Blessed Form" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757037" name="Akeron's Blessed Form" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757038" name="Powerful Morale" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="757039" name="Blessing of Godbinder" tooltip="Attack Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757040" name="Blessing of Godbinder" tooltip="Attack Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757041" name="Blessing of Godbinder" tooltip="Attack Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757042" name="Power of Godbinder" tooltip="Attack Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757043" name="The Lion Spirit" tooltip="Take The Lion Spirit to Divine Sword - Godbinder." />
+    <String id="757044" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757045" name="Big Picture" tooltip="Giving orders makes you more likely to get stunned." />
+    <String id="757046" name="Slumbering" tooltip="Deep in slumber...but awakes if attacked." />
+    <String id="757047" />
+    <String id="757048" />
+    <String id="757049" name="Pitch-Black Darkness" tooltip="Your movement keys are reversed." />
+    <String id="757050" name="Akeron's Blessed Form" tooltip="Endurance increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="757051" name="Priestess' Swift Blessing" tooltip="The Priestess's Blessing increases Attack Speed by $H_W_GOOD10%$COLOR_END." />
+    <String id="757052" name="Hand of Akeron" tooltip="Under Akeron's protection, the fimbrilisks will soon grow stronger." />
+    <String id="757053" name="Akeron's Blessing" tooltip="Became enraged by receiving Akeron's Blessing." />
+    <String id="757054" name="Bleeding" tooltip="HP will keep decreasing." />
+    <String id="757055" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757056" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757057" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757058" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757059" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+<String id="776013" name="Ship's Bomb" tooltip="You are a bomb!" />
     <String id="776014" name="Bomb Explosion" tooltip="Exploding!" />
     <String id="776015" name="Bomb Explosion" tooltip="Exploding!" />
     <String id="776017" name="Power of Darkness" tooltip="Empowered by darkness. Barbosa is very powerful now." />
@@ -2671,7 +2734,8 @@
     <String id="81300022" name="Banyakas’s Protection" tooltip="Banyakas is in self-defense mode and is immune to all types of damage." />
     <String id="81300023" name="Fairie Fire of Banyakas" />
     <String id="81300024" name="Fairie Fire of Banyakas" />
-    <String id="90048060" name="Stun" tooltip="Stunned. Cannot move." />
+        <String id="81300025" name="Forest's Blessing" tooltip="Increases skill damage by $H_W_GOOD25%$COLOR_END. Applies only to Lancers."/>
+<String id="90048060" name="Stun" tooltip="Stunned. Cannot move." />
     <String id="90991001" name="Test" tooltip="Test" />
     <String id="90991002" name="Test" tooltip="Test" />
     <String id="91100200" name="Doomfire" tooltip="Reduces HP by $H_W_BAD3%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END. Target dies when effect ends.$BRDoomfire can be removed only with Doomchill." />

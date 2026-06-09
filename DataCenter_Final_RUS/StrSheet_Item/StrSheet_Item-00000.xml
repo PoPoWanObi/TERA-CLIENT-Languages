@@ -15535,7 +15535,8 @@
     <String id="55645" string="Чертеж: Науськивательница" toolTip="Используйте этот чертеж, чтобы выучить соответствующее умение ремесленника." />
     <String id="55646" string="Чертеж: Компостер" toolTip="Используйте этот чертеж, чтобы выучить соответствующее умение ремесленника." />
     <String id="55647" string="Чертеж: Перфорирующая пушка" toolTip="Используйте этот чертеж, чтобы выучить соответствующее умение ремесленника." />
-    <String id="70002" string="Нагрудник наемника" />
+        <String id="69999" toolTip="A protective spell which protects crystals from destruction. Lasts for 12 hours of gameplay, and supersedes the effect of crystalbind when used together." string="Complete Crystalbind"/>
+<String id="70002" string="Нагрудник наемника" />
     <String id="70003" string="Рукавицы рожденного в бою" />
     <String id="70004" string="Поножи комет" />
     <String id="70005" string="Куртка хвастливого танца" />
@@ -16806,7 +16807,8 @@
     <String id="83296" string="Нивеот одаренной пытки" toolTip="&lt;font color='#00BFFF'&gt;Двойные кристаллы&lt;/font&gt; не уничтожаются в случае смерти." />
     <String id="83297" string="Нивеот быстрой пытки" toolTip="&lt;font color='#00BFFF'&gt;Двойные кристаллы&lt;/font&gt; не уничтожаются в случае смерти." />
     <String id="83298" string="Пропуск на высшие испытания Шпиля страха" toolTip="Пропуск, который нужен для допуска к 16-му и последующим испытаниям Шпиля страха. В телепорт допускаются только игроки с пропусками. При пользовании телепортом расходуется один пропуск." />
-    <String id="90086" string="Ваша Мисс Китти: уход и кормление" toolTip="Используйте это руководство, чтобы научиться призывать питомца - кота." />
+        <String id="83299" toolTip="Teleports you to the entrance of Akeron's Inferno in Wyrmgorge of Val Elenium." string="Akeron's Inferno Teleport Scroll" />
+<String id="90086" string="Ваша Мисс Китти: уход и кормление" toolTip="Используйте это руководство, чтобы научиться призывать питомца - кота." />
     <String id="90087" string="Ваш Уиллоу: уход и кормление" toolTip="Используйте это руководство, чтобы научиться призывать питомца - фею." />
     <String id="90088" string="Ваш Данди: уход и кормление" toolTip="Используйте это руководство, чтобы научиться призывать питомца - каймана." />
     <String id="90089" string="Ваш Чиф: уход и кормление" toolTip="Используйте это руководство, чтобы научиться призывать питомца - туванги." />
@@ -18277,7 +18279,14 @@
     <String id="96472" string="Коробка с кольцом Природных трелей" toolTip="Сундук с кольцом лесных трелей, огненных трелей или речных трелей, подходящим классу вашего персонажа." />
     <String id="96473" string="Коробка с серьгой Природных трелей" toolTip="Сундук с серьгой лесных трелей, огненных трелей или речных трелей, подходящей классу вашего персонажа." />
     <String id="96474" string="Знак грабителя подземелий" toolTip="Приобретается в подборе подземелий после того, как вы зачистите подземелье в качестве грабителя подземелий. Чтобы купить предметы в магазине для грабителей подземелий, щелкните правой кнопкой мыши." />
-    <String id="97000" string="Жетон символа рыцаря" toolTip="Щелкните правой кнопкой мыши, чтобы обменять этот жетон на символ.&lt;BR&gt;&lt;font color = '#ff5555'&gt;Внимание! Символы нельзя продать или обменять, поэтому покупайте их только персонажем, для которого они предназначены.&lt;/font&gt;" />
+        <String id="96475" toolTip="&lt;font color = '#2478FF'&gt;[Dropped Material]&lt;/font&gt; A valuable medallion with unique properties. Right-click to exchange for Discovery equipment." string="Discovery Medallion"/>
+    <String id="96500" toolTip="A reward for playing TERA Classic. Contains a variety of useful items which will aid you on your adventure. Your support is greatly appreciated!" string="Activity Cube"/>
+    <String id="96800" toolTip="Summons a traveling steward for you and your party for 5 minutes.&lt;BR&gt;Summoning another traveling NPC will dismiss Elena." string="Summon NPC: Elena"/>
+    <String id="96801" toolTip="Fully rejuvenates your Stamina. Cannot be used during combat." string="Arunic Panacea"/>
+    <String id="96802" toolTip="Can only be used on characters level 64 or below.&#xA;Increases your hunting XP reward by 100% for 1 hour of play." string="100% XP Boost (1 Hour)"/>
+    <String id="96803" toolTip="Increases your hunting gold reward by 100% for 1 hour of play." string="100% Gold Hunter Boost (1 Hour)"/>
+    <String id="96999" toolTip="&lt;font color = '#2478FF'&gt;[Dropped Material]&lt;/font&gt; A valuable trinket which can be converted into a Discovery Weapon. Right-click to exchange for Discovery Weapons." string="Discovery Weapon Trinket"/>
+<String id="97000" string="Жетон символа рыцаря" toolTip="Щелкните правой кнопкой мыши, чтобы обменять этот жетон на символ.&lt;BR&gt;&lt;font color = '#ff5555'&gt;Внимание! Символы нельзя продать или обменять, поэтому покупайте их только персонажем, для которого они предназначены.&lt;/font&gt;" />
     <String id="97001" string="Жетон символа воина" toolTip="Щелкните правой кнопкой мыши, чтобы обменять этот жетон на символ.&lt;BR&gt;&lt;font color = '#ff5555'&gt;Внимание! Символы нельзя продать или обменять, поэтому покупайте их только персонажем, для которого они предназначены.&lt;/font&gt;" />
     <String id="97002" string="Жетон символа убийцы" toolTip="Щелкните правой кнопкой мыши, чтобы обменять этот жетон на символ.&lt;BR&gt;&lt;font color = '#ff5555'&gt;Внимание! Символы нельзя продать или обменять, поэтому покупайте их только персонажем, для которого они предназначены.&lt;/font&gt;" />
     <String id="97003" string="Жетон символа берсерка" toolTip="Щелкните правой кнопкой мыши, чтобы обменять этот жетон на символ.&lt;BR&gt;&lt;font color = '#ff5555'&gt;Внимание! Символы нельзя продать или обменять, поэтому покупайте их только персонажем, для которого они предназначены.&lt;/font&gt;" />
@@ -18485,7 +18494,19 @@
     <String id="98251" string="Тройной чарм Мистель" toolTip="Зажгите костер, чтобы получить три усиливающих боевых эффекта, выбранных случайно. Эффекты начинают действовать, как только начинается бой." />
     <String id="98252" string="Сундук храбрости" toolTip="Сундук, содержащий зелье храбрости." />
     <String id="99000" string="Белье бойцов Арены" toolTip="Нижнее белье с дополнительной защитой для боев на арене." />
-    <String id="200001" string="Зелье легкого пера" toolTip="Это зелье дарит вам невосприимчивость к урону от падения." />
+        <String id="151601" toolTip="" string="" />
+    <String id="151602" toolTip="" string="" />
+    <String id="151603" toolTip="" string="" />
+    <String id="151604" toolTip="" string="" />
+    <String id="151605" toolTip="" string="" />
+    <String id="151606" toolTip="" string="" />
+    <String id="151607" toolTip="" string="" />
+    <String id="151608" toolTip="" string="" />
+    <String id="151609" toolTip="" string="" />
+    <String id="151610" toolTip="" string="" />
+    <String id="151611" toolTip="" string="" />
+    <String id="151612" toolTip="" string="" />
+<String id="200001" string="Зелье легкого пера" toolTip="Это зелье дарит вам невосприимчивость к урону от падения." />
     <String id="200002" string="Пеки и Жарь" toolTip="Почетный предмет Клыкастого стиля.&#xA;Облик оружия, открывающий темную сторону TERA.&lt;BR&gt;&quot;Теперь ваша очередь готовить!&quot;&#xA;Почетные предметы исчезают вскоре после того, как вы покидаете Воздушный замок гильдии." />
     <String id="200003" string="Гробовая доска" toolTip="Почетный предмет Клыкастого стиля.&#xA;Облик оружия, открывающий темную сторону TERA.&lt;BR&gt;&quot;Для особо опасных&quot;.&#xA;Почетные предметы исчезают вскоре после того, как вы покидаете Воздушный замок гильдии." />
     <String id="200004" string="Вампирский зонт" toolTip="Почетный предмет Клыкастого стиля.&#xA;Облик оружия, открывающий темную сторону TERA.&lt;BR&gt;&quot;Синоптики утверждают, что сегодня пойдет дождь из крови&quot;.&#xA;Почетные предметы исчезают вскоре после того, как вы покидаете Воздушный замок гильдии." />
@@ -18983,7 +19004,205 @@
     <String id="200527" string="Припасы Федерации: Ключ от ящика" toolTip="Открывает [Запертый ящик]." />
     <String id="200528" string="Припасы Федерации: Журнал путешественника" toolTip="&quot;Путеводитель странника, написанный неизвестным любителем путешествий. И хотя его автор лишь начинающий писатель, книга получилась достойной&quot;.$BR&#xA;Путеводитель странника. " />
     <String id="200529" string="Припасы Федерации: Благословение богини" toolTip="Во время действия благословения вы можете воскреснуть в месте, где были убиты.&lt;BR&gt;После воскрешения у вас будет 60% HP и MP, 120% бодрости и 12 секунд неуязвимости (либо до использования боевых умений). Время перезарядки - 60 минут." />
-    <String id="20000000" string="Монеты" toolTip="Золото, серебро и медь" />
+        <String id="212983" toolTip="" string=""/>
+    <String id="212984" toolTip="" string=""/>
+    <String id="212985" toolTip="" string=""/>
+    <String id="212986" toolTip="" string=""/>
+    <String id="212987" toolTip="" string=""/>
+    <String id="212988" toolTip="" string=""/>
+    <String id="212989" toolTip="" string=""/>
+    <String id="212990" toolTip="" string=""/>
+    <String id="212991" toolTip="" string=""/>
+    <String id="212992" toolTip="" string=""/>
+    <String id="212993" toolTip="" string=""/>
+    <String id="212994" toolTip="" string=""/>
+    <String id="212995" toolTip="" string=""/>
+    <String id="212996" toolTip="" string=""/>
+    <String id="212997" toolTip="" string=""/>
+    <String id="212998" toolTip="" string=""/>
+    <String id="212999" toolTip="" string=""/>
+    <String id="213000" toolTip="" string=""/>
+    <String id="213001" toolTip="" string=""/>
+    <String id="213002" toolTip="" string=""/>
+    <String id="213003" toolTip="" string=""/>
+    <String id="213004" toolTip="" string=""/>
+    <String id="213005" toolTip="" string=""/>
+    <String id="213006" toolTip="" string=""/>
+    <String id="213007" toolTip="" string=""/>
+    <String id="213008" toolTip="" string=""/>
+    <String id="213009" toolTip="" string=""/>
+    <String id="213010" toolTip="" string=""/>
+    <String id="213011" toolTip="" string=""/>
+    <String id="213012" toolTip="" string=""/>
+    <String id="213013" toolTip="" string=""/>
+    <String id="213014" toolTip="" string=""/>
+    <String id="213015" toolTip="" string=""/>
+    <String id="213016" toolTip="" string=""/>
+    <String id="213017" toolTip="" string=""/>
+    <String id="213018" toolTip="" string=""/>
+    <String id="213019" toolTip="" string=""/>
+    <String id="213020" toolTip="" string=""/>
+    <String id="214068" toolTip="" string=""/>
+    <String id="214069" toolTip="" string=""/>
+    <String id="214070" toolTip="" string=""/>
+    <String id="214071" toolTip="" string=""/>
+    <String id="214072" toolTip="" string=""/>
+    <String id="214073" toolTip="" string=""/>
+    <String id="214074" toolTip="" string=""/>
+    <String id="214075" toolTip="" string=""/>
+    <String id="214076" toolTip="" string=""/>
+    <String id="214077" toolTip="" string=""/>
+    <String id="214078" toolTip="" string=""/>
+    <String id="214079" toolTip="" string=""/>
+    <String id="214080" toolTip="" string=""/>
+    <String id="214081" toolTip="" string=""/>
+    <String id="214082" toolTip="" string=""/>
+    <String id="214083" toolTip="" string=""/>
+    <String id="214084" toolTip="" string=""/>
+    <String id="214085" toolTip="" string=""/>
+    <String id="214086" toolTip="" string=""/>
+    <String id="214087" toolTip="" string=""/>
+    <String id="214088" toolTip="" string=""/>
+    <String id="214089" toolTip="" string=""/>
+    <String id="214090" toolTip="" string=""/>
+    <String id="214091" toolTip="" string=""/>
+    <String id="214092" toolTip="" string=""/>
+    <String id="214093" toolTip="" string=""/>
+    <String id="214094" toolTip="" string=""/>
+    <String id="214095" toolTip="" string=""/>
+    <String id="214096" toolTip="" string=""/>
+    <String id="214097" toolTip="" string=""/>
+    <String id="214098" toolTip="" string=""/>
+    <String id="214099" toolTip="" string=""/>
+    <String id="214100" toolTip="" string=""/>
+    <String id="214101" toolTip="" string=""/>
+    <String id="214102" toolTip="" string=""/>
+    <String id="214103" toolTip="" string=""/>
+    <String id="214104" toolTip="" string=""/>
+    <String id="214105" toolTip="" string=""/>
+    <String id="214106" toolTip="" string=""/>
+    <String id="214107" toolTip="" string=""/>
+    <String id="214108" toolTip="" string=""/>
+    <String id="214109" toolTip="" string=""/>
+    <String id="214110" toolTip="" string=""/>
+    <String id="214111" toolTip="" string=""/>
+    <String id="214112" toolTip="" string=""/>
+    <String id="214113" toolTip="" string=""/>
+    <String id="214114" toolTip="" string=""/>
+    <String id="214115" toolTip="" string=""/>
+    <String id="214116" toolTip="" string=""/>
+    <String id="214117" toolTip="" string=""/>
+    <String id="214118" toolTip="" string=""/>
+    <String id="214119" toolTip="" string=""/>
+    <String id="214120" toolTip="" string=""/>
+    <String id="214121" toolTip="" string=""/>
+    <String id="214122" toolTip="" string=""/>
+    <String id="214123" toolTip="" string=""/>
+    <String id="214124" toolTip="" string=""/>
+    <String id="214125" toolTip="" string=""/>
+    <String id="214126" toolTip="" string=""/>
+    <String id="214127" toolTip="" string=""/>
+    <String id="214128" toolTip="" string=""/>
+    <String id="214129" toolTip="" string=""/>
+    <String id="214130" toolTip="" string=""/>
+    <String id="214131" toolTip="" string=""/>
+    <String id="214132" toolTip="" string=""/>
+    <String id="214133" toolTip="" string=""/>
+    <String id="214134" toolTip="" string=""/>
+    <String id="214135" toolTip="" string=""/>
+    <String id="214136" toolTip="" string=""/>
+    <String id="214137" toolTip="" string=""/>
+    <String id="214138" toolTip="" string=""/>
+    <String id="214139" toolTip="" string=""/>
+    <String id="214140" toolTip="" string=""/>
+    <String id="214141" toolTip="" string=""/>
+    <String id="214142" toolTip="" string=""/>
+    <String id="214143" toolTip="" string=""/>
+    <String id="214144" toolTip="" string=""/>
+    <String id="214145" toolTip="" string=""/>
+    <String id="214146" toolTip="" string=""/>
+    <String id="214147" toolTip="" string=""/>
+    <String id="214148" toolTip="" string=""/>
+    <String id="214149" toolTip="" string=""/>
+    <String id="214150" toolTip="" string=""/>
+    <String id="214151" toolTip="" string=""/>
+    <String id="214152" toolTip="" string=""/>
+    <String id="214153" toolTip="" string=""/>
+    <String id="214154" toolTip="" string=""/>
+    <String id="214155" toolTip="" string=""/>
+    <String id="214156" toolTip="" string=""/>
+    <String id="214157" toolTip="" string=""/>
+    <String id="214158" toolTip="" string=""/>
+    <String id="214159" toolTip="" string=""/>
+    <String id="214160" toolTip="" string=""/>
+    <String id="214563" toolTip="" string=""/>
+    <String id="214564" toolTip="" string=""/>
+    <String id="214565" toolTip="" string=""/>
+    <String id="214566" toolTip="" string=""/>
+    <String id="214567" toolTip="" string=""/>
+    <String id="214568" toolTip="" string=""/>
+    <String id="214569" toolTip="" string=""/>
+    <String id="214570" toolTip="" string=""/>
+    <String id="214571" toolTip="" string=""/>
+    <String id="214572" toolTip="" string=""/>
+    <String id="214573" toolTip="" string=""/>
+    <String id="214574" toolTip="" string=""/>
+    <String id="214575" toolTip="" string=""/>
+    <String id="214576" toolTip="" string=""/>
+    <String id="214577" toolTip="" string=""/>
+    <String id="214578" toolTip="" string=""/>
+    <String id="214579" toolTip="" string=""/>
+    <String id="214580" toolTip="" string=""/>
+    <String id="214581" toolTip="" string=""/>
+    <String id="214582" toolTip="" string=""/>
+    <String id="214583" toolTip="" string=""/>
+    <String id="214584" toolTip="" string=""/>
+    <String id="214585" toolTip="" string=""/>
+    <String id="214586" toolTip="" string=""/>
+    <String id="214587" toolTip="" string=""/>
+    <String id="214588" toolTip="" string=""/>
+    <String id="214589" toolTip="" string=""/>
+    <String id="214590" toolTip="" string=""/>
+    <String id="214591" toolTip="" string=""/>
+    <String id="214592" toolTip="" string=""/>
+    <String id="214593" toolTip="" string=""/>
+    <String id="214594" toolTip="" string=""/>
+    <String id="214595" toolTip="" string=""/>
+    <String id="214596" toolTip="" string=""/>
+    <String id="214597" toolTip="" string=""/>
+    <String id="214598" toolTip="" string=""/>
+    <String id="214599" toolTip="" string=""/>
+    <String id="214600" toolTip="" string=""/>
+    <String id="214601" toolTip="" string=""/>
+    <String id="214602" toolTip="" string=""/>
+    <String id="214603" toolTip="" string=""/>
+    <String id="214604" toolTip="" string=""/>
+    <String id="214605" toolTip="" string=""/>
+    <String id="214606" toolTip="" string=""/>
+    <String id="214607" toolTip="" string=""/>
+    <String id="214608" toolTip="" string=""/>
+    <String id="214609" toolTip="" string=""/>
+    <String id="214610" toolTip="" string=""/>
+    <String id="214611" toolTip="" string=""/>
+    <String id="214612" toolTip="" string=""/>
+    <String id="214613" toolTip="" string=""/>
+    <String id="214614" toolTip="" string=""/>
+    <String id="214615" toolTip="" string=""/>
+    <String id="214616" toolTip="" string=""/>
+    <String id="214617" toolTip="" string=""/>
+    <String id="214618" toolTip="" string=""/>
+    <String id="214619" toolTip="" string=""/>
+    <String id="214620" toolTip="" string=""/>
+    <String id="214621" toolTip="" string=""/>
+    <String id="214622" toolTip="" string=""/>
+    <String id="214623" toolTip="" string=""/>
+    <String id="214624" toolTip="" string=""/>
+    <String id="214625" toolTip="" string=""/>
+    <String id="214626" toolTip="" string=""/>
+    <String id="214627" toolTip="" string=""/>
+    <String id="214628" toolTip="" string=""/>
+    <String id="214629" toolTip="" string=""/>
+<String id="20000000" string="Монеты" toolTip="Золото, серебро и медь" />
     <String id="20000001" string="Опыт" toolTip="Очки опыта" />
     <String id="20000002" string="Неизвестная награда" toolTip="Неизвестная награда" />
     <String id="20000003" string="Доп. награда" toolTip="Дополнительная награда" />

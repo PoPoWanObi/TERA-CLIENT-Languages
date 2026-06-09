@@ -37,7 +37,8 @@
     <String id="301" name="Blitzringfalle" tooltip="Betäubt. Bewegungsunfähig." />
     <String id="302" name="Blitzringfalle" tooltip="Betäubt. Bewegungsunfähig." />
     <String id="303" name="Blitzringfalle" tooltip="Betäubt. Bewegungsunfähig." />
-    <String id="501" name="Erhöht die Bewegungsgeschwindigkeit." tooltip="Erhöht die Bewegungsgeschwindigkeit erheblich." />
+        <String id="333" name="Elite-Status" tooltip="Ein Elite-Status-Mitglied. Erhält exklusive Vorteile." />
+<String id="501" name="Erhöht die Bewegungsgeschwindigkeit." tooltip="Erhöht die Bewegungsgeschwindigkeit erheblich." />
     <String id="601" name="Zorn der Titanen I" tooltip="Erhöht die Kraft um $H_W_GOOD$value$COLOR_END." />
     <String id="602" name="Zorn der Titanen II" tooltip="Erhöht die Kraft um $H_W_GOOD$value$COLOR_END." />
     <String id="603" name="Zorn der Titanen III" tooltip="Erhöht die Kraft um $H_W_GOOD$value$COLOR_END." />
@@ -53,7 +54,9 @@
     <String id="911" name="Nokteniuminfusion" tooltip="Erhöht den PvP-Schaden und die PvP-Verteidigung um 5%." />
     <String id="912" name="Nokteniuminfusion" tooltip="Erhöht den PvP-Schaden und die PvP-Verteidigung um 5%." />
     <String id="913" name="Nokteniuminfusion" tooltip="Erhöht den PvP-Schaden und die PvP-Verteidigung um 5%." />
-    <String id="1100" name="Trank der kulturellen Gelegenheit" tooltip="Kampf-EP-Bonus von $H_W_GOOD$value$COLOR_END." />
+        <String id="1000" name="BETA-Tester" tooltip="Ein BETA-Tester." />
+    <String id="1001" name="Doppelte EP!" tooltip="Nutzt dieses begrenzte Doppelte-EP-Event! $H_W_GOODDer EP-Bonus gilt nur für Kills, nicht für Questbelohnungen.$COLOR_END" />
+<String id="1100" name="Trank der kulturellen Gelegenheit" tooltip="Kampf-EP-Bonus von $H_W_GOOD$value$COLOR_END." />
     <String id="1101" name="Verehrung I" tooltip="Erhöht die Kampf-EP um $H_W_GOOD$value$COLOR_END.$BRDer Effekt hält auch nach dem Tod an." />
     <String id="1102" name="Festivaltaumel I" tooltip="Erhöht die Kampf-EP um $H_W_GOOD$value$COLOR_END.$BRDer Effekt hält auch nach dem Tod an." />
     <String id="1103" name="Verehrung II" tooltip="Erhöht die Kampf-EP um $H_W_GOOD$value$COLOR_END.$BRDer Effekt hält auch nach dem Tod an." />
@@ -1197,7 +1200,8 @@
     <String id="457053" name="Archerons Segen" tooltip="Durch Archerons Segen wütend geworden." />
     <String id="457054" name="Blutung" tooltip="Ein spürbarer Treffer. LP verringern sich kontinuierlich." />
     <String id="457055" name="Soll nicht angezeigt werden" tooltip="Soll nicht angezeigt werden" />
-    <String id="473650" name="Übertragene Furcht" tooltip="Betäubt. Bewegungsunfähig." />
+        <String id="457056" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+<String id="473650" name="Übertragene Furcht" tooltip="Betäubt. Bewegungsunfähig." />
     <String id="475150" name="Verbitterung" tooltip="Kelsaik ist verbittert! Niemand kann ihn jetzt noch aufhalten!" />
     <String id="475151" name="Vergeblichkeit" tooltip="Verringert den Fertigkeitsschaden um $H_W_BAD$value$COLOR_END. Der Effekt wirkt auf alle Gruppenmitglieder, solange bis Vorbote der Vergeblichkeit von dem betroffenen Gruppenmitglied entfernt wird." />
     <String id="476106" name="Elektroschock" tooltip="Betäubt. Bewegungsunfähig." />
@@ -1478,7 +1482,66 @@
     <String id="701701" name="Verseuchung" tooltip="Ihr leidet $time lang an einer Krankheit. Sie verringert die Konstitution um $H_W_BAD$value2$COLOR_END und kann nicht durch eine reinigende Fertigkeit entfernt werden. Außerdem werden Kreaturen in einem Radius von 7m um Euch herum infiziert." />
     <String id="701800" name="Befall" tooltip="Erkrankt. Ihr erleidet pro Sekunde $H_W_BAD$value$COLOR_END Schaden." />
     <String id="701801" name="Befall" tooltip="Erkrankt. Die LP-Wiederherstellung verringert sich um $H_W_BAD$value2$COLOR_END. Der Befall fügt pro Sekunde $H_W_BAD$value$COLOR_END Schaden zu." />
-    <String id="776013" name="Schiffsbombe" tooltip="Ihr seid eine Bombe!" />
+        <String id="757001" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757002" name="Feuerstein" tooltip="Der Steinriese steht in Flammen. Ziele im Umkreis von 21 m erhalten &quot;Hitze&quot;." />
+    <String id="757003" name="Feuerstein" tooltip="Der Steinriese steht in Flammen. Ziele im Umkreis von 3 m erhalten &quot;Hitze&quot;." />
+    <String id="757004" name="Hitze" tooltip="Die Flammen um den Steinriesen erzeugen eine sengende Hitze." />
+    <String id="757005" name="Verzehrendes Feuer" tooltip="Die extreme Hitze der Lava lässt Euren Körper brennen." />
+    <String id="757006" name="Feuerblume" tooltip="In der Nähe dieser von Archeron erschaffenen Feuerblume zu stehen verleiht Euch den Zustand &quot;Hitze&quot;. Solange Hitze anhält, verbreitet sich ein mächtiger Angriff." />
+    <String id="757007" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757008" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757009" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757010" name="Lifting the Character Up In the Air" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757011" name="Explosionseinschlag" tooltip="Kann niedergestreckt werden, wenn sich mehrere Einschläge überlappen." />
+    <String id="757012" name="BÄM-BÄM-BÄM!" tooltip="Durch zu viele heftige Schläge in schneller Folge niedergestreckt." />
+    <String id="757013" name="Das super-coole unglaubliche versiegelte Schwert" tooltip="Dieses versiegelte Schwert heilt ständig LP von selbst." />
+    <String id="757014" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757015" name="Absorption" tooltip="Der Pyrovore absorbiert Feuchtigkeit aus der Umgebungsluft." />
+    <String id="757016" name="Gehärtet" tooltip="Das Liegen auf dem Kühlschacht härtet die Haut des Pyrovore und erhöht seine Ausdauer um $H_W_GOOD$value$COLOR_END." />
+    <String id="757017" name="Archerons Ägis" tooltip="Archerons Schild verhindert jeden Schaden, aber der Steinriese kann Euch noch zertreten." />
+    <String id="757018" name="Waffenschmelze" tooltip="Eure Ausrüstung beginnt durch die extreme Hitze des Steinriesen zu schmelzen." />
+    <String id="757019" name="Archerons Befehl" tooltip="Archeron hat Euch markiert. Seine Diener werden ihre Angriffe auf Euch konzentrieren." />
+    <String id="757020" name="Konzentriert bleiben!" tooltip="Konzentriert bleiben!" />
+    <String id="757021" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757022" name="Archerons Befehl" tooltip="Der Geist ist momentan leer. Nutzt die Gelegenheit zum Angriff." />
+    <String id="757023" name="Konzentriert bleiben!" tooltip="Konzentriert bleiben!" />
+    <String id="757024" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757025" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757026" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757027" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="757028" name="Tiefer Atemzug" tooltip="Während Ihr Atem schöpft, nimmt Eure Reaktionsresistenz stark ab." />
+    <String id="757029" name="Archerons Korrosion" tooltip="Archeron lässt das Schwert korrodieren." />
+    <String id="757030" name="Archerons Segen – Gehärteter Körper" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757031" name="Archerons Korrosion" tooltip="Archeron lässt das Schwert korrodieren." />
+    <String id="757032" name="Archerons Korrosion" tooltip="Archeron lässt das Schwert korrodieren." />
+    <String id="757033" name="Archerons Korrosion" tooltip="Archeron lässt das Schwert korrodieren." />
+    <String id="757034" name="Archerons gesegnete Form" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757035" name="Archerons gesegnete Form" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757036" name="Archerons gesegnete Form" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757037" name="Archerons gesegnete Form" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757038" name="Starke Moral" tooltip="Erhöht die Kraft um $H_W_GOOD$value$COLOR_END." />
+    <String id="757039" name="Segen von Mystels göttlichem Schwert" tooltip="Die Angriffskraft erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757040" name="Segen von Mystels göttlichem Schwert" tooltip="Die Angriffskraft erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757041" name="Segen von Mystels göttlichem Schwert" tooltip="Die Angriffskraft erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757042" name="Macht von Mystels göttlichem Schwert" tooltip="Die Angriffskraft erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757043" name="Der Löwengeist" tooltip="Bringt den Löwengeist zu Mystels göttlichem Schwert." />
+    <String id="757044" name="Extinction" tooltip="Abnormality Tooltip Not Supposed To Be Shown (isShow=False) If this Tooltip is Shown Register it as BTS" />
+    <String id="757045" name="Großes Bild" tooltip="Das Erteilen von Befehlen erhöht die Wahrscheinlichkeit, betäubt zu werden." />
+    <String id="757046" name="Schlummernd" tooltip="Tief im Schlummer... erwacht aber bei Angriff." />
+    <String id="757047" />
+    <String id="757048" />
+    <String id="757049" name="Pechschwarze Dunkelheit" tooltip="Eure Bewegungstasten sind vertauscht." />
+    <String id="757050" name="Archerons gesegnete Form" tooltip="Die Ausdauer erhöht sich um $H_W_GOOD$value$COLOR_END." />
+    <String id="757051" name="Schneller Segen der Priesterin" tooltip="Der Segen der Priesterin erhöht die Angriffsgeschwindigkeit um $H_W_GOOD10%$COLOR_END." />
+    <String id="757052" name="Hand Archerons" tooltip="Unter Archerons Schutz werden die Fimbrilisken bald stärker." />
+    <String id="757053" name="Archerons Segen" tooltip="Ist durch Archerons Segen in Rage geraten." />
+    <String id="757054" name="Blutung" tooltip="Die LP werden weiter sinken." />
+    <String id="757055" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757056" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757057" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757058" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+    <String id="757059" name="Not Supposed To Be Shown" tooltip="Not Supposed To Be Shown" />
+<String id="776013" name="Schiffsbombe" tooltip="Ihr seid eine Bombe!" />
     <String id="776014" name="Bombenexplosion" tooltip="Ihr explodiert!" />
     <String id="776015" name="Bombenexplosion" tooltip="Ihr explodiert!" />
     <String id="776017" name="Macht der Dunkelheit" tooltip="Gestärkt durch Dunkelheit. Barbosa ist nun besonders mächtig." />
@@ -2671,7 +2734,8 @@
     <String id="81300022" name="Banyakas' Schutz" tooltip="Banyakas befindet sich im Selbstverteidigungsmodus. Er ist gegenüber jeglichem Schaden immun." />
     <String id="81300023" name="Banyakas' Feenfeuer" />
     <String id="81300024" name="Banyakas' Feenfeuer" />
-    <String id="90048060" name="Betäubung" tooltip="Betäubt. Bewegungsunfähig." />
+        <String id="81300025" name="Segen des Waldes" tooltip="Erhöht den Fertigkeitsschaden um $H_W_GOOD25%$COLOR_END. Gilt nur für Lanzenträger." />
+<String id="90048060" name="Betäubung" tooltip="Betäubt. Bewegungsunfähig." />
     <String id="90991001" name="Test" tooltip="Test" />
     <String id="90991002" name="Test" tooltip="Test" />
     <String id="91100200" name="Feuer des Verhängnisses" tooltip="Zieht immer nach $H_W_BAD$tickInterval$COLOR_END $H_W_BAD3%$COLOR_END der Gesamt-LP ab. Ziel stirbt, wenn der Effekt endet.$BRFeuer des Verhängnisses kann nur mit Kälte des Verhängnisses entfernt werden." />

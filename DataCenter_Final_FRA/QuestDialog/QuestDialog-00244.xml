@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">Les kumas se sont emparés des Plaines d'Omphalos et menacent de prendre le contrôle de la région entière.&lt;BR&gt;&lt;BR&gt;Pour nous aider à reprendre le dessus, vous devez éliminer les {@LinkCreature:7#3#kumas fainéants} et les {@LinkCreature:7#4#kumas amorphes}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Heroth à la Ferme de Godric.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">Je hais les kumas, ces brutes dépourvues de cervelle. Ils ont eu ce qu'ils méritaient. Si jamais je finis par rentrer à Velika en vie, je vous paye un coup, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1005">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="5">Очередная волна враждебных существ угрожает нашей деятельности в Блаженном озере. Тебе нужно убить {@LinkCreature:26#2006#Грязных миканаров}, {@LinkCreature:26#3001#Душехранителей} и {@LinkCreature:26#3002#Посвященных караульных} для защиты граждан Федерации.&lt;BR&gt;&lt;BR&gt;О выполнении задания доложи Наэри.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1004">
+        <Page social="5">Благодаря тебе наша жизнь станет безопаснее. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1004">
+        <Page social="0">{@LinkCreature:26#2006#Грязные миканары}, {@LinkCreature:26#3001#Душехранители} и {@LinkCreature:26#3002#Посвященные караульные} представляют постоянную угрозу. Если ты истребишь их, можешь считать, что награда уже у тебя в кармане.</Page>
+    </Text>
+</QuestDialog>

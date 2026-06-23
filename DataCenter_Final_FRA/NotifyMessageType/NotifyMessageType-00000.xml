@@ -1,0 +1,9 @@
+<NotifyMessageType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NotifyMessageType NotifyMessageType.xsd" xmlns="https://vezel.dev/novadrop/dc/NotifyMessageType">
+    <Type id="1" title="{@notify:1$$퀘스트수락}" uiId="0" btnStr="" shortCut="" soundId="2033" subTitle="" />
+    <Type id="2" title="{@notify:2$$퀘스트완료}" uiId="0" btnStr="" shortCut="" soundId="2034" subTitle="" />
+    <Type id="3" title="{@notify:3$$수집}" uiId="1" btnStr="" shortCut="" soundId="1210" subTitle="{@notify:4$$고대유물의 무기}" />
+    <Type id="4" title="{@notify:5$$수집완료}" uiId="1" btnStr="{@notify:6$$장비받기}" shortCut="Inventory" soundId="1211" subTitle="{@notify:4$$고대유물의 무기}" />
+    <Type id="5" title="{@notify:7$$제작승급달성}" uiId="2" btnStr="" shortCut="" soundId="2093" subTitle="" />
+    <Type id="6" title="{@notify:8$$발키온 정찰대}" uiId="3" btnStr="{@notify:10$$보상 확인}" shortCut="Event" soundId="2034" subTitle="{@notify:9$$지령서 수행 완료}" />
+    <Type id="7" title="{@notify:8$$발키온 정찰대}" uiId="3" btnStr="" shortCut="" soundId="2034" subTitle="{@notify:11$$미션 수행 완료}" />
+</NotifyMessageType>

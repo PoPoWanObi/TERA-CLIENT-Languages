@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="4">Ich habe keine Ahnung, was vor sich geht. Die Darmschlitzer und ihre Verbündeten waren noch nie zuvor so feindselig. Mir ist ja schon klar, dass wir nicht gerade eine Allianz gebildet haben, aber trotzdem ...&lt;BR&gt;&lt;BR&gt;Jetzt ist alles anders. Wir können nicht einfach so tatenlos herumsitzen und warten, bis sie uns niedermachen. Wir müssen etwas tun!&lt;BR&gt;&lt;BR&gt;Erledigt die {@LinkCreature:18#1#Wüstenfeuerdrescher} und {@LinkCreature:18#2#Wüstenfeuerschamanen}. Dann sprecht mit {@LinkCreature:218#1003#Kardelen} im Lager von Marrakeen, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Ihr seid die Darmschlitzer wirklich losgeworden? Das höre ich gern! Es wurde für mich auch langsam mal Zeit für eine Pause!&lt;BR&gt;&lt;BR&gt;Früher habe ich mich ja immer nur über Langeweile beschwert ... Also seid besser vorsichtig, was Ihr Euch so wünscht!</Page>
+    </Text>
+</QuestDialog>

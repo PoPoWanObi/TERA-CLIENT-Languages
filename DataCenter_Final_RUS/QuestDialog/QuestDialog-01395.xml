@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">Когда нашу летную платформу вывели из строя, нам пришлось сконструировать целую сеть импровизированных транспортных устройств. Без них мы бы и не посмели выйти из Канстрии.&lt;NEXTPAGEBUTTON&gt;"Как они работают?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Если честно, почти точно так же, как обыкновенные телепорты. Нам не хватило чистой магической силы, чтобы возвести полноценную телепортационную сеть, поэтому мы собрали эти платформы. Мы питаем их от осколков итериса, а их тут в округе полно. &lt;BR&gt;&lt;BR&gt;Кстати, почему бы тебе не обзавестись своим собственным? Я надеюсь, копать тебе не впервой.&lt;NEXTPAGEBUTTON&gt;"Можно и так сказать"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Превосходно. {@LinkCreature:249#1101}! Встретимся там.&lt;BR&gt;&lt;BR&gt;Удачи!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Хорошо. Вот и ты.&lt;BR&gt;&lt;BR&gt;К югу отсюда находится Илитьерский извлекатель маны. С его помощью аргоны выкачивают энергию из этих полей. Чтобы воспользоваться платформой, тебе сначала надо добыть осколок итериса ({@Collection:149}).&lt;BR&gt;&lt;BR&gt;Найди меня, когда обзаведешься своим осколком итериса.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">А теперь воспользуйся осколком, чтобы активировать платформу.&lt;BR&gt;&lt;BR&gt;Увидимся в Канстрии.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">Добыча осколков - дело непростое, но ты не сдавайся. У тебя получится.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">Отлично!&lt;BR&gt;&lt;BR&gt;Эти платформы помогают нам перехитрить аргонов. Ловко, а?</Page>
+    </Text>
+</QuestDialog>

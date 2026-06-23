@@ -1,0 +1,25 @@
+<FestivalSeason xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/FestivalSeason FestivalSeason.xsd" xmlns="https://vezel.dev/novadrop/dc/FestivalSeason">
+    <Festival id="1">
+        <AreaList>
+            <Area areaName="HEN_P" continentId="7015" newAreaName="HEN_P_FV" />
+        </AreaList>
+    </Festival>
+    <Festival id="2">
+        <AreaList />
+    </Festival>
+    <Festival id="3">
+        <AreaList>
+            <Area areaName="AEN_B_P" continentId="7004" newAreaName="AEN_B_P_FV" />
+        </AreaList>
+    </Festival>
+    <Festival id="4">
+        <AreaList>
+            <Area areaName="ASW_B_P" continentId="7003" newAreaName="ASW_B_P_FV" />
+        </AreaList>
+    </Festival>
+    <Festival id="5">
+        <AreaList>
+            <Area areaName="ANC_B_P" continentId="7001" newAreaName="ANC_B_P_FV" />
+        </AreaList>
+    </Festival>
+</FestivalSeason>

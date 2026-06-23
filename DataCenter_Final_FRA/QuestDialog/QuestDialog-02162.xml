@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="481" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1202">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1202">
+        <Page social="4">Félicitations, vous avez maintenant l'autorisation de vous rendre au Temple de la Témérité!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Commencez par vous rendre au Cœur de la Forge et adressez-vous à {@LinkCreature:84#1203#Ebir}.&lt;BR&gt;&lt;BR&gt;C'est un véritable honneur!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1203">
+        <Page social="4">C'est Kaia elle-même qui a conçu le Temple de la Témérité, véritable sanctuaire dédié à la combativité des Amanis. C'est un lieu exaltant.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous avez maintenant la possibilité d'y accéder et de vous faire une idée par vous-même. Ça vous tente?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

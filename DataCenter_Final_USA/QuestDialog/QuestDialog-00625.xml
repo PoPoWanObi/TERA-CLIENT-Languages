@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="4">Did you notice the weapons those {@LinkCreature:19#4000#Lokians} fight with? I'd love to get my hands on some.&lt;BR&gt;&lt;BR&gt;Say, if you went out and got me some I could send them to Velika high command, and they could duplicate them for federation soldiers.&lt;BR&gt;&lt;BR&gt;What do you say?"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Fantastic! I'll send these to Velika right away.&lt;BR&gt;&lt;BR&gt;Oh, just imagine it, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;...what? I happen to like new weapons. Mine are a bit grubby.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1004">
+        <Page social="0">You have a problem using the enemy's resources to grow stronger?&lt;BR&gt;&lt;BR&gt;I think it's the wisest move we could possibly make.</Page>
+    </Text>
+</QuestDialog>

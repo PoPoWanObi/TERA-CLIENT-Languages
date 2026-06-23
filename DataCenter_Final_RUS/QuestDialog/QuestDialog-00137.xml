@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Твоя задача - {@LinkCreature:5#4#Туванги-ездоки на лягушках}. Уничтожь их, чтобы древесные туванги у восточного входа в болото не атаковали нас по приказу Моонга.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="0">Отсутствие Туванги-ездоков на лягушках решает большую часть проблем.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">У нас не так много времени. Избавься от {@LinkCreature:5#4#Туванги-ездоков на лягушках} прямо сейчас!</Page>
+    </Text>
+</QuestDialog>

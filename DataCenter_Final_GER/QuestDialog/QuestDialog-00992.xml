@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="4">So kann es nicht weitergehen. {@LinkCreature:231#1023$$Ghauth} bringt Unruhe in die Truppe.&lt;BR&gt;&lt;BR&gt;Würdet Ihr bitte mit {@LinkCreature:231#1013$$Urwah} in der {@Rgn:31009$$Leuchtfeuergarnison} sprechen und Euch die neuesten Berichte über die Flotte geben lassen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Letzte Nacht hörte ich ein Nebelhorn in weiter Ferne. Ich bin mir sicher, dass es von einem Föderationsschiff stammte.&lt;BR&gt;&lt;BR&gt;Die Flotte müsste jetzt in Sichtweite sein.&lt;BR&gt;&lt;BR&gt;Es gibt einen &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7012#19245.8750,-104143.7813,34.8662&amp;type=1&amp;name=Aussichtspunkt"&gt;Aussichtspunkt&lt;/A&gt;&lt;/font&gt; an der Küste. Geht in Richtung Wasser und folgt der Küstenlinie zu Eurer Linken. Aber seid vorsichtig, dort kann es sehr tückisch sein!&lt;BR&gt;&lt;BR&gt;Von dort aus müsstet Ihr die Valkyon-Flotte bereits sehen können. Dann werden wir alle Gewissheit haben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1013">
+        <Page social="4">Was? Wirklich?&lt;BR&gt;&lt;BR&gt;Überhaupt nichts zu sehen von der Flotte? Das kann nicht sein. Ich bin mir sicher, dass ich dieses Horn gehört habe!&lt;BR&gt;&lt;BR&gt;Das ist schlimm. Was soll ich jetzt den anderen sagen?</Page>
+    </Text>
+</QuestDialog>

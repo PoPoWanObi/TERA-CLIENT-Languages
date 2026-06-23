@@ -1,0 +1,746 @@
+<StrSheet_Crest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Crest StrSheet_Crest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Crest">
+    <String id="21000" name="Flinke Ausweichrolle" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Ausweichrolle" />
+    <String id="21001" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="21002" name="Energetischer Tod von Oben" tooltip="Verringert die Abklingzeit um $value." skillName="Tod von Oben" />
+    <String id="21003" name="Test" tooltip="Kein Effekt" skillName="Verstümmeln" />
+    <String id="21004" name="Bedrohliche Komboattacke" tooltip="Erhöht die Aggro um $value." skillName="Komboattacke" />
+    <String id="21005" name="Bedrohlicher Wirbelschlag" tooltip="Erhöht die Aggro um $value." skillName="Wirbelschlag" />
+    <String id="21006" name="Kraftvoller Schlagregen" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Schlagregen" />
+    <String id="21007" name="Kraftvoller Sprungangriff" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sprungangriff" />
+    <String id="21008" name="Virulente Giftklinge" tooltip="Erhöht den Giftschaden um $value." skillName="Giftklinge" />
+    <String id="21009" name="Geerdete Defensivstellung" tooltip="Erhöht die Konstitution um $value." skillName="Defensivstellung" />
+    <String id="21010" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="21011" name="Einflussreicher Wirbelschlag" tooltip="Verringert den MP-Verbrauch von Schlagregen für einige Sekunden um 88." skillName="Wirbelschlag" />
+    <String id="21012" name="Einflussreiche Vergeltung" tooltip="Verringert den MP-Verbrauch für Sprungangriff für einige Sekunden um 75." skillName="Vergeltung" />
+    <String id="21013" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="21014" name="Flinker Tod von Oben" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Tod von Oben" />
+    <String id="21015" name="Beständige Ausweichrolle" tooltip="Verringert den Verbrauch der Entschlossenheit um 100." skillName="Ausweichrolle" />
+    <String id="21016" name="Energetischer Schlachtruf" tooltip="Verringert die Abklingzeit um $value." skillName="Schlachtruf" />
+    <String id="21017" name="Erneuender Schlagregen" tooltip="Stellt $value LP sofort wieder her." skillName="Schlagregen" />
+    <String id="21018" name="Heilkräftiger Kämpferischer Schlag" tooltip="Verringert den LP-Verbrauch um $value." skillName="Kämpferischer Schlag" />
+    <String id="21019" name="Kraftvoller Wirbelhieb" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Wirbelhieb" />
+    <String id="21020" name="Energetischer Angriffshieb" tooltip="Verringert die Abklingzeit um $value." skillName="Angriffshieb" />
+    <String id="21021" name="Test" tooltip="Kein Effekt" skillName="Kampfstellung" />
+    <String id="21022" name="Beständige Aufsteigende Wut" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Aufsteigende Wut" />
+    <String id="21023" name="Energetische Rauchprovokation" tooltip="Verringert die Abklingzeit um $value." skillName="Rauchprovokation" />
+    <String id="21024" name="Zerfleischendes Meucheln" tooltip="Erhöht die Effektdauer um $value." skillName="Meucheln" />
+    <String id="21025" name="Energetisches Tödliches Spiel" tooltip="Verringert die Abklingzeit um $value." skillName="Tödliches Spiel" />
+    <String id="21026" name="Kraftvoller Taumelgegenschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Taumelgegenschlag" />
+    <String id="21027" name="Brillante Betäubungskaskade" tooltip="Verringert den MP-Verbrauch um $value." skillName="Betäubungskaskade" />
+    <String id="21028" name="Kraftgebundener Kämpferischer Schlag" tooltip="Erhöht den Schaden von Aufsteigende Wut für einige Sekunden um 20%." skillName="Kämpferischer Schlag" />
+    <String id="21029" name="Einflussreicher Angriffshieb" tooltip="Verringert den MP-Verbrauch von Giftklinge für einige Sekunden um 50." skillName="Angriffshieb" />
+    <String id="21030" name="Einflussreiche Betäubungskaskade" tooltip="Verringert den MP-Verbrauch von Schlagregen für einige Sekunden um 88." skillName="Betäubungskaskade" />
+    <String id="21031" name="Kraftgebundene Betäubungskaskade" tooltip="Erhöht den Schaden von Schlagregen für einige Sekunden um 20%." skillName="Betäubungskaskade" />
+    <String id="21032" name="Energetische Betäubungskaskade" tooltip="Verringert die Abklingzeit um $value." skillName="Betäubungskaskade" />
+    <String id="21033" name="Benebelnde Aufsteigende Wut" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 7 Sek. lang um 15%." skillName="Aufsteigende Wut" />
+    <String id="21034" name="Bindender Wirbelschlag" tooltip="Macht das Ziel mit einer Wahrscheinlichkeit von $prob 4 Sek. lang bewegungsunfähig." skillName="Wirbelschlag" />
+    <String id="21035" name="Kraftgebundener Angriffshieb" tooltip="Erhöht den Schaden von Kämpferischer Schlag für einige Sekunden um 20%." skillName="Angriffshieb" />
+    <String id="21036" name="Energetisches Meucheln" tooltip="Verringert die Abklingzeit um $value." skillName="Meucheln" />
+    <String id="21037" name="Nachwirkender Taumelgegenschlag" tooltip="Erhöht die Effektdauer um $value." skillName="Taumelgegenschlag" />
+    <String id="21038" name="Energetischer Taumelgegenschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Taumelgegenschlag" />
+    <String id="21039" name="Zehrende Komboattacke" tooltip="Betäubt das Ziel mit einer Wahrscheinlichkeit von $prob 2 Sek. lang." skillName="Komboattacke" />
+    <String id="21040" name="Eiliger Schlachtruf" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Schlachtruf" />
+    <String id="21041" name="Glücklicher Schlachtruf" tooltip="Erhöht die Wahrscheinlichkeit des Effekts um $value." skillName="Schlachtruf" />
+    <String id="21042" name="Bedrohlicher Schlachtruf" tooltip="Erhöht die Aggro um $value." skillName="Schlachtruf" />
+    <String id="21043" name="Nachwirkender Kämpferischer Schlag" tooltip="Erhöht die Effektdauer um $value." skillName="Kämpferischer Schlag" />
+    <String id="21044" name="Kraftgebundener Kämpferischer Schlag" tooltip="Erhöht den Schaden von Sprungangriff für einige Sekunden um 35%." skillName="Kämpferischer Schlag" />
+    <String id="21045" name="Beständiger Wirbelhieb" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Wirbelhieb" />
+    <String id="21046" name="Erneuernde Ausweichrolle" tooltip="Stellt sofort 3% der Gesamt-LP wieder her, wenn Ihr mit Giftklinge trefft." skillName="Ausweichrolle" />
+    <String id="21047" name="Test" tooltip="Kein Effekt" skillName="Tod von Oben" />
+    <String id="21048" name="Flinker Satz" tooltip="Erhöht die Angriffsgeschwindigkeit mit Satz um $value." skillName="Satz" />
+    <String id="21049" name="Energetischer Satz" tooltip="Verringert die Abklingzeit um $value." skillName="Satz" />
+    <String id="21050" name="Nachwirkender Traversenschnitt" tooltip="Erhöht die Effektdauer um $value." skillName="Traversenschnitt" />
+    <String id="21051" name="Brillanter Traversenschnitt" tooltip="Verringert den MP-Verbrauch um $value." skillName="Traversenschnitt" />
+    <String id="21052" name="Kraftvoller Klingenreißer" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Klingenreißer" />
+    <String id="21053" name="Brillanter Klingenreißer" tooltip="Verringert den MP-Verbrauch um $value." skillName="Klingenreißer" />
+    <String id="21054" name="Beständiger Klingenreißer" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Klingenreißer" />
+    <String id="21064" name="Kraftvoller Schlagregen" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Schlagregen" />
+    <String id="21065" name="Energetischer Tod von Oben" tooltip="Verringert die Abklingzeit um $value." skillName="Tod von Oben" />
+    <String id="21066" name="Erneuender Schlagregen" tooltip="Stellt $value LP sofort wieder her." skillName="Schlagregen" />
+    <String id="21067" name="Beständige Ausweichrolle" tooltip="Verringert den Verbrauch der Entschlossenheit um 100." skillName="Ausweichrolle" />
+    <String id="21068" name="Geerdete Defensivstellung" tooltip="Erhöht die Konstitution um $value." skillName="Defensivstellung" />
+    <String id="21069" name="Heilkräftiger kämpferischer Schlag" tooltip="Verringert den LP-Verbrauch um $value." skillName="Kämpferischer Schlag" />
+    <String id="21070" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="21071" name="Energetische Rauchprovokation" tooltip="Verringert die Abklingzeit um $value." skillName="Rauchprovokation" />
+    <String id="21072" name="Kraftgebundener kämpferischer Schlag" tooltip="Erhöht den Schaden von Sprungangriff für einige Sekunden um 45%." skillName="Kämpferischer Schlag" />
+    <String id="21073" name="Kraftgebundener Angriffshieb" tooltip="Erhöht den Schaden von Kämpferischer Schlag für einige Sekunden um 50%." skillName="Angriffshieb" />
+    <String id="21074" name="Geerdeter Tod von Oben" tooltip="Erhöht die Konstitution 8 Sek. lang um 25." skillName="Tod von Oben" />
+    <String id="21075" name="Vorteilhaftes Meucheln" tooltip="Generiert $value zusätzlichen Furor." skillName="Meucheln" />
+    <String id="21076" name="Kraftvolle Betäubungskaskade" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Betäubungskaskade" />
+    <String id="21077" name="Nachwirkende Betäubungskaskade" tooltip="Erhöht die Effektdauer um $value." skillName="Betäubungskaskade" />
+    <String id="21078" name="Kraftgebundener Taumelgegenschlag" tooltip="Erhöht den Schaden von Betäubungskaskade für einige Sekunden um 10%." skillName="Taumelgegenschlag" />
+    <String id="21079" name="Schneidende Sense" tooltip="Verdoppelt den kritischen Trefferwert." skillName="Sense" />
+    <String id="21080" name="Geschärfte Sense" tooltip="Erhöht den zusätzlichen Schaden durch Furor um 25%." skillName="Sense" />
+    <String id="21081" name="Nachwirkendes Meucheln" tooltip="Erhöht die Effektdauer um $value." skillName="Meucheln" />
+    <String id="21082" name="Flinker Satz" tooltip="Erhöht die Angriffsgeschwindigkeit mit Satz um $value." skillName="Satz" />
+    <String id="21083" name="Kumulative Giftklinge" tooltip="Akkumuliert den Effekt von Giftklinge bis zu 2-mal." skillName="Giftklinge" />
+    <String id="21084" name="Vorteilhafter Klingenreißer" tooltip="Generiert pro Treffer $value zusätzlichen Furor." skillName="Klingenreißer" />
+    <String id="21085" name="Kraftvoller Sensenhieb" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sensenhieb" />
+    <String id="21086" name="Stimuliertes Kreuzparieren" tooltip="Erhöht die Kraft nach einer erfolgreichen Abwehr mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Kreuzparieren" />
+    <String id="21087" name="Bedrohliche Rauchflanke" tooltip="Erhöht die Aggro um $value." skillName="Rauchflanke" />
+    <String id="21088" name="Kraftvolles fesselndes Schwert" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Fesselndes Schwert" />
+    <String id="21089" name="Kraftvolles fesselndes Schwert" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Fesselndes Schwert" />
+    <String id="21090" name="Energetisches fesselndes Schwert" tooltip="Verringert die Abklingzeit um $value." skillName="Fesselndes Schwert" />
+    <String id="21091" name="Nachwirkendes tödliches Spiel" tooltip="Erhöht die Effektdauer um $value." skillName="Tödliches Spiel" />
+    <String id="21092" name="Energetisches fesselndes Schwert" tooltip="Verringert die Abklingzeit um $value." skillName="Fesselndes Schwert" />
+    <String id="22000" name="Stimuliertes Felsenfest" tooltip="Erhöht die Kraft nach einer erfolgreichen Abwehr mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Felsenfest" />
+    <String id="22001" name="Kraftgebundenes Felsenfest" tooltip="Erhöht den Schaden von Schildkonter für einige Sekunden um 25%." skillName="Felsenfest" />
+    <String id="22002" name="Einflussreiches Felsenfest" tooltip="Verringert den MP-Verbrauch von Schildkonter für einige Sekunden um 115." skillName="Felsenfest" />
+    <String id="22003" name="Bedrohliche Komboattacke" tooltip="Erhöht die Aggro um $value." skillName="Komboattacke" />
+    <String id="22004" name="Bedrohlicher Herausforderungsruf" tooltip="Erhöht die Aggro um $value." skillName="Herausforderungsruf" />
+    <String id="22005" name="Brillanter Herausforderungsruf" tooltip="Verringert den MP-Verbrauch um $value." skillName="Herausforderungsruf" />
+    <String id="22006" name="Verlangsamendes Erzürnen" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners 5 Sek. lang um 50%." skillName="Erzürnen" />
+    <String id="22007" name="Kraftvoller Ansturm" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Ansturm" />
+    <String id="22008" name="Test" tooltip="Kein Effekt" skillName="Schildkonter" />
+    <String id="22009" name="Widerhallender Schildschlag" tooltip="Erhöht die Effektdauer um $value." skillName="Schildschlag" />
+    <String id="22010" name="Brillanter Wächterruf" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wächterruf" />
+    <String id="22012" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="22013" name="Brillante Schildsperre" tooltip="Verringert den MP-Verbrauch um $value." skillName="Schildsperre" />
+    <String id="22015" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="22016" name="Antreibendes Schwächen" tooltip="Entfernt den MP-Verbrauch mit einer Wahrscheinlichkeit von $prob." skillName="Schwächen" />
+    <String id="22017" name="Energetisches Anleinen" tooltip="Verringert die Abklingzeit um $value." skillName="Anleinen" />
+    <String id="22018" name="Energetisches Erzürnen" tooltip="Verringert die Abklingzeit um $value." skillName="Erzürnen" />
+    <String id="22019" name="Energetischer Schildschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Schildschlag" />
+    <String id="22020" name="Kraftvoller Ausfallangriff" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Ausfallangriff" />
+    <String id="22021" name="Energetischer neuer Auftrieb" tooltip="Verringert die Abklingzeit um $value." skillName="Neuer Auftrieb" />
+    <String id="22022" name="Flinker Adrenalinstoß" tooltip="Erhöht die Angriffsgeschwindigkeit zusätzlich um $value." skillName="Adrenalinstoß" />
+    <String id="22023" name="Brillanter Federnder Angriff" tooltip="Verringert den MP-Verbrauch um $value." skillName="Federnder Angriff" />
+    <String id="22024" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="22025" name="Brillante Bedrohliche Welle" tooltip="Verringert den MP-Verbrauch um $value." skillName="Bedrohliche Welle" />
+    <String id="22026" name="Nachwirkender Eiserner Wille" tooltip="Erhöht die Effektdauer um $value." skillName="Eiserner Wille" />
+    <String id="22027" name="Beständige Meisterleine" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Meisterleine" />
+    <String id="22028" name="Kraftvoller lähmender Schlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Lähmender Schlag" />
+    <String id="22029" name="Energetisches Schutzversprechen" tooltip="Verringert die Abklingzeit um $value." skillName="Schutzversprechen" />
+    <String id="22030" name="Kraftvoller federnder Angriff" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Federnder Angriff" />
+    <String id="22031" name="Test" tooltip="Kein Effekt" skillName="Herausforderungsruf" />
+    <String id="22032" name="Brillanter Ansturm" tooltip="Verringert den MP-Verbrauch um $value." skillName="Ansturm" />
+    <String id="22033" name="Bedrohlicher Schildkonter" tooltip="Erhöht die Aggro um $value." skillName="Schildkonter" />
+    <String id="22034" name="Nachwirkendes Schwächen" tooltip="Erhöht die Effektdauer um $value." skillName="Schwächen" />
+    <String id="22035" name="Flammender Schildschlag" tooltip="Erhöht die Aufladegeschwindigkeit von Ansturm für einige Sekunden um 25%." skillName="Schildschlag" />
+    <String id="22036" name="Erneuerndes Schutzversprechen" tooltip="Erhöht die Menge der LP-Wiederherstellung des Zauberwirkenden 20 Sek. lang um 20%." skillName="Schutzversprechen" />
+    <String id="22037" name="Energetischer Wächterruf" tooltip="Verringert die Abklingzeit um $value." skillName="Wächterruf" />
+    <String id="22038" name="Nachwirkende bedrohliche Welle" tooltip="Erhöht die Effektdauer um $value." skillName="Bedrohliche Welle" />
+    <String id="22039" name="Energetischer Ausfallangriff" tooltip="Verringert die Abklingzeit um $value." skillName="Ausfallangriff" />
+    <String id="22040" name="Leichtfüßiger Ausfallangriff" tooltip="Beschleunigt die Bewegung während des Kampfes 7 Sek. lang um 10." skillName="Ausfallangriff" />
+    <String id="22041" name="Schützender Eiserner Wille" tooltip="Erhöht die Schadensabsorption um $value." skillName="Eiserner Wille" />
+    <String id="22042" name="Verlangsamender Lähmender Schlag" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners zusätzlich um $value." skillName="Lähmender Schlag" />
+    <String id="22043" name="Distanztreffendes Anleinen" tooltip="Erhöht die Reichweite um 3m." skillName="Anleinen" />
+    <String id="22044" name="Verlangsamendes Anleinen" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners 4 Sek. lang um 50%." skillName="Anleinen" />
+    <String id="22045" name="Widerhallender Schildschlag" tooltip="Erhöht die Effektdauer um $value." skillName="Schildschlag" />
+    <String id="22046" name="Energetischer Schildschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Schildschlag" />
+    <String id="22047" name="Energetisches Anleinen" tooltip="Verringert die Abklingzeit um $value." skillName="Anleinen" />
+    <String id="22048" name="Bedrohliche Komboattacke" tooltip="Erhöht die Aggro um $value." skillName="Komboattacke" />
+    <String id="22049" name="Brillanter Herausforderungsruf" tooltip="Verringert den MP-Verbrauch um $value." skillName="Herausforderungsruf" />
+    <String id="22050" name="Verlangsamender Lähmender Schlag" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners zusätzlich um $value." skillName="Lähmender Schlag" />
+    <String id="22051" name="Brillanter Ansturm" tooltip="Verringert den MP-Verbrauch um $value." skillName="Ansturm" />
+    <String id="22052" name="Energetischer Wächterruf" tooltip="Verringert die Abklingzeit um $value." skillName="Wächterruf" />
+    <String id="22053" name="Verlangsamendes Erzürnen" tooltip="Verringert die Geschwindigkeit des Gegners 5 Sek. lang um 50%." skillName="Erzürnen" />
+    <String id="22054" name="Benebelndes Anleinen" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners 4 Sek. lang um 40%." skillName="Anleinen" />
+    <String id="22055" name="Bedrohliches Anleinen" tooltip="Erhöht die Aggro um $value." skillName="Anleinen" />
+    <String id="22056" name="Eiliger Herausforderungsruf" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Herausforderungsruf" />
+    <String id="22057" name="Geerdeter Herausforderungsruf" tooltip="Erhöht nach einem erfolgreichen Treffer für 8 Sekunden die Konstitution um 21." skillName="Herausforderungsruf" />
+    <String id="22058" name="Schneidender Ansturm" tooltip="Verdoppelt die kritische Trefferrate." skillName="Ansturm" />
+    <String id="22059" name="Bedrohlicher lähmender Schlag" tooltip="Erhöht die Aggro um $value." skillName="Lähmender Schlag" />
+    <String id="22060" name="Energetisches Anketten" tooltip="Verringert die Abklingzeit um $value." skillName="Anketten" />
+    <String id="22061" name="Nachwirkendes Anketten" tooltip="Erhöht die Effektdauer um $value." skillName="Anketten" />
+    <String id="22062" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="22063" name="Bedrohlicher Schildkonter" tooltip="Erhöht die Aggro um $value." skillName="Schildkonter" />
+    <String id="22064" name="Bedrohliche Schildsperre" tooltip="Erhöht die Aggro um $value." skillName="Schildsperre" />
+    <String id="22065" name="Benebelnder federnder Angriff" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 7 Sek. lang um 30%." skillName="Federnder Angriff" />
+    <String id="22066" name="Kraftvoller Rammbock" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Rammbock" />
+    <String id="22067" name="Energetischer Rückschritt" tooltip="Verringert die Abklingzeit um $value." skillName="Rückschritt" />
+    <String id="22068" name="Beherzter Herausforderungsruf" tooltip="Erhöht die Regeneration von Entschlossenheit um $value." skillName="Herausforderungsruf" />
+    <String id="22069" name="Beherzter Schildkonter" tooltip="Erhöht die Regeneration von Entschlossenheit um $value." skillName="Schildkonter" />
+    <String id="22070" name="Beherzter neuer Auftrieb" tooltip="Stellt 20% mehr Entschlossenheit wieder her." skillName="Neuer Auftrieb" />
+    <String id="22071" name="Bekräftigtes Felsenfest" tooltip="Erhöht die maximale Entschlossenheit um $value." skillName="Felsenfest" />
+    <String id="22072" name="Energetischer Kriegsruf" tooltip="Verringert die Abklingzeit um $value." skillName="Frontverteidigung" />
+    <String id="22073" name="Nachwirkender Kriegsruf" tooltip="Erhöht die Effektdauer um $value." skillName="Frontverteidigung" />
+    <String id="22074" name="Brillanter Kriegsruf" tooltip="Verringert den MP-Verbrauch um $value." skillName="Frontverteidigung" />
+    <String id="22075" name="Bedrohlicher Kriegsruf" tooltip="Erhöht die Aggro um $value." skillName="Frontverteidigung" />
+    <String id="22076" name="Bedrohlicher Kriegsruf" tooltip="Erhöht die Aggro um $value." skillName="Frontverteidigung" />
+    <String id="22077" name="Nachwirkender Kriegsruf" tooltip="Erhöht die Effektdauer um $value." skillName="Frontverteidigung" />
+    <String id="22078" name="Energetischer Kriegsruf" tooltip="Verringert die Abklingzeit um $value." skillName="Frontverteidigung" />
+    <String id="23000" name="Leichtfüßige Ausweichrolle" tooltip="Erhöht die Bewegungsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Ausweichrolle" />
+    <String id="23001" name="Flinke Komboattacke" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Komboattacke" />
+    <String id="23002" name="Kraftvolle Komboattacke" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Komboattacke" />
+    <String id="23003" name="Brillanter Kraftschub" tooltip="Verringert den MP-Verbrauch um $value." skillName="Kraftschub" />
+    <String id="23004" name="Kraftvolles Niederstrecken" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Niederstrecken" />
+    <String id="23005" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="23007" name="Kraftgebundenes Niederstrecken" tooltip="Erhöht den Schaden von Wirbelwind für einige Sekunden um 25%." skillName="Niederstrecken" />
+    <String id="23008" name="Kraftgebundene Vergeltung" tooltip="Erhöht den Schaden von Sprungangriff für einige Sekunden um 25%." skillName="Vergeltung" />
+    <String id="23009" name="Beständiger Überhandschlag" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Überhandschlag" />
+    <String id="23010" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="23011" name="Geistvoller Triumphschrei" tooltip="Erhöht die MP-Regeneration um $value." skillName="Triumphschrei" />
+    <String id="23012" name="Brillanter Wirbelwind" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wirbelwind" />
+    <String id="23013" name="Energetische Eile" tooltip="Verringert die Abklingzeit um $value." skillName="Eile" />
+    <String id="23014" name="Energetisches Meucheln" tooltip="Verringert die Abklingzeit um $value." skillName="Meucheln" />
+    <String id="23015" name="Energetischer Triumphschrei" tooltip="Verringert die Abklingzeit um $value." skillName="Triumphschrei" />
+    <String id="23016" name="Kraftvoller Stoß ins Herz" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Stoß ins Herz" />
+    <String id="23017" name="Kraftvoller Wutschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Wutschlag" />
+    <String id="23018" name="Kraftvolle betäubende Rückhand" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Betäubende Rückhand" />
+    <String id="23019" name="Energetisches Vorpreschen" tooltip="Verringert die Abklingzeit um $value." skillName="Vorpreschen" />
+    <String id="23020" name="Brillanter Sprungangriff" tooltip="Verringert den MP-Verbrauch um $value." skillName="Sprungangriff" />
+    <String id="23021" name="Brillante Distanzklinge" tooltip="Verringert den MP-Verbrauch um $value." skillName="Distanzklinge" />
+    <String id="23022" name="Brillanter Schreckenstritt" tooltip="Verringert den MP-Verbrauch um $value." skillName="Schreckenstritt" />
+    <String id="23023" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="23024" name="Erneuernder Überhandschlag" tooltip="Stellt $value LP sofort wieder her." skillName="Überhandschlag" />
+    <String id="23025" name="Energetische Beharrlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Beharrlichkeit" />
+    <String id="23026" name="Kraftvoller Ermüdungsschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Ermüdungsschlag" />
+    <String id="23027" name="Brillante Kaltblütigkeit" tooltip="Verringert den MP-Verbrauch um $value." skillName="Kaltblütigkeit" />
+    <String id="23028" name="Beständiger Stoß ins Herz" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Stoß ins Herz" />
+    <String id="23029" name="Geerdeter Triumphschrei" tooltip="Erhöht die Konstitution 10 Sek. lang um 20%." skillName="Triumphschrei" />
+    <String id="23030" name="Flammendes Meucheln" tooltip="Erhöht die Aufladegeschwindigkeit von Stoß ins Herz für einige Sekunden um 25%." skillName="Meucheln" />
+    <String id="23031" name="Flammendes Meucheln" tooltip="Erhöht die Aufladegeschwindigkeit von Niederstrecken für einige Sekunden um 25%." skillName="Meucheln" />
+    <String id="23032" name="Flammender Wutschlag" tooltip="Erhöht die Aufladegeschwindigkeit von Wirbelwind für einige Sekunden um 25%." skillName="Wutschlag" />
+    <String id="23033" name="Erneuernder Wutschlag" tooltip="Stellt sofort 4% der Gesamt-LP wieder her, wenn Ihr nachfolgend mit Betäubende Rückhand angreift." skillName="Wutschlag" />
+    <String id="23034" name="Energetischer Ermüdungsschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Ermüdungsschlag" />
+    <String id="23035" name="Benebelnde Distanzklinge" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 5 Sek. lang um 15%." skillName="Distanzklinge" />
+    <String id="23036" name="Balancierende Beharrlichkeit" tooltip="Erhöht das Gleichgewicht 15 Sek. lang um 50%." skillName="Beharrlichkeit" />
+    <String id="23037" name="Flammende Kaltblütigkeit" tooltip="Erhöht die Aufladegeschwindigkeit von Stoß ins Herz für einige Sekunden um 25%." skillName="Kaltblütigkeit" />
+    <String id="23038" name="Beständige Ausweichrolle" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Ausweichrolle" />
+    <String id="23039" name="Kraftgebundene Ausweichrolle" tooltip="Erhöht den Schaden von Wutschlag für einige Sekunden um 25%." skillName="Ausweichrolle" />
+    <String id="23040" name="Kraftgebundenes Niederstrecken" tooltip="Erhöht den Schaden von Überhandschlag für einige Sekunden um 20%." skillName="Niederstrecken" />
+    <String id="23041" name="Starkes Niederstrecken" tooltip="Erhöht die Wahrscheinlichkeit von Niederschlagen und Taumeln um $value." skillName="Niederstrecken" />
+    <String id="23042" name="Nachwirkender Schreckenstritt" tooltip="Erhöht die Effektdauer um $value." skillName="Schreckenstritt" />
+    <String id="23043" name="Flammender Schreckenstritt" tooltip="Erhöht die Aufladegeschwindigkeit von Stoß ins Herz für einige Sekunden um 25%." skillName="Schreckenstritt" />
+    <String id="23044" name="Flammender Schreckenstritt" tooltip="Erhöht die Aufladegeschwindigkeit von Niederstrecken für einige Sekunden um 25%." skillName="Schreckenstritt" />
+    <String id="23046" name="Beständiger Überhandschlag" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Überhandschlag" />
+    <String id="23047" name="Kraftvolles Niederstrecken" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Niederstrecken" />
+    <String id="23048" name="Kraftvolle betäubende Rückhand" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Betäubende Rückhand" />
+    <String id="23049" name="Erneuernder Überhandschlag" tooltip="Stellt $value LP sofort wieder her." skillName="Überhandschlag" />
+    <String id="23050" name="Flinke Komboattacke" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Komboattacke" />
+    <String id="23051" name="Energetischer Ermüdungsschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Ermüdungsschlag" />
+    <String id="23052" name="Balancierende Beharrlichkeit" tooltip="Verdoppelt das Gleichgewicht 15 Sek. lang." skillName="Beharrlichkeit" />
+    <String id="23053" name="Energetische Beharrlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Beharrlichkeit" />
+    <String id="23054" name="Flammendes Meucheln" tooltip="Erhöht die Aufladegeschwindigkeit von Stoß ins Herz für einige Sekunden um 35%." skillName="Meucheln" />
+    <String id="23055" name="Schneidender Wirbelwind" tooltip="Verdreifacht die kritische Trefferrate." skillName="Wirbelwind" />
+    <String id="23056" name="Kraftgebundene Ausweichrolle" tooltip="Erhöht den Schaden von Meucheln für einige Sekunden um 25%." skillName="Ausweichrolle" />
+    <String id="23057" name="Schneidender Stoß ins Herz" tooltip="Verdreifacht den kritischen Trefferwert." skillName="Stoß ins Herz" />
+    <String id="23058" name="Schneidender Kraftschub" tooltip="Verdoppelt den kritischen Trefferwert für den folgenden Angriff." skillName="Kraftschub" />
+    <String id="23059" name="Kraftvoller Kraftschub" tooltip="Erhöht den Fertigkeitsschaden des nächsten Angriffes um 10%." skillName="Kraftschub" />
+    <String id="23060" name="Flinker Schreckenstritt" tooltip="Erhöht die Angriffsgeschwindigkeit mit Schreckenstritt um $value." skillName="Schreckenstritt" />
+    <String id="23061" name="Schneidender Maßschnitt" tooltip="Verdoppelt den kritischen Trefferwert." skillName="Maßschnitt" />
+    <String id="23062" name="Kraftvoller Maßschnitt" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Maßschnitt" />
+    <String id="23063" name="Kraftvoller Wutschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Wutschlag" />
+    <String id="23064" name="Energetisches Meucheln" tooltip="Verringert die Abklingzeit um $value." skillName="Meucheln" />
+    <String id="23065" name="Benebelnde Distanzklinge" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 5 Sek. lang um 15%." skillName="Distanzklinge" />
+    <String id="23066" name="Stärkegebundenes Vorpreschen" tooltip="Erhöht den Schaden von Niederstrecken für einige Sekunden um 25%." skillName="Vorpreschen" />
+    <String id="23067" name="Kraftvolle Vernichtung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vernichtung" />
+    <String id="23068" name="Kraftvolle Vernichtung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vernichtung" />
+    <String id="23069" name="Kraftgebundener Überhandschlag" tooltip="Erhöht den Schaden von Überhandschlag für einige Sekunden um 25%." skillName="Vernichtung" />
+    <String id="23070" name="Energetische Vernichtung" tooltip="Verringert die Abklingzeit um $value." skillName="Vernichtung" />
+    <String id="23071" name="Kraftgebundene Vernichtung" tooltip="Erhöht den Schaden von Maßschnitt für einige Sekunden um 25%." skillName="Vernichtung" />
+    <String id="23072" name="Geistvolle Beharrlichkeit" tooltip="Stellt mit einer Wahrscheinlichkeit von $prob immer nach 1 Sek. 6% Eurer Gesamt-MP wieder her." skillName="Beharrlichkeit" />
+    <String id="24000" name="Geistreicher Axtblock" tooltip="Stellt 3% der MP nach einer erfolgreichen Abwehr wieder her." skillName="Axtblock" />
+    <String id="24001" name="Stimulierter Axtblock" tooltip="Erhöht die Kraft nach einer erfolgreichen Abwehr mit einer Wahrscheinlichkeit von $prob 5 Sek. lang um 20%." skillName="Axtblock" />
+    <String id="24002" name="Schneidender Donnerschlag" tooltip="Verdoppelt die Chance auf kritische Treffer." skillName="Donnerschlag" />
+    <String id="24003" name="Schneidender Zyklon" tooltip="Verdoppelt die kritische Trefferrate." skillName="Zyklon" />
+    <String id="24004" name="Schneidende Komboattacke" tooltip="Erhöht die Chance auf kritische Treffer um 10%." skillName="Komboattacke" />
+    <String id="24005" name="Glatter Donnerschlag" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Donnerschlag" />
+    <String id="24006" name="Kraftvoller Zyklon" tooltip="Erhöht den zusätzlichen Überladungsschaden um $value." skillName="Zyklon" />
+    <String id="24007" name="Heilkräftiger Donnerschlag" tooltip="Verringert den LP-Verbrauch bei Überladung um $value." skillName="Donnerschlag" />
+    <String id="24008" name="Flinkes Plätten" tooltip="Erhöht die Angriffsgeschwindigkeit mit Plätten um $value." skillName="Plätten" />
+    <String id="24009" name="Eiliger Zyklon" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Zyklon" />
+    <String id="24010" name="Eiliger Spottruf" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Spottruf" />
+    <String id="24011" name="Stimulierte Wilde Raserei" tooltip="Erhöht die Kraft mit einer Wahrscheinlichkeit von $prob 20 Sek. lang um 10%." skillName="Wilde Raserei" />
+    <String id="24012" name="Einflussreicher Taumelschlag" tooltip="Verringert den MP-Verbrauch von Plätten für einige Sekunden um 63." skillName="Taumelschlag" />
+    <String id="24013" name="Kraftvolles Plätten" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Plätten" />
+    <String id="24015" name="Geistvolle Komboattacke" tooltip="Erhöht die MP-Regeneration um $value." skillName="Komboattacke" />
+    <String id="24016" name="Geistvoller Triumphschrei" tooltip="Erhöht die MP-Regeneration um $value." skillName="Triumphschrei" />
+    <String id="24017" name="Heilkräftige Entfesselte Wut" tooltip="Verringert den LP-Verbrauch um $value." skillName="Entfesselte Wut" />
+    <String id="24018" name="Energetische Eile" tooltip="Verringert die Abklingzeit um $value." skillName="Eile" />
+    <String id="24019" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="24020" name="Energetischer Taumelschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Taumelschlag" />
+    <String id="24021" name="Kraftvoller Sprungangriff" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sprungangriff" />
+    <String id="24022" name="Kraftvoller Vampirschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vampirschlag" />
+    <String id="24023" name="Nachwirkendes Schlaggewitter" tooltip="Erhöht die Effektdauer um $value." skillName="Schlaggewitter" />
+    <String id="24024" name="Test" tooltip="Kein Effekt" skillName="Furchterregender Schrei" />
+    <String id="24026" name="Energetischer Triumphschrei" tooltip="Verringert die Abklingzeit um $value." skillName="Triumphschrei" />
+    <String id="24027" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="24028" name="Brillanter Blutdurst" tooltip="Verringert den MP-Verbrauch um $value." skillName="Blutdurst" />
+    <String id="24029" name="Energetische Beharrlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Beharrlichkeit" />
+    <String id="24030" name="Energetischer Unvermeidlicher Untergang" tooltip="Verringert die Abklingzeit um $value." skillName="Unvermeidlicher Untergang" />
+    <String id="24031" name="Einflussreicher Triumphschrei" tooltip="Verringert den MP-Verbrauch von Eile für einige Sekunden um 75." skillName="Triumphschrei" />
+    <String id="24032" name="Kraftvoller tödlicher Schlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Tödlicher Schlag" />
+    <String id="24033" name="Einflussreicher Unvermeidlicher Untergang" tooltip="Verringert den MP-Verbrauch von Plätten für einige Sekunden um 63." skillName="Unvermeidlicher Untergang" />
+    <String id="24034" name="Test" tooltip="Kein Effekt" skillName="Spottruf" />
+    <String id="24035" name="Kraftgebundener Spottruf" tooltip="Erhöht den Schaden von Taumelschlag für einige Sekunden um 25%." skillName="Spottruf" />
+    <String id="24036" name="Starke entfesselte Wut" tooltip="Erhöht Niederschlagen 20 Sek. lang um 10%." skillName="Entfesselte Wut" />
+    <String id="24037" name="Rasende Entfesselte Wut" tooltip="Aktiviert Schlaggewitter I mit einer Wahrscheinlichkeit von $prob." skillName="Entfesselte Wut" />
+    <String id="24038" name="Leichtfüßige Wilde Raserei" tooltip="Erhöht die Bewegungsgeschwindigkeit im Kampf 15 Sek. lang um 20." skillName="Wilde Raserei" />
+    <String id="24039" name="Kraftgebundener Furchterregender Schrei" tooltip="Erhöht den Schaden von Taumelschlag für einige Sekunden um 25%." skillName="Furchterregender Schrei" />
+    <String id="24040" name="Beständiger Sprungangriff" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Sprungangriff" />
+    <String id="24041" name="Nachwirkender unvermeidlicher Untergang" tooltip="Erhöht die Effektdauer um $value." skillName="Unvermeidlicher Untergang" />
+    <String id="24042" name="Flammender Unvermeidlicher Untergang" tooltip="Erhöht die Aufladegeschwindigkeit von Plätten für einige Sekunden um 25%." skillName="Unvermeidlicher Untergang" />
+    <String id="24043" name="Test" tooltip="Kein Effekt" skillName="Unvermeidlicher Untergang" />
+    <String id="24044" name="Balancierende Beharrlichkeit" tooltip="Erhöht das Gleichgewicht 15 Sek. lang um 50%." skillName="Beharrlichkeit" />
+    <String id="24045" name="Glatter Tödlicher Schlag" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Tödlicher Schlag" />
+    <String id="24046" name="Flammender Sprungangriff" tooltip="Erhöht die Aufladegeschwindigkeit von Tödlicher Schlag für einige Sekunden um 30%." skillName="Sprungangriff" />
+    <String id="24047" name="Flammender Taumelschlag" tooltip="Erhöht die Aufladegeschwindigkeit von Donnerschlag für einige Sekunden um 30%." skillName="Taumelschlag" />
+    <String id="24048" name="Schneidender Donnerschlag" tooltip="Verdoppelt die Chance auf kritische Treffer." skillName="Donnerschlag" />
+    <String id="24049" name="Glatter Donnerschlag" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Donnerschlag" />
+    <String id="24050" name="Flinkes Plätten" tooltip="Erhöht die Angriffsgeschwindigkeit mit Plätten um $value." skillName="Plätten" />
+    <String id="24051" name="Heilkräftiger Donnerschlag" tooltip="Verringert den LP-Verbrauch um $value." skillName="Donnerschlag" />
+    <String id="24052" name="Eiliger Zyklon" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Zyklon" />
+    <String id="24053" name="Kraftvolles Plätten" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Plätten" />
+    <String id="24054" name="Balancierende Beharrlichkeit" tooltip="Verdoppelt das Gleichgewicht 15 Sek. lang." skillName="Beharrlichkeit" />
+    <String id="24055" name="Eiliger Spottruf" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Spottruf" />
+    <String id="24056" name="Flammender unvermeidlicher Untergang" tooltip="Erhöht die Aufladegeschwindigkeit von Plätten für einige Sekunden um 30%." skillName="Unvermeidlicher Untergang" />
+    <String id="24057" name="Geerdeter Triumphschrei" tooltip="Erhöht die Konstitution 12 Sek. lang um 16." skillName="Triumphschrei" />
+    <String id="24058" name="Beständige Eile" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Eile" />
+    <String id="24059" name="Schneidender Sprungangriff" tooltip="Verdoppelt die kritische Trefferrate." skillName="Sprungangriff" />
+    <String id="24060" name="Erneuende Beharrlichkeit" tooltip="Stellt sofort $value Eurer Gesamt-LP wieder her." skillName="Beharrlichkeit" />
+    <String id="24061" name="Geistvolle Beharrlichkeit" tooltip="Stellt mit einer Wahrscheinlichkeit von $prob immer nach 1 Sek. 6% Eurer Gesamt-MP wieder her." skillName="Beharrlichkeit" />
+    <String id="24062" name="Wütende Vergeltung" tooltip="Je tiefer Eure LP sinken, desto mehr erhöht sich Euer Schaden (bis zu 4-mal)." skillName="Vergeltung" />
+    <String id="24063" name="Kraftvoller ausweichender Schmetterschlag" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Ausweichender Schmetterschlag" />
+    <String id="24064" name="Schneidender ausweichender Schmetterschlag" tooltip="Verdoppelt die kritische Trefferrate." skillName="Ausweichender Schmetterschlag" />
+    <String id="24065" name="Geistreicher Axtblock" tooltip="Stellt 3% der MP nach einer erfolgreichen Abwehr wieder her." skillName="Axtblock" />
+    <String id="24066" name="Schneidender Zyklon" tooltip="Verdoppelt die kritische Trefferrate." skillName="Zyklon" />
+    <String id="24067" name="Flinker Donnerschlag" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Donnerschlag" />
+    <String id="24068" name="Beständiger Taumelschlag" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Taumelschlag" />
+    <String id="24069" name="Energetische Unverwüstlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Unverwüstlichkeit" />
+    <String id="24070" name="Energetische Unverwüstlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Unverwüstlichkeit" />
+    <String id="24071" name="Nachwirkende Unverwüstlichkeit" tooltip="Erhöht die Effektdauer um $value." skillName="Unverwüstlichkeit" />
+    <String id="24072" name="Flammender Donnerschlag" tooltip="Erhöht die Aufladegeschwindigkeit von Donnerschlag für einige Sekunden um 25%." skillName="Donnernder Vorstoß" />
+    <String id="24073" name="Geistvoller donnernder Vorstoß" tooltip="Erhöht die MP-Regeneration um $value." skillName="Donnernder Vorstoß" />
+    <String id="24074" name="Energetischer donnernder Vorstoß" tooltip="Verringert die Abklingzeit um $value." skillName="Donnernder Vorstoß" />
+    <String id="24075" name="Brillanter niederreißender Schlag" tooltip="Verringert den MP-Verbrauch um $value." skillName="Niederreißender Schlag" />
+    <String id="24076" name="Leichtfüßiger niederreißender Schlag" tooltip="Erhöht die Bewegungsgeschwindigkeit im Kampf 15 Sek. lang um 20." skillName="Niederreißender Schlag" />
+    <String id="24077" name="Schneidender niederreißender Schlag" tooltip="Verdoppelt die Chance auf einen kritischen Treffer." skillName="Niederreißender Schlag" />
+    <String id="24078" name="Flinker donnernder Vorstoß" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Donnernder Vorstoß" />
+    <String id="25000" name="Distanztreffender Feuerball" tooltip="Erhöht die Reichweite um 3m." skillName="Feuerball" />
+    <String id="25001" name="Empörter Rückschritt" tooltip="Löst Konzentrieren mit einer Wahrscheinlichkeit von $prob aus." skillName="Rückschritt" />
+    <String id="25003" name="Eiliger Feuerstoß" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Feuerstoß" />
+    <String id="25004" name="Stimulierte Manabarriere" tooltip="Erhöht den Fertigkeitsschaden 15 Sek. lang um 10%." skillName="Manabarriere" />
+    <String id="25005" name="Geerdete Manabarriere" tooltip="Erhöht die Konstitution 15 Sek. lang um 20%." skillName="Manabarriere" />
+    <String id="25006" name="Kraftgebundene Blitzringfalle" tooltip="Erhöht den Schaden von Feuerstoß für einige Sekunden um 20%." skillName="Blitzringfalle" />
+    <String id="25009" name="Geistvolle Manainfusion" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manainfusion" />
+    <String id="25010" name="Energetisches Konzentrieren" tooltip="Verringert die Abklingzeit um $value." skillName="Konzentrieren" />
+    <String id="25011" name="Energetische Manabarriere" tooltip="Verringert die Abklingzeit um $value." skillName="Manabarriere" />
+    <String id="25012" name="Energetischer Vakuumimpuls" tooltip="Verringert die Abklingzeit um $value." skillName="Vakuumimpuls" />
+    <String id="25013" name="Energetische Eisnadel" tooltip="Verringert die Abklingzeit um $value." skillName="Eisnadel" />
+    <String id="25014" name="Brillante Blitzringfalle" tooltip="Verringert den MP-Verbrauch um $value." skillName="Blitzringfalle" />
+    <String id="25015" name="Brillanter Vakuumimpuls" tooltip="Verringert den MP-Verbrauch um $value." skillName="Vakuumimpuls" />
+    <String id="25016" name="Kraftvoller arkaner Impuls" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Arkaner Impuls" />
+    <String id="25017" name="Brillanter Feuerstoß" tooltip="Verringert den MP-Verbrauch um $value." skillName="Feuerstoß" />
+    <String id="25018" name="Nachwirkende Schmerzexplosion" tooltip="Erhöht die Effektdauer um $value." skillName="Schmerzexplosion" />
+    <String id="25019" name="Kraftvolle Flammensäule" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Flammensäule" />
+    <String id="25021" name="Unbrauchbare Glyphenscherbe" tooltip="Diese alte, zersplitterte Glyphe wird nicht mehr verwendet." skillName="Manaextraktion" />
+    <String id="25022" name="Nachwirkende Geistesexplosion" tooltip="Erhöht die Effektdauer um $value." skillName="Geistesexplosion" />
+    <String id="25023" name="Geistvolle Manaabschöpfung" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manaabschöpfung" />
+    <String id="25025" name="Brillante Sperrfeuer" tooltip="Verringert den MP-Verbrauch um $value." skillName="Sperrfeuer" />
+    <String id="25026" name="Brillante Magmabombe" tooltip="Verringert den MP-Verbrauch um $value." skillName="Magmabombe" />
+    <String id="25027" name="Brillante Schmerzensfalle" tooltip="Verringert den MP-Verbrauch um $value." skillName="Schmerzensfalle" />
+    <String id="25028" name="Nachwirkender Frostiger Rückzug" tooltip="Erhöht die Effektdauer um $value." skillName="Frostiger Rückzug" />
+    <String id="25029" name="Kraftgebundener Arkaner Impuls" tooltip="Erhöht den Schaden von Eisnadel für einige Sekunden um 25%." skillName="Arkaner Impuls" />
+    <String id="25030" name="Einflussreiche Schmerzensfalle" tooltip="Verringert den MP-Verbrauch von Flammensäule für einige Sekunden um 80." skillName="Schmerzensfalle" />
+    <String id="25031" name="Empörter Frostiger Rückzug" tooltip="Löst Konzentrieren mit einer Wahrscheinlichkeit von $prob aus." skillName="Frostiger Rückzug" />
+    <String id="25032" name="Empörte Manaabschöpfung" tooltip="Löst Konzentrieren mit einer Wahrscheinlichkeit von $prob aus." skillName="Manaabschöpfung" />
+    <String id="25033" name="Energetischer Zeitwirbel" tooltip="Verringert die Abklingzeit um $value." skillName="Zeitwirbel" />
+    <String id="25034" name="Nachwirkender Feueratem" tooltip="Erhöht die Effektdauer um $value." skillName="Feueratem" />
+    <String id="25035" name="Flinker Flinkheitsschub" tooltip="Erhöht die Angriffsgeschwindigkeit zusätzlich um $value." skillName="Flinkheitsschub" />
+    <String id="25036" name="Energetische Nervöse Erschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Nervöse Erschöpfung" />
+    <String id="25037" name="Nachwirkende Manasalve" tooltip="Erhöht die Effektdauer um $value." skillName="Manasalve" />
+    <String id="25038" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="25039" name="Abschirmende Vergeltung" tooltip="Aktiviert Manabarriere II mit einer Wahrscheinlichkeit von $prob." skillName="Vergeltung" />
+    <String id="25040" name="Energetische Manaabschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Manaabschöpfung" />
+    <String id="25041" name="Nachwirkende Manabarriere" tooltip="Erhöht die Effektdauer um $value." skillName="Manabarriere" />
+    <String id="25042" name="Flammende Manaabschöpfung" tooltip="Erhöht die Aufladegeschwindigkeit von Sperrfeuer für einige Sekunden um 25%." skillName="Manaabschöpfung" />
+    <String id="25043" name="Flammende Blitzringfalle" tooltip="Erhöht die Aufladegeschwindigkeit von Flammensäule für einige Sekunden um 25%." skillName="Blitzringfalle" />
+    <String id="25044" name="Kraftgebundener Feueratem" tooltip="Erhöht den Schaden von Sperrfeuer für einige Sekunden um 35%." skillName="Feueratem" />
+    <String id="25045" name="Flammender Frostiger Rückzug" tooltip="Erhöht die Aufladegeschwindigkeit von Blitzringfalle für einige Sekunden um 40%." skillName="Frostiger Rückzug" />
+    <String id="25046" name="Vielfacher Zeitwirbel" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Zeitwirbel" />
+    <String id="25047" name="Flammender Zeitwirbel" tooltip="Erhöht die Aufladegeschwindigkeit von Feuerstoß für einige Sekunden um 25%." skillName="Zeitwirbel" />
+    <String id="25048" name="Eilige Geistesexplosion" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Geistesexplosion" />
+    <String id="25049" name="Beständige Geistesexplosion" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Geistesexplosion" />
+    <String id="25050" name="Nachwirkende Eisnadel" tooltip="Erhöht die Effektdauer um $value." skillName="Eisnadel" />
+    <String id="25051" name="Verlangsamende Eisnadel" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners zusätzlich um $value." skillName="Eisnadel" />
+    <String id="25052" name="Flammende Eisnadel" tooltip="Erhöht die Aufladegeschwindigkeit von Geistesexplosion für einige Sekunden um 40%." skillName="Eisnadel" />
+    <String id="25053" name="Blühende Schmerzexplosion" tooltip="Erhöht den Intervallschaden um $value." skillName="Schmerzexplosion" />
+    <String id="25054" name="Verlangsamende Schmerzexplosion" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 7 Sek. lang um 50%." skillName="Schmerzexplosion" />
+    <String id="25055" name="Antreibender Feuerstoß" tooltip="Entfernt den MP-Verbrauch mit einer Wahrscheinlichkeit von $prob." skillName="Feuerstoß" />
+    <String id="25056" name="Vielfache Sperrfeuer" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Sperrfeuer" />
+    <String id="25057" name="Test" tooltip="Kein Effekt" skillName="Arkaner Impuls" />
+    <String id="25058" name="Beständige Magmabombe" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Magmabombe" />
+    <String id="25059" name="Flammende Flammensäule" tooltip="Erhöht die Aufladegeschwindigkeit von Blitzringfalle für einige Sekunden um 40%." skillName="Flammensäule" />
+    <String id="25060" name="Geteilte Geistesexplosion" tooltip="Erhöht die Wahrscheinlichkeit einer Schwächung des Gegners um 30%, wenn mehrere Ziele getroffen werden." skillName="Geistesexplosion" />
+    <String id="25061" name="Energetischer Feuerstoß" tooltip="Verringert die Abklingzeit um $value." skillName="Feuerstoß" />
+    <String id="25062" name="Flammender Frostiger Rückzug" tooltip="Erhöht die Aufladegeschwindigkeit von Arkaner Impuls für einige Sekunden um 30%." skillName="Frostiger Rückzug" />
+    <String id="25063" name="Energetischer Teleportsprung" tooltip="Verringert die Abklingzeit um $value." skillName="Teleportsprung" />
+    <String id="25064" name="Energetische Flammensäule" tooltip="Verringert die Abklingzeit um $value." skillName="Flammensäule" />
+    <String id="25065" name="Energetischer Hagelsturm" tooltip="Verringert die Abklingzeit um $value." skillName="Hagelsturm" />
+    <String id="25066" name="Brillanter Hagelsturm" tooltip="Verringert den MP-Verbrauch um $value." skillName="Hagelsturm" />
+    <String id="25068" name="Flinker Flinkheitsschub" tooltip="Erhöht die Angriffsgeschwindigkeit zusätzlich um $value." skillName="Flinkheitsschub" />
+    <String id="25069" name="Eiliger Feuerstoß" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Feuerstoß" />
+    <String id="25070" name="Energetischer Feuerstoß" tooltip="Verringert die Abklingzeit um $value." skillName="Feuerstoß" />
+    <String id="25071" name="Kraftgebundene Blitzringfalle" tooltip="Erhöht den Schaden von Feuerstoß für einige Sekunden um 20%." skillName="Blitzringfalle" />
+    <String id="25072" name="Brillanter Vakuumimpuls" tooltip="Verringert den MP-Verbrauch um $value." skillName="Vakuumimpuls" />
+    <String id="25073" name="Geteilte Geistesexplosion" tooltip="Erhöht die Wahrscheinlichkeit einer Schwächung des Gegners um 30%, wenn mehrere Ziele getroffen werden." skillName="Geistesexplosion" />
+    <String id="25074" name="Energetische nervöse Erschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Nervöse Erschöpfung" />
+    <String id="25075" name="Brillante Blitzringfalle" tooltip="Verringert den MP-Verbrauch um $value." skillName="Blitzringfalle" />
+    <String id="25076" name="Vielfacher Zeitwirbel" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Zeitwirbel" />
+    <String id="25077" name="Abschirmende Flammensäule" tooltip="Aktiviert Manabarriere I mit einer Wahrscheinlichkeit von $prob." skillName="Flammensäule" />
+    <String id="25078" name="Energetische Schmerzexplosion" tooltip="Verringert die Abklingzeit um $value." skillName="Schmerzexplosion" />
+    <String id="25079" name="Behindernder Feueratem" tooltip="Verringert die Heilkraft eines gegnerischen Spielercharakters um 50%." skillName="Feueratem" />
+    <String id="25080" name="Schützende Manabarriere" tooltip="Erhöht die Schadensabsorption um 30%." skillName="Manabarriere" />
+    <String id="25081" name="Schneidender arkaner Impuls" tooltip="Verdoppelt den kritischen Trefferwert für 4 Sekunden." skillName="Arkaner Impuls" />
+    <String id="25082" name="Glatter arkaner Impuls" tooltip="Während des Aufladens könnt Ihr Euch bewegen." skillName="Arkaner Impuls" />
+    <String id="25083" name="Energetische Steinhaut" tooltip="Verringert die Abklingzeit um $value." skillName="Steinhaut" />
+    <String id="25084" name="Energetische Steinhaut" tooltip="Verringert die Abklingzeit um $value." skillName="Steinhaut" />
+    <String id="25085" name="Nachwirkende Manabarriere" tooltip="Erhöht die Effektdauer um $value." skillName="Manabarriere" />
+    <String id="25086" name="Brillanter Feuerstoß" tooltip="Verringert den MP-Verbrauch um $value." skillName="Feuerstoß" />
+    <String id="25087" name="Leichtfüßiger Rückschritt" tooltip="Erhöht die Bewegungsgeschwindigkeit 2 Sek. lang um 20%." skillName="Rückschritt" />
+    <String id="25088" name="Kraftgebundene Schmerzexplosion" tooltip="Erhöht den Schaden von Sperrfeuer für einige Sekunden um 25%." skillName="Schmerzexplosion" />
+    <String id="25089" name="Schneidende Nova" tooltip="Verdoppelt die kritische Trefferrate für 4 Sekunden." skillName="Nova" />
+    <String id="25090" name="Geerdete Nova" tooltip="Erhöht die Konstitution 15 Sek. lang um 20%." skillName="Nova" />
+    <String id="25091" name="Energetische Nova" tooltip="Verringert die Abklingzeit um $value." skillName="Nova" />
+    <String id="25092" name="Flinke Nova" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Nova" />
+    <String id="25093" name="Energetische verzerrende Barriere" tooltip="Verringert die Abklingzeit um $value." skillName="Verzerrende Barriere" />
+    <String id="25094" name="Energetische verzerrende Barriere" tooltip="Verringert die Abklingzeit um $value." skillName="Verzerrende Barriere" />
+    <String id="25095" name="Nachwirkende verzerrende Barriere" tooltip="Erhöht die Effektdauer um $value." skillName="Verzerrende Barriere" />
+    <String id="26000" name="Vielfache Pfeilsalve" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Pfeilsalve" />
+    <String id="26001" name="Distanztreffender Strahlender Pfeil" tooltip="Erhöht die Reichweite um 3m." skillName="Strahlender Pfeil" />
+    <String id="26002" name="Distanztreffender Durchdringender Pfeil" tooltip="Erhöht die Reichweite um 3m." skillName="Durchdringender Pfeil" />
+    <String id="26004" name="Kraftvoller durchdringender Pfeil" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Durchdringender Pfeil" />
+    <String id="26005" name="Test" tooltip="Kein Effekt" skillName="Giftfalle" />
+    <String id="26006" name="Nachwirkende Lähmende Falle" tooltip="Erhöht die Effektdauer um $value." skillName="Lähmende Falle" />
+    <String id="26007" name="Nachwirkende Betäubungsfalle" tooltip="Erhöht die Effektdauer um $value." skillName="Betäubungsfalle" />
+    <String id="26008" name="Verlangsamender Pfeil" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 3 Sek. lang um 50%." skillName="Pfeil" />
+    <String id="26009" name="Zehrender Pfeil" tooltip="Betäubt den Gegner mit einer Wahrscheinlichkeit von $prob." skillName="Pfeil" />
+    <String id="26010" name="Durchschlagender Pfeil" tooltip="Verursacht doppelten Schaden mit einer Wahrscheinlichkeit von $prob ." skillName="Pfeil" />
+    <String id="26011" name="Glatter Strahlender Pfeil" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Strahlender Pfeil" />
+    <String id="26012" name="Glatter Durchdringender Pfeil" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Durchdringender Pfeil" />
+    <String id="26017" name="Beständiges Schnellfeuer" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Schnellfeuer" />
+    <String id="26018" name="Energetischer Rückschritt" tooltip="Verringert die Abklingzeit um $value." skillName="Rückschritt" />
+    <String id="26019" name="Energetisches Totstellen" tooltip="Verringert die Abklingzeit um $value." skillName="Totstellen" />
+    <String id="26020" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="26021" name="Energetischer Pfeilregen" tooltip="Verringert die Abklingzeit um $value." skillName="Pfeilregen" />
+    <String id="26022" name="Energetischer Befreiungsschuss" tooltip="Verringert die Abklingzeit um $value." skillName="Befreiungsschuss" />
+    <String id="26023" name="Kraftvolle Brandfalle" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Brandfalle" />
+    <String id="26024" name="Nachwirkender Netzpfeil" tooltip="Erhöht die Effektdauer um $value." skillName="Netzpfeil" />
+    <String id="26025" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="26026" name="Test" tooltip="Kein Effekt" skillName="Giftfalle" />
+    <String id="26027" name="Nachwirkender Giftpfeil" tooltip="Erhöht die Effektdauer um $value." skillName="Giftpfeil" />
+    <String id="26028" name="Einflussreicher Netzpfeil" tooltip="Verringert den MP-Verbrauch von Netzpfeil für einige Sekunden um 13." skillName="Scharfschützenauge" />
+    <String id="26029" name="Nachwirkender fesselnder Pfeil" tooltip="Erhöht die Effektdauer um $value." skillName="Fesselnder Pfeil" />
+    <String id="26030" name="Einflussreicher Giftpfeil" tooltip="Verringert den MP-Verbrauch von Giftpfeil für einige Sekunden um 31." skillName="Veliks Mal" />
+    <String id="26031" name="Einflussreiche Brandfalle" tooltip="Verringert den MP-Verbrauch von Brandfalle für einige Sekunden um 75." skillName="Pfeilsalve" />
+    <String id="26032" name="Kraftgebundener durchdringender Pfeil" tooltip="Erhöht den Schaden von Durchdringender Pfeil für einige Sekunden um 25%." skillName="Befreiungsschuss" />
+    <String id="26033" name="Leichtfüßiger Netzpfeil" tooltip="Erhöht die Bewegungsgeschwindigkeit während des Kampfes mit einer Wahrscheinlichkeit von $prob 12 Sek. lang um 10." skillName="Netzpfeil" />
+    <String id="26034" name="Energetischer Fesselnder Pfeil" tooltip="Verringert die Abklingzeit um $value." skillName="Fesselnder Pfeil" />
+    <String id="26035" name="Zehrender fesselnder Pfeil" tooltip="Betäubt das Ziel mit einer Wahrscheinlichkeit von $prob 3 Sek. lang." skillName="Fesselnder Pfeil" />
+    <String id="26036" name="Nachwirkendes Veliks Mal" tooltip="Erhöht die Effektdauer um $value." skillName="Veliks Mal" />
+    <String id="26037" name="Flammender Giftpfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Giftpfeil für einige Sekunden um 25%." skillName="Veliks Mal" />
+    <String id="26038" name="Beständige Pfeilsalve" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Pfeilsalve" />
+    <String id="26039" name="Flammende Betäubungsfalle" tooltip="Erhöht die Aufladegeschwindigkeit von Betäubungsfalle für einige Sekunden um 40%." skillName="Pfeilsalve" />
+    <String id="26040" name="Kraftvoller Nahkampf" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Nahkampf" />
+    <String id="26041" name="Geistvolles Schnellfeuer" tooltip="Erhöht die MP-Regeneration bei getroffenem Ziel um $value." skillName="Schnellfeuer" />
+    <String id="26042" name="Beständige Vernichtende Salve" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Vernichtende Salve" />
+    <String id="26043" name="Leichtfüßiger Befreiungsschuss" tooltip="Erhöht die Bewegungsgeschwindigkeit während des Kampfes mit einer Wahrscheinlichkeit von $prob 8 Sek. lang um 10." skillName="Befreiungsschuss" />
+    <String id="26044" name="Test" tooltip="Kein Effekt" skillName="Befreiungsschuss" />
+    <String id="26045" name="Regenerierendes Totstellen" tooltip="Stellt 15 Sek. lang immer nach 1 Sek. 2% der Gesamt-LP wieder her. Kann nicht im Kampf verwendet werden." skillName="Totstellen" />
+    <String id="26046" name="Kraftgebundene Pfeilsalve" tooltip="Erhöht den Schaden von Pfeilsalve für einige Sekunden um 25%." skillName="Brandfalle" />
+    <String id="26047" name="Kraftvoller Pfeilregen" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Pfeilregen" />
+    <String id="26048" name="Flammender durchdringender Pfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Durchdringender Pfeil für einige Sekunden um 30%." skillName="Betäubungsfalle" />
+    <String id="26049" name="Flammender durchdringender Pfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Durchdringender Pfeil für einige Sekunden um 30%." skillName="Pfeilsalve" />
+    <String id="26050" name="Flammender strahlender Pfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Strahlender Pfeil für einige Sekunden um 30%." skillName="Giftpfeil" />
+    <String id="26051" name="Flammender durchdringender Pfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Durchdringender Pfeil für einige Sekunden um 30%." skillName="Vernichtende Salve" />
+    <String id="26053" name="Kraftvoller durchdringender Pfeil" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Durchdringender Pfeil" />
+    <String id="26054" name="Glatter durchdringender Pfeil" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Durchdringender Pfeil" />
+    <String id="26055" name="Glatter strahlender Pfeil" tooltip="Entfernt Einschränkung durch verlangsamte Bewegung." skillName="Strahlender Pfeil" />
+    <String id="26056" name="Energetischer Rückschritt" tooltip="Verringert die Abklingzeit um $value." skillName="Rückschritt" />
+    <String id="26057" name="Distanztreffender durchdringender Pfeil" tooltip="Erhöht die Reichweite um 3m." skillName="Durchdringender Pfeil" />
+    <String id="26058" name="Nachwirkende lähmende Falle" tooltip="Erhöht die Effektdauer um $value." skillName="Lähmende Falle" />
+    <String id="26059" name="Flammender durchdringender Pfeil" tooltip="Erhöht die Aufladegeschwindigkeit von Durchdringender Pfeil für einige Sekunden um 40%." skillName="Pfeilsalve" />
+    <String id="26060" name="Flammende Betäubungsfalle" tooltip="Erhöht die Aufladegeschwindigkeit von Betäubungsfalle für einige Sekunden um 50%." skillName="Pfeilsalve" />
+    <String id="26061" name="Beständige Pfeilsalve" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Pfeilsalve" />
+    <String id="26062" name="Regenerierendes Totstellen" tooltip="Stellt 8 Sek. lang immer nach 1 Sek. 5% der Gesamt-LP wieder her. Kann nicht im Kampf verwendet werden." skillName="Totstellen" />
+    <String id="26063" name="Heilkräftiger strahlender Pfeil" tooltip="Verringert den LP-Verbrauch um $value." skillName="Strahlender Pfeil" />
+    <String id="26064" name="Schneidender strahlender Pfeil" tooltip="Verdreifacht den kritischen Trefferwert." skillName="Strahlender Pfeil" />
+    <String id="26065" name="Leichtfüßiger Nahkampf" tooltip="Beschleunigt die Bewegungsgeschwindigkeit 3 Sek. lang um 50." skillName="Nahkampf" />
+    <String id="26066" name="Nachwirkender Nahkampf" tooltip="Erhöht die Effektdauer um $value." skillName="Nahkampf" />
+    <String id="26067" name="Verlangsamender Befreiungsschuss" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 6 Sek. lang um 40%." skillName="Befreiungsschuss" />
+    <String id="26068" name="Energetische Erschütterungsfalle" tooltip="Verringert die Abklingzeit um $value." skillName="Erschütterungsfalle" />
+    <String id="26069" name="Energetische Einschnürfalle" tooltip="Verringert die Abklingzeit um $value." skillName="Einschnürfalle" />
+    <String id="26070" name="Kraftvolle Explosionsfalle" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Explosionsfalle" />
+    <String id="26071" name="Energetische Erschütterungsfalle" tooltip="Verringert die Abklingzeit um $value." skillName="Erschütterungsfalle" />
+    <String id="26072" name="Schwächende Einschnürfalle" tooltip="Verringert die Konstitution des Ziels 5 Sek. lang um 3,5%." skillName="Einschnürfalle" />
+    <String id="26073" name="Kraftvolle Explosionsfalle" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Explosionsfalle" />
+    <String id="26074" name="Energetischer Befreiungsschuss" tooltip="Verringert die Abklingzeit um $value." skillName="Befreiungsschuss" />
+    <String id="26075" name="Energetischer fesselnder Pfeil" tooltip="Verringert die Abklingzeit um $value." skillName="Fesselnder Pfeil" />
+    <String id="26076" name="Kraftvolles Schnellfeuer" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Schnellfeuer" />
+    <String id="26077" name="Flinker Pfeilregen" tooltip="Erhöht die Angriffsgeschwindigkeit mit Pfeilregen um $value." skillName="Pfeilregen" />
+    <String id="26084" name="Balancierende Beharrlichkeit" tooltip="Erhöht das Gleichgewicht 15 Sek. lang um 150%." skillName="Beharrlichkeit" />
+    <String id="26085" name="Balancierende Beharrlichkeit" tooltip="Verdoppelt das Gleichgewicht 15 Sek. lang." skillName="Beharrlichkeit" />
+    <String id="26086" name="Geistvolle Beharrlichkeit" tooltip="Stellt mit einer Wahrscheinlichkeit von $prob immer nach 1 Sek. 6% Eurer Gesamt-MP wieder her." skillName="Beharrlichkeit" />
+    <String id="26087" name="Energetische Beharrlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Beharrlichkeit" />
+    <String id="26088" name="Energetische Beharrlichkeit" tooltip="Verringert die Abklingzeit um $value." skillName="Beharrlichkeit" />
+    <String id="26089" name="Flinker Donnerkeil" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Donnerkeil" />
+    <String id="26090" name="Kraftvoller Donnerkeil" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Donnerkeil" />
+    <String id="26091" name="Kraftvoller Donnerkeil" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Donnerkeil" />
+    <String id="27000" name="Vielfacher Gefallen der Titanen" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Gefallen der Titanen" />
+    <String id="27002" name="Energetischer Schwur der Auferstehung" tooltip="Verringert die Abklingzeit um $value." skillName="Schwur der Auferstehung" />
+    <String id="27003" name="Vielfache Aruns reinigende Berührung" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Aruns reinigende Berührung" />
+    <String id="27004" name="Nachwirkender Zorn der Titanen" tooltip="Erhöht die Effektdauer um $value." skillName="Zorn der Titanen" />
+    <String id="27005" name="Nachwirkende Sharas Peitsche" tooltip="Erhöht die Effektdauer um $value." skillName="Sharas Peitsche" />
+    <String id="27006" name="Nachwirkende Mystische Fesseln" tooltip="Erhöht die Effektdauer um $value." skillName="Mystische Fesseln" />
+    <String id="27007" name="Test" tooltip="Kein Effekt" skillName="Aura der Verjüngung" />
+    <String id="27008" name="Test" tooltip="Kein Effekt" skillName="Aura der Beharrlichkeit" />
+    <String id="27009" name="Brillante Aura der Gnadenlosen" tooltip="Verringert den MP-Verbrauch um $value." skillName="Aura der Gnadenlosen" />
+    <String id="27010" name="Brillante Aura der Flinken" tooltip="Verringert den MP-Verbrauch um $value." skillName="Aura der Flinken" />
+    <String id="27011" name="Kraftvoller Sharas Blitz" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sharas Blitz" />
+    <String id="27012" name="Kraftvolle Lichtexplosion" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Lichtexplosion" />
+    <String id="27013" name="Test" tooltip="Kein Effekt" skillName="Ring der Verderbnis" />
+    <String id="27014" name="Dreifacher Ring der Verderbnis" tooltip="Erhöht das Gleichgewicht und die Resistenz gegen Betäubung um 300%." skillName="Ring der Verderbnis" />
+    <String id="27015" name="Gefühlloser Ring der Verderbnis" tooltip="Verringert den Schaden um $value." skillName="Ring der Verderbnis" />
+    <String id="27016" name="Energetischer Teleportsprung" tooltip="Verringert die Abklingzeit um $value." skillName="Teleportsprung" />
+    <String id="27017" name="Geistvolle Manainfusion" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manainfusion" />
+    <String id="27019" name="Unbrauchbare Glyphenscherbe" tooltip="Diese alte, zersplitterte Glyphe wird nicht mehr verwendet." skillName="Manaextraktion" />
+    <String id="27020" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="27021" name="Energetischer Lichtschlag" tooltip="Verringert die Abklingzeit um $value." skillName="Lichtschlag" />
+    <String id="27022" name="Energetischer Leibeigener des Schutzes" tooltip="Verringert die Abklingzeit um $value." skillName="Leibeigener des Schutzes" />
+    <String id="27023" name="Test" tooltip="Kein Effekt" skillName="Leibeigener des Zorns" />
+    <String id="27024" name="Energetischer Leibeigener des Lebens" tooltip="Verringert die Abklingzeit um $value." skillName="Leibeigener des Lebens" />
+    <String id="27025" name="Brillante Gruppenbeschwörung" tooltip="Verringert den MP-Verbrauch um $value." skillName="Gruppenbeschwörung" />
+    <String id="27026" name="Brillantes Wiederbeleben" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wiederbeleben" />
+    <String id="27027" name="Nachwirkende Flut von Verwünschungen" tooltip="Erhöht die Effektdauer um $value." skillName="Flut von Verwünschungen" />
+    <String id="27029" name="Energetisches Wiederbeleben" tooltip="Verringert die Abklingzeit um $value." skillName="Wiederbeleben" />
+    <String id="27030" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="27031" name="Brillante Klangvolle Träume" tooltip="Verringert den MP-Verbrauch um $value." skillName="Klangvolle Träume" />
+    <String id="27032" name="Energetische Regression" tooltip="Verringert die Abklingzeit um $value." skillName="Regression" />
+    <String id="27033" name="Energetischer Morast" tooltip="Verringert die Abklingzeit um $value." skillName="Morast" />
+    <String id="27034" name="Energetischer Fluch der Erschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Fluch der Erschöpfung" />
+    <String id="27035" name="Nachwirkender Fluch der Verwirrung" tooltip="Erhöht die Effektdauer um $value." skillName="Fluch der Verwirrung" />
+    <String id="27036" name="Einflussreicher Lichtschlag" tooltip="Verringert den MP-Verbrauch von Lichtexplosion für einige Sekunden um 41." skillName="Lichtschlag" />
+    <String id="27037" name="Einflussreiche Flut von Verwünschungen" tooltip="Verringert den MP-Verbrauch von Flut von Verwünschungen für einige Sekunden um 33." skillName="Flut von Verwünschungen" />
+    <String id="27038" name="Einflussreicher Zorn der Titanen" tooltip="Verringert den MP-Verbrauch von Aruns Lebenskraft für einige Sekunden um 100." skillName="Zorn der Titanen" />
+    <String id="27039" name="Einflussreicher Ring der Verderbnis" tooltip="Verringert den MP-Verbrauch von Aruns Tränen für einige Sekunden um 100." skillName="Ring der Verderbnis" />
+    <String id="27040" name="Vielfache Flut von Verwünschungen" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Flut von Verwünschungen" />
+    <String id="27041" name="Benebelnde Mystische Fesseln" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 6 Sek. lang um 30%." skillName="Mystische Fesseln" />
+    <String id="27042" name="Eiliger Lichtschlag" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Lichtschlag" />
+    <String id="27043" name="Energetische Gruppenbeschwörung" tooltip="Verringert die Abklingzeit um $value." skillName="Gruppenbeschwörung" />
+    <String id="27044" name="Eilige Manainfusion" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Manainfusion" />
+    <String id="27045" name="Flammende Aruns Tränen" tooltip="Erhöht die Aufladegeschwindigkeit von Aruns Lebenskraft für einige Sekunden um 25%." skillName="Aruns Tränen" />
+    <String id="27046" name="Kraftvoller Leibeigener der Vergeltung" tooltip="Erhöht den Schaden des Leibeigenen der Vergeltung um 25%." skillName="Leibeigener der Vergeltung" />
+    <String id="27047" name="Befestigter Leibeigener der Vergeltung" tooltip="Erhöht die Verteidigung des Leibeigenen der Vergeltung um 25%." skillName="Leibeigener der Vergeltung" />
+    <String id="27048" name="Nachwirkender Leibeigener der Vergeltung" tooltip="Erhöht die Dauer des Leibeigenen um 25%." skillName="Leibeigener der Vergeltung" />
+    <String id="27049" name="Eiliges Wiederbeleben" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Wiederbeleben" />
+    <String id="27050" name="Befestigter Leibeigener des Lebens" tooltip="Erhöht die Verteidigung des Leibeigenen des Lebens um 100%." skillName="Leibeigener des Lebens" />
+    <String id="27051" name="Kraftvoller Leibeigener des Schutzes" tooltip="Erhöht den Schaden des Leibeigenen des Schutzes um 25%." skillName="Leibeigener des Schutzes" />
+    <String id="27052" name="Befestigter Leibeigener des Schutzes" tooltip="Erhöht die Verteidigung des Leibeigenen des Schutzes um 25%." skillName="Leibeigener des Schutzes" />
+    <String id="27053" name="Flammender Teleportsprung" tooltip="Erhöht die Aufladegeschwindigkeit von Aruns Lebenskraft für einige Sekunden um 25%." skillName="Teleportsprung" />
+    <String id="27054" name="Flammender Teleportsprung" tooltip="Erhöht die Aufladegeschwindigkeit von Leibeigener des Lebens für einige Sekunden um 25%." skillName="Teleportsprung" />
+    <String id="27055" name="Energetischer Leibeigener des Zorns" tooltip="Verringert die Abklingzeit um $value." skillName="Leibeigener des Zorns" />
+    <String id="27056" name="Kraftvoller Leibeigener des Zorns" tooltip="Erhöht den Schaden des Leibeigenen des Zorns um 25%." skillName="Leibeigener des Zorns" />
+    <String id="27057" name="Eiliger Leibeigener des Zorns" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Leibeigener des Zorns" />
+    <String id="27058" name="Selbstloser Schwur der Auferstehung" tooltip="Zauberwirkender erhält den Effekt von Schwur der Auferstehung, wenn er auf ein anderes Ziel angewandt wird." skillName="Schwur der Auferstehung" />
+    <String id="27059" name="Flammende Aruns Lebenskraft" tooltip="Erhöht die Aufladegeschwindigkeit von Aruns Tränen für einige Sekunden um 25%." skillName="Aruns Lebenskraft" />
+    <String id="27060" name="Distanztreffender Gefallen der Titanen" tooltip="Erhöht die Reichweite um 3m." skillName="Gefallen der Titanen" />
+    <String id="27062" name="Energetischer Teleportsprung" tooltip="Verringert die Abklingzeit um $value." skillName="Teleportsprung" />
+    <String id="27063" name="Vielfache Aruns reinigende Berührung" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Aruns reinigende Berührung" />
+    <String id="27064" name="Selbstloser Schwur der Auferstehung" tooltip="Zauberwirkender erhält den Effekt von Schwur der Auferstehung, wenn er auf ein anderes Ziel angewandt wird." skillName="Schwur der Auferstehung" />
+    <String id="27065" name="Energetischer Leibeigener des Lebens" tooltip="Verringert die Abklingzeit um $value." skillName="Leibeigener des Lebens" />
+    <String id="27066" name="Nachwirkende Sharas Peitsche" tooltip="Erhöht die Effektdauer um $value." skillName="Sharas Peitsche" />
+    <String id="27067" name="Distanztreffender Gefallen der Titanen" tooltip="Erhöht die Reichweite um 3m." skillName="Gefallen der Titanen" />
+    <String id="27068" name="Einflussreiche Flut von Verwünschungen" tooltip="Verringert den MP-Verbrauch von Flut von Verwünschungen für einige Sekunden um 33." skillName="Flut von Verwünschungen" />
+    <String id="27069" name="Nachwirkender Leibeigener der Vergeltung" tooltip="Erhöht die Dauer des Leibeigenen um 35%." skillName="Leibeigener der Vergeltung" />
+    <String id="27070" name="Brillante klangvolle Träume" tooltip="Verringert den MP-Verbrauch um $value." skillName="Klangvolle Träume" />
+    <String id="27071" name="Leichtfüßige Sharas Peitsche" tooltip="Erhöht nach einem erfolgreichen Treffer die Bewegungsgeschwindigkeit 3 Sek. lang um 50." skillName="Sharas Peitsche" />
+    <String id="27072" name="Chancenreiche Vergeltung" tooltip="Entfernt die Abklingzeit von Teleportsprung mit einer Wahrscheinlichkeit von $prob." skillName="Vergeltung" />
+    <String id="27073" name="Balancierende Vergeltung" tooltip="Erhöht das Gleichgewicht 2 Sek. lang um 500%." skillName="Vergeltung" />
+    <String id="27074" name="Weitreichender Zorn der Titanen" tooltip="Erhöht die Fertigkeitsreichweite um 5m." skillName="Zorn der Titanen" />
+    <String id="27075" name="Energetische klangvolle Träume" tooltip="Verringert die Abklingzeit um $value." skillName="Klangvolle Träume" />
+    <String id="27076" name="Geerdeter Leibeigener des Schutzes" tooltip="Erhöht die Konstitution aller Gruppenmitglieder 10 Min. lang um 10%." skillName="Leibeigener des Schutzes" />
+    <String id="27077" name="Brillantes Schutztotem" tooltip="Verringert den MP-Verbrauch um $value." skillName="Schutztotem" />
+    <String id="27078" name="Heilendes Schutztotem" tooltip="Erhöht die LP-Regeneration um 20%." skillName="Schutztotem" />
+    <String id="27079" name="Eiliges Wiederbeleben" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Wiederbeleben" />
+    <String id="27080" name="Energetischer Schwur der Auferstehung" tooltip="Verringert die Abklingzeit um $value." skillName="Schwur der Auferstehung" />
+    <String id="27081" name="Erneuernde Aruns Lebenskraft" tooltip="Heilt sofort 20% der Gesamt-LP." skillName="Aruns Lebenskraft" />
+    <String id="27082" name="Nachwirkender Leibeigener des Lebens" tooltip="Erhöht die Dauer des Leibeigenen um 25%." skillName="Leibeigener des Lebens" />
+    <String id="27084" name="Schwächende Flut von Verwünschungen" tooltip="Verringert die Konstitution des Gegners mit einer Wahrscheinlichkeit von $prob 16 Sek. lang um 3%. Kann bis zu 3-mal akkumuliert werden." skillName="Flut von Verwünschungen" />
+    <String id="27085" name="Beherztes Wiederbeleben" tooltip="Belebt Ziele mit $value Ausdauer wieder." skillName="Wiederbeleben" />
+    <String id="27086" name="Nachwirkende Verseuchung" tooltip="Erhöht die Effektdauer um $value." skillName="Verseuchung" />
+    <String id="27087" name="Brillanter Vampirimpuls" tooltip="Verringert den MP-Verbrauch um $value." skillName="Vampirimpuls" />
+    <String id="27088" name="Energetischer Vampirimpuls" tooltip="Verringert die Abklingzeit um $value." skillName="Vampirimpuls" />
+    <String id="27089" name="Energetischer Vampirimpuls" tooltip="Verringert die Abklingzeit um $value." skillName="Vampirimpuls" />
+    <String id="28000" name="Erneuernde Selbstheilung" tooltip="Erhöht die LP-Regeneration um $value." skillName="Selbstheilung" />
+    <String id="28001" name="Erneuernder Heilungskreis" tooltip="Erhöht die LP-Regeneration um $value." skillName="Heilungskreis" />
+    <String id="28002" name="Nachwirkender Regenerationskreis" tooltip="Erhöht die Effektdauer um $value." skillName="Regenerationskreis" />
+    <String id="28003" name="Vielfache Konzentrierte Heilung" tooltip="Erhöht die Anzahl der anvisierten Ziele um $value." skillName="Konzentrierte Heilung" />
+    <String id="28004" name="Energetischer Kaias Schild" tooltip="Verringert die Abklingzeit um $value." skillName="Kaias Schild" />
+    <String id="28005" name="Energetischer Reinigender Kreis" tooltip="Verringert die Abklingzeit um $value." skillName="Reinigender Kreis" />
+    <String id="28006" name="Nachwirkender Segen von Shakan" tooltip="Erhöht die Effektdauer um $value." skillName="Segen von Shakan" />
+    <String id="28007" name="Nachwirkender Segen von Arachne" tooltip="Erhöht die Effektdauer um $value." skillName="Segen von Arachne" />
+    <String id="28008" name="Nachwirkender Segen von Seren" tooltip="Erhöht die Effektdauer um $value." skillName="Segen des Schutzes" />
+    <String id="28009" name="Nachwirkender Segen von Balder" tooltip="Erhöht die Effektdauer um $value." skillName="Segen von Balder" />
+    <String id="28012" name="Kraftvoller göttlicher Schein" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Göttlicher Schein" />
+    <String id="28013" name="Brillante Lichtexplosion" tooltip="Verringert den MP-Verbrauch um $value." skillName="Lichtexplosion" />
+    <String id="28014" name="Kraftgebundene Schockimplosion" tooltip="Erhöht den Schaden von Endgültige Vergeltung für einige Sekunden um 25%." skillName="Schockimplosion" />
+    <String id="28018" name="Energetischer Regenerationskreis" tooltip="Verringert die Abklingzeit um $value." skillName="Regenerationskreis" />
+    <String id="28019" name="Geistvolle Manainfusion" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manainfusion" />
+    <String id="28020" name="Unbrauchbare Glyphenscherbe" tooltip="Diese alte, zersplitterte Glyphe wird nicht mehr verwendet." skillName="Manaextraktion" />
+    <String id="28021" name="Eiliges Friedensgebet" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Friedensgebet" />
+    <String id="28022" name="Energetisches Hochhelfen" tooltip="Verringert die Abklingzeit um $value." skillName="Hochhelfen" />
+    <String id="28023" name="Kraftvolle Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="28024" name="Kraftgebundene Dreifache Nemesis" tooltip="Erhöht den Schaden von Lichtexplosion für einige Sekunden um 25%." skillName="Dreifache Nemesis" />
+    <String id="28026" name="Brillantes Wiederbeleben" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wiederbeleben" />
+    <String id="28027" name="Beschleunigter Segen von Zenobia" tooltip="Erhöht die Bewegungsgeschwindigkeit um $value." skillName="Segen von Zenobia" />
+    <String id="28028" name="Brillante Gruppenbeschwörung" tooltip="Verringert den MP-Verbrauch um $value." skillName="Gruppenbeschwörung" />
+    <String id="28029" name="Brillante Heimreise" tooltip="Verringert den MP-Verbrauch um $value." skillName="Heimreise" />
+    <String id="28030" name="Brillante Wilde Flucht" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wilde Flucht" />
+    <String id="28031" name="Eilige Manaladung" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Manaladung" />
+    <String id="28032" name="Energetisches Wiederbeleben" tooltip="Verringert die Abklingzeit um $value." skillName="Wiederbeleben" />
+    <String id="28033" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="28034" name="Energetisches Isharas Wiegenlied" tooltip="Verringert die Abklingzeit um $value." skillName="Isharas Wiegenlied" />
+    <String id="28035" name="Energetische Zuflucht des Wächters" tooltip="Verringert die Abklingzeit um $value." skillName="Zuflucht des Wächters" />
+    <String id="28036" name="Energetische Göttliche Ruhe" tooltip="Verringert die Abklingzeit um $value." skillName="Göttliche Ruhe" />
+    <String id="28037" name="Energetische Seuche der Erschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Seuche der Erschöpfung" />
+    <String id="28038" name="Einflussreicher Regenerationskreis" tooltip="Verringert den MP-Verbrauch von Konzentrierte Heilung für einige Sekunden um 85." skillName="Regenerationskreis" />
+    <String id="28039" name="Distanztreffende Manaladung" tooltip="Erhöht die Reichweite um 4m." skillName="Manaladung" />
+    <String id="28040" name="Geerdeter Kaias Schild" tooltip="Erhöht die Konstitution des Zauberwirkenden 12 Sek. lang um 30%." skillName="Kaias Schild" />
+    <String id="28041" name="Leichtfüßiger Segen von Zenobia" tooltip="Erhöht die Bewegungsgeschwindigkeit des Zauberwirkenden 10 Min. lang um 15." skillName="Segen von Zenobia" />
+    <String id="28042" name="Energetische Gruppenbeschwörung" tooltip="Verringert die Abklingzeit um $value." skillName="Gruppenbeschwörung" />
+    <String id="28043" name="Kraftgebundene Manaladung" tooltip="Erhöht den Schaden von Schockimplosion für einige Sekunden um 25%." skillName="Manaladung" />
+    <String id="28044" name="Eilige Manainfusion" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Manainfusion" />
+    <String id="28045" name="Eilige Wiederbeleben" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Wiederbeleben" />
+    <String id="28046" name="Nachwirkende Energiesterne" tooltip="Erhöht die Effektdauer um $value." skillName="Energiesterne" />
+    <String id="28047" name="Wilde Energiesterne" tooltip="Verstärkt den Effekt von Energiesterne um $value." skillName="Energiesterne" />
+    <String id="28048" name="Nachwirkender heilender Schub" tooltip="Erhöht die Effektdauer um $value." skillName="Heilender Schub" />
+    <String id="28049" name="Brillanter heilender Schub" tooltip="Verringert den MP-Verbrauch um $value." skillName="Heilender Schub" />
+    <String id="28050" name="Brillante endgültige Vergeltung" tooltip="Verringert den MP-Verbrauch um $value." skillName="Endgültige Vergeltung" />
+    <String id="28051" name="Beständige endgültige Vergeltung" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Endgültige Vergeltung" />
+    <String id="28052" name="Verlangsamende endgültige Vergeltung" tooltip="Verringert die Bewegungsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 4 Sek. lang um 30%." skillName="Endgültige Vergeltung" />
+    <String id="28053" name="Benebelnde Lichtexplosion" tooltip="Verringert die Angriffsgeschwindigkeit des Gegners mit einer Wahrscheinlichkeit von $prob 7 Sek. lang um 15%." skillName="Lichtexplosion" />
+    <String id="28054" name="Schwächende dreifache Nemesis" tooltip="Verringert die Konstitution mit einer Wahrscheinlichkeit von $prob 12 Sek. lang um 10%.$BRLässt sich nicht mit Kaias Bindung akkumulieren." skillName="Dreifache Nemesis" />
+    <String id="28055" name="Distanztreffende Konzentrierte Heilung" tooltip="Erhöht die Reichweite um 3m." skillName="Konzentrierte Heilung" />
+    <String id="28057" name="Erneuernde Selbstheilung" tooltip="Erhöht die LP-Regeneration um $value." skillName="Selbstheilung" />
+    <String id="28058" name="Kraftgebundene Schockimplosion" tooltip="Erhöht den Schaden von Endgültige Vergeltung für einige Sekunden um 25%." skillName="Schockimplosion" />
+    <String id="28059" name="Geistvolle Manainfusion" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manainfusion" />
+    <String id="28060" name="Kraftgebundene dreifache Nemesis" tooltip="Erhöht den Schaden von Lichtexplosion für einige Sekunden um 25%." skillName="Dreifache Nemesis" />
+    <String id="28061" name="Leichtfüßiger Segen von Zenobia" tooltip="Erhöht die Bewegungsgeschwindigkeit des Zauberwirkenden 10 Min. lang um 15." skillName="Segen von Zenobia" />
+    <String id="28062" name="Energetischer Regenerationskreis" tooltip="Verringert die Abklingzeit um $value." skillName="Regenerationskreis" />
+    <String id="28063" name="Energetische Seuche der Erschöpfung" tooltip="Verringert die Abklingzeit um $value." skillName="Seuche der Erschöpfung" />
+    <String id="28064" name="Brillanter heilender Schub" tooltip="Verringert den MP-Verbrauch um $value." skillName="Heilender Schub" />
+    <String id="28065" name="Brillantes Wiederbeleben" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wiederbeleben" />
+    <String id="28066" name="Energetische Wilde Flucht" tooltip="Verringert die Abklingzeit um $value." skillName="Wilde Flucht" />
+    <String id="28067" name="Regenerierender Kaias Schild" tooltip="Stellt 6 Sek. lang immer nach 2 Sek. 5% der Gesamt-LP aller Ziele wieder her." skillName="Kaias Schild" />
+    <String id="28068" name="Geistvolle Manaladung" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manaladung" />
+    <String id="28069" name="Besänftigende konzentrierte Heilung" tooltip="Verringert die Aggro um $value." skillName="Konzentrierte Heilung" />
+    <String id="28070" name="Balancierende Zuflucht des Wächters" tooltip="Verdoppelt das Gleichgewicht 30 Sek. lang." skillName="Zuflucht des Wächters" />
+    <String id="28071" name="Nachwirkendes Hochhelfen" tooltip="Erhöht die Effektdauer um $value." skillName="Hochhelfen" />
+    <String id="28072" name="Geistvolle Manaladung" tooltip="Erhöht die MP-Regeneration um $value." skillName="Manaladung" />
+    <String id="28073" name="Beständiges heilendes Eintauchen" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Heilendes Eintauchen" />
+    <String id="28074" name="Energetischer Segen der Auferstehung" tooltip="Verringert die Abklingzeit um $value." skillName="Segen der Auferstehung" />
+    <String id="28075" name="Erneuerndes heilendes Eintauchen" tooltip="Erhöht die LP-Regeneration um $value." skillName="Heilendes Eintauchen" />
+    <String id="28076" name="Beschleunigter Segen von Zenobia" tooltip="Erhöht die Bewegungsgeschwindigkeit um $value." skillName="Segen von Zenobia" />
+    <String id="28077" name="Eilige Manainfusion" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Manainfusion" />
+    <String id="28078" name="Geistvoller heilender Schub" tooltip="Stellt bei allen Zielen immer nach 1 Sek. 50 MP wieder her." skillName="Heilender Schub" />
+    <String id="28079" name="Beherztes Wiederbeleben" tooltip="Belebt Ziele mit $value Ausdauer wieder." skillName="Wiederbeleben" />
+    <String id="28082" name="Energetisches göttliches Eingreifen" tooltip="Verringert die Abklingzeit um $value." skillName="Göttliches Eingreifen" />
+    <String id="28083" name="Brillantes göttliches Eingreifen" tooltip="Verringert den MP-Verbrauch um $value." skillName="Göttliches Eingreifen" />
+    <String id="28084" name="Distanztreffendes göttliches Eingreifen" tooltip="Erhöht die Reichweite um 4m." skillName="Göttliches Eingreifen" />
+    <String id="28085" name="Energetischer Wirbel Zenobias" tooltip="Verringert die Abklingzeit um $value." skillName="Wirbel Zenobias" />
+    <String id="28086" name="Energetischer Wirbel Zenobias" tooltip="Verringert die Abklingzeit um $value." skillName="Wirbel Zenobias" />
+    <String id="28087" name="Brillanter Wirbel Zenobias" tooltip="Verringert den MP-Verbrauch um $value." skillName="Wirbel Zenobias" />
+    <String id="28088" name="Kraftvoller Wirbel Zenobias" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Wirbel Zenobias" />
+    <String id="29000" name="Mächtiger Rachedurst" tooltip="Verursacht doppelten Schaden mit einer Wahrscheinlichkeit von $prob." skillName="Rachedurst" />
+    <String id="29001" name="Geistvoller Rachedurst" tooltip="Erhöht die MP-Regeneration um $value." skillName="Rachedurst" />
+    <String id="29002" name="Flinker Rachedurst" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Rachedurst" />
+    <String id="29003" name="Schneidender Rachedurst" tooltip="Verdoppelt die kritische Trefferrate." skillName="Rachedurst" />
+    <String id="29004" name="Heilendes Klingenduett" tooltip="Stellt mit jedem Treffer $value der Gesamt-LP wieder her." skillName="Klingenduett" />
+    <String id="29005" name="Kraftgebundenes Klingenduett" tooltip="Erhöht den Schaden von Bluthunger für einige Sekunden um 20%." skillName="Klingenduett" />
+    <String id="29006" name="Mächtige Schattenexplosion" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Schattenexplosion" />
+    <String id="29007" name="Schneidende Schattenexplosion" tooltip="Verdoppelt die kritische Trefferrate." skillName="Schattenexplosion" />
+    <String id="29009" name="Energetischer Bluthunger" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Bluthunger" />
+    <String id="29010" name="Flammender Bluthunger" tooltip="Erhöht die Aufladegeschwindigkeit von Klingenduett für einige Sekunden um 25%." skillName="Bluthunger" />
+    <String id="29011" name="Mächtige Todesspirale" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Todesspirale" />
+    <String id="29012" name="Nachwirkende Todesspirale" tooltip="Erhöht die Effektdauer um $value." skillName="Todesspirale" />
+    <String id="29013" name="Kraftgebundene Todesspirale" tooltip="Erhöht den Schaden von Klingenduett für einige Sekunden um 20%." skillName="Todesspirale" />
+    <String id="29014" name="Kraftgebundene Todesspirale" tooltip="Erhöht den Schaden von Bluthunger für einige Sekunden um 20%." skillName="Todesspirale" />
+    <String id="29015" name="Kraftvolle Hassklinge" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Hassklinge" />
+    <String id="29016" name="Energetische Hassklinge" tooltip="Verringert die Abklingzeit um $value." skillName="Hassklinge" />
+    <String id="29017" name="Benebelnde Hassklinge" tooltip="Verringert mit einer Wahrscheinlichkeit von $prob mit jedem Treffer die Angriffsgeschwindigkeit des Gegners um 10% für 7 Sekunden. (Verlangsamungseffekte können bis zu 5-mal akkumuliert werden.)" skillName="Hassklinge" />
+    <String id="29018" name="Energetisches Zerschmettern" tooltip="Verringert die Abklingzeit um $value." skillName="Zerschmettern" />
+    <String id="29019" name="Nachwirkendes Zerschmettern" tooltip="Erhöht die Effektdauer um $value." skillName="Zerschmettern" />
+    <String id="29020" name="Mächtiger Pendelstoß" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Pendelstoß" />
+    <String id="29021" name="Energetischer Pendelstoß" tooltip="Verringert die Abklingzeit um $value." skillName="Pendelstoß" />
+    <String id="29022" name="Kraftgebundener Pendelstoß" tooltip="Erhöht die Chance auf kritische Treffer mit Hassklinge für einige Sekunden um 30%." skillName="Pendelstoß" />
+    <String id="29023" name="Energetische Schattenpeitsche" tooltip="Verringert die Abklingzeit um $value." skillName="Schattenpeitsche" />
+    <String id="29024" name="Geistvolle Schattenpeitsche" tooltip="Erhöht die MP-Regeneration um $value." skillName="Schattenpeitsche" />
+    <String id="29025" name="Energetische Finsterwoge" tooltip="Verringert die Abklingzeit um $value." skillName="Finsterwoge" />
+    <String id="29026" name="Flinke Finsterwoge" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Finsterwoge" />
+    <String id="29027" name="Brillante Seelenfessel" tooltip="Reduziert den MP-Verbrauch beim Aufladen und Positionen tauschen um $value." skillName="Seelenfessel" />
+    <String id="29028" name="Energetische Seelenfessel" tooltip="Verringert die Abklingzeit um $value." skillName="Seelenfessel" />
+    <String id="29029" name="Mächtige Vergeltung" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="29030" name="Energetische Vergeltung" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="29031" name="Energetische Rache" tooltip="Verringert die Abklingzeit um $value." skillName="Rache" />
+    <String id="29032" name="Brillante Schattenaura" tooltip="Verringert den MP-Verbrauch um $value." skillName="Schattenaura" />
+    <String id="29033" name="Nachwirkende Schattenaura" tooltip="Erhöht die Effektdauer um $value." skillName="Schattenaura" />
+    <String id="29035" name="Energetische Anziehung" tooltip="Verringert die Abklingzeit um $value." skillName="Anziehung" />
+    <String id="29036" name="Flinke Anziehung" tooltip="Erhöht nach einem Treffer die Angriffsgeschwindigkeit der nächsten Fertigkeit um 50%." skillName="Anziehung" />
+    <String id="29037" name="Kraftgebundene Anziehung" tooltip="Erhöht den Schaden von Finsterwoge für einige Sekunden um 20%." skillName="Anziehung" />
+    <String id="29038" name="Energetisches Seelenwandeln" tooltip="Verringert die Abklingzeit um $value." skillName="Seelenwandeln" />
+    <String id="29039" name="Leichtfüßiges Seelenwandeln" tooltip="Erhöht die Bewegungsgeschwindigkeit während des Kampfes für 2 Sekunden um 50, wenn die Fertigkeit verwendet wird." skillName="Seelenwandeln" />
+    <String id="29046" name="Energetisches Zerschmettern" tooltip="Verringert die Abklingzeit um $value." skillName="Schmetterschlag" />
+    <String id="29047" name="Kraftvolle Hassklinge" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Hassklinge" />
+    <String id="29048" name="Kraftgebundene Todesspirale" tooltip="Erhöht den Schaden von Bluthunger für einige Sekunden um 20%." skillName="Todesspirale" />
+    <String id="29049" name="Brillante Finsterwoge" tooltip="Verringert den MP-Verbrauch um $value." skillName="Finsterwoge" />
+    <String id="29050" name="Schneidender Bluthunger" tooltip="Verdoppelt den kritischen Trefferwert." skillName="Bluthunger" />
+    <String id="29051" name="Energetische verschleierte Flucht" tooltip="Verringert die Abklingzeit um $value." skillName="Verschleierte Flucht" />
+    <String id="29052" name="Nachwirkende verschleierte Flucht" tooltip="Erhöht die Effektdauer um $value." skillName="Verschleierte Flucht" />
+    <String id="30000" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sprengung" />
+    <String id="30001" name="Glyphe der Brillanz" tooltip="Erzeugt 5 Willenskraft bei erfolgreichem Treffer." skillName="Sprengung" />
+    <String id="30002" name="Glyphe der Flinkheit" tooltip="Erhöht die Angriffsgeschwindigkeit mit einer Wahrscheinlichkeit von $prob 10 Sek. lang um 15%." skillName="Sprengung" />
+    <String id="30003" name="Glyphe des Schneidens" tooltip="Erhöht die Chance auf kritische Treffer um 50%." skillName="Bombardement" />
+    <String id="30004" name="Glyphe der Flinkheit" tooltip="Erhöht die Aufladegeschwindigkeit um $value." skillName="Bombardement" />
+    <String id="30005" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Streuschuss" />
+    <String id="30006" name="Glyphe der Energie" tooltip="Entfernt die Abklingzeit von Sprungbombe mit einer Wahrscheinlichkeit von $prob." skillName="Kernschuss" />
+    <String id="30007" name="Glyphe der Glätte" tooltip="Verringert den Rückstoß um 40%." skillName="Streuschuss" />
+    <String id="30008" name="Glyphe des Geistes" tooltip="Verringert den MP-Verbrauch um $value." skillName="Streuschuss" />
+    <String id="30009" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Kernschuss" />
+    <String id="30010" name="Glyphe der Erneuerung" tooltip="Stellt mit jedem Treffer $value der Gesamt-LP wieder her." skillName="Kernschuss" />
+    <String id="30011" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Kernschuss" />
+    <String id="30012" name="Glyphe der Erneuerung" tooltip="Stellt mit jedem Treffer $value der Gesamt-LP wieder her." skillName="Feuersalve" />
+    <String id="30013" name="Glyphe des Distanztreffers" tooltip="Erhöht die Reichweite um 5m." skillName="Feuersalve" />
+    <String id="30014" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Zeitbombe" />
+    <String id="30015" name="Glyphe des Geistes" tooltip="Erzeugt 15 Willenskraft bei erfolgreichem Treffer." skillName="Zeitbombe" />
+    <String id="30016" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Arkanes Sperrfeuer" />
+    <String id="30017" name="Glyphe der Abschirmung" tooltip="Erhöht die Angriffsgeschwindigkeit um 30%, bis Arkanes Sperrfeuer explodiert." skillName="Arkanes Sperrfeuer" />
+    <String id="30018" name="Glyphe des Geistes" tooltip="Erzeugt 15 Willenskraft bei erfolgreichem Treffer." skillName="Arkanes Sperrfeuer" />
+    <String id="30019" name="Glyphe des Schneidens" tooltip="Verdoppelt die kritische Trefferrate." skillName="Willensgeschoss" />
+    <String id="30021" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sprungbombe" />
+    <String id="30022" name="Glyphe der Nachwirkung" tooltip="Erhöht die Effektdauer um $value." skillName="Sprungbombe" />
+    <String id="30023" name="Glyphe des Geistes" tooltip="Verringert den MP-Verbrauch um $value." skillName="Sprungbombe" />
+    <String id="30024" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Raketensprung" />
+    <String id="30028" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Balders Rache" />
+    <String id="30029" name="Glyphe der Leichtfüßigkeit" tooltip="Erhöht die Bewegungsgeschwindigkeit um 50% für 5 Sekunden." skillName="Raketensprung" />
+    <String id="30030" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="  &#xA;Regeneration " />
+    <String id="30031" name="Glyphe des Geistes" tooltip="Erzeugt bei Verwendung der Fertigkeit zusätzliche 50 Willenskraft." skillName="Regeneration" />
+    <String id="30032" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Zwillingsgeschütz" />
+    <String id="30033" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="TE2-RA2" />
+    <String id="30034" name="Glyphe der Kraft" tooltip="Erhöht die Angriffsstärke von Zwillingsgeschütz um 20%." skillName="Zwillingsgeschütz" />
+    <String id="30035" name="Glyphe der Nachwirkung" tooltip="Erhöht die Dauer von Zwillingsgeschütz um 30%." skillName="Zwillingsgeschütz" />
+    <String id="30036" name="Glyphe des Geistes" tooltip="Verringert den MP-Verbrauch um $value." skillName="Zwillingsgeschütz" />
+    <String id="30037" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Vergeltung" />
+    <String id="30038" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Vergeltung" />
+    <String id="30039" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Befehl: Zurückrufen" />
+    <String id="30040" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Befehl: Selbstzerstörung" />
+    <String id="30041" name="Glyphe der Energie" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Lockeres Nachladen" />
+    <String id="30042" name="Kraftgebundenes Lockeres Nachladen" tooltip="Erhöht den Fertigkeitsschaden für die folgende Kettenfertigkeit um 20%: Streuschuss." skillName="Lockeres Nachladen" />
+    <String id="30043" name="Glyphe des Schneidens" tooltip="Verdoppelt die kritische Trefferrate." skillName="Bombardement" />
+    <String id="30044" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Streuschuss" />
+    <String id="30045" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Kernschuss" />
+    <String id="30046" name="Glyphe des Geistes" tooltip="Reduziert den Verbrauch der Willenskraft um 10." skillName="Feuersalve" />
+    <String id="30047" name="Glyphe des Distanztreffers" tooltip="Erhöht die Reichweite um 5m." skillName="Feuersalve" />
+    <String id="30048" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Arkanes Sperrfeuer" />
+    <String id="30049" name="Glyphe der Abschirmung" tooltip="Erhöht die Angriffsgeschwindigkeit um 30%, bis Arkanes Sperrfeuer explodiert." skillName="Arkanes Sperrfeuer" />
+    <String id="30050" name="Glyphe des Schneidens" tooltip="Verdreifacht die Chance auf kritische Treffer." skillName="Willensgeschoss" />
+    <String id="30051" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Sprungbombe" />
+    <String id="30052" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Raketensprung" />
+    <String id="30055" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Balders Rache" />
+    <String id="30056" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Regeneration" />
+    <String id="30057" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Zwillingsgeschütz" />
+    <String id="30058" name="Glyphe der Kraft" tooltip="Erhöht den Fertigkeitsschaden um $value." skillName="Balders Rache" />
+    <String id="30059" name="Glyphe der Energie" tooltip="Entfernt die Abklingzeit mit einer Wahrscheinlichkeit von $prob." skillName="Lockeres Nachladen" />
+    <String id="30060" name="Glyphe der Energie" tooltip="Verringert die Abklingzeit um $value." skillName="Befehl: Zurückrufen" />
+</StrSheet_Crest>

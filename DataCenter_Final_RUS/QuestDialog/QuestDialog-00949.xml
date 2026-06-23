@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="4">Мне нужны добровольцы, способные пробраться в Цитадель Пыток и защитить ученых, пока их всех не перебили.&lt;BR&gt;&lt;BR&gt;Очевидно, что солдатам внутри это не под силу. Есть желание помочь, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Разыщи Мейгрена в Цитадели Пыток, когда задание будет выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1003">
+        <Page social="4">Привет, привет... Надеюсь, трудной работой тебя не запугать.&lt;BR&gt;&lt;BR&gt;Мы здесь с одной целью: разработать защиту от проклятий и заклинаний монстров, которые они насылают на наших людей. Увы, но мы никак не можем добыть ключевые ингредиенты&lt;NEXTPAGEBUTTON&gt;"Что вам нужно?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Второй и третий этажи контролирует весьма необычная нежить, у которой есть предметы, генерирующие нужный для нас тип маны.&lt;BR&gt;&lt;BR&gt;На втором этаже есть {@LinkCreature:33#3#Благородные вампирши} и {@LinkCreature:33#53#Проклятые знатные вампирши}, которые носят при себе кровавые гребни, а {@LinkCreature:33#4#Вампиры-джентльмены} на третьем этаже - карманные часы. Достань нам эти артефакты.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1003">
+        <Page social="4">У тебя получилось! Теперь я смогу защититься от вампиров и их гипнотической магии. Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" villagerId="1003">
+        <Page social="0">{@LinkCreature:33#3#Благородные вампирши} и {@LinkCreature:33#53#Проклятая знатные вампирши} засели в Зале Дев. {@LinkCreature:33#4#Вампиры-джентльмены} заняли Зал мастеров. К счастью, между тобой и этими жуткими куклами будет целый этаж...</Page>
+    </Text>
+</QuestDialog>

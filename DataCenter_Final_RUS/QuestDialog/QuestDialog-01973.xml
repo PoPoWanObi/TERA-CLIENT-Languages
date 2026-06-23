@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3510#Торай} с Научной станции "Гибельный рык" прислал запрос о помощи. У него постоянная проблема со сбором образцов для исследования.&lt;BR&gt;&lt;BR&gt;Твои навыки как раз подходят для такого задания!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Я заметил неподалеку гнездо с яйцами нагов. Уверен, это яйца аргоновых нагов. Только подумай о последствиях!&lt;BR&gt;&lt;BR&gt;К сожалению, без доказательств это не больше, чем просто предположение. Мне нужны образцы яиц, но... Аргоновые наги или нет, у них все равно не может быть яиц.&lt;BR&gt;&lt;BR&gt;Ты сможешь помочь?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">О, да. Эта скорлупа отличается от обычной.&lt;BR&gt;&lt;BR&gt;Любопытно. Как аргоны это делают?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Для начала мне нужно понять, как аргоны воздействуют на такую кристаллическую расу как вендиго.&lt;BR&gt;&lt;BR&gt;Убей всех Зараженных вендиго, которые тебе попадутся, и принеси мне их осколки. Они - ключ к разгадке.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">Поразительно. Я задавался вопросом, какие физические изменения происходят с аргоновыми существами во время превращения.&lt;BR&gt;&lt;BR&gt;Это все проясняет.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Изменения коснулись не только кожи нагов.&lt;BR&gt;&lt;BR&gt;Я бы хотел изучить кожу тех, на которых воздействовали аргоны.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">Желток из зараженного яйца? Поразительно. Интересно, аргоновые изменения передаются по наследству?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Я бы хотел изучить зараженные яйца нагов. Это первая стадия развития аргоновых порождений.&lt;BR&gt;&lt;BR&gt;Мы должны узнать, насколько они опасны.</Page>
+    </Text>
+</QuestDialog>

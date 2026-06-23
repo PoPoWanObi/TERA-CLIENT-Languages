@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Das "Arsenal", das Ihr mit Euch führt, sagt mir alles, was ich über Euch wissen muss. Ihr seid hier, um zu kämpfen, nicht um zu lernen. Ich glaube allerdings, Ihr könnt beides.&lt;BR&gt;&lt;BR&gt;Diese {@LinkCreature:13#300933#Ghilliedhus} besitzen ungewöhnliche &lt;b&gt;Essenzen&lt;/b&gt;. Ihr braucht mehr Erfahrung darin, das Falsche zu erkennen, bevor Ihr das Richtige tun könnt.&lt;BR&gt;&lt;BR&gt;Seid Ihr bereit, Euer Unwissen durch improvisierte Forstwissenschaft auszuräumen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">Vielleicht habt Ihr doch noch das Zeug zum Forscher ... falls Ihr Euer Leben ohne Waffen bestreiten könnt.&lt;BR&gt;&lt;BR&gt;Meine "Wachhunde" Helier und Clovis legen allerdings Wert darauf, dass Ihr ihre Dienste vorerst noch weiter in Anspruch nehmt. Fragt sie, was sie wollen, wenn Ihr so weit seid.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Ich werde ganz offen zu Euch sein, &lt;PCCLASS&gt;. Wenn Ihr nicht erkennt, was diese {@LinkCreature:13#300930#Älteren Ghilliedhus} so "besonders" macht, seid Ihr nicht von Nutzen für die Föderation, und für mich auch nicht. Macht einfach damit weiter, was Ihr Soldaten am besten könnt, bis Ihr gelernt habt, wahre &lt;b&gt;Herzholzessenz&lt;/b&gt; zu erkennen.</Page>
+    </Text>
+</QuestDialog>

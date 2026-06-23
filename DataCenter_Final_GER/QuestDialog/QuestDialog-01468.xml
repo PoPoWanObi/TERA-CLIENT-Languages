@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">Gah! Diese Glimmenden Moloche bringen ständig meine Erzsucher um. Wir schleichen uns rein in der Hoffnung, etwas Fyrdraserz zu finden, und schon schießen diese verdammten Moloche aus dem Boden.&lt;NEXTPAGEBUTTON&gt;"Ich werde mich um die Moloche kümmern."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Das wäre großartig. Selbst wenn Ihr nur einen ausschaltet, würde das schon einen Unterschied machen.&lt;BR&gt;&lt;BR&gt;Lasst es mich wissen, falls Ihr dabei auf eine große Fyrdrasader stoßt. Das muss aber unser Geheimnis bleiben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="6">Gut gemacht. Jetzt können wir mehr Erz schürfen, mehr Waffen herstellen und mehr Argonen ausschalten!&lt;BR&gt;&lt;BR&gt;Vielen Dank, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

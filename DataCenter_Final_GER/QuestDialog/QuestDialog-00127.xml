@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">Ich glaube, die Shurianer haben alles hier ins Chaos gestürzt. Normalerweise lassen uns die {@LinkCreature:4#3021#Seelenpirscher}, die Beschützer von Bahaars Ruhestätte, in Ruhe, wenn wir ihnen nicht zu nahe kommen.&lt;BR&gt;&lt;BR&gt;Jetzt nicht mehr! Dank der Shurianer greifen sie jetzt alles an, was sich bewegt! Ich habe nichts gegen Bahaar, aber wir müssen die Seelenpirscher ausschalten, bevor sie uns ausschalten!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Jetzt, wo die Shurianer auf der Flucht und die Seelenpirscher unter Kontrolle sind, kann Bahaar in Frieden ruhen, und wir können unsere Arbeit ohne Angst zu Ende bringen.&lt;BR&gt;&lt;BR&gt;Die Lage ist auch so schon gefährlich genug.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">Die {@LinkCreature:4#3021#Seelenpirscher} sind jetzt unser Hauptangriffsziel. Haltet sie von unseren Truppen fern.</Page>
+    </Text>
+</QuestDialog>

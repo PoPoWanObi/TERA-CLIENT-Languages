@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Un large contingent de mercenaires crestaraths, de prions et de mutants bloquent l'accès aux Mines perdues.&lt;BR&gt;&lt;BR&gt;Allez éliminer les {@LinkCreature:40#27#pourfendeurs}, {@LinkCreature:40#26#faucheurs} et {@LinkCreature:40#25#archers crestaraths}, les {@LinkCreature:40#14#dévastateurs prions} et les {@LinkCreature:40#16#mineurs mutants} aux alentours des mines. Nous vous paierons pour chaque emblème que vous rapporterez.&lt;BR&gt;&lt;BR&gt;Faites votre rapport à Lashirah dans la Zone de Quarantaine du Centre de recherche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Il y aura d’autres missions pour vous, &lt;PCNAME&gt;. Bien joué.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Pas d'emblème, pas de prime, &lt;PCNAME&gt;. Rapportez-moi tout ce que vous trouverez.</Page>
+    </Text>
+</QuestDialog>

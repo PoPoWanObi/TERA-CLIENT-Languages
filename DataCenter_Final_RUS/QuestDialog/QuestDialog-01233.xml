@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="5">Я хочу поделиться нашим запасом противоядия с Канто - он находится этажом ниже.&lt;BR&gt;&lt;BR&gt;Недавно их здорово потрепали, так что помоги им, чем сможешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1013">
+        <Page social="4">Противоядие! Спасибо тебе! &lt;BR&gt;&lt;BR&gt;Отнеси еще и Трикаяну. Ему вчера досталось.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1006">
+        <Page social="4">Он что, шутит? Да это всего лишь царапина. Хотя, если честно... меня немного лихорадит. Впрочем, возможно, мне это только кажется.&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;. Надеюсь, ты останешься здесь, чтобы нам помочь.</Page>
+    </Text>
+</QuestDialog>

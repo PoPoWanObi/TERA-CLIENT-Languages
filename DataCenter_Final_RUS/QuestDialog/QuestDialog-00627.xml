@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">Нам нужно преподать урок Скальным преследователям кулкари, заполонившим окрестности Утеса Василисков.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:21#9#Скальных преследователей-злобней}, {@LinkCreature:21#10#Скальных преследователей-крушителей} и {@LinkCreature:21#5#Скальных преследователей-пророков} и принеси их браслеты Нанарин в Развалины каменного столпа, когда закончишь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Славно у тебя получилось разобраться с этим крикливым племенем Скальных преследователей. Без них кулкари уже не будут сеять смерть вокруг.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">Мне очень жаль, но твое задание еще не закончено.</Page>
+    </Text>
+</QuestDialog>

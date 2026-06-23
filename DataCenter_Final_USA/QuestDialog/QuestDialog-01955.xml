@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0">You have the instructions? Here are the runes. Then all that's left is the crafting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1609">
+        <Page social="0">Never seen anything quite like this before? It's going to be such fun for our scholars.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1609">
+        <Page social="0">You got the design, and I gave you the materials I had. Missing stuff? Go see the alchemy vendors.</Page>
+    </Text>
+</QuestDialog>

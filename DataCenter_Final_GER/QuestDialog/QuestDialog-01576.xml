@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Thulsas Draelkarpfeiler beeinflussen nicht nur die Wendigos. Wir müssen das Machtgleichgewicht beibehalten, koste es, was es wolle.&lt;BR&gt;&lt;BR&gt;Tötet die {@LinkCreature:51#2021#Schneefeldarachnen} und {@LinkCreature:51#2031#Eisherzsäbelzähne}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Kenzar im Eislager der Hartnäckigkeit, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Ihr habt Euch den Dank der Föderation verdient! Eure Gilde gereicht allen zum Vorbild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

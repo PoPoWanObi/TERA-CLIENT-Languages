@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">Quand nous avons perdu notre plateforme de vol, nous avons dû bricoler des moyens de transport improvisés. Sans eux, jamais nous ne nous risquerions à quitter Kanstria.&lt;NEXTPAGEBUTTON&gt;"Comment fonctionnent-ils?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">En fait, ces engins ressemblent en tous points à des téléportails. Nous manquons de puissance magique pour créer un véritable réseau de téléportails, alors nous avons monté ces plateformes de téléportation. Elles sont alimentées par des éclats d'iteris et ces derniers ne sont pas bien compliqués à trouver.&lt;BR&gt;&lt;BR&gt;Faites un tour dans les environs et trouvez-moi un de ces éclats. J'espère que vous vous y connaissez en minage.&lt;NEXTPAGEBUTTON&gt;"Les cailloux n'ont plus de secrets pour moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent... Je vous retrouverai à la {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;Bonne chance!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Parfait. Vous l'avez trouvé.&lt;BR&gt;&lt;BR&gt;Au sud d'ici, vous avez l'{@Rgn:49002}. Les argons s'en servent pour siphonner l'énergie des champs. Il faudra miner des éclats d'iteris dans des {@Collection:149} avant de pouvoir utiliser la plateforme.&lt;BR&gt;&lt;BR&gt;Venez me voir quand vous aurez un éclat d'iteris.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">Maintenant, activez la plateforme de téléportation à l'aide de l'éclat.&lt;BR&gt;&lt;BR&gt;Je vous retrouverai à Kanstria!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">Je sais qu'il faut un peu de chance pour trouver ces éclats, mais avec un peu de persévérance vous finirez par en trouver un.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">Bien joué!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les plateformes de téléportation nous aident à prendre les argons de court. Plutôt futé, non?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

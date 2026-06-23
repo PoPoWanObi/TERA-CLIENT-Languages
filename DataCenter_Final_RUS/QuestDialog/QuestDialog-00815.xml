@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Хищные твари угрожают работникам, отвоевывающим земли у порчи. Убивай {@LinkCreature:28#2011#Дымнолапых древолков}, {@LinkCreature:28#2021#Чумных кулларов} и {@LinkCreature:28#2031#Чумных тентакулларов}.&lt;BR&gt;&lt;BR&gt;Закончив, сообщи Ишмеле из лагеря "Закай". Кругом, марш!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1002">
+        <Page social="5">Спасибо, это была нелегкая работа! Нам пойдет на пользу все, что хоть немного облегчит работу нашим сотрудникам.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1002">
+        <Page social="0">Увы, без доказательств того, что они мертвы, я не могу выдать тебе награду.</Page>
+    </Text>
+</QuestDialog>

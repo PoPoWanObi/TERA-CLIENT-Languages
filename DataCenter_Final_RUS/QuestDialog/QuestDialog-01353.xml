@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Литейную цианопушек атакуют Атакела-звероловы. Мы не можем потерять пушки.&lt;BR&gt;&lt;BR&gt;Задержи этих аргонов!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" prevId="2" villagerId="1007">
+        <Page social="6">Быстро ты! После того как аргоны атаковали нашу пушку в Кратере Магтулк, мне уже показалось, что следующей целью будем мы.&lt;NEXTPAGEBUTTON&gt;"Ты в порядке?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ба! Чтобы меня убить, придется нанести больше пары царапин.&lt;BR&gt;&lt;BR&gt;Что это? Это не мое. Наверное, кто-то из Зульфикарской крепости потерял. Может, у тебя получится найти владельца?</Page>
+    </Text>
+</QuestDialog>

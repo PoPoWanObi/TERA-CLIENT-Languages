@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="4">Но это будет плата за работу, а не милостыня или взятка.&lt;BR&gt;&lt;BR&gt;Когда пираты гнались за мной, пришлось выбросить груз за борт, чтобы корабль пошел быстрей.&lt;BR&gt;&lt;BR&gt;Сброшенное вынесло волной на берег у лестницы, которая находится к востоку от деревни. {@LinkCreature:212#1002#Сидара} примет груз и заплатит за потраченное время.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">Тебе удалось найти больше, чем Диркен надеялся. Секундочку... ага, все ясно! Среди этого груза есть ящики, которые нам не принадлежат.&lt;BR&gt;&lt;BR&gt;Вот этот принадлежал уже покойному капитану. Хм-м...&lt;BR&gt;&lt;BR&gt;Кто нашел - того и будет, ага? Тебе ведь все равно заплатят, а потому кое-что пусть останется сугубо между нами. Понимаешь мой намек?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Зачем ты здесь? В отличие от солдат, мне не платят за то, чтобы торчать на одном месте, чтобы подростки смогли вдоволь налюбоваться моей формой.&lt;BR&gt;&lt;BR&gt;Деньги мне приходится зарабатывать трудом. Если и ты не против заработать трудом, то мне все еще нужны эти ящики.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="4">Sicher zahle ich dafür, dass Ihr jemand anderen drangsaliert. Das ist dann aber eine Bezahlung und kein Almosen.&lt;BR&gt;&lt;BR&gt;Als mich die Piraten hierher gejagt haben, musste ich einen Teil meiner Ladung über Bord werfen, um ihnen voraus zu bleiben.&lt;BR&gt;&lt;BR&gt;Sie ist am Strand angespült worden, direkt unten an der Treppe im Osten des Dorfes. Bringt sie zu {@LinkCreature:212#1002$$Sidara}, und sie wird Euch dafür bezahlen, dass Ihr hier wegbleibt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">Ihr habt ja mehr geborgen als Dirken dachte. Moment mal ... Kein Wunder! Ihr habt Kisten geborgen, die uns gar nicht gehören.&lt;BR&gt;&lt;BR&gt;Diese hier gehört dem verdammten Regiment. Hmm ...&lt;BR&gt;&lt;BR&gt;Wer's findet, darf es behalten, oder? Was mich betrifft, ich werde Euch bezahlen. Dann sind wir beide quitt. Versteht Ihr, was ich meine?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Warum seid Ihr denn immer noch hier? Im Gegensatz zu einem Soldaten werde ich nicht dafür bezahlt, rumzustehen und meine Uniform von ein paar Grünschnäbeln bewundern zu lassen.&lt;BR&gt;&lt;BR&gt;Ich arbeite für meinen Lebensunterhalt! Und das könntet Ihr auch tun, wenn Ihr mir die Kisten vom Strand holen würdet.</Page>
+    </Text>
+</QuestDialog>

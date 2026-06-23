@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Привет! Хочешь заняться сегодня кое-чем новым? {@LinkCreature:63#3003#Элтиэнн} насела на меня с требованием убить кое-каких тварей, а я, между прочим, городская девчонка! Мне это совершенно не интересно.&lt;BR&gt;&lt;BR&gt;Но я уверена, что для тебя это не составит никаких трудностей. Поговори с {@LinkCreature:63#3003#Элтиэнн}, чтобы узнать все мрачные подробности.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Ей не нравится убивать? Да что она за кастаник? Странная она, все-таки.&lt;BR&gt;&lt;BR&gt;Ладно, по крайней мере, ты не из трусливых. Мне нужно, чтобы ты кое на кого поохотился для Руки. Тебе потребуется отправиться в путь, убить несколько нагов и принести их части тела.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Ого! Сырая кожа, когти и кости... фу!&lt;BR&gt;&lt;BR&gt;Все это было у тебя в рюкзаке, а тебя даже ни разу не стошнило?&lt;BR&gt;&lt;BR&gt;А руки у тебя помыты? Свою оплату можешь получить у {@LinkCreature:63#3003#Элтиэнн}.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Нам нужны шкуры, кости и когти нагов. Только не спрашивай, зачем.&lt;BR&gt;&lt;BR&gt;Охоться на {@LinkCreature:10#8#Нагов-военачальников} на Острове Серпентис и принеси мне части их тела. Мы найдем им применение.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Гадость какая. То есть, спасибо!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Элтиэнн} заплатит тебе за работу.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Нам нужны панцири, кости и когти нагов. Только не спрашивай, зачем.&lt;BR&gt;&lt;BR&gt;Охоться на {@LinkCreature:10#16#Нагов с клешнями} на Острове Серпентис и принеси мне части их тела. Мы найдем им применение.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Что это за вонь? Могу поспорить, {@LinkCreature:63#3003#Элтиэнн} заставляет тебя таскать мне эту гадость, чтобы меня позлить.&lt;BR&gt;&lt;BR&gt;Поговори с этой старой кошелкой, чтобы получить свою оплату.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Нам нужны панцири, кости и когти нагов. Только не спрашивай, зачем.&lt;BR&gt;&lt;BR&gt;Охоться на {@LinkCreature:10#17#Нагов-клешнебоев} на Острове Серпентис и принеси мне части их тела. Мы найдем им применение.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Фу, мерзость. Ну, хотя бы не воняет... пока.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Элтиэнн} тебе заплатит.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Нам нужны панцири, кости и когти нагов. Только не спрашивай, зачем.&lt;BR&gt;&lt;BR&gt;Охоться на {@LinkCreature:10#18#Нагов-левиафанов} на Острове Серпентис и принеси мне части их тела. Мы найдем им применение.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, это великолепно!</Page>
+    </Text>
+</QuestDialog>

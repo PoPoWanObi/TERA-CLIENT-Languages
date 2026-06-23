@@ -1,0 +1,26 @@
+<StrSheet_UnidentifiedItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem StrSheet_UnidentifiedItem.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem">
+    <String string="{ItemName} énigmatique" name="unidentified" grade="0" />
+    <String string="{ItemName} de maître" name="masterpiece" grade="0" />
+    <String string="Apogée : {ItemName}" name="awakened" grade="0" />
+    <String string="{ItemName} énigmatique de maître" name="unidentifiedmasterpiece" grade="0" />
+    <String string="Apogée : {ItemName} scellé" name="unidentifiedawakened" grade="0" />
+    <String string="Enigmatique" name="unidentifiedModifier" grade="0" />
+    <String string="De maître" name="masterpieceModifier" grade="0" />
+    <String string="Apogée :" name="awakenedModifier" grade="0" />
+    <String string="énigmatique de maître" name="unidentifiedmasterpieceModifier" grade="0" />
+    <String string="Apogée : scellé" name="unidentifiedawakenedModifier" grade="0" />
+    <String string="Enigmatique" name="unidentifiedKeyword" grade="0" />
+    <String string="De maître" name="masterpieceKeyword" grade="0" />
+    <String string="Apogée" name="awakenedKeyword" grade="0" />
+    <String string="énigmatique de maître" name="unidentifiedmasterpieceKeyword" grade="0" />
+    <String string="Apogée : scellé" name="unidentifiedawakenedKeyword" grade="0" />
+    <String string="énigme" name="UnidentifiedType" grade="1" />
+    <String string="Enigme complexe" name="UnidentifiedType" grade="2" />
+    <String string="Enigme complexe" name="UnidentifiedType" grade="3" />
+    <String string="Enigme complexe" name="UnidentifiedType" grade="4" />
+    <String string="&lt;Ensemble&gt;" name="setItem" grade="0" />
+    <String string="Enigme" name="RealUnidentifiedType" grade="1" />
+    <String string="Enigme complexe" name="RealUnidentifiedType" grade="2" />
+    <String string="Parchemin énigmatique béni" name="RealUnidentifiedType" grade="3" />
+    <String string="Parchemin énigmatique noble" name="RealUnidentifiedType" grade="4" />
+</StrSheet_UnidentifiedItem>

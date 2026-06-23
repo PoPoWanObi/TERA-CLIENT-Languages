@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">Wir haben Informationen über {@LinkCreature:18#103#Kudarsh}, den flüchtigen Anführer der Diebe, die die Abscheulichkeiten bei Tulufan begangen haben. Der Informant ist einer der Darmschlitzer, und er behauptet, Kudarsh verstecke sich in Mags Kuchanaru.&lt;BR&gt;&lt;BR&gt;Sagt mal, hattet Ihr eigentlich heute Abend schon etwas vor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Ist erledigt, oder? Hervorragend! Das sollte den Rest für eine Weile in Schach halten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">Ihr seid nicht an Geld interessiert? Nun, und wie steht es mit Eurem Leben?&lt;BR&gt;&lt;BR&gt;Nein, ich drohe Euch keineswegs! Wenn Kudarsh Anführer bleibt, sind sie überall. Und zwar sehr schnell!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Между нами и тем местом, куда тебе нужно попасть, можно встретить множество {@LinkCreature:13#300932#древней}. Продемонстрируй свое мастерство в бою, чтобы мы имели четкое представление, на что ты сгодишься.&lt;BR&gt;&lt;BR&gt;Берегись их веток. Когда они бьют сверху вниз, уворачивайся или блокируй удар. Если ты получишь ранения или выбьешься из сил, отдохни у огня или поговори с целителем.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">То, что мы увидели сегодня, пробуждает в нас надежду. Тебе удалось продемонстрировать мастерство, придавшее сил усталым бойцам...</Page>
+    </Text>
+</QuestDialog>

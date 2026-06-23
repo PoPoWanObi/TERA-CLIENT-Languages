@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="4">In Castanica passieren verrückte Sachen, &lt;PCCLASS&gt;. Ihr geht durch eine Gasse, und irgendwer versucht, Euch komische Dinge zu verkaufen, von denen Ihr noch nie gehört habt.&lt;BR&gt;&lt;BR&gt;Und ich hörte, von einem Freund eines Freundes natürlich, dass sie Knochen der {@LinkCreature:4#2031#Eldritchkardinäle} verkaufen.&lt;BR&gt;&lt;BR&gt;Für medizinische Zwecke vielleicht? Weiß ich nicht und will ich auch nicht wissen. Aber wenn man damit Geld verdienen kann ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1108">
+        <Page social="4">Ich werde sie nach Castanica schicken. Hier ist Euer Anteil. Aber erzählt den anderen Soldaten nichts. Wir sollten das für uns behalten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1108">
+        <Page social="0">Eure Sache, wenn Ihr mir nicht mehr helfen wollt, aber ich würde mich freuen, wenn es weiterhin unter uns bleibt.&lt;BR&gt;&lt;BR&gt;Erzählt niemandem, dass ich gute Preise für Kardinalsknochen zahle, hört Ihr?</Page>
+    </Text>
+</QuestDialog>

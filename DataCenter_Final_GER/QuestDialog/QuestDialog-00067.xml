@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">Es gibt noch andere, die Eure Hilfe benötigen. Mehrere Hausierer sitzen in Blutpfad fest. Ihre Karren wurden gestohlen oder beschädigt, aber sie könnten ihre Waren dennoch nach Crescentia schaffen, wenn sie jemand begleiten würde.&lt;BR&gt;&lt;BR&gt;Selbst eine kleine Lieferung wäre eine echte Hilfe. Sucht den {@LinkCreature:203#1028#Hausierer} östlich von hier. Und beeilt Euch, er braucht Euren Schutz!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3" villagerId="25">
+        <Page social="0">Ich habe ein paar Grundnahrungsmittel und Medikamente, aber die Devaner würden mich niedermetzeln. Könnt Ihr mich unversehrt nach Crescentia bringen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4">Ausgezeichnet. Auch eine Lieferung einfacher Waren kann in Zeiten wie diesen so viel Hoffnung bringen. Auf so ein Zeichen haben wir gewartet.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Magistrat Corann. Er wird Euch bestimmt sein Lob aussprechen wollen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">Ihr seid &lt;PCNAME&gt;? Der Tribun hat Euch gelobt. Vielen Dank, dass Ihr den Händler begleitet habt. Ich brauche Euch wohl nicht zu sagen, wie sehr solche kleinen Siege die Moral heben.&lt;BR&gt;&lt;BR&gt;Crescentia stehen finstere Zeiten bevor, aber gemeinsam werden wir sie bewältigen. Ich danke Euch.</Page>
+    </Text>
+</QuestDialog>

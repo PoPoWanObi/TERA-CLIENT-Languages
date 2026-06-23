@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="4">Солдат, мне нужен гонец. Аргоны во время последней атаки перерезали наши линии связи. Нужно с этим что-то делать.&lt;NEXTPAGEBUTTON&gt;"С радостью помогу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Превосходно. Для начала тебя ждет Литейная цианопушек. Передай эти приказы {@LinkCreature:248#1015}у. По дороге найди {@LinkCreature:78#1012}а и скажи ему, чтобы возвращался в Зульфикарскую крепость.&lt;BR&gt;&lt;BR&gt;Вольно!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1012">
+        <Page social="4">Назад на базу? Но я еще не отвез припасы.&lt;BR&gt;&lt;BR&gt;Они скоропортящиеся. Сможешь довезти их за меня?&lt;NEXTPAGEBUTTON&gt;"Если мне туда по пути, то без проблем".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Отлично! {@LinkCreature:78#1009} зажарил поросят для кузнецов, которые работают в Хановарских предместьях.&lt;BR&gt;&lt;BR&gt;Найди {@LinkCreature:248#1044}а к юго-востоку от крепости. Это такой голодный на вид аман с огромным молотом.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1044">
+        <Page social="6">Во имя титанов, какой запах! Я не ел свежего мяса уже... даже не помню, сколько!&lt;BR&gt;&lt;BR&gt;Теперь остается только выжить, и можно наслаждаться едой.&lt;NEXTPAGEBUTTON&gt;"Аргоны?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Снова Зульфикарская крепость. Если будешь проходить мимо, можешь убить пару-тройку Аргоновых злодеев-мертвецов? Тебе по дороге, да и мои бойцы целее будут.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="1015">
+        <Page social="6">Рад встрече с тобой, &lt;PCNAME&gt;. Мурак хорошо о тебе отзывался.&lt;BR&gt;&lt;BR&gt;Спасибо за приказы. Когда нас отрезало, я побоялся оставлять здесь своих людей. Если бы мы обладали технологиями аргонов, это бы изменило ход войны.&lt;BR&gt;&lt;BR&gt;Надеюсь, оно того стоит.</Page>
+    </Text>
+</QuestDialog>

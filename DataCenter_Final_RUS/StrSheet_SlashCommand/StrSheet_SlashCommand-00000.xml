@@ -1,0 +1,85 @@
+<StrSheet_SlashCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_SlashCommand StrSheet_SlashCommand.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_SlashCommand">
+    <Command id="16" name="привет" alias="hello,wave,hi" />
+    <Command id="17" name="поклон" alias="greet,formal,bow" />
+    <Command id="18" name="грусть" alias="cry,sob,sad" />
+    <Command id="19" name="радость" alias="laugh,lol,happy" />
+    <Command id="20" name="победа" alias="cheer,victory,win" />
+    <Command id="21" name="танец" alias="dance" />
+    <Command id="22" name="насмешка" alias="bringit,comeon,taunt" />
+    <Command id="23" name="аплодисменты" alias="applaud,clap" />
+    <Command id="24" name="мольба" alias="sorry,plead,beg" />
+    <Command id="25" name="размышление" alias="ponder,hmm,think" />
+    <Command id="26" name="любовь" alias="love" />
+    <Command id="27" name="вперед" alias="attack,charge" />
+    <Command id="28" name="показать" alias="there,point" />
+    <Command id="29" name="стеснение" alias="blush,shy" />
+    <Command id="30" name="безумие" alias="angry,anger,mad" />
+    <Command id="38" name="сесть" alias="sit" />
+    <Command id="39" name="встать" />
+    <Command id="101" name="Обмен" alias="trade,tr" interactionMenuName="Обмен" />
+    <Command id="102" name="Просмотр профиля" alias="viewprofile,profile" />
+    <Command id="104" name="Дуэль" alias="duel,challenge" interactionMenuName="Дуэль" />
+    <Command id="105" name="Сдаться" alias="uncle,yield" />
+    <Command id="107" name="Место" alias="pos,position" />
+    <Command id="201" name="Пригласить в группу" alias="invite,inv" interactionMenuName="Пригласить в группу" />
+    <Command id="202" name="Бросить" alias="drop,quit" />
+    <Command id="203" name="Исключить" alias="uninvite,kick" interactionMenuName="Исключить" />
+    <Command id="205" name="Сделать лидером" alias="leader,promote" interactionMenuName="Сделать лидером" />
+    <Command id="206" name="Поиск группы" alias="lfg,goal" />
+    <Command id="207" name="Подать заявку в группу" alias="join,applytoparty" />
+    <Command id="208" name="Пригласить всех в рейд" alias="inviteall,all" interactionMenuName="Пригласить всех в рейд" />
+    <Command id="209" name="Дать возможность приглашать" alias="grantabilitytoinvite,assist" interactionMenuName="Дать возможность приглашать" />
+    <Command id="210" name="Запретить приглашения" alias="revokeabilitytoinvite,revoke" interactionMenuName="Запретить приглашения" />
+    <Command id="301" name="Покинуть гильдию" alias="gquit,guildquit" />
+    <Command id="302" name="Исключить из гильдии" alias="gkick,guildkick" />
+    <Command id="303" name="Сделать главой гильдии" alias="gmaster,guildmaster" />
+    <Command id="304" name="Подать заявку" alias="apply" />
+    <Command id="305" name="Распустить гильдию" alias="gdisband,guilddisband" />
+    <Command id="307" name="Гильдии на сервере" alias="glist,guildlist" />
+    <Command id="308" name="Приглашение в гильдию" alias="ginvite,guildinvite" interactionMenuName="Пригласить в гильдию" />
+    <Command id="310" name="Подать заявку" alias="gapply" interactionMenuName="Подать заявку" />
+    <Command id="311" name="Похвала" alias="praise,recommend" />
+    <Command id="312" name="Восхвалить гильдию" alias="guildpraise,gpraise" interactionMenuName="Восхвалить гильдию" />
+    <Command id="313" name="Вызов на битву гильдий" interactionMenuName="Объявить битву гильдий" />
+    <Command id="403" name="Помощь" alias="help,h" />
+    <Command id="451" name="Вступить в групповой бой" alias="dmjoin,joindm" interactionMenuName="Вступить в групповой бой" />
+    <Command id="452" name="Пригласить в групповой бой" alias="dminvite" interactionMenuName="Пригласить в групповой бой" />
+    <Command id="453" name="Исключить из группового боя" alias="dmkick" />
+    <Command id="454" name="Покинуть групповой бой" alias="dmleave,dmdrop" />
+    <Command id="501" name="Список друзей" alias="friendlist,social" />
+    <Command id="502" name="Добавить в друзья" alias="friend,fr" interactionMenuName="Добавить в друзья" />
+    <Command id="503" name="Блокировать" interactionMenuName="Блокировать" />
+    <Command id="504" name="Разблокировать" interactionMenuName="Разблокировать" />
+    <Command id="505" name="Смена группы" interactionMenuName="Смена группы" />
+    <Command id="506" name="Записка другу" interactionMenuName="Написать сообщение другу" />
+    <Command id="507" name="Удалить друга" interactionMenuName="Удалить друга" />
+    <Command id="508" name="Запрос сервера друга" interactionMenuName="Запросить друга у сервера" />
+    <Command id="701" name="Задержать" />
+    <Command id="702" name="Отпустить" />
+    <Command id="801" name="Создать канал" alias="make,makechannel" />
+    <Command id="802" name="Зайти в канал" alias="chat,joinchannel" />
+    <Command id="803" name="Покинуть канал" alias="leave" />
+    <Command id="806" name="Изменить пароль" alias="password,chatpassword" />
+    <Command id="807" name="Исключить из канала" alias="chatkick,ckick" />
+    <Command id="901" name="Время игры" />
+    <Command id="902" name="?" alias="chathelp,h" />
+    <Command id="903" name="Время БД" />
+    <Command id="904" name="Время сервера" />
+    <Command id="1001" name="Следовать" alias="follow,f" interactionMenuName="Следовать" />
+    <Command id="1002" name="Шепот" interactionMenuName="Шепот" />
+    <Command id="1101" name="Сбросить" />
+    <Command id="1102" name="Петиция" />
+    <Command id="1103" name="Осмотреть" alias="inspect,look" interactionMenuName="Осмотреть" />
+    <Command id="1104" name="Выбрать" />
+    <Command id="1105" name="Сравнить достижения" alias="achievements,compare,achieves" interactionMenuName="Сравнить достижения" />
+    <Command id="1201" name="Бросить кубик" alias="rolldice,roll,dice" />
+    <Command id="2001" name="Сведения о пользователе" alias="inquireuserinfo,user" interactionMenuName="Сведения о пользователе" />
+    <Command id="2002" name="Принудительный выход питомца" alias="petforcequit,closestore" interactionMenuName="Принудительный выход питомца" />
+    <Command id="3001" name="Пожаловаться на игрока" alias="reportplayer,spam" interactionMenuName="Пожаловаться на игрока" />
+    <Command id="3002" name="Пожаловаться" interactionMenuName="Пожаловаться" />
+    <Command id="3003" name="Поддержка" />
+    <Command id="3004" name="RP" alias="em, e" />
+    <Command id="3005" name="Баги" />
+    <Command id="3006" name="геймпад" alias="controller,геймпад" />
+    <Command id="3007" name="Призвать друга" alias="summonfriend,summon" interactionMenuName="Призвать друга" />
+</StrSheet_SlashCommand>

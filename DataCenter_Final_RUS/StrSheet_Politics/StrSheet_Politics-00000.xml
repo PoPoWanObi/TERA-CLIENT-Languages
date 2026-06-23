@@ -1,0 +1,84 @@
+<StrSheet_Politics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Politics StrSheet_Politics.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Politics">
+    <String id="1" string="Валькионский избирательный комитет" />
+    <String id="2" string="Руководство по выборам" />
+    <String id="3" string="Возьмите бразды правления в свои руки! Станьте кандидатом на пост ванарха Валькионской Федерации и добейтесь могущества и славы. Каждой ванарх правит одной провинций, в которой устанавливает политику и собирает налоги.&#xA;&#xA;Зарегистрируйтесь у выборного регистратора в любом крупном городе.&#xA;Требования к кандидату:&#xA;   Уровень не ниже {UserLevel}.&#xA;   Глава гильдии уровня {GuildLevel}, в которой не менее {Count} членов.&#xA;Плата за регистрацию:&#xA;   {Amount} шт. Наград Катарнаха&#xA;   {Gold@money}.&#xA;&#xA;Удачи!" />
+    <String id="4" string="Голосование: {ElectionContinent}" />
+    <String id="5" string="{ElectionContinent}: результат&#xA;Голоса получает {UserName} из гильдии {GuildName}." />
+    <String id="6" string="Региональные правила PvP" />
+    <String id="7" string="Использовать глобальные настройки PvP" />
+    <String id="8" string="Нет PvP" />
+    <String id="10" string="Местные торговцы" />
+    <String id="20" string="Уровень местных целителей" />
+    <String id="30" string="Местные учителя" />
+    <String id="40" string="Провинциальные торговые брокеры" />
+    <String id="31" string="Регистрация: выборы {lordNumber}{@ordinal:{lordNumber}} ванарха" />
+    <String id="32" string="Спасибо за регистрацию на выборах {lordNumber}{@ordinal:{lordNumber}} ванарха. Желаем удачи!&#xA;Подробности&#xA;Континент: {ElectionContinent}&#xA;Решение: {ContestType}&#xA;Предпочитаемые провинции&#xA;   1-я провинция: {guardName1}&#xA;   2-я провинция: {guardName2}&#xA;   3-я провинция: {guardName3}&#xA;   4-я провинция: {guardName4}&#xA;   5-я провинция: {guardName5}&#xA;&#xA;Чтобы победить, вы должны добиться уважения у ваших собратьев-игроков!" />
+    <String id="41" string="Результаты выборов: {ElectionContinent}" />
+    <String id="42" string="Поздравляем! Вы стали {lordNumber}{@ordinal:{lordNumber}} ванархом провинции {guardName}!&#xA;Привилегии: вы получаете отчисления от налоговых сборов. Члены вашей гильдии получают почетных скакунов. &#xA;Возможности: вы можете менять налоговые ставки, менять правила PvP, назначать особых NPC и делать объявления для игроков в провинции.&#xA;Процесс: политикой и налоговыми ставками можно управлять через помощников в большинстве городов провинции." />
+    <String id="101" string="Конец срока правления ванарха" />
+    <String id="102" string="Федерация благодарит вас за службу. Вот остаток ваших отчислений с налогов провинций." />
+    <String id="201" string="без рейтинга" />
+    <String id="301" string="Всеобщее голосование" />
+    <String id="302" string="Битва гильдий" />
+    <String id="1001" string="Установить налоги для магазинов и услуг" />
+    <String id="1002" string="Налог с продаж обычных товаров" />
+    <String id="1003" string="Налог с продаж кристаллов" />
+    <String id="1004" string="Налог с продаж символов" />
+    <String id="1005" string="Налог с продаж для ремесленников" />
+    <String id="1006" string="Налог с продаж магазинов редкостей" />
+    <String id="2001" string="Налог на удобства" />
+    <String id="2002" string="Налог на перелеты" />
+    <String id="2003" string="Налог на обучение умениям" />
+    <String id="2004" string="Налог на телепорты" />
+        <String id="20042" string="Competition points: {Score}" />
+    <String id="30011" string="Vanarch Ranking" />
+    <String id="30012" string="Vanarch Ranking by Continent" />
+    <String id="30013" string="Vanarch Activity Ranking" />
+    <String id="30014" string="Points earned from vanarch activity" />
+    <String id="30015" string="{place}{@ordinal:{place}} place" />
+    <String id="30016" string="{points} point{@select:{points}//s}" />
+    <String id="40001" string="{areaRanking}{@ordinal:{areaRanking}} place in {areaTypeName}" />
+<String id="31300005" string="Нет магазинов редкостей" />
+    <String id="31300006" string="Магазины редкостей открыты" />
+    <String id="31300007" string="Целители восстановления" />
+    <String id="31300008" string="Благородные целители" />
+    <String id="31300009" string="Нет учителей умений" />
+    <String id="31300010" string="Учителя умений присутствуют" />
+    <String id="31300011" string="Нет торговых брокеров" />
+    <String id="31300012" string="Есть торговые брокеры" />
+    <String id="10001" string="Разрешить PvP в вашей провинции." />
+    <String id="10002" string="Запретить PvP в вашей провинции." />
+    <String id="10003" string="Закрыть магазины редкостей, в которых продаются недоступные в обычных магазинах предметы." />
+    <String id="10004" string="Открыть магазины редкостей, в которых продаются недоступные в обычных магазинах предметы." />
+    <String id="10005" string="Целители восстановления восстанавливают бодрость игроков." />
+    <String id="10006" string="Благородные целители восстанавливают бодрость игроков и увеличивают их скорость." />
+    <String id="10007" string="Запретить работу местных учителей умений." />
+    <String id="10008" string="Разрешить работу местных учителей умений." />
+    <String id="10009" string="Ставка налога с продаж в местных обычных магазинах." />
+    <String id="10010" string="Ставка налога с продаж в местных магазинах кристаллов." />
+    <String id="10011" string="Ставка налока на услуги местных мастеров символов." />
+    <String id="10012" string="Ставка налога с продаж в местных магазинах для ремесленников." />
+    <String id="10013" string="Налог на путешествия на пегасах в провинции." />
+    <String id="10014" string="Налог на обучение умениям в провинции." />
+    <String id="10015" string="Налог на путешествия через телепорт в провинции." />
+    <String id="10016" string="{UserName} меняет в провинции {GuardName} политику &quot;{PolicyName}&quot; на &quot;{PolicyItemName}&quot;." />
+    <String id="10017" string="{UserName} меняет в провинции {GuardName} политику &quot;{PolicyName}&quot; на &quot;{PolicyItemName}&quot;." />
+    <String id="10018" string="Политика &quot;{PolicyName}&quot; в провинции {GuardName} сброшена на &quot;{PolicyItemName}&quot;." />
+    <String id="10019" string="В провинции нет торговых брокеров." />
+    <String id="10020" string="В провинции есть торговые брокеров." />
+    <String id="10021" string="Ставка налога с продаж в местных магазинах редкостей." />
+    <String id="20001" string="Битва гильдий" />
+    <String id="20002" string="Всеобщее голосование" />
+    <String id="20011" string="Регистрация" />
+    <String id="20012" string="Состязание" />
+    <String id="20013" string="Правление" />
+    <String id="20021" string="В период регистрации кандидатов главы гильдий могут выставить свои кандидатуры&lt;BR&gt;через выборных регистраторов и выбрать предпочитаемые провинции." />
+    <String id="20022" string="Кандидаты состязаются за зоны на выбранном континенте&lt;BR&gt;путем голосования или набирая очки в битве гильдий. Состязания проводятся отдельно для каждого континента. Имеющие право голова игроки могут проголосовать,&lt;BR&gt;щелкнув по значку голосования рядом с компасом. Выигрывает кандидат, набравший больше всего голосов&lt;BR&gt;или очков в битве гильдий." />
+    <String id="20023" string="Если вы станете ванархом, то получите провинцию, соответствующую вашему рейтингу.&lt;BR&gt;Вы должны честно и достойно управлять этой провинцией. Через NPC-помощников&lt;BR&gt;ванархи задают политику, устанавливают налоги и поддерживают порядок." />
+    <String id="20031" string="Текущий этап: регистрация&lt;br&gt;Окончание: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Следующий этап: состязание&lt;br&gt;Начало: {NextStateStartTime}" />
+    <String id="20032" string="Текущий этап: состязание&lt;br&gt;Окончание: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Следующий этап: правление&lt;br&gt;Начало: {NextStateStartTime}" />
+    <String id="20033" string="Текущий этап: правление&lt;br&gt;Окончание: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Следующий этап: регистрация&lt;br&gt;Начало: {NextStateStartTime}" />
+    <String id="20041" string="Нет" />
+    <String id="30001" string="Нет истории ванархов" />
+    <String id="30002" string="{lordNumber}{@ordinal:{lordNumber}} ванарх провинции {guardName}" />
+</StrSheet_Politics>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1026">
+        <Page social="5">Hello!&amp;nbsp; Vous avez une minute?&amp;nbsp; Mon ami est malade... très malade. Je pourrais concocter rapidement un remède, mais il va me falloir du sang de Kamara. Je ne suis pas un soldat et je vais donc avoir besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Rapportez-moi du sang de {@LinkCreature:29#3011#kamara queue épineuse} et de {@LinkCreature:29#3012#queue épineuse âgée}. Ça me permettra de le sauver.&lt;BR&gt;&lt;BR&gt;Maintenant, au boulot.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1026">
+        <Page social="5">Mazette... ça en fait, du sang. J'espère qu'il n'y a pas trop du vôtre dedans, ça gâterait le remède.&lt;BR&gt;&lt;BR&gt;Je vais aller le concocter immédiatement. Merci!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1026">
+        <Page social="0">Ce ne sont que des Kamaras. Ces choses n'ont aucune chance face à un soldat de votre trempe. Moi, ils me mettraient en pièces. Faites vite.</Page>
+    </Text>
+</QuestDialog>

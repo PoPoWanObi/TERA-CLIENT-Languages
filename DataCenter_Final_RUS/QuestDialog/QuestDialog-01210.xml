@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">Этот напиток не только придает ярость племени Черного Когтя, но и делает орканов сильнее. Думаю, что бешаранские торговцы используют орканов племени Черного Когтя в качестве оружия против Федерации. Нужно рассказать об этом Карбе.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">Они пьют какое-то пойло, чтобы стать сильнее? Они недостойны называться воинами! Отправляйся на охоту. Твоя цель - {@LinkCreature:41#3004#Крушители Черного Когтя} и {@LinkCreature:41#3005#Злобни Черного Когтя}. Собери их воинские жетоны, чтобы все племена узнали, что их используют бешаранские торговцы!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1021">
+        <Page social="0">Им повезло, что они сдохли. Когда я покажу другим племенам эти жетоны и расскажу о позоре племени Черного Когтя, все узнают правду.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Племя Черного Когтя не заслуживает чести носить жетоны воинов. Помоги мне посрамить их в глазах всех орканов.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="4">Je crois que c'est au tour des lézards!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Tuez quelques {@LinkCreature:24#5#lézards de la tempête vifs} et c'est tout!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez prévenir Elston quand vous aurez terminé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1008">
+        <Page social="4">Merci beaucoup!&amp;nbsp; Nous n'aurons plus à craindre d'être dévorés en cherchant ces reliques, je veux dire, en faisant nos rondes le long de la route!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1008">
+        <Page social="0">N'ayez pas peur. Sous ces écailles, ces dents et ces griffes, et malgré sa queue à piquants, un Lézard de la tempête vif est aussi mortel que vous ou moi.</Page>
+    </Text>
+</QuestDialog>

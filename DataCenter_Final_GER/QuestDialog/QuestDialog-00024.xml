@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1033">
+        <Page social="4">Folgt dieser Straße nach Westen, dann kommt Ihr zu Arons Lager.&lt;BR&gt;&lt;BR&gt;Wenn Euch wirklich etwas am Feenwald liegt, &lt;PCCLASS&gt;, dann geht Ihr dorthin und helft Nemir herauszufinden, warum der üble Wind durch den Wald weht und sämtlichen Feen düstere Verheißungen zuflüstert.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1044">
+        <Page social="4">Es liegt nicht in der Natur der Feen ... wie soll man sagen ... gewalttätig zu sein. Es muss eine andere finstere Macht dahinterstecken.&lt;NEXTPAGEBUTTON&gt;"Ein übler Wind?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ganz genau! Aber wie das mit dem Wind nun mal so ist ...&lt;BR&gt;&lt;BR&gt;... wer weiß schon, woher er kommt?</Page>
+    </Text>
+</QuestDialog>

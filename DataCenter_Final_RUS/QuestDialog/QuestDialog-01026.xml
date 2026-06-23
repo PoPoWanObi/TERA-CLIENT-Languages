@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1014">
+        <Page social="6">В прошлый раз мы отступали в спешке, и это еще мягко сказано. Мы оставили на поле боя тела наших друзей. А теперь вокруг них снуют драколоты.&lt;BR&gt;&lt;BR&gt;Если ты поможешь мне забрать оттуда трупы, мы сможем хотя бы похоронить их честь по чести.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1014">
+        <Page social="8">Спасибо!&lt;BR&gt;&lt;BR&gt;Наши друзья вернулись в Мир Грез.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1014">
+        <Page social="0">Не оставляй их на растерзание драколотам!</Page>
+    </Text>
+</QuestDialog>

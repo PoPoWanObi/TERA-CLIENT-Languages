@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Das Mysterium hat Euch um Hilfe bei einem Anschlag auf die Cyasmaspitze gebeten, einer Argonenstruktur, die voller Energie ist. In ihrem Inneren seid Ihr auf den einzigen Überlebenden einer früheren Mission getroffen, habt die Spitze infiltriert und einen Großteil der Argoneninfrastruktur zerstört. Doch Ihr habt auch die Aufmerksamkeit von jemandem mit großer Macht erregt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">{@Creature:249#2006$$Celtan} sagt, die Argonen hätten sich vermehrt, als die {@Rgn:49003$$Agnurokmaschine} erschienen ist. Darin könntet Ihr die Antwort finden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="2004">
+        <Page social="4">Lange nicht gesehen. Dieser Ort dürfte der wichtigsten Außenposten im Nördlichen Shara sein.&lt;BR&gt;&lt;BR&gt;Wenn wir recht haben, kommt aus dem Inneren der Großteil der Energie, die die argonische Kriegsmaschine antreibt ... und wir werden sie abschalten. Nehmt diesen Umkehrumwandler. Er sollte die Polarität der Energie umkehren und somit jede Menge Argonen ausschalten.&lt;NEXTPAGEBUTTON&gt;"Großartig!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Allerdings. Natürlich basiert unser Plan auf unbestätigten Hypothesen, aber vielleicht kann jemand, der gegen Götter gekämpft und das überlebt hat, ja auch gut improvisieren?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="2011">
+        <Page social="9">Ich habe Euch noch gar nicht für die Hilfe am Melgatolportal gedankt.&lt;BR&gt;&lt;BR&gt;Dank Eurer Hilfe bin ich jetzt viel stärker. Habt Dank.&lt;BR&gt;&lt;BR&gt;Ronalts mutiger kleiner Plan beinhaltet, dass wir dieses Gebäude infiltrieren. Glaubt Ihr, ich bin bereit dafür?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="2014">
+        <Page social="0">(Eure Haut kribbelt, als Ihr Euch dem Teleportal nähert.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="413" prevId="5" villagerId="2002">
+        <Page social="9">Argh ... mein Kopf. Die Natur tut weh.&lt;BR&gt;&lt;BR&gt;Passt hier auf Euch auf. Die Argonen meinen es ernst. Mein Trupp kam gerade einmal bis zur nächsten Kammer. Nehmt die Seitengänge, vielleicht müsst Ihr dann gar nicht kämpfen.&lt;BR&gt;&lt;BR&gt;Nehmt die Cyasmaspulen heraus und setzt dann den Umkehrer ein. Viel Glück.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="249" prevId="6" villagerId="2002">
+        <Page social="8">Wir haben die Schreie der Argonen gehört. Ihr habt sie schwer getroffen.&lt;BR&gt;&lt;BR&gt;Ihr habt uns neue Hoffnung geschenkt, &lt;PCNAME&gt;. Vielen Dank.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="528" prevId="7" villagerId="5005">
+        <Page social="4">Die Schreiber sollten langsam Euren Namen lernen, denn jedes Mal, wenn Ihr auf den Plan tretet, schreibt Ihr ein neues Kapitel Eurer Legende.&lt;NEXTPAGEBUTTON&gt;"Ich tue nur meine Pflicht."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Keine falsche Bescheidenheit. Ihr gehört zu unseren besten Soldaten.&lt;BR&gt;&lt;BR&gt;Ihr müsst für mich nach Granarkus gehen. Das Mysterium hat neue Signale von der sogenannten Argonenkönigin aufgefangen.&lt;BR&gt;&lt;BR&gt;Stellt Euch das nur vor. Wenn wir sie ausschalten können, wäre der Krieg zu Ende!</Page>
+    </Text>
+</QuestDialog>

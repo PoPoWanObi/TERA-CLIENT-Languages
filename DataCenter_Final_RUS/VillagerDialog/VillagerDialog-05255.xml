@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5013" huntingZoneId="464" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Ты кто? Ты здесь чтобы спасти меня?&lt;BR&gt;&lt;BR&gt;Прекрасно! Лишняя пара рук не помешает. А сейчас бери оружие. Я все объясню позже.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Вот и они! К бою!&lt;TEXTBUTTON&gt;Поговорить с легендарным кузнецом.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Начать защищаться.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

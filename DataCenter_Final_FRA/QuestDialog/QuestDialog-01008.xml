@@ -1,0 +1,65 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La Plaine des Tempêtes était autrefois un endroit paisible, mais une sorte de tornade de glace a gelé le port et fait déferler une vague de mort-vivants sur la région. Dès votre arrivée, vous avez aidé l'équipe de chercheurs à déterminer la cause de ces événements étranges. En cherchant les jauges de mana de l'équipe, vous avez rencontré une barde qui cherchait de l'aide. Elle vous avertit d'un complot visant à dérober les pouvoirs de Zenobia, la déesse protectrice de la Plaine des Tempêtes. Thulsa et ses fidèles comptaient les employer pour faire grandir le nombre des mort-vivants arpentant la Plaine des Tempêtes, avant d'en faire une armée destinée à écraser Acarum. Vous avez éliminé ces monstres et fait l'acquisition du Sceau de destruction. Ce dernier permit de contrer les effets de la magie de Thulsa et de détruire les pierres tombales sanglantes qui affaiblissaient Zenobia. La barde vous apparut alors sous sa vraie forme, celle de la déesse Zenobia, et vous remercia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Allez immédiatement voir Georrif à la Plaine des Tempêtes sur la baie glaciale. Aidez les arcanistes qui enquêtent sur la cause du récent désastre et les attaques de morts-vivants qui ont suivi.&lt;BR&gt;&lt;BR&gt;–Ryshan, arcaniste en chef du Mysterium</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1009">
+        <Page social="4">Quelle joie de vous voir. Pour autant que l'on sache, une fluctuation de mana le long du rivage a causé cette monstrueuse tempête. Elle a gelé l'eau et tout ce qu'elle contenait.&lt;BR&gt;&lt;BR&gt;Kennance, de la Station de recherche de la Baie glaciale est responsable des jauges de mana. Elle a demandé de l'aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1024">
+        <Page social="4">Dès que nous avons installé les jauges, les morts-vivants sont arrivés. Je n'en avais jamais vu autant à un seul endroit.&lt;BR&gt;&lt;BR&gt;Ca vient de Thulsa, ou je n'y comprends plus rien.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous avons envoyé une de nos chercheuses, Versa, relever les résultats des jauges placées sur le rivage de la Crique de Glaceroc, mais elle n'est pas revenue. Pouvez-vous aller la chercher?&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1046">
+        <Page social="4">Miséricorde!&amp;nbsp; Un soldat!&amp;nbsp;&lt;BR&gt;&lt;BR&gt; Un {@LinkCreature:31#2#seigneur des glaces ossugon} m'a attaquée, et j'ai dû m'enfuir. Sans cette barde, vous auriez sauvé un cadavre. Elle a joué de la harpe et les monstres se sont dispersés!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Malheureusement, le {@LinkCreature:31#2#seigneur des glaces} a pris la carte des fluctuations de mana avec les notes de recherches que j'avais déjà récupérées. Pouvez-vous m'aider à les retrouver?&amp;nbsp; Il nous faut ces informations.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="5" villagerId="1046">
+        <Page social="4">Merci de votre aide!&amp;nbsp; Puis-je encore vous mettre à contribution?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je n'ai pas pu atteindre les deux dernières jauges de mana à cause des Seigneurs des glaces. Pouvez-vous les trouver et récupérer les résultats?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Suivez ce chemin jusqu'au sommet de la colline. Une fois en possession des cartes de fluctuations de mana, apportez-les à Matil à la Garnison de la Pointe du Phare. Au Mysterium, il n'y a pas meilleur que lui pour étudier la nécromancie.&lt;BR&gt;&lt;BR&gt;Ne vous inquiétez pas pour moi. Je me ferai ramener par les soldats de la garnison.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" villagerId="1046">
+        <Page social="0">Nous avons vraiment besoin des relevés de ces jauges. J'espère que vous pourrez les rapporter.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="231" prevId="6" villagerId="1047">
+        <Page social="0">(La jauge émet une lumière et un bout de parchemin sort de l'appareil.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="231" prevId="8" villagerId="1048">
+        <Page social="0">(Suivez ce chemin jusqu'au sommet de la colline. Je vous attendrai ici avec les relevés des fluctuations de mana.)&lt;BR&gt;&lt;BR&gt;(- Ona)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="231" prevId="9" villagerId="1041">
+        <Page social="4">Vous voyez ce cyclone?&amp;nbsp; Zenobia, la déesse des tempêtes, a déposé son amant Iannis en son centre. Elle a calmé les eaux au-dessus de sa tombe afin que leurs descendants puissent récolter les richesses de la mer.&lt;NEXTPAGEBUTTON&gt;"Quelle triste histoire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pas aussi triste que les plans des partisans de Thulsa. Ils utilisent des pierres tombales pour concentrer sa nécromancie autour de la crypte de Iannis. Ils veulent faire de Iannis un... mort-vivant.&lt;BR&gt;&lt;BR&gt;Zenobia a gelé la mer pour les arrêter temporairement.&lt;BR&gt;&lt;BR&gt; Si seulement nous connaissions mieux la magie de Thulsa, nous pourrions peut-être trouver une solution plus permanente.&lt;NEXTPAGEBUTTON&gt;"Je connais quelqu'un!&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Un chercheur?&amp;nbsp; Alors il y a peut-être encore un espoir pour la Plaine des Tempêtes.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, aidez-moi. Dites à votre ami chercheur ce qui se passe et trouvez un moyen d'arrêter Thulsa!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="231" prevId="10" villagerId="1049">
+        <Page social="4">Il était temps que quelqu'un m'apporte ces relevés.&lt;BR&gt;&lt;BR&gt;Des pierres tombales?&amp;nbsp; Une barde?&amp;nbsp; Comment a-t-elle réussi à s'approcher de la Crique de Glacecroc?&amp;nbsp; C'est peut-être un des espions de Thulsa.&lt;NEXTPAGEBUTTON&gt;"Bien au contraire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ils m'ont dit que j'allais être aidé, pas le contraire.&lt;BR&gt;&lt;BR&gt;Mais je ne dirais pas que cela ne m'intrigue pas. Apportez-moi du sang des {@LinkCreature:31#14#maîtres d'équipage} ou des {@LinkCreature:31#15#officiers} gulas noyés. J'en analyserai le mana pour voir s'il s'est renforcé.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="231" villagerId="1049">
+        <Page social="0">Ce n'est pas vous qui deviez me faire parvenir les relevés des fluctuations de mana?&amp;nbsp;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="231" prevId="11" villagerId="1049">
+        <Page social="4">Hum. Votre barde a raison, il se passe vraiment quelque chose, et ces "pierres tombales" arrivent, je ne sais comment, à concentrer le mana.&lt;NEXTPAGEBUTTON&gt;"Savez-vous comment les détruire?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, mais vous n'allez pas aimer ça.&lt;BR&gt;&lt;BR&gt;Seraeno l'Invocateur sombre dirige la manœuvre avec les Thulsans. Vous allez devoir tuer ce Seraeno pour lui prendre le Souffle d'onyx, un noyau de mana noir. Alors, vous pourrez l'utiliser sur ce sceau pour annihiler ces {@LinkCreature:31#34#pierres tombales sanglantes}.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="231" villagerId="1049">
+        <Page social="0">Vous avez trouvé ce sang?&amp;nbsp;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="231" prevId="13" villagerId="1040">
+        <Page social="4">(La magie noire se dissipe.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="231" prevId="15" villagerId="1100">
+        <Page social="4">Merci. Sans votre aide, je n'aurais pas pu revenir.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="231" prevId="16" villagerId="1101">
+        <Page social="4">Repartez et dites à mon peuple que la fin de leurs ennuis approche. Je les aiderai à repousser les morts-vivants.&lt;BR&gt;&lt;BR&gt;Quant à vous, &lt;PCNAME&gt;... moi, Zenobia, déesse des vents, je vous accorde ma bénédiction. Puissent Arun et Shara rêver d'un avenir sûr pour vous.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="231" prevId="17" villagerId="1049">
+        <Page social="4">Quoi?&amp;nbsp; Cette barde était Zenobia?&amp;nbsp; Oublions le fait que je l'ai traitée d'espionne, d'accord?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Nous avons pris la bonne direction. Si Zenobia nous aide, nous pourrions même avancer plus vite que prévu.&lt;BR&gt;&lt;BR&gt;Retournez à Acarum et prévenez Laira.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="73" prevId="18" villagerId="1110">
+        <Page social="4">Intervention divine, hein?&amp;nbsp; D'accord, je vous crois. Les bardes chanteront peut-être un jour vos louanges.&lt;BR&gt;&lt;BR&gt;En attendant, voici un petit quelque chose de notre part et de celle de la Fédération. Vous l'avez bien mérité.</Page>
+    </Text>
+</QuestDialog>

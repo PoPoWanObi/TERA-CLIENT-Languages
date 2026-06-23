@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">{@LinkCreature:41#4001#Алчные василиски} на севере Свирепой долины наглеют день ото дня. Их нападения отнимают драгоценные жизни наших воинов.&lt;BR&gt;&lt;BR&gt;Отправляйся на охоту за ними и принеси доказательства их гибели Джеулиль на Станцию в Свирепой долине.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">Похоже, что твоя репутация - не пустые слова. Вот твоя честно заработанная награда от Федерации.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">{@LinkCreature:41#4001#Алчные василиски} нападают на всех. Федерация щедро заплатит за их уничтожение.</Page>
+    </Text>
+</QuestDialog>

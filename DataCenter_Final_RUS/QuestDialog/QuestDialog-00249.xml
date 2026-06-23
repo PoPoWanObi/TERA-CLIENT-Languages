@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">Детали задания:&lt;BR&gt;&lt;BR&gt;Уничтожьте {@LinkCreature:8#2011#Бронированных гиен}, {@LinkCreature:8#2041#Кайманов-наемников}, {@LinkCreature:8#2031#Гулов-рабовладельцев} и {@LinkCreature:8#2041#Гулов-десятников}, {@LinkCreature:8#2042#Кайманов-стражей}, {@LinkCreature:8#2051#Деванских аколитов} и {@LinkCreature:8#2061#Позолоченных бесов}.&lt;BR&gt;&lt;BR&gt;Доложите Нарисе на Заставе мстителей, что задание выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1003">
+        <Page social="4">О, замечательно, еще одно задание выполнено. Люблю такие новости.&lt;BR&gt;&lt;BR&gt;А это тебе за беспокойство.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1003">
+        <Page social="0">Похоже, ты не понимаешь, как следует поступать с приказами. То есть это означает пойти и выполнять то, что сказано. И только после этого тебе дают награду.</Page>
+    </Text>
+</QuestDialog>

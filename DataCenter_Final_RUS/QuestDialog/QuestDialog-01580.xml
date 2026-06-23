@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="4">Судя по всему, Мистериум хочет исследовать местные грибы. Это как-то связано со следами порчи или... слушай, Мистериуму нужны грибы, значит, они их получат.&lt;BR&gt;&lt;BR&gt;Сумеречные грибы не так сложно найти. Они растут рядом с Небесными листьями. Собери их и передай Тетану в Закатном лагере.&lt;BR&gt;&lt;BR&gt;Он будет в восторге... ну, насколько эльф может быть в восторге.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1031">
+        <Page social="4">Эти образцы позволят узнать, почему ансили обернулись против нас. Мы подозреваем Тулсу, но вокруг развернули бурную деятельность аргоны, так что они тоже могут оказаться виновны.&lt;BR&gt;&lt;BR&gt;Похоже, Джола принимает ставки.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1031">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

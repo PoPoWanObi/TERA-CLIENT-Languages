@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="5">Thulsa hat aus verwesenden Leichen einen giftigen Dunst gewonnen, der den ganzen Ebenholzturm einhüllt.&lt;BR&gt;&lt;BR&gt;Den Turm ohne Schutz zu betreten, ist glatter Selbstmord.&lt;BR&gt;&lt;BR&gt;Ich habe ein Reinigungstotem für die Föderation hergestellt, aber es gibt ein Problem: Um es mit Energie zu versorgen, brauche ich Argonenkerne.&lt;NEXTPAGEBUTTON&gt;"Argonenkerne?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ganz genau, &lt;PCNAME&gt;. Es herrscht ein seltsamer Einklang zwischen Thulsa und den Argonen. Thulsa kontrolliert die Argonen nicht, aber sie sind auf derselben Wellenlänge, wenn Ihr wisst, was ich meine.&lt;BR&gt;&lt;BR&gt;Also, bringt mir Argonenkerne, dann stelle ich ein Reinigungstotem für Euch her.&lt;BR&gt;&lt;BR&gt;Versucht es mal im Labyrinth des Schreckens. Dort gibt es jede Menge Argonen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1102">
+        <Page social="5">Ah, das reicht aus, um ein Reinigungstotem herzustellen.&lt;BR&gt;&lt;BR&gt;Ihr seid besser, als ich dachte. Gute Arbeit!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1102">
+        <Page social="0">Bringt mir Argonenkerne, und ich gebe Euch ein Reinigungstotem, das Euch gegen die giftigen Dämpfe im Ebenholzturm schützt.</Page>
+    </Text>
+</QuestDialog>

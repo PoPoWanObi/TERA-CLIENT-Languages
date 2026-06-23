@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1003">
+        <Page social="5">Notre ingénieur de mesures avait besoin de pierres d'âme, portées par les spectres des environs, pour les comparer aux focus féériques qu'on trouve dans les Bois intemporels. Ce faisant, elle pense pouvoir mesurer l'étendue de la contamination.&lt;BR&gt;&lt;BR&gt;Veuillez récolter des pierres d'âme sur les {@LinkCreature:28#3041#spectres défunts} et apportez-les à {@LinkCreature:228#1011$$Jurina}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1011">
+        <Page social="5">Vous avez récupéré des pierres d'âme auprès des spectres défunts?&amp;nbsp; Super!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je vais les étudier tout de suite.&lt;BR&gt;&lt;BR&gt;Merci!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1011">
+        <Page social="0">C'est vous qu'Hamela a envoyé livrer les pierres d'âme?&amp;nbsp; Où sont-elles?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

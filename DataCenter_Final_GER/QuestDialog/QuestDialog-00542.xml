@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">Ich muss diese Zeremonie der Segnung genauer erforschen, aber ich komme nicht an diesem Pulk von Vampiren vorbei.&lt;BR&gt;&lt;BR&gt;Wenn Ihr wenigstens die {@LinkCreature:16#2403#Vampirlakaien} und {@LinkCreature:16#2404#Vampirretiarii} im &lt;font color='#660000'&gt;Garten der Villa&lt;/font&gt; aus dem Weg schaffen könntet, das würde schon helfen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr damit fertig seid, meldet Euch bei Segodun. Er ist bereits im Garten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">Dann habt Ihr es also geschafft. Gut gemacht!&lt;BR&gt;&lt;BR&gt;Nehmt dies hier für die Arbeit, die Ihr Euch gemacht habt.</Page>
+    </Text>
+</QuestDialog>

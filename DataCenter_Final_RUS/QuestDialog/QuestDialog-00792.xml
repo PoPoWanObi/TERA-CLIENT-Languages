@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="5">Скажи, ты сейчас направляешься в Гибельный лес? Прямо за нашими восточными воротами ты встретишь отряд, который усердно трудится, чтобы не допустить порчу в Трию. Их работа крайне важна для нашего города.&lt;BR&gt;&lt;BR&gt;Может быть, ты сможешь отнести им обед? Инвидия заправляет таверной в западном конце города. Она уже должна была приготовить еду. Большое спасибо!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1028">
+        <Page social="12">Обед готов! Как всегда, вовремя. И прямо-таки царский. Только лучшие продукты, как и приказал член магистрата.&lt;BR&gt;&lt;BR&gt;Отнеси его рабочим, пока он не остыл!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" prevId="3" villagerId="1005">
+        <Page social="5">Конечно, сытная еда - это здорово, но пусть член магистрата не думает, что теперь нам можно не поднимать жалование!&lt;BR&gt;&lt;BR&gt;Одним богам известно, что с нами сделает эта порча. Если у тебя есть голова на плечах, не задерживайся в Гибельном лесу. Тут и сам не заметишь, как вырастет, например, третья рука... откуда-нибудь из носа.</Page>
+    </Text>
+</QuestDialog>

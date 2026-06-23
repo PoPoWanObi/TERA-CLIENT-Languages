@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">Ich werde ein Pause einlegen. Bitte geht zu {@linkcreature:213#1134$$Edan} und sagt ihm, dass es mir gut geht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">Da bin ich aber erleichtert! Alle unsere Reliktsteine waren aufgebraucht. Wie gut, dass wir jetzt wieder welche haben.&lt;BR&gt;&lt;BR&gt;Seid gelobt, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

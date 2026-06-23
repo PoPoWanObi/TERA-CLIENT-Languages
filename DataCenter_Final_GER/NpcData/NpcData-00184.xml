@@ -1,0 +1,58 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="402" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1000" scale="1.35" shapeId="300352" gender="male" race="BloodGolem" resourceSize="100" resourceType="medium" size="large" parentId="30035001" basicActionId="3003500" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="34367" />
+    </Template>
+    <Template id="1001" scale="1" shapeId="510830" gender="female" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5108300" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1002" scale="2" shapeId="300921" gender="male" race="monster" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="3009200" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1003" scale="1" shapeId="600090" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1004" scale="0.625" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="-22" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="2000" scale="0.7" shapeId="300672" gender="male" race="LesserElementalKumas" resourceSize="100" resourceType="medium" size="large" parentId="30067001" basicActionId="3006700" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true">
+        <NamePlate nameplateHeight="92" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="10047" />
+    </Template>
+    <Template id="2001" scale="0.7" shapeId="300672" gender="male" race="LesserElementalKumas" resourceSize="100" resourceType="medium" size="large" parentId="30067001" basicActionId="3006700" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true">
+        <NamePlate nameplateHeight="92" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="10047" />
+    </Template>
+    <Template id="3000" scale="2" shapeId="300921" gender="male" race="DecayingArgass" resourceSize="100" resourceType="medium" size="medium" parentId="30092100" basicActionId="3009200" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="45" />
+        <Stat level="39" maxHp="24178" />
+    </Template>
+    <Template id="3001" scale="0.8" shapeId="300941" gender="male" race="FallenSpiritOfNature" resourceSize="100" resourceType="medium" size="small" parentId="30094100" basicActionId="3009400" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+    <Template id="3002" scale="0.8" shapeId="301191" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="medium" size="small" parentId="30119100" basicActionId="3011900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+    <Template id="3003" scale="0.9" shapeId="300540" gender="male" race="StoneHead" resourceSize="100" resourceType="medium" size="small" parentId="30054002" basicActionId="3005400" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+    <Template id="4001" scale="0.8" shapeId="300941" gender="male" race="FallenSpiritOfNature" resourceSize="100" resourceType="medium" size="small" parentId="30094100" basicActionId="3009400" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+    <Template id="4002" scale="0.8" shapeId="301191" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="medium" size="small" parentId="30119100" basicActionId="3011900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+    <Template id="4003" scale="0.9" shapeId="300540" gender="male" race="StoneHead" resourceSize="100" resourceType="medium" size="small" parentId="30054002" basicActionId="3005400" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+        <Stat level="39" maxHp="634" />
+    </Template>
+</NpcData>

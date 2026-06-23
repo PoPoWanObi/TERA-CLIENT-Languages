@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">Die Naga namens {@LinkCreature:42#5006#Maelsaress} ist Dagons ranghöchste Offizierin. Sie trägt ein Buch bei sich, "Die Taten des Dagon".&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ich kann Euch gar nicht sagen, wie sehr wir dieses Buch brauchen, wenn wir die Naga besiegen und ihren Schatz finden wollen. Ihr seid dabei unsere größte Hoffnung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">Maelsaress zu besiegen ist fast so gut wie Dagon selbst zu töten. Wir sind alle begeistert, was Ihr hier erreicht habt.&lt;BR&gt;&lt;BR&gt;Unter uns gesagt, Ihr erreicht bei der Föderation bestimmt Großes, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Der Tod von {@LinkCreature:42#5006#Maelsaress} wäre ein harter Schlag für die Naga. Es sollte am besten schnellstens geschehen.</Page>
+    </Text>
+</QuestDialog>

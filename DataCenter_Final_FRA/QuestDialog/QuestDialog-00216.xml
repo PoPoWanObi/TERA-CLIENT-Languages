@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0">En récompense de vos hauts faits dans les Collines célestes, le commandant Samael vous a appris à vous servir des glyphes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4">Rendez-vous à Velika et remettez ceci à Dougal de ma part. Faites vite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="4">Entendre Mattin parler de quelqu'un de manière aussi élogieuse n'est pas chose courante. Vous avez dû l'impressionner, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Allez remettre cette missive à Samael. Il est aussi exigeant que Mattin, mais ce rapport ne le laissera certainement pas de marbre.&lt;BR&gt;&lt;BR&gt;Vous représentez tout ce que nous attendons d'une bonne recrue.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1137">
+        <Page social="4">Hmm. Eh bien, ce n'est pas un rapport, c'est une saga. Après tout, vous n'êtes peut-être pas le genre de pied-tendre auquel je m'attendais. J'ai dû vous sous-estimer. C'est une erreur que je ne commettrai plus.&lt;BR&gt;&lt;BR&gt;Plus que de soldats, c'est de meneurs dont nous avons besoin, désormais. Dougal pense que vous avez le profil pour passer à l'étape suivante. Ce n'est pas moi qui le contredirai&amp;nbsp;: vos faits d'armes parlent pour vous. On n'a pas tous les jours l'occasion de devenir un héros, alors profitez-en.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1137">
+        <Page social="0">Vous avez un rapport à me présenter?&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1138">
+        <Page social="4">&lt;PCNAME&gt;!&amp;nbsp; Il vous en aura fallu, un temps!&amp;nbsp;&lt;BR&gt;Procédons sans tarder à la cérémonie.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1138">
+        <Page social="4">Maintenant, en tant qu'officier, vous allez devoir apprendre à utiliser les glyphes.&lt;BR&gt;&lt;BR&gt;En fonction des classes auxquelles ils sont destinés, les glyphes ont différents pouvoirs. Ils permettent à vos compétences de gagner en puissance.</Page>
+    </Text>
+</QuestDialog>

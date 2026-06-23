@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="61" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Ihr habt einen Brief von Elion erhalten.)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Unsere Schlacht sind ist noch nicht zu Ende geschlagen. Um Thulsa zu besiegen und Serion zu retten, müssen wir vorbereitet sein.&lt;BR&gt;Trefft mich am {@Rgn:61004} in {@Rgn:61001}. Passt auf Euch auf.&lt;BR&gt;&lt;BR&gt;-{@LinkCreature:61#1104}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1104">
+        <Page social="3">Danke, dass Ihr gekommen seid.&lt;BR&gt;&lt;BR&gt;Die Schlachten, die uns noch bevorstehen, werden zäher sein, und wir werden Widersachern begegnen, die stärker sind als alle, die wir bisher bekämpft haben.&lt;BR&gt;&lt;BR&gt;Wir müssen uns vorbereiten.&lt;NEXTPAGEBUTTON&gt;"Wie bereiten wir uns vor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Wir müssen unsere Ausrüstung weiter verzaubern als bisher. Dazu müssen wir sie auf +9 verzaubern. Irgendwann werden wir Meisterwerkalkahest benötigen, um die Leistung verbessern zu können, doch wir wollen zunächst nicht vorgreifen.&lt;NEXTPAGEBUTTON&gt;"In Ordnung."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Leider kann ich Euch nur Rohmaterial der 1. Ordung und etwas Alkahest geben.&lt;BR&gt;Werft dieses Rohmaterial mit niedriger Ordnung nicht weg. Ihr könnt es kombinieren und dadurch Rohmaterial mit einer höheren Ordnung erhalten.&lt;BR&gt;&lt;BR&gt;Viel Glück!</Page>
+    </Text>
+</QuestDialog>

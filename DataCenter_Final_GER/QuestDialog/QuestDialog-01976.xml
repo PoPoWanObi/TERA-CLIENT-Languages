@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="1">Die Forscher der Union der Erleuchtung haben eine interessante Eigenschaft von Noktenium entdeckt - und wir möchten gerne, dass Ihr dabei helft, unsere Hypothese zu bestätigen.&lt;BR&gt;&lt;BR&gt;Pflanzen in Gegenden mit einer hohen Nokteniumkonzentration scheinen weder zu wachsen noch zu verwelken. Das könnte an Nokteniumspuren im Erdboden liegen, wo die Pflanzen wachsen.&lt;BR&gt;&lt;BR&gt;Bitte sammelt mindestens drei verseuchte Samen, damit wir feststellen können, ob dies tatsächlich der Fall ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="0">Gut gemacht! Die Proben, die Ihr mitgebracht habt, sind optimal.&lt;BR&gt;Die Forscher der Union werden hocherfreut darüber sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">Die Union der Erleuchtung wird es bis ganz nach oben schaffen!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">In der Eldritchakademie ist die Panik ausgebrochen! Wir wollten doch nur ein einfaches Erntedankfest ausrichten. Doch jetzt haben wir Drohbriefe erhalten. "Die Sünden Eurer Vergangenheit werden Euch einholen." Solches Zeug eben.&lt;BR&gt;&lt;BR&gt;Serena hat mich gebeten, herauszufinden, wer uns hier unseren Spaß verderben will - vermutlich, weil sie mich dabei erwischt hatte, wie ich anstatt zu lernen "Fesselnde Detektivgeschichten" las.&lt;BR&gt;&lt;BR&gt;Doch ich bin demjenigen, der hier die Fäden zieht, schon dicht auf den Fersen. Könntet Ihr derweil unsere Party beschützen?&lt;NEXTPAGEBUTTON&gt;"Natürlich, aber wovor genau?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tuwangi in erster Linie. Sie versammeln sich in diesem Moment in der Akademie. Aber keine Sorge. Wir drehen einfach den Spieß um.&lt;BR&gt;&lt;BR&gt;Verwendet die Kanonen, um diese ungebetenen Gäste mit Kürbissen zu beschießen und unsere Partyverpflegung - insbesondere die Süßigkeiten - zu schützen.&lt;BR&gt;&lt;BR&gt;Wenn die Tuwangi von den Kürbissen, den Halloweensymbolen schlechthin, getroffen werden, werden sie ihre kleinen Beine in die Hand nehmen und flüchten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="4">Euch sind doch nicht etwa die Kürbisse ausgegangen? Na dann ist ja gut.&lt;BR&gt;Nehmt dies und mischt Euch unter's Partyvolk. Das wird ein Riesenspaß!&lt;NEXTPAGEBUTTON&gt;"Aber was ist mit dem monströsen Kürbismonster?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Kürbismonster? Das ist bestimmt nur eine besonders gute Verkleidung. Sicherlich kein Grund zur Sorge. Seid doch nicht so {@g:ein Spielverderber/eine Spielverderberin}!</Page>
+    </Text>
+</QuestDialog>

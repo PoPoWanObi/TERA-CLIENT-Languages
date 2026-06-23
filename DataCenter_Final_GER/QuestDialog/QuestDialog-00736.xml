@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">Leider ist das Reich nicht ganz vereint. Es gibt da einige {@LinkCreature:23#20#Elinhexen}, die ihre Kraft für sich selbst und nicht für die Natur einsetzen wollen.&lt;BR&gt;&lt;BR&gt;Sie haben vor Kurzem unsere Dörfer angegriffen, aber Ihr werdet dafür Rache üben!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">Dank Euch sind unsere Feinde jetzt sehr geschwächt. Das wird uns sehr helfen. Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

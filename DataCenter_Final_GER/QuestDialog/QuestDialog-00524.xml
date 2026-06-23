@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Mein Bote Jadan muss ein Paket überbringen, das gerade ankam. Aber er ist im ganzen Dorf nicht zu finden.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, könnt Ihr {@LinkCreature:67#1008$$Okon} am Nordtor fragen, ob er Jadan hat weggehen sehen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1008">
+        <Page social="5">Jadan? Nein, der ist heute noch nicht vorbeigekommen.&lt;BR&gt;&lt;BR&gt;Fragt doch mal {@LinkCreature:67#1019#Kripa} da drüben, nur um sicher zu gehen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1019">
+        <Page social="5">Wie war der Name? Jadan? Natürlich, er und sein Junge kamen vor einer Weile hier vorbei. Sie wollten ins &lt;font color='#660000'&gt;Reißertal &lt;/font&gt; und dort Kräuter sammeln.&lt;BR&gt;&lt;BR&gt;Jetzt, da Ihr es erwähnt ... Das ist wirklich schon eine Zeit lang her.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1013">
+        <Page social="5">(Es ist der Leichnam eines verstorbenen Popori, der direkt neben ein paar frisch gepflückten Kräutern liegt. Sein Fell macht es schwer, ihn zu untersuchen, doch nach einiger Mühe stellt Ihr fest, dass dem Körper jegliches Blut entzogen wurde.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1019">
+        <Page social="5">Er ...was? Das ... das klingt aber gar nicht gut. Wie kann so etwas geschehen? &lt;BR&gt;&lt;BR&gt;Ihr müsst sofort Paka benachrichtigen!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="5">Jadan ist tot? Das ist ja schrecklich. In der letzten Zeit geschehen merkwürdige Dinge, so viel steht fest. Wir sollten Zweiergruppen bilden.&lt;BR&gt;&lt;BR&gt;Aber wartet mal! Wo ist sein Sohn Dipa?</Page>
+    </Text>
+</QuestDialog>

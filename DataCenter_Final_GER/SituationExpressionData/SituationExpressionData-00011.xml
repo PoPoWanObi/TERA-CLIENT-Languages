@@ -1,0 +1,228 @@
+<SituationExpressionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SituationExpressionData SituationExpressionData.xsd" xmlns="https://vezel.dev/novadrop/dc/SituationExpressionData">
+    <Data id="80010" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="JoinUnion" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000021" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80020" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="QuitUnion" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000022" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80040" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="EnterWorld" state="NewConsul" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000024" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80041" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="NewConsul" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000024" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80042" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointConsul" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000027" type="Once" delayTime="2000" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80043" type="User">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointConsul" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000049" type="Once" delayTime="2000" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80050" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointCommander" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000025" type="Once" delayTime="2000" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80051" type="User">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointCommander" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000050" type="Once" delayTime="2000" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80060" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointElite" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000026" type="Once" delayTime="4000" />
+            <SocialJob id="24" type="Once" delayTime="0" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80061" type="User">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AppointElite" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000051" type="Once" delayTime="4000" />
+            <SocialJob id="24" type="Once" delayTime="0" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80070" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="OpenDungeon" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000028" type="Once" delayTime="2000" />
+        </JobInfo>
+    </Data>
+    <Data id="80080" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="CloseDungeon" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000029" type="Once" delayTime="2000" />
+        </JobInfo>
+    </Data>
+    <Data id="80091" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="EnterWorld" state="ConsulCandidateSeason" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000030" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80100" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="StartCompetition" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000031" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80110" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="EndCompetition" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000032" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80150" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="AttackedGuard" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo />
+    </Data>
+    <Data id="80160" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="KilledGuard" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000039" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80170" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="GetPoint" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000043" type="Once" delayTime="0" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80180" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="GetMoney" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000044" type="Once" delayTime="0" />
+            <SocialJob id="24" type="Once" durationTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80190" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="CollectTax" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000045" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80200" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="LoseExtractor" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000048" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+    <Data id="80201" type="Player">
+        <ConditionInfo>
+            <ConditionList>
+                <UnionCondition type="Game" state="DefenceExtractor" />
+            </ConditionList>
+        </ConditionInfo>
+        <JobInfo>
+            <ActionScriptJob id="90000052" type="Once" delayTime="0" />
+        </JobInfo>
+    </Data>
+</SituationExpressionData>

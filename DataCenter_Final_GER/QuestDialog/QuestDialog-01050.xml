@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">Ihr seid doch &lt;PCNAME&gt;, oder? Vielleicht könnt Ihr mir helfen. Die einfachen Soldaten sind ja völlig nutzlos.&lt;BR&gt;&lt;BR&gt;Sie haben mich hierher geschickt, um die Untoten zu studieren und eine Schwachstelle aufzudecken, aber die Männer tun sich schwer ... äh ... ein paar Exemplare zu beschaffen.&lt;BR&gt;&lt;BR&gt;Tötet {@LinkCreature:33#16#Gepeinigte Schergen} und {@LinkCreature:33#17#Ebenholzinquisitoren}.&lt;BR&gt;&lt;BR&gt;Und glaubt es mir ruhig: Ihr tut ihren gefangenen Seelen einen Gefallen, wenn Ihr sie wieder zu ihrem Traum zurückkehren lasst.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1008">
+        <Page social="0">Glaubt es mir ruhig: Solltet Ihr hier unten sterben, ist es Euch sicher lieber, wenn Eure Seele in den Traum der Titanen zurückkehrt, statt dass sie auf Jahre, wenn nicht sogar Jahrhunderte, in einem untoten Körper gefangen ist ...</Page>
+    </Text>
+</QuestDialog>

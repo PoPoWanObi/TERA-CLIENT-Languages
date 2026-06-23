@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="4">Die Argonen haben unsere Gießerei beim {@Rgn:48008} angegriffen. Ihr müsst {@LinkCreature:248#1030} suchen.&lt;BR&gt;&lt;BR&gt;Wir dürfen niemanden verlieren, der für die Cyanokanonen wichtig ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">Ja, die Argonen haben uns schwer getroffen. Ich habe viele Leute verloren.&lt;BR&gt;&lt;BR&gt;Ich habe die Überlebenden zur Gießerei für Cyanokanonen geschickt. Da können sie am meisten ausrichten.&lt;BR&gt;&lt;BR&gt;Ich werde {@LinkCreature:248#1015} über meinen Status informieren.</Page>
+    </Text>
+</QuestDialog>

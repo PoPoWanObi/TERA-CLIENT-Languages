@@ -1,0 +1,7 @@
+<MapDefineData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/MapDefineData MapDefineData.xsd" xmlns="https://vezel.dev/novadrop/dc/MapDefineData">
+    <MapDefine id="WMap_ATW_Guard" height="768" width="1024" backgroundImage="WMap_ATW.WMap_ATW_Guard" leftMargin="0" titleStringId="202" topMargin="0">
+        <MapButton id="WMap_ATW_BTN_01" x="439" y="224" stringId="99000" click="WMap_ATW_Field_01" txtX="88" txtY="240" />
+        <MapButton id="WMap_ATW_BTN_01" x="439" y="224" stringId="13001" click="WMap_ATW_Field_01" txtX="60" txtY="210" />
+        <Text x="545" y="405" stringId="64001" click="WMap_ATW_Vill_01" align="center" fontStyle="village" />
+    </MapDefine>
+</MapDefineData>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Les {@LinkCreature:31#20#mortifères} et les {@LinkCreature:31#21#colosses} nagas n'ont peur de rien. Si on leur en laisse l'opportunité, ils s'inviteront jusque dans nos camps. Exterminez-les et rapportez leurs casques en preuve du travail accompli.&lt;BR&gt;&lt;BR&gt;Quand vous en aurez fini, adressez-vous à Llewra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1012">
+        <Page social="4">Bon travail!&amp;nbsp; Maintenant que les nagas sont moins nombreux autour des camps, le choses vont un peu retrouver leur calme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1012">
+        <Page social="0">Sans preuves, pas de récompense.</Page>
+    </Text>
+</QuestDialog>

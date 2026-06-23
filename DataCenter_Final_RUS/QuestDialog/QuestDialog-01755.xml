@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="220037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="220037">
+        <Page social="0">Мой друг, я отправляю нескольких разведчиков на территорию Торговцев, и нам нужно как-то отвлечь противника. У Сообщества есть несколько экстракторов ноктиния в этом районе. Достаточно будет вывести из строя несколько экстракторов, стащив их ключи. Эта проблема займет их настолько, что они не заметят моих разведчиков.&lt;BR&gt;&lt;BR&gt;Я награжу тебя за каждый ключ от экстрактора, который ты принесешь мне.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="220037">
+        <Page social="0">&lt;PCNAME&gt;! Не каждый смог бы выполнить такое задание глубоко в тылу врага. Союз Просвещенных гордится, что ты входишь в его ряды, мой друг!&lt;BR&gt;&lt;BR&gt;Сегодня тебя можно назвать настоящим &amp;quot;героем&amp;quot;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="121" villagerId="220037">
+        <Page social="0">Союз Просвещенных достигнет цели!</Page>
+    </Text>
+</QuestDialog>

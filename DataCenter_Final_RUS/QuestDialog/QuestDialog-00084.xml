@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Контроль над шахтами ничего не даст, если мы не сможем наладить поставки.&lt;BR&gt;&lt;BR&gt; {@LinkCreature:4#1031#Бурые спороходы} и {@LinkCreature:4#1032#Тлеющие древни} абсолютно бестолковые твари, но об этом успеваешь забыть, когда они нападают на твою вагонетку с рудой.&lt;BR&gt;&lt;BR&gt;Сможешь отогнать их подальше от дорог?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">Теперь, когда эти твари нам больше не мешают, мы сможем возобновить поставки.</Page>
+    </Text>
+</QuestDialog>

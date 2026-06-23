@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Excuse me...my husband is a Mysterium sorcerer. Arimol.&lt;BR&gt;&lt;BR&gt;He was sending letters regularly, but they abruptly stopped after he was transferred here.&lt;BR&gt;&lt;BR&gt;I've been trying to get a meeting with {@LinkCreature:209#1005$$Tryphena}, but he'll only see soldiers. Can you see if he has any information about my husband?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Arimol? That name's not ringing a bell. Let me check the manifest.&lt;BR&gt;&lt;BR&gt;Ah, here we are. Looks like...oh...&lt;BR&gt;&lt;BR&gt;He's...well, I'm afraid you've got some bad news to deliver.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1012">
+        <Page social="4">Oh...&lt;BR&gt;&lt;BR&gt;I...thank you for your help.&lt;BR&gt;&lt;BR&gt;I think I'd like to be alone for a while.</Page>
+    </Text>
+</QuestDialog>

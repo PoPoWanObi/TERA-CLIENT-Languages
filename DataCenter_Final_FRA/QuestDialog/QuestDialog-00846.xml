@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="5">Les créatures locales nous empêchent de mener nos recherches à bien. Que faire, avec la quantité de {@LinkCreature:26#2004#teralithes moussus} et de {@LinkCreature:26#4000#lithikumas patients} qui traînent dans les parages?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Si vous assurez notre protection en tuant quelques-uns de ces bestiaux, la Fédération vous récompensera. Après ça, adressez-vous à Naerie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1004">
+        <Page social="5">Je vous remercie, camarade.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1004">
+        <Page social="0">Sans preuve du travail accompli, pas de récompense. Vous avez de quoi me prouver que vous avez tué ces créatures?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

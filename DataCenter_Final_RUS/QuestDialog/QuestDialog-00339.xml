@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">Тут слишком много груза, чтобы осмотреть все - придется потратить не один день.&lt;BR&gt;&lt;BR&gt;Но можно подойти к этому и с другого конца. Если пираты Красной плети и держат здесь нечто ценное, это должно быть записано в описи, которую {@LinkCreature:11#1003#Ветераны Красной плети} всегда носят при себе.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">Так, посмотрим... Ага, есть запись о бомбах. Об огромном количестве бомб!&lt;BR&gt;&lt;BR&gt;Они переносят их из склада в док. В записях фигурирует еще какой-то "магический камень", который отправляют вместе с бомбами.&lt;BR&gt;&lt;BR&gt;Сообщи Отусу, что пираты замышляют что-то серьезное.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1026">
+        <Page social="0">Твоя цель - {@LinkCreature:11#1003#Ветераны Красной плети}. Забери у них опись груза, иначе мы тут будем возиться до скончания времен!</Page>
+    </Text>
+</QuestDialog>

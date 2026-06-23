@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0">Die Schwarzklauen vertreiben uns aus unseren angestammten Jagdgründen. Jetzt müssen wir für jedes bisschen Nahrung gegen {@LinkCreature:41#4001#Ausgehungerte Basilisken} kämpfen. Jeden Tag sterben mehr Jäger von uns.&lt;BR&gt;&lt;BR&gt;Der Dekurio sprach von Eurem großen Talent bei der Jagd. Würdet Ihr für uns ein paar Basilisken erlegen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">Seht Euch diesen riesigen Hauer an! Dieser Basilisk hätte sicher viele von uns getötet. Wir sind sehr dankbar, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1018">
+        <Page social="0">Wir hätten Euch nicht um Hilfe gebeten, wenn die Ausgehungerten Basilisken nicht so eine große Gefahr für uns darstellen würden.</Page>
+    </Text>
+</QuestDialog>

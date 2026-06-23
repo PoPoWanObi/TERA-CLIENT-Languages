@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1018">
+        <Page social="5">Мы сражаемся против большого количества големов, из-за чего оружие быстро выходит из строя. Его запасы восполняются медленно либо не восполняются вообще, поэтому приходится что-то придумывать на ходу.&lt;BR&gt;&lt;BR&gt;Постарайся убить {@LinkCreature:27#2#Древних големов-мечников} и принести их останки сюда. С их помощью мы перекуем или починим наше снаряжение. Забрать силу врага себе. Определенно, мне нравится эта идея.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1018">
+        <Page social="5">Неплохо. Наши кузнецы будут довольны, да и выжившие солдаты тоже. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1018">
+        <Page social="0">Обычные металлические существа. Уничтожь их и собери останки. Никакого вреда для экологии.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Ihr habt einen Brief von Dougal bekommen.&lt;BR&gt;&lt;BR&gt;In dem Bemühen unsere Kampfeinheiten zu stärken, ermuntern wir Soldaten dazu, ihre Waffen zu verzaubern. Kehrt unverzüglich ins {@Rgn:63009} in {@Rgn:63001} zurück, um Güter zu verzaubern.&lt;BR&gt;&lt;BR&gt;-{@LinkCreature:63#1160})</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Ein guter Soldat wie Ihr versteht den Wert einer guten Waffe, manchmal ist es aber schlauer, Eure bestehende Waffe zu verzaubern als sie gegen eine neue auszutauschen.&lt;BR&gt;&lt;BR&gt;Sprecht mit {@LinkCreature:63#1605} in den Kreativwerkstätten, um mehr herauszufinden.&lt;BR&gt;&lt;BR&gt;Vergesst das Alkahest nicht. Kauft 20 Alkahest der 3. Ordnung, bevor Ihr ihn aufsucht. Mukhem in der Boreasgasse verkauft es.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Dougal hat angekündigt, dass Ihr vorbeischauen würdet. Ich kann das Alkahest riechen, Ihr scheint also bereit zu sein.&lt;BR&gt;&lt;BR&gt;Seid Ihr bereit zu lernen, wie man Ausrüstungsgegenstände verzaubert?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1605">
+        <Page social="0">Ohne Alkahest kann ich Euch nicht lehren, wie man Ausrüstung verzaubert. Kauft welches bei {@LinkCreature:63#1103}. Es kostet nicht viel.</Page>
+    </Text>
+</QuestDialog>

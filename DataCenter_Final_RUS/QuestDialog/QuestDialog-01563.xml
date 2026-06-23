@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="5">Жертвами порчи стало множество существ рядом с Скитера-Фэй. Чтобы спасти мирных жителей, нам нужно снизить их поголовье.&lt;BR&gt;&lt;BR&gt;Необходимо убить {@LinkCreature:54#270#Буйных древней}, {@LinkCreature:54#120#Мугато Кровавого Рога}, {@LinkCreature:54#150#Саблезубов-вырывателей кишок} и {@LinkCreature:54#440#Свирепых попори}.&lt;BR&gt;&lt;BR&gt;После выполнения задания зайди ко мне.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1012">
+        <Page social="5">Спасибо тебе от лица всей Федерации!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1012">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

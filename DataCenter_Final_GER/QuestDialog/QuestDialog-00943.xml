@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Keine Zeit zum Plaudern. Wir müssen die Zäune des Lagers reparieren.&lt;BR&gt;&lt;BR&gt;Festes Holz wäre nützlich, aber das wissen wir bereits.&lt;BR&gt;&lt;BR&gt;Das beste Holz, das in Balders Zuflucht rumspaziert, sind die {@LinkCreature:30#170#Rebenarbosken}.&lt;BR&gt;&lt;BR&gt;Kein anderer Baum ist so haltbar. Das Risiko lohnt sich also.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Ihr tut Eurem Ruf Ehre, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Niemand hat mir jemals so viel Holz gebracht.&lt;BR&gt;&lt;BR&gt;He! Kommt her und nehmt das! Und vielen Dank.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">Das Holz der {@LinkCreature:30#170$$Rebenarbosk}en ist so hart, dass selbst ein wild gewordener Orkaner mit einer Axt es nicht zu zerhacken vermag. Ich würde nie ein Auge zukriegen, wenn ich diesen Wänden nicht trauen könnte.</Page>
+    </Text>
+</QuestDialog>

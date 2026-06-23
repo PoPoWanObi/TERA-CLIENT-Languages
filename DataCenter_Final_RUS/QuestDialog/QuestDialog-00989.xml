@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="4">Люди забирать все осколки, вендиго умирать.&lt;BR&gt;&lt;BR&gt;Мадиар говорить, люди не хотеть воевать с вендиго, но он не остановить раскопки. Что ты сделать? Помочь нам найти решение?&lt;NEXTPAGEBUTTON&gt;"Я хочу помочь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Сила важна для вендиго. {@LinkCreature:34#510#Вендиго-ткачи мороза} и {@LinkCreature:34#500#Вендиго-морозные волшебники} получать энергию из желтых камней на земле. Так они сильные.&lt;BR&gt;&lt;BR&gt;Если ты забрать желтые камни, они будут слабые. Другие вендиго поймут, что маги слабы. Они увидят, что Учамба силен. Они увидят, что Учамба прав.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1010">
+        <Page social="4">Ты сказать и ты сделать. Учамба уважать тебя и Мадиар.&lt;BR&gt;&lt;BR&gt;Теперь мы строить будущее.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Мадиар говорить, вы звать эти камни желтые осколки. Забрать сила магов.</Page>
+    </Text>
+</QuestDialog>

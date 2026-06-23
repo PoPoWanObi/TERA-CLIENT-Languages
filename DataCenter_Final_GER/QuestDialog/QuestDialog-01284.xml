@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Ich habe einen großen Auftrag für Euch: Thulsa hält unsere Truppen mithilfe von Mutanten in Schach.&lt;BR&gt;&lt;BR&gt;Beseitigt {@LinkCreature:40#23#Wächteranomalien}, {@LinkCreature:40#19#Mutanten}, {@LinkCreature:40#15#Mutierte Arbeiter}, {@LinkCreature:40#28#Turakius} und {@LinkCreature:40#30#Dreiklingermutanten} im Verseuchten Dorf.&lt;BR&gt;&lt;BR&gt;Trefft Euch dann mit dem Mitglied der Mysteriumforscher Tirlotta beim Verseuchten Dorf wegen Eurer Belohnung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1007">
+        <Page social="4">Gute Arbeit. Unsere Feinde niederzumähen lässt die Rückeroberungsbemühungen in größerer Sicherheit ablaufen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1007">
+        <Page social="0">Es gibt immer noch zu viele Anomalien und Mutanten um das Verseuchte Dorf herum. Macht weiter mit Eurer Mission.</Page>
+    </Text>
+</QuestDialog>

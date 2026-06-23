@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">Bislang wart Ihr uns eine große Hilfe, &lt;PCNAME&gt;. Ich möchte, dass Ihr weiter nach Deva Silva vordringt und mit {@LinkCreature:203#1011#Droyan}, einem meiner Späher dort, zusammenarbeitet.&lt;BR&gt;&lt;BR&gt;Er ist ein guter Späher, aber er könnte etwas von Eurer Kampfkraft gebrauchen. Auf ins Gefecht!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Willkommen bei der Devanersafari!&lt;BR&gt;&lt;BR&gt;Wie schön, mal ein freundliches Gesicht zu sehen! Ich beobachte diese Monster jetzt schon eine ganze Weile. Es gibt einiges zu tun, aber ich kann meine Stellung nicht aufgeben.&lt;BR&gt;&lt;BR&gt;Habt Ihr Lust auf einen kleinen Kampf? Oder wie wär's mit einem großen? Ha!</Page>
+    </Text>
+</QuestDialog>

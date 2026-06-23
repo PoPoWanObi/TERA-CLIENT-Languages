@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="5">Аргонские гиганты продолжают уничтожать нашу пехоту, обороняться стало сложно.&lt;BR&gt;&lt;BR&gt;Отправляйся на охоту на Суулвир-рапторов, Тассалиров Арзакаара и Акалатских надсмотрщиков.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#1603} будет ждать тебя в Канстрии после выполнения задания.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1603">
+        <Page social="5">Я рада, что у нас есть такие солдаты как ты, &lt;PCNAME&gt;. Хорошая работа.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1603">
+        <Page social="0">Поставленные перед тобой задачи еще не выполнены. Извини.</Page>
+    </Text>
+</QuestDialog>

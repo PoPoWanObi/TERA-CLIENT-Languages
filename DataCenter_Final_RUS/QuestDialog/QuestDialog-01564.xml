@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1012">
+        <Page social="5">Стаи зверей угрожают лагерю на Заставе Арканума. Чтобы спасти лагерь, нам нужно снизить их поголовье.&lt;BR&gt;&lt;BR&gt;Необходимо убить {@LinkCreature:54#250#Арахненов-баэлитов}, {@LinkCreature:54#240#Крепкохребетных норуков} и {@LinkCreature:54#160#Бивневых саблезубов}.&lt;BR&gt;&lt;BR&gt;После выполнения задания зайди к Лашаде.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1009">
+        <Page social="5">Спасибо тебе от лица всей Федерации!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1009">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

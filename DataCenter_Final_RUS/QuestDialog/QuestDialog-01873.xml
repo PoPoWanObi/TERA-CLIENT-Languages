@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="1">Ты, должно быть, и в самом деле воитель, избранный солнцем.&lt;BR&gt;&lt;BR&gt;Величайшие тайны храма скрываются от света в древних урнах. Освободи пространственное зеркало, таящееся в одном из сосудов, и сразись с существом по имени {@LinkCreature:425#8005}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10004">
+        <Page social="1">Само солнце избрало тебя воителем.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:425#8005} по приказу бога Балдера дает отпор всем, кто пытается заполучить великое благословение храма.&lt;BR&gt;&lt;BR&gt;Однако Балдер награждает тех, кому это удается, бесценным даром за проявленное мужество.&lt;BR&gt;&lt;BR&gt;Да хранят тебя Арун и Шара в мире Грез вовеки веков.</Page>
+    </Text>
+</QuestDialog>

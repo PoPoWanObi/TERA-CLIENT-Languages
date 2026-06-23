@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">Не хватало нам разведчиков и чудовищ! Тулса подвел к западным воротам Хабере штурмовой полк. Убей их, чтобы мы могли немного передохнуть.&lt;BR&gt;&lt;BR&gt;Твоя смелость известна всем, так что не разочаруй нас! Спроси у центуриона Туруа у западных ворот. Он покажет тебе, где находятся приспешники Тулсы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1017">
+        <Page social="4">Позволь мне описать тебе ситуацию, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Войсками Тулсы в этом регионе командует Варкул. Если тебе удастся рассеять силы Варкула, мы получим преимущество, которое может переломить ход войны.&lt;BR&gt;&lt;BR&gt;Веди нас к победе, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1017">
+        <Page social="4">Враги рассеяны и больше не угрожают безопасности Хабере.&lt;BR&gt;&lt;BR&gt;Огромное тебе спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

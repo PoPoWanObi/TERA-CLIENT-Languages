@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="5">Древних духов поразила порча, проклятие смерти Лока. Я хотела бы помочь им, а не просто убивать, но для этого нам нужно глубже понять природу этой порчи.&lt;BR&gt;&lt;BR&gt;Принеси мне камни духа {@LinkCreature:28#3031#Погибельных джалмараков}, и тогда мы, возможно, отыщем способ их спасти. Я ничего не могу обещать, но попробовать стоит.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1011">
+        <Page social="5">Эти камни духа загрязнены - как и все остальное в этом проклятом лесу!&lt;BR&gt;&lt;BR&gt;Мы должны тщательно изучить их. Возможно, порчу еще можно обратить вспять. Это наша единственная надежда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1011">
+        <Page social="0">Для моих исследований необходимы камни духа джалмараков, &lt;PCNAME&gt;. Прошу, поторопись.</Page>
+    </Text>
+</QuestDialog>

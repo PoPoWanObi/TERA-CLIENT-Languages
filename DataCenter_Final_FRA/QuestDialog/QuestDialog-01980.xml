@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="9001">
+        <Page social="1">L'Union des Éclairés a besoin de vos services, cher ami.&lt;BR&gt;&lt;BR&gt;Nous avons entendu des rumeurs troublantes en provenance du Désert de Tor Exsul - des rumeurs qui laissent entendre que le Collectif de libre Échange modifierait certaines bêtes locales afin d'en faire des troupes de choc pour nous attaquer.&lt;BR&gt;&lt;BR&gt;Il nous faut plus d'informations. Merci d'utiliser les portes de l'Union des Éclairés pour entrer sur les terres du Collectif de libre Échange. Une fois là-bas, tuez au moins trois {@linkcreature:121#202#mugatos d'Aurum} et trois {@linkcreature:121#205#ghilliedhus des Terres maudites}, puis faites le rapport de vos connaissances à Dyrio.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="9001">
+        <Page social="0">Très bonne performance, cher ami. Vous avez gagné la reconnaissance de l'Union des Éclairés!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

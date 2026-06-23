@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="9001">
+        <Page social="1">Il est en train de se passer quelque chose dans le territoire de l'Union des Éclairés. Il y a des rumeurs... Je n'accorde pas beaucoup de crédit aux rumeurs, mais je dois savoir ce qu'il se passe.&lt;BR&gt;&lt;BR&gt;Le secret réside dans les créatures de là-bas. Ramenez des {@linkcreature:122#202#mugatos de Tor} et des {@linkcreature:122#205#ghilliedhus oasiens} et nous verrons si cela peut nous aider d'une façon ou d'une autre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="9001">
+        <Page social="0">Bien. Cette information est un bon début. Bon travail.</Page>
+    </Text>
+</QuestDialog>

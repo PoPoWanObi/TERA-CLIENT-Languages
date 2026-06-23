@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Dieser {@LinkCreature:250#1001} aus {@Rgn:76001} ist in die Viridianhöhlen hinuntergegangen. Was geht hier vor sich?&lt;NEXTPAGEBUTTON&gt;"Ich kümmere mich darum. Bleibt Ihr hier."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ja, ich werde hier bleiben.&lt;BR&gt;&lt;BR&gt;Seid vorsichtig.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1001">
+        <Page social="4">Ich erinnere mich an Euch. Ich muss die Iterisscherben mit dem Metall für die Waffe verschmelzen. Mit einem bestimmten Saft könnte ein Alchemist ein Fusionselixier für mich anfertigen.&lt;NEXTPAGEBUTTON&gt;"Ich werde ihn für Euch besorgen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich danke Euch! Ich benötige den Saft des Ratibaums, der in einer Höhle in der Nähe gedeiht. Ich dachte, ich könnte ihn finden, aber hab mich wohl ein wenig verlaufen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1023">
+        <Page social="6">(Das ist der Ratibaum.)&lt;BR&gt;&lt;BR&gt;(Ihr solltet den Saft auffangen.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="4" villagerId="1001">
+        <Page social="6">Ich stehe auf ewig in Eurer Schuld. Dank Euch kann ich meine Waffe anfertigen und meine Hushangzeremonie abschließen.&lt;BR&gt;&lt;BR&gt;Ich muss zurück nach Kanstria. Vielen Dank!</Page>
+    </Text>
+</QuestDialog>

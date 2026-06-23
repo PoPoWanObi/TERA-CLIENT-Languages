@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">L'heure est venue de frapper fort!&amp;nbsp; Eliminez les {@LinkCreature:39#200#surveillants chevauche-griffu} aux alentours de la Pointe de la Vengeance.&lt;BR&gt;&lt;BR&gt;Une fois votre mission accomplie, faites votre rapport à Ordinio à la Pointe de la Vengeance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1005">
+        <Page social="4">La Fédération vous remercie pour vos efforts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1005">
+        <Page social="0">Vous cherchez du travail?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

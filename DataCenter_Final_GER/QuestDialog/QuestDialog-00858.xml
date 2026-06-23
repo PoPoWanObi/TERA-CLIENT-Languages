@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1017">
+        <Page social="5">Unser Fortschritt wird durch {@LinkCreature:27#3#Uralte Speergolems} behindert, die den Weg zum Befreiungslager versperren. &lt;BR&gt;&lt;BR&gt;Ihr müsst eine Schneise durch dieses Ungeziefer schlagen, damit unsere Nachschublieferungen durchkommen. Die Versorgung einer Armee ist nicht nur wichtig, sondern entscheidet zwischen Leben und Tod. Wir wollen nicht unterliegen, nur weil uns die einfachsten Lebensmittel fehlen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1017">
+        <Page social="5">Ihr habt diese Situation erfolgreich geregelt. Alle Achtung.&lt;BR&gt;&lt;BR&gt;Ich werde den Quartiermeister anweisen, die nächste Gruppe Kuriere loszuschicken.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">Das Wandererlager hat um Unterstützung gebeten. Ich kann keinen meiner Soldaten entbehren, aber Ihr seid mir nicht unterstellt, oder?&lt;BR&gt;&lt;BR&gt;Geht und helft ihnen. Zieht in die Schlacht!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Dieser elende Ort wird noch einmal mein Tod sein.&lt;BR&gt;&lt;BR&gt;Beim Kern, ich vermisse den heißen Wüstensand. Es ist gefährlich, sich durch abschweifende Gedanken von den Gefahren hier ablenken zu lassen.&lt;BR&gt;&lt;BR&gt;Ich bat um Hilfe, um alles ein wenig sicherer zu machen. Sprecht mit Kahuere. Sie hat Befehle für Euch.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1004">
+        <Page social="4">Lucael friert und ist mürrisch, aber dieser Ort ist nicht der schlechteste! Wir dienen der Föderation und wollen die Welt verbessern.&lt;BR&gt;&lt;BR&gt;Natürlich, es wäre besser, nicht für das Überleben kämpfen zu müssen, aber es muss auch mal regnen dürfen. Oder schneien. Mit jeder Menge Schnee.</Page>
+    </Text>
+</QuestDialog>

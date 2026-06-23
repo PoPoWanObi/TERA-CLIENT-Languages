@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0">Wir haben eine einzigartige Sache in der Gegend entdeckt - Kristallines Noktenium. Es könnte genau, das sein, was ich benötige, um einen Durchbruch zu erzielen und die Energie von Noktenium freizusetzen.&lt;BR&gt;&lt;BR&gt;Ihr müsst Teile des {@linkcreature:123#501#Kristallinen Nokteniums} abbrechen - und mit abbrechen meine ich mit aller Kraft zuschlagen, die Ihr mit Eurer &lt;PCCLass&gt;-Waffe aufbringen könnt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="4">Exzellent. Ich gehe davon aus, dass die Aufgabe nicht allzu schwer war?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Meine Forschungen sind für den anhaltenden Erfolg des Eisernen Ordens unerlässlich.</Page>
+    </Text>
+</QuestDialog>

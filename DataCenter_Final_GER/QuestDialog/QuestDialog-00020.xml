@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0">Nicht alle von uns Feen haben den üblen Wind erhört, der durch den Feenwald fegt.&lt;BR&gt;&lt;BR&gt;Es gibt noch loyale Feen am Feenteich, aber die Aufständischen rotten sich zu einem Großangriff zusammen.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:2#2#Wütende Feen}, {@LinkCreature:2#152#Feenaufständische}, {@LinkCreature:2#62#Feenrebellinnen} und {@LinkCreature:2#52#Feenwehrfreiwilligen} treffen bald massenhaft ein. &lt;NEXTPAGEBUTTON&gt;"Wie können wir sie aufhalten?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich wollte nicht, dass es dazu kommt. Ich wollte nicht, dass der Waldboden mit noch mehr Feenblut getränkt wird.&lt;BR&gt;&lt;BR&gt;Aber es wird jetzt nicht mehr ohne Blutvergießen abgehen, egal, was geschieht. Vernichtet die rebellischen Feen, die sich dem Feenteich nähern. Und greift Euch ihre Waffen - damit bewaffnen wir die loyalen Feen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1002">
+        <Page social="0">Mit jedem verendeten Feenwesen verblasst unser gemeinsamer Traum etwas mehr, &lt;PCNAME&gt;. Was Ihr getan habt, war nicht angenehm, aber es war notwendig.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1002">
+        <Page social="0">Es ist ein brutales Unterfangen, aber Ihr müsst diese Feen erledigen, bevor sie sämtliche freundlich gesinnten Geister am Feenteich vernichten!</Page>
+    </Text>
+</QuestDialog>

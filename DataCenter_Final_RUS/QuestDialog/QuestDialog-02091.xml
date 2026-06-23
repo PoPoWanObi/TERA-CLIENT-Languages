@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Вы зажгли фейерверки, чтобы почтить Балдера.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="4">Во имя Балдера!&lt;BR&gt;&lt;BR&gt;Мы поддерживаем огонь факелов горящим и днем, и ночью, но во время праздника мы также возжигаем фейерверки, чтобы сделать Балдеру подношение.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ты много помогаешь нам... может быть, ты окажешь нам честь и зажжешь фейерверки? &lt;NEXTPAGEBUTTON&gt;"Мне нравится!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Обойди платформу с факелами и запусти фейерверки.&lt;BR&gt;&lt;BR&gt;Только не направляй их на других. Это опасно.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7001">
+        <Page social="4">Благодарю, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Я знаю, эта работа может показаться утомительной, но я каждый день благодарю Балдера. Надеюсь, что, оказав почести Балдеру, ты чувствуешь себя также.</Page>
+    </Text>
+</QuestDialog>

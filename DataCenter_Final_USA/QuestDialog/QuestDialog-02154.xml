@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1117">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1117">
+        <Page social="0">Hundreds of Kaidun's old troops and mercenaries remain on Suryati's Peak, driven mad by the argons' mind control devices.&lt;BR&gt;&lt;BR&gt;They're a threat...and they're suffering horribly.&lt;BR&gt;&lt;BR&gt;Go through the {@linkcreature:73#1501#teleportal} at the boneyard and put them down.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1117">
+        <Page social="4">Every time you come back, I hope this will be the last bag of personal effects I have to identify, but I know it won't be. Thank you for doing thankless work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" villagerId="1117">
+        <Page social="0">It's gut-wrenching to think how many of Kaidun's soldiers still wander mindlessly up on that mountain.</Page>
+    </Text>
+</QuestDialog>

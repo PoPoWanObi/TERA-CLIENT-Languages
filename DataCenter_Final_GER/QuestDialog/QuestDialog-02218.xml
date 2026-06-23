@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">{@LinkCreature:77#3008#Varaz} ist wohl einer der besten Botaniker dieses Jahrhunderts.&lt;BR&gt;&lt;BR&gt;Doch wie viele Invalescomitglieder ist er ein Denker und kein Kämpfer.&lt;BR&gt;&lt;BR&gt;Also braucht auch er Eure Hilfe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, fantastisch! {@gender:Ein Assistent/Eine Assistentin}!&lt;BR&gt;&lt;BR&gt;Meine Mission ist, die hiesige Flora zu untersuchen, die zum großen Teil umfassende Modifikationen durch die Argonen erfahren hat.&lt;BR&gt;&lt;BR&gt;Gott sei Dank beißen die meisten Pflanzen nicht, was man von den Argonen nicht gerade behaupten kann.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, hervorragend! Was für wundervolle Exemplare!&lt;BR&gt;&lt;BR&gt;Seid Ihr auch Botaniker? Wenn nicht, solltet Ihr mal darüber nachdenken.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Ein paar mutierte Pflanzen von der {@Rgn:46010$$Spitze von Raga Evala} wären ein Segen für unsere Forschung.&lt;BR&gt;&lt;BR&gt;Wenn Ihr schon auf dem Weg dorthin seid, könntet Ihr uns doch sicher welche mitbringen, oder?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="7" villagerId="3008">
+        <Page social="4">Oh, hervorragend! Was für wundervolle Exemplare!&lt;BR&gt;&lt;BR&gt;Seid Ihr auch Botaniker? Wenn nicht, solltet Ihr mal darüber nachdenken.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Ich habe von mutierten Pilzen in den {@Rgn:46007$$Tiefen von Raga Evala} gehört.&lt;BR&gt;&lt;BR&gt;Wenn ich ein paar davon für meine Untersuchungen hätte, könnte ich vielleicht herausfinden, welchen Nutzen sie für die Argonen haben.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="9" villagerId="3008">
+        <Page social="4">Oh, hervorragend! Was für wundervolle Exemplare!&lt;BR&gt;&lt;BR&gt;Seid Ihr auch Botaniker? Wenn nicht, solltet Ihr mal darüber nachdenken.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Ein Kollege hat mutierte Blumen beschrieben, die auf der {@Rgn:46010$$Spitze von Raga Evala} wachsen.&lt;BR&gt;&lt;BR&gt;Ich wäre dankbar für ein paar Exemplare davon, um sie persönlich zu untersuchen zu können.</Page>
+    </Text>
+</QuestDialog>

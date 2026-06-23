@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">Bitte ... Ihr müsst mir helfen, &lt;PCNAME&gt;! Mein Dracolothenhaustier ist tödlich erkrankt. Er ist so schwach, dass er sich kaum noch bewegen kann. Das Einzige, was ihn retten kann, ist eine Herztransplantation!&lt;BR&gt;&lt;BR&gt;Ich kann die Operation selbst ausführen, aber ich brauche ein geeignetes Herz. Hier in der Nähe gibt es einen Dracolothen namens Nyxarras, der die Gegend terrorisiert. Wenn Ihr ihn töten und mir sein noch schlagendes Herz bringen könntet, wäre damit allen gedient - und ich könnte meinen kleinen Liebling hier retten. Bitte, das müsst Ihr für mich tun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1027">
+        <Page social="5">Ihr habt es? Es schlägt noch? Großartig!&lt;BR&gt;&lt;BR&gt;Schnell, gebt es mir! Mein Liebling ist kurz davor, sein Leben auszuhauchen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1027">
+        <Page social="0">Trödelt nicht, sobald Ihr Nyxarras' schlagendes Herz in der Hand haltet.</Page>
+    </Text>
+</QuestDialog>

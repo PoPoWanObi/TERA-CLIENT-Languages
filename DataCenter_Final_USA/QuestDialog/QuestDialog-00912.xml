@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="5">War isn't my only passion, of course. Actually, I joined the military to explore our world's vast history.&lt;BR&gt;&lt;BR&gt;In particular, I find the elins and popori fascinating. Would you like to know more?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">All right, so are you curious about the popori's history or elin’s?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu had already created the elins, but she saw her daughters needed allies to protect nature. To that end, she woke certain forest creatures, imbuing them with sentience and reshaping their bodies—flesh made spirit.&lt;BR&gt;&lt;BR&gt;Some she chose for their courage, others their wits, and still others because it pleased her. The poporis became the brave, sly creatures we see today.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu needed help watching over nature, so she took some of her life force and gave it a physical form—spirit made flesh.&lt;BR&gt;&lt;BR&gt;Though the elins look much like young girls, their ears and tails serve as a reminder that they're stewards of the natural world, and very much a part of it.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Fascinating tale, isn't it? If you're still curious, why don’t you go see {@LinkCreature:229#1023$$Senova}? She knows many interesting stories.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Astonishing, isn't it? If you're still curious, why don’t you go see {@LinkCreature:229#1023$$Senova}? She knows many interesting stories.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Ah, Isobel shared her passion for legends and lore again. She certainly loves history.&lt;BR&gt;&lt;BR&gt;Truthfully, there are few tales to relate, but perhaps I can dispel a myth or two.&lt;BR&gt;&lt;BR&gt;Given that both the elins and poporis share a divine heritage, do they live forever?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">That's a confident answer!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Not so certain, eh?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="229" prevId="8" villagerId="1023">
+        <Page social="5">Alas, they do not. Truthfully, they live no longer than humans, which is sad. Both races bring a unique wisdom and viewpoint to the world.&lt;BR&gt;&lt;BR&gt;The federation is stronger for that, and diminished when they die.&lt;BR&gt;&lt;BR&gt;But we remember.</Page>
+    </Text>
+</QuestDialog>

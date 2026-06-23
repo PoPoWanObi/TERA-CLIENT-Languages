@@ -1,0 +1,92 @@
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
+    <String string="Eure Gilde wurde gegründet." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Eure Gilde wurde aufgelöst." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} ist der Gilde beigetreten." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} hat die Gilde verlassen." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} wurde aus der Gilde geworfen." readableId="SMT_GUILDLOG_BAN" />
+    <String string="Der Rang &quot;{GroupName}&quot; wurde hinzugefügt." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="Der Rang &quot;{GroupName}&quot; wurde entfernt." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} ist jetzt Gildenmeister." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} hat jetzt den Rang &quot;{GroupName}&quot;." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="Gildenname wurde von [{OldName}] in [{NewName}] geändert." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="{UserName} hat den Gebietssteuersatz festgesetzt." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="Gildenmeister" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Rekrut" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] hat [{Point}] Wettkampfpunkte errungen." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} Tötungspunkt{@select:{KP}/e//e}" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} Tötungspunkt{@select:{KP}/e//e}" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} Tötungspunkt{@select:{KP}/e//e}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Fehdenaufruf" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Wollt Ihr eine Fehde gegen {GuildName} ausrufen?&#xA;Die Fehde dauert {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Crusade Without Chips" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="Due to the guilds belonging to different leagues, no tactics chip bet was placed. Do you wish to continue with Crusade? Crusade will last for &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;." readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Herausfordern" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Abbrechen" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Fehde im Gange" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="Gilde &quot;{Name}&quot; hat gesiegt!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="Die Fehde endete in einem Remis." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="Gilde &quot;{Name}&quot; hat kapituliert." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="{Name} hat aufgegeben." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="{Name} hat abgebrochen." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
+    <String string="Kapitulationsbestätigung" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Wollt Ihr kapitulieren?&#xA;Die Fehde gegen [{Opponent}] wird beendet und [{Opponent}] zum Sieger erklärt." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Abbrechen" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Gildenmeister: {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Die Zeit wird knapp." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{KP} Tötungspunkt{@select:{KP}/e//e}" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Friedlich" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Kampfbereit" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Gildenstatusänderung bestätigen" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Ändert den Gildenstatus von &quot;{OldState}&quot; zu &quot;{NewState}&quot;. Gilden mit dem Status &quot;{NewState}&quot; können keinen neuen Gildenkampf eröffnen." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Ändert den Gildenstatus von &quot;{OldState}&quot; zu &quot;{NewState}&quot;. Mit dem Status &quot;{NewState}&quot; könnt Ihr an Gildenkämpfen teilnehmen." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Ändern" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Abbrechen" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Eure Gilde erlangte {Battlechip} Ruhm durch einen Sieg." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Eure Gilde verlor {Battlechip} Ruhm durch eine Niederlage." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Eure Gilde verlor {Battlechip} Ruhm durch ein Remis." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Eure Gilde erlangte {Battlechip} Ruhm durch die Kapitulation von {GuildName}." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Eure Gilde verlor {Battlechip} Ruhm durch Aufgeben." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Eure Gilde verlor {Battlechip} Ruhm durch Abbruch." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="Fehde gegen {GuildName} abgebrochen wegen eines Problems mit dem GvG-System." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="Zu wenig Ruhm. Fehde gegen {GuildName} abgebrochen." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="Fehde abgebrochen. {GuildName} hat zu wenig Ruhm." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="Dieser Fehdenzyklus ist vorbei. Laufende Fehden werden abgebrochen." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Möchtet Ihr &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battelchip}&lt;/FONT&gt; zusätzlichen Ruhm setzen und die Fehde gegen {GuildName} fortsetzen?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Ihr verliert {BattleChip} Ruhm durch Aufgeben. Wollt Ihr wirklich aufgeben?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Teleportation" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="Zu Gildenmitglied {UserName} teleportieren?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Fehdendetails" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Ihr habt {GuildWarCount} Fehden zu prüfen. Klickt auf Bestätigen, um das Fehdenfenster zu öffnen." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Setzt Ruhm und ruft eine Fehde gegen eine andere Gilde aus. Ihr könnt nicht mehr als &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; Ruhm setzen. Ihr könnt keine Fehde ausrufen, ohne Ruhm zu setzen. Fehden sind nicht möglich, wenn die gegnerische Gilde nicht genug Ruhm besitzt." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Setzt zusätzlichen Ruhm und führt die Fehde fort. Ihr könnt bis zu &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; Eures ersten Wetteinsatzes setzen. Wenn die gegnerische Gilde weniger als &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150%&lt;/FONT&gt; Eures Wetteinsatzes besitzt, könnt Ihr nur so viel Ruhm setzen, wie die gegnerische Gilde momentan besitzt." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Eure Gilde hat eine Fehde gegen {Opponent} ausgerufen!" readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="{Opponent} hat eine Fehde gegen Eure Gilde ausgerufen!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="In der Fehde gegen {Opponent} hat Eure Gilde zusätzlichen Ruhm gesetzt." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="{Opponent} setzte weiteren Ruhm." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="Wartet" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Aufgeben" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Kapitulation" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Fehdenabbruch" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Ihr verliert {BattleChip} Ruhm durch Aufgeben. Wollt Ihr wirklich aufgeben?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Eure Gilde verliert {Battlechip} Ruhm, wenn Ihr abbrecht. Wollt Ihr wirklich abbrechen?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Eure Gilde verliert {Battlechip} Ruhm, wenn Ihr kapituliert. Wollt Ihr wirklich kapitulieren?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Bestätigen" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Abbrechen" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Fehde ausrufen" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Zusätzlicher Wetteinsatz" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="So sei es" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Wette abgeschlossen." readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Fehdeninformation" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="GvG-Fehden" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Jede Gilde mit mehr als &lt;FONT SIZE='18' COLOR='#80E71C'&gt;1&lt;/FONT&gt; Ruhm kann an einer Fehde teilnehmen. Öffnet das Fehden-Interface und klickt auf eine andere Gilde, um eine Fehde gegen sie auszurufen. Wenn eine gegnerische Gilde eine Fehde gegen Eure Gilde ausruft, könnt Ihr zwischen Annehmen, Zusätzlichem Wetteinsatz und Aufgeben entscheiden. Wenn Ihr nicht innerhalb von &lt;FONT SIZE='18' COLOR='#80E71C'&gt;24&lt;/FONT&gt; Stunden antwortet, gebt Ihr automatisch auf und verliert Ruhm. Nur Charaktere mit Fehdenrechten können wetten oder zwischen den drei Optionen entscheiden." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="Rangliste" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Die Menge an Ruhm, die eine Gilde am Ende einer Fehde besitzt, entscheidet über die Platzierung. Gilden mit mehr Ruhm werden höher platziert. Jedoch werden nur Gilden, die an mehr als &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; Fehden pro Zyklus (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 Wochen&lt;/FONT&gt;) teilnehmen, in den Ranglisten berücksichtigt." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Ruhm" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="Gilden erhalten jeden Mittwoch &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; Ruhm pro Konto mit einem oder mehr Charakteren über &lt;FONT SIZE='18' COLOR='#80E71C'&gt;Stufe 60&lt;/FONT&gt;. Um Ruhm zu erlangen, braucht eine Gilde '&lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt;'–'&lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt;' berechtigte Konten. Wenn ein Konto mehrere 60+ Charaktere in verschiedenen Gilden enthält, wird der Ruhm aufgeteilt.&lt;br&gt;(Beispiel: Wenn Ihr drei Charaktere über Stufe 60 in drei verschiedenen Gilden habt, bekommt jede Gilde 20 Ruhm. Soll der gesamte Ruhm an eine Gilde gehen, müsst Ihr mit allen relevanten Charakteren dieser Gilde beitreten.)" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Fehdensieg" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="Die Gilde, die innerhalb von 24 Stunden zuerst &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{winKillPoint}&lt;/FONT&gt; Siege erringt, gewinnt. Wenn keine der Gilden &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{winKillPoint}&lt;/FONT&gt; Siege innerhalb von 24 Stunden erringt, gewinnt die Gilde mit den meisten Siegen. Wenn beide Gilden gleich viele Siege errungen haben oder die Gesamtzahl der Siege unter &lt;FONT SIZE='18' COLOR='#FF0000'&gt;{drawKillPoint}&lt;/FONT&gt; liegt, endet die Fehde in einem Remis und beide Gilden verlieren den gesetzten Ruhm." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
+</StrSheet_Guild>

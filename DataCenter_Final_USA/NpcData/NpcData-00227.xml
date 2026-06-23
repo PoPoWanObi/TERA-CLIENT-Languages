@@ -1,0 +1,52 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="462" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1501" scale="0.625" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="5001" scale="1" shapeId="611000" size="small" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="27805" />
+    </Template>
+    <Template id="5002" scale="1.55" shapeId="300111" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" size="medium" parentId="30011100" basicActionId="3001100" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+        <Stat level="54" maxHp="8912" />
+    </Template>
+    <Template id="5003" scale="1.14" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" size="medium" parentId="30107001" basicActionId="3010700" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+        <Stat level="54" maxHp="8912" />
+    </Template>
+    <Template id="5004" scale="1.55" shapeId="300210" gender="male" race="KilliansServant" resourceSize="100" resourceType="medium" size="medium" parentId="30021000" basicActionId="3002100" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="36" deathNameplateHeight="0" />
+        <Stat level="55" maxHp="9545" />
+    </Template>
+    <Template id="5005" scale="1.15" shapeId="300861" gender="male" race="HellhoundBeast" resourceSize="100" resourceType="large" size="large" parentId="90050003" despawnScriptId="146250051" basicActionId="3008600" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true">
+        <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+        <Stat level="54" maxHp="222506" />
+    </Template>
+    <Template id="5006" scale="1.25" shapeId="300863" gender="male" race="DarkReaper" resourceSize="100" resourceType="large" size="large" parentId="30086300" basicActionId="3008600" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true" spawnScriptId="146250061">
+        <NamePlate nameplateHeight="96" deathNameplateHeight="0" />
+        <Stat level="55" maxHp="179138" />
+    </Template>
+    <Template id="5007" scale="1" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" size="small" parentId="30090000" basicActionId="3009000" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+        <Stat level="55" maxHp="1487" />
+    </Template>
+    <Template id="5010" shapeId="600010" resourceSize="100" resourceType="medium" size="small" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="5561" />
+    </Template>
+    <Template id="5011" scale="1" shapeId="611000" size="small" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="55610" />
+    </Template>
+    <Template id="5012" scale="1" shapeId="611000" size="small" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="27805" />
+    </Template>
+    <Template id="5013" scale="1" shapeId="611000" size="small" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="27805" />
+    </Template>
+    <Template id="5014" scale="1" shapeId="611000" size="small" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="54" maxHp="27805" />
+    </Template>
+    <Template id="5052" scale="1.55" shapeId="300111" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" size="medium" parentId="30011100" basicActionId="3001100" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+        <Stat level="54" maxHp="8912" />
+    </Template>
+</NpcData>

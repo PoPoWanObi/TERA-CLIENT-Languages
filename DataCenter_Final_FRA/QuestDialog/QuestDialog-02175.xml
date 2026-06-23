@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5">Il reste des descendants parmi les plus coriaces dans le bastion. Tant que nous n'aurons pas pacifié ces tunnels, les Bois de l'Oubli ne seront pas sûrs.&lt;BR&gt;&lt;BR&gt;Eliminez des {@LinkCreature:487#2002#mystiques}, des {@LinkCreature:487#2003#sorciers}, des {@LinkCreature:487#2004#faucheurs}, des {@LinkCreature:487#3001#lanciers} et des {@LinkCreature:487#3002#pourfendeurs} du bastion.&lt;BR&gt;&lt;BR&gt;Faites-moi votre rapport quand vous les aurez tous renvoyés au rêve.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5">C'est un soulagement de pouvoir compter sur quelqu'un qui a votre expérience. J'aurais pu envoyer un escadron de soldats moins expérimentés pour faire ce boulot, et j'en aurai sans doute perdu la majorité. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">Ne revenez que quand vous aurez assez d'insignes pour m'impressionner.</Page>
+    </Text>
+</QuestDialog>

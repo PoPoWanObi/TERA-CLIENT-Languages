@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Подготовьтесь к новому задании на окраине Велики. Помогите в сборе припасов для долгой экспедиции, после чего отправляйтесь на пристань дирижаблей.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Сеир]&lt;BR&gt;&lt;BR&gt;У меня есть новости!&lt;BR&gt;&lt;BR&gt;Мистериум выяснил, что за недавними нападениями демокронов стоит Северный Арун. Мы собираемся отправить туда отряд и выяснить, в чем дело.&lt;BR&gt;&lt;BR&gt;Ты верно служишь Валькионской Федерации, так что я предлагаю тебе помочь нам и на этот раз. Командовать экспедицией будет Дугал, но для выполнения опасных заданий ему потребуются опытные бойцы.&lt;BR&gt;&lt;BR&gt;Мы разработали новый воздушный корабль и назвали его крейсером. Он доставит вашу экспедицию на север. Сейчас тебе нужно проверить собранные припасы, а затем подняться на борт крейсера.&lt;BR&gt;&lt;BR&gt;Нари будет ждать тебя на пристани.&lt;BR&gt;&lt;BR&gt;Сеир.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1507">
+        <Page social="4">Правда, здорово? Такая суматоха кругом! Все торопятся!&lt;BR&gt;Чем могу помочь?&lt;NEXTPAGEBUTTON&gt;"Меня прислал к тебе Сеир".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Понятно. Ты летишь на север на крейсере? Отлично!&lt;BR&gt;&lt;BR&gt;Крейсер намного мощнее обычных дирижаблей.&lt;BR&gt;&lt;BR&gt;Он доставит тебя в Северный Арун, навстречу приключениям! Просто невероятно, да?&lt;NEXTPAGEBUTTON&gt;"И где сейчас этот крейсер?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Парит вон там, на западе.&lt;BR&gt;&lt;BR&gt;Послушай, до отправления крейсера еще много времени, а мне не помешала бы твоя помощь.&lt;NEXTPAGEBUTTON&gt;"Что я могу сделать?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Мы собираем припасы для путешествия, но возникли кое-какие затруднения.&lt;BR&gt;Джемо расскажет, что нам требуется. Не забывай, все это нужно для экспедиции! Так что довольно разговоров.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1242">
+        <Page social="4">О, услада для моих очей! Если мы не погрузим все необходимое, у меня вся шерсть от волнения вылезет!&lt;BR&gt;&lt;BR&gt;Фургон с припасами уже ушел, а мы не успели раздобыть масло углецвета. Оно медленно горит и не дает дыма, так что идеально подходит для воздушных кораблей.&lt;NEXTPAGEBUTTON&gt;"Сколько его нужно?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Немного! Совсем немного!&lt;BR&gt;&lt;BR&gt;Видишь вон тех овец? Они обожают углецветы. Собери несколько цветов и принеси мне.&lt;BR&gt;&lt;BR&gt;Об остальном я позабочусь.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1242">
+        <Page social="4">Хорошо, очень хорошо. Этого вполне хватит. Теперь выжмем их...&lt;BR&gt;&lt;BR&gt;Готово! Один ящик, как и заказывал интендант.&lt;BR&gt;&lt;BR&gt;Остался последний шаг.&lt;NEXTPAGEBUTTON&gt;"Доставить его?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Верно!&lt;BR&gt;&lt;BR&gt;К кораблю только что отправился торговец по имени Тонас. Но у него тихоходный фургон, так что ты его запросто нагонишь.&lt;NEXTPAGEBUTTON&gt;"Это все?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Да, это все.&lt;BR&gt;&lt;BR&gt;Спасибо тебе!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1242">
+        <Page social="0">У тебя недостаточно углецветов. Собери еще!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1534">
+        <Page social="4">Я и глазом моргнуть не успел! Это чудище явилось словно ниоткуда и бросилось на фургон.&lt;BR&gt;&lt;BR&gt;Лошади перепугались и порвали упряжь.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Может быть, я смогу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Спасибо. Но от удара у меня сломались обе оси. Сначала надо починить фургон.&lt;BR&gt;&lt;BR&gt;Только вот у меня нет никаких материалов для ремонта.&lt;NEXTPAGEBUTTON&gt;"Получается, тебе нужно дерево?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Да! Древни или миканары вполне подойдут, но сначала тебе придется с ними сразиться.&lt;BR&gt;&lt;BR&gt;Мне нужна пара крепких сучьев. Ступай и раздобудь их, а я пока поищу свои инструменты.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1534">
+        <Page social="4">Они уже сбежали?&lt;NEXTPAGEBUTTON&gt;"Кто?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Проклятые медведи, напавшие на фургон! Они сожрали половину припасов, поломали мое сиденье, а пока подоспели стражники, я успел наложить в штаны!&lt;BR&gt;&lt;BR&gt;Теперь придется чем-то заменить пропавшую еду.&lt;NEXTPAGEBUTTON&gt;"Медвежье мясо подойдет?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ха! Да, вполне сгодится! Да хранит тебя Велика!&lt;BR&gt;&lt;BR&gt;Спасибо тебе огромное!&lt;BR&gt;&lt;BR&gt;Принеси мне мясо, а я пока займусь починкой осей.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Для ремонта мне нужно не меньше пяти сучьев. Можешь достать еще?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="1534">
+        <Page social="4">Ты - самый лучший &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Теперь я смогу доставить груз на корабль и купить новых лошадей.&lt;BR&gt;&lt;BR&gt;Спасибо. Да направит тебя Велика!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Время не ждет, солдат.</Page>
+    </Text>
+</QuestDialog>

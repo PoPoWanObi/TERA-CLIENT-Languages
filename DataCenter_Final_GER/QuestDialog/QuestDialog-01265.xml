@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Es wäre fast eine freundliche Seuche, wenn sie die Leute nur umbrächte, aber stattdessen verwandelt sie sie in Monster. Ich fürchte mich so, der Nächste zu sein ...&lt;BR&gt;&lt;BR&gt;Ich habe eine traurige Aufgabe für Euch, wenn Ihr dazu bereit wärt. Ich möchte, dass Ihr {@LinkCreature:40#28#Turakius}, {@LinkCreature:40#15#Mutierte Arbeiter} und {@LinkCreature:40#30#Dreiklingenmutanten} von ihrem Elend erlöst.&lt;BR&gt;&lt;BR&gt;Ich würde so nicht weiterleben wollen, Ihr etwa?&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Es war ein Akt der Gnade, &lt;PCNAME&gt;. Vergesst das nie.</Page>
+    </Text>
+</QuestDialog>

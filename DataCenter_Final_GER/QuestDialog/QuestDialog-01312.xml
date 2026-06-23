@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Wir haben vor Kurzem eine große Lieferung an Goldwappen verloren, und ich denke, die Schwarzklauen stecken dahinter. Könnten ziemliche Biester sein, also kümmert Euch mal um sie.&lt;BR&gt;&lt;BR&gt;Tötet {@LinkCreature:41#3002#Taumelnde Cullare}, {@LinkCreature:41#3003#Raublustige Cullare}, {@LinkCreature:41#2004#Schwarzklauenkämpfer} und {@LinkCreature:41#2005#Schwarzklauenplünderer} im nördlichen Wilden Tal.&lt;BR&gt;&lt;BR&gt;Ihr könnt die Wappen an Jeulile abliefern in der Station des Wilden Tales.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">Jetzt sind wir sicherer, und Ihr habt die Mittel beschafft, den wir brauchen, um diese Gegend neu zu gestalten. Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">Wir brauchen diese Wappen, &lt;PCNAME&gt;. Es braucht mehr als Hoffnung, um eine Zukunft zu ermöglichen.</Page>
+    </Text>
+</QuestDialog>

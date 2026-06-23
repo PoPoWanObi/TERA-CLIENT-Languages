@@ -1,0 +1,101 @@
+<StrSheet_VehicleSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill">
+    <String id="1101" templateId="2000" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="48" />
+    <String id="1201" templateId="2000" name="Dismount" tooltip="Get off the siege weapon." huntingZoneId="48" />
+    <String id="1101" templateId="2001" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="48" />
+    <String id="1201" templateId="2001" name="Dismount" tooltip="Get off the siege weapon." huntingZoneId="48" />
+    <String id="1101" templateId="1001" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="116" />
+    <String id="1201" templateId="1001" name="Jump" tooltip="Jump from the airship." huntingZoneId="116" />
+    <String id="1102" templateId="1002" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="116" />
+    <String id="1202" templateId="1002" name="Jump" tooltip="Jump from the airship." huntingZoneId="116" />
+    <String id="1103" templateId="1003" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="116" />
+    <String id="1203" templateId="1003" name="Jump" tooltip="Jump from the airship." huntingZoneId="116" />
+    <String id="1101" templateId="4000" name="Fire Salvo" tooltip="Shoot a projectile." huntingZoneId="116" />
+    <String id="1201" templateId="4000" name="Dismount" tooltip="Get off the siege weapon." huntingZoneId="116" />
+    <String id="1301" templateId="4001" name="Fire Salvo" tooltip="Shoot a projectile." huntingZoneId="116" />
+    <String id="1401" templateId="4001" name="Dismount" tooltip="Get off the siege weapon." huntingZoneId="116" />
+    <String id="1501" templateId="4002" name="Fire Salvo" tooltip="Shoot a projectile." huntingZoneId="116" />
+    <String id="1503" templateId="4002" name="Dismount" tooltip="Get off the siege weapon" huntingZoneId="116" />
+    <String id="1501" templateId="4003" name="Fire Salvo" tooltip="Shoot a projectile." huntingZoneId="116" />
+    <String id="1503" templateId="4003" name="Dismount" tooltip="Get off the siege weapon" huntingZoneId="116" />
+    <String id="1102" templateId="5000" name="Belly-Flop" tooltip="Leap forward onto your enemies, inflicting terrific damage, and slowing targets." huntingZoneId="117" />
+    <String id="1103" templateId="5000" name="Spank" tooltip="Attack enemies three times, and continue to deal damage for a few seconds afterward." huntingZoneId="117" />
+    <String id="1104" templateId="5000" name="Major Tantrum" tooltip="Shoot spheres of critical energy in an arc in front of you, stunning targets." huntingZoneId="117" />
+    <String id="1111" templateId="5000" name="Big Belch" tooltip="Breathe fire in an arc in front of you, blasting yourself backward." huntingZoneId="117" />
+    <String id="1212" templateId="5000" name="Jump Back" tooltip="Lets you jump backward and attack enemies in a set range." huntingZoneId="117" />
+    <String id="1318" templateId="5000" name="Flying Fists" tooltip="Shoot rocket punches in multiple directions around you, slowing targets." huntingZoneId="117" />
+    <String id="2201" templateId="5000" name="Purify Kumas" tooltip="Eliminate all the harmful effects cast on friendly kumases in the skill's range." huntingZoneId="117" />
+    <String id="2202" templateId="5000" name="Heal Kumas" tooltip="Restore HP for other kumases in range." huntingZoneId="117" />
+    <String id="1102" templateId="6000" name="Belly-Flop" tooltip="Leap onto your enemies, inflicting terrific damage, and slowing targets." huntingZoneId="117" />
+    <String id="1104" templateId="6000" name="Tantrum" tooltip="Shoot two energy spheres in a small arc in front of you, stunning targets." huntingZoneId="117" />
+    <String id="1106" templateId="6000" name="Belch" tooltip="Breathe fire in an arc in front of you." huntingZoneId="117" />
+    <String id="1108" templateId="6000" name="Roundhouse Left" tooltip="Deliver a roundhouse punch while turning clockwise." huntingZoneId="117" />
+    <String id="1109" templateId="6000" name="Roundhouse Right" tooltip="Deliver a roundhouse punch while turning counterclockwise." huntingZoneId="117" />
+    <String id="1212" templateId="6000" name="Backstep" tooltip="Retreat!" huntingZoneId="117" />
+    <String id="1311" templateId="6000" name="Belly-Roll" tooltip="Attack as you roll forward, slowing the targets you roll over." huntingZoneId="117" />
+    <String id="2201" templateId="6000" name="Purify Kumas" tooltip="Eliminate all the harmful effects cast on friendly kumases in the skill's range." huntingZoneId="117" />
+    <String id="6010" templateId="6000" name="Backward Roll" tooltip="Attack as you roll backward, slowing the targets you roll over" huntingZoneId="117" />
+    <String id="1103" templateId="7000" name="Spank" tooltip="Attack enemies three times, and continue to deal damage for a few seconds afterward." huntingZoneId="117" />
+    <String id="1212" templateId="7000" name="Backstep" tooltip="Retreat!" huntingZoneId="117" />
+    <String id="1301" templateId="9005" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="121" />
+    <String id="1501" templateId="9005" name="Dismount" tooltip="Get off the cannon." huntingZoneId="121" />
+    <String id="1301" templateId="9005" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="122" />
+    <String id="1501" templateId="9005" name="Dismount" tooltip="Get off the cannon." huntingZoneId="122" />
+    <String id="1301" templateId="9005" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="123" />
+    <String id="1501" templateId="9005" name="Dismount" tooltip="Get off the cannon." huntingZoneId="123" />
+    <String id="1101" templateId="1601" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="191" />
+    <String id="1201" templateId="1601" name="Jump" tooltip="Get off the cannon." huntingZoneId="191" />
+    <String id="1101" templateId="1604" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="191" />
+    <String id="1201" templateId="1604" name="Jump" tooltip="Jump from the airship." huntingZoneId="191" />
+    <String id="1101" templateId="1605" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="191" />
+    <String id="1201" templateId="1605" name="Jump" tooltip="Jump from the airship." huntingZoneId="191" />
+    <String id="1101" templateId="2999" name="Fire Salvo" tooltip="Shoot a water bomb at a target." huntingZoneId="210" />
+    <String id="1201" templateId="2999" name="Dismount" tooltip="Leave the splash cannon." huntingZoneId="210" />
+    <String id="1101" templateId="3000" name="Fire Salvo" tooltip="Shoot a water bomb at a target." huntingZoneId="210" />
+    <String id="1201" templateId="3000" name="Dismount" tooltip="Leave the splash cannon." huntingZoneId="210" />
+    <String id="1101" templateId="4000" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="210" />
+    <String id="1201" templateId="4000" name="Dismount" tooltip="Exit the tank." huntingZoneId="210" />
+    <String id="1101" templateId="8041" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="425" />
+    <String id="1201" templateId="8041" name="Dismount" tooltip="Get off the cannon." huntingZoneId="425" />
+    <String id="1101" templateId="4000" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="443" />
+    <String id="1201" templateId="4000" name="Dismount" tooltip="Leave the cannon." huntingZoneId="443" />
+    <String id="1201" templateId="300" name="Dismount" tooltip="Leave the cannon." huntingZoneId="447" />
+    <String id="2101" templateId="300" name="Fire Pumpkin" tooltip="Shoot a projectile at your target." huntingZoneId="447" />
+    <String id="1201" templateId="310" name="Dismount" tooltip="Leave the cannon." huntingZoneId="447" />
+    <String id="2101" templateId="310" name="Fire Pumpkin" tooltip="Shoot a projectile at your target." huntingZoneId="447" />
+    <String id="1201" templateId="311" name="Dismount" tooltip="Leave the cannon." huntingZoneId="447" />
+    <String id="2101" templateId="311" name="Fire Pumpkin" tooltip="Shoot a projectile at your target." huntingZoneId="447" />
+    <String id="1101" templateId="5000" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="450" />
+    <String id="1201" templateId="5000" name="Jump" tooltip="Jump out of the airship." huntingZoneId="450" />
+    <String id="1101" templateId="500" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="453" />
+    <String id="1201" templateId="500" name="Dismount" tooltip="Leave the cannon." huntingZoneId="453" />
+    <String id="1101" templateId="501" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="453" />
+    <String id="1201" templateId="501" name="Dismount" tooltip="Leave the cannon." huntingZoneId="453" />
+    <String id="1101" templateId="8041" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="725" />
+    <String id="1201" templateId="8041" name="Dismount" tooltip="Get off the cannon." huntingZoneId="725" />
+    <String id="1101" templateId="4000" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="743" />
+    <String id="1201" templateId="4000" name="Dismount" tooltip="Get off the cannon." huntingZoneId="743" />
+    <String id="1101" templateId="5000" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5000" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5001" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5001" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5002" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5002" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5003" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5003" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5004" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5004" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5005" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5005" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5006" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5006" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5007" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5007" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5008" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5008" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="5009" name="Cast Off" tooltip="Prepare the airship for departure. You can't use this skill while flying." huntingZoneId="750" />
+    <String id="1201" templateId="5009" name="Jump" tooltip="Jump out of the airship." huntingZoneId="750" />
+    <String id="1101" templateId="885158" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="885" />
+    <String id="1201" templateId="885158" name="Dismount" tooltip="Get off the cannon." huntingZoneId="885" />
+    <String id="1101" templateId="3000007" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="1023" />
+    <String id="1201" templateId="3000007" name="Dismount" tooltip="Get off the cannon." huntingZoneId="1023" />
+</StrSheet_VehicleSkill>

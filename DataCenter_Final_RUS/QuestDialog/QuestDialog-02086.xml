@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Вы научились делать мороженое из сароники.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">Добро пожаловать, &lt;PCRACE:lcase&gt;! Боюсь, у меня совсем закончилось мороженое. Я не ожидала, что на праздник придет столько гостей, а на улице стоит жара, и все хотят мороженое из сароники!&lt;NEXTPAGEBUTTON&gt;"Да, действительно, жарко. Ну, я пойду".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Постой, постой! Не уходи! Если ты принесешь мне льда и ягод сароники из тележки Лумана, вон там, то я покажу, как делать мороженое из сароники. А потом ты поможешь мне его раздать!&lt;NEXTPAGEBUTTON&gt;"Вон та тележка? Хорошо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Спасибо!&lt;BR&gt;&lt;BR&gt;Ступай и забери лед и саронику у Лумана.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7106">
+        <Page social="4">А? Что? У Лилан уже кончился лед?&lt;BR&gt;&lt;BR&gt;Разве она не понимает, какая стоит жара? Этого льда должно было хватить до конца праздника!&lt;BR&gt;&lt;BR&gt;Ну ладно. Держи. Скажи, чтобы сразу все не использовала.&lt;NEXTPAGEBUTTON&gt;"Я... хорошо, скажу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="7106">
+        <Page social="4">Что? Ты еще здесь?&lt;BR&gt;&lt;BR&gt;Ей нужна еще и сароника?&lt;BR&gt;&lt;BR&gt;Можно было и сразу об этом сказать.&lt;BR&gt;&lt;BR&gt;Держи! Сароника! Хватит? Что-нибудь еще? Нет? Хорошо!&lt;NEXTPAGEBUTTON&gt;"Ты... очень любезен".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7101">
+        <Page social="4">Луман поделился льдом? Ну разве он не милашка?&lt;BR&gt;&lt;BR&gt;Теперь положи кусок льда в ледорубку и измельчи, а саронику я отдам моей помощнице Трилин. &lt;NEXTPAGEBUTTON&gt;Идет.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="7102">
+        <Page social="4">Лилан выдала тебе наш секретный рецепт мороженого из сароники? И сказала, что я - ее помощница? И что Луман - "милашка"? Эта девчонка совсем свихнулась, и когда-нибудь она и меня сведет с ума, я это знаю.&lt;BR&gt;&lt;BR&gt;Что ж, спасибо за помощь. Нам действительно нужен был лед и сароника...&lt;BR&gt;&lt;BR&gt;Ну хорошо, я покажу тебе, как делать мороженое из сароники.&lt;NEXTPAGEBUTTON&gt;"Жду с нетерпением".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Положи измельченный лед и саронику в стеклянную миску... добавь сладкого молока... и как следует перемешай! &lt;NEXTPAGEBUTTON&gt;"Звучит довольно просто".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" villagerId="7102">
+        <Page social="0">Сложи ингредиенты в миску и как следует перемешай.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="7101">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;! Ты так быстро? Замечательно! Я была уверена, что моя ассистентка поможет тебе!&lt;BR&gt;&lt;BR&gt;Что ж, надо выдать тебе награду. Знаю! Как насчет замороженного десерта из сароники? Это как мороженое из сароники, только десерт!&lt;NEXTPAGEBUTTON&gt;"Это... гениально. Спасибо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="7101">
+        <Page social="0">Эм-м... да... к вам уже подошли?&lt;BR&gt;&lt;BR&gt;О! &lt;PCNAME&gt;, это ты! У тебя есть сароника и лед?</Page>
+    </Text>
+</QuestDialog>

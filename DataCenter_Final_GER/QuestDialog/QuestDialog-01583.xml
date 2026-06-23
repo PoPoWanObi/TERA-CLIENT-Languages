@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Der legendäre Schmied Muhrak bat Euch um einige Materialien, um seine neue Werkstatt aufzustocken. Nachdem Ihr sie ihm geliefert hattet, stellte Muhrak eine Superwaffe her: die Fackel der Götter.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;: Kommt in meine Werkstatt. Ich brauche Materialien.&lt;BR&gt;&lt;BR&gt;Muhrak.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1">Wenn der Göttliche Brennofen funktionieren würde, wäre ich jetzt an der Arbeit, aber da gibt es bestimmte ... Unzulänglichkeiten. Wir brauchen Eismark, Feuermark und Gletscherfragmente.&lt;BR&gt;&lt;BR&gt;Wie meint Ihr das, "warum?" Wer ist hier der legendäre Schmied? Na schön. Zur Verbindung der Reliquienfragmente mit der Essenz des Kerns benötigt man extreme Hitze, gefolgt von Kälte. Zufrieden?&lt;BR&gt;&lt;BR&gt;Geht nach Rasneri Festning im Tal der Spitzen. Die Riesen dort haben Eismark und Feuermark, besonders die Häuptlinge. Gletscherfragmente? Die könnt Ihr unter der Brücke vom Verbrannten Schneefeld zur Frostklauenklippe einsammeln.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1">Sehr gut, jetzt kann ich mein bestes Stück vollenden!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">Ich brauche Materialien!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1">Nehmt das hier, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Fügt etwas dunkle Materie hinzu, dann habt Ihr die Fackel der Götter.&lt;BR&gt;&lt;BR&gt;Kelsaik ist der Gott Sikander in korrumpierter Gestalt, daher ist er gegen fast jede sterbliche Magie immun. Aber die Fackel der Götter kann sich durch diese Immunität hindurchbrennen.&lt;BR&gt;&lt;BR&gt;Tragt so viele Fackeln wie Ihr wollt bei Euch, dann findet Ihr dunkle Materie im Ebenholzturm. Praktisch, oder?&lt;BR&gt;&lt;BR&gt;Brecht nicht sofort auf, &lt;PCCLASS&gt;! Lasst Euch von Gaicus erst noch ein Reinigungstotem geben. Das ist gut gegen die Monster, die Ihr um den Ebenholzturm antreffen werdet.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1">Reinigungstotem? Was denn, schicken man da irgendeinen Trottel, um den Ebenholzturm zu erforschen?&lt;BR&gt;&lt;BR&gt;Oh, Ihr seid das? Also dann - hier, bitte!&lt;BR&gt;&lt;BR&gt;Im Turm selbst hat noch niemand die hier ausprobiert, aber ich habe sie hergestellt, um gegen den schwarzen Rauch zu helfen, der manchmal von dort über Habere hinweg zieht. Im Inneren des Turms müsste es dasselbe sein, nur heftiger.</Page>
+    </Text>
+</QuestDialog>

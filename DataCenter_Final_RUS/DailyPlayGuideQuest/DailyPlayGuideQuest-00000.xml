@@ -1,0 +1,1308 @@
+<DailyPlayGuideQuest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DailyPlayGuideQuest DailyPlayGuideQuest.xsd" xmlns="https://vezel.dev/novadrop/dc/DailyPlayGuideQuest">
+    <Quest id="1" type="daily" name="@DailyPlayGuideQuest:80001001" maxLevel="25" minLevel="20" autoStartType="1" groupId="8000" overLevel="26" realHuntingZoneId="487" suitableLevel="20" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80001100" monsterHuntingZoneId="487" monsterTemplateId="101" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80001101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="2" type="daily" name="@DailyPlayGuideQuest:80002001" maxLevel="31" minLevel="26" autoStartType="1" groupId="8000" overLevel="32" realHuntingZoneId="488" suitableLevel="26" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80002100" monsterHuntingZoneId="488" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80002101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="3" type="daily" name="@DailyPlayGuideQuest:80003001" maxLevel="36" minLevel="32" autoStartType="1" groupId="8000" overLevel="37" realHuntingZoneId="979" suitableLevel="32" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80003100" monsterHuntingZoneId="979" monsterTemplateId="47954" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80003101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="4" type="daily" name="@DailyPlayGuideQuest:80004001" maxLevel="42" minLevel="35" autoStartType="1" groupId="8000" overLevel="43" realHuntingZoneId="489" suitableLevel="35" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80004100" monsterHuntingZoneId="489" monsterTemplateId="3801" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80004101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="5" type="daily" name="@DailyPlayGuideQuest:80005001" maxLevel="47" minLevel="41" autoStartType="1" groupId="8000" overLevel="48" realHuntingZoneId="471" suitableLevel="41" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80005100" monsterHuntingZoneId="471" monsterTemplateId="14" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80005101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="6" type="daily" name="@DailyPlayGuideQuest:80006001" maxLevel="53" minLevel="48" autoStartType="1" groupId="8000" overLevel="54" realHuntingZoneId="472" suitableLevel="48" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80006100" monsterHuntingZoneId="472" monsterTemplateId="101" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80006101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="8" type="daily" name="@DailyPlayGuideQuest:80008001" maxLevel="57" minLevel="53" autoStartType="1" groupId="8000" overLevel="58" realHuntingZoneId="494" suitableLevel="53" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="1" failOnUserDead="false" groupName="@DailyPlayGuideQuest:80008300" journal="@DailyPlayGuideQuest:80008100" monsterHuntingZoneId="494" monsterTemplateId="5049" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="494" monsterTemplateId="5050" />
+        <TaskPart id="2" monsterHuntingZoneId="494" monsterTemplateId="5051" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:80008103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="9" type="daily" name="@DailyPlayGuideQuest:80009001" maxLevel="58" minLevel="57" autoStartType="1" groupId="8000" overLevel="59" realHuntingZoneId="476" suitableLevel="57" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:80009100" monsterHuntingZoneId="476" monsterTemplateId="4000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:80009101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="10" type="daily" name="@DailyPlayGuideQuest:800010001" maxLevel="59" minLevel="58" autoStartType="1" groupId="8000" overLevel="60" realHuntingZoneId="473" suitableLevel="58" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:800010100" monsterHuntingZoneId="473" monsterTemplateId="5103" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800010101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="21" type="daily" name="@DailyPlayGuideQuest:800021001" maxLevel="59" minLevel="30" autoStartType="1" groupId="8000" overLevel="60" realHuntingZoneId="116" suitableLevel="30" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:800021100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800021101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="22" type="daily" name="@DailyPlayGuideQuest:800022001" maxLevel="59" minLevel="30" autoStartType="1" groupId="8000" overLevel="60" realHuntingZoneId="117" suitableLevel="30" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:800022100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800022101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="30" type="daily" name="@DailyPlayGuideQuest:800030001" maxLevel="22" minLevel="20" autoStartType="1" groupId="8000" overLevel="23" realHuntingZoneId="3" suitableLevel="20" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800030300" journal="@DailyPlayGuideQuest:800030100" monsterHuntingZoneId="3" monsterTemplateId="300811" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800030101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="31" type="daily" name="@DailyPlayGuideQuest:800031001" maxLevel="25" minLevel="22" autoStartType="1" groupId="8000" overLevel="26" realHuntingZoneId="7" suitableLevel="22" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800031300" journal="@DailyPlayGuideQuest:800031100" monsterHuntingZoneId="7" monsterTemplateId="3" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="7" monsterTemplateId="4" />
+        <TaskPart id="2" monsterHuntingZoneId="7" monsterTemplateId="1" />
+        <TaskPart id="3" monsterHuntingZoneId="7" monsterTemplateId="23" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:800031104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="34" type="daily" name="@DailyPlayGuideQuest:800034001" maxLevel="27" minLevel="25" autoStartType="1" groupId="8000" overLevel="28" realHuntingZoneId="15" suitableLevel="25" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800034300" journal="@DailyPlayGuideQuest:800034100" monsterHuntingZoneId="15" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800034101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="35" type="daily" name="@DailyPlayGuideQuest:800035001" maxLevel="30" minLevel="27" autoStartType="1" groupId="8000" overLevel="31" realHuntingZoneId="16" suitableLevel="27" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800035300" journal="@DailyPlayGuideQuest:800035100" monsterHuntingZoneId="16" monsterTemplateId="2401" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="16" monsterTemplateId="2402" />
+        <TaskPart id="2" monsterHuntingZoneId="16" monsterTemplateId="2501" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:800035103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="36" type="daily" name="@DailyPlayGuideQuest:800036001" maxLevel="32" minLevel="30" autoStartType="1" groupId="8000" overLevel="33" realHuntingZoneId="21" suitableLevel="30" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800036300" journal="@DailyPlayGuideQuest:800036100" monsterHuntingZoneId="21" monsterTemplateId="2" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="21" monsterTemplateId="1" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800036102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="37" type="daily" name="@DailyPlayGuideQuest:800037001" maxLevel="34" minLevel="32" autoStartType="1" groupId="8000" overLevel="35" realHuntingZoneId="9" suitableLevel="32" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800037300" journal="@DailyPlayGuideQuest:800037100" monsterHuntingZoneId="9" monsterTemplateId="1410" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="9" monsterTemplateId="1400" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800037102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="38" type="daily" name="@DailyPlayGuideQuest:800038001" maxLevel="36" minLevel="34" autoStartType="1" groupId="8000" overLevel="37" realHuntingZoneId="23" suitableLevel="34" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800038300" journal="@DailyPlayGuideQuest:800038100" monsterHuntingZoneId="23" monsterTemplateId="14" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800038101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="39" type="daily" name="@DailyPlayGuideQuest:800039001" maxLevel="37" minLevel="36" autoStartType="1" groupId="8000" overLevel="38" realHuntingZoneId="18" suitableLevel="36" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800039300" journal="@DailyPlayGuideQuest:800039100" monsterHuntingZoneId="18" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800039101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="40" type="daily" name="@DailyPlayGuideQuest:800040001" maxLevel="41" minLevel="37" autoStartType="1" groupId="8000" overLevel="42" realHuntingZoneId="24" suitableLevel="37" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800040300" journal="@DailyPlayGuideQuest:800040100" monsterHuntingZoneId="24" monsterTemplateId="9" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800040101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="41" type="daily" name="@DailyPlayGuideQuest:800041001" maxLevel="43" minLevel="41" autoStartType="1" groupId="8000" overLevel="44" realHuntingZoneId="26" suitableLevel="41" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800041300" journal="@DailyPlayGuideQuest:800041100" monsterHuntingZoneId="26" monsterTemplateId="4000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="26" monsterTemplateId="2004" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800041102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="42" type="daily" name="@DailyPlayGuideQuest:800042001" maxLevel="46" minLevel="43" autoStartType="1" groupId="8000" overLevel="47" realHuntingZoneId="31" suitableLevel="43" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800042300" journal="@DailyPlayGuideQuest:800042100" monsterHuntingZoneId="31" monsterTemplateId="25" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800042101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="43" type="daily" name="@DailyPlayGuideQuest:800043001" maxLevel="49" minLevel="46" autoStartType="1" groupId="8000" overLevel="50" realHuntingZoneId="41" suitableLevel="46" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800043300" journal="@DailyPlayGuideQuest:800043100" monsterHuntingZoneId="41" monsterTemplateId="4001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800043101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="44" type="daily" name="@DailyPlayGuideQuest:800044001" maxLevel="51" minLevel="49" autoStartType="1" groupId="8000" overLevel="52" realHuntingZoneId="10" suitableLevel="49" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800044300" journal="@DailyPlayGuideQuest:800044100" monsterHuntingZoneId="10" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800044101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="45" type="daily" name="@DailyPlayGuideQuest:800045001" maxLevel="53" minLevel="51" autoStartType="1" groupId="8000" overLevel="54" realHuntingZoneId="10" suitableLevel="51" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800045300" journal="@DailyPlayGuideQuest:800045100" monsterHuntingZoneId="10" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800045101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="46" type="daily" name="@DailyPlayGuideQuest:800046001" maxLevel="56" minLevel="53" autoStartType="1" groupId="8000" overLevel="57" realHuntingZoneId="57" suitableLevel="53" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800046300" journal="@DailyPlayGuideQuest:800046100" monsterHuntingZoneId="57" monsterTemplateId="12" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="57" monsterTemplateId="22" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800046102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="47" type="daily" name="@DailyPlayGuideQuest:800047001" maxLevel="60" minLevel="56" autoStartType="1" groupId="8000" overLevel="61" realHuntingZoneId="36" suitableLevel="56" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800047300" journal="@DailyPlayGuideQuest:800047100" monsterHuntingZoneId="36" monsterTemplateId="19" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800047101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="50" type="daily" name="@DailyPlayGuideQuest:800050001" maxLevel="16" minLevel="13" autoStartType="1" groupId="8000" overLevel="17" realHuntingZoneId="3" suitableLevel="14" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800050300" journal="@DailyPlayGuideQuest:800050100" monsterHuntingZoneId="3" monsterTemplateId="17" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="3" monsterTemplateId="300142" />
+        <TaskPart id="2" monsterHuntingZoneId="3" monsterTemplateId="300140" />
+        <TaskPart id="3" monsterHuntingZoneId="3" monsterTemplateId="300161" />
+        <TaskPart id="4" monsterHuntingZoneId="3" monsterTemplateId="19" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:800050105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="51" type="daily" name="@DailyPlayGuideQuest:800051001" maxLevel="19" minLevel="16" autoStartType="1" groupId="8000" overLevel="20" realHuntingZoneId="3" suitableLevel="17" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800051300" journal="@DailyPlayGuideQuest:800051100" monsterHuntingZoneId="3" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="3" monsterTemplateId="14" />
+        <TaskPart id="2" monsterHuntingZoneId="3" monsterTemplateId="300141" />
+        <TaskPart id="3" monsterHuntingZoneId="3" monsterTemplateId="18" />
+        <TaskPart id="4" monsterHuntingZoneId="3" monsterTemplateId="300160" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:800051105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="52" type="daily" name="@DailyPlayGuideQuest:800052001" maxLevel="22" minLevel="19" autoStartType="1" groupId="8000" overLevel="23" realHuntingZoneId="3" suitableLevel="19" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800052300" journal="@DailyPlayGuideQuest:800052100" monsterHuntingZoneId="3" monsterTemplateId="3" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800052101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="53" type="daily" name="@DailyPlayGuideQuest:800053001" maxLevel="33" minLevel="30" autoStartType="1" groupId="8000" overLevel="34" realHuntingZoneId="12" suitableLevel="31" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800053300" journal="@DailyPlayGuideQuest:800053100" monsterHuntingZoneId="12" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="12" monsterTemplateId="7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800053102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="54" type="daily" name="@DailyPlayGuideQuest:800054001" maxLevel="37" minLevel="35" autoStartType="1" groupId="8000" overLevel="38" realHuntingZoneId="18" suitableLevel="36" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800054300" journal="@DailyPlayGuideQuest:800054100" monsterHuntingZoneId="18" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="18" monsterTemplateId="9" />
+        <TaskPart id="2" monsterHuntingZoneId="18" monsterTemplateId="111" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:800054103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="55" type="daily" name="@DailyPlayGuideQuest:800055001" maxLevel="43" minLevel="40" autoStartType="1" groupId="8000" overLevel="44" realHuntingZoneId="26" suitableLevel="41" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800055300" journal="@DailyPlayGuideQuest:800055100" monsterHuntingZoneId="26" monsterTemplateId="2006" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800055101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="56" type="daily" name="@DailyPlayGuideQuest:800056001" maxLevel="43" minLevel="40" autoStartType="1" groupId="8000" overLevel="44" realHuntingZoneId="28" suitableLevel="40" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800056300" journal="@DailyPlayGuideQuest:800056100" monsterHuntingZoneId="28" monsterTemplateId="1041" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800056101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="57" type="daily" name="@DailyPlayGuideQuest:800057001" maxLevel="48" minLevel="45" autoStartType="1" groupId="8000" overLevel="49" realHuntingZoneId="40" suitableLevel="46" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800057300" journal="@DailyPlayGuideQuest:800057100" monsterHuntingZoneId="40" monsterTemplateId="29" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="40" monsterTemplateId="15" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800057102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="59" type="daily" name="@DailyPlayGuideQuest:800059001" maxLevel="54" minLevel="51" autoStartType="1" groupId="8000" overLevel="55" realHuntingZoneId="56" suitableLevel="51" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800059300" journal="@DailyPlayGuideQuest:800059100" monsterHuntingZoneId="56" monsterTemplateId="5" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="56" monsterTemplateId="55" />
+        <TaskPart id="2" monsterHuntingZoneId="56" monsterTemplateId="6" />
+        <TaskPart id="3" monsterHuntingZoneId="56" monsterTemplateId="56" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:800059104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="60" type="daily" name="@DailyPlayGuideQuest:800060001" maxLevel="54" minLevel="51" autoStartType="1" groupId="8000" overLevel="55" realHuntingZoneId="56" suitableLevel="52" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800060300" journal="@DailyPlayGuideQuest:800060100" monsterHuntingZoneId="56" monsterTemplateId="11" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="56" monsterTemplateId="13" />
+        <TaskPart id="2" monsterHuntingZoneId="56" monsterTemplateId="58" />
+        <TaskPart id="3" monsterHuntingZoneId="56" monsterTemplateId="57" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:800060104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="61" type="daily" name="@DailyPlayGuideQuest:800061001" maxLevel="60" minLevel="58" autoStartType="1" groupId="8000" overLevel="61" realHuntingZoneId="47" suitableLevel="59" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800061300" journal="@DailyPlayGuideQuest:800061100" monsterHuntingZoneId="47" monsterTemplateId="1001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800061101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="62" type="daily" name="@DailyPlayGuideQuest:800062001" maxLevel="60" minLevel="58" autoStartType="1" groupId="8000" overLevel="61" realHuntingZoneId="45" suitableLevel="59" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800062300" journal="@DailyPlayGuideQuest:800062100" monsterHuntingZoneId="45" monsterTemplateId="2001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800062101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="63" type="daily" name="@DailyPlayGuideQuest:800063001" maxLevel="27" minLevel="25" autoStartType="1" groupId="8000" overLevel="28" realHuntingZoneId="16" suitableLevel="26" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800063300" journal="@DailyPlayGuideQuest:800063100" monsterHuntingZoneId="16" monsterTemplateId="2202" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="16" monsterTemplateId="2201" />
+        <TaskPart id="2" monsterHuntingZoneId="16" monsterTemplateId="2204" />
+        <TaskPart id="3" monsterHuntingZoneId="16" monsterTemplateId="2209" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:800063104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="64" type="daily" name="@DailyPlayGuideQuest:800064001" maxLevel="25" minLevel="23" autoStartType="1" groupId="8000" overLevel="26" realHuntingZoneId="7" suitableLevel="24" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800064300" journal="@DailyPlayGuideQuest:800064100" monsterHuntingZoneId="7" monsterTemplateId="12" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="7" monsterTemplateId="13" />
+        <TaskPart id="2" monsterHuntingZoneId="7" monsterTemplateId="14" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:800064103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="65" type="daily" name="@DailyPlayGuideQuest:800065001" maxLevel="40" minLevel="37" autoStartType="1" groupId="8000" overLevel="41" realHuntingZoneId="25" suitableLevel="38" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800065300" journal="@DailyPlayGuideQuest:800065100" monsterHuntingZoneId="25" monsterTemplateId="1011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="25" monsterTemplateId="1051" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800065102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="66" type="daily" name="@DailyPlayGuideQuest:800066001" maxLevel="46" minLevel="43" autoStartType="1" groupId="8000" overLevel="47" realHuntingZoneId="32" suitableLevel="43" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800066300" journal="@DailyPlayGuideQuest:800066100" monsterHuntingZoneId="32" monsterTemplateId="7" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="32" monsterTemplateId="8" />
+        <TaskPart id="2" monsterHuntingZoneId="32" monsterTemplateId="9" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:800066103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="67" type="daily" name="@DailyPlayGuideQuest:800067001" maxLevel="51" minLevel="48" autoStartType="1" groupId="8000" overLevel="52" realHuntingZoneId="10" suitableLevel="48" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800067300" journal="@DailyPlayGuideQuest:800067100" monsterHuntingZoneId="10" monsterTemplateId="2" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="10" monsterTemplateId="3" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800067102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="68" type="daily" name="@DailyPlayGuideQuest:800068001" maxLevel="56" minLevel="54" autoStartType="1" groupId="8000" overLevel="57" realHuntingZoneId="38" suitableLevel="55" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800068300" journal="@DailyPlayGuideQuest:800068100" monsterHuntingZoneId="38" monsterTemplateId="37" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="38" monsterTemplateId="38" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800068102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="69" type="daily" name="@DailyPlayGuideQuest:800069001" maxLevel="30" minLevel="27" autoStartType="1" groupId="8000" overLevel="31" realHuntingZoneId="21" suitableLevel="28" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800069300" journal="@DailyPlayGuideQuest:800069100" monsterHuntingZoneId="21" monsterTemplateId="7" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="21" monsterTemplateId="14" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800069102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="70" type="daily" name="@DailyPlayGuideQuest:800070001" maxLevel="35" minLevel="33" autoStartType="1" groupId="8000" overLevel="36" realHuntingZoneId="23" suitableLevel="34" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800070300" journal="@DailyPlayGuideQuest:800070100" monsterHuntingZoneId="23" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:800070101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="71" type="daily" name="@DailyPlayGuideQuest:800071001" maxLevel="58" minLevel="56" autoStartType="1" groupId="8000" overLevel="59" realHuntingZoneId="51" suitableLevel="57" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:800071300" journal="@DailyPlayGuideQuest:800071100" monsterHuntingZoneId="51" monsterTemplateId="1011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="51" monsterTemplateId="1021" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:800071102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="1" type="daily" name="@DailyPlayGuideQuest:81001001" maxLevel="25" minLevel="20" autoStartType="1" groupId="8100" overLevel="26" realHuntingZoneId="487" suitableLevel="20" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81001100" monsterHuntingZoneId="487" monsterTemplateId="101" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81001101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="2" type="daily" name="@DailyPlayGuideQuest:81002001" maxLevel="31" minLevel="26" autoStartType="1" groupId="8100" overLevel="32" realHuntingZoneId="488" suitableLevel="26" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81002100" monsterHuntingZoneId="488" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81002101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="3" type="daily" name="@DailyPlayGuideQuest:81003001" maxLevel="36" minLevel="32" autoStartType="1" groupId="8100" overLevel="37" realHuntingZoneId="979" suitableLevel="32" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81003100" monsterHuntingZoneId="979" monsterTemplateId="47954" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81003101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="4" type="daily" name="@DailyPlayGuideQuest:81004001" maxLevel="42" minLevel="35" autoStartType="1" groupId="8100" overLevel="43" realHuntingZoneId="489" suitableLevel="35" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81004100" monsterHuntingZoneId="489" monsterTemplateId="3801" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81004101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="5" type="daily" name="@DailyPlayGuideQuest:81005001" maxLevel="47" minLevel="41" autoStartType="1" groupId="8100" overLevel="48" realHuntingZoneId="471" suitableLevel="41" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81005100" monsterHuntingZoneId="471" monsterTemplateId="14" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81005101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="6" type="daily" name="@DailyPlayGuideQuest:81006001" maxLevel="53" minLevel="48" autoStartType="1" groupId="8100" overLevel="54" realHuntingZoneId="472" suitableLevel="48" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81006100" monsterHuntingZoneId="472" monsterTemplateId="101" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81006101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="8" type="daily" name="@DailyPlayGuideQuest:81008001" maxLevel="57" minLevel="53" autoStartType="1" groupId="8100" overLevel="58" realHuntingZoneId="494" suitableLevel="53" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="1" failOnUserDead="false" groupName="@DailyPlayGuideQuest:81008300" journal="@DailyPlayGuideQuest:81008100" monsterHuntingZoneId="494" monsterTemplateId="5049" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="494" monsterTemplateId="5050" />
+        <TaskPart id="2" monsterHuntingZoneId="494" monsterTemplateId="5051" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:81008103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="9" type="daily" name="@DailyPlayGuideQuest:81009001" maxLevel="58" minLevel="57" autoStartType="1" groupId="8100" overLevel="59" realHuntingZoneId="476" suitableLevel="57" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:81009100" monsterHuntingZoneId="476" monsterTemplateId="4000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:81009101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="10" type="daily" name="@DailyPlayGuideQuest:810010001" maxLevel="59" minLevel="58" autoStartType="1" groupId="8100" overLevel="60" realHuntingZoneId="473" suitableLevel="58" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:810010100" monsterHuntingZoneId="473" monsterTemplateId="5103" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810010101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="21" type="daily" name="@DailyPlayGuideQuest:810021001" maxLevel="59" minLevel="30" autoStartType="1" groupId="8100" overLevel="60" realHuntingZoneId="116" suitableLevel="30" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:810021100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810021101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="22" type="daily" name="@DailyPlayGuideQuest:810022001" maxLevel="59" minLevel="30" autoStartType="1" groupId="8100" overLevel="60" realHuntingZoneId="117" suitableLevel="30" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:810022100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810022101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="30" type="daily" name="@DailyPlayGuideQuest:810030001" maxLevel="22" minLevel="20" autoStartType="1" groupId="8100" overLevel="23" realHuntingZoneId="3" suitableLevel="20" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810030300" journal="@DailyPlayGuideQuest:810030100" monsterHuntingZoneId="3" monsterTemplateId="300811" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810030101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="31" type="daily" name="@DailyPlayGuideQuest:810031001" maxLevel="25" minLevel="22" autoStartType="1" groupId="8100" overLevel="26" realHuntingZoneId="7" suitableLevel="22" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810031300" journal="@DailyPlayGuideQuest:810031100" monsterHuntingZoneId="7" monsterTemplateId="3" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="7" monsterTemplateId="4" />
+        <TaskPart id="2" monsterHuntingZoneId="7" monsterTemplateId="1" />
+        <TaskPart id="3" monsterHuntingZoneId="7" monsterTemplateId="23" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:810031104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="34" type="daily" name="@DailyPlayGuideQuest:810034001" maxLevel="27" minLevel="25" autoStartType="1" groupId="8100" overLevel="28" realHuntingZoneId="15" suitableLevel="25" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810034300" journal="@DailyPlayGuideQuest:810034100" monsterHuntingZoneId="15" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810034101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="35" type="daily" name="@DailyPlayGuideQuest:810035001" maxLevel="30" minLevel="27" autoStartType="1" groupId="8100" overLevel="31" realHuntingZoneId="16" suitableLevel="27" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810035300" journal="@DailyPlayGuideQuest:810035100" monsterHuntingZoneId="16" monsterTemplateId="2401" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="16" monsterTemplateId="2402" />
+        <TaskPart id="2" monsterHuntingZoneId="16" monsterTemplateId="2501" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:810035103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="36" type="daily" name="@DailyPlayGuideQuest:810036001" maxLevel="32" minLevel="30" autoStartType="1" groupId="8100" overLevel="33" realHuntingZoneId="21" suitableLevel="30" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810036300" journal="@DailyPlayGuideQuest:810036100" monsterHuntingZoneId="21" monsterTemplateId="2" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="21" monsterTemplateId="1" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810036102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="37" type="daily" name="@DailyPlayGuideQuest:810037001" maxLevel="34" minLevel="32" autoStartType="1" groupId="8100" overLevel="35" realHuntingZoneId="9" suitableLevel="32" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810037300" journal="@DailyPlayGuideQuest:810037100" monsterHuntingZoneId="9" monsterTemplateId="1410" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="9" monsterTemplateId="1400" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810037102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="38" type="daily" name="@DailyPlayGuideQuest:810038001" maxLevel="36" minLevel="34" autoStartType="1" groupId="8100" overLevel="37" realHuntingZoneId="23" suitableLevel="34" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810038300" journal="@DailyPlayGuideQuest:810038100" monsterHuntingZoneId="23" monsterTemplateId="14" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810038101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="39" type="daily" name="@DailyPlayGuideQuest:810039001" maxLevel="37" minLevel="36" autoStartType="1" groupId="8100" overLevel="38" realHuntingZoneId="18" suitableLevel="36" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810039300" journal="@DailyPlayGuideQuest:810039100" monsterHuntingZoneId="18" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810039101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="40" type="daily" name="@DailyPlayGuideQuest:810040001" maxLevel="41" minLevel="37" autoStartType="1" groupId="8100" overLevel="42" realHuntingZoneId="24" suitableLevel="37" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810040300" journal="@DailyPlayGuideQuest:810040100" monsterHuntingZoneId="24" monsterTemplateId="9" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810040101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="41" type="daily" name="@DailyPlayGuideQuest:810041001" maxLevel="43" minLevel="41" autoStartType="1" groupId="8100" overLevel="44" realHuntingZoneId="26" suitableLevel="41" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810041300" journal="@DailyPlayGuideQuest:810041100" monsterHuntingZoneId="26" monsterTemplateId="4000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="26" monsterTemplateId="2004" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810041102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="42" type="daily" name="@DailyPlayGuideQuest:810042001" maxLevel="46" minLevel="43" autoStartType="1" groupId="8100" overLevel="47" realHuntingZoneId="31" suitableLevel="43" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810042300" journal="@DailyPlayGuideQuest:810042100" monsterHuntingZoneId="31" monsterTemplateId="25" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810042101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="43" type="daily" name="@DailyPlayGuideQuest:810043001" maxLevel="49" minLevel="46" autoStartType="1" groupId="8100" overLevel="50" realHuntingZoneId="41" suitableLevel="46" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810043300" journal="@DailyPlayGuideQuest:810043100" monsterHuntingZoneId="41" monsterTemplateId="4001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810043101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="44" type="daily" name="@DailyPlayGuideQuest:810044001" maxLevel="51" minLevel="49" autoStartType="1" groupId="8100" overLevel="52" realHuntingZoneId="10" suitableLevel="49" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810044300" journal="@DailyPlayGuideQuest:810044100" monsterHuntingZoneId="10" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810044101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="45" type="daily" name="@DailyPlayGuideQuest:810045001" maxLevel="53" minLevel="51" autoStartType="1" groupId="8100" overLevel="54" realHuntingZoneId="10" suitableLevel="51" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810045300" journal="@DailyPlayGuideQuest:810045100" monsterHuntingZoneId="10" monsterTemplateId="18" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810045101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="46" type="daily" name="@DailyPlayGuideQuest:810046001" maxLevel="56" minLevel="53" autoStartType="1" groupId="8100" overLevel="57" realHuntingZoneId="57" suitableLevel="53" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810046300" journal="@DailyPlayGuideQuest:810046100" monsterHuntingZoneId="57" monsterTemplateId="12" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="57" monsterTemplateId="22" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810046102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="47" type="daily" name="@DailyPlayGuideQuest:810047001" maxLevel="60" minLevel="56" autoStartType="1" groupId="8100" overLevel="61" realHuntingZoneId="36" suitableLevel="56" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="5" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810047300" journal="@DailyPlayGuideQuest:810047100" monsterHuntingZoneId="36" monsterTemplateId="19" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810047101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="50" type="daily" name="@DailyPlayGuideQuest:810050001" maxLevel="16" minLevel="13" autoStartType="1" groupId="8100" overLevel="17" realHuntingZoneId="3" suitableLevel="14" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810050300" journal="@DailyPlayGuideQuest:810050100" monsterHuntingZoneId="3" monsterTemplateId="17" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="3" monsterTemplateId="300142" />
+        <TaskPart id="2" monsterHuntingZoneId="3" monsterTemplateId="300140" />
+        <TaskPart id="3" monsterHuntingZoneId="3" monsterTemplateId="300161" />
+        <TaskPart id="4" monsterHuntingZoneId="3" monsterTemplateId="19" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:810050105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="51" type="daily" name="@DailyPlayGuideQuest:810051001" maxLevel="19" minLevel="16" autoStartType="1" groupId="8100" overLevel="20" realHuntingZoneId="3" suitableLevel="17" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810051300" journal="@DailyPlayGuideQuest:810051100" monsterHuntingZoneId="3" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="3" monsterTemplateId="14" />
+        <TaskPart id="2" monsterHuntingZoneId="3" monsterTemplateId="300141" />
+        <TaskPart id="3" monsterHuntingZoneId="3" monsterTemplateId="18" />
+        <TaskPart id="4" monsterHuntingZoneId="3" monsterTemplateId="300160" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:810051105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="52" type="daily" name="@DailyPlayGuideQuest:810052001" maxLevel="22" minLevel="19" autoStartType="1" groupId="8100" overLevel="23" realHuntingZoneId="3" suitableLevel="19" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810052300" journal="@DailyPlayGuideQuest:810052100" monsterHuntingZoneId="3" monsterTemplateId="3" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810052101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="53" type="daily" name="@DailyPlayGuideQuest:810053001" maxLevel="33" minLevel="30" autoStartType="1" groupId="8100" overLevel="34" realHuntingZoneId="12" suitableLevel="31" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810053300" journal="@DailyPlayGuideQuest:810053100" monsterHuntingZoneId="12" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="12" monsterTemplateId="7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810053102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="54" type="daily" name="@DailyPlayGuideQuest:810054001" maxLevel="37" minLevel="35" autoStartType="1" groupId="8100" overLevel="38" realHuntingZoneId="18" suitableLevel="36" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810054300" journal="@DailyPlayGuideQuest:810054100" monsterHuntingZoneId="18" monsterTemplateId="8" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="18" monsterTemplateId="9" />
+        <TaskPart id="2" monsterHuntingZoneId="18" monsterTemplateId="111" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:810054103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="55" type="daily" name="@DailyPlayGuideQuest:810055001" maxLevel="43" minLevel="40" autoStartType="1" groupId="8100" overLevel="44" realHuntingZoneId="26" suitableLevel="41" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810055300" journal="@DailyPlayGuideQuest:810055100" monsterHuntingZoneId="26" monsterTemplateId="2006" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810055101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="56" type="daily" name="@DailyPlayGuideQuest:810056001" maxLevel="43" minLevel="40" autoStartType="1" groupId="8100" overLevel="44" realHuntingZoneId="28" suitableLevel="40" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810056300" journal="@DailyPlayGuideQuest:810056100" monsterHuntingZoneId="28" monsterTemplateId="1041" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810056101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="57" type="daily" name="@DailyPlayGuideQuest:810057001" maxLevel="48" minLevel="45" autoStartType="1" groupId="8100" overLevel="49" realHuntingZoneId="40" suitableLevel="46" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810057300" journal="@DailyPlayGuideQuest:810057100" monsterHuntingZoneId="40" monsterTemplateId="29" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="40" monsterTemplateId="15" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810057102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="59" type="daily" name="@DailyPlayGuideQuest:810059001" maxLevel="54" minLevel="51" autoStartType="1" groupId="8100" overLevel="55" realHuntingZoneId="56" suitableLevel="51" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810059300" journal="@DailyPlayGuideQuest:810059100" monsterHuntingZoneId="56" monsterTemplateId="5" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="56" monsterTemplateId="55" />
+        <TaskPart id="2" monsterHuntingZoneId="56" monsterTemplateId="6" />
+        <TaskPart id="3" monsterHuntingZoneId="56" monsterTemplateId="56" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:810059104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="60" type="daily" name="@DailyPlayGuideQuest:810060001" maxLevel="54" minLevel="51" autoStartType="1" groupId="8100" overLevel="55" realHuntingZoneId="56" suitableLevel="52" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810060300" journal="@DailyPlayGuideQuest:810060100" monsterHuntingZoneId="56" monsterTemplateId="11" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="56" monsterTemplateId="13" />
+        <TaskPart id="2" monsterHuntingZoneId="56" monsterTemplateId="58" />
+        <TaskPart id="3" monsterHuntingZoneId="56" monsterTemplateId="57" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:810060104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="61" type="daily" name="@DailyPlayGuideQuest:810061001" maxLevel="60" minLevel="58" autoStartType="1" groupId="8100" overLevel="61" realHuntingZoneId="47" suitableLevel="59" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810061300" journal="@DailyPlayGuideQuest:810061100" monsterHuntingZoneId="47" monsterTemplateId="1001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810061101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="62" type="daily" name="@DailyPlayGuideQuest:810062001" maxLevel="60" minLevel="58" autoStartType="1" groupId="8100" overLevel="61" realHuntingZoneId="45" suitableLevel="59" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810062300" journal="@DailyPlayGuideQuest:810062100" monsterHuntingZoneId="45" monsterTemplateId="2001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810062101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="63" type="daily" name="@DailyPlayGuideQuest:810063001" maxLevel="27" minLevel="25" autoStartType="1" groupId="8100" overLevel="28" realHuntingZoneId="16" suitableLevel="26" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810063300" journal="@DailyPlayGuideQuest:810063100" monsterHuntingZoneId="16" monsterTemplateId="2202" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="16" monsterTemplateId="2201" />
+        <TaskPart id="2" monsterHuntingZoneId="16" monsterTemplateId="2204" />
+        <TaskPart id="3" monsterHuntingZoneId="16" monsterTemplateId="2209" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:810063104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="64" type="daily" name="@DailyPlayGuideQuest:810064001" maxLevel="25" minLevel="23" autoStartType="1" groupId="8100" overLevel="26" realHuntingZoneId="7" suitableLevel="24" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810064300" journal="@DailyPlayGuideQuest:810064100" monsterHuntingZoneId="7" monsterTemplateId="12" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="7" monsterTemplateId="13" />
+        <TaskPart id="2" monsterHuntingZoneId="7" monsterTemplateId="14" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:810064103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="65" type="daily" name="@DailyPlayGuideQuest:810065001" maxLevel="40" minLevel="37" autoStartType="1" groupId="8100" overLevel="41" realHuntingZoneId="25" suitableLevel="38" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810065300" journal="@DailyPlayGuideQuest:810065100" monsterHuntingZoneId="25" monsterTemplateId="1011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="25" monsterTemplateId="1051" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810065102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="66" type="daily" name="@DailyPlayGuideQuest:810066001" maxLevel="46" minLevel="43" autoStartType="1" groupId="8100" overLevel="47" realHuntingZoneId="32" suitableLevel="43" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810066300" journal="@DailyPlayGuideQuest:810066100" monsterHuntingZoneId="32" monsterTemplateId="7" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="32" monsterTemplateId="8" />
+        <TaskPart id="2" monsterHuntingZoneId="32" monsterTemplateId="9" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:810066103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="67" type="daily" name="@DailyPlayGuideQuest:810067001" maxLevel="51" minLevel="48" autoStartType="1" groupId="8100" overLevel="52" realHuntingZoneId="10" suitableLevel="48" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810067300" journal="@DailyPlayGuideQuest:810067100" monsterHuntingZoneId="10" monsterTemplateId="2" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="10" monsterTemplateId="3" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810067102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="68" type="daily" name="@DailyPlayGuideQuest:810068001" maxLevel="56" minLevel="54" autoStartType="1" groupId="8100" overLevel="57" realHuntingZoneId="38" suitableLevel="55" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810068300" journal="@DailyPlayGuideQuest:810068100" monsterHuntingZoneId="38" monsterTemplateId="37" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="38" monsterTemplateId="38" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810068102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="69" type="daily" name="@DailyPlayGuideQuest:810069001" maxLevel="30" minLevel="27" autoStartType="1" groupId="8100" overLevel="31" realHuntingZoneId="21" suitableLevel="28" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810069300" journal="@DailyPlayGuideQuest:810069100" monsterHuntingZoneId="21" monsterTemplateId="7" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="21" monsterTemplateId="14" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810069102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="70" type="daily" name="@DailyPlayGuideQuest:810070001" maxLevel="35" minLevel="33" autoStartType="1" groupId="8100" overLevel="36" realHuntingZoneId="23" suitableLevel="34" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810070300" journal="@DailyPlayGuideQuest:810070100" monsterHuntingZoneId="23" monsterTemplateId="15" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:810070101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="71" type="daily" name="@DailyPlayGuideQuest:810071001" maxLevel="58" minLevel="56" autoStartType="1" groupId="8100" overLevel="59" realHuntingZoneId="51" suitableLevel="57" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="30" failOnUserDead="false" groupName="@DailyPlayGuideQuest:810071300" journal="@DailyPlayGuideQuest:810071100" monsterHuntingZoneId="51" monsterTemplateId="1011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="51" monsterTemplateId="1021" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:810071102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="1" type="daily" name="@DailyPlayGuideQuest:99981001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="116" suitableLevel="60" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:99981100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99981101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="2" type="daily" name="@DailyPlayGuideQuest:99982001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="117" suitableLevel="60" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:99982100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99982101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="4" type="daily" name="@DailyPlayGuideQuest:99984001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="425" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99984100" monsterHuntingZoneId="425" monsterTemplateId="8005" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99984101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="5" type="daily" name="@DailyPlayGuideQuest:99985001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="426" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99985100" monsterHuntingZoneId="426" monsterTemplateId="20000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99985101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="6" type="daily" name="@DailyPlayGuideQuest:99986001" maxLevel="64" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="808" suitableLevel="61" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99986100" monsterHuntingZoneId="808" monsterTemplateId="30031000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99986101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="7" type="daily" name="@DailyPlayGuideQuest:99987001" maxLevel="64" minLevel="64" autoStartType="1" groupId="9998" realHuntingZoneId="809" suitableLevel="64" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99987100" monsterHuntingZoneId="809" monsterTemplateId="6001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99987101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="8" type="daily" name="@DailyPlayGuideQuest:99988001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="727" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99988100" monsterHuntingZoneId="727" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99988101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="9" type="daily" name="@DailyPlayGuideQuest:99989001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="supportInstanceDungeon" count="1" journal="@DailyPlayGuideQuest:99989100" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99989101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="11" type="daily" name="@DailyPlayGuideQuest:999811001" maxLevel="61" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="63" suitableLevel="60" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99901" count="5" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999811400" journal="@DailyPlayGuideQuest:999811100" monsterHuntingZoneId="63" monsterTemplateId="1509" partyConstraint="solo" probability="1" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="63" monsterTemplateId="1510" probability="1" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999811102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="12" type="daily" name="@DailyPlayGuideQuest:999812001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999812100" monsterHuntingZoneId="172" monsterTemplateId="2023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999812101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="13" type="daily" name="@DailyPlayGuideQuest:999813001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999813300" journal="@DailyPlayGuideQuest:999813100" monsterHuntingZoneId="172" monsterTemplateId="2040" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2003" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2004" />
+        <TaskPart id="3" monsterHuntingZoneId="172" monsterTemplateId="2005" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:999813104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="14" type="daily" name="@DailyPlayGuideQuest:999814001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999814300" journal="@DailyPlayGuideQuest:999814100" monsterHuntingZoneId="172" monsterTemplateId="2006" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2026" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2027" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999814103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="15" type="daily" name="@DailyPlayGuideQuest:999815001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="211" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999815400" journal="@DailyPlayGuideQuest:999815100" monsterHuntingZoneId="172" monsterTemplateId="2009" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2011" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999815102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="16" type="daily" name="@DailyPlayGuideQuest:999816001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45465" collectionId="607" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999816400" journal="@DailyPlayGuideQuest:999816100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45465" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999816401" journal="@DailyPlayGuideQuest:999816101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="17" type="daily" name="@DailyPlayGuideQuest:999817001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999817300" journal="@DailyPlayGuideQuest:999817100" monsterHuntingZoneId="181" monsterTemplateId="2141" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2127" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2128" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2145" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2032" />
+        <TaskPart id="5" monsterHuntingZoneId="181" monsterTemplateId="2142" />
+        <TaskPart id="6" monsterHuntingZoneId="181" monsterTemplateId="2144" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999817107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="18" type="daily" name="@DailyPlayGuideQuest:999818001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999818300" journal="@DailyPlayGuideQuest:999818100" monsterHuntingZoneId="172" monsterTemplateId="2013" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2008" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999818102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="19" type="daily" name="@DailyPlayGuideQuest:999819001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81135" collectionId="599" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999819400" journal="@DailyPlayGuideQuest:999819100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81135" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999819401" journal="@DailyPlayGuideQuest:999819101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="20" type="daily" name="@DailyPlayGuideQuest:999820001" maxLevel="61" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="63" suitableLevel="60" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="10" failOnUserDead="false" journal="@DailyPlayGuideQuest:999820100" monsterHuntingZoneId="63" monsterTemplateId="2011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999820101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="21" type="daily" name="@DailyPlayGuideQuest:999821001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999821100" monsterHuntingZoneId="182" monsterTemplateId="1037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999821101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="22" type="daily" name="@DailyPlayGuideQuest:999822001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999822300" journal="@DailyPlayGuideQuest:999822100" monsterHuntingZoneId="182" monsterTemplateId="1013" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1014" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="1016" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999822103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="23" type="daily" name="@DailyPlayGuideQuest:999823001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99904" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999823400" journal="@DailyPlayGuideQuest:999823100" monsterHuntingZoneId="182" monsterTemplateId="2" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="4" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999823103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="24" type="daily" name="@DailyPlayGuideQuest:999824001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81116" collectionId="616" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999824400" journal="@DailyPlayGuideQuest:999824100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81116" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999824401" journal="@DailyPlayGuideQuest:999824101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="25" type="daily" name="@DailyPlayGuideQuest:999825001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999825300" journal="@DailyPlayGuideQuest:999825100" monsterHuntingZoneId="182" monsterTemplateId="1023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1030" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999825102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="26" type="daily" name="@DailyPlayGuideQuest:999826001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999826300" journal="@DailyPlayGuideQuest:999826100" monsterHuntingZoneId="182" monsterTemplateId="1008" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1009" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999826102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="27" type="daily" name="@DailyPlayGuideQuest:999827001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99905" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999827400" journal="@DailyPlayGuideQuest:999827100" monsterHuntingZoneId="182" monsterTemplateId="1018" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1019" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999827102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="28" type="daily" name="@DailyPlayGuideQuest:999828001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45462" collectionId="604" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999828400" journal="@DailyPlayGuideQuest:999828100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45462" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999828401" journal="@DailyPlayGuideQuest:999828101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="29" type="daily" name="@DailyPlayGuideQuest:999829001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999829300" journal="@DailyPlayGuideQuest:999829100" monsterHuntingZoneId="172" monsterTemplateId="2037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2038" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999829102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="30" type="daily" name="@DailyPlayGuideQuest:999830001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99912" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999830400" journal="@DailyPlayGuideQuest:999830100" monsterHuntingZoneId="182" monsterTemplateId="3" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="10" probability="0.7" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999830103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="31" type="daily" name="@DailyPlayGuideQuest:999831001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999831300" journal="@DailyPlayGuideQuest:999831100" monsterHuntingZoneId="181" monsterTemplateId="2023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2015" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2136" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999831103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="32" type="daily" name="@DailyPlayGuideQuest:999832001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999832100" monsterHuntingZoneId="181" monsterTemplateId="2146" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999832101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="33" type="daily" name="@DailyPlayGuideQuest:999833001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81102" collectionId="603" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999833400" journal="@DailyPlayGuideQuest:999833100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81102" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999833401" journal="@DailyPlayGuideQuest:999833101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="34" type="daily" name="@DailyPlayGuideQuest:999834001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999834100" monsterHuntingZoneId="181" monsterTemplateId="2036" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999834101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="35" type="daily" name="@DailyPlayGuideQuest:999835001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81109" collectionId="595" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999835400" journal="@DailyPlayGuideQuest:999835100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81109" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999835401" journal="@DailyPlayGuideQuest:999835101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="36" type="daily" name="@DailyPlayGuideQuest:999836001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="20" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999836300" journal="@DailyPlayGuideQuest:999836100" monsterHuntingZoneId="181" monsterTemplateId="2004" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2005" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999836102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="37" type="daily" name="@DailyPlayGuideQuest:999837001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99906" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999837400" journal="@DailyPlayGuideQuest:999837100" monsterHuntingZoneId="181" monsterTemplateId="2112" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2113" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2114" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2115" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2116" probability="0.7" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999837105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="38" type="daily" name="@DailyPlayGuideQuest:999838001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999838300" journal="@DailyPlayGuideQuest:999838100" monsterHuntingZoneId="181" monsterTemplateId="2118" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2119" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2120" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2121" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2125" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999838105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="39" type="daily" name="@DailyPlayGuideQuest:999839001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99907" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999839400" journal="@DailyPlayGuideQuest:999839100" monsterHuntingZoneId="181" monsterTemplateId="2020" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2061" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2129" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2130" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2131" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="181" monsterTemplateId="2132" probability="0.7" />
+        <TaskPart id="6" monsterHuntingZoneId="181" monsterTemplateId="2133" probability="0.7" />
+        <TaskPart id="7" monsterHuntingZoneId="181" monsterTemplateId="2134" probability="0.7" />
+        <TaskPart id="8" monsterHuntingZoneId="181" monsterTemplateId="2147" probability="0.7" />
+        <TaskPart id="9" monsterHuntingZoneId="181" monsterTemplateId="2148" probability="0.7" />
+        <TaskPart id="10" type="visit" journal="@DailyPlayGuideQuest:999839110" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="40" type="daily" name="@DailyPlayGuideQuest:999840001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9998" realHuntingZoneId="183" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999840100" monsterHuntingZoneId="183" monsterTemplateId="4012" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999840101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="41" type="daily" name="@DailyPlayGuideQuest:999841001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999841300" journal="@DailyPlayGuideQuest:999841100" monsterHuntingZoneId="191" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1004" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1403" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999841103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="42" type="daily" name="@DailyPlayGuideQuest:999842001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81114" collectionId="608" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999842400" journal="@DailyPlayGuideQuest:999842100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81114" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999842401" journal="@DailyPlayGuideQuest:999842101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="43" type="daily" name="@DailyPlayGuideQuest:999843001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99908" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999843400" journal="@DailyPlayGuideQuest:999843100" monsterHuntingZoneId="191" monsterTemplateId="1401" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1404" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999843102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="44" type="daily" name="@DailyPlayGuideQuest:999844001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99908" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999844400" journal="@DailyPlayGuideQuest:999844100" monsterHuntingZoneId="191" monsterTemplateId="1402" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999844101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="45" type="daily" name="@DailyPlayGuideQuest:999845001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99909" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999845400" journal="@DailyPlayGuideQuest:999845100" monsterHuntingZoneId="191" monsterTemplateId="1101" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1102" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1103" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1105" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1106" probability="0.7" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999845105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="46" type="daily" name="@DailyPlayGuideQuest:999846001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999846300" journal="@DailyPlayGuideQuest:999846100" monsterHuntingZoneId="191" monsterTemplateId="1301" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1304" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999846102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="47" type="daily" name="@DailyPlayGuideQuest:999847001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99910" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999847400" journal="@DailyPlayGuideQuest:999847100" monsterHuntingZoneId="191" monsterTemplateId="1201" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1202" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1203" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1204" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1206" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="191" monsterTemplateId="1211" probability="0.7" />
+        <TaskPart id="6" type="visit" journal="@DailyPlayGuideQuest:999847106" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="48" type="daily" name="@DailyPlayGuideQuest:999848001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999848300" journal="@DailyPlayGuideQuest:999848100" monsterHuntingZoneId="172" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2032" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999848102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="49" type="daily" name="@DailyPlayGuideQuest:999849001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999849300" journal="@DailyPlayGuideQuest:999849100" monsterHuntingZoneId="182" monsterTemplateId="1113" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1114" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="1116" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999849103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="50" type="daily" name="@DailyPlayGuideQuest:999850001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999850300" journal="@DailyPlayGuideQuest:999850100" monsterHuntingZoneId="191" monsterTemplateId="1302" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1315" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999850102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="51" type="daily" name="@DailyPlayGuideQuest:999851001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="116" suitableLevel="65" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999851100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999851101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="52" type="daily" name="@DailyPlayGuideQuest:999852001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="117" suitableLevel="65" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999852100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999852101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="53" type="daily" name="@DailyPlayGuideQuest:999853001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="112" suitableLevel="65" suitableMemberCount="15">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999853100" targetHuntingZoneId="26" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999853101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="54" type="daily" name="@DailyPlayGuideQuest:999854001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="115" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999854100" targetHuntingZoneId="38" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999854101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="55" type="daily" name="@DailyPlayGuideQuest:999855001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999855100" monsterHuntingZoneId="172" monsterTemplateId="2034" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999855101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="56" type="daily" name="@DailyPlayGuideQuest:999856001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81122" collectionId="618" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999856400" journal="@DailyPlayGuideQuest:999856100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81122" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999856401" journal="@DailyPlayGuideQuest:999856101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="57" type="daily" name="@DailyPlayGuideQuest:999857001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999857300" journal="@DailyPlayGuideQuest:999857100" monsterHuntingZoneId="191" monsterTemplateId="1303" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1314" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999857102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="60" type="daily" name="@DailyPlayGuideQuest:999860001" minLevel="65" autoStartType="1" groupId="9998" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="supportInstanceDungeon" count="1" journal="@DailyPlayGuideQuest:999860100" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999860101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="61" type="daily" name="@DailyPlayGuideQuest:999861001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="809" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999861100" monsterHuntingZoneId="809" monsterTemplateId="6001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999861101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="62" type="daily" name="@DailyPlayGuideQuest:999862001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="455" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999862100" monsterHuntingZoneId="455" monsterTemplateId="300" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999862101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="63" type="daily" name="@DailyPlayGuideQuest:999863001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="754" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999863100" monsterHuntingZoneId="754" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999863101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="64" type="daily" name="@DailyPlayGuideQuest:999864001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="750" suitableLevel="65" suitableMemberCount="10">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999864100" monsterHuntingZoneId="750" monsterTemplateId="1003" partyConstraint="solo" taskId="1" unitedParty="모두적용" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999864101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="65" type="daily" name="@DailyPlayGuideQuest:999865001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99911" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999865400" journal="@DailyPlayGuideQuest:999865100" monsterHuntingZoneId="182" monsterTemplateId="1027" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999865101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="66" type="daily" name="@DailyPlayGuideQuest:999866001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="111" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999866100" targetHuntingZoneId="111" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999866101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="67" type="daily" name="@DailyPlayGuideQuest:999867001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="111" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999867100" targetHuntingZoneId="111" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999867101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="68" type="daily" name="@DailyPlayGuideQuest:999868001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="454" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999868100" monsterHuntingZoneId="454" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999868101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="69" type="daily" name="@DailyPlayGuideQuest:999869001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="716" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999869100" monsterHuntingZoneId="716" monsterTemplateId="1000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999869101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="72" type="daily" name="@DailyPlayGuideQuest:999872001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999872100" monsterHuntingZoneId="182" monsterTemplateId="1037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999872101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="73" type="daily" name="@DailyPlayGuideQuest:999873001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="20" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999873300" journal="@DailyPlayGuideQuest:999873100" monsterHuntingZoneId="181" monsterTemplateId="2004" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2005" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999873102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="74" type="daily" name="@DailyPlayGuideQuest:999874001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999874100" monsterHuntingZoneId="181" monsterTemplateId="2146" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999874101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="75" type="daily" name="@DailyPlayGuideQuest:999875001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999875300" journal="@DailyPlayGuideQuest:999875100" monsterHuntingZoneId="172" monsterTemplateId="2040" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2003" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2004" />
+        <TaskPart id="3" monsterHuntingZoneId="172" monsterTemplateId="2005" />
+        <TaskPart id="4" monsterHuntingZoneId="172" monsterTemplateId="2006" />
+        <TaskPart id="5" monsterHuntingZoneId="172" monsterTemplateId="2026" />
+        <TaskPart id="6" monsterHuntingZoneId="172" monsterTemplateId="2027" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999875107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="76" type="daily" name="@DailyPlayGuideQuest:999876001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99912" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999876400" journal="@DailyPlayGuideQuest:999876100" monsterHuntingZoneId="182" monsterTemplateId="1" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="2" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="3" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="182" monsterTemplateId="4" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="182" monsterTemplateId="5" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="6" monsterHuntingZoneId="182" monsterTemplateId="7" probability="0.7" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999876107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="77" type="daily" name="@DailyPlayGuideQuest:999877001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999877300" journal="@DailyPlayGuideQuest:999877100" monsterHuntingZoneId="181" monsterTemplateId="2118" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2119" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2121" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2125" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:999877104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="78" type="daily" name="@DailyPlayGuideQuest:999878001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999878300" journal="@DailyPlayGuideQuest:999878100" monsterHuntingZoneId="191" monsterTemplateId="1301" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1302" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1303" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1304" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1314" />
+        <TaskPart id="5" monsterHuntingZoneId="191" monsterTemplateId="1315" />
+        <TaskPart id="6" monsterHuntingZoneId="191" monsterTemplateId="1316" />
+        <TaskPart id="7" monsterHuntingZoneId="191" monsterTemplateId="1317" />
+        <TaskPart id="8" monsterHuntingZoneId="191" monsterTemplateId="1318" />
+        <TaskPart id="9" type="visit" journal="@DailyPlayGuideQuest:999878109" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="79" type="daily" name="@DailyPlayGuideQuest:999879001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="172" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45465" collectionId="607" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999879400" journal="@DailyPlayGuideQuest:999879100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45465" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999879401" journal="@DailyPlayGuideQuest:999879101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="80" type="daily" name="@DailyPlayGuideQuest:999880001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81116" collectionId="616" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999880400" journal="@DailyPlayGuideQuest:999880100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81116" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999880401" journal="@DailyPlayGuideQuest:999880101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="81" type="daily" name="@DailyPlayGuideQuest:999881001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81102" collectionId="603" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999881400" journal="@DailyPlayGuideQuest:999881100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81102" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999881401" journal="@DailyPlayGuideQuest:999881101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="82" type="daily" name="@DailyPlayGuideQuest:999882001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81109" collectionId="595" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999882400" journal="@DailyPlayGuideQuest:999882100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81109" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999882401" journal="@DailyPlayGuideQuest:999882101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="83" type="daily" name="@DailyPlayGuideQuest:999883001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="191" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81114" collectionId="608" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999883400" journal="@DailyPlayGuideQuest:999883100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81114" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999883401" journal="@DailyPlayGuideQuest:999883101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="84" type="daily" name="@DailyPlayGuideQuest:999884001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="425" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999884100" monsterHuntingZoneId="425" monsterTemplateId="8005" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999884101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="85" type="daily" name="@DailyPlayGuideQuest:999885001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="426" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999885100" monsterHuntingZoneId="426" monsterTemplateId="20000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999885101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="86" type="daily" name="@DailyPlayGuideQuest:999886001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="808" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999886100" monsterHuntingZoneId="808" monsterTemplateId="30031000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999886101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="87" type="daily" name="@DailyPlayGuideQuest:999887001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="727" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999887100" monsterHuntingZoneId="727" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999887101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="88" type="daily" name="@DailyPlayGuideQuest:999888001" maxLevel="65" minLevel="60" autoStartType="1" groupId="9998" realHuntingZoneId="219" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="71425" collectionId="52" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999888400" journal="@DailyPlayGuideQuest:999888100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="71425" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999888401" journal="@DailyPlayGuideQuest:999888101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="89" type="daily" name="@DailyPlayGuideQuest:999889001" minLevel="65" autoStartType="1" groupId="9998" realHuntingZoneId="777" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999889100" monsterHuntingZoneId="777" monsterTemplateId="77730" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999889101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="1" type="daily" name="@DailyPlayGuideQuest:99991001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="116" suitableLevel="60" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:99991100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99991101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="2" type="daily" name="@DailyPlayGuideQuest:99992001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="117" suitableLevel="60" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:99992100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99992101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="4" type="daily" name="@DailyPlayGuideQuest:99994001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="425" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99994100" monsterHuntingZoneId="425" monsterTemplateId="8005" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99994101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="5" type="daily" name="@DailyPlayGuideQuest:99995001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="426" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99995100" monsterHuntingZoneId="426" monsterTemplateId="20000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99995101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="6" type="daily" name="@DailyPlayGuideQuest:99996001" maxLevel="64" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="808" suitableLevel="61" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99996100" monsterHuntingZoneId="808" monsterTemplateId="30031000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99996101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="7" type="daily" name="@DailyPlayGuideQuest:99997001" maxLevel="64" minLevel="64" autoStartType="1" groupId="9999" realHuntingZoneId="809" suitableLevel="64" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99997100" monsterHuntingZoneId="809" monsterTemplateId="6001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99997101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="8" type="daily" name="@DailyPlayGuideQuest:99998001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="727" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:99998100" monsterHuntingZoneId="727" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99998101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="9" type="daily" name="@DailyPlayGuideQuest:99999001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="supportInstanceDungeon" count="1" journal="@DailyPlayGuideQuest:99999100" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:99999101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="11" type="daily" name="@DailyPlayGuideQuest:999911001" maxLevel="61" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="63" suitableLevel="60" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99901" count="5" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999911400" journal="@DailyPlayGuideQuest:999911100" monsterHuntingZoneId="63" monsterTemplateId="1509" partyConstraint="solo" probability="1" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="63" monsterTemplateId="1510" probability="1" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999911102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="12" type="daily" name="@DailyPlayGuideQuest:999912001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999912100" monsterHuntingZoneId="172" monsterTemplateId="2023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999912101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="13" type="daily" name="@DailyPlayGuideQuest:999913001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999913300" journal="@DailyPlayGuideQuest:999913100" monsterHuntingZoneId="172" monsterTemplateId="2040" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2003" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2004" />
+        <TaskPart id="3" monsterHuntingZoneId="172" monsterTemplateId="2005" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:999913104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="14" type="daily" name="@DailyPlayGuideQuest:999914001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999914300" journal="@DailyPlayGuideQuest:999914100" monsterHuntingZoneId="172" monsterTemplateId="2006" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2026" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2027" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999914103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="15" type="daily" name="@DailyPlayGuideQuest:999915001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="211" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999915400" journal="@DailyPlayGuideQuest:999915100" monsterHuntingZoneId="172" monsterTemplateId="2009" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2011" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999915102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="16" type="daily" name="@DailyPlayGuideQuest:999916001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45465" collectionId="607" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999916400" journal="@DailyPlayGuideQuest:999916100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45465" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999916401" journal="@DailyPlayGuideQuest:999916101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="17" type="daily" name="@DailyPlayGuideQuest:999917001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999917300" journal="@DailyPlayGuideQuest:999917100" monsterHuntingZoneId="181" monsterTemplateId="2141" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2127" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2128" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2145" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2032" />
+        <TaskPart id="5" monsterHuntingZoneId="181" monsterTemplateId="2142" />
+        <TaskPart id="6" monsterHuntingZoneId="181" monsterTemplateId="2144" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999917107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="18" type="daily" name="@DailyPlayGuideQuest:999918001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999918300" journal="@DailyPlayGuideQuest:999918100" monsterHuntingZoneId="172" monsterTemplateId="2013" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2008" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999918102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="19" type="daily" name="@DailyPlayGuideQuest:999919001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81135" collectionId="599" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999919400" journal="@DailyPlayGuideQuest:999919100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81135" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999919401" journal="@DailyPlayGuideQuest:999919101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="20" type="daily" name="@DailyPlayGuideQuest:999920001" maxLevel="61" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="63" suitableLevel="60" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="10" failOnUserDead="false" journal="@DailyPlayGuideQuest:999920100" monsterHuntingZoneId="63" monsterTemplateId="2011" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999920101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="21" type="daily" name="@DailyPlayGuideQuest:999921001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999921100" monsterHuntingZoneId="182" monsterTemplateId="1037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999921101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="22" type="daily" name="@DailyPlayGuideQuest:999922001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999922300" journal="@DailyPlayGuideQuest:999922100" monsterHuntingZoneId="182" monsterTemplateId="1013" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1014" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="1016" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999922103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="23" type="daily" name="@DailyPlayGuideQuest:999923001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99904" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999923400" journal="@DailyPlayGuideQuest:999923100" monsterHuntingZoneId="182" monsterTemplateId="2" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="4" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999923103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="24" type="daily" name="@DailyPlayGuideQuest:999924001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81116" collectionId="616" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999924400" journal="@DailyPlayGuideQuest:999924100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81116" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999924401" journal="@DailyPlayGuideQuest:999924101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="25" type="daily" name="@DailyPlayGuideQuest:999925001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999925300" journal="@DailyPlayGuideQuest:999925100" monsterHuntingZoneId="182" monsterTemplateId="1023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1030" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999925102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="26" type="daily" name="@DailyPlayGuideQuest:999926001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999926300" journal="@DailyPlayGuideQuest:999926100" monsterHuntingZoneId="182" monsterTemplateId="1008" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1009" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999926102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="27" type="daily" name="@DailyPlayGuideQuest:999927001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99905" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999927400" journal="@DailyPlayGuideQuest:999927100" monsterHuntingZoneId="182" monsterTemplateId="1018" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1019" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999927102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="28" type="daily" name="@DailyPlayGuideQuest:999928001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45462" collectionId="604" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999928400" journal="@DailyPlayGuideQuest:999928100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45462" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999928401" journal="@DailyPlayGuideQuest:999928101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="29" type="daily" name="@DailyPlayGuideQuest:999929001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999929300" journal="@DailyPlayGuideQuest:999929100" monsterHuntingZoneId="172" monsterTemplateId="2037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2038" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999929102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="30" type="daily" name="@DailyPlayGuideQuest:999930001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99912" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999930400" journal="@DailyPlayGuideQuest:999930100" monsterHuntingZoneId="182" monsterTemplateId="3" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="10" probability="0.7" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999930103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="31" type="daily" name="@DailyPlayGuideQuest:999931001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999931300" journal="@DailyPlayGuideQuest:999931100" monsterHuntingZoneId="181" monsterTemplateId="2023" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2015" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2136" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999931103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="32" type="daily" name="@DailyPlayGuideQuest:999932001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999932100" monsterHuntingZoneId="181" monsterTemplateId="2146" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999932101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="33" type="daily" name="@DailyPlayGuideQuest:999933001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81102" collectionId="603" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999933400" journal="@DailyPlayGuideQuest:999933100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81102" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999933401" journal="@DailyPlayGuideQuest:999933101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="34" type="daily" name="@DailyPlayGuideQuest:999934001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999934100" monsterHuntingZoneId="181" monsterTemplateId="2036" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999934101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="35" type="daily" name="@DailyPlayGuideQuest:999935001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81109" collectionId="595" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999935400" journal="@DailyPlayGuideQuest:999935100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81109" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999935401" journal="@DailyPlayGuideQuest:999935101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="36" type="daily" name="@DailyPlayGuideQuest:999936001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="20" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999936300" journal="@DailyPlayGuideQuest:999936100" monsterHuntingZoneId="181" monsterTemplateId="2004" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2005" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999936102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="37" type="daily" name="@DailyPlayGuideQuest:999937001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99906" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999937400" journal="@DailyPlayGuideQuest:999937100" monsterHuntingZoneId="181" monsterTemplateId="2112" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2113" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2114" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2115" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2116" probability="0.7" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999937105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="38" type="daily" name="@DailyPlayGuideQuest:999938001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999938300" journal="@DailyPlayGuideQuest:999938100" monsterHuntingZoneId="181" monsterTemplateId="2118" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2119" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2120" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2121" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2125" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999938105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="39" type="daily" name="@DailyPlayGuideQuest:999939001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99907" count="25" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999939400" journal="@DailyPlayGuideQuest:999939100" monsterHuntingZoneId="181" monsterTemplateId="2020" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2061" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2129" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2130" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="181" monsterTemplateId="2131" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="181" monsterTemplateId="2132" probability="0.7" />
+        <TaskPart id="6" monsterHuntingZoneId="181" monsterTemplateId="2133" probability="0.7" />
+        <TaskPart id="7" monsterHuntingZoneId="181" monsterTemplateId="2134" probability="0.7" />
+        <TaskPart id="8" monsterHuntingZoneId="181" monsterTemplateId="2147" probability="0.7" />
+        <TaskPart id="9" monsterHuntingZoneId="181" monsterTemplateId="2148" probability="0.7" />
+        <TaskPart id="10" type="visit" journal="@DailyPlayGuideQuest:999939110" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="40" type="daily" name="@DailyPlayGuideQuest:999940001" maxLevel="64" minLevel="62" autoStartType="1" groupId="9999" realHuntingZoneId="183" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999940100" monsterHuntingZoneId="183" monsterTemplateId="4012" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999940101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="41" type="daily" name="@DailyPlayGuideQuest:999941001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999941300" journal="@DailyPlayGuideQuest:999941100" monsterHuntingZoneId="191" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1004" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1403" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999941103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="42" type="daily" name="@DailyPlayGuideQuest:999942001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81114" collectionId="608" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999942400" journal="@DailyPlayGuideQuest:999942100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81114" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999942401" journal="@DailyPlayGuideQuest:999942101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="43" type="daily" name="@DailyPlayGuideQuest:999943001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99908" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999943400" journal="@DailyPlayGuideQuest:999943100" monsterHuntingZoneId="191" monsterTemplateId="1401" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1404" probability="0.7" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999943102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="44" type="daily" name="@DailyPlayGuideQuest:999944001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99908" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999944400" journal="@DailyPlayGuideQuest:999944100" monsterHuntingZoneId="191" monsterTemplateId="1402" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999944101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="45" type="daily" name="@DailyPlayGuideQuest:999945001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99909" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999945400" journal="@DailyPlayGuideQuest:999945100" monsterHuntingZoneId="191" monsterTemplateId="1101" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1102" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1103" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1105" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1106" probability="0.7" />
+        <TaskPart id="5" type="visit" journal="@DailyPlayGuideQuest:999945105" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="46" type="daily" name="@DailyPlayGuideQuest:999946001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999946300" journal="@DailyPlayGuideQuest:999946100" monsterHuntingZoneId="191" monsterTemplateId="1301" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1304" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999946102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="47" type="daily" name="@DailyPlayGuideQuest:999947001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99910" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999947400" journal="@DailyPlayGuideQuest:999947100" monsterHuntingZoneId="191" monsterTemplateId="1201" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1202" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1203" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1204" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1206" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="191" monsterTemplateId="1211" probability="0.7" />
+        <TaskPart id="6" type="visit" journal="@DailyPlayGuideQuest:999947106" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="48" type="daily" name="@DailyPlayGuideQuest:999948001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999948300" journal="@DailyPlayGuideQuest:999948100" monsterHuntingZoneId="172" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2032" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999948102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="49" type="daily" name="@DailyPlayGuideQuest:999949001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999949300" journal="@DailyPlayGuideQuest:999949100" monsterHuntingZoneId="182" monsterTemplateId="1113" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="1114" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="1116" />
+        <TaskPart id="3" type="visit" journal="@DailyPlayGuideQuest:999949103" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="50" type="daily" name="@DailyPlayGuideQuest:999950001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999950300" journal="@DailyPlayGuideQuest:999950100" monsterHuntingZoneId="191" monsterTemplateId="1302" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1315" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999950102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="51" type="daily" name="@DailyPlayGuideQuest:999951001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="116" suitableLevel="65" suitableMemberCount="20">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999951100" targetHuntingZoneId="10" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999951101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="52" type="daily" name="@DailyPlayGuideQuest:999952001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="117" suitableLevel="65" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999952100" targetHuntingZoneId="5" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999952101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="53" type="daily" name="@DailyPlayGuideQuest:999953001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="112" suitableLevel="65" suitableMemberCount="15">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999953100" targetHuntingZoneId="26" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999953101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="54" type="daily" name="@DailyPlayGuideQuest:999954001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="115" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999954100" targetHuntingZoneId="38" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999954101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="55" type="daily" name="@DailyPlayGuideQuest:999955001" maxLevel="62" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="61" suitableMemberCount="1">
+        <TaskPart id="0" type="hunting" count="25" failOnUserDead="false" journal="@DailyPlayGuideQuest:999955100" monsterHuntingZoneId="172" monsterTemplateId="2034" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999955101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="56" type="daily" name="@DailyPlayGuideQuest:999956001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81122" collectionId="618" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999956400" journal="@DailyPlayGuideQuest:999956100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81122" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999956401" journal="@DailyPlayGuideQuest:999956101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="57" type="daily" name="@DailyPlayGuideQuest:999957001" maxLevel="64" minLevel="63" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="64" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999957300" journal="@DailyPlayGuideQuest:999957100" monsterHuntingZoneId="191" monsterTemplateId="1303" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1314" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999957102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="60" type="daily" name="@DailyPlayGuideQuest:999960001" minLevel="65" autoStartType="1" groupId="9999" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="supportInstanceDungeon" count="1" journal="@DailyPlayGuideQuest:999960100" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999960101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="61" type="daily" name="@DailyPlayGuideQuest:999961001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="809" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999961100" monsterHuntingZoneId="809" monsterTemplateId="6001" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999961101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="62" type="daily" name="@DailyPlayGuideQuest:999962001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="455" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999962100" monsterHuntingZoneId="455" monsterTemplateId="300" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999962101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="63" type="daily" name="@DailyPlayGuideQuest:999963001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="754" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999963100" monsterHuntingZoneId="754" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999963101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="64" type="daily" name="@DailyPlayGuideQuest:999964001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="750" suitableLevel="65" suitableMemberCount="10">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999964100" monsterHuntingZoneId="750" monsterTemplateId="1003" partyConstraint="solo" taskId="1" unitedParty="모두적용" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999964101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="65" type="daily" name="@DailyPlayGuideQuest:999965001" maxLevel="63" minLevel="61" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="62" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99911" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999965400" journal="@DailyPlayGuideQuest:999965100" monsterHuntingZoneId="182" monsterTemplateId="1027" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999965101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="66" type="daily" name="@DailyPlayGuideQuest:999966001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="111" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999966100" targetHuntingZoneId="111" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999966101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="67" type="daily" name="@DailyPlayGuideQuest:999967001" maxLevel="64" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="111" suitableLevel="60" suitableMemberCount="5">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999967100" targetHuntingZoneId="111" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999967101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="68" type="daily" name="@DailyPlayGuideQuest:999968001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="454" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999968100" monsterHuntingZoneId="454" monsterTemplateId="1002" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999968101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="69" type="daily" name="@DailyPlayGuideQuest:999969001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="716" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999969100" monsterHuntingZoneId="716" monsterTemplateId="1000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999969101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="72" type="daily" name="@DailyPlayGuideQuest:999972001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999972100" monsterHuntingZoneId="182" monsterTemplateId="1037" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999972101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="73" type="daily" name="@DailyPlayGuideQuest:999973001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="groupHunting" count="20" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999973300" journal="@DailyPlayGuideQuest:999973100" monsterHuntingZoneId="181" monsterTemplateId="2004" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2005" />
+        <TaskPart id="2" type="visit" journal="@DailyPlayGuideQuest:999973102" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="74" type="daily" name="@DailyPlayGuideQuest:999974001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="20" failOnUserDead="false" journal="@DailyPlayGuideQuest:999974100" monsterHuntingZoneId="181" monsterTemplateId="2146" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999974101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="75" type="daily" name="@DailyPlayGuideQuest:999975001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999975300" journal="@DailyPlayGuideQuest:999975100" monsterHuntingZoneId="172" monsterTemplateId="2040" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="172" monsterTemplateId="2003" />
+        <TaskPart id="2" monsterHuntingZoneId="172" monsterTemplateId="2004" />
+        <TaskPart id="3" monsterHuntingZoneId="172" monsterTemplateId="2005" />
+        <TaskPart id="4" monsterHuntingZoneId="172" monsterTemplateId="2006" />
+        <TaskPart id="5" monsterHuntingZoneId="172" monsterTemplateId="2026" />
+        <TaskPart id="6" monsterHuntingZoneId="172" monsterTemplateId="2027" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999975107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="76" type="daily" name="@DailyPlayGuideQuest:999976001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="huntingDelivery" itemTemplateId="99912" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999976400" journal="@DailyPlayGuideQuest:999976100" monsterHuntingZoneId="182" monsterTemplateId="1" partyConstraint="solo" probability="0.7" seqDistribution="false" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="182" monsterTemplateId="2" probability="0.7" />
+        <TaskPart id="2" monsterHuntingZoneId="182" monsterTemplateId="3" probability="0.7" />
+        <TaskPart id="3" monsterHuntingZoneId="182" monsterTemplateId="4" probability="0.7" />
+        <TaskPart id="4" monsterHuntingZoneId="182" monsterTemplateId="5" probability="0.7" />
+        <TaskPart id="5" monsterHuntingZoneId="182" monsterTemplateId="6" probability="0.7" />
+        <TaskPart id="6" monsterHuntingZoneId="182" monsterTemplateId="7" probability="0.7" />
+        <TaskPart id="7" type="visit" journal="@DailyPlayGuideQuest:999976107" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="77" type="daily" name="@DailyPlayGuideQuest:999977001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999977300" journal="@DailyPlayGuideQuest:999977100" monsterHuntingZoneId="181" monsterTemplateId="2118" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="181" monsterTemplateId="2119" />
+        <TaskPart id="2" monsterHuntingZoneId="181" monsterTemplateId="2121" />
+        <TaskPart id="3" monsterHuntingZoneId="181" monsterTemplateId="2125" />
+        <TaskPart id="4" type="visit" journal="@DailyPlayGuideQuest:999977104" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="78" type="daily" name="@DailyPlayGuideQuest:999978001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="groupHunting" count="25" failOnUserDead="false" groupName="@DailyPlayGuideQuest:999978300" journal="@DailyPlayGuideQuest:999978100" monsterHuntingZoneId="191" monsterTemplateId="1301" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" monsterHuntingZoneId="191" monsterTemplateId="1302" />
+        <TaskPart id="2" monsterHuntingZoneId="191" monsterTemplateId="1303" />
+        <TaskPart id="3" monsterHuntingZoneId="191" monsterTemplateId="1304" />
+        <TaskPart id="4" monsterHuntingZoneId="191" monsterTemplateId="1314" />
+        <TaskPart id="5" monsterHuntingZoneId="191" monsterTemplateId="1315" />
+        <TaskPart id="6" monsterHuntingZoneId="191" monsterTemplateId="1316" />
+        <TaskPart id="7" monsterHuntingZoneId="191" monsterTemplateId="1317" />
+        <TaskPart id="8" monsterHuntingZoneId="191" monsterTemplateId="1318" />
+        <TaskPart id="9" type="visit" journal="@DailyPlayGuideQuest:999978109" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="79" type="daily" name="@DailyPlayGuideQuest:999979001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="172" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="45465" collectionId="607" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999979400" journal="@DailyPlayGuideQuest:999979100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="45465" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999979401" journal="@DailyPlayGuideQuest:999979101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="80" type="daily" name="@DailyPlayGuideQuest:999980001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="182" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81116" collectionId="616" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999980400" journal="@DailyPlayGuideQuest:999980100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81116" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999980401" journal="@DailyPlayGuideQuest:999980101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="81" type="daily" name="@DailyPlayGuideQuest:999981001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81102" collectionId="603" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999981400" journal="@DailyPlayGuideQuest:999981100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81102" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999981401" journal="@DailyPlayGuideQuest:999981101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="82" type="daily" name="@DailyPlayGuideQuest:999982001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="181" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81109" collectionId="595" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999982400" journal="@DailyPlayGuideQuest:999982100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81109" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999982401" journal="@DailyPlayGuideQuest:999982101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="83" type="daily" name="@DailyPlayGuideQuest:999983001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="191" suitableLevel="65" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="81114" collectionId="608" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999983400" journal="@DailyPlayGuideQuest:999983100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="81114" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999983401" journal="@DailyPlayGuideQuest:999983101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="84" type="daily" name="@DailyPlayGuideQuest:999984001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="425" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999984100" monsterHuntingZoneId="425" monsterTemplateId="8005" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999984101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="85" type="daily" name="@DailyPlayGuideQuest:999985001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="426" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999985100" monsterHuntingZoneId="426" monsterTemplateId="20000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999985101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="86" type="daily" name="@DailyPlayGuideQuest:999986001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="808" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999986100" monsterHuntingZoneId="808" monsterTemplateId="30031000" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999986101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="87" type="daily" name="@DailyPlayGuideQuest:999987001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="727" suitableLevel="65" suitableMemberCount="5">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999987100" monsterHuntingZoneId="727" monsterTemplateId="2007" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999987101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="88" type="daily" name="@DailyPlayGuideQuest:999988001" maxLevel="65" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="219" suitableLevel="63" suitableMemberCount="1">
+        <TaskPart id="0" type="completeCollect" itemTemplateId="71425" collectionId="52" count="15" failOnUserDead="false" itemIconId="0" itemName="@DailyPlayGuideQuest:999988400" journal="@DailyPlayGuideQuest:999988100" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="itemDelivery" itemTemplateId="71425" count="15" itemIconId="0" itemName="@DailyPlayGuideQuest:999988401" journal="@DailyPlayGuideQuest:999988101" returnTaskId="1" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="89" type="daily" name="@DailyPlayGuideQuest:999989001" minLevel="65" autoStartType="1" groupId="9999" realHuntingZoneId="777" suitableLevel="65" suitableMemberCount="3">
+        <TaskPart id="0" type="hunting" count="1" failOnUserDead="false" journal="@DailyPlayGuideQuest:999989100" monsterHuntingZoneId="777" monsterTemplateId="77730" partyConstraint="solo" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999989101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+    <Quest id="90" type="daily" name="@DailyPlayGuideQuest:999990001" minLevel="60" autoStartType="1" groupId="9999" realHuntingZoneId="102" suitableLevel="60" suitableMemberCount="10">
+        <TaskPart id="0" type="winBattleField" count="1" journal="@DailyPlayGuideQuest:999990100" targetHuntingZoneId="46" taskId="1" />
+        <TaskPart id="1" type="visit" journal="@DailyPlayGuideQuest:999990101" targetHuntingZoneId="9999" targetNpcTemplateId="9999" taskId="2" />
+    </Quest>
+</DailyPlayGuideQuest>

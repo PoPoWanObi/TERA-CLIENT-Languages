@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="4">Pardon me, &lt;PCNAME&gt;, but may I ask you a favor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1027">
+        <Page social="4">Princess Arin ordered me to buy a specific pair of shoes, but no one had the ones she wanted. I borrowed them from Sujai instead, but now she wants them back.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">There's a vine outside that leads up to the terrace. Climb up there and give {@Creature:223#1042$$Sujai} the shoes before Arin notices they're gone.&lt;BR&gt;&lt;BR&gt;Please?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1042">
+        <Page social="4">Well, well! Isn't this odd. Why are you bringing me back my shoes?&lt;BR&gt;&lt;BR&gt;Oh, I guess it doesn't matter. I just hope Merolyn enjoyed them.</Page>
+    </Text>
+</QuestDialog>

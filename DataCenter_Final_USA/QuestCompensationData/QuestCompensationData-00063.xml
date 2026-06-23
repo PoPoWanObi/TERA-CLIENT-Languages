@@ -1,0 +1,24 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="47821">
+        <Compensation>
+            <CompensationType type="normal" gold="200000" exp="2000000" />
+        </Compensation>
+    </Quest>
+    <Quest questId="47822">
+        <Compensation>
+            <CompensationType type="normal" gold="220000" exp="2200000" />
+        </Compensation>
+    </Quest>
+    <Quest questId="47891">
+        <Compensation>
+            <CompensationType type="normal" itemBag="allpay">
+                <Item templateId="346" quantity="7" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="47892">
+        <Compensation>
+            <CompensationType type="normal" gold="220000" exp="2200000" />
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

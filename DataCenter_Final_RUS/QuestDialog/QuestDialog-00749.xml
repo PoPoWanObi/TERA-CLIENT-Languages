@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0">Разберись с {@LinkCreature:25#3011#Освященными Лока}, {@LinkCreature:25#3012#Шурскими воителями}, {@LinkCreature:25#3021#Избранными Лока}, {@LinkCreature:25#3022#Шурскими магистрами}, {@LinkCreature:25#3031#Избранными ткачами тьмы Лока} и {@LinkCreature:25#3032#Посвященными рыцарями Лока} в Темном соборе.&lt;BR&gt;&lt;BR&gt;Думаю, это почти весь список.&lt;BR&gt;&lt;BR&gt;Когда закончишь, свяжись с Карусом.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Это был отличный бой. Одно удовольствие наблюдать, как ты сражаешься.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">Ты собираешься избавляться от этих культистов? Я слышал, что о тебе рассказывают, но поверю в это не раньше, чем увижу ядра.</Page>
+    </Text>
+</QuestDialog>

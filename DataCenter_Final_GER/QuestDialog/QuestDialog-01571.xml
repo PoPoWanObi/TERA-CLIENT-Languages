@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Thulsa hat die Wendigos manipuliert und gegen uns aufgebracht. Wir müssen sie erledigen, um unsere Position im Tal der Spitzen zu festigen.&lt;BR&gt;&lt;BR&gt;Tötet die gehirngewaschenen {@LinkCreature:51#1011#Wendigowüter}, {@LinkCreature:51#1021#Wendigokriegsherren} und {@LinkCreature:51#1031#Wendigoschamanen}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Raneria in Habere, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Ihr habt Euch den Dank der Föderation verdient! Eure Gilde gereicht allen zum Vorbild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

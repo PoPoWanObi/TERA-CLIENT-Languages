@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Hört, meine Kameraden und ich brauchen Hilfe. Ihr seht wie {@gender:ein recht fähiger/eine recht fähige} &lt;PCCLASS&gt; aus ...&lt;BR&gt;&lt;BR&gt;Was für Euch dabei rausspringt, wollt Ihr wissen? Ihr dürft nicht nur mich kennenlernen - die Hände von Velika belohnen einen gut gemeisterten Auftrag auch großzügig.&lt;BR&gt;&lt;BR&gt;Wenn Euer Interesse geweckt sein sollte, dann redet mit {@LinkCreature:63#3003#Elthienne} da drüben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Aha, Ihr habt mit Taratia gesprochen? Sie kann ganz schön überzeugend sein, was? Deswegen haben wir sie hier engagiert! Kleiner Scherz. Nein, im Ernst, das ist der Grund.&lt;BR&gt;&lt;BR&gt;Wenn Ihr helfen wollt, dann könnt Ihr einen dringend benötigten Gegenstand für uns herstellen. Aber dabei geht es nicht um Stiefel für Eure Nichte. Wir brauchen jemanden mit erstklassigen Fähigkeiten.&lt;BR&gt;&lt;BR&gt;Habt Ihr die zu bieten? Gut. Bringt Euer fertiges Werk zu Barian. Ich werde Euch natürlich dafür entschädigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Wunderbar!&lt;BR&gt;&lt;BR&gt;Stattet {@LinkCreature:63#3002#Taratia} einen weiteren Besuch ab, wenn Ihr Eure Unkosten erstattet haben wollt.&lt;BR&gt;&lt;BR&gt;Versteht Ihr, was ich da getan habe? "Stattet" einen Besuch ab, um die Unkosten "erstattet" zu bekommen? Schenkelklopfer! Genug geredet.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Xerstahlbarren. Xerstahlbarren. Xerstahlbarren.&lt;BR&gt;&lt;BR&gt;Klingt das nicht herrlich?&lt;BR&gt;&lt;BR&gt;Und wie sie erst aussehen. Stellt Ihr mir einen her?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Wunderbar!&lt;BR&gt;&lt;BR&gt;Sucht {@LinkCreature:63#3002#Taratia} ein weiteres Mal auf, um um Eure Belohnung zu ersuchen.&lt;BR&gt;&lt;BR&gt;Versteht Ihr, was ich da getan habe? "Aufsuchen", um um Eure Belohnung zu "ersuchen". Moment mal, das war gar nicht witzig.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt etwas Galvasilex her und bringt es mir. Keine Sorge, Ihr werdet hübsch belohnt.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Wundervoll!&lt;BR&gt;&lt;BR&gt;Geht los und besucht {@LinkCreature:63#3002#Taratia}. Wir sind hier fertig.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Stellt Cereleder her. Bringt es mir.&lt;BR&gt;&lt;BR&gt;Unkomplizierter könnte es kaum sein.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Großartig!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} hat was für Euch.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Heute gilt es, Luriastoff herzustellen. Seid Ihr dabei oder muss ich mich selbst darum kümmern?</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Ihr seid der Wahnsinn! Und wenn ein Castanic das sagt, will das was heißen.&lt;BR&gt;&lt;BR&gt;Eure Hilfe für die Hände von Velika und unsere Sache wird nicht vergessen. Bitte besucht uns wieder.</Page>
+    </Text>
+</QuestDialog>

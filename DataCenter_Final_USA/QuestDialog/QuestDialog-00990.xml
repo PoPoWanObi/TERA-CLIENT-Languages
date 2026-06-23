@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">We have the jurisdiction of Frost Wastes, Deathfrost Plains, and Batia’s Hulk. That's a lot of ground to cover, and we don't have nearly the bandwidth for it.&lt;BR&gt;&lt;BR&gt;Ask {@LinkCreature:231#1008$$Pedr} when the fleet we were promised will arrive. If I do it, I'm likely to rip his head off. If I hear the words "any day now" one more time...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1008">
+        <Page social="4">Boy am I glad to see you and not {@LinkCreature:231#1023$$Ghauth}. He's not the most patient person, but I understand. He carries a lot of stress around.&lt;BR&gt;&lt;BR&gt;The federation fleet will arrive any day now, and he can rest easy when it does. Tell him there’s nothing to worry about.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">I could kill him, but I'll hold off for now and just shove him on a spit when we run out of rations.&lt;BR&gt;&lt;BR&gt;That fleet will arrive about the time everyone here has been eaten by ruthless monsters or frozen to death.</Page>
+    </Text>
+</QuestDialog>

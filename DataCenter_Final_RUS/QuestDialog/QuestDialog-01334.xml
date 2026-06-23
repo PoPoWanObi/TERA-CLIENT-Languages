@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">{@LinkCreature:47#4003#Аргоновые гулы} захватили лагерь к северу отсюда. Хотел бы я знать, зачем, но у меня нет ни малейшего желания быть убитым и съеденным. Ни у кого нет.&lt;BR&gt;&lt;BR&gt;Сможешь сходить туда и попытаться прогнать их?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="5">Это земля с их ботинок? Грязь самая обыкновенная, а вот семена, которые в нее впечатались, - нет. Такие растут в Питомнике аргонов.&lt;BR&gt;&lt;BR&gt;Срочно отправляйся на Аванпост следопытов и скажи об этом Борскану. Аргоновые гулы наступают.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1021">
+        <Page social="0">Тебе удалось дать отпор гулам?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">Значит, гулы приходят сюда из Питомника аргонов. Не ожидал.&lt;BR&gt;&lt;BR&gt;Согласишься ли ты помочь мне в дальнейшем расследовании?</Page>
+    </Text>
+</QuestDialog>

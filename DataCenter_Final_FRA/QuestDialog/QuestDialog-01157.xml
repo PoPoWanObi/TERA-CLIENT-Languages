@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Kelsaik est incontrôlable et sème la destruction dans son sillage. Kaia vous a demandé d'aller vous entretenir avec Saleron, un dieu emprisonné depuis la fin de la Guerre divine, en vous chargeant de trouver un moyen de vaincre Kelsaik. Au Jardin céleste, Saleron vous a {@gender:mis/mise} à l'épreuve. Vous avez su vous montrer à la hauteur, et Saleron vous a remis le premier des quatre fragments de relique permettant d'anéantir Kelsaik.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous devez vous mettre à la recherche du dieu Saleron, qui se trouve emprisonné quelque part dans le sud de Shara, mais avant de prendre la route, allez parler à Tamur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4">Me venger de Killian... un luxe que je ne peux m'offrir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Killian ne s'est pas contenté de tuer mon père. Il a anéanti mon rêve d'enfance... mener les amans au combat. Bien sûr, maintenant, j'ai la responsabilité de Kaiator, mais nul fils ne devrait obtenir de promotion grâce à la mort de son père.&lt;NEXTPAGEBUTTON&gt;"Les amans ont besoin de vous, Tamur."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Effectivement. Et c'est donc à vous que je dois faire appel pour exercer ma vengeance, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Cherchez un moyen d'arrêter Kelsaik. Killian cherche à contrôler cette créature. J'espère bien que vous finirez par tomber sur lui!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Et ce jour-là, n'oubliez pas&amp;nbsp;: personne n'a le droit de se soustraire à la justice, pas même les dieux!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Je vengerai votre père."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Je vais continuer de veiller sur Kaiator et d'assurer une... "passation de pouvoirs dans le calme" comme dit Fraya.&lt;BR&gt;&lt;BR&gt;Arrêtez Kelsaik avant qu'il ne s'en prenne à nous... et surtout avant que Killian et Thulsa ne trouvent un moyen de le contrôler.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;... c'est un plaisir de vous voir. Racontez-moi en détail les événements près de l'œuf de Sikander, voulez-vous...&lt;BR&gt;&lt;BR&gt;... Ainsi, Thulsa a pris Killian sous son aile?&amp;nbsp; Et ils ont transformé Sikander en Kelsaik?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ce sont de bien mauvaises nouvelles, mon {@gender:ami/amie}. Tamur ne songe qu'à se venger, mais la menace de Kelsaik est réelle... et bien plus lourde que celle de Killian.&lt;NEXTPAGEBUTTON&gt;"Kaia dit que Saleron pourrait nous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Saleron pourrait peut-être effectivement nous aider, mais personne ne sait exactement dans quel camp il joue.&lt;BR&gt;&lt;BR&gt;Les dieux ont emprisonné Saleron à la fin de la Guerre divine, on peut donc en déduire qu'ils ne le portaient pas dans leurs cœurs. Par ailleurs, Saleron est également le père de Killian.&lt;BR&gt;&lt;BR&gt;Alors le seul moyen de nous faire une idée... c'est d'aller lui parler. Le Mysterium dispose de quelques camps de chercheurs à proximité d'Elenea. Cherchez-y Elbar. Il saura peut-être comment atteindre la prison de Saleron.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="74" prevId="4" villagerId="1100">
+        <Page social="4">Ainsi donc, &lt;PCCLASS:lcase&gt;, vous cherchez Saleron, le créateur des prions et le père des dragons?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les réponses que vous cherchez se trouvent dans la Crypte des Maudits.&lt;BR&gt;&lt;BR&gt;Mais attention&amp;nbsp;: vous allez vous aventurer sur le territoire des dieux!&amp;nbsp; Quand ces derniers ont emprisonné Saleron dans la pierre, à la fin de la Guerre divine, ils ont forcé ses enfants... Kaia, Velik, Killian et Icaruna... à assister à l'exécution de la sentence.&lt;NEXTPAGEBUTTON&gt;"Kaia, Velik, Killian et Icaruna?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ses enfants ont connu des destinées aussi diverses que variées!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Kaia et Velik ont pris les races mortelles en affection et veillent sur elles aujourd'hui encore. Icaruna a perdu la vie au cours de la Guerre divine... mais les annales historiques nous en apprennent peu sur le sujet. Quant à Killian, le dieu du chaos, personne n'a réentendu parler de lui depuis la fin de la guerre.&lt;BR&gt;&lt;BR&gt;Saleron méprise autant les mortels que les dieux, mais il a une certaine affection pour ses créations, les prions. Les données dont nous disposons concernant Saleron viennent de chercheurs comme Legia, qui ont eu l'occasion d'étudier la question auprès des prions.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1029">
+        <Page social="1">Vous avez ressenti le tremblement de terre, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai bien cru que Kelsaik était sur le point de nous tomber dessus, mais apparemment, il ne s'agissait que d'une seule secousse sismique. Enfin, quoi que ce soit, ça a fichu une trouille bleue aux prions. Ils se comportent encore plus bizarrement que d'habitude.&lt;BR&gt;&lt;BR&gt;Enfin, va savoir... vous arriverez peut-être à tirer d'eux des informations utiles. Essayez d'aller parler à Torsten, là-bas. J'ai cru comprendre qu'il s'agissait de leur "prophète".</Page>
+    </Text>
+    <Text id="7" huntingZoneId="237" prevId="6" villagerId="1027">
+        <Page social="1">Les dieux ont de grands desseins pour vous, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Je me souviens de la prophétie&amp;nbsp;: "Quand viendra la fin des temps, la douleur agitera la terre de spasmes. Un être de chair et de sang viendra affronter l'apôtre de la grande fin. Nos visions parlent de tristesse, de trahison et de défis à relever."&lt;BR&gt;&lt;BR&gt;Ainsi ont parlé mes ancêtres.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="237" prevId="7" villagerId="1027">
+        <Page social="1">Killian, le dieu du chaos, a engendré dans son sillage nombre de serviteurs. Nous autres, les prions, ne pouvons désormais plus rendre visite à notre maître emprisonné.&lt;BR&gt;&lt;BR&gt;Allez exterminer les pantins de Killian, et Saleron consentira peut-être à considérer votre requête avec bienveillance.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="237" prevId="8" villagerId="1102">
+        <Page social="1">{@gender:Un/Une} {@gender:mortel/mortelle}... ne m'en veuillez pas si je ne viens pas vous serrer la main.&lt;BR&gt;&lt;BR&gt;C'est Torsten qui vous envoie... et vous n'arrivez pas les mains vides. Cette partie est plutôt plaisante.&lt;BR&gt;&lt;BR&gt;En revanche, je sens derrière vous l'influence de Kaia et de Velik, et ça me plaît nettement moins. Je ne suis pas particulièrement en bons termes avec mes enfants, voyez-vous.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Kelsaik a fait son apparition..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Je suis au courant, {@gender:mortel/mortelle}. J'ai compris ça aux questions que Killian et Icaruna me posaient sous la torture.&lt;BR&gt;&lt;BR&gt;Si je vous donne un fragment de relique, Killian n'aura aucune difficulté à triompher de vous et à s'en emparer. Ce serait un choix mal inspiré.&lt;BR&gt;&lt;BR&gt;Toutefois, si vous me prouvez que vous avez de quoi résister à Killian... hmmm... Et si je vous mettais à l'épreuve?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Je suis {@gender:prêt/prête}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nous verrons bien, {@gender:mortel/mortelle}. Nous verrons. Si vous pensez réellement être {@gender:prêt/prête}, je vais vous envoyer là où peu de mortels ont posé le pied, mon jardin céleste. Voyons si vous survivrez au voyage...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="237" villagerId="1102">
+        <Page social="0">Disparaissez, {@gender:mortel/mortelle}. Vous n'êtes pas {@gender:celui/celle} que j'attends.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="494" prevId="9" villagerId="1110">
+        <Page social="1">Comme vous êtes encore en vie, vous avez passé mon épreuve principale.&lt;BR&gt;&lt;BR&gt;Prenez le premier fragment de relique de cette ancienne ardoise.&lt;BR&gt;&lt;BR&gt;Si seulement Saleron pouvait être là quand Killian tentera de vous le prendre. Mais comme vous le savez, il ne sort plus autant qu'avant.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="494" villagerId="1110">
+        <Page social="0">Pour l'instant, je ne peux pas dire que vous ayez "surmonté" mon épreuve.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="494" prevId="11" villagerId="1113">
+        <Page social="1">(Le fragment de relique brille d'une énergie divine...&lt;BR&gt;&lt;BR&gt;Vous l'absorbez rapidement, et la lueur disparaît, mais vous pouvez sentir la puissance qui vous habite désormais.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="237" prevId="13" villagerId="1102">
+        <Page social="1">Maintenant, le pouvoir du fragment de relique fait partie intégrante de votre personne... je vous en fais don.&lt;BR&gt;&lt;BR&gt;Par ailleurs, si jamais l'envie vous prend de revenir tester vos limites, vous serez toujours {@gender:le/la} {@gender:bienvenu/bienvenue} au Jardin céleste.</Page>
+    </Text>
+</QuestDialog>

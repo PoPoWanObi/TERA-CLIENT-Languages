@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Here, take these. Craft leatherwright's cuirasses and bring them to me when you've finished.&lt;BR&gt;&lt;BR&gt;If they pass inspection, we'll put them to good use.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Nice, very nice. This is fine work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'd say these are ready for delivery. Deliver them to Prefect Paka in Popolion. He needs all the armor he can get.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">You've got the design and kits. Talk to the crafting vendors if you need additional materials.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="67" prevId="3" villagerId="1007">
+        <Page social="0">Nice armor! Tough, supple—very good.&lt;BR&gt;&lt;BR&gt;Hey! This better not be someone I know!</Page>
+    </Text>
+</QuestDialog>

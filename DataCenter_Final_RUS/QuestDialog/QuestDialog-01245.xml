@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Мало того, что нам приходится расследовать все эти бесконечные заговоры, так еще и нужно продолжать поиски сокровищ. От нас зависят успехи в войне, а {@LinkCreature:42#210#Дагониты-крестоносцы} нам мешают. Давай в свою очередь помешаем им, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="5">Мы всегда рады вознаградить за отлично выполненную работу, а эта работа действительно была выполнена отлично.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Мы никогда не найдем эти сокровища, &lt;PCNAME&gt;, если в каждой комнате будем пробиваться через толпы {@LinkCreature:42#210#Дагонитов-крестоносцев}.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="1">Ihr seid der Horizont der Morgendämmerung, immer umworben von der Sonne. So scheint es jedenfalls. Ihr müsst die Prüfungen von Balders Tempel überstehen, um Euch der Sonne als würdig zu erweisen.&lt;BR&gt;&lt;BR&gt;Als erste Prüfung müsst Ihr das verschlossene Tor des Labyrinths öffnen.&lt;BR&gt;&lt;BR&gt;Dazu braucht man keinen Schlüssel. Stattdessen müsst Ihr Eure Stärke unter Beweis stellen, indem Ihr {@LinkCreature:425#1000$$Kakun}, den Herrscher der äußeren Gärten, vernichtet!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3022">
+        <Page social="1">Die Sonne selbst strahlt über Euch und Euren Sieg.&lt;BR&gt;&lt;BR&gt;Eure nächste Prüfung erwartet Euch. Geht durch das Labyrinth und befragt die {@Creature:425#3024#Quelle der Weisheit} auf der anderen Seite.</Page>
+    </Text>
+</QuestDialog>

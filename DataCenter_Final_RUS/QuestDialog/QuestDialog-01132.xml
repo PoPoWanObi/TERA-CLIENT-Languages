@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="4">Внимание! Второй раз повторять не буду.&lt;BR&gt;&lt;BR&gt;В центральной части логова ты найдешь {@LinkCreature:39#130#Арахненов-матриархов}. Не самые сильные существа, но у них очень крепкие панцири, которым можно придумать достойное применение.&lt;BR&gt;&lt;BR&gt;Собери несколько таких панцирей и отнеси их Пайче на Неприветливую заставу. Он их заберет.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1010">
+        <Page social="4">Панцири арахненов?&lt;BR&gt;&lt;BR&gt;Да, с их помощью я смогу улучшить наши тяжелые доспехи. Спасибо за помощь!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1010">
+        <Page social="0">Есть что-нибудь для меня?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="0">&lt;PCNAME&gt; hat mit einem Goblin und mit einem Baraka über die Aktivitäten der Erzdevaner in Ex Prima gesprochen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="4">Wir müssen Informationen über die Aktivitäten der Erzdevaner sammeln, aber die Suchenden werden dabei keine allzu große Hilfe sein.&lt;BR&gt;&lt;BR&gt;Es gibt einen Goblin namens Jagreg, der sich östlich des Baaldazpostens aufhält. Fragt ihn, ob er in der Nähe irgendwelche Erzdevaner gesehen hat.&lt;NEXTPAGEBUTTON&gt;"Ich werde mit ihm sprechen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1011">
+        <Page social="4">&lt;PCRACE&gt;, weg von Jagregs Geldbäumen!&lt;BR&gt;&lt;BR&gt;Jagreg hat sie als Erster entdeckt! Deswegen sind es Jagregs Wohlstandsfrüchte!&lt;NEXTPAGEBUTTON&gt;"Hmm. Ich könnte sie für Euch besorgen ... natürlich nur gegen eine angemessene Bezahlung."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">... handeln? In Ordnung.&lt;BR&gt;&lt;BR&gt;Jagreg stimmt zu! Ihr sie jetzt holen!&lt;NEXTPAGEBUTTON&gt;"Okay, wartet hier."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1011">
+        <Page social="4">Ha! Jagreg ist reich!&lt;BR&gt;&lt;BR&gt;Gute Arbeit, &lt;PCRACE&gt;. Also, was Ihr jetzt wissen wollen?&lt;NEXTPAGEBUTTON&gt;"Was treiben die Erzdevaner so?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Erzdevaner? Jagreg denkt, &lt;PCRACE&gt; wird bald sterben.&lt;BR&gt;&lt;BR&gt;Erzdevaner graben die Vergangenheit aus. Weiß nicht warum.&lt;NEXTPAGEBUTTON&gt;"Wisst Ihr, wo sie graben?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Kamun.&lt;BR&gt;&lt;BR&gt;Kamun weiß wo. Kamun beobachtet Erzdevaner. Erforscht sie. Jagreg glaubt, dass Kamun auch bald sterben wird.&lt;BR&gt;&lt;BR&gt;Fragt Kamun.&lt;NEXTPAGEBUTTON&gt;"Genießt Eure Wohlstandsfrüchte, Jagreg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1010">
+        <Page social="4">Die Erzdevaner haben in dieser Region zahlreiche Lager. Und jedes davon könnte der Standort ihres Apparats für die Sturmbarriere sein.&lt;NEXTPAGEBUTTON&gt;"Welches Lager erscheint Euch am wahrscheinlichsten?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eine sehr gute Frage!&lt;BR&gt;&lt;BR&gt;Die beste Möglichkeit, um eine richtige Antwort zu erhalten, ist die Befragung von ein oder zwei Erzdevanern - allerdings sind sie notorische Lügner. Bisher konnte ich nur durch den sachgemäßen Einsatz von Nadeln der Wahrheit genauere Informationen erlangen.&lt;NEXTPAGEBUTTON&gt;"Habt Ihr zufällig noch welche übrig?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Leider ist mein Vorrat aufgebraucht. Ich war gerade dabei, eine Expedition zur Beschaffung der Komponenten zu organisieren. Wenn Ihr Euch jedoch der Aufgabe annehmen wollt, werde ich Euch gerne eine anfertigen.&lt;BR&gt;&lt;BR&gt;Besorgt einfach ein paar Glänzende Schuppen von den Chupathingys in der Nähe.&lt;NEXTPAGEBUTTON&gt;"In Ordnung."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1010">
+        <Page social="4">Konntet Ihr die Glänzenden Schuppen beschaffen?&lt;NEXTPAGEBUTTON&gt;"Natürlich. Das war doch nicht schwierig."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" villagerId="1010">
+        <Page social="0">Sucht Ihr immer noch nach Glänzenden Schuppen? Es ist nötig, vorher die Wahrheit zu erforschen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="6" villagerId="1010">
+        <Page social="4">Ihr habt Euch bewährt. Einen Moment ... hier, bitte!&lt;BR&gt;&lt;BR&gt;Möge Euch diese Nadel der Wahrheit behilflich sein.&lt;NEXTPAGEBUTTON&gt;"Danke, Kamun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

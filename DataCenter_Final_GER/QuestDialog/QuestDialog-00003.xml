@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">Maon pflegt noch immer Kontakte mit den Feen, die nicht von der Magie kontrolliert werden. Nachdem &lt;PCNAME&gt; Maon behilflich war, stellte dieser &lt;PCNAME&gt; Lillix vor.&lt;BR&gt;&lt;BR&gt;Auf Lillix’ Wunsch hin befreite &lt;PCNAME&gt; Seravy von der dunklen Magie, die seinen Verstand befallen hatte. Als der Halbgott Volos, der Anführer der Feen, von den Geschehnissen erfuhr, versprach er, die Versöhnung zwischen Feen und Menschen in Betracht zu ziehen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">Nun, ich kann Euch sagen, dass die Zentauren eine Art Einfluss auf die Feen ausüben. Aber darüber hinaus bin ich ratlos.&lt;BR&gt;&lt;BR&gt;Keta könnte mehr darüber wissen. Lasst mich ihre Verlassene Hütte auf Eurer Karte markieren. Es gibt so viele Kreuzungen - da könnt Ihr Euch leicht verlaufen. &lt;BR&gt;&lt;BR&gt;Nehmt diese kunstvollen Anmutsblüten mit Euch. Kräuter sind rar an diesem verlassenen Ort, also wird sie sie brauchen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1046">
+        <Page social="4">Wer seid Ihr? Oh, Verus schickt Euch? Nein, ich habe nichts herausgefunden.&lt;BR&gt;Ich dachte, dass die Zentauren die Strippen der Feen ziehen, doch die sind genauso durchgedreht und ich weiß noch immer nicht, warum.&lt;BR&gt;&lt;BR&gt;Nichts läuft so, wie ich es gehofft hatte, meine Forschung ist zum Erliegen gekommen und mir sind die Kräuter ausgegangen, weil ich sie alle auf die Heilung der Verwundeten hier verwendet habe.&lt;NEXTPAGEBUTTON&gt;"Nun wenigstens dazu gibt es gute Nachrichten."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Woher habt Ihr diese kunstvollen Anmutsblüten? Ah, von diesem sturen Zenturio.&lt;BR&gt;&lt;BR&gt;Naja, eigentlich ist er gar nicht so schlimm, wie ich dachte. Ich stelle Medikamente für die Verwundeten her. Könnt Ihr in der Zwischenzeit etwas Zentaurenblut sammeln? Ich glaube, es birgt ein paar Hinweise.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1046">
+        <Page social="4">Gute Arbeit, das ist genau, was ich brauche.&lt;BR&gt;&lt;BR&gt;Wenn ich es vermische ...&lt;BR&gt;Und dann hierüber gebe ...&lt;NEXTPAGEBUTTON&gt;"Soll das wirklich vermischt werden?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Seht Ihr das?&lt;BR&gt;&lt;BR&gt;Das ist eine Spur der Gedankenkontrollmagie. Jemand steuert damit die Kreaturen des Waldes.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, dringt tiefer in den Wald vor und findet Maons Hütte. Dieser Popori hat schon lange den Frieden zwischen Menschen und Feen zusammengehalten. Sagt ihm, dass die Feen von einer dunklen Magie geleitet werden und zeigt ihm diese Probe. Dann wird er Bescheid wissen.&lt;BR&gt;&lt;BR&gt;Ich schreibe derweil Klaon einen Brief.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1046">
+        <Page social="0">Seid Ihr schon auf dem Weg?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="202" prevId="4" villagerId="1020">
+        <Page social="4">Hmm? Was führt Euch hierher?&lt;BR&gt;&lt;BR&gt;Eine Probe? Wovon?&lt;NEXTPAGEBUTTON&gt;"Diese Probe erklärt die Ursache für das aggressive Verhalten der Feen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, eine Spur der Gedankenkontrollmagie! Warum bin ich nicht darauf gekommen?&lt;BR&gt;&lt;BR&gt;Die Feen benötigen ein Gegengift, doch ihre Physiologie ist anders als unsere und so kann ich keines für sie anfertigen.&lt;BR&gt;&lt;BR&gt;Hier. Bringt diese Essenz zum Feenteich über die Brücke zu Lillix. Sie kann ein Gegengift für die Feen anfertigen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="202" prevId="6" villagerId="1002">
+        <Page social="4">Danke, dass Ihr sie mir gebracht habt.&lt;BR&gt;&lt;BR&gt;Viele Geister sahen die Menschen als Feinde an. Seravy jedoch hat den Frieden im Wald bewahrt. Doch nun wurde {@linkcreature:2#206#Seravy} von böser Magie befallen. Ohne ihn greifen die Geister jeden an, der ihnen zu nahe kommt.&lt;BR&gt;&lt;BR&gt;Ihr müsst {@linkcreature:2#206#Seravy} helfen!&lt;NEXTPAGEBUTTON&gt;"Was kann ich tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Begebt Euch mit diesem Gegengift zu Seravy. Es sollte ihn heilen.&lt;BR&gt;&lt;BR&gt;Jedoch müsst Ihr ihn zunächst solange schwächen, bis seine Kraft auf 1/3 gesunken ist. Erst dann könnt Ihr es anwenden.&lt;BR&gt;&lt;BR&gt;Ist er geheilt, bringt {@linkcreature:2#206#Seravy} zurück zum &lt;b&gt;Feenteich&lt;/b&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2" villagerId="4">
+        <Page social="0">In meinem Kopf klärt es sich langsam auf ... Der Wald muss in einem furchtbaren Zustand sein. Ich muss das wieder geradebiegen.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="202" prevId="7" villagerId="1037">
+        <Page social="0">Volos ist der Kommandant der Feentruppen. Er hat schon immer größeren Mut als Umsicht bewiesen, doch er ist kein Dummkopf. Er wird mein Zeichen sehen und wissen, dass es Zeit ist, Frieden zu schließen.&lt;BR&gt;&lt;BR&gt;Bringt ihm diese Einhornträne. Er wird sich dem Befehl fügen, wenn auch unwillig.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="202" prevId="9" villagerId="1012">
+        <Page social="0">Das ist auf jeden Fall eine Einhornträne Seravys. Es erleichtert mich, zu hören, dass er von diesem Zauber erlöst ist. &lt;BR&gt;&lt;BR&gt;Danke für alles, was Ihr hier geleistet habt.</Page>
+    </Text>
+</QuestDialog>

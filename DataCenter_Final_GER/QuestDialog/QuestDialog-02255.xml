@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">Hier in Balders Zuflucht gibt es einige Spezies, die im Rest der Welt schon ausgestorben sind.&lt;BR&gt;&lt;BR&gt;Wollt Ihr helfen, sie zu finden? Sprecht mit {@LinkCreature:71#3018#Meiga}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Selbstverständlich könnt Ihr helfen!&lt;BR&gt;&lt;BR&gt;Ich sehe einmal nach, wer Euch heute gebrauchen kann.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3003">
+        <Page social="4">Schön Euch zu treffen, &lt;PCNAME&gt;! Unser Zuchtbecken ist voll.&lt;BR&gt;&lt;BR&gt;Geht zum Fluss im Norden und bringt eines der Jungen mit zurück.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="7">
+        <Page social="0">Griep!&lt;BR&gt;&lt;BR&gt;Griep!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="3024">
+        <Page social="4">Das Robbenzuchtprogramm läuft gut. Es wäre allerdings gut, wenn jemand die neuen Robbenbabys zählen könnte.&lt;BR&gt;&lt;BR&gt;Würde Euch das Spaß machen?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3033">
+        <Page social="4">Aar! Aar!&lt;BR&gt;&lt;BR&gt;Aaar-aar!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="3034">
+        <Page social="4">Aaar! Aar!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3035">
+        <Page social="4">Aaarr! Aar-aar!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3003">
+        <Page social="4">Oh, das ist aber ein großes Exemplar!&lt;BR&gt;&lt;BR&gt;Gute Arbeit!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3024">
+        <Page social="4">Gut gemacht!&lt;BR&gt;&lt;BR&gt;Ach ja, ich kann mir schlimmere Aufgaben vorstellen, als im Fluss herumzuschwimmen und Robben zu zählen.</Page>
+    </Text>
+</QuestDialog>

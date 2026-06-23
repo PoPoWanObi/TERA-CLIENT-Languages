@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220037">
+        <Page social="0">Mon ami, j'ai besoin que vous fassiez diversion pour moi pendant que j'envoie des éclaireurs dans le territoire de l'Ordre de Fer. L'Ordre possède plusieurs extracteurs de noctenium pas loin d'ici. Si vous retirez les clés des extracteurs, cela devrait les désactiver, ils seront obligés d'arrêter et d'enquêter. Mes éclaireurs profiteront de la confusion pour s'infiltrer.&lt;BR&gt;&lt;BR&gt;Je vous donnerai une récompense pour chaque clé d'extracteur que vous me rapporterez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220037">
+        <Page social="0">Bien joué, &lt;PCNAME&gt;!&amp;nbsp; C'était une mission très dangereuse, et vous vous en êtes sorti avec honneur et élégance!&amp;nbsp; L'Union des Éclairés a de la chance de vous compter dans ses rangs!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Aujourd'hui, vous avez véritablement gagné le titre de &amp;quot;héros.&amp;quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220037">
+        <Page social="0">Que la lumière de la raison éclaire chacun de nous!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

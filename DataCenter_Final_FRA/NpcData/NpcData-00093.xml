@@ -1,0 +1,50 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="124" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="101" scale="1.2" shapeId="300842" gender="male" race="YuantiShaman" resourceSize="100" resourceType="large" size="large" parentId="30084200" basicActionId="3008400" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="110" deathNameplateHeight="0" />
+        <Stat level="60" maxHp="2279590" />
+    </Template>
+    <Template id="102" scale="1.8" shapeId="302160" gender="male" race="giant" resourceSize="0" resourceType="large" size="large" parentId="30216000" basicActionId="3021600" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="2" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="12220960" />
+    </Template>
+    <Template id="103" scale="1.8" shapeId="302160" gender="male" race="giant" resourceSize="0" resourceType="large" size="large" parentId="30216000" basicActionId="3021600" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="2" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="12220960" />
+    </Template>
+    <Template id="104" scale="1.8" shapeId="302160" gender="male" race="giant" resourceSize="0" resourceType="large" size="large" parentId="30216000" basicActionId="3021600" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="2" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="12220960" />
+    </Template>
+    <Template id="105" scale="1.8" shapeId="302160" gender="male" race="giant" resourceSize="0" resourceType="large" size="large" parentId="30216000" basicActionId="3021600" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="2" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="7511613" />
+    </Template>
+    <Template id="106" scale="1.8" shapeId="302160" gender="male" race="giant" resourceSize="0" resourceType="large" size="large" parentId="30216000" basicActionId="3021600" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="2" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="3666288" />
+    </Template>
+    <Template id="501" scale="1.7" shapeId="611450" gender="male" race="NPC_T4_Battle_Door" resourceSize="100" resourceType="medium" size="medium" parentId="61145000" basicActionId="6114500" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="false">
+        <AltAnimation />
+        <Stat level="26" maxHp="12438" />
+    </Template>
+    <Template id="1501" scale="1.25" shapeId="600920" gender="" race="" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="false" dontTurn="true" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="false" showAggroTarget="false" showShorttermTarget="false" spawnScriptId="0" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+</NpcData>

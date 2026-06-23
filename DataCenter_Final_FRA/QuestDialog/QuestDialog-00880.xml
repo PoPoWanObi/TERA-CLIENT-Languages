@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1012">
+        <Page social="5">Le pire, ici, ce n'est pas de mourir... c'est de mourir emporté par ce fléau. Il est impossible de ressusciter les victimes, qui sont condamnées à revenir sous la forme de spectres sinistres.&lt;BR&gt;&lt;BR&gt;Le danger le plus immédiat vient des {@LinkCreature:28#2021#cullars infestés} et des {@LinkCreature:28#2031#tentacullars infestés}. Si vous alliez en tuer quelques-uns, nous vous serions très reconnaissants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1012">
+        <Page social="5">Vous avez réussi?&amp;nbsp; Vos yeux ne se sont pas enfoncés dans leurs orbites, et je ne vois rien suppurer de vos oreilles.&lt;BR&gt;&lt;BR&gt;Ca doit vouloir dire que tout va bien.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, veuillez accepter cette récompense, avec mes remerciements.</Page>
+    </Text>
+</QuestDialog>

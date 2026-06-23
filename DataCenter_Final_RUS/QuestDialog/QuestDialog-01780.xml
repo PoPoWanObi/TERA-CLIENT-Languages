@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="9001">
+        <Page social="1">Сообщество Торговцев стало у меня костью в горле!&lt;BR&gt;&lt;BR&gt;{@linkcreature:121#202#Золотые мугато} и {@linkcreature:121#205#Пустынные древни} переполнены ноктинием, и торговцам хватит этого ноктиния с излишком. Если мы убьем их животных и захватим ноктиний, это усилит мощь Железного Ордена.&lt;BR&gt;&lt;BR&gt;Отправляйся на Территорию Торговцев, убей животных, а в награду получишь очищенный ноктиний. Также тебе достанется весь ноктиний, который ты получишь из них!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="9001">
+        <Page social="0">Отлично сработано! Запомни, всегда можно сделать еще больше.&lt;BR&gt;За Железный Орден!</Page>
+    </Text>
+</QuestDialog>

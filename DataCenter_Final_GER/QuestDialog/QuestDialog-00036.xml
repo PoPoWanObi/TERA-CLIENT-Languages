@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0">Wir müssen nur zu Maons Hütte durchdringen. Das einzige Problem sind dabei {@LinkCreature:2#4#Schleichende Säbelzähne}.&lt;BR&gt;&lt;BR&gt;Bisher haben sie sich vor uns gefürchtet, doch nun jagen sie alles, was sie sehen.&lt;BR&gt;&lt;BR&gt;Tötet diese Bestien und bringt ihre Zähne zu Reindal. Er steht auf Zähne. Ich habe lieber nicht gefragt, was er damit vorhat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">Ausgezeichnet! Seht sie nur an ... wundervoll!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Seht Ihr diese Säbelzähne? Diese Zähne sind einfach ... bezaubernd.</Page>
+    </Text>
+</QuestDialog>

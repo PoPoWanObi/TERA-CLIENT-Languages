@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">О нет! Все это время я думал, что мне удалось сберечь &lt;font color='#660000'&gt;блестящие украшения&lt;/font&gt;, но, похоже, что они забрали и их! Они обошлись мне в целую кучу денег!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:5#18#Бауба} умолял, чтобы я привез их для него - наверное, туванги ему их и отнесли.&lt;BR&gt;&lt;BR&gt;Прошу тебя, верни украшения, или хотя бы плату за них!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Все-все-все, с этой минуты больше никакой торговли с этими ужасными туванги. Спасибо тебе, теперь я хотя бы могу продать свои товары где-нибудь в другом месте.&lt;BR&gt;&lt;BR&gt;Знаешь, с деньгами у меня нынче не очень, но вот, возьми это за свои труды.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Знаю, знаю, я уже о многом просил тебя, но не откажи и на этот раз. Мне бы очень не помешала помощь.</Page>
+    </Text>
+</QuestDialog>

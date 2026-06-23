@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="4">Die Shurianer und ihre verdammten Verbündeten stiften jede Menge Chaos. Ihr müsst das unterbinden und sie aufhalten.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#3031#Tyrak}, die {@LinkCreature:4#3041#Shurianischen Geistbiegerinnen} und die {@LinkCreature:4#3042#Höllionleibeigenen} müssen vernichtet werden.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Tifane an der Feuerstellung der Tapferkeit, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1006">
+        <Page social="4">Ihr habt wundervolle Arbeit geleistet. Wir schätzen Eure Hilfe!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1006">
+        <Page social="0">Ihr seid gekommen, weil Ihr helfen wollt, nehme ich an. Vielleicht solltet Ihr das tun.</Page>
+    </Text>
+</QuestDialog>

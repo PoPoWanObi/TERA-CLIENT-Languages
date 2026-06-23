@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Take this report to Belok in Ceravin Point right away. If the argons are collaborating with Thulsa, he'll know what to do next.&lt;BR&gt;&lt;BR&gt;Waste no time.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1020">
+        <Page social="4">What news is there from our sister camp in the north?&lt;NEXTPAGEBUTTON&gt;"Ominous news from Cecera."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thulsa collaborating with argons? Cecera had warned of this.&lt;BR&gt;&lt;BR&gt;The argons recently became fascinated with faerie magic, and even found a way to alter and use the modified energy. If they're working with Thulsa...&lt;PCNAME&gt; can imagine what this means for the federation!&lt;BR&gt;&lt;BR&gt;We must spread the news. Report all of this to Winstail in Valumnir Outpost.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1028">
+        <Page social="4">Belok sent you? Let me guess, bad news?&lt;NEXTPAGEBUTTON&gt;"Is it ever anything else?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">This report can only mean one thing—the argons are more powerful than ever, and they're preparing to launch another attack. We must be ready.&lt;BR&gt;&lt;BR&gt;At least they finally consider the federation army a dangerous foe. They must be truly afraid of their imminent defeat to be forming alliances.</Page>
+    </Text>
+</QuestDialog>

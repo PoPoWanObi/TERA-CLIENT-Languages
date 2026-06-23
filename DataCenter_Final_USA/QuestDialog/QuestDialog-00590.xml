@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0">We're short on everything—supplies, soldiers, patience...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1003$$Kardelen} coordinates our supplies with Tulufan.&lt;BR&gt;&lt;BR&gt;Go convince him to speed things, would you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="0">Anaka's a griper, but she's right.&lt;BR&gt;&lt;BR&gt;Our next caravan's not due for a while, but they need it more than we do.&lt;BR&gt;&lt;BR&gt;Collect extra gear from the others here at Marakeen. Tell them it's on my orders.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1001">
+        <Page social="0">Sietch Bidaum is important, and fasting can sharpen the intellect.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1004$$Tirian} has some spare herbs in her pack, as well.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" prevId="4" villagerId="1004">
+        <Page social="0">Fine.&lt;BR&gt;&lt;BR&gt;But if my migraines come back, I'm sending you to reclaim these.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="5" villagerId="1002">
+        <Page social="0">Hmm. Scorpion blood for wounds. Lizard tails—very tasty! Barrel cactus for water and eating.&lt;BR&gt;&lt;BR&gt;Take! Take! You and me, one tribe.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1028">
+        <Page social="0">I understand. Here's all the cooking oil and grain I can spare.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:218#1003$$Kardelen} should bust our quartermaster back to Velika.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1005">
+        <Page social="0">This is a lot of gear! So the supply caravan arrived, did it?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" villagerId="1005">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

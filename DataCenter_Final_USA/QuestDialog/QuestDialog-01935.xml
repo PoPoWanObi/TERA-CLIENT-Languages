@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1607">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1607">
+        <Page social="0">Here are materials for Muhrak's hauberks. Let's see what you can do with them. Take them to Kunar when you've finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1604">
+        <Page social="0">Your efforts will help us win this war. The federation thanks you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1604">
+        <Page social="0">You have the design and kits. Talk to crafting vendors in the cities if you need additional materials.</Page>
+    </Text>
+</QuestDialog>

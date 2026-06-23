@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="5">Thulsa s'est servi des corps en putréfaction pour élaborer un poison gazeux dont les vapeurs envahissent la Tour d'Ébène.&lt;BR&gt;&lt;BR&gt;En bref, approcher de la tour sans protection adéquate serait tout simplement suicidaire.&lt;BR&gt;&lt;BR&gt;J'ai créé un totem de purification pour la Fédération, mais j'ai un problème. Il me faut des noyaux argons pour l'alimenter.&lt;NEXTPAGEBUTTON&gt;"Des noyaux argons?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Exactement, &lt;PCNAME&gt;. Il existe une étrange résonnance entre Thulsa et les argons. Thulsa ne contrôle pas les argons, mais d'une certaine façon, c'est comme s'ils étaient sur la même "longueur d'onde".&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, rapportez-moi les noyaux d'argons, et je vous fabriquerai un totem de purification.&lt;BR&gt;&lt;BR&gt;Allez faire un tour au Labyrinthe de la Terreur. Vous y trouverez des argons en nombre!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1102">
+        <Page social="5">Ah, ce sera suffisant pour créer un totem de purification.&lt;BR&gt;&lt;BR&gt;Vous vous en sortez mieux que je le pensais. Bon travail!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1102">
+        <Page social="0">Rapportez-moi des noyaux argons et je vous fabriquerai un totem de purification qui vous protégera des émanations empoisonnées de la Tour d'Ébène.</Page>
+    </Text>
+</QuestDialog>

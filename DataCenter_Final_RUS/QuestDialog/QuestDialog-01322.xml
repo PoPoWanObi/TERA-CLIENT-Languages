@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Не уверена, что это хорошая идея, но у нас так мало припасов, что народ болтает о поедании мяса {@LinkCreature:47#1001#Тиркайского гризли}.&lt;BR&gt;&lt;BR&gt; Думаю, хорошо просоленное, оно, вероятно, уничтожит любые следы аргонского заражения.&lt;BR&gt;&lt;BR&gt; Отнеси немного Джадоре на Полевую базу "Безумие". У нее как раз полно соли.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Она считает, что соль сделает это мясо безопасным, хех? Мы точно сможем найти здесь другой источник пищи. Но я попробую.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">У меня есть соль. Зачем она тебе, говоришь? Я что-то не вижу никакого мяса.</Page>
+    </Text>
+</QuestDialog>

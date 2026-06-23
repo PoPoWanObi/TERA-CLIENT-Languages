@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Forscher des Mysteriums untersuchen trotz der Argonenpräsenz dort die Drei Türme. Ehe Ihr Adeldur um Hilfe bei der Suche nach Yasring bitten konntet, entsandte sie Euch zu einer Forschungsaufgabe. Danach dirigierte sie Euch zu Kurance, der Euch das Register der vermissten Personen zeigte. Yasrings Name stand auf der Liste, also suchtet Ihr die {@Rgn:9012001$$Turmspitzen der drei Türme} ab und wurdet schließlich an Greyden verwiesen, dem Kommandanten des Spähtrupps, der versprach, Euch zu helfen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Anweisung von Valkyon:&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Adeldur, einer Forscherin des Mysteriums bei den Drei Türmen, die {@creature:245#2003$$Ronalt} erwähnt hat, und helft ihr bei ihrer Forschungsarbeit. Stellt während Eures Aufenthalts bei den Drei Türmen Nachforschungen über den Verbleib von {@creature:245#2001$$Yasring}, der verschollen Späherin, an.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="2001">
+        <Page social="10">Wenn Argonen sich wirklich sogar zu noch schrecklicheren Formen verschmelzen können, dann ist dieser Krieg noch nicht vorbei.&lt;BR&gt;&lt;BR&gt;Vielleicht können wir die Außenwelt noch davor bewahren, argonifiziert zu werden. Aber die einzige Möglichkeit, eine Gegenmaßnahme oder ein Gegengift zu finden, ist hier im Herz des Argonentreviers zu forschen.&lt;NEXTPAGEBUTTON&gt;"Ich verstehe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="3" villagerId="2001">
+        <Page social="4">Unsere Haupttheorie ist, dass die Argonen Lebensenergie einsetzen, um diese Türme zu erbauen und mit Energie zu versorgen. Weitere Forschungen könnten eine Möglichkeit offenbaren, diese Lebensenergie zu blockieren oder umzuleiten.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="4" villagerId="2002">
+        <Page social="1">Adeldur hat eine Menge Theorien, aber mir geht es nur um eines: Unsere Leute retten, bevor die Argonen ihnen ihre "Lebensenergie" stehlen, was immer das auch sein mag. Ich bin noch nicht mal richtig im Militär. Ich bin hier, um jemand bestimmtes zu finden ... Jemand, an dem mir viel liegt.&lt;BR&gt;&lt;BR&gt;Ich denke, dass Ihr mehr oder weniger das Gleiche vorhabt.&lt;NEXTPAGEBUTTON&gt;"Könnte man so sagen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ihr könnt in unserem Verzeichnis nachsehen. Es ist zwar nicht ganz vollständig, aber da drin ist ein Eintrag für jeden, den wir gerettet haben oder den wir noch suchen. Das wäre immerhin ein guter Anfang.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="5" villagerId="2002">
+        <Page social="1">Wenn Ihr zur Rettungsmannschaft gehört, dann müsst Ihr Euch beeilen.&lt;BR&gt;&lt;BR&gt;Wir haben ein spezielles Gerät, mit dem wir unsere Schritte zurückverfolgen können. Andernfalls würden wir uns hier drin verirren. Diese Gänge sehen doch alle gleich aus.&lt;BR&gt;&lt;BR&gt;Folgt einfach den Fußspuren, &lt;PCCLASS&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2003">
+        <Page social="0">Es ist eine nur allzu geläufige Geschichte. Wir sind die Späher! Wir suchen nach den Verschwundenen! Und wenn wir verschwinden? Wer kommt und sucht nach uns?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="2003">
+        <Page social="0">Rettet jeden, den Ihr nur retten könnt, &lt;PCCLASS&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="2003">
+        <Page social="10">Wir wissen es zu schätzen. Ihr solltet allerdings wissen, dass wir so nur noch mehr Soldaten verlieren. Da fragt man sich, ob es das wirklich wert ist ... wenn Ihr Euch der Aufgabe jedoch gewachsen fühlt, werden wir Euch nicht zurückhalten.&lt;NEXTPAGEBUTTON&gt;"Ich will es gern versuchen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das Register ist schmerzlich unvollständig. Über die untersten Ebenen haben wir keine Informationen mehr, weil es da unten so gefährlich ist.&lt;BR&gt;Wenn Ihr tapfer genug seid, meldet Euch bei Greyden, dem Spähtruppkommandanten. Er kann die Liste auf den neuesten Stand bringen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" prevId="9" villagerId="2004">
+        <Page social="4">Ich bin beeindruckt. Es gibt nicht viele Leute, die sich so viel Mühe machen, ihre verschollenen Kameraden zu finden. Ich werde helfen, so gut ich kann. Wie könnte ich Nein sagen?</Page>
+    </Text>
+</QuestDialog>

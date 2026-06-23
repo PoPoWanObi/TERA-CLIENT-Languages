@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="4">Даже наемники покажутся безобидной шпаной, когда тебе повстречаются {@LinkCreature:32#10#Сиранские ведьмы} и {@LinkCreature:32#11#Сиранские поливиды}.&lt;BR&gt;&lt;BR&gt;Стоит лишь услышать шипение произносимых ими заклинаний... в общем, если наемники вызывали у тебя кошмары, то тому, что будут вызывать эти ведьмы, еще не придумали описания.&lt;BR&gt;&lt;BR&gt;Нам всем стало бы значительно легче, если бы кто-нибудь разобрался с этими тварями.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1013">
+        <Page social="4">Любой, сколь бы храбр он ни был, вздохнет с облегчением, узнав, что более не придется пересекаться с ведьмами. Спасибо!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1013">
+        <Page social="0">Когда исчезнут сиранские {@LinkCreature:32#10#Ведьмы} и {@LinkCreature:32#11#Поливиды}, многие наши проблемы решатся сами собой.</Page>
+    </Text>
+</QuestDialog>

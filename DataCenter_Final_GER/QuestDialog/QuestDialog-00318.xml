@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Lasst mich sehen ... Riesendämonen, ... Riesenaugen ... Ja, genau Euer Kaliber.&lt;BR&gt;&lt;BR&gt;Beseitigt {@LinkCreature:9#1400#Azarels Moloche} und {@LinkCreature:9#1410#Labyrinthpirscher}.&lt;BR&gt;&lt;BR&gt;Bringt mir ihre Augen, ... aber guckt mich nicht so an. Ich serviere sie nur ... Bringt ihre Augen zu Noleta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1006">
+        <Page social="4">Wenn die Gula ihre kostbaren Monster mit herausgerissenen Augen sehen, dann "sehen" sie vielleicht, dass wir es ernst meinen, richtig?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1006">
+        <Page social="0">Das Labyrinth ist ein gefährlicher Ort, aber mir scheint, Ihr könnt damit umgehen.&lt;BR&gt;&lt;BR&gt;KÖNNT Ihr doch, oder?</Page>
+    </Text>
+</QuestDialog>

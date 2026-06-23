@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="4">Do you see that castanic over there? Deigan?&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">He's following me around like a lovesick popori. He won't make a move, he just...lingers.&lt;BR&gt;&lt;BR&gt;I don't have time for games. If he's too cowardly to go after what he wants, he can kiss a gula.&lt;BR&gt;&lt;BR&gt;Get rid of him for me, would you? Insult him, humiliate him, whatever it takes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1020">
+        <Page social="4">What? I'm no coward! I'm just...taking my time.&lt;BR&gt;&lt;BR&gt;Besides, look at this bone! No coward could snatch that from a foe.&lt;BR&gt;&lt;BR&gt;Give her my bone. That ought to shut her up.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1015">
+        <Page social="4">What a moron. I'm not impressed by bones. Any idiot can kill an ossugon.&lt;BR&gt;&lt;BR&gt;Sorry you got wrapped up in this, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">Taera, une élève modèle, a subi un enchantement et causé des ravages. Vous l'avez vaincue sur l'ordre des sorcières vadomas survivantes et vous avez appris dans son journal intime ce qui lui était arrivé. C'est alors qu'a été découverte la disparition du gardien éphémère, un mécanisme de défense installé par la gouvernante Serena. Vous avez aidé les sorcières à le récupérer et à le remettre en marche.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="4">Je déteste devoir l'admettre, mais tout a commencé par le fait d'une étudiante.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#33#Taera} est une sorcière dotée de pouvoirs déjà étonnants, qui ont atteint une puissance incroyable depuis peu. Une puissance bien supérieure à ce qu'elle devrait être à son âge.&lt;BR&gt;&lt;BR&gt;Maintenant, elle use de sa magie du chaos pour animer des poupées et envoûter les gens!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">D'abord, nous devons comprendre ce qui motive sa conduite. Taera a toujours eu pour habitude de consigner soigneusement tout ce qui lui arrivait. Elle aura certainement pris des notes quelque part.&lt;BR&gt;&lt;BR&gt;Vous trouverez {@LinkCreature:22#33#Taera} dans le Parc de Serena... elle a toujours eu une affection particulière pour cet endroit.&lt;BR&gt;&lt;BR&gt;Récupérez son journal à n'importe quel prix. Il nous éclairera certainement sur les origines du vent de folie qui balaye l'académie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="4">Alors, vous avez affronté Taera et récupéré son journal?&amp;nbsp; Quelle horreur!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Enfin, je parle de son journal... pas de la correction que vous lui avez infligée!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je vois qu'elle mentionne des voix qui murmuraient dans son esprit et lui ordonnaient de détruire la barrière, c'est-à-dire le gardien éphémère qui se trouve à l'Autel de Vadoma, dans les catacombes. Descendez voir Tarin au Fortin des Professeurs!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Le plus tôt sera le mieux!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">Je vais poursuivre l'étude de son journal. Allez voir Tarin!&amp;nbsp;&lt;BR&gt;&lt;BR&gt; Continuez votre route!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="222" prevId="3" villagerId="1026">
+        <Page social="4">L'Autel de Vadoma est protégé par le gardien éphémère de Serena...&lt;BR&gt;&lt;BR&gt;Oh, vous devriez vérifier qu'il fonctionne encore. Vite!&amp;nbsp; Rendez-vous à l'&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-18749.8203,21616.3945,540.0363&amp;type=1&amp;name=autel"&gt;Autel&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Oh, avant cela, vous allez devoir atteindre le cœur des Catacombes de la Reine des Sorcières. Et avant cela encore, il vous faudra traverser un labyrinthe...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:222#1009#Cordella}!&amp;nbsp; Si vous la trouvez, Cordella pourra vous aider.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1009">
+        <Page social="4">Vous arrivez trop tard. Les démons ont brisé le gardien éphémère et ils l'ont caché. Hallie est à l'intérieur, et si vous n'allez pas l'aider, elle va se faire étriper.&lt;BR&gt;&lt;BR&gt;Rendez-vous rapidement à l'Autel de Vadoma et utilisez le {@LinkCreature:222#1031#téléportail} pour la rejoindre. Protégez-la et essayez de restaurer le sceau du gardien. Il ne reste pas beaucoup de temps.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="491" prevId="6" villagerId="99">
+        <Page social="4">Vite!&amp;nbsp; Je dois réactiver le gardien éphémère!&amp;nbsp; Les démons feront tout leur possible pour m'en empêcher, vous allez donc devoir les affronter.&lt;BR&gt;&lt;BR&gt;Vous avez bien compris ce que vous devez faire. Alors allons-y!&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="491" prevId="7" villagerId="99">
+        <Page social="5">J'ai fait tout ce que j'ai pu. C'est réparé, mais je n'ai pas pu le relancer.&lt;BR&gt;&lt;BR&gt;Je n'ai pas assez de force, alors vous allez devoir le faire. Ne vous inquiétez pas. Il va se passer quelque chose, quelque chose de merveilleux.&lt;BR&gt;&lt;BR&gt;Lorsque vous aurez remis l'appareil en marche, allez voir {@LinkCreature:68#1014#Beryn} et mettez-la au courant.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="68" prevId="8" villagerId="1014">
+        <Page social="4">C'est un soulagement que vous ayez pu relancer le gardien éphémère, &lt;PCNAME&gt;. La sécurité et la survie des sorcières dépendent pour ainsi dire entièrement de la magie.&lt;BR&gt;&lt;BR&gt;Vous avez bien mérité la gratitude du royaume et de l'académie. Merci.</Page>
+    </Text>
+</QuestDialog>

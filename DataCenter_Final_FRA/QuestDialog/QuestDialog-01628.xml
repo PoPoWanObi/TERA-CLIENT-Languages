@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="5">La vermine aux ordres de Thulsa joue les trouble-fêtes à la Fournaise divine!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Balancez les {@LinkCreature:52#9006#ravageurs ksharans} à la lave, et envoyez les {@LinkCreature:52#9007#enragés}, les {@LinkCreature:52#5004#tisseurs d'ombre}, les {@LinkCreature:52#5001#maîtres épéistes}, les {@LinkCreature:52#9008#tisseurs d'effroi} et les {@LinkCreature:52#5002#archers ksharans} leur tenir compagnie!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, adressez-vous au centurion Senelin, au Guet de la Tombe des Exilés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="5">Bravo, &lt;PCNAME&gt;!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;A force de jouer avec les dispositifs de contrôle des lieux, j'avais peur que ces crétins malfaisants ne finissent par tout faire sauter. Vous faites du bon boulot, continuez comme ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">Eliminez ces imbéciles de ksharans avant qu'ils ne causent des dégâts irréparables à la Fournaise divine!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">Bon, nous voulons briser le moral des rôdeurs d'escarpement fouaille-tripes du Roc du Basilic.&lt;BR&gt;&lt;BR&gt;Allez tuer les {@LinkCreature:21#9#enragés}, les {@LinkCreature:21#10#écraseurs} et les {@LinkCreature:21#5#prophètes} rôdeurs d'escarpement, puis rapportez leurs bracelets à Nanarin aux Restes de piliers de pierre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Belle réussite, votre attaque contre la tribu des rôdeurs d'escarpement!&amp;nbsp; Il n'y a plus personne pour prêcher la violence chez les fouaille-tripes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">Excusez-moi, mais vous n'avez pas encore achevé votre mission.</Page>
+    </Text>
+</QuestDialog>

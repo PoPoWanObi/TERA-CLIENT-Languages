@@ -1,0 +1,27 @@
+<EnvCaseEffectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/EnvCaseEffectData EnvCaseEffectData.xsd" animSet="Human_F_ANI.Anim.Human_F_Share_Anim" xmlns="https://vezel.dev/novadrop/dc/EnvCaseEffectData">
+    <EnvCaseEffect animName="unarmedrun">
+        <Effect time="0" type="InWater" scale="1" boneName="FxCenter" detach="true" playRate="1" posX="40" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="0" rotY="0" rotZ="0" condition="Always" />
+        <Effect time="0.394" type="InWater" scale="1" boneName="FxCenter" detach="true" playRate="1" posX="40" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="0" rotY="0" rotZ="0" condition="Always" />
+        <Effect time="0.01" type="OnGround" scale="0.7" boneName="Bip01-L-Toe0" detach="true" playRate="1" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0.427" type="OnGround" scale="0.7" boneName="Bip01-R-Toe0" detach="true" playRate="1" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0.01" type="OnGround" scale="0.5" boneName="Bip01-L-Toe0" detach="true" playRate="1.2" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+        <Effect time="0.427" type="OnGround" scale="0.5" boneName="Bip01-R-Toe0" detach="true" playRate="1.2" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+    </EnvCaseEffect>
+    <EnvCaseEffect animName="swim">
+        <Effect time="0.752" type="InWater" scale="1" boneName="FxCenter" detach="true" playRate="1" posX="36" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="0" rotY="0" rotZ="0" condition="Always" />
+    </EnvCaseEffect>
+    <EnvCaseEffect animName="JumpEnd">
+        <Effect time="0.12" type="OnGround" scale="0.6" boneName="Bip01-R-Toe0" detach="true" playRate="1.5" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0.12" type="OnGround" scale="0.6" boneName="Bip01-L-Toe0" detach="true" playRate="1.5" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0" type="InWater" scale="1" boneName="FxCenter" detach="true" playRate="1.5" posX="40" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="0" rotY="0" rotZ="0" condition="Always" />
+        <Effect time="0.12" type="OnGround" scale="0.5" boneName="Bip01-R-Toe0" detach="true" playRate="1.7" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+        <Effect time="0.11" type="OnGround" scale="0.5" boneName="Bip01-L-Toe0" detach="true" playRate="1.7" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+    </EnvCaseEffect>
+    <EnvCaseEffect animName="JumpEndLand">
+        <Effect time="0.1" type="OnGround" scale="0.6" boneName="Bip01-R-Toe0" detach="true" playRate="1.5" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0.13" type="OnGround" scale="0.6" boneName="Bip01-L-Toe0" detach="true" playRate="1.5" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Normal" />
+        <Effect time="0" type="InWater" scale="1" boneName="FxCenter" detach="true" playRate="1.5" posX="40" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="0" rotY="0" rotZ="0" condition="Always" />
+        <Effect time="0.1" type="OnGround" scale="0.5" boneName="Bip01-R-Toe0" detach="true" playRate="1.7" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+        <Effect time="0.13" type="OnGround" scale="0.5" boneName="Bip01-L-Toe0" detach="true" playRate="1.7" posX="0" posY="0" posZ="0" rescaleMethod="followBodyFxSize" rotX="-90" rotY="0" rotZ="0" condition="Cursed" />
+    </EnvCaseEffect>
+</EnvCaseEffectData>

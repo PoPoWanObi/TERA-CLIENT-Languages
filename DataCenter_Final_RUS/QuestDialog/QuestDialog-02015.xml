@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Есть дело, которое я могу поручить только тебе, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Не все охранные машины Убежища отключились, как и должны были. {@LinkCreature:71#3007#Бакра} расскажет детали.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Ага, &lt;PCCLASS:lcase&gt; - тот, ко мне нужен!&lt;BR&gt;&lt;BR&gt;Боги изолировали это место, когда Балдер умер. Они установили машины, которые производят искарагардов. Когда боги позволили нам вернуться, машины отключились.&lt;BR&gt;&lt;BR&gt;Но не все. Сегодня утром один искарагард едва не убил меня. Ты не выследишь его?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Хвала твоей храбрости! Об одном жалею - страж не тронул ленивцев!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="3007">
+        <Page social="4">И как я буду подрезать виноградник, если эта штука разрубит меня пополам?&lt;BR&gt;&lt;BR&gt;Твоя помощь бесценна, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="3007">
+        <Page social="4">Эти штуки строили на века. Даже удивительно, что они могут дать сбой!&lt;BR&gt;&lt;BR&gt;Увы, замену для них нам никак не подобрать.</Page>
+    </Text>
+</QuestDialog>

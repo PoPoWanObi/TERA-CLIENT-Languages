@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">Vor nicht allzu langer Zeit bin ich einem Banditen begegnet, der mit einer Karte in der Hand durch die Wälder stapfte. Anscheinend verwahren die Banditen unsere Waren an Stellen, die sie mit Kreisen auf der Karte eingezeichnet haben. Diese Stellen befinden sich am &lt;font color='#660000'&gt;nordöstlichen Teil des Blutpfades!&lt;/font&gt; Das ist unsere Chance, unsere gestohlenen Waren zurückzubeschaffen. Bitte helft uns, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Wenn Ihr Euch zum &lt;font color='#660000'&gt;Blutpfad&lt;/font&gt; begebt, werdet Ihr Truhen mit Diebesgut der Banditen finden. Bitte bringt uns unsere wertvollen Waren zurück.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1005">
+        <Page social="8">Oh nein! &lt;PCNAME&gt;, ich bin wirklich dankbar für Eure Hilfe. Bei dem Schaden, den die Devanerbanditen angerichtet haben, dachte ich schon, ich sehe mein Eigentum nie wieder, aber Ihr habt mir den Tag gerettet! Die Götter werden Euch segnen! Oh ja, das werden sie!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1005">
+        <Page social="0">Habt Ihr meine Kisten gefunden? Oder haben Euch die Devaner vorher entdeckt? Gehässige kleine Schaben, was?</Page>
+    </Text>
+</QuestDialog>

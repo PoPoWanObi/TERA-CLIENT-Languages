@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Wir machen einen Vorstoß, um das Verseuchte Dorf zu sichern.&lt;BR&gt;&lt;BR&gt;Vernichtet {@LinkCreature:40#1#Zornige Vogelscheuchen}, {@LinkCreature:40#5#Zornige Erntegolems}, {@LinkCreature:40#13#Prionenausweider} und {@LinkCreature:40#31#Mutierte Dreiklingen}. Wir müssen den Grad der Verseuchung messen, also nehmt Proben von den Gefallenen.&lt;BR&gt;&lt;BR&gt;Findet Lashirah im Forschungszentrum der Quarantänezone, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Für Euch gibt es immer Arbeit, wenn Ihr danach verlangt, &lt;PCNAME&gt;. Unsere Aufgabe findet kein Ende, fürchte ich.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Habt Ihr die Proben? Ich kann ohne sie nicht beginnen.</Page>
+    </Text>
+</QuestDialog>

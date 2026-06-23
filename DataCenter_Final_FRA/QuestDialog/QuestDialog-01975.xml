@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
+        <Page social="1">Notre corpus de données sur le noctenium est très lacunaire, cher ami. Il nous faut plus de données.&lt;BR&gt;&lt;BR&gt;L'Union des Éclairés a besoin de davantage d'échantillons de noctenium brut afin de pouvoir en tirer des conclusions. Fouillez les territoires et collectez au moins trois échantillons de minerai de noctenium puis rapportez-les-moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
+        <Page social="0">Le minerai de noctenium est idéal pour nos données. Merci, cher ami. Je vais transmettre les échantillons aux chercheurs de l'Union.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="122" villagerId="220020">
+        <Page social="0">Que l'Union des Éclairés triomphe!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

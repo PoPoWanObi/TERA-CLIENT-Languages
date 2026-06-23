@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, ich habe Euren Namen schon oft in dieser Gegend gehört. Ihr seid offensichtlich der aktuell Beste unter den Rekruten. Das ist beachtlich, wenn man berücksichtigt, wie viele neue Rekruten wir haben.&lt;BR&gt;&lt;BR&gt;Es sieht so aus, als ob Ihr Euch ein paar Föderationsscheine verdient habt.&lt;BR&gt;&lt;BR&gt;Ihr seid Euch nicht sicher, wie man die verwendet? Geht zu {@linkcreature:60#9000} in Holzhausen und fragt ihn!&lt;BR&gt;&lt;BR&gt;-Samael</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="9000">
+        <Page social="0">Ihr seid &lt;PCNAME&gt;? Hmm. Nun gut!&lt;BR&gt;&lt;BR&gt;Kommandant Samael meinte, das sei für Euch.&lt;BR&gt;&lt;BR&gt;Ihr möchtet gerne wissen, wie man die Föderationsscheine verwendet? Nun, das ist gar nicht so schwer. Ihr müsst sie nur gegen die Gegenstände eintauschen, die ihr gerne haben wollt - vorausgesetzt natürlich der Händler akzeptiert Föderationsscheine als Zahlungsmittel.</Page>
+    </Text>
+</QuestDialog>

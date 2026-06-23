@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="0">Vous avez aidé Elion à vaincre Samael, et y avez gagné la reconnaissance de la Fédération et celle de Velik. Cette dernière a également dit que vous veniez de passer un test, mais elle ne s'est pas étendue sur la question.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="4">Toutes ces preuves... les registres, la lance, les rapports... seront bientôt entre les mains de personnes de confiance à Velika. Je compte procéder à une arrestation publique de Samael, afin de prouver à tous que personne n'est au-dessus des lois.&lt;BR&gt;&lt;BR&gt;Nous allons devoir priver Samael de toute issue de secours lui permettant de quitter Velika.&lt;BR&gt;&lt;BR&gt;Par chance, le consul Dougal a réussi à localiser le repaire de Samael.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1032">
+        <Page social="10">Bienvenue, &lt;PCNAME&gt;!&amp;nbsp; Cela faisait longtemps... Même si j'aurais préféré vous revoir dans des circonstances plus heureuses.&lt;BR&gt;&lt;BR&gt;Quant au commandant Samael... Ce traître... J'en ai la nausée.&lt;BR&gt;&lt;BR&gt;Nous devons le traduire en justice, avec votre aide, bien entendu. Vous devrez éliminer {@LinkCreature:9#2100#Kubai Vive-tempête} et {@LinkCreature:9#2200#Ladek de la demi-lune sanglante}, les gardiens de la cachette située à l'intérieur du Labyrinthe d'Azarel, avant de nous suivre grâce au {@LinkCreature:209#1029#téléportail}.&lt;NEXTPAGEBUTTON&gt;"Le téléportail?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Samael n'est pas un imbécile. Nos arcanistes ont détecté une énergie magique dans sa résidence officielle de Velika et ils ont remonté son signal, qui les a menés tout droit au Labyrinthe d'Azarel.&lt;BR&gt;&lt;BR&gt;Nous allons exploiter cette information pour piéger Samael et mettre un terme à cette folie.&lt;BR&gt;&lt;BR&gt;Nous nous reverrons quand tout ça ne sera plus qu'un mauvais souvenir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1029">
+        <Page social="0">(C'est le téléportail dont Dougal vous a parlé. Vous pouvez l'utiliser pour vous infiltrer dans la résidence de Samael.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="401" prevId="4" villagerId="1010">
+        <Page social="4">Bien joué, &lt;PCNAME&gt;. Vous avez passé mon test et prouvé que vous étiez {@gender:un/une} authentique {@gender:champion/championne} de la Fédération. La déchéance de Samael est une bien triste affaire... C'était autrefois un bon soldat... mais il a choisi de s'écarter du droit chemin.&lt;BR&gt;&lt;BR&gt;La mort de Samael va être un coup dur pour les descendants de Lok et pourrait bien entraîner la fin de leur petit complot.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, vous avez toute ma gratitude et ma considération. Velika vous doit beaucoup. Vous avez sauvé ma ville... et il est même bien possible que je vous doive la vie. Merci à vous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="401" prevId="5" villagerId="1008">
+        <Page social="4">Vous avez bien combattu, &lt;PCNAME&gt;. Sans votre aide et celle d'Elion, nous aurions certainement tout perdu!&amp;nbsp; Qui aurait pu croire Samael capable de tels actes?&amp;nbsp; Comment peut-on tomber aussi bas?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai ordonné aux rôdeurs de traquer le reste des descendants de Lok. Si nous parvenons à éliminer les derniers d'entre leurs chefs, ce sera la fin de leur organisation.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">Ich kriege immer die schlimmsten Spähmissionen.&lt;BR&gt;&lt;BR&gt;Jetzt will Georrif, dass ich zu diesen gefrorenen Fregatten hochgehe, aber dort gibt es etliche {@LinkCreature:31#3#Eisige Ossugoner} und {@LinkCreature:31#7#Todesfrostkavaliere}! Von da komme ich ja niemals wieder lebend zurück!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, um der Sicherheit Eurer Kameraden von der Föderation willen ... äh ... Könntet Ihr mir den Weg freimachen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">Doch jetzt, wo die Gegend wirklich gesichert ist, fehlt auf einmal der Nervenkitzel.&lt;BR&gt;&lt;BR&gt;Aber was rede ich da? Habt vielen Dank! Ihr seid {@g:ein echter Lebensretter/eine echte Lebensretterin}!</Page>
+    </Text>
+</QuestDialog>

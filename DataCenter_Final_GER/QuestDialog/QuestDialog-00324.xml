@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="4">Es heißt, {@LinkCreature:10#7#Wilde Mycanare} bringen Unglück.&lt;BR&gt;&lt;BR&gt;Ob das nun stimmt oder nicht, die Mycanare blockieren den Weg zurück nach Castanica. Es wird Zeit, diesen Kerlen mal zu zeigen, wer hier das Sagen hat.&lt;BR&gt;&lt;BR&gt;Macht die Straße frei, &lt;PCNAME&gt;. Wegtreten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1112">
+        <Page social="4">Gute Arbeit, &lt;PCNAME&gt;. Vielleicht können wir das ja mit ein wenig Feuerwhisky feiern!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Karascha, der Anführer der Dämonen, gefährdete die Sicherheit der Expedition und der ganzen Welt.&lt;BR&gt;&lt;BR&gt;Ihr habt Karaschas Unterschlupf betreten und konntet ihn besiegen. Karaschas letzte Worte enthüllten jedoch, dass seine Bemühungen nur zur Ablenkung von einem größeren Vorhaben dienten. Ihr konntet außerdem ein Dokument an Euch bringen, demzufolge Elion eine Begegnung mit Karascha überlebte und noch am Leben ist.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Alles hat auf diesen Moment hingeführt, &lt;PCNAME&gt;. Karascha darf das Ritual nicht vollenden, koste es, was es wolle. Laut dem von Euch gefundenen Dokument liegt nördlich dieses Lagers ein Schrein. Kämpft Euch den Weg durch die Dämonen frei, während ich unsere Truppen herbeirufe.&lt;BR&gt;&lt;BR&gt;Wir müssen Karascha in seinem Versteck gegenübertreten und ihm ein Ende bereiten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Sobald Ihr den letzten Schlag austeiltet, zogen sich die Dämonen zurück. Wir spüren bereits eine Veränderung in der Energie des Schlunds.&lt;NEXTPAGEBUTTON&gt;"Karascha sagte einige Dinge ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oh? Lian wird bald hier sein, vielleicht sollte er das auch hören. Und da ist er ja bereits!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1037">
+        <Page social="4">Als Sersine, Kind von Karas, nach mir schickte, hatte ich gehofft, Elion zu sehen. Aber natürlich bin ich froh, dass Ihr in Sicherheit seid. Welche Neuigkeiten über meinen Bruder bringt Ihr?&lt;NEXTPAGEBUTTON&gt;"Folgendes ist passiert ...&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hmm. Ich hätte erwartet, dass Elion bei einem so bedeutsamen Ereignis zugegen sein würde. Aber scheinbar ist mein Bruder nicht aufzufinden. Gibt es noch mehr, das Ihr mir berichten könnt?&lt;NEXTPAGEBUTTON&gt;"Ich habe diese Schriftrolle gefunden ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Lian liest die Schriftrolle) &lt;BR&gt;&lt;BR&gt;Eine uralte Schriftart, aber sie ist mir bekannt. Da steht: "Elion hat sich unserem Zugriff entzogen. Wir haben alle unsere Agenten in Arun angewiesen, ihn zu finden und für immer zum Schweigen zu bringen."&lt;BR&gt;&lt;BR&gt;Anscheinend ist mein Bruder nicht freiwillig abwesend, sondern in Gefahr. Folgt mir zurück zur Turmbasis, &lt;PCNAME&gt;. Adria muss davon erfahren.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">Okay, Elion wurde also gefangen genommen. Zumindest wissen wir, dass er entkommen konnte.&lt;BR&gt;&lt;BR&gt;Behaltet dies vorerst für Euch. Wenn Elions Fänger herausfinden, dass Ihr nach ihm sucht, könntet Ihr in großer Gefahr schweben. Wir werden uns eine Geschichte zur Täuschung ausdenken, die glaubhaft klingt.</Page>
+    </Text>
+</QuestDialog>

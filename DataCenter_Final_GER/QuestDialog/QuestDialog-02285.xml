@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Uns geht die Nahrung aus, und zwar schon sehr bald. {@LinkCreature:63#3003#Elthienne} möchte, dass sofort jemand zum {@Rgn:7001#Himmelshügel} geht und uns einige Rationen besorgt.&lt;BR&gt;&lt;BR&gt;Sagt ihr, dass Ihr verfügbar seid, denn das seid Ihr doch, oder? Seht mich nur an, ich zittere schon!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, hat Taratia Euch gesagt, dass Ihr für uns am {@Rgn:7001#Himmelshügel} ganz altmodisch auf die Jagd gehen sollt? Und, werdet Ihr das tun?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Juchhu! {@LinkCreature:63#3003#Elthienne} wird so froh sein, dass Ihr zurück seid. Wir sind schon fast verhungert.&lt;BR&gt;&lt;BR&gt;Man sollte nicht glauben, dass das in einer großen Stadt möglich ist, was?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt die {@LinkCreature:7#1$$Nagasöldner} am {@Rgn:7001#Himmelshügel} und bringt mir etwas frisches Fleisch.&lt;BR&gt;&lt;BR&gt;Geht! Schnell! Ich habe noch nie zuvor so großen Hunger gehabt. Ihr könnt Euch gar nicht vorstellen, wie gierig die Leute hier geworden sind. Geteilt wird in Velika nichts mehr, die Zeiten sind vorbei.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Danke, &lt;PCNAME&gt;. Es ist doch frisch, oder? Es riecht zumindest gut.&lt;BR&gt;&lt;BR&gt;Informiert {@LinkCreature:63#3003#Elthienne}, dass Ihr zurück seid. Vermutlich kann sie Euch nicht sehen. Verzeiht meinen Sarkasmus.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt {@LinkCreature:7#3#Faule Kumas} am {@Rgn:7001#Himmelshügel} und bringt mir etwas leckeren Kumasspeck.&lt;BR&gt;&lt;BR&gt;Der schmeckt wirklich sehr lecker. Hey! In der Not frisst der Teufel Fliegen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Ich kann es gar nicht abwarten, hieraus etwas Leckeres zu zaubern. Danke, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} gibt Euch Euren Lohn.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt {@LinkCreature:7#4#Benommene Kumas} am {@Rgn:7001#Himmelshügel} und bringt mir Kumasspeck.&lt;BR&gt;&lt;BR&gt;Wenn wir nicht solchen Hunger hätten, könnten wir daraus auch Lippenstift machen. Man müsste ihn natürlich färben, wenn man seine Lippen damit verschönern möchte. Aber darüber mag ich jetzt gar nicht nachdenken.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Danke, &lt;PCNAME&gt;. Der ist frisch und ganz wunderbar. Möchtet Ihr mitessen?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} wird nur zu gern auch für Euch ein Gedeck auf den Tisch legen.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt {@LinkCreature:7#23$$Molochsöldner} am {@Rgn:7001#Himmelshügel} und bringt mir etwas Fleisch. Es ist zwar zäh, aber daraus kann man gutes Dörrfleisch herstellen.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Den Göttern sei für Euch gedankt, &lt;PCNAME&gt;. Wir werden einen weiteren Tag überleben.</Page>
+    </Text>
+</QuestDialog>

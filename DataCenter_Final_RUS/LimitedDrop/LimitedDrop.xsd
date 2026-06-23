@@ -1,0 +1,23 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/LimitedDrop" targetNamespace="https://vezel.dev/novadrop/dc/LimitedDrop" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
+    <xsd:complexType name="LimitedDrop">
+        <xsd:sequence>
+            <xsd:element name="DropGauge" type="LimitedDrop_DropGauge" maxOccurs="unbounded" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="LimitedDrop_DropGauge">
+        <xsd:sequence>
+            <xsd:element name="HuntingZones" type="LimitedDrop_DropGauge_HuntingZones" />
+        </xsd:sequence>
+        <xsd:attribute name="endLevel" type="xsd:int" use="required" />
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="LimitedDrop_DropGauge_HuntingZones">
+        <xsd:sequence>
+            <xsd:element name="HuntingZone" type="LimitedDrop_DropGauge_HuntingZones_HuntingZone" maxOccurs="unbounded" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="LimitedDrop_DropGauge_HuntingZones_HuntingZone">
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:element name="LimitedDrop" type="LimitedDrop" />
+</xsd:schema>

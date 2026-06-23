@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">In Ordnung. Ihr habt Alkahest, eine verzauberbare Waffe und ein paar Waffen, die Ihr opfern könnt.&lt;BR&gt;&lt;BR&gt;Fangen wir an.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Beim Verzaubern nimmt man gute Ausrüstung und macht sie noch besser, doch dies funktioniert nur bei Gegenständen mit einem verzauberbaren Attribut.&lt;BR&gt;&lt;BR&gt;Es gibt drei Kraftordnungen, zu denen Ihr Ausrüstung verzaubern könnt, konzentriert Euch aber vorerst nur auf die erste Ordnung, bis Ihr selbst kräftiger seid.&lt;NEXTPAGEBUTTON&gt;"Verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Wenn Ihr einen Gegenstand verzaubert, müsst Ihr dazu einen Gegenstand des gleichen Typs und der gleichen Ordnung aufbrauchen. Ich habe Euch eine seltene Waffe der 5. Ordnung sowie zwei normale und zwei ungewöhnliche Waffen gegeben.&lt;BR&gt;&lt;BR&gt;Öffnet zunächst das Menü "Verzaubern", indem Ihr die Taste "T" drückt. Klickt mit der rechten Maustaste auf den Gegenstand, den Ihr verzaubern möchtet, Euren Verbrauchsgegenstand und das Alkahest und klickt anschließend auf "Verzaubern".&lt;BR&gt;&lt;BR&gt;Denkt aber daran, dass es zunehmend schwieriger wird, je mehr Ihr verzaubert. Vielleicht werdet Ihr Fehlschläge erleiden, versucht es aber weiter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Habt Ihr es? Gut.&lt;BR&gt;&lt;BR&gt;Verzaubern wird schwieriger, wenn Ihr Eurer Ausrüstung Kraft verleiht, die Verwendung von Ausrüstung mit besserer Qualität führt jedoch auch zu besseren Ergebnissen. Versucht Eure Waffe jetzt noch einmal mit dieser ungewöhnlichen Waffe zu verzaubern.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1605">
+        <Page social="0">Ihr habt es geschafft! Ausgezeichnete Arbeit.&lt;BR&gt;&lt;BR&gt;Ihr müsst Eure Gegenstände nicht kostspielig bis zu ihrem maximalen Potenzial verzaubern, doch eines Tages werdet Ihr das nützlich finden.&lt;BR&gt;&lt;BR&gt;Ihr seid {@gender:ein gelehriger Schüler/eine gelehrige Schülerin}, &lt;PCNAME&gt;. Ich hoffe, das war hilfreich.</Page>
+    </Text>
+</QuestDialog>

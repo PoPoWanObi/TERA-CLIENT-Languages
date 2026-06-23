@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">Ich wurde zur Erkundung in den östlichen Durchgang geschickt, aber ich bin nicht weit gekommen und wäre um ein Haar in die Arme der {@LinkCreature:11#3006#Rotpeitschenberserker} gelaufen.&lt;BR&gt;&lt;BR&gt;Ich kann mich nicht an ihnen vorbeischleichen und sie auch nicht töten. Ich sitze fest.&lt;BR&gt;&lt;BR&gt;Könnt Ihr den Weg freimachen und sie eine Weile ablenken, damit ich weiter erkunden kann? Ich hasse es, mit leeren Händen zur Basis zurückzukehren.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">Was für ein Blutbad, &lt;PCNAME&gt;. Ich gehe runter, sobald das Blut nicht mehr rinnt.</Page>
+    </Text>
+</QuestDialog>

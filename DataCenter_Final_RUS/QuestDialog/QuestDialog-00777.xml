@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1016">
+        <Page social="12">Во время вторжения легион Тулсы полностью опустошил эту долину. Немногочисленные выжившие рассказывают о {@LinkCreature:27#16#Калапане}, командире одного из легионов.&lt;BR&gt;&lt;BR&gt;Я хочу, чтобы смерть Калапаны была особенно жестокой. Противник должен быть сбит с толку и деморализован. Это повысит наши шансы на прорыв.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1016">
+        <Page social="5">Надеюсь, она умерла в муках? Замечательно.&lt;BR&gt;&lt;BR&gt;Не стоит недооценивать своих врагов, &lt;PCNAME&gt;, и нужно уважать тех, кто достоин уважения. Однако, убийство гражданского населения не заслуживает уважения и тем более достойной смерти. Продолжай в том же духе.</Page>
+    </Text>
+</QuestDialog>

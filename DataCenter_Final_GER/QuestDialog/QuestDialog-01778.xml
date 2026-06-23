@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Eine Kapuze? Solche stelle ich nicht mehr her. &lt;BR&gt;&lt;BR&gt; Luriafasern und Sonnenessenz sind leicht zu kriegen, aber Innenlidleder? Das findet Ihr dieser Tage nicht einmal im Museum. &lt;NEXTPAGEBUTTON&gt;"Zufällig habe ich welches."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Ah! Ihr habt es bereits?&lt;BR&gt;&lt;BR&gt;Dann schnell! Stellen wir eine Kapuze für Euch her! Welche eigens für Euch kreierte Farbe hättet Ihr gern?&lt;NEXTPAGEBUTTON&gt;"Nun..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Seht: Innenlidleder könnt Ihr nur aus den Augenlidern von speziellen Rassen der Dracolothen bekommen. Diese existieren leider nicht mehr. &lt;BR&gt;&lt;BR&gt;Sie wurden biis zur Ausrottung wegen ihrer Augenlider gejagt, eigentlich wegen aller Dinge...</Page>
+    </Text>
+</QuestDialog>

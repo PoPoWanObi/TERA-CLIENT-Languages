@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Nous devons adresser un message fort à l'ennemi.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:12#7#cogneurs gulas}, les {@LinkCreature:12#8#tueurs du Fouet rouge} et {@LinkCreature:12#9#bouchers du Fouet rouge}, ainsi que les {@LinkCreature:12#11#kamaras des îles}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, présentez votre rapport à Munam, au Camp de base des Défenseurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1001">
+        <Page social="4">Continuez comme ça, &lt;PCCLASS:lcase&gt;. Pour la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1001">
+        <Page social="0">Vous n'avez pas tué suffisamment d'ennemis pour atteindre les objectifs définis par les ordres de mission.</Page>
+    </Text>
+</QuestDialog>

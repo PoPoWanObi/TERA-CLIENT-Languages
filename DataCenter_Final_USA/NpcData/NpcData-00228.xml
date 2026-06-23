@@ -1,0 +1,36 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="463" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1501" scale="0.625" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="5001" scale="1.2" shapeId="300281" gender="male" race="SikandariEliteSoldier" resourceSize="100" resourceType="medium" size="medium" parentId="30028100" basicActionId="3002800" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="51" maxHp="14393" />
+    </Template>
+    <Template id="5002" scale="0.8" shapeId="301160" gender="male" race="SikandariBlindGuardian" resourceSize="100" resourceType="medium" size="medium" parentId="30116000" basicActionId="3011600" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+        <Stat level="51" maxHp="14393" />
+    </Template>
+    <Template id="5003" scale="1.2" shapeId="300290" gender="male" race="SikandariOracle" resourceSize="100" resourceType="medium" size="medium" parentId="30029000" basicActionId="3002900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="51" maxHp="22847" />
+    </Template>
+    <Template id="5004" scale="1.2" shapeId="300291" gender="male" race="SikandariOracle" resourceSize="100" resourceType="medium" size="medium" parentId="30029100" basicActionId="3002900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="51" maxHp="22847" />
+    </Template>
+    <Template id="5005" scale="1" shapeId="300662" gender="male" race="DestroyerOfFire" resourceSize="100" resourceType="large" size="large" parentId="30066001" basicActionId="3006600" elite="true" isFreeNamed="false" showAggroTarget="true" showShorttermTarget="true">
+        <NamePlate nameplateHeight="130" deathNameplateHeight="0" />
+        <Stat level="52" maxHp="47992" />
+    </Template>
+    <Template id="5006" scale="1" shapeId="611230" size="medium" parentId="60070000" basicActionId="6007000" deathShapeId="611231" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="52" maxHp="61320" />
+    </Template>
+    <Template id="5007" scale="1.2" shapeId="300292" gender="male" race="SikandariOracle" resourceSize="100" resourceType="medium" size="medium" parentId="30029100" basicActionId="3002900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="52" maxHp="12754" />
+    </Template>
+    <Template id="5008" scale="1.2" shapeId="300281" gender="male" race="SikandariEliteSoldier" resourceSize="100" resourceType="medium" size="medium" parentId="30028100" basicActionId="3002800" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" spawnScriptId="164350011">
+        <Stat level="51" maxHp="14393" />
+    </Template>
+</NpcData>

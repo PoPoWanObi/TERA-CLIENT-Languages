@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3023">
+        <Page social="1">Ты из тех, кто стремится на залитую солнечным светом вершину. У Храма Балдера есть еще одно испытание для тебя.&lt;BR&gt;&lt;BR&gt;Твое следующее испытание - сражение с {@LinkCreature:425#4000#Григом}, воплощением Молнии Красного Пламени. После чего тебе предстоит доказать свои силы и сразиться с {@LinkCreature:425#5000#Големом-инициатором}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">Залитая солнечным светом вершина склоняется пред тобой, но впереди еще есть испытания.</Page>
+    </Text>
+</QuestDialog>

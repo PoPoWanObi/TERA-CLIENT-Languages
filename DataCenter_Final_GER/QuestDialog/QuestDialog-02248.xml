@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Mit der Valsekyrjagd]&lt;BR&gt;&lt;BR&gt;Auf der Suche nach neuen Herausforderungen? Ihr seid herzlich eingeladen, Euch im aufregenden {@Rgn:76001$$Kanstria} der Valsekyrjagd anzuschließen.&lt;BR&gt;&lt;BR&gt;Sobald Ihr dort eintrefft, sprecht mit {@LinkCreature:76#3001#Keinbara}, um an einem aufregenden Argonenjagdabenteuer teilzunehmen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">Es ist mir ein Vergnügen, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Euer Ruf wird hier ja langsam legendär. Akasha? Thulsa? Kelsaik? Alle Achtung.&lt;BR&gt;&lt;BR&gt;Einen Gott habe ich zwar noch nicht erlegt, aber die Jagd auf dieses argonische Wild gehört zum Schwierigsten, das man sich vorstellen kann. Wir unterstützen unsere Truppen, verbessern die Moral und mehren unseren Ruhm. Klingt das nach einem interessanten Zeitvertreib für Euch?</Page>
+    </Text>
+</QuestDialog>

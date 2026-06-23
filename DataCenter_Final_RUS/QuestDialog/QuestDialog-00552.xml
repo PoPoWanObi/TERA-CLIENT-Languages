@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">Гиены продолжают... создавать неудобства. Но я знаю, что ты у нас можешь справиться с любой задачей, не так ли?&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:18#111#Грязных гиен} и {@LinkCreature:18#112#Алчных гиен}. Я помню, что в прошлый раз мне нужны были их сердца, но давай сейчас ограничимся зубами, просто чтобы можно было подсчитать количество.&lt;BR&gt;&lt;BR&gt;Но зубы мне не неси! Боги, нет! Отдай их Тириан в Лагерь "Марракин", и посмотрим, как ей это понравится.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1004">
+        <Page social="4">Так... зубы. Зубы гиен. Это была идея Карделена, верно? Ладно, считаем.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1004">
+        <Page social="0">Твои руки в крови, но пусты. Проваливай!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="1">Ihr müsst wahrlich von der Sonne auserwählt sein.&lt;BR&gt;&lt;BR&gt;Die größten Geheimnisse des Tempels werden in alten Urnen gegen das Licht geschützt. Befreit den Dimensionsspiegel aus einem der Krüge und stellt Euch anschließend {@LinkCreature:425#8005}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10004">
+        <Page social="1">Die Sonne selbst hat Euch auserwählt.&lt;BR&gt;&lt;BR&gt;Der Gott Balder hat {@LinkCreature:425#8005} als Schutz gegen jeden Unwürdigen aufgestellt, der nach der letzten Segnung des Tempels sucht.&lt;BR&gt;&lt;BR&gt;Balder zollt Eurem Mut jedoch mit einem unvergleichlichen Geschenk seinen Tribut.&lt;BR&gt;&lt;BR&gt;Mögen die Titanen Arun und Shara Euch für immer in ihrem Traum behalten.</Page>
+    </Text>
+</QuestDialog>

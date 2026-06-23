@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="4">Бывший префект гарнизона сам стал жертвой чумы. Теперь он командует армией мутантов, жаждущих нашей крови.&lt;BR&gt;&lt;BR&gt;Прошу, позаботься об этом, &lt;PCNAME&gt;. Пока жив {@LinkCreature:40#40#Экторос}, мы обречены на смерть.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="4">Пусть Кайа ниспошлет ему упокоение.</Page>
+    </Text>
+</QuestDialog>

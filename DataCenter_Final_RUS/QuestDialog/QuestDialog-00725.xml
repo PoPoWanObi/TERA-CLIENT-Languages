@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">Одержимые Локом и их {@LinkCreature:25#1031#Ужасные рыцари} крушат все на пути к собору, и поэтому мы не можем послать туда подкрепление. Если бы не они, я бы последовал за Эллеоном. Разберись с ними, пожалуйста.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">Так быстро? Невероятно!</Page>
+    </Text>
+</QuestDialog>

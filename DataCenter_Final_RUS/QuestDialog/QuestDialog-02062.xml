@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">Вообще-то нам нужен уборщик, но я думаю, что ты тоже подойдешь.&lt;BR&gt;&lt;BR&gt;Мы здесь занимаемся потрясающей работой, оно один из ее побочных продуктов - потрясающий беспорядок. В этом месте нужно убираться каждый день.&lt;BR&gt;&lt;BR&gt;Да, это намек. Ты быстро схватываешь, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1702">
+        <Page social="4">Я впечатлен. Многие так называемые герои считают, что они слишком хороши для такой работы.&lt;BR&gt;&lt;BR&gt;Надеюсь увидеть тебя завтра.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1702">
+        <Page social="0">Я не могу думать, когда здесь такой бардак. Приступай к уборке!</Page>
+    </Text>
+</QuestDialog>

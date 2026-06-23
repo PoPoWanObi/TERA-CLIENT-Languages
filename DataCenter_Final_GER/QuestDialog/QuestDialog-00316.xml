@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Gut, lasst uns sehen, was wir für Euch haben.&lt;BR&gt;&lt;BR&gt;Sieht aus wie {@LinkCreature:9#100#Goldbraune Säbelzähne}, {@LinkCreature:9#200#Mugato} und {@LinkCreature:9#310#Alphacrocuta} drüben beim Labyrinth.&lt;BR&gt;&lt;BR&gt;Erledigt sie und meldet Euch bei Noleta, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1006">
+        <Page social="4">Wir haben alle eine Aufgabe zu erfüllen, wenn wir die Gula besiegen wollen und die Bestien davon abzuhalten, unsere Soldaten abzuschlachten, ist meiner Ansicht nach ein "Sieg".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1006">
+        <Page social="0">Weiter so!</Page>
+    </Text>
+</QuestDialog>

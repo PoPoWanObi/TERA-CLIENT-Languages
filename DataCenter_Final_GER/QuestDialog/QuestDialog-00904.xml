@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1010">
+        <Page social="5">Die Tertasamen sind aufgegangen. Pflanzt sie ein, sie werden rasch wachsen. Bitte bringt diese Samen zu {@LinkCreature:229#1019#Karsonak}. Er hält sich südlich des Lagers auf und erforscht Arachnenmutationen. Die Tertas werden ihm bei seinen Studien helfen. Ich muss weitere Samen zum Keimen bringen, aber wenigstes sind diese hier bereit.&lt;BR&gt;&lt;BR&gt;Bringt sie zu Karsonak und sagt ihm, er soll vorsichtig sein!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1019">
+        <Page social="5">Bei Oriyns Fackel, diese Samen werden sehr hilfreich sein! Ich werde sie sofort einpflanzen.&lt;BR&gt;&lt;BR&gt;Da dieses Gebiet derart aus dem Gleichgewicht geraten ist, widerstrebt es mir, meine Forschungsobjekte zu vernichten. Ich betäube sie lieber und lasse sie einige Stunden später wieder aufwachen.&lt;BR&gt;&lt;BR&gt;Was immer die Ursache ist, so können wir daraus noch etwas lernen. Wir sollten mit offenem Geist fortfahren.</Page>
+    </Text>
+</QuestDialog>

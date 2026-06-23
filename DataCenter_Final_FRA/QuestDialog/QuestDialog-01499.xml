@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1004">
+        <Page social="4">(Cet autel ne date apparemment pas d'hier.)&lt;BR&gt;&lt;BR&gt;(Vous distinguez les lignes d'un arbre et un symbole qui ne vous évoque rien.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1002">
+        <Page social="6">Nous avons résisté au temps, aux éléments, aux mortels, et maintenant, nous devons faire face à ces abominations. Elles nous font souffrir et cherchent à nous corrompre. Merci de votre protection.&lt;BR&gt;&lt;BR&gt;Si vous possédez des éclats d'Iteris, utilisez-les à proximité de l'{@Rgn:49005}.&lt;BR&gt;&lt;BR&gt;Vous ne serez pas {@gender:déçu/déçue}!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1002">
+        <Page social="6">Désormais, un lien indéfectible vous unit à l'arbre casian.&lt;BR&gt;&lt;BR&gt;Grâce aux pouvoirs de l'éclat, notre force deviendra la vôtre chaque fois que vous passerez dans les parages.&lt;BR&gt;&lt;BR&gt;Au revoir... et bonne chance. Puissiez-vous triompher du cauchemar bleu.</Page>
+    </Text>
+</QuestDialog>

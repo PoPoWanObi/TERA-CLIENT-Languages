@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez aidé les chercheurs du Mysterium à découvrir comment les descendants de Lok contrôlaient les kumas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Nous avons besoin de renforts dans les Collines célestes. Tous les soldats en attente d'une affectation sont priés d'aller se présenter au Capitaine Daven, à Boquillon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">Ah, &lt;PCNAME&gt;!&amp;nbsp; C'est justement vous que je cherchais.&lt;BR&gt;&lt;BR&gt;J'ai reçu des nouvelles alarmantes en provenance des Collines célestes à propos des nagas et des kumas. Je vous demande d'aller vous en occuper en personne.&lt;BR&gt;&lt;BR&gt;Rendez-vous à la Ferme de Godric et parlez à {@LinkCreature:207#1005#Heroth}. Il vous en dira plus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1005">
+        <Page social="4">Vous voyez ces baetylithes là-bas avec les marques bleues?&amp;nbsp; Les kumas sont irrémédiablement attirés par eux... tout comme les chercheurs dont je m'occupe, apparemment. Certains d'entre eux sont partis, et je ne peux pas aller les chercher tant que les kumas sont là. Trouvez Radat, leur chef, et éliminez-le.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1005">
+        <Page social="4">Eh bien, on peut compter sur vous. La plupart des soldats paniquent la première fois qu'ils doivent affronter un kuma, mais vous avez l'air de bien vous débrouiller. Bon travail.&lt;BR&gt;&lt;BR&gt;Certains chercheurs ont fini par revenir de leur campement au sud-est d'ici, mais {@LinkCreature:207#1009#Siria} est encore en vadrouille. Une sacrée têtue, celle-là!&amp;nbsp; Vous pensez que vous pourriez aller la chercher?&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1009">
+        <Page social="4">Oh, Heroth s'inquiétait?&amp;nbsp; Comme c'est mignon... enfin, si j'étais une jeune fille en détresse. Mais je suis en mission, exactement comme lui.&lt;BR&gt;&lt;BR&gt;Vous voulez donner un coup de main?&amp;nbsp; Très bien.&lt;BR&gt;&lt;BR&gt;Les kumas sont obsédés par les marques sur les baetylithes, qui sont dans la langue originelle de la magie. Ca a un rapport avec les dieux.&lt;BR&gt;&lt;BR&gt;Les nagas travaillent pour les kumas. J'aimerais pouvoir jeter un œil à l'amulette que porte l'un de ces kumas nommé {@LinkCreature:7#2000#Kadas}. Ca nous aidera peut-être.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="1009">
+        <Page social="4">Waouh, vous avez réussi!&amp;nbsp; Formidable!&amp;nbsp; Maintenant, il me faut quelque chose d'autre pour pouvoir établir une comparaison.&lt;BR&gt;&lt;BR&gt;Pourquoi vous me regardez comme ça?&amp;nbsp; Vous avez accepté de m'aider, non?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Si vous jetez un coup d'œil aux &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#55019,9993,1935&amp;type=1&amp;name=baetylithes"&gt;baetylithes&lt;/A&gt;&lt;/font&gt; éparpillés dans les environs, vous devriez trouver des éclats. Rapportez-les-moi. Facile, non?&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="1009">
+        <Page social="0">Mais enfin!&amp;nbsp; Un kuma, un seul!&amp;nbsp; Vous en avez déjà tué tellement. Tout ce que je vous demande, c'est d'en éliminer un de plus et de me rapporter son amulette. S'il vous plaît, faites vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="7" villagerId="1009">
+        <Page social="4">Voyons voir.&lt;BR&gt;&lt;BR&gt;C'est bien ce que je pensais, ces éclats renferment le même pouvoir que l'amulette, en un peu moins concentré.&lt;BR&gt;&lt;BR&gt;A mon avis, l'amulette stocke le pouvoir des baetylithes.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1009">
+        <Page social="0">Non, vous devez me rapporter des éclats de baetylithes que je puisse comparer à l'amulette. Sans vérifications, une hypothèse ne mène à rien!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1009">
+        <Page social="4">Quelques baetylithes semblent détenir l'essentiel du pouvoir. Il est facile de les distinguer&amp;nbsp;: leur énergie provoque des étincelles. Je me demande si c'est là que les kumas stockent le pouvoir qu'ils ont pris aux autres.&lt;BR&gt;&lt;BR&gt;Vous voulez bien mener l'enquête?&amp;nbsp; Si les {@LinkObject:45#baetylithes} sont importants, quelqu'un ou quelque chose essaiera de vous mettre des bâtons dans les roues.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1009">
+        <Page social="4">Des farfadets, hein?&amp;nbsp; Ils travaillent pour n'importe qui. Dans ce cas, j'imagine qu'il s'agit des kumas.&lt;BR&gt;&lt;BR&gt;Ça veut dire que quoi qu'ils récupèrent des baetylithes, ils ne veulent pas le partager.&lt;BR&gt;&lt;BR&gt;Apportez mon rapport à Mattin au Sanctum Mysterium, au sud d'ici. Moi, je retourne à la Ferme de Godric rappeler à Heroth qu'il n'est pas ma nounou.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="207" prevId="12" villagerId="1001">
+        <Page social="4">Un rapport de Siria?&amp;nbsp; Faites-moi voir...&lt;BR&gt;&lt;BR&gt;On dirait qu'elle a cerné le problème des kumas. Merci de m'avoir apporté ceci.</Page>
+    </Text>
+</QuestDialog>

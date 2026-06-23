@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1006">
+        <Page social="5">Je connais une personne qui pourrait nous aider à identifier le pouvoir détournant le cours de la vie au bassin. Cherchez {@LinkCreature:226#1012#Vardin} et faites-lui part de nos découvertes concernant les cœurs. Il est du genre difficile à convaincre, alors vous devriez tuer quelques {@LinkCreature:26#2006#mycanars corrompus}, afin de lui donner de quoi faire des recoupements.&lt;BR&gt;&lt;BR&gt;Faites vite. Nous devons protéger l'équilibre de l'écosystème!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1012">
+        <Page social="5">Votre histoire parait totalement invraisemblable, mais devant les échantillons, je dois me rendre à l'évidence.&lt;BR&gt;&lt;BR&gt;Les reliques pourraient-elles être à l'origine de cette magie?&amp;nbsp; Difficile à dire. Nombre de légendes relatives à la Fontaine de Shara en elle-même lui prêtent d'immenses pouvoirs. En ce qui me concerne, je pencherais pour la fontaine avant de penser aux reliques.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1012">
+        <Page social="0">Votre histoire est des plus curieuses, mais sans échantillons à examiner, je n'y vois rien d'autre que des racontars de piliers de taverne.</Page>
+    </Text>
+</QuestDialog>

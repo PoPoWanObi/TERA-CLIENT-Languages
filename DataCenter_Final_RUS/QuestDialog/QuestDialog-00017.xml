@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="4">Приветики, &lt;PCNAME&gt;... Не хочешь по-легкому деньжат поднять?&lt;BR&gt;&lt;BR&gt;В прямом смысле - поднять с земли, из которой они растут. Это будет выгодно нам обоим, я права?&lt;BR&gt;&lt;BR&gt;Хемминг из Долины Фейвайн готов неплохо раскошелиться за несколько &lt;font color='#660000'&gt;дымчатых грибов&lt;/font&gt;. Я, знаешь ли, миколог, так что по всем вопросам касаемо грибов, это ко мне. Вот только повсюду в долине шныряют гномы - к грибам не подобраться!&lt;NEXTPAGEBUTTON&gt;"Им недолго осталось шнырять!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Обожаю такой подход! В общем, набери грибов, и отнеси их Хеммингу с моими наилучшими пожеланиями.&lt;BR&gt;&lt;BR&gt;А все деньги забери себе. Так я не потеряю Хемминга, как своего постоянного клиента, а ты получишь награду "за вредность".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1007">
+        <Page social="4">Гномы в долине? Ох-хо-хо, выходит, все куда хуже, чем я думал!&lt;BR&gt;&lt;BR&gt;Но я рад, что Хайлас все так же предана своему делу. Эти грибы великолепны!&lt;BR&gt;&lt;BR&gt;Вот деньги - все как обычно. Спасибо тебе... и Хайлас, конечно же!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1007">
+        <Page social="0">&lt;font color='#660000'&gt;Дымчатые грибы&lt;/font&gt; из Долины Фейвайн - исключительный деликатес. Жить без них не могу!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="4">Ich muss Euch um einen Gefallen bitten. Wir haben den Auftrag, die Schwarzklauenorkaner zu beobachten, aber die {@LinkCreature:41#1003#Zobelsäbelzähne} und {@LinkCreature:41#1002#Noralkkamaras} überrennen uns.&lt;BR&gt;&lt;BR&gt;Sie in Schach zu halten, lässt uns kaum Zeit, ganz zu schweigen von all den Verletzungen. Würdet Ihr mit uns auf die Jagd gehen, solange Ihr hier seid? {@LinkCreature:241#1003$$Jaebel} wird Euch dafür entlohnen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">Ihr habt uns sehr geholfen. Ich möchte Euch diese Marke als Zeichen unserer Dankbarkeit geben.</Page>
+    </Text>
+</QuestDialog>

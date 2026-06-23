@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Вы отвлекли орканов и справились с василисками - секретным оружием Рато. После того, как вы преодолели сопротивление орканов вокруг Пора-Элину, вы доставили свои находки Арин.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Тропа за нами - единственный путь в Пора-Элину. Да, я знаю, там жарковато. У нас есть выбор? Давай, используй свои модные клинки, чтобы добраться до Пора-Элину. Пробейся сквозь лагерь орканов, найди Принцессу Арин и выясни, чем ты можешь ей помочь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1023">
+        <Page social="4">Привет! Твоя дорога сюда была долгой и полной опасностей.&lt;BR&gt;&lt;BR&gt;Судя по твоему донесению, главная цель - орканский капитан. Я соберу совет.&lt;BR&gt;&lt;BR&gt;Тем временем, ты можешь помочь Мейлин. Она наш единственный хирург, а раненых так много, что она не справляется.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1013">
+        <Page social="4">У тебя вроде нет серьезных ранений. Что тебе надо?&lt;BR&gt;&lt;BR&gt;А, Арин тебя прислала? Хорошо, мне пригодится помощь. В данный момент Пора-Элину превратился во временный госпиталь для раненых. Слишком много наших было ранено или убито. Мне очень грустно.&lt;BR&gt;&lt;BR&gt;У меня полно работы с ранеными. Можешь собрать для меня несколько трупных цветков?&lt;BR&gt;&lt;BR&gt;Знаю, знаю, называются они страшновато. Но это отличное лекарство для пациентов, которые потеряли много крови.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1013">
+        <Page social="4">Спасибо. Это поможет остановить кровотечение и снять боль, хотя бы на время.&lt;BR&gt;&lt;BR&gt;Мне пока достаточно. Принцесса Арин ждет тебя снаружи.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1013">
+        <Page social="0">Что, ты не можешь их найти? Да эти трупные цветки тут повсюду! Я их даже отсюда вижу!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="5" villagerId="1023">
+        <Page social="4">&lt;PCNAME&gt;, приветствую! У нас может быть кое-какая информация об этом Рато.&lt;BR&gt;&lt;BR&gt;Поговори с капитаном стражи Коро, он все расскажет. Он ждет тебя на другом конце галереи.&lt;BR&gt;&lt;BR&gt;И пожалуйста, отнеси ему эти припасы. Он их давно ждет.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1010">
+        <Page social="5">Ого! Ценные припасы! Спасибо!&lt;BR&gt;&lt;BR&gt;Слушай, оставь себе эти сапоги. Они тебе пригодятся.</Page>
+    </Text>
+</QuestDialog>

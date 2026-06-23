@@ -1,0 +1,34 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="359" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1001" scale="1" shapeId="510320" gender="female" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" unionId="1" despawnScriptId="0" basicActionId="5001400" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1002" scale="1" shapeId="510320" gender="female" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5001400" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1101" scale="1" shapeId="510440" gender="male" race="Popori" resourceSize="100" resourceType="medium" class="" size="medium" unionId="1" despawnScriptId="0" basicActionId="5002600" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1102" scale="1" shapeId="510440" gender="male" race="Popori" resourceSize="100" resourceType="medium" class="" size="medium" unionId="1" despawnScriptId="0" basicActionId="5002600" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1201" scale="1" shapeId="510640" gender="male" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" unionId="1" despawnScriptId="0" basicActionId="5001300" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1202" scale="1" shapeId="510640" gender="male" race="Highelf" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5001300" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1301" scale="1" shapeId="530020" gender="male" race="Human" resourceSize="100" resourceType="medium" class="" size="medium" unionId="1" despawnScriptId="0" basicActionId="5000800" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+    <Template id="1302" scale="1" shapeId="530020" gender="male" race="Human" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="5000800" collideOnMove="false" dontTurn="false" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+</NpcData>

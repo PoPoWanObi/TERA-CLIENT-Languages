@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="0">Ihr habt den Beweis für die Kontrolle der Erzdevaner gefunden, doch Cromagh hat ihn kaputt gemacht. Um das zerbrochene Gerät wieder zusammenzusetzen, habt Ihr die mächtigste Schamanin der Parthianer aufgesucht.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="1">Nicht jeder Erzdevaner besitzt einen dieser Talismane - nur diejenigen, die dunkle Magie beherrschen können. Priester, vermutlich. Jeder von ihnen trägt einen Anhänger, der die Talismane kontrolliert.&lt;NEXTPAGEBUTTON&gt;"Seid Ihr sicher, dass es die Priester sind?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Es gibt einen einfachen Weg, um das herauszufinden. Begebt Euch ins Ausbildungslager und tötet jeden Priester der Erzdevaner, den Ihr finden könnt. Wenn einer von ihnen einen Anhänger bei sich hat, hat Cromagh recht!&lt;NEXTPAGEBUTTON&gt;"Warum bin ich nur nicht selbst darauf gekommen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ihr seid vermutlich nicht so clever wie Cromagh der Clevere.&lt;NEXTPAGEBUTTON&gt;"Genau. Wo finde ich die Priester?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ihr habt Glück! Sie sind alle im hinteren Teil des Lagers, hinter zwanzig oder mehr Parthianern - ein ordentlicher Kampf ist Euch garantiert!&lt;NEXTPAGEBUTTON&gt;"Was will man mehr?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2015">
+        <Page social="4">Ihr lebt noch! Cromagh muss Euch unterschätzt haben.&lt;BR&gt;&lt;BR&gt;Also, habt Ihr den Anhänger?&lt;NEXTPAGEBUTTON&gt;"Hier ist er."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" villagerId="2015">
+        <Page social="0">Habt Ihr den Kontrollanhänger? Nein? Das wundert Cromagh nicht - der Kampf kann anfangs beängstigend sein. Ihr müsst es einfach wieder versuchen, bis Ihr Euren Mut findet.&lt;BR&gt;&lt;BR&gt;Und bevor Ihr fragt: Nein, Cromagh wird den Anhänger nicht für Euch holen. Ihr müsst lernen, diese Dinge selbst zu regeln!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2015">
+        <Page social="1">Solch ein kleines Ding. Was für ein seltsames Geschick, dass wir so sehr leiden wegen einer kleinen Spielerei.&lt;NEXTPAGEBUTTON&gt;"Was machen wir damit?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Einer von uns - und Cromagh meint damit Cromagh - muss es ausprobieren.&lt;NEXTPAGEBUTTON&gt;"Warum müsst Ihr es tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Das könnte die Grenzen des Ertragbaren eines Sterblichen austesten und vielleicht seinen ganzen Verstand! Cromagh hätte ein schlechtes Gewissen, wenn Ihr es ausprobiert und es Euch in etwas wirklich ... Unangenehmes verwandelte.&lt;BR&gt;&lt;BR&gt;Außerdem, Cromagh ist ein Held! Helden nehmen immer alle Risiken auf sich!&lt;NEXTPAGEBUTTON&gt;"Schön, dann nehmt das Risiko auf Euch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2015">
+        <Page social="1">Cromagh erlitt noch niemals solche Schmerzen - wie die Hitze von tausend Hautausschlägen! Es entzieht Cromagh den Lebenswillen!&lt;BR&gt;&lt;BR&gt;Mami!&lt;BR&gt;&lt;BR&gt;Hmm ... ähm. Er ... funktionierte nicht. Und jetzt sieht es so aus, als wäre er ausgebrannt. Na ja, wichtig ist, dass Cromagh diesen Test seiner unbezwingbaren Macht ertrug und unbezwingbar bleibt. Sie werden die Geschichten von Cromagh an den Lagerfeuern erzählen!&lt;NEXTPAGEBUTTON&gt;"Das war der einzige, den wir hatten, du Trottel."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Beruhigt Euch, es ist nicht alles verloren ... &lt;BR&gt;&lt;BR&gt;Cromagh hat einen neuen Plan - einen noch besseren!&lt;NEXTPAGEBUTTON&gt;"Sagt mir einfach, wo ich noch einen finden kann."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Am Ende des Pfades ist ein Außenposten, wo eine Mystikerin der Erzdevaner namens Dyona die Ausbildung der Demokronen überwacht. Wenn sie keinen anderen Anhänger besitzt, wird sie wissen, wer einen hat. Doch Ihr könnt das nicht einfach aus ihr herausprügeln; Cromagh hat es schon versucht. Aber Cromagh kennt eine andere Möglichkeit ... &lt;NEXTPAGEBUTTON&gt;"Fahrt fort."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Die Kaiserliche Armee der Erzdevaner benutzt Kuriere. Sie bringen ständig Berichte zu Dyona. Tötet einen Kurier, geht mit dem zerbrochenen Anhänger zu Dyona und sagt ihr, dass das Ausbildungslager einen neuen benötigt. Wenn sie keinen hat, wird sie Euch sagen, wo Ihr einen bekommt.&lt;NEXTPAGEBUTTON&gt;"Das ... ergibt tatsächlich Sinn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2041">
+        <Page social="1">Ah, ich verstehe. Ihr seid nur ein Kind. Gut. Wir sollten alle Parthianersklaven an die Arbeit schicken.&lt;BR&gt;&lt;BR&gt;Nun, habt Ihr eine Nachricht für mich? Oder muss ich Euch aufschneiden und in Euren Eingeweiden lesen?&lt;NEXTPAGEBUTTON&gt;"Ich bitte vielmals um Vergebung, Herrin. Ich bin neu. Hier, bitte schön."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Schneller, nächstes Mal, {@g:Sklave/Sklavin}.&lt;BR&gt;&lt;BR&gt;Was ist das für ein Unsinn? Das Ausbildungslager hat seinen Kontrollanhänger verloren? Diese unfähigen Narren! Ich habe besseres zu tun!&lt;BR&gt;&lt;BR&gt;Also gut. Bringt diese Nachricht zu Keezar, der Schamanin.&lt;BR&gt;&lt;BR&gt;Geht von hier aus nach Osten, dort werdet Ihr eine Höhle sehen. Keezar ist darin. Gebt Ihr diese Demokronessenz und sie wird Euch einen Ersatzanhänger aushändigen.&lt;NEXTPAGEBUTTON&gt;"Habt Dank. Ähm ... gepriesen sei Lakan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" villagerId="2041">
+        <Page social="0">Ihr seht nicht wie ein Parthianer aus. Eigentlich seht Ihr wie diese Fremdlinge aus! Ich werde es genießen, wie meine Arachnenzuchtmeisterinnen Euch in Stücke reißen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" prevId="7" villagerId="2032">
+        <Page social="1">Ihr seid {@g:kein Kurier/keine Kurierin}. Gewiss auch kein Erzdevaner, Parthianer oder Khirian. Ihr gehört auch nicht zu den Baraka aus Höhenwacht, richtig? Lasst mich Euch ansehen.&lt;BR&gt;&lt;BR&gt;Aha, ich verstehe ... {@g:ein Besucher/eine Besucherin} aus dem Süden ... {@g:ein Held/eine Heldin} auf einer Mission in dieses letzte Eckchen der Welt, um einem notleidenden Land den Frieden zu bringen. Die Geister flüstern mir zu von Euren Taten und von Euren Anforderungen ... &lt;BR&gt;&lt;BR&gt; ... &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Ich ... verstehe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

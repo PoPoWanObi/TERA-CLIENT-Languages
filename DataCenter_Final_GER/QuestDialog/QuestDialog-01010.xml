@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="4">Mein Mann fiel bei der Verteidigung von Acarum. Die {@LinkCreature:32#3#Sihranischen Berserker} schnitten ihm die Hände ab und ließen ihn verbluten.&lt;BR&gt;&lt;BR&gt;Der Geist meines Mannes sucht mich heim und fleht mich um Gerechtigkeit an. Doch alle im Dorf glauben, ich sei verrückt, und keiner will mir helfen.&lt;BR&gt;&lt;BR&gt;Es ist eigentlich ganz einfach: Bringt die {@LinkCreature:32#3#Sihranischen Berserker} um, schneidet ihre Hände ab und opfert sie Batuks Geist am Berg Tyrannas.&lt;BR&gt;&lt;BR&gt;Hier, diesen Sack könnt Ihr sicher gebrauchen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1006">
+        <Page social="4">(Der Pfad zum Grab ist durch die Füße der Reisenden stark ausgetreten. Ihr legt den Sack mit den Händen auf einen Platz, der schon von Blut verschmiert ist. Was geht hier vor?)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1006">
+        <Page social="0">Batuk starb am Fürchterlichen Pass.&lt;BR&gt;&lt;BR&gt;Bezwingt {@LinkCreature:32#3#Sihranische Berserker} und {@LinkCreature:32#1#Sihranische Kämpfer}, die ihn umgebracht haben, und nehmt Euch ihre Hände.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1019">
+        <Page social="4">Habt Ihr ihr etwa geglaubt? Seit Batuks Tod ist sie nicht mehr dieselbe. Sie ist eine Heimgesuchte.&lt;BR&gt;&lt;BR&gt;Ständig schickt sie Leute los, um Hände abzuhacken. Wenigstens sind es die von Sihranern ... und nicht die von anderen.&lt;BR&gt;&lt;BR&gt;Könnte das bitte unter uns bleiben? Danke.</Page>
+    </Text>
+</QuestDialog>

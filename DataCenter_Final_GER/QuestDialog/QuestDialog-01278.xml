@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="4">Warum schickten sie mich bloß hierher? Ich bin kein Soldat! Bewacht den Wachposten, sagten sie. Und tötet {@LinkCreature:40#4#Panzerferkel} und {@LinkCreature:40#3#Wütende Panzerferkel}, sagten sie noch dazu. Ich werde es sein, der hier getötet wird!&lt;BR&gt;&lt;BR&gt;Es sei denn, ich bezahle Euch dafür, sie zu töten.&lt;BR&gt;&lt;BR&gt;Mein Freund {@LinkCreature:240#1026$$Grada} hat Spielschulden bei mir. Tötet die Ferkel, und das Geld gehört Euch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">Wooron schickt Euch? Der alte Gauner betrügt beim Würfelspiel, wisst Ihr.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1026">
+        <Page social="0">Ich reiche Woorons Kohle nicht rüber, bevor Ihr nicht diese {@LinkCreature:40#4#Panzerferkel} und {@LinkCreature:40#3#Wütenden Panzerferkel} getötet habt.</Page>
+    </Text>
+</QuestDialog>

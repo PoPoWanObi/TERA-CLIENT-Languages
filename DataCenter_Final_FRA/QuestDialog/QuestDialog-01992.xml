@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="1">Si je veux découvrir les secrets du noctenium, il me faut davantage de minerai de noctenium pour mes recherches.&lt;BR&gt;&lt;BR&gt;Collectez du minerai de noctenium sur les nodules que vous trouverez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="0">Vous avez apporté de parfaits spécimens.&lt;BR&gt;Je vais immédiatement commencer à travailler dessus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Ce minerai rendra l'Ordre très puissant!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

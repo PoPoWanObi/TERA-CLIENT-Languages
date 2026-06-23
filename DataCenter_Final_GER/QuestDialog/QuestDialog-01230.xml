@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="4">Ein ... {@LinkCreature:39#270#Gnadenloser Ovolith} hat mich gebissen. Kann mich nicht bewegen ... bin noch immer vergiftet.&lt;BR&gt;&lt;BR&gt;Bitte tötet die in nächster Nähe, um mir etwas Zeit zu verschaffen!&lt;BR&gt;&lt;BR&gt;Chaman würde es mir nie verzeihen, wenn ich hier unten aufgefressen werde!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1026">
+        <Page social="4">Ich kann meine Arme und Beine wieder spüren! Ich werde schon wieder gesund.&lt;BR&gt;&lt;BR&gt;Ich muss nur noch einige Dinge erledigen ...</Page>
+    </Text>
+</QuestDialog>

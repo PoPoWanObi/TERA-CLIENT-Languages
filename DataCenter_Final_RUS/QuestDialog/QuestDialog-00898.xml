@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="4">Эти обломки когда-то были торговыми кораблями гулов. Они были под завязку забиты всякими скучными грузами, вроде провизии, древесины и пшеницы. Но мы наткнулись на судовую декларацию, в которой говорилось о грузе золотых монет. Золото!&lt;BR&gt;&lt;BR&gt;Понятно, что моряки превратились в чудовищных ходячих мертвецов, но на их месте я обязательно прихватил бы золотишка, прежде чем спасаться с корабля. Убей {@LinkCreature:31#12#Утонувших гулов-моряков} и {@LinkCreature:31#14#Боцманов} и проверь, что у них в карманах!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1044">
+        <Page social="4">Как сверкает! Я не могу отдать тебе за помощь все золото, но эта часть - твоя по праву.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1044">
+        <Page social="0">Счастливые золотые монеты! Блестящие золотые монеты! Богатые исследователи-попори!</Page>
+    </Text>
+</QuestDialog>

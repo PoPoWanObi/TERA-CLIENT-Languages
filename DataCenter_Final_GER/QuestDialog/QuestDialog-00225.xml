@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1005">
+        <Page social="5">Typisch - erst will das Mysterium militärische Unterstützung und dann ignorieren sie unsere Ratschläge. Ich habe sie gewarnt, dass die Kumas zu gefährlich sind, um sie aus der Nähe zu studieren, aber sie hören ja nicht zu.&lt;BR&gt;&lt;BR&gt;Ganz besonders Siria nicht. Sie ist ehrgeizig und tapfer, aber was nützt ihr das, wenn sie tot ist? Glaubt Ihr, Ihr könntet sie unterstützen? Ich glaube, dass Ihr bestens dafür geeignet seid.&lt;BR&gt;&lt;BR&gt;Ich habe eine Nachricht für {@LinkCreature:207#1009#Siria}. Könnt Ihr dafür sorgen, dass sie sie bekommt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1009">
+        <Page social="5">Ja, ja, ich habe Heroths Warnung ziemlich gut verstanden. Meine Forschung lässt sich nun aber nicht aus der Sicherheit eines Lagers heraus bewerkstelligen, wenn ich mir einen Namen machen will!&lt;BR&gt;&lt;BR&gt;Danke, dass Ihr diese Nachricht weitergeleitet habt. Jetzt habe ich aber zu arbeiten.</Page>
+    </Text>
+</QuestDialog>

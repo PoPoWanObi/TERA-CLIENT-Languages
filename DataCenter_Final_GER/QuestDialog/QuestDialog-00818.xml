@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">Ein {@LinkCreature:25#2091$$Eiferer Loks} hat mich neulich in den {@Rgn:25003$$Querschiffe}n aus dem Hinterhalt angegriffen. Ich entkam, aber in der Eile habe ich eine kleine Kiste verloren.&lt;BR&gt;&lt;BR&gt;Sie enthält einen Ring für mein Mädchen zu Hause. Könntet Ihr die Kiste für mich bergen? Ich bin nicht in der Verfassung, mich noch mal einem Nachkommen Loks zu stellen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">Das ist sie! Genau das ist die Kiste. Sie ist für mich wertvoller als alles andere. &lt;BR&gt;&lt;BR&gt;Ich weiß nicht, wie ich Euch das jemals zurückzahlen kann ... Habt vielen Dank!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1028">
+        <Page social="0">Bitte helft mir. Der Gegenstand bedeutet mir wirklich sehr viel.</Page>
+    </Text>
+</QuestDialog>

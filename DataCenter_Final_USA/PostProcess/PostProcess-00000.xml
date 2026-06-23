@@ -1,0 +1,17 @@
+<PostProcess xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PostProcess PostProcess.xsd" xmlns="https://vezel.dev/novadrop/dc/PostProcess">
+    <Set id="1" priority="10" material="Shocked00_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Shocked00_PPC" />
+    <Set id="2" priority="10" material="S1_Darkness_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Darkness_PPC" />
+    <Set id="3" priority="10" material="S1_Brightness_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Brightness_PPC" />
+    <Set id="4" priority="10" material="S1_RadialBlur_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_RadialBlur_PPC" />
+    <Set id="5" priority="10" material="S1_SlowMotion_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_SlowMotion_PPC" />
+    <Set id="6" priority="10" material="S1_Crisis_PPMI" bAlwaysRender="true" chain="PostProcess_localize.PPC.S1_Crisis_PPC" />
+    <Set id="7" priority="10" material="S1_Vomitizer_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Vomitizer_PPC" />
+    <Set id="8" priority="10" material="S1_Virus_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Virus_PPC" />
+    <Set id="9" priority="10" material="S1_Dash_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Dash_PPC" />
+    <Set id="10" priority="10" material="S1_Frost_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_Frost_PPC" />
+    <Set id="11" priority="10" material="S1_DarkHole_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_DarkHole_PPC" />
+    <Set id="12" priority="11" material="S1_ShadowOfNight_PPMI" bAlwaysRender="true" chain="PostProcess.PPC.S1_ShadowOfNight_PPC" />
+    <Set id="13" priority="10" material="S1_Radial_PPMI" bAlwaysRender="false" chain="PostProcess.PPC.S1_Radial_PPC" />
+    <Set id="14" priority="10" material="S1_Radial002_PPMI" bAlwaysRender="false" chain="PostProcess.PPC.S1_Radial002_PPC" />
+    <Set id="15" priority="10" material="S1_Radial003_PPMI" bAlwaysRender="false" chain="PostProcess.PPC.S1_Radial003_PPC" />
+</PostProcess>

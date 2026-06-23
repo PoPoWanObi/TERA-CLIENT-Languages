@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="5">Piraten, diese Rotpeitschenpiraten, nehmen Dirken auf die leichte Schulter. Wenn sie Dirken die Verantwortung über den Halsabschneiderhafen gegeben hätten, wäre es dabei geblieben. Warum wollen sie sich in seine Angelegenheiten einmischen? Wenn nicht mit Worten, dann mit Blut. So werden hier Probleme gelöst.&lt;BR&gt;&lt;BR&gt;Wenn Ihr zur Zerklüfteten Küste kommt, werdet Ihr auf {@LinkCreature:12#22#Rotpeitschenvollstrecker} stoßen. Tötet sie und beschafft ihre Augen. Das wird ihnen eine Warnung sein. Oh! Und bringt sie zu {@LinkCreature:212#1002$$Sidara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">Das sind ... Dirkens Marken? Das ist definitiv eine Methode, Herrschaft zu demonstrieren.&lt;BR&gt;&lt;BR&gt;Aber Ihr habt eure Aufgabe gut bewältigt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Was macht Ihr nur? Holt Euch schon diese Piraten!</Page>
+    </Text>
+</QuestDialog>

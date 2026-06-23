@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">Есть работка для бесстрашного бойца, &lt;PCNAME&gt;! Нужно достать несколько реликтов, которые хранит Солнечный Маяк. Возьмешься?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Рабочие големы переносят каждую отрытую реликвию в башню маяка.&lt;BR&gt;&lt;BR&gt;Мы не против, но вот боевые големы, сидящие в маяке, эти реликвии портят! Проберись внутрь и постарайся спасти несколько артефактов.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Вы только посмотрите на это!&lt;BR&gt;&lt;BR&gt;Несколько табличек с мудрыми изречениями, статуи... они просто прекрасны.&lt;BR&gt;&lt;BR&gt;Храни нас мать-природа, &lt;PCNAME&gt;. Это была великолепная работа.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Спаси эти реликвии, пока до них не добрались големы!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3025">
+        <Page social="4">Посмотрим, что удалось найти.&lt;BR&gt;&lt;BR&gt;Хм-м... Несколько свитков, ваза и... не знаю, что это за штуковина.&lt;BR&gt;&lt;BR&gt;Но Мистериуму она понравится. Спасибо еще раз!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Спаси эти реликвии, пока до них не добрались големы!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3025">
+        <Page social="4">Так-так, что тебе удалось найти?&lt;BR&gt;&lt;BR&gt;Ух ты, это же диски с инструкциями по управлению големами! Консос разберется, как использовать их с пользой.&lt;BR&gt;&lt;BR&gt;Ты сегодня в ударе, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Спаси эти реликвии, пока до них не добрались големы!</Page>
+    </Text>
+</QuestDialog>

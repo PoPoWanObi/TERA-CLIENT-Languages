@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="0">Полет в Северный Арун приятным никак не назовешь.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="4">Я изобрел такие сочетания вкусов, о которых никто и подумать не мог. Чесночная клубника! Карамель с хреном! Я приглашаю едоков отправиться в волшебную страну вкусов!&lt;BR&gt;&lt;BR&gt;А это значит, что у меня нет времени возиться с персональными заказами. Если Пэйсен хочет есть, Пэйсен может поесть вместе со всеми остальными.&lt;NEXTPAGEBUTTON&gt;"Я ему передам".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ого... Как мило.&lt;BR&gt;&lt;BR&gt;И странно.&lt;BR&gt;&lt;BR&gt;Ну хорошо. Отнеси ему эту коробку с обедом.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;! Мы летим в Северный Арун! Правда, здорово?&lt;NEXTPAGEBUTTON&gt;"Да, это интересно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Пахнет едой. Это мой обед? Замечательно! Похоже, что я тебе нравлюсь!&lt;BR&gt;&lt;BR&gt;Вкусно! &lt;BR&gt;&lt;BR&gt;Подумаем... кому теперь я должен понравиться?&lt;BR&gt;&lt;BR&gt;Знаю! Золин! Как думаешь, мне с ней поговорить?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1001">
+        <Page social="4">У меня ничего не вышло. От одного ее взгляда у меня уши опускаются.&lt;BR&gt;&lt;BR&gt;Ты окажешь мне услугу? Я написал стихотворение в ее честь, но никак не могу ей его отдать. Может быть, ты справишься?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1002">
+        <Page social="4">Да, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Пэйсен посвятил для тебя вот это".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">"У красотки из города Фривоя поведение было игривое?" Что это еще такое? Я выросла в Пополионе.&lt;BR&gt;&lt;BR&gt;У меня нет времени на эту чепуху. У нас задание. &lt;BR&gt;&lt;BR&gt;Нечего тебе возиться с этим комком меха. Займись чем-нибудь полезным. Узнай, как дела внизу, у Харухо.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1003">
+        <Page social="4">Все спокойно, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;На втором посту стоит Пико. Поговори с ним.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1004">
+        <Page social="4">Что может пойти не так? Мы же в небе!&lt;BR&gt;&lt;BR&gt;Облаков нет, крейсерская скорость. Ну что с нами может случиться?&lt;NEXTPAGEBUTTON&gt;"Осторожнее, а то сглазишь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Что это было?&lt;BR&gt;&lt;BR&gt;На нас напали!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1004">
+        <Page social="4">Но кто это?&lt;BR&gt;&lt;BR&gt;Должно быть, они на палубе. Останови их!&lt;BR&gt;&lt;BR&gt;Найди Лекула!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1100">
+        <Page social="4">&lt;PCNAME&gt;, на нас напали!</Page>
+    </Text>
+</QuestDialog>

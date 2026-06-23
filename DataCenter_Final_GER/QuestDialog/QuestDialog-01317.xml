@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Unsere Bemühungen in der Region werden von Tentacullaren und diesen verdammten Besharanern gefährdet. Ich möchte, dass Ihr dem unverzüglich ein Ende macht!&lt;BR&gt;&lt;BR&gt;Geht da raus und jagt {@LinkCreature:41#2008#Sumpftentacullare}, {@LinkCreature:41#2009#Schlammtentacullare}, {@LinkCreature:41#2002#Besharanvollstrecker} und {@LinkCreature:41#2006#Besharanschmuggler} um die Arena des Blutes und im Wilden Tal.&lt;BR&gt;&lt;BR&gt;Berichtet Keltaria am Gesandtenpunkt über Eure Fortschritte. Macht Euch an die Arbeit!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="4">Ihr habt diese Belohnung verdient, &lt;PCNAME&gt;. Viel Spaß damit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1007">
+        <Page social="0">Die Föderation setzt uns unter Druck, so viele dieser Kreaturen wie möglich aus der Welt zu schaffen.&lt;BR&gt;&lt;BR&gt;Natürlich sind sie gewillt, dafür auch zu zahlen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220021">
+        <Page social="1">Соперники Союза Просвещенных вставляют нам палки в колеса, мой друг.&lt;BR&gt;&lt;BR&gt;Мы только что получили данные разведки, согласно которым члены Железного Ордена и Сообщества Торговцев суют нос в наши дела. Судя по всему, хотят смешать наши карты. Они в основном занимаются тем, что заманивают монстров в эту область, вероятно, чтобы не брать на себя вину за последствия.&lt;BR&gt;&lt;BR&gt;Нужной найти доказательства их действий. Пройдись по Пустошам и области Вторжения Тора и поищи там существ, нехарактерных для этой местности, например {@linkcreature:122#202#Горных мугато} и {@linkcreature:122#205#Оазисных древней}. Убей как минимум три твари каждого вида, чтобы доказать их присутствие на этой земле.&lt;BR&gt;&lt;BR&gt;Собери сильную группу из своих друзей. &lt;font color='#660000'&gt;Любая выполнившая это задание группа, в которой находятся игроки уровнем меньше 65, получит дополнительную награду.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220021">
+        <Page social="0">Спасибо, друг &lt;PCNAME&gt;!&lt;BR&gt;Твоя помощь Союзу Просвещенных неоценима!</Page>
+    </Text>
+</QuestDialog>

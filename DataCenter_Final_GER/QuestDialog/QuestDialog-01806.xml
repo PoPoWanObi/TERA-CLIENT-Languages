@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="85" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Es ist an der Zeit, dass Ihr beim Verzaubern größere Boni erreicht! In Eurem Verzauberungsfenster könnt Ihr immer Euer ganzes Material, das Ihr bei Euch tragt, verzaubern, indem Ihr auf Automatische Verzauberung klickt.&lt;BR&gt;&lt;BR&gt;Bedenkt dabei, dass beim Automatischen Verzaubern die optimale und nicht die minimale Menge benutzt wird.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="0">Ihr müsst Eure Gegenstände nicht sofort kostspielig bis zu ihrem maximalen Potenzial verzaubern, doch eines Tages werdet Ihr das nützlich finden. Wenn Ihr mehr Rohmaterial einsetzt, wird es euch besser gelingen größere Boni zu erhalten&lt;BR&gt;&lt;BR&gt;Ihr seid {@gender:ein gelehriger Schüler/eine gelehrige Schülerin}, &lt;PCNAME&gt;. Ich hoffe, das war hilfreich.</Page>
+    </Text>
+</QuestDialog>

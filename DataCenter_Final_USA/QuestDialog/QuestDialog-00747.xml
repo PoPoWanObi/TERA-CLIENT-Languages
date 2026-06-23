@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1008">
+        <Page social="4">&lt;PCNAME&gt;, I need to get a sense of the troops. What's their morale? What troubles them?&lt;BR&gt;&lt;BR&gt;The problem is, if I ask, they might not speak the truth. If you asked, on the other hand...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1003">
+        <Page social="4">Things aren't too bad. I'm not happy about those filthy mekonaris, but our forces can handle them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1017">
+        <Page social="4">Well, I'd feel a lot safer if someone would kill those awful fangspawns.&lt;BR&gt;&lt;BR&gt;Other than that, though, I'm managing.&lt;BR&gt;&lt;BR&gt;I just hope the princesses stop feuding.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1010">
+        <Page social="4">Honestly, things could be better. The reports from the Eldritch Academy chill my blood.&lt;BR&gt;&lt;BR&gt;Still, I'd say we're in good shape.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="68" prevId="5" villagerId="1008">
+        <Page social="4">Well, nothing's ever perfect, but I'm pleased with what you found.&lt;BR&gt;&lt;BR&gt;Excellent work, &lt;PCNAME&gt;. Carry on.</Page>
+    </Text>
+</QuestDialog>

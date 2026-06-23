@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="5">Ja, der Karren hätte hier vorbeikommen müssen, aber ich habe ihn nicht gesehen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr auf nach Norden Richtung Allemantheia geht, erfahrt Ihr vielleicht, was damit passiert ist.&lt;BR&gt;&lt;BR&gt;Seid aber vorsichtig, er ist sicher nicht grundlos ausgeblieben. Bleibt wachsam da draußen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1026">
+        <Page social="5">(Die Leute sind tot und die Vorräte sind weg.)&lt;BR&gt;&lt;BR&gt;(Auf dem Boden liegt eine Waffe. Ihr solltet Sie besser zu Tarnan bringen.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1004">
+        <Page social="6">Überfallen? Ich hatte befürchtet, dass Ihr das sagt.&lt;BR&gt;&lt;BR&gt;Und Ihr habt eine Waffe gefunden? Lasst mal sehen.&lt;NEXTPAGEBUTTON&gt;"Gern, seht sie Euch an."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Das ist eine Tenebrarawaffe! Warum sollten die uns angreifen?&lt;BR&gt;&lt;BR&gt;Das verstehe ich nicht!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,101 @@
+<StrSheet_VehicleSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill">
+    <String id="1101" templateId="2000" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="48" />
+    <String id="1201" templateId="2000" name="Descendre" tooltip="Descendre de l'arme de siège." huntingZoneId="48" />
+    <String id="1101" templateId="2001" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="48" />
+    <String id="1201" templateId="2001" name="Descendre" tooltip="Descendre de l'arme de siège." huntingZoneId="48" />
+    <String id="1101" templateId="1001" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1201" templateId="1001" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1102" templateId="1002" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1202" templateId="1002" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1103" templateId="1003" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez pas utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1203" templateId="1003" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1101" templateId="4000" name="Salve" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1201" templateId="4000" name="Descendre" tooltip="Descendre de l'arme de siège." huntingZoneId="116" />
+    <String id="1301" templateId="4001" name="Salve" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1401" templateId="4001" name="Descendre" tooltip="Descendre de l'arme de siège." huntingZoneId="116" />
+    <String id="1501" templateId="4002" name="Salve" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1503" templateId="4002" name="Descendre" tooltip="Descendez de l'arme de siège" huntingZoneId="116" />
+    <String id="1501" templateId="4003" name="Salve" tooltip="Lancez un projectile." huntingZoneId="116" />
+    <String id="1503" templateId="4003" name="Descendre" tooltip="Descendez de l'arme de siège" huntingZoneId="116" />
+    <String id="1102" templateId="5000" name="Saut ventral" tooltip="Bondissez sur les ennemis devant vous, en leur infligeant des dégâts énormes et en les ralentissant." huntingZoneId="117" />
+    <String id="1103" templateId="5000" name="Fessée" tooltip="Attaquez trois fois les ennemis puis continuez à leur infliger des dégâts pendant quelques secondes." huntingZoneId="117" />
+    <String id="1104" templateId="5000" name="Colère noire" tooltip="Tirez des boules d'énergie critique qui décrivent un arc devant vous et étourdissent les ennemis." huntingZoneId="117" />
+    <String id="1111" templateId="5000" name="Rot retentissant" tooltip="Cracher des flammes en arc vers l'avant, dont la puissance vous fait reculer." huntingZoneId="117" />
+    <String id="1212" templateId="5000" name="Saut arrière" tooltip="Vous permet de sauter en arrière et d'attaquer les ennemis dans un rayon prédéfini." huntingZoneId="117" />
+    <String id="1318" templateId="5000" name="Poings fulgurants" tooltip="Tirez des coups de roquette qui ralentissent les ennemis dans plusieurs directions." huntingZoneId="117" />
+    <String id="2201" templateId="5000" name="Purification de Kumas" tooltip="Éliminer tous les effets négatifs jetés sur les Kumas amis dans le rayon de la compétence." huntingZoneId="117" />
+    <String id="2202" templateId="5000" name="Guérison de Kumas" tooltip="Restaure les PV des autres Kumas à portée." huntingZoneId="117" />
+    <String id="1102" templateId="6000" name="Saut ventral" tooltip="Bondissez sur les ennemis devant vous, en leur infligeant des dégâts énormes et en les ralentissant." huntingZoneId="117" />
+    <String id="1104" templateId="6000" name="Colère" tooltip="Tirez deux boules d'énergie décrivant un petit arc vers l'avant qui étourdissent les ennemis." huntingZoneId="117" />
+    <String id="1106" templateId="6000" name="Rot" tooltip="Cracher des flammes en arc vers l'avant." huntingZoneId="117" />
+    <String id="1108" templateId="6000" name="Coup circulaire à gauche" tooltip="Asséner un coup à 360° dans le sens des aiguilles d'une montre." huntingZoneId="117" />
+    <String id="1109" templateId="6000" name="Coup circulaire à droite" tooltip="Asséner un coup à 360° dans le sens contraire aux aiguilles d'une montre." huntingZoneId="117" />
+    <String id="1212" templateId="6000" name="Retraite" tooltip="Retraite!" huntingZoneId="117" />
+    <String id="1311" templateId="6000" name="Roulé ventral" tooltip="Attaquez en roulant devant vous et en ralentissant les ennemis que vous écrasez." huntingZoneId="117" />
+    <String id="2201" templateId="6000" name="Purification de Kumas" tooltip="Éliminer tous les effets négatifs jetés sur les Kumas amis dans le rayon de la compétence." huntingZoneId="117" />
+    <String id="6010" templateId="6000" name="Roulé arrière" tooltip="Attaquez en roulant derrière vous et en ralentissant les ennemis que vous écrasez." huntingZoneId="117" />
+    <String id="1103" templateId="7000" name="Fessée" tooltip="Attaquez trois fois les ennemis puis continuez à leur infliger des dégâts pendant quelques secondes." huntingZoneId="117" />
+    <String id="1212" templateId="7000" name="Retraite" tooltip="Retraite!" huntingZoneId="117" />
+    <String id="1301" templateId="9005" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="121" />
+    <String id="1501" templateId="9005" name="Descendre" tooltip="Descendre du canon." huntingZoneId="121" />
+    <String id="1301" templateId="9005" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="122" />
+    <String id="1501" templateId="9005" name="Descendre" tooltip="Descendre du canon." huntingZoneId="122" />
+    <String id="1301" templateId="9005" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="123" />
+    <String id="1501" templateId="9005" name="Descendre" tooltip="Descendre du canon." huntingZoneId="123" />
+    <String id="1101" templateId="1601" name="Salve" tooltip="Tirez un projectile sur votre cible." huntingZoneId="191" />
+    <String id="1201" templateId="1601" name="Sauter" tooltip="Descendre du canon." huntingZoneId="191" />
+    <String id="1101" templateId="1604" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="191" />
+    <String id="1201" templateId="1604" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="191" />
+    <String id="1101" templateId="1605" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="191" />
+    <String id="1201" templateId="1605" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="191" />
+    <String id="1101" templateId="2999" name="Salve" tooltip="Lancez une bombe à eau sur une cible." huntingZoneId="210" />
+    <String id="1201" templateId="2999" name="Descendre" tooltip="Descendez du canon pulvérisant." huntingZoneId="210" />
+    <String id="1101" templateId="3000" name="Salve" tooltip="Lancez une bombe à eau sur une cible." huntingZoneId="210" />
+    <String id="1201" templateId="3000" name="Descendre" tooltip="Quitte le canon pulvérisant." huntingZoneId="210" />
+    <String id="1101" templateId="4000" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="210" />
+    <String id="1201" templateId="4000" name="Descendre" tooltip="Sortez du tank." huntingZoneId="210" />
+    <String id="1101" templateId="8041" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="425" />
+    <String id="1201" templateId="8041" name="Descendre" tooltip="Descendre du canon." huntingZoneId="425" />
+    <String id="1101" templateId="4000" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="443" />
+    <String id="1201" templateId="4000" name="Descendre" tooltip="Quitter le canon." huntingZoneId="443" />
+    <String id="1201" templateId="300" name="Descendre" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" templateId="300" name="Citrouille de feu" tooltip="Tire un projectile sur votre cible." huntingZoneId="447" />
+    <String id="1201" templateId="310" name="Descendre" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" templateId="310" name="Citrouille de feu" tooltip="Tire un projectile sur votre cible." huntingZoneId="447" />
+    <String id="1201" templateId="311" name="Descendre" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" templateId="311" name="Citrouille de feu" tooltip="Tire un projectile sur votre cible." huntingZoneId="447" />
+    <String id="1101" templateId="5000" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="450" />
+    <String id="1201" templateId="5000" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="450" />
+    <String id="1101" templateId="500" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="453" />
+    <String id="1201" templateId="500" name="Descendre" tooltip="Quitter le canon." huntingZoneId="453" />
+    <String id="1101" templateId="501" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="453" />
+    <String id="1201" templateId="501" name="Descendre" tooltip="Quitter le canon." huntingZoneId="453" />
+    <String id="1101" templateId="8041" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="725" />
+    <String id="1201" templateId="8041" name="Descendre" tooltip="Descendre du canon." huntingZoneId="725" />
+    <String id="1101" templateId="4000" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="743" />
+    <String id="1201" templateId="4000" name="Descendre" tooltip="Vous fait descendre du canon." huntingZoneId="743" />
+    <String id="1101" templateId="5000" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5000" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5001" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5001" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5002" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5002" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5003" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5003" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5004" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5004" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5005" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5005" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5006" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5006" name="Sauter" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5007" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5007" name="Sauter" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5008" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5008" name="Sauter" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="5009" name="Décollage" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" templateId="5009" name="Sauter" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" templateId="885158" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="885" />
+    <String id="1201" templateId="885158" name="Descendre" tooltip="Descendre du canon." huntingZoneId="885" />
+    <String id="1101" templateId="3000007" name="Salve" tooltip="Tire un projectile sur votre cible." huntingZoneId="1023" />
+    <String id="1201" templateId="3000007" name="Descendre" tooltip="Descendre du canon." huntingZoneId="1023" />
+</StrSheet_VehicleSkill>

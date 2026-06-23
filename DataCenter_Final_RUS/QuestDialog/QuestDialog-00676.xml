@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="5">Потомки Лока осквернили нашу священную землю! Озеро слез - памятник самой Элину!&lt;BR&gt;&lt;BR&gt;Нужно их остановить. Как можно скорее убей {@LinkCreature:23#17#Кровавых ткачей Лока} и {@LinkCreature:23#16#Черных стражей Лока}. Пусть природа нанесет ответный удар.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1003">
+        <Page social="5">Я рада, что эти твари мертвы, но нужно разобраться, как они тут оказались. Нужно поразмыслить.&lt;BR&gt;&lt;BR&gt;Ну, ладно. Умеешь ты убивать врагов, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

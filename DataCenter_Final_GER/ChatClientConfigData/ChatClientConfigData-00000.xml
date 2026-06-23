@@ -1,0 +1,72 @@
+<ChatClientConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ChatClientConfigData ChatClientConfigData.xsd" xmlns="https://vezel.dev/novadrop/dc/ChatClientConfigData">
+    <ChannelList>
+        <Group id="BasicGroup" name="@chat:101">
+            <Channel id="CHATTYPE_NORMAL" color="0xffffff" makeNameLink="true" showChannelName="true" static="true" useHtml="true" />
+            <Channel id="CHATTYPE_PARTY" color="0x0196ff" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_GUILD" color="0x40fb40" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_GUARD" color="0xaaa7ff" makeNameLink="true" showChannelName="true" static="true" useHtml="true" />
+            <Channel id="CHATTYPE_BARGAIN" color="0xc37a81" makeNameLink="true" showChannelName="true" static="true" useHtml="true" />
+            <Channel id="CHATTYPE_TEAM" color="0xff7d00" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_WHISPER" color="0xff7eff" makeNameLink="true" showChannelName="true" static="true" useHtml="false" />
+            <Channel id="CHATTYPE_RAID" color="0xffcc00" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_RAID_LEADER" color="0xff7d00" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_RAID_NOTICE" color="0x44ccFF" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_DEALING" color="0xffbf8f" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PARTY_SEARCH" color="0x44ccFF" makeNameLink="true" showChannelName="true" static="true" useHtml="true" />
+            <Channel id="CHATTYPE_PARTY_NOTICE" color="0x66ffff" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_UNION" color="0x80dcab" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_UNIONELITE" color="0x12b581" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_UNION_NOTICE" color="0x12b581" makeNameLink="true" showChannelName="true" useHtml="true" />
+            <Channel id="CHATTYPE_GENERAL" color="0xf0ff89" makeNameLink="true" showChannelName="true" static="true" useHtml="true" />
+            <Channel id="CHATTYPE_SOCIAL" color="0xffb9b9" makeNameLink="false" showChannelName="false" useHtml="true" />
+            <Channel id="CHATTYPE_RP" color="0xffb9b9" makeNameLink="false" showChannelName="false" static="false" useHtml="true" />
+        </Group>
+        <Group id="BattleInfoGroup" name="@chat:111">
+            <Channel id="CHATTYPE_MY_ATTACK" color="0xd9d9d9" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" color="0xffb368" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_FALLING_DAMAGE" color="0xff4f88" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_DAMAGE_SMALL" color="0xff4f88" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" color="0xed145b" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_DAMAGE" color="0xff4f88" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" color="0xed145b" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_DAMAGE_LARGE" color="0xff4f88" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" color="0xed145b" makeNameLink="false" showChannelName="false" useHtml="false" />
+        </Group>
+        <Group id="SystemInfoGroup" name="@chat:121">
+            <Channel id="CHATTYPE_ADMIN_NOTICE" color="0xf0ff89" makeNameLink="false" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_INFO" color="0xfff799" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_WORLD_INFO" color="0xd9d9d9" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_ERROR_INFO" color="0xee1c24" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_PARTY_INFO" color="0xd9d9d9" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_GUILD_INFO" color="0x40fb40" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_TEAM_INFO" color="0xd9d9d9" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_INTERACTION_INFO" color="0xff6565" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_WARNING" color="0xee1c24" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_GET_ITEM" color="0xffe03f" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_GET_EXP" color="0xffe03f" makeNameLink="false" showChannelName="false" useHtml="false" />
+            <Channel id="CHATTYPE_GET_MONEY" color="0xffe03f" makeNameLink="false" showChannelName="false" useHtml="false" />
+        </Group>
+        <Group id="PrivateChannelGroup" name="@chat:131">
+            <Channel id="CHATTYPE_PRIVATE_1" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_2" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_3" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_4" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_5" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_6" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_7" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+            <Channel id="CHATTYPE_PRIVATE_8" color="0xd5ffc6" makeNameLink="true" showChannelName="true" useHtml="false" />
+        </Group>
+    </ChannelList>
+    <DefaultChatWindowSize height="317" width="730" />
+    <DefaultTabList>
+        <Tab type="General" name="@chat:1" fontSize="125" includeGroups="BasicGroup,SystemInfoGroup,PrivateChannelGroup" opacity="45" />
+        <Tab type="Party" name="@chat:2" fontSize="125" includeChannels="CHATTYPE_PARTY,CHATTYPE_PARTY_NOTICE,CHATTYPE_PARTY_INFO" opacity="45" />
+        <Tab type="Union" name="@chat:3" fontSize="125" includeChannels="CHATTYPE_UNION,CHATTYPE_UNIONELITE,CHATTYPE_UNION_NOTICE,CHATTYPE_UNION_POST" opacity="45" />
+        <Tab type="Announcement" name="@chat:4" fontSize="125" includeChannels="CHATTYPE_ADMIN_NOTICE" opacity="45" />
+        <Tab type="Battle" name="@chat:5" fontSize="125" includeGroups="BattleInfoGroup" opacity="45" />
+        <Tab type="Bargain" name="@chat:6" fontSize="125" includeChannels="CHATTYPE_BARGAIN,CHATTYPE_DEALING" opacity="45" />
+        <Tab type="Whisper" name="@chat:7" fontSize="125" includeChannels="CHATTYPE_WHISPER" opacity="45" />
+        <Tab type="" name="@chat:8" fontSize="125" includeChannels="CHATTYPE_PARTY,CHATTYPE_GUILD,CHATTYPE_WHISPER" opacity="45" />
+    </DefaultTabList>
+    <FastReplyShortcut string="@chat:200" />
+</ChatClientConfigData>

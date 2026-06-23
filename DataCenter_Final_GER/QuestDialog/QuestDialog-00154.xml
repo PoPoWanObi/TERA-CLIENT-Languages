@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Ich kann ein extrem wirksames Gegengift herstellen, aber die meisten finden es ziemlich widerwärtig. Es schmeckt so abscheulich, dass, wer es schon einmal getrunken hat, bei der nächsten Vergiftung lieber sterben würde.&lt;BR&gt;&lt;BR&gt;Andere wiederum finden die Beschaffung der Zutaten noch qualvoller als den Geschmack. Hoffentlich fühlt Ihr Euch der Aufgabe gewachsen. Ich brauche die Augen der Garangka, auf denen die {@LinkCreature:5#1#Tuwangiaufseher} umherreiten. Ja, wirklich nur die Augäpfel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">Ich hatte gehofft, Ihr würdet mir Größere bringen, aber die hier reichen für den Augenblick. Hier bitte, ich weiß, es war nicht eben einfach.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Bringt mir die Augen der Garangka, auf denen die {@LinkCreature:5#1#Tuwangiaufseher} herumreiten. Sie werden nicht von selbst hierher rollen.</Page>
+    </Text>
+</QuestDialog>

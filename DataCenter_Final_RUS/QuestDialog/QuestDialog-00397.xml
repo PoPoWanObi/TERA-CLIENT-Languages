@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Леандр поручил Джехану написать отчет о демонической порче и отправить его в Форпост у башни. Вы доставили этот отчет трибуну Адрии и советнику Тейлу.&lt;BR&gt;&lt;BR&gt;Адрия и Тейл, обеспокоенные грозящей опасностью, начали строить планы противостояния демонам.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Джехан обожает писать отчеты. Мне и Адрии это только на пользу. Вот и сейчас у него уже готов отчет. Доставь его Адрии.&lt;BR&gt;&lt;BR&gt;И знай - Леандр из Аллемантеи считает тебя своим другом, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Леандр, конечно, достоин всяческого уважения, но бумажная работа не для него. Если только это не статья для научного журнала. Посмотрел бы я на того, кто откажется ее публиковать...&lt;BR&gt;&lt;BR&gt;Так про какой отчет идет речь?&lt;NEXTPAGEBUTTON&gt;"О демонической порче".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ах да. Верно... вот, держи.&lt;BR&gt;&lt;BR&gt;Читать следует очень внимательно. Предстоит немало работы.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1001">
+        <Page social="4">У меня нет причин сомневаться в выводах Леандра после того, с чем мы столкнулись.&lt;BR&gt;&lt;BR&gt;Незамедлительно отнеси этот отчет &lt;font color='#660000'&gt;советнику Тейлу&lt;/font&gt;. Ты найдешь его вверх по лестнице.&lt;BR&gt;&lt;BR&gt;Он должен знать, что нам грозит.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1009">
+        <Page social="4">Значит, Ущелье Скверны? Неудивительно. В тех краях все словно пропитано ужасом. Твоя помощь неоценима, &lt;PCNAME&gt;. Отлично сработано!&lt;BR&gt;&lt;BR&gt;Передай Адрии мою благодарность. Она скажет, что делать дальше.</Page>
+    </Text>
+</QuestDialog>

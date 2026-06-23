@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1113">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1113">
+        <Page social="4">Die {@LinkCreature:10#10#Baykunwarzenschweine} reißen unsere Leute in Stücke. Sie sind dreckig, gemein und zäh wie Schuhleder, also tötet sie. Aber vorsichtig - ich will, dass Ihr mir etwas von ihrem weichen Rückenfell bringt.&lt;BR&gt;&lt;BR&gt;Das können wir dann am Halsabschneiderhafen gegen dringend benötigte Versorgungsgüter eintauschen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1113">
+        <Page social="4">Das reicht schon, &lt;PCNAME&gt;. Völlig.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1113">
+        <Page social="0">Patrouilliert einfach unser Lager, dann lauft Ihr ihnen ganz schnell über den Weg.</Page>
+    </Text>
+</QuestDialog>

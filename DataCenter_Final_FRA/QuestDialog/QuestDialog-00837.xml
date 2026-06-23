@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1003">
+        <Page social="5">A voir l'état de votre arme et de votre tenue, on comprend tout de suite que votre ligne de travail n'est pas des plus intellectuelles, et pourtant... votre regard n'est pas dépourvu d'intelligence. Vous travaillez dans la recherche?&amp;nbsp; L'archéologie, peut-être?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Qu'est-ce qui vous amène?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"J'ai eu l'occasion de travailler pour Eustace..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Cet imbécile?&amp;nbsp; Dommage pour vous... j'espère que vous n'avez pas pris exemple sur lui.&lt;BR&gt;&lt;BR&gt;Eustace s'intéresse plus au prestige qu'au progrès. Si vous tenez à ce que vos efforts servent à quelque chose, vous devriez travailler avec moi. J'étudie les reliques locales afin de tenter d'établir un lien entre elles, la Fontaine de Shara et les miracles qui semblent se produire dans le coin. Si vous parveniez à me rapporter des reliques intactes, je pourrais les étudier à loisir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1003">
+        <Page social="5">Voyons un peu ce que vous avez découvert. Intrigant... cette rune représente la vie, et celle-ci la renaissance. Oh... et ici... c'est l'ancien symbole représentant Shara!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il existe vraiment un lien entre la fontaine et les propriétés de cette terre... et les reliques sont le chaînon manquant. Votre aide m'aura été précieuse. Je vous remercie au nom du Mysterium.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1003">
+        <Page social="0">Si vous voulez vraiment m'aider à étudier notre passé, aidez-nous à récupérer ces reliques. Avec de telles aptitudes au combat, ça ne devrait pas être bien difficile, pour vous.</Page>
+    </Text>
+</QuestDialog>

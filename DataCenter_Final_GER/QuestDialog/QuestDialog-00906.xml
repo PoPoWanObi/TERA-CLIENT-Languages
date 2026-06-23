@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1025">
+        <Page social="5">Die Wälder des Pfeifenden Windes sind seit Langem die Heimat der Reißzahnbrut. Sie sind zwar groß und gefährlich, aber es gibt stets ein Gleichgewicht.&lt;BR&gt;&lt;BR&gt;Doch jetzt dreht die {@LinkCreature:29#1041#Waldreißzahnbrut} durch und bedroht alles - sogar die Wälder selbst! Ihr müsst sie für mich ausschalten, &lt;PCNAME&gt;. Macht Euch bereit, und tötet sie. Genug geredet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1025">
+        <Page social="5">Der Tod der Reißzahnbrut war unvermeidlich. Ansonsten hätte man diesen Ort bald die Wälder der Verwüstung nennen können.&lt;BR&gt;&lt;BR&gt;Ihr wart sehr hilfreich. Das werde ich nicht vergessen, und ich werde Euch in einem Brief lobend erwähnen.</Page>
+    </Text>
+</QuestDialog>

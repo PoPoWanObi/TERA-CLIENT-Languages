@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="5">Als Thulsas Streitkräfte uns trafen, haben sich viele versteckt, gekämpft und sind dabei gestorben. Aber einer der Späher, {@Creature:227#1026$$Haruish}, ergriff die Initiative und rannte hinter ihre Linien.&lt;BR&gt;&lt;BR&gt;Seitdem haben wir nichts mehr von ihm gehört. Ich befürchte, dass er in Schwierigkeiten steckt ... oder tot ist. Könntet Ihr nach ihm suchen?&lt;BR&gt;&lt;BR&gt;Das Mysterium würde es sehr zu schätzen wissen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1026">
+        <Page social="5">(Sein Mut konnte nicht die Klinge abwehren, die ihn getötet hat.)&lt;NEXTPAGEBUTTON&gt;"Ich werde Eure Habseligkeiten zurückbringen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Eine kurze Durchsuchung bringt einen Brief zutage.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1024">
+        <Page social="5">Mutiger Kerl. Ich wünschte, ich hätte ihn besser gekannt.&lt;NEXTPAGEBUTTON&gt;"Ihr müsst mit den Soldaten sprechen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Wohl wahr. Das werde ich tun.&lt;BR&gt;&lt;BR&gt;Ich werde diesen Brief auch seiner Familie zukommen lassen. Ich bin mir sicher, dass sie ihn haben wollen.</Page>
+    </Text>
+</QuestDialog>

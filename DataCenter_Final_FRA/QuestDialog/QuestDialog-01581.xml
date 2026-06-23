@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Thulsa s'est emparé de la Fournaise divine. Sans cette dernière et sans l'aide de Muhrak, le forgeron légendaire, les fragments de relique et la puissance du Noyau ne servaient à rien. Vous vous êtes donc {@gender:rendu/rendue} sur place dans l'espoir d'y secourir Muhrak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Thulsa a besoin de la Fournaise divine pour accomplir ses desseins, et son armée a conquis la Plaine des Damnés. C'est là que se trouve la Fournaise divine. Il vous sera certainement impossible de reprendre les lieux à proprement parler, mais vous pourrez peut-être y secourir Muhrak, le forgeron légendaire... s'il est encore en vie.&lt;BR&gt;&lt;BR&gt;Un apprenti a réussi à fuir la Fournaise divine quand Thulsa l'a attaquée. Il se trouve maintenant à Habere. Allez vous adresser au primus local.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1007">
+        <Page social="4">Comment Thulsa ose-t-il profaner cette terre!?&amp;nbsp; Habere appartient à Kaia, et je combattrai jusqu'au bout pour chasser d'ici ce soi-disant dieu de la mort!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais vous n'êtes pas là pour m'écouter radoter. L'apprenti qui a réussi à fuir?&amp;nbsp; Oui, vous pouvez aller lui parler, maintenant qu'il a repris conscience.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1100">
+        <Page social="4">Thulsa a pris le contrôle de la Chambre en fusion, qui alimente la fournaise principale. Il nous a ordonné de coopérer, mais Muhrak et les ingénieurs amans ont refusé.&lt;BR&gt;&lt;BR&gt;D'un mouvement de main, Thulsa a tué tous les ingénieurs!&amp;nbsp; Ils sont tombés comme les blés sous la lame du faucheur...&lt;BR&gt;&lt;BR&gt;Après ça, j'ai fermé les yeux, terrifié... je crois que Muhrak a réussi à s'enfuir, mais tout ça s'est passé dans une telle confusion.&lt;BR&gt;&lt;BR&gt;Ensuite, Thulsa nous a forcés à installer un bouclier autour de la Chambre en fusion. J'ai pressenti qu'on nous tuerait aussitôt que notre besogne serait accomplie, alors j'ai tenté ma chance et je me suis enfui.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="79" prevId="4" villagerId="1007">
+        <Page social="4">Des amans massacrés?&amp;nbsp; Des apprentis réduits en esclavage?&amp;nbsp; C'est intolérable!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais j'ai de bonnes nouvelles. Nous avons sauvé un autre malheureux... un apprenti humain qui se trouve maintenant à la porte ouest d'Habere.&lt;BR&gt;&lt;BR&gt;Allez lui demander ce qu'il sait. S'il peut vous indiquer quelle caravane ils emploient pour transporter leurs prisonniers... libérez-les!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="52" villagerId="1">
+        <Page social="0">Je ne veux pas être un poids mort. Je veux juste avertir les gens du danger qui guette la Fournaise divine.&lt;BR&gt;&lt;BR&gt;Thulsa est là-bas!&amp;nbsp; Le dieu de la mort!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous étiez déjà au courant?&amp;nbsp; Oh... autant dire que je tombe à plat, avec mon avertissement...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="5" villagerId="1101">
+        <Page social="4">L'important, c'est que quelqu'un soit au courant. Les ingénieurs amans sont tous morts, mais Muhrak est en vie!&amp;nbsp; Il se cache quelque part dans la Fournaise divine. Il connaît les lieux comme sa poche.&lt;NEXTPAGEBUTTON&gt;"Je me charge de le secourir..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Pour atteindre la Chambre en fusion, vous allez devoir détruire le bouclier qui l'entoure.&lt;BR&gt;&lt;BR&gt;Oui, celui que nous avons érigé... mais c'était sous la menace des maîtres d'esclaves!&amp;nbsp; Et ils se méfiaient des tentatives de sabotage, nous avons donc fait du bon boulot, et il va être difficile de le détruire.&lt;BR&gt;&lt;BR&gt;En revanche, j'ai réussi à subtiliser leurs plans. Apportez-les à Gaicus l'ingénieur. Il parviendra peut-être à y trouver un point faible.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1102">
+        <Page social="4">Voyons ça... c'est du beau boulot. Un bouclier des plus solides.&lt;BR&gt;&lt;BR&gt;... A moins que... regardez un peu ça!&amp;nbsp; Les circuits arcaniques mènent tous à cette pierre, là!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Détruisez-la et vous pourrez traverser le bouclier!&amp;nbsp; En parlant de faille dans le système... celle-là est quand même belle.&lt;BR&gt;&lt;BR&gt;... Hé, mais... à bien y regarder, c'est vrai qu'elle est parfaitement indétectable, à moins de faire la taille des poporis... ce qu'ils peuvent être malins!&amp;nbsp; Ils ont délibérément laissé une faille de sécurité dans le système!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Alors nous pouvons le détruire?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Oui, c'est faisable. Regardez, vous n'aurez qu'à frapper ici. C'est du solide, mais quelque chose me dit que vous avez une certaine expérience des boulots de démolition.&lt;BR&gt;&lt;BR&gt;Et sur place, si vous croisez Muhrak, dites-lui que j'ai ses vingt pièces d'or!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="464" prevId="8" villagerId="5013">
+        <Page social="4">Fuir?&amp;nbsp; Bah!&amp;nbsp; Vous devriez plutôt songer à faire mordre la poussière à Thulsa, &lt;PCCLASS:lcase&gt;!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il est impossible d'exterminer les serviteurs de la mort jusqu'au dernier, mais nous pouvons empêcher Thulsa d'employer mon atelier.&lt;BR&gt;&lt;BR&gt;Couvrez-moi le temps que je détruise ce dispositif de contrôle!&amp;nbsp; Je souhaite bonne chance à Thulsa pour gérer la fournaise volcanique sans cet appareil!&amp;nbsp; Ha ha ha!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="411" prevId="9" villagerId="5001">
+        <Page social="1">C'est fini... enfin, pour l'instant!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Tous ces cadavres... considère ça comme une vengeance de la mort de mes apprentis, Thulsa!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ainsi donc, vous avez les fragments de relique... et dire que je viens de détruire les commandes de la fournaise.&lt;BR&gt;&lt;BR&gt;Nous ne pouvions le laisser aux mains de Thulsa. Il doit exister un autre moyen de parvenir à vos fins. Je vais aller réfléchir à tout ça dans mon atelier.</Page>
+    </Text>
+</QuestDialog>

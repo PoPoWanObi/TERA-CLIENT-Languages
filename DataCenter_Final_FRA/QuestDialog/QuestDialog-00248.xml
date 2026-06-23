@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fraya vous a demandé de traquer Akasha qui a enlevé Serion, une incarnation vivante de l'énergie qui alimente la civilisation des Hauts-Elfes. En arrivant à Castanica, vous avez appris de la bouche d'Elion qu'Akasha travaillait avec des gulas des Cavernes affamées.&lt;BR&gt;&lt;BR&gt;Vous avez alors pénétré dans les Cavernes affamées, vaincu le chef des gulas, Gluorn, et découvert qu'Akasha avait probablement fui vers la Montagne Fyr.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Ordres de mission&lt;BR&gt;&lt;BR&gt;Nous avons reçu de nouvelles informations au sujet du Noyau.&lt;BR&gt;&lt;BR&gt;Présentez-vous sans délai au commandant Fraya au Quartier général d'Allemantheia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5">J'irai droit au but, &lt;PCNAME&gt;. Akasha a quitté le sud de Shara, très certainement en compagnie du Noyau. J'ai interrogé nos collègues de Velika, et la prêtresse Ciebel pense avoir déjà localisé Akasha.&lt;NEXTPAGEBUTTON&gt;"Allons-y."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Malheureusement, on a besoin de moi à Allemantheia pour gérer cette crise. Vous allez devoir vous débrouiller {@gender:seul/seule}.&lt;BR&gt;&lt;BR&gt;Rendez-vous à Velika pour y parler à Ciebel. Et faites vite... privée du Noyau, Allemantheia voit chaque jour augmenter ses chances de finir engloutie dans les sables.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="5">J'espérais que Fraya vous enverrait, &lt;PCNAME&gt;. J'ai senti deux entités puissantes pénétrer dans les Cavernes affamées. L'une était aussi sereine qu'un Elfe, et l'autre bouillait d'une rage à peine contenue.&lt;NEXTPAGEBUTTON&gt;"L'une d'elles était Akasha?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui... les échos sont en train de s'estomper, mais elle ne peut pas être partie bien loin.&lt;BR&gt;&lt;BR&gt;Commencez par vous rendre à Castanica. C'est là que se trouve Elion.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1104">
+        <Page social="5">&lt;PCNAME&gt;!&amp;nbsp; Où que j'aille, j'entends parler de vos exploits. A Allemantheia, nous avons été pris par surprise, mais cette fois, nous allons récupérer le Noyau.&lt;NEXTPAGEBUTTON&gt;"Vous savez où le trouver?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ciebel m'a fourni quelques informations et vous connaissez la qualité de ses sources!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;On a vu quelqu'un qui correspond à la description d'Akasha parmi les gulas. Ce n'est pas grand-chose, mais c'est une piste.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:61#1105#Fraya} pourra certainement vous en dire plus.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="1105">
+        <Page social="5">Akasha se cache parmi les gulas, mais je ne saurais dire pourquoi, au juste. Pourquoi apporter le Noyau ici?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai des soupçons... des soupçons qui me forcent à venir ici, alors qu'on a tant besoin de moi en ville. Et puis, nous sommes sur le territoire de Velika.&lt;BR&gt;&lt;BR&gt;Mais peu importent mes problèmes. Notre priorité, c'est la récupération du Noyau. Allez voir Smernav à l'Avant-poste du Vengeur. Il vous aidera à pénétrer dans les cavernes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1002">
+        <Page social="5">Vous venez de la part de Fraya et d'Elion, c'est ça?&amp;nbsp; J'espère que vous aimez la bagarre, parce que les gulas ne vont pas vous ménager!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les plus dangereux d'entre eux sont {@linkcreature:8#8021#Dulinka} et ses gardes mekkitars.&lt;BR&gt;&lt;BR&gt;Ils se trouvent au plus profond du premier niveau. Eliminez-les... ça devrait vous conférer un avantage certain!&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1015">
+        <Page social="5">Me faites pas de mal!&amp;nbsp; C'est pas de ma faute!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;D'accord, j'ai gardé prisonnier un Haut-Elfe, mais je l'ai pas mangé!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Regardez-moi, j'ai que la peau sur les os!&amp;nbsp; Le Haut-Elfe sentait si... si bon!&amp;nbsp; Mais j'ai été un gentil gula. Je ne lui ai même pas boulotté un doigt ou un orteil!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Où est-il à présent?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Le Haut-Elfe?&amp;nbsp; Sans doute avec Akasha.&lt;BR&gt;&lt;BR&gt;Au départ, je devais juste le transporter avec le ravitaillement, et puis Akasha a changé d'idée.&lt;BR&gt;&lt;BR&gt;Maintenant, les ordres sont de s'occuper du ravitaillement, et plus du délicieux... du savoureux Haut-Elfe. C'est ce que dit mon registre!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="61" prevId="8" villagerId="1105">
+        <Page social="5">Le registre confirme ce que nous pensions&amp;nbsp;: Akasha s'est emparée du Noyau et elle l'emmène à la Montagne Fyr.</Page>
+    </Text>
+</QuestDialog>

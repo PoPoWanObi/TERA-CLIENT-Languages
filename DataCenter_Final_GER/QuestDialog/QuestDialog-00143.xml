@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="4">&lt;PCNAME&gt;, wir brauchen Eure Hilfe!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#2021#Shurianische Feindhämmer}, {@LinkCreature:4#2031#Eldritchkardinäle}, {@LinkCreature:4#2041#Eldritchräuber} und {@LinkCreature:4#2051#Garstige Arbosken} verursachen furchtbare Verluste unter unseren Truppen. Vergeltet ihnen Gleiches mit Gleichem.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Helone, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1004">
+        <Page social="4">Ihr habt es zu großem Ansehen gebracht. Besten Dank für Eure Hilfe!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1004">
+        <Page social="0">Ihr seid fast da. Kommt zurück, wenn Ihr Eure Befehle habt ausführen können.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Vernichtet die Anhänger der Brogarlegion und zeigt ihnen, wie dumm es war, die Föderation anzugreifen. Eliminiert {@LinkCreature:27#13#Thulsanische Wächter}, {@LinkCreature:27#14#Thulsanische Beschwörer}, {@LinkCreature:27#15#Thulsanische Anhängerinnen} , {@LinkCreature:27#4#Eldritchnachtwachen}, {@LinkCreature:27#6#Gnadenlose Iskaragards} und die {@LinkCreature:27#7#Wilde Iskaragards} und sammelt ihre Abzeichen ein.&lt;BR&gt;&lt;BR&gt;Erstattet Vlara Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1009">
+        <Page social="5">Unser Kampf ist gerecht, und mit Soldaten wie Euch ist der Ausgang gewiss. Habt Dank.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1009">
+        <Page social="0">Ich sehe nicht genug Abzeichen. Bitte kommt wieder, wenn Ihr Eure Mission erfüllt habt.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="808" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="4001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="4001">
+        <Page social="0">La magie du sang n'est pas la seule arme que les Archidevans manient. Ils disposent d'un véritable arsenal dissimulé dans les environs. Des éclaireurs explorent la zone, mais j'ai besoin que vous vous aventuriez du côté des terrains d'entraînement des demokrons. Mes troupes refusent de s'approcher de cet endroit!&amp;nbsp; &lt;BR&gt;&lt;BR&gt;Trouvez l'armurerie et déterminez ce qu'elle contient.&lt;NEXTPAGEBUTTON&gt;"Dites-moi où je dois aller."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Dirigez-vous vers l'ouest et longez les sources chaudes jusqu'à une rivière qui finit en cascade. Vous y verrez les monstres. L'armurerie est sans doute à proximité des terrains d'entraînement.&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="4001">
+        <Page social="0">&lt;PCNAME&gt;, vous avez trouvé l'armurerie, défait les gardes et les monstres qui la peuplent?&amp;nbsp; Parfait!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je me demande bien ce que cette histoire de pierre signifie...</Page>
+    </Text>
+</QuestDialog>

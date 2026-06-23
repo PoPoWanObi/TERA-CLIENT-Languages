@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="4">Когда гулы раскапывали это место, они, конечно же, использовали невольников, оживив их для себя с помощью магии. Боль этих созданий сильна из-за того, что их души не могут вернуться в Мир Грез - здесь они в ловушке.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:8#4021#Оживленных попори} и принеси мне их кирки. Возможно, мне удастся как-то им помочь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1035">
+        <Page social="4">Я лишь надеюсь, что эти бедные души смогут вернуться в Мир Грез.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1035">
+        <Page social="0">Знаешь, а вот если бы тебя оживили и сделали своим рабом, я бы тебя избавил от страданий. Представь только, как бы тебе этого хотелось!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,58 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Malgré la mort de Samael, et contre toute attente, les descendants de Lok sont parvenus à se regrouper. En premier lieu, ils comptaient ressusciter Samael et utiliser à leur profit la magie des anciens géants pour se venger de la Fédération.&lt;BR&gt;&lt;BR&gt;Ils ont réveillé les géants et découvert l'emplacement du sanctuaire renfermant la magie qu'ils convoitaient. Vous avez mis un terme aux interrogatoires que les descendants de Lok faisaient subir aux géants et empêché que leur magie ne tombe entre de mauvaises mains.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Rentrez immédiatement à Velika. Nous avons reçu des rapports inquiétants concernant les activités des descendants de Lok. Nous devons immédiatement nous occuper de ce problème.&lt;BR&gt;&lt;BR&gt;- Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">Nous ne sommes pas certains de ce qui se passe, mais les descendants de Lok ont été aperçus en nombre à la Cathédrale sombre. Elion a entrepris de partir là-bas avec un petit groupe d'hommes et il a nommément fait appel à vous.&lt;BR&gt;&lt;BR&gt;Si la population prenait conscience de la menace représentée par le complot des descendants de Lok, la Fédération Valkyon tremblerait sur ses fondations. Allez parler à Elion et aidez-le à prévenir cette catastrophe.&lt;BR&gt;&lt;BR&gt;Rompez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1168">
+        <Page social="4">Un seul allié fiable vaut parfois mieux qu'une compagnie de soldats. Je suis content de vous revoir. Seir vous a-t-il expliqué la situation?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Les descendants de Lok, c'est ça?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, encore eux!&amp;nbsp; Ils se sont jurés d'anéantir Velika et de nous faire payer la mort de Samael et l'échec de la résurrection de Lok.&lt;BR&gt;&lt;BR&gt;Les rôdeurs de Jelena ont repéré un groupe de descendants de Lok à Val Aureum, dans les parages des Ruines colossales. Elsine, une de mes cousines, a grand besoin de l'aide d'un soldat aguerri.&lt;BR&gt;&lt;BR&gt;Et c'est vous que nous allons lui envoyer!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
+        <Page social="4">Elion parle de vous dans les termes les plus élogieux. Merci de venir nous aider à mener cette mission à bien.&lt;BR&gt;&lt;BR&gt;J'ai vu les descendants de Lok fouiner à proximité des reliques présentes dans les Ruines colossales... nous ne pouvons les laisser mettre la main sur des objets capables de décupler leur puissance. Allez faire part de la situation au Primus Baruch. Ensemble, nous trouverons peut-être un moyen de les arrêter.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="1001">
+        <Page social="4">Les descendants de Lok?&amp;nbsp; Nous avions bien besoin de ça!&amp;nbsp; Je viens à peine de convaincre Turrek que la Fédération lui serait d'une aide précieuse dans son combat contre les fouaille-tripes. Maintenant, il va penser que nous avons attiré les descendants de Lok à Tulufan.&lt;BR&gt;&lt;BR&gt;Heureusement, vous voici. Il est devenu extrêmement dangereux pour Elsine de continuer de travailler dans les ruines, mais j'ai besoin d'informations pour comprendre ce qui s'y passe.&lt;BR&gt;&lt;BR&gt;Le tribun Kardelen a pris la situation en main. Vous le trouverez au Camp de Marrakeen. Faites votre possible pour l'aider!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1003">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. J'aimerais pouvoir vous aider à résoudre vos problèmes, mais nous n'arriverons pas à obtenir plus d'informations si nous n'approchons pas l'ennemi de plus près.&lt;BR&gt;&lt;BR&gt;La tribu du désert de feu est devenue agressive... Très agressive. Une attaque frontale serait bien mal inspirée. Nous pourrions sans doute en tuer un bon nombre, mais nos pertes seraient trop lourdes.&lt;BR&gt;&lt;BR&gt;Je préférerais essayer de comprendre ce qui a pu causer leur agitation. Essayez de faire parler les {@LinkCreature:18#8#destructeurs}, les {@LinkCreature:18#3#enragés} et les {@LinkCreature:18#9#prophètes} du désert de feu. S'ils ne sont pas d'humeur causante, nous envisagerons une autre solution.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1003">
+        <Page social="4">Des secrets?&amp;nbsp; La puissance de Surtr?&amp;nbsp; Cela m'a tout l'air d'une grosse affaire.&lt;BR&gt;&lt;BR&gt;Et ces noms... Ynorr, Surtr, Worlkir?&amp;nbsp; Cela me rappelle la langue des géants.&lt;BR&gt;&lt;BR&gt;Nous allons avoir besoin de l'aide d'un expert. Dinian est un spécialiste renommé de cette civilisation. Allez lui poser la question.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" prevId="8" villagerId="1001">
+        <Page social="4">Ces noms appartiennent à des géants légendaires.&lt;BR&gt;&lt;BR&gt;Quand les géants sont partis en guerre contre les dieux, ils ont créé une arme puissante et l'ont dissimulée pour la mettre à l'abri. Après quoi ils sont partis se murer dans le sommeil pour protéger leur secret.&lt;BR&gt;&lt;BR&gt;Si c'est d'eux que parlait la tribu du désert de feu...&lt;BR&gt;&lt;BR&gt;Oh non!&amp;nbsp; Les descendants de Lok ont certainement découvert le sanctuaire des géants et ils doivent être en train d'essayer de récupérer l'arme. Nous devons avertir Mirak immédiatement.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="218" prevId="9" villagerId="1022">
+        <Page social="4">Il est temps d'aller à la pêche aux informations et c'est du côté des chefs des descendants de Lok que nous devons lancer nos lignes. Adarak et Jerexis doivent disposer d'ordres écrits, de plans ou de quelque chose comme ça.&lt;BR&gt;&lt;BR&gt;La chance nous sourit... Ils ont dernièrement été aperçus à l'ouest. Essayez de trouver {@LinkCreature:18#107#Adarak} et {@LinkCreature:18#108#Jerexis}. Il est temps d'avoir une petite conversation avec eux.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="218" prevId="10" villagerId="1022">
+        <Page social="4">A en croire ceci, les descendants de Lok ont découvert les géants endormis. Après les avoir réveillés, ils les ont torturés à l'aide d'une pierre agonique pour obtenir des informations. Les géants sont certainement encore en vie!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Trouvez Nema et prévenez-la. Nous devons trouver un moyen de les secourir.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="218" villagerId="1022">
+        <Page social="0">Comment ont-ils fait cette découverte?&amp;nbsp; Et comment les arrêter?&amp;nbsp;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="218" prevId="11" villagerId="1007">
+        <Page social="4">Nous essayons de trouver la Chambre de la Gloire depuis un moment. C'est dans ces ruines que sommeillaient les géants... mais on dirait que les descendants de Lok nous ont coiffés au poteau. C'est vraisemblablement le {@LinkCreature:218#1501#téléportail} situé au centre du Temple de Tithus qui permet d'accéder à la Chambre de la Gloire.&lt;BR&gt;&lt;BR&gt;Vous allez devoir vous y introduire, éliminer les descendants de Lok et détruire la pierre agonique.&lt;BR&gt;&lt;BR&gt;Bonne chance à vous.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="218" prevId="13" villagerId="1501">
+        <Page social="4">(Accédez à la Chambre de la Gloire et sauvez les géants.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="422" prevId="14" villagerId="1003">
+        <Page social="4">Les descendants de Lok ont dérobé un tome détaillant le positionnement et le fonctionnement des défenses dont nous avons entouré nos armes. Vous devez le détruire avant qu'ils ne trouvent le moyen d'employer ces artefacts. Ils sont beaucoup trop puissants pour de simples mortels.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="422" prevId="14" villagerId="1007">
+        <Page social="4">Notre magie était la plus puissante d'entre toutes. Nous avons défié les dieux... et nous avons bien failli gagner la guerre.&lt;BR&gt;&lt;BR&gt;Mais trop sûrs de nous, nous avons cédé à la précipitation, et les dieux qui s'étaient ligués pour nous combattre ont pour ainsi dire incinéré notre race au grand complet en l'espace d'une journée.&lt;BR&gt;&lt;BR&gt;Si les descendants de Lok parviennent à mener à bien leur sombre entreprise, une telle catastrophe pourrait bien se reproduire.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="422" prevId="14" villagerId="1005">
+        <Page social="4">Les descendants de Lok ont obtenu un certain nombre d'informations relatives à notre magie. Nous avons tenté de leur résister aussi longtemps que possible, mais c'était trop dur. Pour nous punir de leur avoir résisté, ils nous ont abandonnés ici, entravés et soumis aux pires tourmentes.&lt;BR&gt;&lt;BR&gt;Vous devez récupérer le grimoire dont ils cherchent à s'emparer. Sa destruction est le seul moyen de déjouer leur complot.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="218" prevId="15" villagerId="1022">
+        <Page social="4">Les Descendants de Lok ont déjà réveillé les géants?&amp;nbsp; Nous arrivons donc trop tard.</Page>
+    </Text>
+</QuestDialog>

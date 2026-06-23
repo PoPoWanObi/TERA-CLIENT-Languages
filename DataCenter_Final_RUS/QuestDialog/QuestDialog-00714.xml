@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
+        <Page social="5">А теперь тебе предстоит встретиться... минуточку, я сверюсь... у-ух! Большие пошли.&lt;BR&gt;&lt;BR&gt;Убей несколько {@LinkCreature:24#9#Пустынных молниеносных кумасов} и доложи Каэре в лагере на Аурумской дороге.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1010">
+        <Page social="5">Все маги ценят драгоценности кумасов. Спасибо тебе за них.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1010">
+        <Page social="0">Я знаю, что с кумасами справиться нелегко, но я также знаю, что ты - опытный боец. Уверена, ты без проблем с ними разделаешься. Когда закончишь, возвращайся.</Page>
+    </Text>
+</QuestDialog>

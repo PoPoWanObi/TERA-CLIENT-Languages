@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">{@LinkCreature:528#5005#Тамур} говорит, тебе нужно захватить кое-что из Леса Тиркай.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Приказ: Явиться с докладом о ведении войны с аргонами к помощнику командира Укенулу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5011">
+        <Page social="0">Думаю, это тебе пригодится.</Page>
+    </Text>
+</QuestDialog>

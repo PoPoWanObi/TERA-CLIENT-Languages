@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Balrug muss sich ein paar Tage lang selbst um die Lehrlinge kümmern. Ich kann hier noch nicht weg. Ich bin knapp bei Kasse und muss eine große Lieferung ins Dorf mit zurückbringen.&lt;NEXTPAGEBUTTON&gt;"Kann ich irgendwie helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ich wollte kein Mitleid erheischen! Ich will nur ... verdammt!&lt;BR&gt;&lt;BR&gt;Also gut, meine Tochter ist krank - schwer krank. Die Heiler sagen, sie überlebt, wenn sie ein bestimmtes Medikament vom Mysterium bekommt, aber es ist verflucht teuer. Wenn ich genügend Häute zusammentragen kann, kann ich es mir gerade so leisten. Wenn Ihr mir wirklich helfen wollt, erlegt ein paar Säbelzähne. Ich brauche makellose Häute.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">Ich bin es nicht gewohnt, mich zu bedanken. Normalerweise bin ich nicht auf andere angewiesen, aber diese Häute werden mir einen guten Preis einbringen, sodass ich das Medikament für meine Tochter kaufen kann.&lt;BR&gt;&lt;BR&gt;Ich stehe in Eurer Schuld, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1032">
+        <Page social="0">Das Medikament für meine Tochter ist sehr teuer. Ich bitte Euch, tötet die Säbelzähne und bringt mir ihre Häute.</Page>
+    </Text>
+</QuestDialog>

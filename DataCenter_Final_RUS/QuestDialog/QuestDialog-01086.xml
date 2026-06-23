@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1037">
+        <Page social="6">Аргоны захватывают Склеп Проклятых, они уже даже начали изменять его под себя.&lt;BR&gt;&lt;BR&gt;В пещерах повсюду разбросаны их сундуки. Кто знает, что там внутри? Возможно, что-то, что поможет нам разбить их.&lt;BR&gt;&lt;BR&gt;Найди эти сундуки и принеси их мне.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1037">
+        <Page social="7">Впечатляет.&lt;BR&gt;&lt;BR&gt;Возможно, внутри находится что-то, что поможет нам остановить аргонов.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1037">
+        <Page social="0">Мне все еще нужны сундуки.</Page>
+    </Text>
+</QuestDialog>

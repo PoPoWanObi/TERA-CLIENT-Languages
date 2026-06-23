@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="5">We're having a real problem with the vulcan intruders. They're devastating the forest and inflicting significant casualties. Hunt down the {@LinkCreature:29#4041#vulcan dreadnaughts} and bring back proof of death.&lt;BR&gt;&lt;BR&gt;Report to Deirin when mission is complete. Dismissed!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1009">
+        <Page social="5">Your hard work and suffering are appreciated. Accept this bounty with our thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1009">
+        <Page social="0">Without proof of death, bounty payments aren't authorized.</Page>
+    </Text>
+</QuestDialog>

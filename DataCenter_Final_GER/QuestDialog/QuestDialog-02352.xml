@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">Ihr habt erfahren, dass Trommeln und Seerosen die Tuwangi anlocken und dass die Tuwangi Frösche mit Trommeln vertreiben.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Vedobo brauchen Hilfe. Ihr große Hilfe. Geht helfen Vedobo. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2002">
+        <Page social="4">Manche Tuwangi mögen Trommel. Wir trommeln; Tuwangi kommen.&lt;BR&gt;&lt;BR&gt;Manche Tuwangi mögen Blume. Brauchen Blumen für Tuwangi!&lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2002">
+        <Page social="4">Bringen gute Blumen. Bringen Blumen den Tuwangi.&lt;BR&gt;&lt;BR&gt;Bringen auch Trommel den Tuwangi.&lt;BR&gt;&lt;BR&gt;Lernen trommeln von Kukuta!&lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="2002">
+        <Page social="0">Brauchen Blumen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="4" villagerId="2003">
+        <Page social="4">Trommeln leicht!&lt;BR&gt;&lt;BR&gt;Schlagen Trommel. Roter Frosch, rote Trommel! Lila Frosch, lila Trommel! Blauer Frosch, blaue Trommel!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; versuchen? &lt;NEXTPAGEBUTTON&gt;"Okay, ich versuche es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="6" villagerId="2003">
+        <Page social="0">Schlagt Trommel für Tuwangi!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1011">
+        <Page social="5">Die uralten Geister tragen die Verderbnis und den Fluch von Loks Tod. Ich würde ihnen lieber helfen, anstatt sie einfach zu erschlagen, aber wir müssen ihre Verseuchung verstehen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr mir die Geistersteine der Verseuchten Jalmarak bringt, kann ich einen Weg finden, sie zu retten. Ich verspreche nichts, aber ich werde mich bemühen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1011">
+        <Page social="5">Diese Geistersteine sind ebenso wie alles andere befleckt!&lt;BR&gt;&lt;BR&gt;Wir sollten sie uns genauer ansehen. Vielleicht lässt sich das Geschehene ungeschehen machen. Das ist unsere größte Hoffnung.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1011">
+        <Page social="0">Für meine Forschung benötige ich die Geistersteine der Jalmarak, &lt;PCNAME&gt;. Bitte kommt bald mit ihnen zurück.</Page>
+    </Text>
+</QuestDialog>

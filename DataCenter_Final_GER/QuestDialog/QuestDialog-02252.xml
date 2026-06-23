@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Ich habe hier etwas, was nur Ihr erledigen könnt, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nicht alle Wächtermaschinen der Zuflucht haben sich ordnungsgemäß abgeschaltet. {@LinkCreature:71#3007#Bakra} wird Euch hinführen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">{@g:Ein/Eine} &lt;PCCLASS&gt;! Genau was ich brauche!&lt;BR&gt;&lt;BR&gt;Nach Balders Tod haben die Götter den Zugang zu diesem Ort verboten und von den Iskaragards gebaute Maschinen hergebracht. Als die Götter den Ort wieder freigaben, wurden die Maschinen alle abgeschaltet.&lt;BR&gt;&lt;BR&gt;Fast alle. Einer dieser Iskaragards hat mich heute Morgen fast umgebracht. Könnt Ihr ihn zur Strecke bringen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Ich danke Euch, {@gender:Held/Heldin}. Wäre er auch auf die Faultiere losgegangen, wäre ich sicher nachsichtiger gewesen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="3007">
+        <Page social="4">Ich kann die Ranken nicht beschneiden, wenn mich dieses Ding zu zerstückeln droht.&lt;BR&gt;&lt;BR&gt;Ihr seid eine große Hilfe, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="3007">
+        <Page social="4">Diese Dinger sind wirklich für die Ewigkeit gebaut. Erstaunlich, dass überhaupt noch etwas von ihnen da ist, das kaputt gehen kann!&lt;BR&gt;&lt;BR&gt;Unsere Teams haben noch immer nicht herausgefunden, warum immer wieder Neue auftauchen.</Page>
+    </Text>
+</QuestDialog>

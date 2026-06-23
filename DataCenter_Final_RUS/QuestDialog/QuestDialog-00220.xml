@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0">Во время сражения с гулами в Голодных пещерах вы встретили солдата, Детриана, который попросил вас передать подарок своей младшей сестре. Сестра передала Детриану ответный подарок.&lt;BR&gt;&lt;BR&gt;После этого он отправился на свой пост в Голодных пещерах.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="5">Гулы... от одной мысли о них меня бросает в дрожь.&lt;BR&gt;&lt;BR&gt;Одно дело вскрыть врагу глотку или выпустить ему кишки. Но есть своих врагов - я имею в виду, приготовить их и съесть, как обычное мясо - это ни в какие ворота не лезет.&lt;BR&gt;&lt;BR&gt;Мечи Кайи пытались истребить их, но это цепкие твари.&lt;NEXTPAGEBUTTON&gt;"Я могу помочь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Уверена, ты справишься, &lt;PCNAME&gt;. Отправляйся туда немедленно.&lt;BR&gt;&lt;BR&gt;Пока я делаю бумажную работу, окажешь мне небольшую услугу? Передай Детриану в Кастанике приказ о возвращении.&lt;BR&gt;&lt;BR&gt;У него сейчас увольнительная, но он нужен нам здесь. Пусть возвращается, как только сможет... м-м... освободиться от... м-м... возможностей для отдыха, которые предоставляет Кастаника.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1106">
+        <Page social="5">Приказ о возвращении, а? Как всегда.&lt;BR&gt;&lt;BR&gt;Ты тоже направляешься в Голодные пещеры?&lt;NEXTPAGEBUTTON&gt;"Ага".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Я знаю эти пещеры как свои пять пальцев, но... &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, сможешь передать эту куклу моей сестренке Хеннике?&lt;BR&gt;&lt;BR&gt;Я обещал ей привезти ее сам, но мне нужно срочно возвращаться, так что даже нет времени заскочить домой.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1107">
+        <Page social="5">Мой братишка лучше всех! Никогда обо мне не забывает.&lt;BR&gt;&lt;BR&gt;И я о нем тоже. У меня есть для него вот этот амулет, но я сама не смогу его передать.&lt;BR&gt;&lt;BR&gt;Но ведь ты-то сможешь! Ты ведь идешь туда, к нему, не так ли? Просто скажи, что Хенника хочет, чтобы он был в безопасности и передает ему счастливый амулет.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1023">
+        <Page social="5">Чарм? Это очень мило. Как и сама Хенника. Мне так ее не хватает.&lt;BR&gt;&lt;BR&gt;Что ж, пора двигаться дальше, &lt;PCNAME&gt;. Карина ждет тебя на Заставе мстителей.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
+        <Page social="5">&lt;PCNAME&gt;, ты здесь! Да начнется бойня!&lt;BR&gt;&lt;BR&gt;Первая цель - {@LinkCreature:8#2031#Гулы-рабовладельцы} и {@LinkCreature:8#2021#Кайманы-наемники}.&lt;BR&gt;&lt;BR&gt;Сообщи мне, когда покончишь с ними.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
+        <Page social="5">Твой энергичный подход мне по нраву, &lt;PCNAME&gt;. Но это только начало.</Page>
+    </Text>
+</QuestDialog>

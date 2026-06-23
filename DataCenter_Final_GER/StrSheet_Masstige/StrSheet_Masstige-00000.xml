@@ -1,0 +1,42 @@
+<StrSheet_Masstige xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Masstige StrSheet_Masstige.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Masstige">
+    <String readableId="SMT_MASSTIGE_MAIN_TITLE">Avatarwaffen</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_SECTION_TITLE">Verfügbare Waffe</String>
+    <String readableId="SMT_MASSTIGE_CURRENT_SECTION_TITLE">Beschaffte Waffe</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_ITEM_UNAVAILBLE">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_CAN_ENCHANT_N_TIMES">Ihr könnt Eure Avatarwaffe {Num}-mal verzaubern.</String>
+    <String readableId="SMT_MASSTIGE_CAN_ENCHANT_N_TIMES_LONG">Ihr habt genug Rohmaterial für {Num} Verzauberungsversuch(e).</String>
+    <String readableId="SMT_MASSTIGE_OPEN_ENCHANT_WINDOW">Verzaubern</String>
+    <String readableId="SMT_MASSTIGE_MAXIMUM_ENCHANT_COUNT_REACHED">Vollständig verzaubert</String>
+    <String readableId="SMT_MASSTIGE_INSUFFICIENT_ENCHANT_MATERIALS">Ihr habt nicht genügend Material.</String>
+    <String readableId="SMT_MASSTIGE_EQUIP_OBTAINED_MASSTIGE_ITEM">Ausrüsten</String>
+    <String readableId="SMT_MASSTIGE_EQUIP_OBTAINED_MASSTIGE_NOW">Eure Waffe ist bereit.</String>
+    <String readableId="SMT_MASSTIGE_COLLECT_MATERIALS_FOR_ENCHANT">Sammelt Rohmaterial und Alkahest, um Euren Gegenstand zu verzaubern.</String>
+    <String readableId="SMT_MASSTIGE_RECEIVE_MASSTIGE_ITEM">Waffe beschaffen</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS">Sammeln.</String>
+    <String readableId="SMT_MASSTIGE_NOT_DISCOVERED_YET">Unerforscht</String>
+    <String readableId="SMT_MASSTIGE_NOT_DISCOVERED_YET_LONG">Tötet Monster, um die Reliktfragmente zu finden, die Ihr braucht.</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_LONG">{TokenName} sammeln.</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_FINISHED_LONG">{TokenName} gesammelt.</String>
+    <String readableId="SMT_MASSTIGE_GAUGE_TEXT">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TITLE">Avatarwaffen</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TEXT">{MasstigeName} herstellen? Ihr werdet automatisch damit ausgerüstet, soabld Eure Stufe hoch genug ist.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_YES">Bestätigen</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_NO">Abbrechen</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TITLE">Verzaubern</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TEXT">Verzauberung ist im Gang. Versucht es später noch einmal.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_YES">Bestätigen</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TITLE">&lt;font size='22' color='#ffffff'&gt;Entdecktes Reliktfragment&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT">&lt;font size='20' color='#ff7200'&gt;Ihr habt ein Reliktfragment entdeckt.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT2">&lt;font size='20' color='{Color}'&gt;{TokenName} sammeln ({CurrentTokenNum}/{TargetTokenNum})&lt;/font&gt;&lt;br&gt;Genaueres findet Ihr in Eurem Inventar (I).</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_NEEDLESSLY_TEXT2">&lt;font size='18' color='{Color}'&gt;{TokenName} entdeckt, aber dieses Relikt habt Ihr bereits zusammengesetzt.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TITLE">&lt;font size='22' color='#ffffff'&gt;Reliktfragment gesammelt&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TEXT">&lt;font size='24' color='#ffff00'&gt;Ihr habt {TokenName} gesammelt.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TEXT2">&lt;font size='24' color='{Color}'&gt;Glückwunsch!&lt;/font&gt;&lt;br&gt;Öffnet Euer Inventar (I), um Eure neue Waffe zu erhalten.</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP">&lt;font size='20' color='#ffff00'&gt;Avatarwaffen&lt;/font&gt;&lt;br&gt;&lt;br&gt;Avatarwaffen werden aus Reliktfragmenten hergestellt, die Ihr von erlegten Monstern in den unten aufgelisteten Gebieten sammeln könnt.</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGIONS">So findet Ihr die Reliktfragmente, die Ihr braucht:&lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGION">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;{HzName}</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGIONS">&lt;font color='#ffff00'&gt;Gebiet(e) mit Reliktfragmenten:&lt;/font&gt;&lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGION">{HzName}</String>
+    <String readableId="SMT_MASSTIGE_NO_MORE_TOKENS_EXIST">[Avatar Weapons Complete]&lt;br&gt;Ihr habt alle verfügbaren Relikte gesammelt.&lt;br&gt;&lt;br&gt;Glückwunsch!</String>
+    <String readableId="SMT_MASSTIGE_NO_OBTAINED_MASSTIGE_ITEM">&lt;font size='16' color='#ffffff'&gt;Avatarwaffe&lt;/font&gt;&lt;br&gt;&lt;br&gt;Sammelt Reliktfragmente und fertigt daraus eine Avatarwaffe.</String>
+</StrSheet_Masstige>

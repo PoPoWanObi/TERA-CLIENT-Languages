@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="5">Hey! Interested in a little wager? You're looking at the fastest runner in all of Val Aureum.&lt;NEXTPAGEBUTTON&gt;"I find that...doubtful."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hah! I knew you'd say that. All right then, how about a contest? First one to reach Loqa at the West Watchpost, by way of Sandwalker Refuge, wins.&lt;BR&gt;&lt;BR&gt;What do you say?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
+        <Page social="4">Ready to eat my dust?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1007">
+        <Page social="5">Pfft. Raquib's not fast, he's just fast for a berserker.&lt;BR&gt;&lt;BR&gt;Rub his nose in it, but don't go overboard with the humiliation. He's still one of the best soldiers we've got.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="4" villagerId="1012">
+        <Page social="5">All right, all right—get it over with.&lt;NEXTPAGEBUTTON&gt;"No hard feelings, Raquib."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yeah? You're all right, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Next time you're in Tulufan, look me up. The drinks are on me.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="4">Ich soll Waffen entwickeln, mit denen wir den Argonen überlegen sind. Zahlenmäßig sind wir ganz gewiss nicht im Vorteil.&lt;NEXTPAGEBUTTON&gt;"Habt Ihr ein paar Prototypen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich habe hier einige {@RAWITEM:45292}en, die für Argonen, aber niemand anderen gefährlich sind.&lt;BR&gt;&lt;BR&gt;Ihr könnt sie testen, aber sterbt bitte nicht dabei.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">Diese Bombe müsste Hulrapschläger in der Nähe vom {@Rgn:48008} beeinträchtigen. Vermutlich sterben sie nicht davon, werden aber zahmer.&lt;BR&gt;&lt;BR&gt;Oder es geschieht etwas ganz anderes. Erstattet mir hinterher Bericht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Nach der Auswahl von Teil 1, Dialog Seite 1)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Nach der Auswahl von Teil 2, Dialog Seite 1)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Nach der Auswahl von Teil 3, Dialog Seite 1)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="6">Nehmt diesen Argonenflussmodulator. Testet ihn einfach an den Hulrapschlägern und erstattet mir Bericht.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="1017">
+        <Page social="6">Er hat sich in einen Frosch verwandelt? Großartig.&lt;BR&gt;&lt;BR&gt;Hätte er sich in ein Ferkel verwandelt, hätten wir bald die fetteste Armee der Geschichte.&lt;BR&gt;&lt;BR&gt;Nun gut. Zurück ans Reißbrett.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="1017">
+        <Page social="6">Nehmt diesen Argonenflussmodulator. Testet ihn einfach an den Hulrapschlägern und erstattet mir Bericht.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1017">
+        <Page social="6">Er ist geschrumpft? Bemerkenswert.&lt;BR&gt;&lt;BR&gt;Wenn ich die Formel an Akalathe und Gilgashe anpassen kann, würde das den Verlauf des Krieges ändern!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="1017">
+        <Page social="6">Nehmt diesen Argonenflussmodulator. Testet ihn einfach an den Hulrapschlägern und erstattet mir Bericht.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="1017">
+        <Page social="6">Stärker? Das ist übel.&lt;BR&gt;&lt;BR&gt;Ich weiß nicht, was schiefgelaufen ist und muss meine Notizen überprüfen. Also zurück ans Reißbrett.</Page>
+    </Text>
+</QuestDialog>

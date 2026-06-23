@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Sprecht mit Linkia in Kanstria.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1011">
+        <Page social="4">Hey! Ich kenne Euch nicht. Kommt Ihr aus Kaiator?&lt;NEXTPAGEBUTTON&gt;"Nein, aber ich bin hier, um zu helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Wir sind schon seit einer Weile isoliert. Als die Argonen unsere Flugplattform getroffen haben, schnitt uns das mehr ab, als wir erwartet hatten.&lt;BR&gt;&lt;BR&gt;Aber wenn Ihr hier seid, hat man uns nicht vergessen. Vielen Dank.</Page>
+    </Text>
+</QuestDialog>

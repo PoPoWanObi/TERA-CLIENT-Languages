@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="4">Нам нужно выполнить норму по заготовке бревен, но за последние несколько дней мы не продвинулись ни на шаг.&lt;BR&gt;&lt;BR&gt;Леннерт, который сидит в Деревне лесорубов, рвет и мечет, и не желает слушать никаких оправданий. Человек он, конечно, жесткий, но я могу его понять. Солдатам на фронте наши оправдания все равно, что мертвому припарка, им нужен лес.&lt;BR&gt;&lt;BR&gt;В общем, надо вернуть моих людей на заготовки...&lt;NEXTPAGEBUTTON&gt;"И чем я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Рубить лес тебя, конечно же, никто не просит, но ты можешь расчистить дорогу к деревьям.&lt;BR&gt;&lt;BR&gt;Избавься от {@LinkCreature:2#3#Кентавров}!&lt;BR&gt;&lt;BR&gt;Я щедро заплачу тебе за каждую гриву, которую ты принесешь! Задай им жару, может, они поймут намек!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">Никогда не видел, чтобы кентавры драпали с такой скоростью! Конечно, они еще вернутся, но мои люди к тому моменту успеют поработать.&lt;BR&gt;&lt;BR&gt;По крайней мере, дневную норму мы выполним... благодаря тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1047">
+        <Page social="0">Уничтожь {@LinkCreature:2#3#Кентавров}, хорошо? Я же не прошу обуздать высшие силы!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4">Рад тебя видеть, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Я люблю заниматься делами. А знаешь, что я терпеть не могу? Медлительность. Мелочь, казалось бы, но кое-кто из моих партнеров не спешит отправить мне свежие конторские книги.&lt;BR&gt;&lt;BR&gt;Ты можешь мягко напомнить им. И я серьезно говорю: мягко.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">Привет. Что тебя сюда привело?&lt;NEXTPAGEBUTTON&gt;"Джаксу нужны свежие конторские книги".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Вот! Вот! Во имя титанов, не убивай меня!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1703">
+        <Page social="4">Что такое, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Джаксу нужны свежие конторские книги".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">У меня есть семья... прошу тебя! Вот, возьми! Отнеси Джаксу и скажи, что я больше никогда не опоздаю!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1704">
+        <Page social="4">Еще один славный денек, верно, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Джаксу нужны свежие конторские книги".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">И он прислал тебя, чтобы... постой! Нам необязательно доводить до крайностей... сейчас я быстро все подпишу. Почти готово!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1705">
+        <Page social="4">Что я могу для тебя сделать?&lt;NEXTPAGEBUTTON&gt;"Джаксу нужны свежие конторские книги".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Не бей меня! Только не в лицо! Вот, возьми книгу... и скажи Джаксу, что я прошу прощения!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1701">
+        <Page social="4">Быстро ты. Надеюсь, трудностей не возникло?&lt;BR&gt;&lt;BR&gt;Вот тебе небольшая награда за труды.</Page>
+    </Text>
+</QuestDialog>

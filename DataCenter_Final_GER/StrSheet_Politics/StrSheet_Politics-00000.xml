@@ -1,0 +1,84 @@
+<StrSheet_Politics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Politics StrSheet_Politics.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Politics">
+    <String id="1" string="Wahlkommitee von Valkyon" />
+    <String id="2" string="Wahlinformation" />
+    <String id="3" string="Nehmt die Zügel in die Hand! Bewerbt Euch um das Amt eines Vanarchen der Valkyon-Föderation und erlangt Macht und Ehre. Jeder Vanarch verwaltet eine Provinz, legt Richtlinien fest und profitiert von den örtlich erhobenen Steuern.&#xA;&#xA;Ihr könnt Eure Kandidatur beim Registrar in jeder Stadt anmelden.&#xA;Voraussetzungen:&#xA;   Mindestens Stufe {UserLevel}&#xA;   Gildenmeister einer Gilde der Stufe {GuildLevel} mit mehr als {Count} Gildenmitgliedern.&#xA;Registrierungsgebühr:&#xA;   {Amount} Catharnachpreise&#xA;   {Gold@money}.&#xA;Viel Glück!" />
+    <String id="4" string="{ElectionContinent}: Für Eure Wahl" />
+    <String id="5" string="Wahlinformationen für {ElectionContinent}&#xA;Ihr habt für {UserName} aus der Gilde &quot;{GuildName}&quot; gestimmt." />
+    <String id="6" string="Regionale PvP-Regeln" />
+    <String id="7" string="Globale PvP-Einstellungen benutzen" />
+    <String id="8" string="Kein PvP" />
+    <String id="10" string="Händler vor Ort" />
+    <String id="20" string="Kleriker vor Ort" />
+    <String id="30" string="Ausbilder vor Ort" />
+    <String id="40" string="Handelsagenten der Provinz" />
+    <String id="31" string="Angemeldet: {lordNumber}. Vanarchenwettkampf" />
+    <String id="32" string="Vielen Dank für Eure Anmeldung zum {lordNumber}. Vanarchenwettkampf und viel Glück!&#xA;Details&#xA;Kontinent: {ElectionContinent}&#xA;Entscheidung durch: {ContestType}&#xA;Bevorzugte Provinzen:&#xA;1. Provinz: {guardName1}&#xA;2. Provinz: {guardName2}&#xA;3. Provinz: {guardName3}&#xA;4. Provinz: {guardName4}&#xA;5. Provinz: {guardName5}&#xA;&#xA;Um zu gewinnen, müsst Ihr Euch den Respekt Eurer Mitspieler verdienen!" />
+    <String id="41" string="Vanarchie - Wettkampfergebnisse: {ElectionContinent}" />
+    <String id="42" string="Herzlichen Glückwunsch! Ihr seid der {lordNumber}. Vanarch der Provinz {guardName}!&#xA;Privilegien: Ihr erhaltet Gold aus Steuerüberschüssen. Eure Gildenmitglieder erhalten glorreiche Rösser. &#xA;Vollmachten: Ihr könnt Steuersätze festlegen, PvP-Regeln ändern, Spezial-NPCs ernennen und Provinzankündigungen an Benutzer verschicken.&#xA;Vorgehensweise: Setzt die Richtlinien und Steuersätze zusammen mit den Beratern, die Ihr in den meisten Provinzdörfern finden könnt, um." />
+    <String id="101" string="Ende der Vanarchenamtszeit" />
+    <String id="102" string="Die Föderation dankt Euch für Eure Dienste. Im Anhang erhaltet Ihr den Rest Eurer Bezüge aus den Steuerüberschüssen der Provinz." />
+    <String id="201" string="nicht mehr auf der Rangliste" />
+    <String id="301" string="Wahl" />
+    <String id="302" string="GvG-Wettkampf" />
+    <String id="1001" string="Steuersätze für Geschäfte und Dienstleistungen" />
+    <String id="1002" string="Umsatzsteuer - allgemeine Artikel" />
+    <String id="1003" string="Umsatzsteuer - Kristalle" />
+    <String id="1004" string="Umsatzsteuer - Glyphen" />
+    <String id="1005" string="Umsatzsteuer - Handwerk" />
+    <String id="1006" string="Umsatzsteuer - Spezialwaren" />
+    <String id="2001" string="Dienstleistungssteuersätze" />
+    <String id="2002" string="Flugsteuer" />
+    <String id="2003" string="Fertigkeitenausbildungssteuer" />
+    <String id="2004" string="Teleportalsteuer" />
+    <String id="31300005" string="Läden für Spezialwaren geschlossen" />
+    <String id="31300006" string="Läden für Spezialwaren geöffnet" />
+    <String id="31300007" string="Kleriker der Wiederherstellung" />
+    <String id="31300008" string="Edle Kleriker der Wiederherstellung" />
+    <String id="31300009" string="Fertigkeitenausbilder außer Dienst" />
+    <String id="31300010" string="Fertigkeitenausbilder im Dienst" />
+    <String id="31300011" string="Keine Handelsagenten" />
+    <String id="31300012" string="Handelsagenten zugegen" />
+    <String id="10001" string="Lasst PvP in Eurer Provinz zu." />
+    <String id="10002" string="Untersagt PvP in Eurer Provinz." />
+    <String id="10003" string="Schließt Läden für Spezialwaren, die es in normalen Läden nicht zu kaufen gibt." />
+    <String id="10004" string="Öffnet Läden für Spezialwaren, die es in normalen Läden nicht zu kaufen gibt." />
+    <String id="10005" string="Kleriker der Wiederherstellung stellen die Ausdauer der Spieler wieder her." />
+    <String id="10006" string="Edle Kleriker der Wiederherstellung stellen die Ausdauer des Spielers wieder her und verleihen außerdem Geschwindigkeitserhöhungen." />
+    <String id="10007" string="Schließt hiesige Fertigkeitenausbilder." />
+    <String id="10008" string="Bietet hiesige Fertigkeitenausbilder an." />
+    <String id="10009" string="Umsatzsteuersatz in lokalen Läden für allgemeine Artikel." />
+    <String id="10010" string="Umsatzsteuersatz in lokalen Kristallläden." />
+    <String id="10011" string="Umsatzsteuersatz bei Glyphenmeistern." />
+    <String id="10012" string="Umsatzsteuersatz in lokalen Handwerksläden." />
+    <String id="10013" string="Dienstleistungssteuer für Pegasusreisen in der Provinz." />
+    <String id="10014" string="Dienstleistungssteuer für Fertigkeitenausbildung in der Provinz." />
+    <String id="10015" string="Dienstleistungssteuer für Teleportreisen in der Provinz." />
+    <String id="10016" string="{UserName} hat die Politik &quot;{PolicyName}&quot; der Provinz {GuardName} in &quot;{PolicyItemName}&quot; geändert." />
+    <String id="10017" string="{UserName} hat die Politik &quot;{PolicyName}&quot; der Provinz {GuardName} in &quot;{PolicyItemName}&quot; geändert." />
+    <String id="10018" string="Die Politik &quot;{PolicyName}&quot; der Provinz {GuardName} wurde auf &quot;{PolicyItemName}&quot; zurückgesetzt." />
+    <String id="10019" string="Provinz hat keine Handelsagenten" />
+    <String id="10020" string="Provinz hat Handelsagenten" />
+    <String id="10021" string="Umsatzsteuersatz in lokalen Läden für Spezialwaren." />
+    <String id="20001" string="GvG-Wettkampf" />
+    <String id="20002" string="Wahl" />
+    <String id="20011" string="Anmeldung" />
+    <String id="20012" string="Wettkampf" />
+    <String id="20013" string="Regierung" />
+    <String id="20021" string="Gildenmeister können sich im Zuge der Anmeldephase zur Kandidatur beim Registrar für das&lt;BR&gt;Amt des Vanarchen registrieren und ihre Lieblingsprovinz wählen." />
+    <String id="20022" string="Kandidaten konkurrieren auf dem Kontinent ihrer Wahl durch Stimmen oder&lt;BR&gt;GvG-Punkte um eine Zone. Es werden auf jedem Kontinent Wettkämpfe abgehalten. Berechtigte Spieler können an&lt;BR&gt;den Wahlen teilnehmen, indem sie das Wahlsymbol neben ihrem Kompass anklicken.&lt;BR&gt;Der Kandidat mit den meisten Stimmen oder GvG-Punkten gewinnt." />
+    <String id="20023" string="Wenn Ihr ein Vanarchenamt gewinnt, wird Euch abhängig von Eurer gewählten Provinzliste sowie Eurem erreichten Rang auf dem Schlachtfeld bzw. im Wahlkampf eine Provinz zugewiesen.&lt;BR&gt;Ihr seid dazu verpflichtet, diese Provinz ehrenvoll zu verwalten. Durch die Hilfe von NPC-Beratern können Vanarchen Richtlinien erlassen, Steuersätze festlegen und die Ordnung aufrechterhalten." />
+    <String id="20031" string="Derzeitige Phase: Anmeldung&lt;br&gt;Endet: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Nächste Phase: Wettkampf&lt;br&gt;Beginnt: {NextStateStartTime}" />
+    <String id="20032" string="Derzeitige Phase: Wettkampf&lt;br&gt;Endet: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Nächste Phase: Amtszeit&lt;br&gt;Beginnt: {NextStateStartTime}" />
+    <String id="20033" string="Derzeitige Phase: Amtszeit&lt;br&gt;Endet: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Nächste Phase: Anmeldung&lt;br&gt;Beginnt: {NextStateStartTime}" />
+    <String id="20041" string="Keine" />
+    <String id="20042" string="Wettkampfpunkte: {Score}" />
+    <String id="30001" string="Keine Amtszeiten als Vanarch" />
+    <String id="30002" string="{lordNumber}. Vanarch von {guardName}" />
+    <String id="30011" string="Vanarchenrangliste" />
+    <String id="30012" string="Vanarchenrangliste je Kontinent" />
+    <String id="30013" string="Rangliste der Vanarchenaktivität" />
+    <String id="30014" string="Erlangte Punkte durch Vanarchenaktivität" />
+    <String id="30015" string="{place}{@ordinal:{place}} Platz" />
+    <String id="30016" string="{points} Punkt{@select:{points}/e//e}" />
+    <String id="40001" string="{areaRanking}{@ordinal:{areaRanking}} Platz in {areaTypeName}" />
+</StrSheet_Politics>

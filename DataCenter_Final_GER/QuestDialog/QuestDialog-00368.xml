@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">Da die Fischereiflotte im Hafen festsitzt und alle sich fürchten das Dorf zu verlassen, haben wir kein Einkommen! Und das wird sich so bald nicht ändern. Die alten Zeiten sind für immer vorbei - wir müssen unseren Lebensunterhalt anders verdienen.&lt;BR&gt;&lt;BR&gt;Das Zauberwort, &lt;PCCLASS&gt;, heißt: "Haut".&lt;BR&gt;&lt;BR&gt;Nein, nicht "haut", wie "haut vor den Piraten ab", sondern "Haut", wie "zieht den {@LinkCreature:11#4004#Stachelschwanzkamara} die Haut ab und verkauft sie mit hohem Profit!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">Gut gemacht, &lt;PCNAME&gt;! Ihr seid ein leuchtendes Vorbild und zeigt allen Fischersleuten, wie die Zukunft aussieht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1007">
+        <Page social="0">Würdet Ihr lieber wie alle anderen am Dock sitzen und Euch vorstellen: "Vielleicht lösen sich die Piraten heute wie von Zauberhand in Luft auf und wir können wieder auslaufen"?&lt;BR&gt;&lt;BR&gt;Ich glaube nicht. Schnappt Euch diese {@LinkCreature:11#4004#Stachelschwanzkamara}!</Page>
+    </Text>
+</QuestDialog>

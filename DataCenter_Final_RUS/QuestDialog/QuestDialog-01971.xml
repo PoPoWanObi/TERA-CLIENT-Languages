@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">Инвалеско выделили значительные ресурсы на изучение способов изменения аргонами нашего мира. Их способности в технологиях как вдохновляют, так и пугают.&lt;BR&gt;&lt;BR&gt;Я бы хотел узнать, на каком этапе находятся наши исследования. Отправляйся на Полевую базу ''Содействие'' и поговори с нашими исследователями.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">Технология аргоноформирования? Конечно, это объект наших исследований, но не я за него отвечаю. Начальство выше по лестнице, наслаждается видами и отсутствием нападений аргонов!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">Я забыл! У меня все доклады были в одной куче.&lt;BR&gt;&lt;BR&gt;Клянусь, если бы они не были скреплены, я бы поплатился своими рогами.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="3502">
+        <Page social="4">Я только сегодня утром закончил доклад. Надеюсь, это поможет {@LinkCreature:77#3001#Нитану} в наших исследованиях.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="3504">
+        <Page social="4">От выводов в этом докладе у меня волосы на голове стали дыбом. Интересно, что {@LinkCreature:77#3001#Нитан} будет со всем этим делать?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="3505">
+        <Page social="4">Аргоны преобразовывают наш мир под себя, делая его более непригодным для нас. Что означает, что наши расы в какой-то степени не очень сочетаются.&lt;BR&gt;&lt;BR&gt;В докладе суммируются все наши выводы. Отнеси его {@LinkCreature:77#3001#Нитану}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3001">
+        <Page social="4">Превосходно. Мне не терпится увидеть, что нового обнаружили наши лучшие умы по этой проблеме.&lt;BR&gt;&lt;BR&gt;Спасибо за помощь, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" villagerId="3001">
+        <Page social="0">Мне нужен этот доклад, &lt;PCNAME&gt;. Мы не можем без него обойтись.</Page>
+    </Text>
+</QuestDialog>

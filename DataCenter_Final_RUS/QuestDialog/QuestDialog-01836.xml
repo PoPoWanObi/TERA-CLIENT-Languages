@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="0">Вы пробились к платформе дирижаблей и захватили одну из летающих машин, чтобы атаковать парфианцев с воздуха.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="4">Тебе нужно зайти противнику в тыл. Мы используем для этого вашу странную летающую машину.&lt;BR&gt;&lt;BR&gt;Возьмем их в клещи и встретимся в середине!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2132">
+        <Page social="4">Чтобы попасть к платформе дирижаблей, нужно пробиться через войска архидеванцев в долине на севере.&lt;BR&gt;&lt;BR&gt;Добравшись до судна, поднимайся на борт.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2133">
+        <Page social="4">Я наблюдал за боем. Ты хорошо сражаешься. Отрадно видеть, что Сеир все еще умеет выбирать лучших.&lt;BR&gt;&lt;BR&gt;Нам нужны кое-какие запчасти для дирижабля. Без них он не взлетит.&lt;BR&gt;&lt;BR&gt;Отыщи ящики и доставь их Гарогу.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2103">
+        <Page social="4">Тебе удалось найти их! Хвала Кайе!&lt;BR&gt;&lt;BR&gt;Я заведу дирижабль. Поднимайся на борт. Мы атакуем!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="2103">
+        <Page social="0">Без деталей мы не взлетим.</Page>
+    </Text>
+</QuestDialog>

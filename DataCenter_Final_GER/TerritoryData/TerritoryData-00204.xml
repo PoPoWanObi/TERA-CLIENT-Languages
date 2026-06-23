@@ -1,0 +1,180 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="481" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="48100001" desc="탱커 1단계 얄(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40337.2266,68413.4531,759.7480" />
+                <Fence pos="-40678.1641,68155.7422,758.7480" />
+                <Fence pos="-40344.8398,67842.4531,758.4805" />
+                <Fence pos="-39998.6836,68151.2500,758.7480" />
+                <Npc dir="95" npcTemplateId="101">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100002" desc="체크용 테리토리(48100002)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-39923.6406,69004.6484,759.7935" />
+                <Fence pos="-40835.7461,68930.1797,759.7087" />
+                <Fence pos="-40857.0625,68068.5156,760.0178" />
+                <Fence pos="-39899.2695,68071.1797,759.4490" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100003" desc="탱커 2단계 가디언(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40340.4453,68415.4453,759.7480" />
+                <Fence pos="-40681.3828,68157.7344,758.7480" />
+                <Fence pos="-40348.0586,67844.4453,758.5195" />
+                <Fence pos="-40001.9023,68153.2422,758.7480" />
+                <Npc dir="95" npcTemplateId="103">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100004" desc="탱커 3단계 아라크네아(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40333.3672,68397.4922,759.7480" />
+                <Fence pos="-40674.3047,68139.7813,758.7480" />
+                <Fence pos="-40340.9805,67826.4922,757.9355" />
+                <Fence pos="-39994.8242,68135.2891,758.7480" />
+                <Npc dir="95" npcTemplateId="102">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100005" desc="근딜 1단계 얄(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40337.5430,68408.3828,759.7480" />
+                <Fence pos="-40678.4805,68150.6719,758.7480" />
+                <Fence pos="-40345.1563,67837.3828,758.3906" />
+                <Fence pos="-39999.0000,68146.1797,758.7480" />
+                <Npc dir="95" npcTemplateId="201">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100006" desc="근딜 2단계 가디언(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40335.3125,68418.4141,759.7480" />
+                <Fence pos="-40676.2500,68160.7031,758.7480" />
+                <Fence pos="-40342.9258,67847.4141,758.5020" />
+                <Fence pos="-39996.7695,68156.2109,758.7480" />
+                <Npc dir="95" npcTemplateId="203">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100007" desc="근딜 3단계 아라크네아(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40335.0273,68409.9531,759.7480" />
+                <Fence pos="-40675.9648,68152.2422,758.7480" />
+                <Fence pos="-40342.6406,67838.9531,758.4336" />
+                <Fence pos="-39996.4844,68147.7500,758.7480" />
+                <Npc dir="95" npcTemplateId="202">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100008" desc="원거리 1단계 얄(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40335.3672,68393.0781,759.7480" />
+                <Fence pos="-40676.3047,68135.3672,758.7480" />
+                <Fence pos="-40342.9805,67822.0781,757.7793" />
+                <Fence pos="-39996.8242,68130.8750,758.7480" />
+                <Npc dir="95" npcTemplateId="301">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100009" desc="원거리 2단계 가디언(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40327.4180,68407.7344,759.7480" />
+                <Fence pos="-40668.3555,68150.0234,758.7480" />
+                <Fence pos="-40335.0313,67836.7344,758.2852" />
+                <Fence pos="-39988.8750,68145.5313,758.7480" />
+                <Npc dir="95" npcTemplateId="303">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100010" desc="원거리 3단계 아라크네아(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40346.3203,68404.2813,759.7480" />
+                <Fence pos="-40687.2578,68146.5703,758.7480" />
+                <Fence pos="-40353.9336,67833.2813,758.3027" />
+                <Fence pos="-40007.7773,68142.0781,758.7480" />
+                <Npc dir="95" npcTemplateId="302">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100011" desc="힐러용 1단계 얄(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40336.9727,68406.8281,759.7480" />
+                <Fence pos="-40677.9102,68149.1172,758.7480" />
+                <Fence pos="-40344.5859,67835.8281,758.3242" />
+                <Fence pos="-39998.4297,68144.6250,758.7480" />
+                <Npc dir="95" npcTemplateId="401">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100012" desc="힐러용  2단계 가디언(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40336.3164,68410.3828,759.7480" />
+                <Fence pos="-40677.2539,68152.6719,758.7480" />
+                <Fence pos="-40343.9297,67839.3828,758.4473" />
+                <Fence pos="-39997.7734,68148.1797,758.7480" />
+                <Npc dir="95" npcTemplateId="403">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100013" desc="힐러용 3단계 아라크네아(48100001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40337.2148,68420.2500,759.7480" />
+                <Fence pos="-40678.1523,68162.5391,758.7480" />
+                <Fence pos="-40344.8281,67849.2500,758.5332" />
+                <Fence pos="-39998.6719,68158.0469,758.7480" />
+                <Npc dir="95" npcTemplateId="402">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="48100015" desc="새 테리토리 그룹(48100015)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="-40379.9414,69794.3281,760.4784" />
+                <Fence pos="-40571.9766,69581.7734,755.4525" />
+                <Fence pos="-40217.3477,69548.5547,749.2137" />
+                <Npc dir="-90" npcTemplateId="1501">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

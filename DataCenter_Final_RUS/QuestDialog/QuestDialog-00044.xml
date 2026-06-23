@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="4">Моя коллега - Нерия - не смогла уследить за своим помощником, Тимуроном. Он отправился на кладбище, чтобы самостоятельно собрать образцы. Конечно, в храбрости и смекалке парню не откажешь. Но он до сих пор не вернулся. Боюсь, что ему нужна помощь. Можешь его поискать? Уверен, Нерия сильно переживает из-за него.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1014">
+        <Page social="4">Тебя прислал Эседран? Слава Велике!&lt;BR&gt;&lt;BR&gt;Я проверял различные смеси на останках, до которых смог добраться. Думаю, Нерия сможет извлечь из моей находки гораздо большую пользу, чем ты или я.&lt;BR&gt;&lt;BR&gt;Можешь отнести ей эту штуку? Ну а я пока останусь здесь и попробую выяснить что-нибудь еще.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1021">
+        <Page social="4">Спасибо тебе, &lt;PCNAME&gt;! И спасибо за известие о том, что с Тимуроном все в порядке.&lt;BR&gt;&lt;BR&gt;А теперь тебе лучше отойти - я собираюсь провести научный эксперимент.</Page>
+    </Text>
+</QuestDialog>

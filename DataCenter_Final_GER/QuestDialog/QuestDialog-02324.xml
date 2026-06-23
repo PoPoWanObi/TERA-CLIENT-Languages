@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Ihr habt dem Consosclan dabei geholfen, den Tempel sauber zu halten.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">Der Consosclan wäre Euch dankbar, wenn Ihr ihm helfen könntet, den Tempel sauber zu halten.&lt;BR&gt;&lt;BR&gt;Bitte benutzt das Teleportal, um die Tempelgewölbe zu betreten und sprecht mit Davor.&lt;NEXTPAGEBUTTON&gt;"Ich helfe gerne."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Es ist schön Euch zu sehen, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Die Faultiere sind zur Zeit besonders lästig. Ich wäre Euch äußerst dankbar, wenn Ihr das Chaos etwas beseitigen könntet, das sie in den Tempelgewölben angerichtet haben.&lt;BR&gt;&lt;BR&gt;Wenn sie sich zu sehr sträuben, dann könnt Ihr gerne unseren Roboter PEST-B-GON 8000 benutzen.&lt;NEXTPAGEBUTTON&gt;"Irgendjemand muss es wohl tun ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Danke für Eure Hilfe.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Danke für Eure Hilfe.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Danke für Eure Hilfe.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Ein Behälter für Abfall.&lt;NEXTPAGEBUTTON&gt;Werft Abfall hinein.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Ein Behälter für Abfall.&lt;NEXTPAGEBUTTON&gt;Werft Abfall hinein.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="7000">
+        <Page social="4">Vielen Dank, &lt;PCNAME&gt;. Bitte nehmt dieses Zeichen unserer Anerkennung.</Page>
+    </Text>
+</QuestDialog>

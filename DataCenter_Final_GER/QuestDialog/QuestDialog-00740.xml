@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">Es gibt Berichte, dass {@LinkCreature:23#25#Guerrillaoffiziere} und andere {@LinkCreature:23#19#Poporirebellen} am See gesehen wurden. Das könnten Späher für einen Angriff sein, oder sie sammeln einfach Informationen. Wie dem auch sei, sie müssen sterben.&lt;BR&gt;&lt;BR&gt;Während sie uns beobachten, müsst Ihr sie ... vernichten! Verräter des Reiches haben keine Gnade zu erwarten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">Wer sich gegen das Reich wendet, wendet sich gegen die Natur selbst. Sie haben ihr Schicksal verdient.&lt;BR&gt;&lt;BR&gt;Generalin {@LinkCreature:223#1003$$Menani} hat nach Euren Fortschritten gefragt. Erstattet ihr Bericht und bringt sie auf den neuesten Stand.&lt;BR&gt;&lt;BR&gt;Aber vergeudet nicht die Zeit der Generalin. Haltet Euch an die Fakten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1003">
+        <Page social="5">Das ist eine finstere Zeit für unser Reich. Eure Bemühungen könnten uns dabei helfen, diesen sinnlosen Konflikt zu beenden und das Gleichgewicht in Poporia wiederherzustellen. Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="4">Wir wäre es heute mit einer Aufwärmübung, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Beseitigt eine Meute kleinerer Argonen statt einen großen. {@LinkCreature:76#3010#Beiran} wird ein paar für Euch finden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Ein wenig Kleinvieh?&lt;BR&gt;&lt;BR&gt;Es gibt jede Menge {@LinkCreature:49#13#Kalashbarbaren}, {@LinkCreature:49#12#Kalashbeschützer} und {@LinkCreature:49#10$$Kallanräuber} in der Nähe des {@Rgn:49004$$Melgatolportal}s.&lt;BR&gt;&lt;BR&gt;Mit denen solltet Ihr heute genügend Spaß haben!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Das macht fit, was?&lt;BR&gt;&lt;BR&gt;Schärft den Geist und lockert die Gelenke.</Page>
+    </Text>
+</QuestDialog>

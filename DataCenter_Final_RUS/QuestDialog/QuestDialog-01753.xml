@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="9001">
+        <Page social="1">Что-то происходит на Территории Союза Просвещенных. Ходят слухи о... я не особо доверяю слухам, но мне нужно знать, что происходит.&lt;BR&gt;&lt;BR&gt;Тайна заключается в существах, которые там появились. Убей несколько {@linkcreature:122#202#Горных мугато} и {@linkcreature:122#205#Оазисных древней}, и посмотрим, поможет ли это нам.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="9001">
+        <Page social="0">Хорошо. Информация - это уже что-то. Хорошо.</Page>
+    </Text>
+</QuestDialog>

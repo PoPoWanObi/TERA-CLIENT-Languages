@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Как же я от этого устала... И дня нет, чтобы не пришлось кого-то убивать.&lt;BR&gt;&lt;BR&gt;Ступай и перебей {@LinkCreature:12#2#Береговых камара}, {@LinkCreature:12#3#Арахненов-преследователей} и {@LinkCreature:12#22#Силачей Красной плети}. Ты найдешь их на северном берегу гавани.&lt;BR&gt;&lt;BR&gt;Поговори с Ленией, когда закончишь. Все, проваливай.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1019">
+        <Page social="4">Так держать, &lt;PCNAME&gt;. За Федерацию!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1019">
+        <Page social="0">Ты помнишь, что тебе нужно выполнить работу?</Page>
+    </Text>
+</QuestDialog>

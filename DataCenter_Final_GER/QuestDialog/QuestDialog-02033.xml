@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Der Effekt des Tanks ließ plötzlich mitten im feindlichen Gebiet nach, aber &lt;PCNAME&gt; konnte rasch entkommen und besiegte alle Feinde auf der Flucht.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Hagands Unsichtbarkeitstrank ist abgeklungen! Die Parthianer können Euch sehen - und sie sind nicht glücklich darüber!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4">Ich habe mit Hagand gesprochen und er meinte, dass er Euch einen Unsichtbarkeitstrank gegeben habe. Habt Ihr ihn nicht benutzt?&lt;BR&gt;&lt;BR&gt;Typisch &lt;PCNAME&gt;! Kein Wunder, dass alle immerzu von Euch sprechen!&lt;BR&gt;&lt;BR&gt;Konntet Ihr die Relativitätssteine beschaffen?&lt;NEXTPAGEBUTTON&gt;"Ich habe etwa ein Dutzend davon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

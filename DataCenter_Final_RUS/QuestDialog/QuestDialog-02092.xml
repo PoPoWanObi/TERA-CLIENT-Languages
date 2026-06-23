@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Вооружившись силой жрецов клана Консоса, вы прервали Кровавый Банкет.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Мне сказали, что тебе удалось дать отпор небольшой группе вампиров, проникших в храм. То, что это случилось именно сейчас, беспокоит меня.&lt;BR&gt;&lt;BR&gt; Праздник солнца призван обновить храм, чтобы сила солнца осталась прежней... но вампиры не переносят света Балдера. Если они попытались вмешаться в ежегодную уборку храма, то это может означать, что они намерены ослабить свет солнца... &lt;NEXTPAGEBUTTON&gt;"Что я могу сделать, чтобы помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Нахад сказал мне, что тебе удалось без особых трудностей изгнать вампиров из храма, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Может быть, ты сможешь разрушить их замысли и позволить клану Консос завершить должные ритуалы? &lt;NEXTPAGEBUTTON&gt;"Можешь на меня рассчитывать".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Пожалуйста, поговори с Харуном. Он - наш лучший боевой жрец, и именно ему поручили борьбу с вампирами. &lt;NEXTPAGEBUTTON&gt;"Отправляюсь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt;? Говори потише! Я рад тебя видеть. Ренми сказал, что ты можешь помочь.&lt;BR&gt;&lt;BR&gt;Мы должны поторопиться - вампиры уже начали Кровавый Банкет. Все готово? &lt;NEXTPAGEBUTTON&gt;"Идем".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Хорошо. Да поможет нам Балдер.&lt;BR&gt;&lt;BR&gt;Я могу на время одарить тебя милостью Балдера и наделить могуществом боевых жрецов, но эти силы ты можешь использовать только против вампиров. &lt;NEXTPAGEBUTTON&gt;"Обещаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Мне нравится твоя устремленность, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"Что дальше?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="3" villagerId="7002">
+        <Page social="4">А теперь слушай внимательно, и я расскажу как работают эти дары. &lt;NEXTPAGEBUTTON&gt;"Я слушаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Балдер дарует три силы, которые могут защитить от вампиров.&lt;BR&gt;&lt;BR&gt;"Страх" обращает вампиров в бегство.&lt;BR&gt;&lt;BR&gt;"Оглушение" на время обездвиживает врага.&lt;BR&gt;&lt;BR&gt;"Дрожь" заставляет всех вампиров вокруг упасть на землю. &lt;NEXTPAGEBUTTON&gt;"Все понятно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Другие три дара помогут истреблять кровососов.&lt;BR&gt;&lt;BR&gt;"Мутация" превращает вампира в вепря, с которым гораздо проще справиться.&lt;BR&gt;&lt;BR&gt;"Свет" обжигает всех вампиров вокруг светом Балдера. Это одно из самых действенных средств борьбы с ними.&lt;BR&gt;&lt;BR&gt;И, наконец, "Наказание" может сразу же убить одного вампира. &lt;NEXTPAGEBUTTON&gt;Ясно.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Когда ты попадешь внутрь, тебе нужно будет не дать вампирам призвать новых призраков, найти путь в Церемониальный зал и уничтожить их нечестивый алтарь.&lt;BR&gt;&lt;BR&gt;Пора. Во имя Балдера!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7002">
+        <Page social="4">Это великое свершение, &lt;PCNAME&gt;. Память о тебе будет жить во многих поколениях клана Консос.&lt;BR&gt;&lt;BR&gt;Прими эту награду и знай, что здесь ты всегда будешь среди друзей.</Page>
+    </Text>
+</QuestDialog>

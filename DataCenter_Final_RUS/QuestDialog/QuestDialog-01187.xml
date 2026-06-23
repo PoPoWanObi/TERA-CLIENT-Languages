@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="4">И за что меня сюда послали? Я не солдат! Сказали охранять наблюдательный пост. Сказали убивать {@LinkCreature:40#4#Бронированных поросят} и {@LinkCreature:40#3#Разъяренных бронированных поросят}. Да меня самого тут скоро убьют.&lt;BR&gt;&lt;BR&gt;Если бы у меня были деньги, я бы тебе заплатил, чтобы их убить.&lt;BR&gt;&lt;BR&gt;Мой приятель {@LinkCreature:240#1026#Града} проиграл мне немного денег в кости. Убей свиней и забери мой долг.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">Тебя прислал Вурон? Старый прохвост мухлюет с кубиком, между прочим.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1026">
+        <Page social="0">Пока не прикончишь {@LinkCreature:40#4#Бронированных поросят} и {@LinkCreature:40#3#Разъяренных бронированных поросят}, денежек Вурона тебе не видать.</Page>
+    </Text>
+</QuestDialog>

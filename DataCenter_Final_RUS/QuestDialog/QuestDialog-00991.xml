@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">Лагерю путников нужна помощь. Я не могу выделить им ни единого солдата, но ты же не из моего отряда, да?&lt;BR&gt;&lt;BR&gt;Отправляйся туда и помоги им. Отдаю их под твою ответственность!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Это место когда-нибудь доведет меня...&lt;BR&gt;&lt;BR&gt;Как же я тоскую по горячим пескам родных мест. Но опасно терять бдительность, отвлекаясь от сиюминутной опасности.&lt;BR&gt;&lt;BR&gt;Я попросил о помощи, чтобы тут стало хоть немного безопаснее. Поговори с Кахуэре. У нее есть работа для тебя.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1004">
+        <Page social="4">Лукаэль остается мрачным и холодным, но вообще тут не так уж и плохо! Мы служим Федерации и стараемся сделать этот мир немного лучше.&lt;BR&gt;&lt;BR&gt;Конечно, было бы приятнее, если бы нам не приходилось постоянно сражаться за свою жизнь... Но ведь может быть и хуже, например, может пойти дождь. Или снег. Много-много снега.</Page>
+    </Text>
+</QuestDialog>

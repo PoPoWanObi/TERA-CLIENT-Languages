@@ -1,0 +1,66 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion avait besoin d'aide pour prouver la trahison de Samael envers la Fédération Valkyon. Conscient que vous étiez à ses trousses, Samael s'est servi de Bruke pour vous tendre un piège, mais vous avez réussi à vous en tirer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">{@gender:Cher/Chère} &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Je crois avoir trouvé un moyen de prouver la culpabilité de Samael, mais je vais avoir besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Venez me rejoindre à la Cité des Rouages.&lt;BR&gt;&lt;BR&gt;Pour la Fédération!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;- Elion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1166">
+        <Page social="4">Merci d'être {@gender:venu/venue} aussi rapidement.&lt;BR&gt;&lt;BR&gt;Samael a envoyé à Ostgarath les Justicars, des agents triés sur le volet. C'est la première fois qu'il envoie le contingent au grand complet quelque part.&lt;BR&gt;&lt;BR&gt;Il est en train de mijoter quelque chose, et nous devons découvrir quoi. Personnellement, on me connaît trop pour que je puisse intervenir, mais il existe d'autre moyens de se renseigner.&lt;NEXTPAGEBUTTON&gt;"J'en fais mon affaire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'apprécie votre enthousiasme, mais ça ne va pas être simple. S'il n'était pas méfiant de nature, voire légèrement paranoïaque, Samael ne se serait jamais hissé à la position qu'il occupe aujourd'hui.&lt;BR&gt;&lt;BR&gt;Samael n'envoie à Ostgarath que les agents qui ont gagné sa confiance, mais si quelqu'un d'autre dans la chaîne de commandement se chargeait de vous envoyer là-bas...&lt;BR&gt;&lt;BR&gt;Adressez-vous à la prêtresse Ciebel. Elle pourra peut-être vous faciliter les choses.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4">Une lettre de recommandation?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je ferai tout mon possible pour servir les intérêts de la justice. Nous allons simplement dire à Samael que vos talents uniques nous seront d'une aide précieuse à Ostgarath.&lt;BR&gt;&lt;BR&gt;Il a beau faire la loi, je doute qu'il ose s'opposer à la volonté de Velik. Elle n'apprécie pas que les mortels ignorent ses... suggestions.&lt;BR&gt;&lt;BR&gt;Depuis votre incorporation, on peut déjà dire que vous avez fait du chemin. Nous allons continuer de surveiller votre parcours avec le plus grand intérêt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4">Ciebel s'occupe donc de l'affectation des troupes?&amp;nbsp; Moi qui pensais que prier Velik était déjà un boulot à temps complet.&lt;BR&gt;&lt;BR&gt;On devrait laisser les affaires militaires aux soldats. Est-ce que je vais faire des génuflexions devant la statue de la chasseresse tous les matins, moi?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Cela dit, si vous avez décidé de vous rendre à Ostgarath, je ne vous retiens pas. Loin de moi l'idée de m'opposer aux ordres d'une déesse.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1166">
+        <Page social="4">Ciebel a toujours eu de la suite dans les idées. Elle s'intéresse beaucoup aux jeunes recrues prometteuses.&lt;BR&gt;&lt;BR&gt;Rendez-vous à Ostgarath et faites une première estimation de la situation. Allez parler aux officiers du Port Coupe-gorge, et si vous le pouvez, trouvez Jelena.&lt;BR&gt;&lt;BR&gt;Elle a vraiment le chic pour se montrer systématiquement là où ça chauffe, pas vrai?&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1001">
+        <Page social="12">Vous êtes de la Fédération Valkyon?&amp;nbsp; Je commençais à penser qu'il s'agissait d'une légende.&lt;BR&gt;&lt;BR&gt;Je veux dire, je peux toujours raconter à mes enfants que la Fédération est là pour nous protéger des marchands d'esclaves, mais même eux commencent à être un peu vieux pour croire à ce genre de contes de fées.&lt;BR&gt;&lt;BR&gt;Nous faisons donc notre possible pour maintenir l'ordre nous-mêmes. Mon autorité se résume à mon épée et à ce que je peux en faire, rien de plus&lt;BR&gt;&lt;BR&gt;Et non, je n'ai pas croisé de Jelena.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" prevId="6" villagerId="1007">
+        <Page social="4">Vous allez rester ici un moment, n'est-ce pas?&amp;nbsp; Nous avons vu une division de soldats passer dans le coin, l'autre jour, mais ils ne se sont pas arrêtés.&lt;BR&gt;&lt;BR&gt;Ils nous ont dit qu'ils avaient pour ordre de se rendre sur l'Ile des Brumes.&lt;BR&gt;&lt;BR&gt;Drôle de destination pour des Justicars, mais avec eux... on ne sait jamais à quoi ils s'affairent.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="6" villagerId="1013">
+        <Page social="4">Vous avez déjà entendu parler du Syndicat Kazuur?&amp;nbsp; Un groupe de gulas et de devans collaborant pour dénicher des informations relatives à un genre de relique.&lt;BR&gt;&lt;BR&gt;Même si je savais quelque chose, ce qui n'est pas le cas, il n'y aurait pas de danger que j'aille m'acoquiner avec des gulas.&lt;BR&gt;&lt;BR&gt;Quand ils vous invitent à dîner, ils oublient souvent de préciser que ce sera vous le plat de résistance.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="6" villagerId="1014">
+        <Page social="4">La Fédération par-ci, la Fédération par-là... foutaises.&lt;BR&gt;&lt;BR&gt;En ce qui me concerne, j'ai compris il y a un moment que la Fédération se moquait éperdument de tout ce qui n'était pas en train de combattre les argons. Le Port Coupe-gorge peut bien... hic!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Hic!&amp;nbsp; Excusez-moi... je me sens un peu pompette... hic!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Restez avec moi!&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ça va... ça va!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Restez sur vos gardes. Tout le monde est un peu tendu en ville en ce moment. Surtout les marins qui s'y sont pointés il y a quelques jours. Drôles de types... même pour un endroit aussi louche que cette ville!&amp;nbsp; Hic!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="7" villagerId="1018">
+        <Page social="4">Pour la victoire, &lt;PCNAME&gt;. Alors, vous vous êtes fait une idée de la situation?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"J'ai fait le tour de la question."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous allons devoir enquêter sur ces mystérieux "marins". Leurs manigances au Port Coupe-gorge ont forcément quelque chose de louche.&lt;BR&gt;&lt;BR&gt;En attendant, concentrez-vous sur les justicars. Coordonnez-vous avec Jelena. Elle rôde dans les parages du port. Nous devons découvrir ce qu'ils sont venus chercher. Samael ne les aurait pas envoyés sans une bonne raison.&lt;BR&gt;&lt;BR&gt;Et si c'est bon pour lui, c'est forcément mauvais pour nous.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="11" villagerId="1035">
+        <Page social="4">C'est un plaisir de vous revoir, &lt;PCNAME&gt;. Bruke et les Justicars sont en train de mijoter quelque chose sur l'Ile des Brumes. J'ai intercepté un certain nombre de messagers. Leurs missives étaient codées, mais leur fréquence et le volume d'informations suggèrent la préparation d'un gros coup.&lt;BR&gt;&lt;BR&gt;Vous allez devoir vérifier ça par vous-même. De mon côté, je vais tenter d'intercepter d'autres messagers du côté du Camp de base des Défenseurs.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:62#1038#Baliconus} vous aidera à rejoindre l'île.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="62" prevId="12" villagerId="1038">
+        <Page social="4">Le Camp de base des Défenseurs?&amp;nbsp; Il se trouve au centre de l'Ile des Brumes. Vous ne pouvez pas le rater, mais la route est dangereuse. Les pirates du Fouet rouge sont des alliés du Syndicat Kazuur et considèrent cette île comme leur territoire.&lt;BR&gt;&lt;BR&gt;L'Ile des Brumes est tout sauf un endroit de rêve. On y vend des esclaves. Autant dire que la compassion et les bons sentiments n'y ont pas franchement cours.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="12" prevId="13" villagerId="24">
+        <Page social="4">Ça par exemple... {@gender:Le toutou/La groupie} de Jelena vient nous rendre visite. Ça ne me surprend pas de vous revoir, &lt;PCNAME&gt;. Vous revenez tout le temps traîner dans mes pattes.&lt;BR&gt;&lt;BR&gt;Toutefois, il doit certainement y avoir un moyen de vous rendre utile aux justicars. Je suis sur une mission, disons... diplomatique. Pourquoi ne pas vous joindre à moi?&amp;nbsp; Ce serait instructif et ça vous donnerait une occasion de nous montrer ce que vous valez au combat.&lt;BR&gt;&lt;BR&gt;Ha!&amp;nbsp; J'ai réussi à le dire sans éclater de rire.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="9" villagerId="1">
+        <Page social="0">Comme l'a dit un sage, il faut savoir garder du recul pour voir les choses dans leur ensemble. Nombreux sont les chemins qui permettent d'accéder au pouvoir, &lt;PCNAME&gt;, et ce sont toujours les vainqueurs qui rédigent les livres d'histoire.&lt;BR&gt;&lt;BR&gt;Ainsi, il nous arrive d'avoir à nous débarrasser d'éléments indésirables ou de faire des choses discutables d'un point de vue éthique... mais la fin justifie les moyens... et tant que nous obtenons ce que nous voulons, quelle différence ça fait?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Accompagnez-moi et gardez votre arme à portée de main. L'Ile des Brumes est un endroit dangereux.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="212" prevId="14" villagerId="1033">
+        <Page social="8">Pas la peine de paniquer... ce ne sont que des gulas. Nous venons pour affaires, pas pour goûter à leur cuisine.&lt;BR&gt;&lt;BR&gt;Nous sommes en train de négocier une relique de la plus haute importance, et c'est à vous que je vais demander d'aller la récupérer.&lt;BR&gt;&lt;BR&gt;Les gulas sont méfiants;&amp;nbsp; ils tenaient à organiser eux-mêmes le rendez-vous. Ils ont choisi un endroit à l'abri des regards indiscrets. Utilisez le téléportail.&lt;BR&gt;&lt;BR&gt;Et pour une fois, tâchez de faire ce qu'on vous demande.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="212" prevId="16" villagerId="1035">
+        <Page social="4">Quelque chose cloche... C'est beaucoup trop simple. &lt;PCNAME&gt;... Bruke pourrait bien nous avoir tendu un piège.&lt;BR&gt;&lt;BR&gt;Que nous trouvions des reliques ou pas, nous devons découvrir ce que les Justicars mijotent et nous tirer d'ici en vitesse.&lt;BR&gt;&lt;BR&gt;Pas de temps à perdre. Utilisez le {@LinkCreature:212#1030#téléportail} pour atteindre le lieu de rendez-vous dans la Jungle mystérieuse.&lt;BR&gt;&lt;BR&gt;Je vais aller chercher de l'aide, mais pour le moment, vous allez devoir vous débrouiller {@gender:seul/seule}. Prudence!&amp;nbsp;</Page>
+    </Text>
+    <Text id="18" huntingZoneId="212" prevId="17" villagerId="1030">
+        <Page social="4">(Ce téléportail vous emmène au point de rendez-vous dans la Jungle mystérieuse.)</Page>
+    </Text>
+    <Text id="19" huntingZoneId="212" prevId="18" villagerId="1035">
+        <Page social="4">Nous avons de la chance de nous en être sortis en vie. Maintenant, jetons un œil à ce que nous avons récupéré grâce à Bruke.&lt;BR&gt;&lt;BR&gt;Quoi?&amp;nbsp; Samael était au courant de tout depuis le début... c'était un piège!&amp;nbsp; Et bien étudié, dans son genre. Je ne pense pas que Samael puisse devancer éternellement chacune de nos manœuvres, mais nous ne devons plus le sous-estimer.&lt;BR&gt;&lt;BR&gt;Samael cherchera certainement à se venger de ce qui vient de se produire.&lt;BR&gt;&lt;BR&gt;Nous devons agir vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="20" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Nous avons besoin de preuves... de preuves formelles. Si nous ne parvenons pas à cerner la menace cachée dont Velik vous a parlé, cette mission n'aura servi à rien.</Page>
+    </Text>
+</QuestDialog>

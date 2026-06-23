@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0">Когда восстановится мир, один из этих храбрых молодцов - может, Курио - станет великим вождем орканов и будет носить корону, сделанную из черепа {@LinkCreature:41#4002#Воеводы-великана}. Наша корона была потеряна, когда мы отправились в изгнание.&lt;BR&gt;&lt;BR&gt;Новый вождь с гордостью станет носить добытую тобой корону. Сделай одолжение - убей такое чудовище и принеси его голову.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">Хорошая работа. Теперь я изготовлю корону и буду ждать воцарения мира.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Тебе удалось раздобыть череп? Когда ты его принесешь, я сделаю корону для великого вождя.</Page>
+    </Text>
+</QuestDialog>

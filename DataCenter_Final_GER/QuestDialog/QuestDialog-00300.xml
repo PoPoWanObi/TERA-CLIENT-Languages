@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Wir haben eine Vorhut tief ins Innere von Azarels Labyrinth geschickt. Im Nachhinein betrachtet war es anmaßend zu glauben, dass wir ein Lager in so unmittelbarer Nähe zum Feind aufrechterhalten können. In ihrem letzten Bericht war von feindlichen Truppen die Rede, die sich zum Angriff sammeln.&lt;BR&gt;&lt;BR&gt;Dummerweise hat der Zenturio des Lagers eine Abschrift unserer Schlachtpläne. Wenn sie in feindliche Hände fällt, sind wir verloren.&lt;BR&gt;&lt;BR&gt;Begebt Euch mit einer Gruppe verlässlicher Kämpfer zum &lt;font color='#660000'&gt;Feldlager&lt;/font&gt; in den Tiefen von Azarels Labyrinth und vernichtet diese Pläne.&lt;BR&gt;&lt;BR&gt;Die Zeit drängt. Geht zu {@LinkCreature:209#2000$$Tulutulu}. Er kann Euch direkt in die Tiefen schicken.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="2000">
+        <Page social="4">Ihr habt's wohl eilig? Gegen eine kleine Gebühr kann ich Euch auf der Stelle in die Tiefen von Azarels Labyrinth teleportieren.&lt;BR&gt;&lt;BR&gt;Ohne Umschweife. Ich kann es nur empfehlen. Der lange Weg hat es in sich.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1026">
+        <Page social="0">(Die Leiche des Zenturios weist schlimme Verletzungen aus einer hitzigen Schlacht auf.)&lt;BR&gt;&lt;BR&gt;(Eure Suche fördert einen unter seiner Rüstung versteckten Lederbeutel mit den Schlachtplänen zutage.)&lt;BR&gt;&lt;BR&gt;(Als Ihr ein Geräusch in Eurer Nähe hört, stopft Ihr Euch die Pläne in den Mund, kaut wild darauf herum und schluckt sie hinunter.)</Page>
+    </Text>
+</QuestDialog>

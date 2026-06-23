@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">Нужно помешать аргонам продолжать укрепление крепости. Они постоянно отправляют новых бойцов через золнаж-переносчик.&lt;NEXTPAGEBUTTON&gt;"Это плохо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Именно. Я попрошу тебя уничтожить несколько таких переносчиков и вернуться ко мне. Мы решим, что делать дальше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Хорошая работа, и спасибо за сувениры. Побольше бы таких.&lt;BR&gt;&lt;BR&gt;Шариар ценит твою храбрость. Один такой боец как ты стоит целого нашего истощенного войска.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1012">
+        <Page social="0">Пока эти переносчики работают, аргоны не слабеют.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="4">Könnt Ihr meinen Bruder finden? Er ist vor einigen Tagen losgezogen, um Materialien für den Laden zu besorgen, aber seitdem habe ich ihn nicht mehr gesehen. Er heißt Pattek.&lt;BR&gt;&lt;BR&gt;Es werden immer mehr Dorfbewohner entführt, und ich ...&lt;BR&gt;&lt;BR&gt;Könnt Ihr für mich nach ihm suchen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1024">
+        <Page social="0">(Auf einer alten Kiste steht "Pattek". Die Fußspuren führen von den Kisten zu den Finsteren Minen.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1002">
+        <Page social="0">Ich kann nicht ... Wir haben nicht genug Informationen. Ich weiß nicht, was geschehen ist.</Page>
+    </Text>
+</QuestDialog>

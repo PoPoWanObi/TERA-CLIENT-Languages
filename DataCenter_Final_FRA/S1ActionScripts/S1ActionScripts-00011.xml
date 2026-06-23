@@ -1,0 +1,87 @@
+<S1ActionScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/S1ActionScripts S1ActionScripts.xsd" xmlns="https://vezel.dev/novadrop/dc/S1ActionScripts">
+    <Script id="90000201" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10201" msgOption="0,0" msgStr="@union:470701" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10201" />
+        <Action type="removeMessage" msgId="10201" isFinal="true" />
+    </Script>
+    <Script id="90000202" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10202" msgOption="0,0" msgStr="@union:470702" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10202" />
+        <Action type="removeMessage" msgId="10202" isFinal="true" />
+    </Script>
+    <Script id="90000203" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10203" msgOption="0,0" msgStr="@union:470703" msgType="24" />
+        <Action time="4000" type="generalMessage" msgId="10212" msgOption="0,0" msgStr="@union:470712" msgType="24" />
+        <Action time="4000" type="soundEffect" soundEffectId="2059" />
+        <Action time="5000" type="generalMessage" msgId="10213" msgOption="0,0" msgStr="@union:470713" msgType="24" />
+        <Action time="5000" type="soundEffect" soundEffectId="2059" />
+        <Action time="6000" type="generalMessage" msgId="10214" msgOption="0,0" msgStr="@union:470714" msgType="24" />
+        <Action time="6000" type="soundEffect" soundEffectId="2059" />
+        <Action time="7000" type="generalMessage" msgId="10215" msgOption="0,0" msgStr="@union:470715" msgType="24" />
+        <Action time="7000" type="soundEffect" soundEffectId="2059" />
+        <Action time="8000" type="generalMessage" msgId="10216" msgOption="0,0" msgStr="@union:470716" msgType="24" />
+        <Action time="8000" type="soundEffect" soundEffectId="2059" />
+        <Action time="9000" type="generalMessage" msgId="10217" msgOption="0,0" msgStr="@union:470717" msgType="24" />
+        <Action time="9000" type="soundEffect" soundEffectId="2059" />
+        <Action time="10000" type="removeMessage" msgId="10217" />
+        <Action type="removeMessage" msgId="10217" isFinal="true" />
+    </Script>
+    <Script id="90000204" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10204" msgOption="0,0" msgStr="@union:470704" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10204" />
+        <Action type="removeMessage" msgId="10204" isFinal="true" />
+    </Script>
+    <Script id="90000205" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10205" msgOption="1,0" msgStr="@union:470705" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10205" />
+        <Action type="removeMessage" msgId="10205" isFinal="true" />
+    </Script>
+    <Script id="90000206" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10206" msgOption="1,0" msgStr="@union:470706" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10206" />
+        <Action type="removeMessage" msgId="10206" isFinal="true" />
+    </Script>
+    <Script id="90000207" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10207" msgOption="1,0" msgStr="@union:470707" msgType="24" />
+        <Action time="4000" type="generalMessage" msgId="10212" msgOption="1,0" msgStr="@union:470712" msgType="24" />
+        <Action time="4000" type="soundEffect" soundEffectId="2059" />
+        <Action time="5000" type="generalMessage" msgId="10213" msgOption="1,0" msgStr="@union:470713" msgType="24" />
+        <Action time="5000" type="soundEffect" soundEffectId="2059" />
+        <Action time="6000" type="generalMessage" msgId="10214" msgOption="1,0" msgStr="@union:470714" msgType="24" />
+        <Action time="6000" type="soundEffect" soundEffectId="2059" />
+        <Action time="7000" type="generalMessage" msgId="10215" msgOption="1,0" msgStr="@union:470715" msgType="24" />
+        <Action time="7000" type="soundEffect" soundEffectId="2059" />
+        <Action time="8000" type="generalMessage" msgId="10216" msgOption="1,0" msgStr="@union:470716" msgType="24" />
+        <Action time="8000" type="soundEffect" soundEffectId="2059" />
+        <Action time="9000" type="generalMessage" msgId="10217" msgOption="1,0" msgStr="@union:470717" msgType="24" />
+        <Action time="9000" type="soundEffect" soundEffectId="2059" />
+        <Action time="3000" type="removeMessage" msgId="10217" />
+        <Action type="removeMessage" msgId="10217" isFinal="true" />
+    </Script>
+    <Script id="90000208" enableInput="true" playingTime="4000">
+        <Action time="0" type="generalMessage" msgId="10208" msgOption="1,0" msgStr="@union:470708" msgType="24" />
+        <Action time="0" type="soundEffect" soundEffectId="2074" />
+        <Action time="3000" type="removeMessage" msgId="10208" />
+        <Action type="removeMessage" msgId="10208" isFinal="true" />
+    </Script>
+    <Script id="90000209" enableInput="true" playingTime="3000">
+        <Action time="0" type="generalMessage" msgId="10220" msgOption="1,30,0xff1010" msgStr="@union:470718" msgType="3" />
+        <Action time="3000" type="removeMessage" msgId="10220" />
+        <Action type="removeMessage" msgId="10220" isFinal="true" />
+    </Script>
+    <Script id="90000210" enableInput="true" playingTime="3000">
+        <Action time="0" type="generalMessage" msgId="10221" msgOption="1,30,0xff1010" msgStr="@union:470719" msgType="3" />
+        <Action time="3000" type="removeMessage" msgId="10221" />
+        <Action type="removeMessage" msgId="10221" isFinal="true" />
+    </Script>
+    <Script id="90000211" enableInput="true" playingTime="3000">
+        <Action time="0" type="generalMessage" msgId="10222" msgOption="1,30,0xff1010" msgStr="@union:470720" msgType="3" />
+        <Action time="3000" type="removeMessage" msgId="10222" />
+        <Action type="removeMessage" msgId="10222" isFinal="true" />
+    </Script>
+</S1ActionScripts>

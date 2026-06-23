@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="67" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="67" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4">Подходи ближе! Добро пожаловать! Каким бы ни было место назначения, пегас может без проблем доставить тебя туда в мгновение ока!&lt;BR&gt;&lt;BR&gt;Ну, почти без проблем. Серьезных несчастных случаев с пегасами у нас не было... уже несколько недель.&lt;BR&gt;&lt;BR&gt;Возможно, мне даже медаль за это дадут.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Не стесняйся и спрашивай все, что хочешь. Я в твоем распоряжении.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">Добро пожаловать!&lt;TEXTBUTTON&gt;Охранять повозку с припасами&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Войти в подземелье&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

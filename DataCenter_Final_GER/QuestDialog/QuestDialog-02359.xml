@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="743" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ihr habt einen Brief vom Mysterium erhalten, in dem sie um Eure Hilfe baten. Eure Gruppe hat Wunderholm betreten und den Banderschnatz und seine nokteniumverseuchte Mannschaft besiegt, um Aliss und die anderen Wissenschaftler zu retten.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Liebe{@g:r/} &lt;PCName&gt;, &lt;BR&gt;&lt;BR&gt;ich bin Adonis. Meister des Mysteriums. In meinem Eifer, die Nachforschungen an einem gewaltigen aus Noktenium errichteten Schloss zu beginnen, habe ich meine Leute womöglich in große Gefahr gebracht. Aliss, meine beste Nokteniumexpertin, und ihre Mitarbeiter werden vermisst und ich selbst kann weder Kontakt zu ihnen herstellen noch sie zurückrufen.&lt;BR&gt;&lt;BR&gt;Könntet Ihr, wenn Ihr auf Euren Reisen unweit von Wunderholm in Veritas vorbeikommt, eine Rettungsaktion starten, um meine Leute zurückzuholen?&lt;BR&gt;&lt;BR&gt;--Meister Adonis</Page>
+    </Text>
+    <Text id="3" huntingZoneId="743" prevId="2" villagerId="44435">
+        <Page social="4">Lasst Euch von meinem Äußeren nicht täuschen. Ich war einst ein Forscher des Mysteriums. Bis dieser verfluchte Ort mich in das verwandelt hat, was Ihr heute sieht.&lt;BR&gt;&lt;BR&gt;Aber wenn Ihr nicht wegen mir gekommen seid, warum seid Ihr hier?&lt;NEXTPAGEBUTTON&gt;"Ich habe einen Brief mit einem Hilferuf erhalten."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, Ihr müsst derjenige sein, von dem Adonis sprach. Ich habe schon auf Euch gewartet.&lt;BR&gt;&lt;BR&gt;Dieser Ort hier ist Wunderholm. Seine Nokteniummauern haben mächtige Bestien und teuflische Fallen erschaffen.&lt;BR&gt;&lt;BR&gt;Wir kamen, um die Wirkung von Noktenium zu studieren, aber die Bewohner waren zu mächtig und so hat mich das gleiche Schicksal der Verderbung getroffen wie sie. Der Besitzer der Burg hat sich selbst zum Weltenkönig ernannt und hat unsere Wissenschaftsleiterin gefangen genommen. Bitte, befreit Aliss.&lt;BR&gt;&lt;BR&gt;Sobald Ihr die Stufen erklimmt, werden Euch Feinde entgegen strömen.&lt;BR&gt;&lt;BR&gt;Behaltet Euren klaren Verstand, dann werdet Ihr durchhalten - und siegen!&lt;BR&gt;&lt;BR&gt;Viel Glück!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="743" prevId="3" villagerId="44432">
+        <Page social="0">Vielen Dank.&lt;BR&gt;&lt;BR&gt;Wenn Ihr nicht gekommen wäret, hätte ich Aliss nicht retten können. Der Zauberer hat Noktenium an sich gerissen, das dem Mysterium gehört. Ihm das Noktenium wieder zu entreißen, ist genauso wichtig. &lt;BR&gt;&lt;BR&gt;Hiermit will ich Euch für Eure Dienste entlohnen.&lt;BR&gt;&lt;BR&gt;Ihr habt Euch den Titel "Verfechter der Wissenschaft" verdient. Das verschafft Euch enormen Respekt beim Mysterium.&lt;BR&gt;&lt;BR&gt;Eure Erfolge heute werden niemals vergessen werden!</Page>
+    </Text>
+</QuestDialog>

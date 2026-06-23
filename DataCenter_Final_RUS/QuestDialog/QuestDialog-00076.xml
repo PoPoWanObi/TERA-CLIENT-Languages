@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Деванцы в Дэва-Сильве снова что-то замышляют - нужно их остановить. Откуда мне это известно? Разведка, солдат. И это все, что тебе нужно знать.&lt;BR&gt;&lt;BR&gt;Убей Деванских {@LinkCreature:3#300141#мастеров клинка}, {@LinkCreature:3#18#задир}, {@LinkCreature:3#300160#чародеев}, {@LinkCreature:3#14#Расхитителей святилища} и {@LinkCreature:3#15#Магов-черное сердце}.&lt;BR&gt;&lt;BR&gt;Когда закончишь, доложи Мальвине на Заставу авангарда.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1015">
+        <Page social="4">Отличная работа, солдат. Федерации нужно больше таких, как ты, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1015">
+        <Page social="0">Похоже, задание еще не выполнено. Тебя вообще учили подчиняться приказам?</Page>
+    </Text>
+</QuestDialog>

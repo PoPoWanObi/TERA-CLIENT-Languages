@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Eine Fliegermütze? Die sind sowas von gestern. &lt;BR&gt;&lt;BR&gt;Das Besondere ist das Cyasmadurchdrungenes Leder. Rohhaut und Grabhaut gibt es reichlich, aber Cyasmadurchdrungenes Leder stellt niemand mehr her. Also fragt gar nicht erst.&lt;NEXTPAGEBUTTON&gt;"Aber ich habe zufällig welches ..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Ihr habt bereits Cyasmadurchdrungenes Leder? Nun, ich denke, ich kann noch eine Fliegermütze herstellen, wenn Ihr mit Sicherheit eine wollt.&lt;NEXTPAGEBUTTON&gt;"Ja, natürlich!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Nicht einmal die Invalesco handeln noch mit cyasmadurchdrungenem Leder. Und wenn sie es nicht mehr haben, dann keiner.</Page>
+    </Text>
+</QuestDialog>

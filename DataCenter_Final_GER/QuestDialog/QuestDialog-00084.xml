@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">Ihr wisst bestimmt, dass selbst ein Basilisk, der nicht hungrig ist, Euch auf der Stelle töten kann, wenn es sein muss. Und viele Leute hatten nicht das Glück, diesem tragischen Schicksal zu entgehen.&lt;BR&gt;&lt;BR&gt;Es ist meine Aufgabe, diesen Leuten zu helfen, indem ich ein Elixier herstelle, das die Toten wiedererweckt! Dafür werden sich Basiliskenaugen als nützlich erweisen.&lt;BR&gt;&lt;BR&gt;Bringt mir also die Augen von {@LinkCreature:3#300811#Basilisken}. Sie haben viele Augen, aber mir nützen nur die unbeschädigten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="8">Faszinierend. So eins habe ich noch nie aus der Nähe gesehen, ohne dass eine riesige menschenfressende Bestie hinten dran hing.&lt;BR&gt;&lt;BR&gt;Ich werde meine Forschungen fortsetzen. Wenn sie erfolgreich sind, werde ich das Ergebnis vielleicht nach Euch benennen!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">Tut mir leid, &lt;PCNAME&gt;. Ich brauche intakte, unversehrte Basiliskenaugen. Alles andere ist nutzlos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">Эти работы идут намного медленнее, чем я думал - и уж куда медленнее, чем рассчитывал Аккерли. Настырные {@LinkCreature:5#14#Грязевые спороходы} и шагу не дают ступить.&lt;BR&gt;&lt;BR&gt;Если бы тебе удалось убрать их с моего пути, я бы, наконец, закончил свою работу и отвез отчеты Аккерли.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">Вот спасибо! Без этих паразитов закончить мои изыскания будет намного легче.&lt;BR&gt;&lt;BR&gt;Вот, возьми за труды.</Page>
+    </Text>
+</QuestDialog>

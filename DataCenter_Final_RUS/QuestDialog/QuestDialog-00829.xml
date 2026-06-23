@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1026">
+        <Page social="5">Привет! У тебя найдется минутка? Моему другу нездоровится. Очень нездоровится. Он сильно заболел. Я могу приготовить лекарство, но для этого нужна кровь камара. Я не боец, так что вынужден попросить тебя об услуге.&lt;BR&gt;&lt;BR&gt;Принеси мне кровь {@LinkCreature:29#3011#Иглохвостых камара} и {@LinkCreature:29#3012#Иглохвостов-старейшин}, и тогда я смогу его спасти.&lt;BR&gt;&lt;BR&gt;Ступай же.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1026">
+        <Page social="5">Ух ты... Как много крови. Надеюсь, твоей среди нее нет. Это бы нарушило рецептуру.&lt;BR&gt;&lt;BR&gt;Что ж, попробую поставить друга на ноги. Спасибо!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1026">
+        <Page social="0">Это просто камара. Они не причинят тебе вреда. Это меня бы они сразу прикончили, но ведь я и не солдат. Убей их, поскорее.</Page>
+    </Text>
+</QuestDialog>

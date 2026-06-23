@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">Следующий шаг - измельчение скарабеев в порошок для гравировки. Вот, возьми этого скарабея и измельчи его.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">Пока все верно, &lt;PCNAME&gt;. Хорошо, возьми этот порошок и этот чертеж, чтобы попрактиковаться в свободное время. А пока я покажу тебе следующий шаг процесса гравировки.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">Скарабеи уже измельчены?</Page>
+    </Text>
+</QuestDialog>

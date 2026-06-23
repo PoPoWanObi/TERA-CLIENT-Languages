@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="4">Ich muss nach Hause! Ich bleibe hier nicht mehr. Ich kann einfach nicht.&lt;BR&gt;&lt;BR&gt;Wenn Ihr {@LinkCreature:209#1011$$Jascus} findet, sagt ihm, dass ich hier verschwinden werde - egal wie.&lt;BR&gt;&lt;BR&gt;Ich will nicht warten, bis ich als Mahlzeit ende!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Er glaubt, dass er hier wegkommt? Dieser Ort hat dem armen Kerl den Verstand geraubt. Ich wünschte, ich könnte sagen, dass er der Erste ist.&lt;BR&gt;&lt;BR&gt;Wir können ihn hier nicht rausschleusen, wenn es das ist, was er will. Er kann gerne nach Castanica oder zum Halsabschneiderhafen fliehen, aber dabei ist er auf sich allein gestellt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1014">
+        <Page social="4">Ihr habt ihn gefunden? Es gibt keinen Ausweg? Das ... das behauptet er doch nur.&lt;BR&gt;&lt;BR&gt;Er steckt unter einer Decke mit ihnen! Mit den Gula! Das habe ich mir schon gedacht!&lt;BR&gt;&lt;BR&gt;Wenn er mich findet, wird er mich an sie ausliefern! Ich muss fliehen!</Page>
+    </Text>
+</QuestDialog>

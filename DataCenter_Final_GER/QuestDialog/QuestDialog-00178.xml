@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Das Tal der Titanen südlich von Holzhausen wird von Darmschlitzern heimgesucht. Präfekt Daven hat Euch ausgesandt, damit Ihr helft, das Problem in den Griff zu bekommen und den Frieden wiederherzustellen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dringende Missionsbefehle&lt;BR&gt;&lt;BR&gt;Darmschlitzer sind tief ins Tal der Titanen vorgedrungen.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Präfekt Daven in Holzhausen zum Einsatz.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">Ihr seid wegen der Darmschlitzer hier, nicht wahr? Wir haben bei der Ranch "Zwei Eichen" einen Verteidigungsposten errichtet, aber ich weiß nicht, wie lange er standhalten wird.&lt;BR&gt;&lt;BR&gt;Geht zum Südtor und begebt Euch zur Ranch. Helft {@LinkCreature:206#1010#Petrina}. Sie wird Euch schon einzusetzen wissen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1010">
+        <Page social="4">Ihr seid hier, um zu helfen? Gut. Die Darmschlitzer wirken dumm, aber lasst Euch nicht täuschen. Wenn Ihr sie unterschätzt, metzeln sie Euch nieder.&lt;BR&gt;&lt;BR&gt;Trotz ihrer Gerissenheit verlassen sie sich jedoch zumeist auf ihren Anführer, {@LinkCreature:6#7051#Smulch}. Wenn wir ihn beseitigen, sollten die anderen leichte Beute werden.&lt;BR&gt;&lt;BR&gt;Seid vorsichtig da draußen. Er ist dafür bekannt, dass er die Schädel seiner Gegner mit einem einzigen Schlag zertrümmert.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" prevId="4" villagerId="1010">
+        <Page social="4">Wirklich? Ihr habt ihn besiegt? Er ist erledigt? Ich hatte meine besten Soldaten losgeschickt, und sie wurden von ihm einfach abgeschlachtet! Aber Ihr geht da raus und tötet ihn als sei gar nichts dabei!&lt;BR&gt;&lt;BR&gt;Äh, nicht, dass ich Euch auf ein Selbstmordkommando geschickt hätte oder so. Ich hatte vollstes Vertrauen in Euch. Daven war voll des Lobes über Euch.&lt;BR&gt;&lt;BR&gt;Was würdet Ihr angesichts dieses Erfolgs von einem weiteren Gefallen halten?&lt;NEXTPAGEBUTTON&gt;"Was für einen Gefallen meint Ihr?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nun, allmählich bekommen wir hier alles unter Kontrolle, aber die Farm des Echos hat um Hilfe gebeten.&lt;BR&gt;&lt;BR&gt;Während wir hier wieder auf die Beine kommen, möchte ich, dass Ihr hinüber zur Farm geht und seht, ob Ihr helfen könnt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="5" villagerId="1005">
+        <Page social="4">Oh, so gut hat Verstärkung noch nie ausgesehen. Geht nach Osten zu dem, was von Colchester übrig geblieben ist und sprecht mit {@LinkCreature:206#1003#Sozia}. Sie hat dort alle Hände voll zu tun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1003">
+        <Page social="4">Wenn Ihr nicht hier seid, um zu helfen, könnt Ihr gleich wieder verschwinden. Wir haben hier keinen Bedarf an Faulenzern. Nicht mehr.&lt;BR&gt;&lt;BR&gt;Falls Ihr aber meine Verstärkung seid, solltet Ihr die Überlebenden im Dorf finden und sie zu mir bringen. Und zwar schnell.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="6" villagerId="1">
+        <Page social="0">Hilfe! Hier drüben!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1003">
+        <Page social="4">Ihr habt so vielen Leuten geholfen! Bitte, nehmt dies.&lt;BR&gt;&lt;BR&gt;Wir hätten die Dorfbewohner ohne Euch nicht retten können.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="0">Вы рассказали стражу мудрости Браге, что Верикам похищен, а Кодекс Орина теперь в руках Дуриона.&lt;BR&gt;По просьбе Браги скальд Омерос сообщил новости жителям Верхнего Дозора, повергнув в шок всех барака.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="4">Вот что тебе надо сделать, &lt;PCNAME&gt;. Ступай к Браге, городскому стражу мудрости, и расскажи ему, что Верикам похищен, а Кодекс Орина украден!&lt;BR&gt;&lt;BR&gt;А я незамедлительно свяжусь с Сеиром и запрошу подкрепления.&lt;NEXTPAGEBUTTON&gt;"Уже иду!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4">Что за черный день! Верикама похитили?&lt;BR&gt;&lt;BR&gt;И как я мог оставить высшего старейшину без присмотра?&lt;BR&gt;&lt;BR&gt;Если бы я только был с ним...&lt;NEXTPAGEBUTTON&gt;"Ты не смог бы этому помешать".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Я... склонен поверить тебе. Похоже, ты не из тех, кто бросает слова на ветер.&lt;BR&gt;&lt;BR&gt;Что ж, если Кодекс Орина украден, то нам понадобится мудрость всех барака, чтобы решить, что делать. Я должен убедиться, что оборона города в полном порядке.&lt;BR&gt;&lt;BR&gt;А ты пока отправляйся на городскую площадь и отыщи скальда Омероса. Расскажи ему о том, что случилось, чтобы он обратился к людям на площади. Нам нужно, чтобы об этом узнали все.&lt;NEXTPAGEBUTTON&gt;"Ясно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4">Я... понимаю. Какое горе для Верхнего Дозора. Мы должны сделать все, чтобы вернуть высшего старейшину в целости и сохранности.&lt;BR&gt;&lt;BR&gt;Я обращусь к народу и попрошу разнести вести по всему городу.&lt;BR&gt;&lt;BR&gt;Передай стражу мудрости Браге, что всех, кто ко мне обратится, я буду направлять к нему.&lt;NEXTPAGEBUTTON&gt;"Большое спасибо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Я собираю отчеты о состоянии наших сил.&lt;BR&gt;&lt;BR&gt;Боюсь, что с утратой двух наших самых важных символов Верхний Дозор станет уязвимым.&lt;BR&gt;&lt;BR&gt;Тебе тоже стоит подготовиться.&lt;NEXTPAGEBUTTON&gt;"Я так и сделаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

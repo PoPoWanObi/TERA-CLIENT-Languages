@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="0">Вместе с Родосом и Пэйсеном вы преследовали Дуриона, но нашли лишь цветочный венок Золин.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="4">Разделимся, чтобы найти Дуриона.&lt;BR&gt;&lt;BR&gt;Думаю, твой товарищ-пес поможет тебе. Желания ему не занимать.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2139">
+        <Page social="4">&lt;PCNAME&gt;! Я помогу! Я приготовил сыворотку правды!&lt;BR&gt;&lt;BR&gt;Пристукни вражеского офицера и напои его сывороткой, чтобы заставить говорить. Так мы сможем спасти Золин!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="1221">
+        <Page social="4">Твоя жалкая магия не сравнится с моей верностью Дуриону.&lt;BR&gt;&lt;BR&gt;Тебя ждет лишь смерть.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2122">
+        <Page social="4">Я с самого начала сомневался в успехе, но попробовать стоило.&lt;BR&gt;&lt;BR&gt;Не будем терять времени. Наверх!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2140">
+        <Page social="4">&lt;PCNAME&gt;, смотри, что я нашел…&lt;BR&gt;&lt;BR&gt;Это венок, который я ей подарил.&lt;BR&gt;&lt;BR&gt;Золин здесь!</Page>
+    </Text>
+</QuestDialog>

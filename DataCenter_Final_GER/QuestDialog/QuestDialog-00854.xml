@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1015">
+        <Page social="5">Das Castra Mysterium benötigt dringend Nachschub. {@LinkCreature:227#1020#Eerix} hört nicht mehr auf mich, aber vielleicht auf Euch. &lt;BR&gt;&lt;BR&gt;Sagt ihm, dass wir den Nachschub brauchen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1020">
+        <Page social="9">Was? Ich soll mehr Nachschub besorgen? Verdammt! Es ist vorbei! Thulsas Truppen haben all unsere Vorräte gestohlen.&lt;BR&gt;&lt;BR&gt;Vielleicht sind noch welche im Farmhaus, aber den Rest wird {@LinkCreature:27#16$$Calapana} haben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1020">
+        <Page social="7">Ihr habt ein gutes Auge für so etwas. Falls Ihr je nach Castanica kommt, könnten wir einen schönen Profit machen.&lt;BR&gt;&lt;BR&gt;Sagt {@LinkCreature:227#1015#Ovellia}, dass die Lieferung bereit ist.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="227" villagerId="1020">
+        <Page social="0">Ihr stehlt mir die Zeit. Wenn Ihr etwas wollt, macht schnell.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="227" prevId="4" villagerId="1015">
+        <Page social="5">Nachschub ist nicht gerade die ruhmreiche Seite des Soldatenlebens, aber wohl die wichtigste. Danke, dass Ihr geholfen habt, diese Lieferung zusammenzustellen.</Page>
+    </Text>
+</QuestDialog>

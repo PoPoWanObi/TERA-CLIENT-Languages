@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="5">Die verdammten Prionen haben uns vom Feld gejagt. Wir haben buchstäblich alles fallen lassen und sind losgerannt! Und jetzt sind unsere Werkzeuge da draußen und wir sind hier.&lt;BR&gt;&lt;BR&gt;Könnt Ihr sie suchen, bevor etwas Großes Hässliches darauf herumtrampelt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="6">Ihr habt sie gefunden! Und sie sind auch noch ganz! Das ist wirklich ein guter Tag, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1024">
+        <Page social="0">Ich fürchte, unsere Ausgrabungswerkzeuge werden es nicht überstehen, wenn sie noch lange da draußen herumliegen.</Page>
+    </Text>
+</QuestDialog>

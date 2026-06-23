@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="97" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Die Schwarzklauen haben zwei unserer Arbeitsmannschaften angegriffen. Ich schicke Euch aus, um ihnen eine Lektion zu erteilen.&lt;BR&gt;&lt;BR&gt;Tötet die {@LinkCreature:41#3004#Schwarzklauenzertrümmerer} und {@LinkCreature:41#3005#Schwarzklauenwüter} im südlichen Wilden Tal.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Keltaria am Gesandtenpunkt, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="4">Ihr habt diese Belohnung verdient, &lt;PCNAME&gt;. Viel Spaß damit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1007">
+        <Page social="0">Der Schwarzklauenstamm ist der Föderation ein Dorn im Auge und geht ihr mächtig auf die Nerven. Es wäre sehr hilfreich, die {@LinkCreature:41#3004#Schwarzklauenzertrümmerer} und {@LinkCreature:41#3005#Schwarzklauenwüter} zu beseitigen, wann immer das möglich ist. Bringt etwas mit, das beweist, dass Ihr sie getötet habt, und ich belohne Euch mit Gold von der Föderation für Eure Mühen.</Page>
+    </Text>
+</QuestDialog>

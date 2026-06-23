@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Muhrak le Forgeron légendaire vous a demandé des matériaux pour renouveler les stocks de son atelier. Vous les lui avez rapportés, et il se chargea de créer une arme incroyable&amp;nbsp;: la Torche des dieux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;&amp;nbsp;: Passez à mon atelier. J'ai besoin de matériaux.&lt;BR&gt;&lt;BR&gt;- Muhrak.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1">Si la Fournaise divine était en état de marche, je serais au travail, à l'heure qu'il est, mais nous avons quelques... problèmes. Nous avons besoin de mœlle de glace, de mœlle de feu, et de fragments de glacier.&lt;BR&gt;&lt;BR&gt;Comment ça, "pourquoi"?&amp;nbsp; C'est qui, le forgeron légendaire, vous ou moi?&amp;nbsp; Bon... Disons que la fusion des fragments de relique et de l'essence du Noyau nécessite une chaleur intense, suivie d'un froid tout aussi intense. Ça vous va, comme explication?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Maintenant, rendez-vous à Raseri Festning, dans la Vallée des Aiguilles. Vous trouverez la mœlle de glace et de feu sur les géants qui y vivent, surtout sur leurs chefs. Les fragments de glacier?&amp;nbsp; Vous en trouverez sous le pont reliant le Champ de Neige brûlant à la Crique de Glacecroc.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1">Génial, je vais maintenant pouvoir achever mon chef-d'œuvre!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">J'ai besoin de matériaux!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1">Prenez ceci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ajoutez-y de la matière sombre, et vous obtiendrez la Torche des dieux.&lt;BR&gt;&lt;BR&gt;Kelsaik est une version corrompue du dieu Sikander, il est donc insensible à la plupart des formes de magies connues des mortels. Mais son immunité ne le protège pas de la Torche des dieux.&lt;BR&gt;&lt;BR&gt;Faites une réserve de torches, et vous trouverez la matière sombre dans l'enceinte de la Tour d'Ébène. Pratique, non?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais ne partez pas tout de suite, &lt;PCCLASS:lcase&gt;!&amp;nbsp; Allez demander un totem de purification à Gaicus. Il vous sera très utile contre les monstres que vous rencontrerez dans la Tour d'Ébène.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1">Un totem de purification?&amp;nbsp; Ils ont trouvé quelqu'un d'assez bête pour aller explorer la Tour d'Ébène?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Oh... C'est vous?&amp;nbsp; Eh bien, tenez...&lt;BR&gt;&lt;BR&gt;Personne n'a essayé ces totems dans la tour, mais je les ai conçus pour dissiper les effets de la fumée noire qui en émane et vient parfois suffoquer Habere. Vous devriez être {@gender:confronté/confrontée} au même genre de phénomène dans la tour, en plus intense.</Page>
+    </Text>
+</QuestDialog>

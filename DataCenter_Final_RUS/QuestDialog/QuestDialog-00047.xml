@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="4">Деванцы считают, что этот лес принадлежит им. Возможно, до нашего появления так все и было, но больше мы этого не допустим.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Кулсилва}, его {@LinkCreature:3#300160#Деванские чародеи} и их питомцы-спороходы пытаются удержаться в этом месте с помощью сильной черной магии. Я бы многое отдал ради того, чтобы взглянуть на их амулеты - возможно, они подскажут, как нам победить врага.&lt;BR&gt;&lt;BR&gt;Может, принесешь мне парочку?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1008">
+        <Page social="4">Да, это именно то, что я хотел. Возможно, с помощью этих предметов мне удастся разрушить колдовские чары врага. Правда, восстанавливать Леса Забвения нам все равно придется очень долго...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1008">
+        <Page social="0">Они бродят по всей Дэва-Сильве. Ты легко их отыщешь.</Page>
+    </Text>
+</QuestDialog>

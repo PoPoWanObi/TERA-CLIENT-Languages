@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1005">
+        <Page social="4">Был один аманский умник, Мадиар, он хотел остановить раскопки. Говорил что-то о нарушении баланса в регионе.&lt;BR&gt;&lt;BR&gt;В общем, этот дурак отправился к Святилищу Азуриса в одиночку. Как понимаешь, мы не слышали о нем с тех пор.&lt;BR&gt;&lt;BR&gt;Мне-то наплевать, но он смелый парень, а такие нам нужны. Как думаешь, сможешь найти его?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1009">
+        <Page social="4">М-м-м... сдвиг в энергетическом поле тут почти осязаем... Да, я его чувствую... Ого! Кто ты?&lt;NEXTPAGEBUTTON&gt;"Меня отправили найти тебя".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ха, опасность мне не грозит. На меня нападали раньше, но Учамба и Креваас меня спасли!&lt;BR&gt;&lt;BR&gt;И если подумать, то ты тоже появляешься тут в одиночку, без армии... Нам был нужен кто-то вроде тебя. Сейчас есть уникальный шанс заключить мир с вендиго, но нам понадобится твоя помощь.&lt;BR&gt;&lt;BR&gt;Поговори с Учамба и узнай его историю.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1010">
+        <Page social="4">Моя Учамба, его Креваас.&lt;BR&gt;&lt;BR&gt;Наша спасать Мадиар, но Кайджас сильный! Сделать мне больно! Можно меня лечить магический камень, вы называть его лазурный осколок.&lt;BR&gt;&lt;BR&gt;Ты искать на северо-восток, найти магический камень. Принести сюда.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="4" villagerId="1010">
+        <Page social="4">Хо-хо! Спасибо!&lt;BR&gt;&lt;BR&gt;Моя много лучше! Мадиар говорить правда. Федерация - не только зло.&lt;BR&gt;&lt;BR&gt;Морозный предел меняться. Магический камень почти нет - люди забрать слишком много. Они нужны вендиго для жить.&lt;BR&gt;&lt;BR&gt;Круговорот магия, святилище, хватит для всех, если делиться. Не жадничать. Делиться.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Найти голубой магический камень. Мадиар говорить вы звать их лазурный осколок. Искать на северо-восток.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="4">Falls Ihr Euch fragt, was es mit den Leichen dort drüben auf sich hat, das ist mein Werk. Das waren Mitglieder der Freien Bruderschaft.&lt;NEXTPAGEBUTTON&gt;"Freie Bruderschaft?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Genau, habt Ihr noch nie davon gehört? Ursprünglich waren das Farmer, die sich zusammengeschlossen hatten, um von den Händlern von Velika faire Preise für ihre Ernten zu erwirken. Dann ist irgendetwas passiert ... keine Ahnung, was. Sie greifen jeden an, der sich ihnen nähert. Als ob sie nicht mehr sie selber wären.&lt;NEXTPAGEBUTTON&gt;"Als ob sie unter fremder Kontrolle stünden?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Könnte sein.&lt;BR&gt;&lt;BR&gt;Wenn wir die Leichen durchsuchen würden, könnten wir vielleicht etwas Brauchbares herausfinden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1025">
+        <Page social="4">(Diese Leiche ist verstümmelt.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="1026">
+        <Page social="4">(Dieser Leiche wurde die Kehle durchgeschnitten.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="1027">
+        <Page social="4">(Diese Leiche hat eine klaffende Wunde in der Brust. Darin liegt ein glänzender Gegenstand.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="3" villagerId="1033">
+        <Page social="4">Das habt Ihr in einem von ihnen gefunden? Was das wohl ist?&lt;BR&gt;&lt;BR&gt;Ich bringe es so schnell ich kann zum Präfekten.</Page>
+    </Text>
+</QuestDialog>

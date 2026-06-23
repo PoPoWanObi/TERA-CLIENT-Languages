@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">Hier werden Unmengen gelagert - zu viel, um alles zu untersuchen, während ich hier herumschleiche.&lt;BR&gt;&lt;BR&gt;Aber es gibt einen anderen Weg. Hätten die Rotpeitschenpiraten hier etwas Ungewöhnliches zu lagern, dann würde es auch in den Frachtlisten stehen, die die {@LinkCreature:11#1003#Rotpeitschenveteranen} mit sich herumtragen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">Lasst mich mal sehen ... Ah ja, Bomben! Und davon jede Menge!&lt;BR&gt;&lt;BR&gt;Sie transportieren sie vom Lager zum Dock. Und in derselben Lieferung gibt es auch einen "Magiestein".&lt;BR&gt;&lt;BR&gt;Gebt besser Otus Bescheid, dass etwas Großes im Gange ist.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1026">
+        <Page social="0">Beschafft Euch die Frachtlisten von den {@LinkCreature:11#1003#Rotpeitschenveteranen}, dann werden wir der Sache auf den Grund gehen.</Page>
+    </Text>
+</QuestDialog>

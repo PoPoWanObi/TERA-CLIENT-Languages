@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="4">Мой отец был лесорубом, но не он очень бережно относился к природе. Каждый раз, возвращаясь с заготовки, он высаживал столько же семян, сколько срубил деревьев. Отец говорил, что мы всегда должны возвращать то, что взяли у природы.&lt;BR&gt;&lt;BR&gt;Говорил, что крайне важно понимать и жить в гармонии со сказочным народом, который является таким же сокровищем природы, как и сам лес. Пока... пока не случилось это.&lt;NEXTPAGEBUTTON&gt;"Что? Что именно случилось?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">У моего отца было много друзей среди сказочного народа. И самый близкий из них - кентавр по имени {@LinkCreature:2#203#Лихан}.&lt;BR&gt;&lt;BR&gt;Когда отец нас познакомил, я подумала, что кентавры - великодушные и мудрые существа.&lt;BR&gt;&lt;BR&gt;Но однажды отец пошел на встречу с Лиханом, и не вернулся. Его тело нашли позже - истерзанное ранами от копья и копыт. Это так ужасно!&lt;NEXTPAGEBUTTON&gt;"Сочувствую".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1045">
+        <Page social="4">Ох, папочка... когда-нибудь мы встретимся с тобой в Мире Грез.&lt;BR&gt;&lt;BR&gt;А сейчас покойся с миром. Спасибо тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

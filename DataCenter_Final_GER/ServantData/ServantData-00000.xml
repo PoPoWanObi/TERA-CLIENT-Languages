@@ -1,0 +1,258 @@
+<ServantData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ServantData ServantData.xsd" xmlns="https://vezel.dev/novadrop/dc/ServantData">
+    <AbilityInfo>
+        <Collecting id="8" type="0" iconName="img://__Icon_Skills.PetSkill_Collect_Tex" isSwitch="true" />
+        <ItemLooting id="4" type="0" iconName="img://__Icon_Skills.PetSkill_Loot_Tex" isSwitch="true" />
+        <MoneyLooting id="32" type="0" iconName="img://__Icon_Items.goldcoin_Tex" isSwitch="true" />
+        <Skill id="16" type="1" iconName="img://__Icon_Skills.PetSkill_Buff_Tex" isSwitch="true" />
+        <Social id="1" type="2" iconName="img://__Icon_Skills.PetSkill_Social_Tex" />
+        <UserWareHouse id="2" type="1" iconName="img://__Icon_Skills.PetSkill_Inventory_Tex" />
+    </AbilityInfo>
+    <Servant id="1" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+    </Servant>
+    <Servant id="2" maxEnergy="100">
+        <Ability>
+            <Collecting />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="3" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="4" maxEnergy="100">
+        <Ability>
+            <Collecting proficiency="350" />
+            <Social specialSocialMotionId="1,2,3,4,5" />
+            <UserWarehouse />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="5" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+        <Animation move="Run" />
+        <Animation itemLooting="Idle" />
+    </Servant>
+    <Servant id="6" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+        <Animation move="Run" />
+        <Animation itemLooting="atk02" />
+    </Servant>
+    <Servant id="7" maxEnergy="100" nearFrustumOffset="-3">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+        <Animation move="Run" />
+        <Animation itemLooting="Idle" />
+    </Servant>
+    <Servant id="8" maxEnergy="100">
+        <Ability>
+            <UserWarehouse />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="9" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,4,11,12,13,14,20,21" />
+            <UserWarehouse />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="10" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,5,6,7" />
+        </Ability>
+        <Animation move="run" />
+    </Servant>
+    <Servant id="11" maxEnergy="100">
+        <Ability>
+            <Collecting proficiency="300" />
+            <Social specialSocialMotionId="1,2,3,4,5" />
+            <UserWarehouse />
+        </Ability>
+    </Servant>
+    <Servant id="12" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+    </Servant>
+    <Servant id="13" maxEnergy="100">
+        <Ability>
+            <UserWarehouse />
+        </Ability>
+    </Servant>
+    <Servant id="12" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+        </Ability>
+    </Servant>
+    <Servant id="13" maxEnergy="100">
+        <Ability>
+            <UserWarehouse />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="14" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="15" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="16" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="17" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="18" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="19" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="20" maxEnergy="100">
+        <Ability>
+            <ItemLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="22" maxEnergy="100">
+        <Ability>
+            <MoneyLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="23" maxEnergy="100">
+        <Ability>
+            <MoneyLooting />
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="16999999" maxEnergy="100">
+        <Ability>
+            <MoneyLooting />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="16999998" maxEnergy="100">
+        <Ability>
+            <MoneyLooting />
+            <UserWarehouse />
+        </Ability>
+        <Animation move="Run" />
+    </Servant>
+    <Servant id="600" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="601" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="602" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="603" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="604" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="605" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="606" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="607" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="608" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="609" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="610" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="611" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="700" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="701" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="702" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="703" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+    <Servant id="704" maxEnergy="100">
+        <Ability>
+            <Social specialSocialMotionId="1,2" />
+        </Ability>
+    </Servant>
+</ServantData>

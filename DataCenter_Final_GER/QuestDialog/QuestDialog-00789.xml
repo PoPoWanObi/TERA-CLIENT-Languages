@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena schickte eine Nachricht, derzufolge Elion und der Rest seiner Leute in der Düsteren Kathedrale verschollen sind. Sie bat um Eure Hilfe.&lt;BR&gt;&lt;BR&gt;An der Düsteren Kathedrale traft Ihr Runha, die ebenso wie Jelena eine Kundschafterin ist. Von ihr erfuhrt Ihr, dass Elion und seine Soldaten auf der Jagd nach einer Kultistenpriesterin durch ein Teleportal getreten und dann abgeschnitten worden waren. Ihr habt Runha dabei geholfen, eine neue Verbindung zur Zuflucht der Kultisten herzustellen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Nachricht aus Velika. Kehrt sofort nach Tulufan zurück.&lt;BR&gt;&lt;BR&gt; Baruch</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">Ein Bote - ich glaube, er heißt Brurun - sucht nach Euch. Er ist drüben auf der anderen Seite des Platzes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1024">
+        <Page social="4">Seid Ihr wirklich &lt;PCNAME&gt;? Wenn nicht, haben wir uns nichts zu sagen.&lt;BR&gt;&lt;BR&gt;Nun, wenn Ihr es wirklich seid, dann ... Jelena schickt eine Botschaft für Euch. Elion ist verschwunden, als er einer Spur zu den Kultisten folgte. Informiert Baruch und macht Euch an die Arbeit.&lt;BR&gt;&lt;BR&gt;Elion braucht Euch!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1001">
+        <Page social="4">Elion wird vermisst ...? Hoffentlich geht es ihm gut. Sobald sie davon hörte, ist Elsine zur Düsteren Kathedrale gerannt. An einen solchen Ort sollte aber kein Archäologe allein gehen.&lt;BR&gt;&lt;BR&gt;Sprecht mit Zenturio Orlaith im Kreuzfahrerlager. Wenn sie dort ist, wird sie wissen, wohin sie geht.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1006">
+        <Page social="4">Elsine sagte, sie wolle zum Kathedralenwall. Mittlerweile müsste sie dort sein. Was Elion betrifft, so haben wir nichts mehr von ihm gehört, seit er die Kathedrale betreten hat.&lt;BR&gt;&lt;BR&gt;Er war dabei, eine Priesterin zu verfolgen. Ackbar? Saskia? Wie hieß sie nur?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="6" villagerId="1022">
+        <Page social="4">Ah, &lt;PCNAME&gt;. Ihr habt es bestimmt auch gehört. Elion und seine Mannschaft werden in der Kathedrale vermisst.&lt;BR&gt;&lt;BR&gt;Ich weiß, ich kann nicht viel ausrichten, aber ich kann nicht einfach nur herumsitzen und warten.&lt;NEXTPAGEBUTTON&gt;"Sollten Soldaten nicht kämpfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ihr habt wohl recht. Es war wahrscheinlich besser, Euch zu Hilfe zu holen. Bitte geht und rettet sie.&lt;BR&gt;&lt;BR&gt;Präfekt Rendalf hat vom Verschwinden Elions als Erster berichtet. Er befindet sich am Verteidigerwall. Findet ihn, und er wird Euch Näheres sagen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4">Seid Ihr wirklich &lt;PCNAME&gt;? Dann wart Ihr es doch, der half, den Verräter Samael dingfest zu machen? Möge er in der Hölle verrotten! Was für eine Ehre! Wie kann ich Euch helfen?&lt;BR&gt;&lt;BR&gt;Elion? Er hat seinen Trupp durch ein Teleportal geführt, das wir auf der untersten Ebene dieses Gebäudes gefunden haben ... Und dann funktionierte es plötzlich einfach nicht mehr! Niemand konnte mehr hindurchgelangen. Runha arbeitet daran, aber bisher hat sie noch keinen Erfolg gehabt.&lt;BR&gt;&lt;BR&gt;Sie könnte ganz sicher Eure Hilfe gebrauchen.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="225" prevId="8" villagerId="1023">
+        <Page social="4">Willkommen, &lt;PCNAME&gt;. Leider sind die Mittel zur Inbetriebnahme dieses Teleportals nicht greifbar - und enorm frustrierend.&lt;BR&gt;&lt;BR&gt;Höchstwahrscheinlich haben die Nachkommen am anderen Ende das Teleportal stillgelegt, aber vielleicht lässt es sich wieder aktivieren.&lt;BR&gt;&lt;BR&gt;Wir brauchen "Opferandenken", wie sie {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus} und {@LinkCreature:25#8031#Masakrad} tragen. Besitzen wir diese Marken, können wir vielleicht die Verbindung zu was auch immer sich auf der anderen Seite befindet wiederherstellen.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="225" prevId="9" villagerId="1023">
+        <Page social="4">Ihr habt die Marken? Großartig! Nun können wir die {@LinkObject:31#Dimensionssäule} im Kapitelhaus benutzen.&lt;BR&gt;&lt;BR&gt;Aber seht Euch vor, denn einige dieser Dimensionssäulen sind auf magische Weise mit verschiedenen monströsen Wächtern verbunden.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="225" villagerId="1023">
+        <Page social="0">Ich brauche den Widerhall von diesen drei Opferandenken. {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus} und {@LinkCreature:25#8031#Masakrad} müssen sterben, um sie in unseren Besitz zu bringen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="225" prevId="10" villagerId="1023">
+        <Page social="4">Das Portal ist offen! Sehr gut!&lt;BR&gt;&lt;BR&gt;Aber wir müssen uns beeilen. Wer weiß, in welchen Schwierigkeiten die anderen stecken!</Page>
+    </Text>
+</QuestDialog>

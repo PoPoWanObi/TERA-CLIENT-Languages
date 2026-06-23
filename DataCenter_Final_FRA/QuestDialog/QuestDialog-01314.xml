@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Les Griffes noires refusent de nous laisser en paix, alors j'aimerais que vous leur portiez un message sanglant.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:41#4004#berserkers}, {@LinkCreature:41#4005#massacreurs} et {@LinkCreature:41#3006#combattants sanglants Griffe noire} à l'Arène sanglante dans le sud de la Vallée sauvage. Récupérez leur insigne comme preuve de leur mort.&lt;BR&gt;&lt;BR&gt;Apportez ces insignes à Jaebel, à l'Avant-poste d'Experior.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">Bien joué. Tenez, voici un gage de remerciement de la Fédération.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1003">
+        <Page social="0">Il faut que vous éliminiez les membres de la Griffe noire à l’Arène sanglante et dans le sud de la Vallée sauvage.</Page>
+    </Text>
+</QuestDialog>

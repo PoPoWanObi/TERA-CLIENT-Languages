@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Ihr könnt mir doch sicher helfen, oder? Ihr seid hoffentlich besser als mein inkompetenter Assistent. Wenn Ihr mir helft, teile ich mit Euch alles, was ich über die Riesen herausfinde. Das ist doch ein gutes Angebot, oder?&lt;BR&gt;&lt;BR&gt;Gut, dann eliminiert bitte ein paar der {@LinkCreature:18#11#Zahnradradgolems} und schaut Euch nach weiteren &lt;FONT COLOR='#660000'&gt;Fragmenten&lt;/FONT&gt; um.&lt;BR&gt;&lt;BR&gt;Mit diesen Fragmenten liegt mir dann bestimmt die ganze akademische Welt zu Füßen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Hervorragend! Oh, die Geschichte in diesen Inschriften ... Ich kann gar nicht genug über Geschichte in Erfahrung bringen!&lt;BR&gt;&lt;BR&gt;Oooh, das hört sich fast schon an wie Meinungsmache. Intrige!&lt;BR&gt;&lt;BR&gt;Ich kann es gar nicht abwarten, mir das genauer anzusehen. Vielen Dank für Eure Hilfe!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Immer noch da? Ihr trödelt aber ziemlich lange herum, was?</Page>
+    </Text>
+</QuestDialog>

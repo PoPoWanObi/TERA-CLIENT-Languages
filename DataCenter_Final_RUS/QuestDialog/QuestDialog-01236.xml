@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Раньше наги являлись сюда время от времени, чтобы поклоняться Дагону, а затем уходили. Сейчас они приходят и сражаются с нами.&lt;BR&gt;&lt;BR&gt;Ответ может быть связан с {@LinkCreature:42#200#Дагонитами-убийцами}. Если ты убьешь их побольше, мы, возможно, найдем какие-то доказательства, документы... Кто знает?&lt;BR&gt;&lt;BR&gt;По крайней мере, количество нагов будет сокращаться, а это нам только на пользу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Давай взглянем на эти приказы...&lt;BR&gt;&lt;BR&gt;"Мы, старейшины Острова Серпентис... выполнить задание..." Да, это то, что мы искали.&lt;BR&gt;&lt;BR&gt;Спасибо тебе, &lt;PCNAME&gt;. Федерация тебе многим обязана.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Почему наги остались здесь? Возможно, {@LinkCreature:42#200#Дагониты-убийцы} что-то об этом знают. Как думаешь, если мы убьем парочку, то получим ответ?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;Гиены расплодились на Поле рабов и доставляют нам все больше и больше проблем.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:19#3000#Рогатых боевых гиен} и {@LinkCreature:19#2000#Боевых гиен}.&lt;BR&gt;&lt;BR&gt;Доложи Каине, когда все будет выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Благодарю от лица всей Федерации. Твоя гильдия вдохновляет всех нас на новые свершения!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

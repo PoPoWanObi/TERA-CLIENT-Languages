@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Blasted gulas! They dumped carrion in all the underground springs. They're all poisoned.&lt;BR&gt;&lt;BR&gt;Gulas can digest anything—they could drink from a latrine. I was worried they'd starve us out, but—they're slavers. What do the slaves drink?&lt;BR&gt;&lt;BR&gt;There has to be a {@LinkCreature:208#1038#clean well} somewhere in the Cavern of Shackles! Take this jug and find it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1038">
+        <Page social="4">(A cool, fresh breeze blows from the deep, dark well.)&lt;BR&gt;&lt;BR&gt;(Further down, water gurgles in an underground stream.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="4">I knew it. Where's my cup?&lt;BR&gt;&lt;BR&gt;Aaaah!&lt;BR&gt;&lt;BR&gt;I'd forgotten that fresh water smelled so good!</Page>
+    </Text>
+</QuestDialog>

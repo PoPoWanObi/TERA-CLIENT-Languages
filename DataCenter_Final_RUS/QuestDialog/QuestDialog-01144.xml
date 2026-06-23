@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">Мы получили послание из Фронтеры - несколько селян пропали, и местные власти считают, что их утащили арахнены.&lt;BR&gt;&lt;BR&gt;Они должны быть где-то в пещерах. Найди их и помоги им, если сможешь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">(Труп ужасно изуродован.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">(От тела исходит запах яда.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">Арахнены убили селян еще в деревне.&lt;BR&gt;&lt;BR&gt;Очень жаль. Однако, твои усилия по их поискам должны быть вознаграждены. Спасибо.</Page>
+    </Text>
+</QuestDialog>

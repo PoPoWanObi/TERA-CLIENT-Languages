@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Sie haben alles gestohlen. Alles. Sie sind durch meine Ware gegangen und haben mehrere Kopfbedeckungen herausgenommen. Ich wette, Ihr könnt sie von den Tuwangiarbeitern zurückholen.&lt;BR&gt;&lt;BR&gt;Würdet Ihr sie für mich einsammeln, während Ihr nach der eigentlichen Tasche sucht?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">Oh, fantastisch! Die sind eine Menge wert - ich hätte eine Weile hungern müssen, wenn Ihr sie nicht wiederbeschafft hättet.&lt;BR&gt;&lt;BR&gt;Ich bin Euch sehr dankbar für Eure Hilfe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Bitte sammelt die Kopfbedeckungen ein. Ich habe mein gesamtes Vermögen in sie investiert. Wenn ich sie nicht zurückbekomme, weiß ich nicht, wo ich meine nächste Mahlzeit hernehmen soll.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="4">Прошу прощения, друг мой. Можешь уделить мне минутку?&lt;NEXTPAGEBUTTON&gt;"Конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Спасибо. Мой верный друг помогал принцессе Сионе писать воспоминания о первой аргонской войне.&lt;BR&gt;&lt;BR&gt;Не так давно он погиб в бою у Кратера Магтулк. Часть страниц этой книги безвозвратно утеряны.&lt;BR&gt;&lt;BR&gt;Если найдешь какие-то страницы, отнесешь мне?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1008">
+        <Page social="5">Здесь же все страницы! Спасибо тебе, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Я вышлю копию этих страниц его сыну в Аллемантею. Уверен, он будет рад получить книгу своего отца.&lt;BR&gt;&lt;BR&gt;Пожалуйста, прими эту копию и мое почтение.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1008">
+        <Page social="0">Тебе попадались эти потерянные страницы? Боюсь, мы их больше не увидим.</Page>
+    </Text>
+</QuestDialog>

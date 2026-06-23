@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Irgendetwas stimmt hier nicht. {@LinkCreature:50#1002} ist spät dran, und er kommt nie zu spät.&lt;BR&gt;&lt;BR&gt;Ich mache mir Sorgen, dass er in den unterirdischen Höhlen irgendetwas Interessantes gefunden und darüber die Zeit vergessen hat ... oder er hat es mit den Argonen zu tun bekommen.&lt;BR&gt;&lt;BR&gt;Könntet Ihr bitte nach ihm sehen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Es freut mich, Euch wiederzusehen, aber ich bin nicht sicher, was Euch hierher führt.&lt;NEXTPAGEBUTTON&gt;"Jemand macht sich Sorgen um Euch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ein Botaniker, der etwas auf sich hält, lässt sich die Gelegenheit, die Viridianhöhlen zu untersuchen, nicht entgehen. Die Widerstandsfähigkeit der Natur fasziniert mich.&lt;BR&gt;&lt;BR&gt;Außerdem hab ich mich verirrt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Der Legende nach hat Yurian die Viridianhöhlen dank der unerbittlichen Hingabe einer außergewöhnlichen Castanic gesegnet, was womöglich die Widerstandsfähigkeit der Höhlen erklärt.&lt;NEXTPAGEBUTTON&gt;"Eine Kriegerin?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Nein, nein, eine Romantikerin.&lt;BR&gt;&lt;BR&gt;Ihr Name war Imalia und sie liebte diese Höhlen. Sie hegte sie, hielt sie sauber und beschützte sie.&lt;BR&gt;&lt;BR&gt;Eines Tages traf sie einen Mann namens Tiparius, der in den Höhlen Schutz gesucht hatte. Beim ersten Blick in sein schönes Gesicht entbrannte sofort ihre Liebe zu ihm.&lt;NEXTPAGEBUTTON&gt;"War es nicht einfach nur Einsamkeit?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Es war eindeutig Liebe, und er erwiderte sie. Eine Zeit lang waren sie das glücklichste Paar in ganz Shara.&lt;NEXTPAGEBUTTON&gt;"Was passierte dann?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tiparius wollte weiterziehen. Er hatte genug vom nördlichen Shara gesehen und sehnte sich danach, nach Castanica zurückzukehren.&lt;BR&gt;&lt;BR&gt;Imalia fühlte sich hin und her gerissen zwischen ihrer Liebe zu ihm und ... ihrer Verpflichtung gegenüber den Höhlen. Tiparius flehte sie an mitzukommen, aber sie entschied sich, zu bleiben.&lt;NEXTPAGEBUTTON&gt;"Sie hat ihre Liebe einer Höhle geopfert?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nein, nein ... sie hat sie ihrem Pflichtbewusstsein geopfert. Yurian bewunderte ihre Hingabe und beschützte die Höhlen, damit ihr Opfer nicht umsonst war.&lt;BR&gt;&lt;BR&gt;Also gut ... Wie wär's, wenn wir zu {@LinkCreature:250#1002} gehen?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Um ehrlich zu sein, habe ich mich verirrt. Ich muss zu {@LinkCreature:250#1002}, aber ich kann mich nicht an den Weg erinnern. Er macht sich sicher schon Sorgen.&lt;BR&gt;&lt;BR&gt;Könnt Ihr mir den Weg nach draußen zeigen?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="50" villagerId="39">
+        <Page social="0">Jetzt hinausgehen?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="1022">
+        <Page social="6">Ich danke Euch dafür, einen Botaniker auf Abwegen in Sicherheit gebracht zu haben.&lt;BR&gt;&lt;BR&gt;Ich nehme wohl besser ein Stück Kreide mit, wenn ich mich das nächste Mal unter die Erde begebe.</Page>
+    </Text>
+</QuestDialog>

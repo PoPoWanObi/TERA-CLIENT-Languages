@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Euch schickt der Himmel. Ich ertrinke hier in Arbeit!&lt;BR&gt;&lt;BR&gt;Wollt Ihr Euch ein bisschen was dazuverdienen?&lt;NEXTPAGEBUTTON&gt;"Aber sicher."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Großartig! {@LinkCreature:63#3002#Taratia} hat eine lange Liste mit Dingen, die erledigt werden müssen - Ihr wisst ja, wie sie ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Ah, Ihr kommt genau richtig! Könnt Ihr für mich ein paar Dinge sammeln?&lt;BR&gt;&lt;BR&gt;Elthienne reißt mir meinen gehörnten Schädel ab, wenn ich nicht ein paar von den Aufgaben auf der Liste erledigt bekomme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Das ist eine große Hilfe. Ihr seid wirklich ganz erstaunlich. Wenn ich groß bin, will ich genau so werden wie Ihr, im Ernst!&lt;BR&gt;&lt;BR&gt;Richtet {@LinkCreature:63#3003#Elthienne} aus, was ich Euch gesagt habe. Nicht, dass sie es glauben wird. Sie hält mich für einen Totalausfall.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Sylvafaser? Sylvafaser, wo bist du? Sylvafaser? Hat irgendjemand welche?&lt;BR&gt;&lt;BR&gt;Nein? Verflixt. Ich schätze, ich werde einfach mal hier stehen bleiben und warten, ob nicht welche auftauchen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Ja! Das ist es, was ich brauche. Ihr seid {@gender:der/die} Beste!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} hat da etwas für Euch. Wetten, dass Ihr nicht darauf kommt, was es ist?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Habt Ihr hier irgendwo Grünhaut versteckt?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Eure Belohnung, wie versprochen. Ihr habt sie Euch redlich verdient. Ich weiß, die Arbeit mit Taratia kann recht ... anstrengend sein.</Page>
+    </Text>
+</QuestDialog>

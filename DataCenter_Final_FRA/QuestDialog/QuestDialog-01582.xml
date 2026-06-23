@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion vous a fourni une information capitale&amp;nbsp;: le moyen de vous introduire dans la Tour d'Ébène, la forteresse de Thulsa. Mais il vous fallait pour cela entrer en possession d'une clé&amp;nbsp;: une gemme appartenant à Killian, le dieu du chaos. Elion et Jelena vous ont accompagné au Labyrinthe de la Terreur, la demeure de Killian. Sur place, Elion s'est interposé pour vous protéger d'un sort qui vous était adressé... au péril de sa vie...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">{@gender:Cher/Chère} &lt;PCNAME&gt;... on dirait bien que nous allons devoir combattre une fois de plus côte à côte. Thulsa et Killian ont réveillé Kelsaik, mais vous les avez empêchés de prendre le contrôle de la créature.&lt;BR&gt;&lt;BR&gt;Kelsaik ne doit pas se trouver bien loin de Thulsa... C'est préoccupant, mais d'un autre côté, ça nous donne une belle opportunité. Jelena et moi savons où Thulsa se trouve&amp;nbsp;: il se cache dans la Vallée des Aiguilles, à Lorcada.&lt;BR&gt;&lt;BR&gt;Nous devrions discuter de tout ça de vive voix. Je vous retrouverai à l'atelier du forgeron.&lt;BR&gt;&lt;BR&gt;Bien à vous - Elion</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5002">
+        <Page social="4">Ca faisait longtemps, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thulsa, Killian, et maintenant Kelsaik. Nous avons vraiment le don pour nous attirer des problèmes de taille, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous avez déjà entendu parler d'une vieille forteresse nommée Tour d'Ébène?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Eh bien, c'est là-bas que se trouve Thulsa... et peut-être bien Kelsaik. Mais Thulsa n'a remis de clé qu'à un seul invité. Vous devinez qui?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Killian?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Gagné!&amp;nbsp; Nous avons besoin de la gemme incrustée sur le bâton de Killian, sans quoi il nous sera impossible d'entrer dans la Tour d'Ébène. Autant vous dire que je n'aurai aucun scrupule à arracher le bâton au cadavre encore chaud de Killian avant d'en extraire la gemme.&lt;BR&gt;&lt;BR&gt;C'est par lui que nous allons donc commencer. Il se trouve dans le Labyrinthe de la Terreur.&lt;BR&gt;&lt;BR&gt;Mais avant d'y aller, parlez à Jelena. Elle a préparé un petit quelque chose qui nous sera très utile, sur place.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1103">
+        <Page social="1">Whaou, &lt;PCNAME&gt;, vous avez récupéré du bel équipement... et je vois quelques nouvelles cicatrices... ça vous va bien.&lt;BR&gt;&lt;BR&gt;Prenez ceci. C'est une potion de volonté. C'est l'ingénieur Gaicus et moi qui l'avons préparée, et il en a toute une réserve, au cas où vous tomberiez à court par la suite.&lt;BR&gt;&lt;BR&gt;Le nom du Labyrinthe de la Terreur n'a rien de folklorique. Si vous vous y aventurez sans cette potion, votre cervelle se liquéfiera avant de vous sortir par les narines!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, en route pour le labyrinthe. Je vous parie dix pièces d'or qu'Elion se trouve déjà sur place.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="252" prevId="4" villagerId="1105">
+        <Page social="1">Nous avons rompu le sceau, et Jelena est entrée la première. Allons-y!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="476" prevId="5" villagerId="1019">
+        <Page social="1">Je ne peux pas laisser Elion comme ça. Je ne peux pas!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je sais qu'il me dirait de le laisser et de partir avec vous, mais il n'est pas en position de discuter. D'un autre côté, je me sens mal... vis-à-vis de vous...&lt;NEXTPAGEBUTTON&gt;"C'est bon. Je l'ai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Je sais que je peux compter sur vous, &lt;PCNAME&gt;. Je vais rentrer à Habere et j'y attendrai que vous veniez me raconter tous les détails. Et maintenant, allez donc tuer un dieu!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="476" prevId="6" villagerId="1021">
+        <Page social="1">Vous avez extrait la gemme qui vous permettra d'entrer dans la Tour d'Ébène.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1103">
+        <Page social="1">Si vous êtes encore en vie, c'est... que vous avez réussi!&amp;nbsp; Génial!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Elion?&amp;nbsp; Il s'en est tiré, mais sa vie ne tient qu'à un fil. Enfin, c'est Elion... pas vrai?&amp;nbsp; Il est solide, il s'en remettra.&lt;BR&gt;&lt;BR&gt;Lui et moi ne sommes pas en état de combattre pour le moment, alors transmettez nos "amitiés" à Kelsaik, d'accord?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

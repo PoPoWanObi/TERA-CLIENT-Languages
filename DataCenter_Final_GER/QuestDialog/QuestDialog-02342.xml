@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Ihr seid Lein und Digory in den Freilanden begegnet und habt Informationen zum Farmerfestival erhalten.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Um diese Jahreszeit feiern wir das Farmerfestival, um die letzten Wintergemüsesorten zu ernten, bevor wir die Felder für die nächste Aussaat im Frühjahr beackern.&lt;BR&gt;&lt;BR&gt;Es gibt viele unterhaltsame Veranstaltungen. Aber am meisten Spaß macht es doch, all die frischen Farmprodukte zu probieren, würde ich meinen.&lt;BR&gt;&lt;BR&gt;Wollt Ihr Euch erst ein wenig auf der Farm umsehen? Wir von Leins Farm sind besonders stolz auf unsere Kartoffeln.&lt;BR&gt;&lt;BR&gt;Ein Vorschlag: Wenn Ihr mir eine Kartoffel bringt, dann zeige ich Euch, wie man sie zubereitet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Oh, sehr gut! Das ist eine schöne Kartoffel. Daraus kann man einen leckeren Kartoffelsalat machen.&lt;BR&gt;&lt;BR&gt;Den bereitet Ihr in einer Salatschüssel zu. Millia kann es Euch zeigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Nehmt einfach eine, die Euch gefällt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="3" villagerId="7006">
+        <Page social="4">Das ganze Geheimnis beim Kochen sind die richtigen Küchengeräte.&lt;BR&gt;&lt;BR&gt;Wenn Ihr nicht ganz sicher seid, welches Ihr verwenden sollt, lest das Rezept.&lt;BR&gt;&lt;BR&gt;Hier: Nehmt dieses Rezept und diese Zutaten und bereitet Euren Salat selbst zu. Ganz leicht!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="5" villagerId="7000">
+        <Page social="4">Seid Ihr sicher, dass das Euer erster Kartoffelsalat ist? Sieht aus, als würdet Ihr ihn schon routiniert beherrschen!&lt;BR&gt;&lt;BR&gt;Nun, da Ihr den Kartoffelsalat so rasch gemeistert habt, seid Ihr wohl für größere kulinarische Herausforderungen bereit!&lt;BR&gt;&lt;BR&gt;Ihr findet die Zutaten und Rezepte überall auf den Farmen des Festivals verteilt. Haltet danach Ausschau! &lt;NEXTPAGEBUTTON&gt;"Was gibt es noch auf dem Festival?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nun, falls das Kochen nichts für Euch ist, könnt Ihr es einmal mit dem Bamarama versuchen.&lt;BR&gt;&lt;BR&gt;Sprecht mit Lein. Er sagt Euch alles, was Ihr wissen müsst.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" villagerId="7000">
+        <Page social="0">&lt;PCNAME&gt;, habt Ihr das Rezept, das ich Euch gegeben habe, auch gewissenhaft befolgt?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="6" villagerId="1030">
+        <Page social="4">Herzlich willkommen! Keine Lust mehr, den Koch zu spielen, was? Nun, hier seid Ihr richtig! Das Bamarama ist das Beste am ganzen Farmerfestival!&lt;BR&gt;&lt;BR&gt;Hier gibt es spannende Kämpfe zu sehen und mit etwas Glück könnt Ihr Geld dabei gewinnen! Die Regeln sind ganz einfach: Wählt einen Kämpfer aus, und wenn er gewinnt, gewinnt auch Ihr!&lt;BR&gt;&lt;BR&gt;Da Ihr zum ersten Mal hier seid, gebe ich Euch vielleicht auch einen Tipp. Wollt Ihr es versuchen? &lt;NEXTPAGEBUTTON&gt;"Vielleicht. Das Festival hat noch mehr zu bieten."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Noch nicht? In Ordnung. Kommt zurück, wenn Ihr Lust dazu habt.&lt;BR&gt;&lt;BR&gt;Wenn Euch nach etwas Handfesterem der Sinn steht, versucht es bei Digorys Farm. Kommt später wieder zurück!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="1009">
+        <Page social="4">Willkommen auf meiner Farm!&lt;BR&gt;&lt;BR&gt;Wollt Ihr Euch einmal als Ballentreter versuchen? Hier seid Ihr richtig!&lt;BR&gt;&lt;BR&gt;In diesem Spiel müsst Ihr in der vorgegebenen Zeit so viel Heu treten, wie Ihr könnt. Aber tretet es nicht aus der Begrenzung heraus!&lt;BR&gt;&lt;BR&gt;Möchtet Ihr einen Ballen zum Spaß treten? &lt;NEXTPAGEBUTTON&gt;"Vielleicht?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="1009">
+        <Page social="4">Was meint Ihr? Schwerer als es aussieht, oder?&lt;BR&gt;&lt;BR&gt;Ganz sicher nicht noch eine Runde? &lt;NEXTPAGEBUTTON&gt;"Ich komm später wieder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ha ha, kein Problem.&lt;BR&gt;&lt;BR&gt;Hört mal, &lt;PCNAME&gt;, kennt Ihr schon meine kleine Schwester Rachlae? Sie hat einen kleinen Himmelslotusgarten. Fragt sie einmal danach!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="10" villagerId="7001">
+        <Page social="4">Oh, hallo. Hat mein Bruder Digory Euch geschickt?&lt;BR&gt;&lt;BR&gt;Ich fürchte, er hat sich einen kleinen Scherz mit Euch erlaubt. Ja, ich baue Himmelslotus an ... aber zu meinem Garten geht es diese Treppe hinauf.&lt;BR&gt;&lt;BR&gt;Ich weiß! Himmelslotus wächst nur in schwindelnder Höhe. Aber das ist es wert, denn er macht einfach alles viel schmackhafter.&lt;BR&gt;&lt;BR&gt;Hier: Ihr habt den langen Weg auf Euch genommen, also kann ich Euch wenigstens etwas probieren lassen. Auch wenn Ihr selbst keinen Himmelslotus pflücken wollt. &lt;NEXTPAGEBUTTON&gt;"Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

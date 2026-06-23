@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="4">Verdammt! Die Dorfbewohner, die versuchen ihre Siedlung wieder aufzubauen, werden ständig von Ossugonischen Eisgebietern und Gefrorenen Skelettleibeigenen angegriffen.&lt;BR&gt;&lt;BR&gt;Mittlerweile haben sie schon keine Asche mehr für Zement! Also würde ich sagen, wir schlagen zwei Fliegen mit einer Klappe.&lt;BR&gt;&lt;BR&gt;Macht diese Untoten nieder und beschafft ihre Gebeine. Mal sehen, ob wir so weiterkommen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1009">
+        <Page social="4">Gut gemacht, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich weiß, dass das technisch gesehen nicht die richtige Asche für diesen Zweck ist. Aber diese Untoten sind ja so zäh, dass die Mixtur wenigstens robust werden müsste. Ha!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1009">
+        <Page social="0">Wir können weiterreden, wenn diese Monster erledigt sind.</Page>
+    </Text>
+</QuestDialog>

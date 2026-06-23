@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="8">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Eliminiert {@LinkCreature:8#4011#Gulonabweichler}, {@LinkCreature:8#4021#Wiederbelebte Popori}, {@LinkCreature:8#4032#Kaimanknochensklaven}, {@LinkCreature:8#4031#Skelettkaimane}, {@LinkCreature:8#4041#Grausame Inquisitoren}, {@LinkCreature:8#4051#Primitive Inquisitoren}, {@LinkCreature:8#4052#Wilde Goldwichtel} und {@LinkCreature:8#4061#Unsterbliche Minenarbeiter}.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Rendia in den Tiefen der Hungrigen Höhlen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="8">Gute Arbeit da draußen. Gute Arbeit belohne ich gern.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1014">
+        <Page social="0">Wenn Ihr eine Belohnung wollt, müsst Ihr auch etwas tun, was eine Belohnung wert ist.</Page>
+    </Text>
+</QuestDialog>

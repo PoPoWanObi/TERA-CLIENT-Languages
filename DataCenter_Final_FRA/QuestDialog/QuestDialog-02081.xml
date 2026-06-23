@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les membres de l'expédition ayant survécu à l'accostage ont pour ordre de se regrouper sur la plage et d'aller au-devant du commandant Elion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="415" prevId="2" villagerId="1005">
+        <Page social="4">Ces opérations ne sont plus de mon âge, &lt;PCCLASS:lcase&gt;. Cette rocaille, ce temps... sans parler des ennemis postés dans les hauteurs qui ne nous ont laissé aucun répit.&lt;BR&gt;&lt;BR&gt;Ce n'est pas exactement l'arrivée triomphale prévue par Elion, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Nous devons nous organiser et quitter cette plage au plus vite!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"J'attends les ordres!&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Voilà une bonne nouvelle. Nous devons nous occuper en priorité des blessés. Vous savez comment ça se passe&amp;nbsp;: les médecins posent un diagnostic, trient les patients en fonction des priorités et s'efforcent d'en sauver le plus possible.&lt;BR&gt;&lt;BR&gt;Nous manquons de personnel médical et je voudrais savoir comment s'en sortent nos médecins sur la plage. Allez prendre de leurs nouvelles, ravitaillez-les en matériel médical et revenez au plus vite me présenter votre rapport.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="415" prevId="3" villagerId="1050">
+        <Page social="4">La mer peut être cruelle et ces soldats en savent quelque chose... Dites simplement à Ahdun qu'il y a beaucoup de noyés ou d'hommes qui ont bu la tasse et s'en remettent mal.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="415" prevId="3" villagerId="1051">
+        <Page social="4">Vous avez rapporté des bandages?&amp;nbsp; Très bien. Dites à Ahdun que j'ai suturé des plaies laissant penser qu'une créature aux crocs acérés rôdait dans les grands fonds.&lt;NEXTPAGEBUTTON&gt;"Bon courage pour la suite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Seule une moitié de nos troupes est parvenue à rejoindre le rivage et un survivant sur deux n'est pas en état de combattre.&lt;BR&gt;&lt;BR&gt;Dites à Ahdun que s'il devait y avoir d'autres survivants, ils seraient arrivés depuis longtemps.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="415" prevId="3" villagerId="1052">
+        <Page social="0">Quel est le crétin de quartier-maître qui a trouvé le moyen d'affecter le personnel médical à un navire et de stocker tout le matériel dont nous avons besoin dans un autre?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Oh!&amp;nbsp; J'imagine que c'est pour ça que vous êtes là. Ce matériel me sera utile, mais dites à Ahdun qu'il va rapidement m'en falloir plus.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="415" prevId="4" villagerId="1005">
+        <Page social="4">Regardez-moi ce désastre, &lt;PCNAME&gt;. Les soldats en état de manier une épée sont bien peu nombreux.&lt;BR&gt;&lt;BR&gt;Je vais demander aux blessés capables de tenir debout d'aider le personnel médical. De votre côté, vous allez devoir vous préparer au combat.&lt;NEXTPAGEBUTTON&gt;"On nous attaque?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pas pour le moment, mais regardez un peu la plage... Vous avez l'impression que nous y sommes en sécurité?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Le commandant Elion est parti en reconnaissance à la tête d'un groupe d'éclaireurs, mais il attendait l'arrivée d'un corps d'armée complet pour l'appuyer, et nous sommes si peu nombreux... Nous devons trouver un moyen de le contacter et de nous regrouper.&lt;BR&gt;&lt;BR&gt;Mais pas question de vous envoyer en mission sans un minimum de préparation. Allez demander au quartier-maître Popomin de vous équiper comme il le pourra avec ce que la mer lui aura rendu de notre matériel. Faites vite, &lt;PCNAME&gt;!&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="415" prevId="7" villagerId="1007">
+        <Page social="4">Ne me tuez pas!&amp;nbsp; Je ne suis pas un combattant!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Oh... Attendez... mais vous êtes des nôtres!&amp;nbsp; Les trois quarts de nos soldats sont alités ou occupés à recracher de l'eau de mer... Du coup, quand je croise quelqu'un qui tient debout, je me méfie... Enfin bref...&lt;BR&gt;&lt;BR&gt;Vous cherchez de l'équipement?&amp;nbsp; Désolé, mais la mer ne nous a rien rendu qui puisse vous convenir, &lt;PCCLASS:lcase&gt;, à moins que les centurions n'aient déjà récupéré le matériel en question. Allez voir ça avec eux.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="415" prevId="8" villagerId="1053">
+        <Page social="4">Du matériel pour &lt;font color='#FF0000'&gt;&lt;PCCLASS:lcase&gt;&lt;/font&gt;... Voyons voir.&lt;BR&gt;&lt;BR&gt;Hé, c'est votre jour de chance!&amp;nbsp; Tenez, essayez donc ça.&lt;BR&gt;&lt;BR&gt;Ce n'est pas du matériel de première main, mais c'est toujours mieux que rien.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="415" prevId="9" villagerId="1053">
+        <Page social="4">Vous voilà {@gender:équipé/équipée} comme il se doit, &lt;PCCLASS:lcase&gt;. Vous ressemblez déjà moins à un pauvre hère qu'on vient de sauver de la noyade.&lt;BR&gt;&lt;BR&gt;Présentez votre rapport à l'aide de camp et expliquez-lui que les blessés ne sont pas en état de quitter la plage.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="415" prevId="10" villagerId="1003">
+        <Page social="4">Bah!&amp;nbsp; Des tempêtes... Des naufrages!&amp;nbsp; Des ennemis trop coriaces pour nos lames!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je ne peux compter que sur une poignée de soldats. Le gros de nos troupes continue de débarquer?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Non... je ne crois pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous avons subi de lourdes pertes et nous sommes toujours bloqués sur la plage. Je n'avais jamais vu une tempête frapper de manière aussi soudaine.&lt;BR&gt;&lt;BR&gt;Tout le monde est en état de choc, et les membres de mon état-major sont... disons... un peu amorphes. Allez leur remettre les pieds sur terre et revenez en vitesse me faire part des nouvelles. Je crois que les choses ne vont pas tarder à se gâter.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="415" prevId="11" villagerId="1055">
+        <Page social="4">Je suis un soldat, pas une grenouille. Si je survis à cet endroit suffisamment longtemps, je demande ma mutation dans le désert.&lt;NEXTPAGEBUTTON&gt;"C'est l'aide de camp qui m'envoie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah oui?&amp;nbsp; Eh bien dites-lui que ce ne sont pas ses jérémiades qui mettront un terme à la pluie... Pas plus qu'elles ne ramèneront notre matériel du fond de l'océan.&lt;BR&gt;&lt;BR&gt;Si j'ai un conseil à lui donner?&amp;nbsp; Moi, je dirais qu'il est temps de faire nos prières.&lt;NEXTPAGEBUTTON&gt;"Rien de plus constructif?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Des hommes m'ont dit avoir entendu une sorte de rugissement, vers le sommet des falaises. Mais à mon avis, il faudrait être suicidaire pour se rendre sur place sans préparation adéquate.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="415" prevId="11" villagerId="1056">
+        <Page social="4">Si vous êtes en état de marcher et de combattre, comment se fait-il que vous ne soyez pas aux côtés d'Akrak ou d'Elion?&lt;NEXTPAGEBUTTON&gt;"C'est l'aide de camp qui m'envoie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vraiment?&amp;nbsp; Dites-lui qu'au niveau logistique, c'est une catastrophe, mais que nous ne pourrons pas attendre que ça s'arrange pour bouger.&lt;NEXTPAGEBUTTON&gt;"Pourquoi donc?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">L'océan ne nous rendra rien qui puisse réellement améliorer notre condition, et à attendre, nous épuisons le peu de ressources qui nous restent. Mal préparés ou pas, nous devons agir, et vite.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="415" prevId="12" villagerId="1003">
+        <Page social="4">Si je comprends bien, nous ne pouvons pas nous permettre de bouger, et dans le même temps, il est impératif de partir d'ici. Et c'est pour obtenir ce genre de réponses que j'ai nommé des assistants?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Enfin, quoi qu'il en soit, c'est Akrak qui tranchera. Allez lui présenter votre rapport.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="415" prevId="14" villagerId="1002">
+        <Page social="4">Eh bien, &lt;PCCLASS:lcase&gt;, on dirait que vous êtes {@gender:prêt/prête} à en découdre. J'ai précisément une mission à vous confier.&lt;BR&gt;&lt;BR&gt;Il va s'agir de retrouver Elion.&lt;NEXTPAGEBUTTON&gt;"Le commandant?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui... le commandant Elion et un petit groupe d'éclaireurs sont partis pour la grotte pendant que la tempête faisait rage. Je ne pense pas qu'il soit au courant de la gravité de notre situation.&lt;BR&gt;&lt;BR&gt;Je ne m'en fais pas pour Elion, il s'en sera bien tiré. C'est le meilleur combattant que je connaisse... Mais je tiens à savoir ce qu'il a découvert de son côté, et quelqu'un doit l'avertir que nos hommes sont encore sur la plage, en piteux état... enfin, pour ceux qui ont eu la chance d'échapper à la noyade...</Page>
+    </Text>
+</QuestDialog>

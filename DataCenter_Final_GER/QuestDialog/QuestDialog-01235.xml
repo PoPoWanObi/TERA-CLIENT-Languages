@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">Wir hörten, dass mehrere Dorfbewohner aus Frontera vermisst werden, und der Magistrat glaubt, dass die Arachnen sie ergriffen haben.&lt;BR&gt;&lt;BR&gt;Sucht in den Höhlen nach ihnen und rettet sie, wenn Ihr könnt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">(Die Leiche wurde schrecklich verstümmelt.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">(Der Körper verströmt einen giftigen Geruch.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">Als sie die Arachnen ergriffen, waren sie schon so gut wie tot.&lt;BR&gt;&lt;BR&gt;Wirklich traurig, aber wir danken Euch dafür, dass Ihr trotzdem versucht habt, sie zu retten.</Page>
+    </Text>
+</QuestDialog>

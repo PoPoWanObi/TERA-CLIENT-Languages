@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="5">Hello!&amp;nbsp; Vous avez une minute?&amp;nbsp; Ma fille m'attend à Tria, mais mon armure est en lambeaux et je ne peux quitter le camp. Je pourrais la réparer, mais je n'ai pas de cuir sous la main.&lt;BR&gt;&lt;BR&gt;Si vous pouviez dépecer quelques {@LinkCreature:29#2011#marcassins vicieux} et autres {@LinkCreature:29#1011#marcassins à défenses épaisses} avant de me rapporter leur cuir, je pourrais retaper mon équipement et aller voir ma fille. Qu'en dites-vous?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1020">
+        <Page social="5">C'est du travail de pro, &lt;PCNAME&gt;!&amp;nbsp; Ca fera parfaitement l'affaire. Je vais pouvoir réparer mon armure et y aller.&lt;BR&gt;&lt;BR&gt;Je n'aime pas les longs discours, alors disons simplement que je vous souhaite bonne route.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1020">
+        <Page social="0">Bon sang de bonsoir!&amp;nbsp; Je veux juste voir ma fille. Vous m'avez trouvé ce cuir?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

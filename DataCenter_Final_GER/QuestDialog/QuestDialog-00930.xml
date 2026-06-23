@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="1">&lt;PCCLASS&gt;, auf ein Wort.&lt;BR&gt;&lt;BR&gt;Die Azurwurzelghilliedhus stehen in der Blüte und ihr Pollen können Ausschlag verursachen.&lt;BR&gt;&lt;BR&gt; Könnt Ihr Lashinuk nach einer Behandlung fragen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Ah, ja. Der Pollen ist ein Verteidigungsmechanismus. Zum Glück gibt es eine Behandlung.&lt;BR&gt;&lt;BR&gt;Ich kann Euch etwas zubereiten, wenn Ihr in {@Rgn:30005$$Serens Garten} ein paar Mondschattenpflanzen pflückt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">Das ist mehr als ausreichend.&lt;BR&gt;&lt;BR&gt;Hochelfen bereiten Tee aus den getrockneten Blättern, aber wenn Ihr sie zerreibt, solange sie noch frisch sind, ergibt das eine beruhigende Salbe.&lt;BR&gt;&lt;BR&gt;Ich zerreibe sie.&lt;NEXTPAGEBUTTON&gt;"Welch ein Duft."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Nicht wahr?&lt;BR&gt;&lt;BR&gt;Reibt Euch zweimal am Tag damit ein. Der Ausschlag sollte innerhalb weniger Stunden zurückgehen.&lt;BR&gt;&lt;BR&gt;Oh, es ist für einen Freund von Euch? Aber sicher doch.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Habt Ihr Mondschattenpflanzen gefunden?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1006">
+        <Page social="1">Den Titanen sei Dank, dass Ihr zurück seid! Die Juckerei treibt mich in den Wahnsinn.&lt;BR&gt;&lt;BR&gt;Verzeihung, wenn ich so brüsk bin. Bitte akzeptiert meinen Dank und dann geht schnell, damit ich mich damit einreiben kann.</Page>
+    </Text>
+</QuestDialog>

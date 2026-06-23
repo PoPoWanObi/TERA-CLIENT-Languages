@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Я не могу пробиться к Отусу. Эти {@LinkCreature:11#2003#Караульные Красной плети} туповаты, но зрение у них отличное.&lt;BR&gt;&lt;BR&gt;Кажется, они меня вычислили, и маскировка не помогает. Или, может быть, походка у меня не такая. Не знаю.&lt;BR&gt;&lt;BR&gt;Но вот если смертельно опасный &lt;PCCLASS:lcase&gt; отвлечет на себя их внимание... ха, это похоже на план!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Какое облегчение. На эту маскировку я убил кучу времени. И все мои усилия чуть не полетели нагам под хвост из-за одного слишком любопытного часового.</Page>
+    </Text>
+</QuestDialog>

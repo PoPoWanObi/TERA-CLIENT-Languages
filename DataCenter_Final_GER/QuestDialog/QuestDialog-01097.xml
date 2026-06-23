@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="34">Trotz all unserer Mühen wachsen die Probleme mit den Wendigo. Wenn sie einen Kampf wollen, dann bekommen sie einen.&lt;BR&gt;&lt;BR&gt;Eliminiert die {@LinkCreature:34#500#Wendigofrostweber}, {@LinkCreature:34#510#Wendigofrostmagier}, {@LinkCreature:34#600#Wendigozertrümmerer}, {@LinkCreature:34#610#Wendigowüter}, {@LinkCreature:34#700#Wendigokampfmeister} und {@LinkCreature:34#710#Wendigokriegsherren}.&lt;BR&gt;&lt;BR&gt;Erstattet Bericht an Rodena, wenn die Arbeit getan wurde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Ein hart erkämpfter Sieg, &lt;PCNAME&gt;. Wir wissen Euer vergossenes Blut zu würdigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1002">
+        <Page social="0">Die Wendigos lehnen alle Anfragen und Angebote ab. Sie zwingen uns zum Handeln, also werden wir handeln. Tragt den Kampf zu ihnen.</Page>
+    </Text>
+</QuestDialog>

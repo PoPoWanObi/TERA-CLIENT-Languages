@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les ghilliedhus de la Vallée de la Bête s'en prennent à notre personnel.&lt;BR&gt;&lt;BR&gt;Abattez les {@LinkCreature:3#3#ghilliedhus moussus}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Malvina au Poste de l'Avant-garde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1015">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1015">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

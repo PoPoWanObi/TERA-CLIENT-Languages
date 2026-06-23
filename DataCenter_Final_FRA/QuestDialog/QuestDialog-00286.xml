@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion pensait que les descendants de Lok travaillaient avec Samael parce qu'ils croyaient en sa promesse de ressusciter Lok si eux-mêmes l'aidaient à devenir une divinité.&lt;BR&gt;&lt;BR&gt;Samael comptait se servir de la lance maudite du dieu ancien Gidd pour voler les pouvoirs de Velik.&lt;BR&gt;&lt;BR&gt;Afin de protéger cette dernière, Elion et vous avez trouvé le moyen d'empêcher Samael de mettre la main sur la lance maudite, laquelle vous a accessoirement fourni une preuve irréfutable de sa trahison.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;J'ai réussi à rallier le Port Coupe-gorge (malgré les intempéries), et j'ai des nouvelles de Velika concernant les projets de "S". Venez me rejoindre aussitôt que vous le pourrez.&lt;BR&gt;&lt;BR&gt;- "E".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1036">
+        <Page social="4">Samael a convaincu les descendants de Lok qu'il pouvait ressusciter Lok en échange de leur aide et de leur loyauté.&lt;BR&gt;&lt;BR&gt;Samael a dû dégarnir nos rangs dans le sud d'Arun pour envoyer une partie de nos troupes protéger des descendants de Lok. Privée de ces troupes, Arcadia a bien failli faire les frais d'une invasion, et Poporia a failli sombrer dans la guerre civile!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les suppôts de Lok cherchent à mettre la main sur la lance maudite de Gidd... on la dit capable de tuer un dieu et de lui voler ses pouvoirs. C'est {@LinkCreature:12#23#Slawgesh}, un gula du Syndicat Kazuur, qui est actuellement en possession de la lance. Allez la lui reprendre!&amp;nbsp; Samael ne doit pas mettre la main sur cet artefact!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1035">
+        <Page social="4">Slawgesh n'était qu'un gula. Pourquoi un gula se donnerait-il la peine de coder un registre de transactions?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, il n'existe pas de code indéchiffrable, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Si ça se trouve, les {@LinkCreature:12#7#cogneurs gulas} de Slawgesh ont un moyen de déchiffrer ça. Faites vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Nous n'obtiendrons rien de ce registre en le menaçant de le déchirer. Nous devons trouver un moyen de déchiffrer son contenu, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" prevId="4" villagerId="1035">
+        <Page social="4">Voilà la clé du problème!&amp;nbsp; Maintenant, nous allons pouvoir déchiffrer le registre les doigts dans le nez!&amp;nbsp; Enfin... Façon de parler.&lt;BR&gt;&lt;BR&gt;Voici le registre. Faites vite, que nous puissions envisager les suites à donner.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="212" prevId="6" villagerId="1035">
+        <Page social="4">Nous avons maintenant une preuve de la collaboration des justicars avec le Syndicat Kazuur?&amp;nbsp; Et la lance de Gidd se trouve entre les mains des gulas?&amp;nbsp; Excellent.&lt;BR&gt;&lt;BR&gt;Où ça?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Misère!&amp;nbsp; Le Labyrinthe d'Azarel est probablement le coin le plus infesté de gulas que je connaisse. Y pénétrer ne sera pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Allez faire part de nos découvertes à {@LinkCreature:62#1036#Barlyas}. Samael est en train de mettre une partie de son plan à exécution ou de couvrir ses traces. Dans les deux cas, nous devons faire vite.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Vous savez comment fonctionnent les codes de substitution, n'est-ce pas?&amp;nbsp; Comparez les lettres du registre à celles du livre de décryptage.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1036">
+        <Page social="4">Alors, quelles sont les nouvelles?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Etrange... Samael et Akia ont dû communiquer dans le plus grand secret, et Kutmaschuk doit garder la lance.&lt;BR&gt;&lt;BR&gt;Rendez-vous au Labyrinthe d'Azarel. Nous allons devoir nous séparer, au cas où des Justicars auraient réussi à nous échapper. Retrouvons-nous au {@LinkCreature:209#1031#camp voisin du labyrinthe}.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="209" prevId="9" villagerId="1031">
+        <Page social="4">Le plan de Samael est de plus en plus clair. Armé de la lance, il pourrait tuer Velik, après quoi il lui serait simple de s'emparer de la Cité des rouages. Contrôler Velika, c'est avoir la main sur tout le sud d'Arun.&lt;BR&gt;&lt;BR&gt;Nous ne pouvons laisser une telle chose se produire.&lt;BR&gt;&lt;BR&gt;Nous devons trouver le {@LinkCreature:209#1030#moyen} permettant d'accéder au repaire de Kutmaschuk.&lt;BR&gt;&lt;BR&gt;En route.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="209" prevId="10" villagerId="1030">
+        <Page social="4">(Ce téléportail a une odeur étrange. Il doit s'agir de celle de Kutmaschuk. Utilisez le portail pour vous téléporter dans son repaire.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="209" prevId="11" villagerId="1031">
+        <Page social="4">La lance de Gidd... désormais, son pouvoir est mien!&amp;nbsp; Vous avez fait preuve d'une belle naïveté en me faisant confiance!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je plaisante, j'ai toujours rêvé de faire le coup du "vieil artefact qui rend cinglé et fondamentalement mauvais". Cette lance est une imitation grossière, un travail de faussaire amateur. On dirait que les gulas comptaient faire un coup fourré à Samael.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, cette lance et le registre prouveront la trahison de Samael.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="209" villagerId="1031">
+        <Page social="0">Si Samael et les descendants de Lok s'emparent de la Lance de Gidd... non, je préfère éviter d'y penser!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Velik serait leur première victime, mais certainement pas la dernière.</Page>
+    </Text>
+</QuestDialog>

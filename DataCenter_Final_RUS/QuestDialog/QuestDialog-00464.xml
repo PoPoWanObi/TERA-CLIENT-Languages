@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="5">Бинты расходуются со страшной скоростью, нам нужен материал для изготовления новых. У тебя не найдется ниток из сильвы?&lt;BR&gt;&lt;BR&gt;Нет? Поищешь их для меня? Их можно добыть из бурых узловатых растений, что растут поблизости. Только грибы там не ешь, от них мерещится разное.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1011">
+        <Page social="5">Спасибо за помощь! А у меня есть кое-что для тебя.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1011">
+        <Page social="0">А я уже упоминал, что у нас заканчиваются бинты?</Page>
+    </Text>
+</QuestDialog>

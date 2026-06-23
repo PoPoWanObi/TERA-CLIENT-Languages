@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">Wir haben die Orkaner geschwächt, aber sie weichen nicht zurück! Normalerweise sind sie nicht so tapfer.&lt;BR&gt;&lt;BR&gt;Möglicherweise können die Feen ihre Verbündeten mithilfe der Unseligenbanner dazu zwingen.&lt;BR&gt;&lt;BR&gt;Findet ihren Anführer Tarlok und schaltet ihn aus. Vielleicht bringt sie der Schreck zur Einsicht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1010">
+        <Page social="4">Das ist seltsam ... Was immer es auch ist ... es stinkt nach den Unseligen. Sie besitzen wie alle Feen eine unterschwellige, aber mächtige Magie.&lt;BR&gt;&lt;BR&gt;Tarloks Tod könnte ausreichen, um die Orkaner in Zukunft davon abzubringen.&lt;BR&gt;&lt;BR&gt;Gut gemacht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1010">
+        <Page social="0">Folgt dem Fluss in Richtung Südwesten. Tarlok verlässt nur selten sein Lager.</Page>
+    </Text>
+</QuestDialog>

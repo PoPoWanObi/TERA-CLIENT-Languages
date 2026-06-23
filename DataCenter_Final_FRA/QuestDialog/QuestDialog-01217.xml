@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="5">La liste semble sans fin. Tenez, je vais vous laisser vous occuper de ce groupe... ce sera toujours ça de fait.&lt;BR&gt;&lt;BR&gt;Voilà... occupez-vous des {@LinkCreature:38#1#officiers sentinelles}, des {@LinkCreature:38#2#ramperocs menaçants}, des {@LinkCreature:38#44#démons de carnage}, des {@LinkCreature:38#15#enchanteurs arbosks}, des {@LinkCreature:38#16#farfadets deskeras} et des {@LinkCreature:38#30#hyènes des ruines}.&lt;BR&gt;&lt;BR&gt;Ca devrait vous occuper un moment.&lt;BR&gt;&lt;BR&gt;Quand vous aurez atteint vos objectifs, allez présenter votre rapport à Deiana, au Quartier de la Falaise aux Perchoirs, dans les Gorges de Sienna.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1007">
+        <Page social="5">Bon travail. Voici votre récompense.&lt;BR&gt;&lt;BR&gt;Continuez comme ça!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1007">
+        <Page social="0">Vous n'avez pas encore terminé votre mission.</Page>
+    </Text>
+</QuestDialog>

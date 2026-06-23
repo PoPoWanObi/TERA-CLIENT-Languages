@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="5">Les machines sont un atout considérable dans le jeu de Thulsa. Il a une maîtrise absolue de la magie noire, et la forteresse n'en est que mieux protégée. Si nous pouvons prendre le contrôle de cette puissance, elle nous sera d'une aide inappréciable dans notre combat contre les argons.&lt;BR&gt;&lt;BR&gt;Pour affaiblir les légions, je vais vous demander de tuer les {@LinkCreature:27#4#sentinelles eldritchs}. Ce sont des combattants redoutables, c'est pourquoi il convient de les éliminer en priorité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1024">
+        <Page social="5">Maintenant que nous sommes débarrassés des sentinelles, nous avons une chance de traverser leurs lignes. Veuillez m'excuser, mais je dois faire parvenir mon rapport à Velnen au plus vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1024">
+        <Page social="0">Ces sentinelles nous empêchent de lancer notre contre-attaque. Il faut les détruire.</Page>
+    </Text>
+</QuestDialog>

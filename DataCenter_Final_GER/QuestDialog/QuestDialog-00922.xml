@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="0">Ihr und {@Creature:71#1114$$Rida} habt das zweite Tempelsiegel an Serens See gebrochen. Bevor Ihr losgegangen seid, um den Anführer der Consos zu treffen, warnte Euch Rida, dem Mysterium zu viele Geheimnisse des Tempels zu offenbaren.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="1">{@LinkCreature:230#1024$$Alais} hat Prinzessin Rida im Observatorium beim Unterarchiv geortet.&lt;BR&gt;&lt;BR&gt;Hier, nehmt die Quellenschriftrollen. Alais wird von den historischen Inhalten begeistert sein, da bin ich mir sicher.&lt;BR&gt;&lt;BR&gt;Viel Glück auf Eurer Mission, &lt;PCNAME&gt;. Es wieder mal ein Vergnügen, mit Euch zu arbeiten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1024">
+        <Page social="1">&lt;PCNAME&gt;! Ich nehme an, Ihr habt die Zeremonie?&lt;BR&gt;&lt;BR&gt;Kann ich mal sehen? Jede Menge historischen Beobachtungen, aber die haben Zeit. Ja, hier ist die Zeremonie!&lt;BR&gt;&lt;BR&gt;Ein Reinigungsritus. Kurios!&lt;NEXTPAGEBUTTON&gt;"Wo ist Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Sie macht an {@Rgn:30014$$Serens See} Rast.&lt;BR&gt;&lt;BR&gt;Ich vermute, das ist die letzte Sicherung des Tempels. Ich gehe zur {@Rgn:30015$$Archivfestung} und informiere Nandu, den Häuptling der Consos.&lt;BR&gt;&lt;BR&gt;Sicherlich gibt es noch mehr Formalitäten.&lt;NEXTPAGEBUTTON&gt;"Was ist das für eine Festung?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Es ist wirklich eher ein Lager als eine Festung. Aber wir vermuten, es ist der Ort der Gewölbe unter Balders Archiv.&lt;BR&gt;&lt;BR&gt;Oder der Ort, an dem sich diese Gewölbe einmal befanden, schätze ich. Balders Tod hat diesen Ort zerstört, aber ein paar Baraka haben hier Schutz gefunden und überlebt. Nandu, damals noch ein Kind, war unter ihnen.&lt;BR&gt;&lt;BR&gt;Aber genug von der heilenden Geschichte. Geht zu {@Rgn:30014$$Serens See} und öffnet den Tempel.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1082">
+        <Page social="1">Eine Zeremonie? Natürlich!&lt;BR&gt;&lt;BR&gt;Ich fand das Siegel - in dem Pavillon dort - aber etwas hat gefehlt. Wir müssen uns reinigen.&lt;BR&gt;&lt;BR&gt;Ich brauche Mondlichtlotus. Könnt Ihr welchen pflücken?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1082">
+        <Page social="1">Das ist genug. Jetzt verhaltet Euch einen Augenblick still.&lt;BR&gt;&lt;BR&gt;Seren! Bei unserem gemeinsamen Blut, bei dem klarem Wasser und bei Eurer heiligen Blume, ich beschwöre Eure reinigende Berührung. Macht uns rein. Bereitet uns auf die kommenden Prüfungen vor!&lt;BR&gt;&lt;BR&gt;Fast fertig. Ich trete ins Siegel. Ihr arbeitet von außen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" villagerId="1082">
+        <Page social="0">Mondlichtlotus wächst am Wasser.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="5" villagerId="1082">
+        <Page social="1">Ich habe gerade ... ähm, "wir" haben {@Rgn:9025001$$Balders Tempel} geöffnet!&lt;BR&gt;&lt;BR&gt;Ich habe meine Vision erfüllt und Ihr habt wieder einmal {@g:den Helden/die Heldin} gespielt.&lt;BR&gt;&lt;BR&gt;Hoffentlich haben wir das Richtige getan, wenn wir den Tempel für Alais und seine Mysteriumskumpanen geöffnet haben.&lt;NEXTPAGEBUTTON&gt;"Sie sind die höchsten Gelehrten der Föderation."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eure Freundin Elsine ist eine großartige Gelehrte, aber wer ist hier verantwortlich? Alais.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, das Mysterium ist an einer Sache interessiert, nämlich dem Mysterium.&lt;BR&gt;&lt;BR&gt;Das Mysterium vertraut anderen keine Macht an. Denkt nicht, dass das Mysterium die gleichen Dinge wie die Föderation tut.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1053">
+        <Page social="1">Ihr habt gemeinsam mit der Prinzessin das letzte Siegel gebrochen? Hervorragend!&lt;BR&gt;&lt;BR&gt;Wie ich schon befürchtete, gibt es eine weitere Formalität. {@LinkCreature:230#1047$$Nandu}, der Häuptling der Consos, gibt Euch den Schlüssel für die Tempeltür. Jahrhundertelang hat der Consosclan auf diesen Augenblick gewartet, wir müssen ihnen ihre Zeremonien erlauben.&lt;BR&gt;&lt;BR&gt;So? Geht und findet Nandu! Die Geheimnisse von {@Rgn:9025001$$Balders Tempel} warten!</Page>
+    </Text>
+</QuestDialog>

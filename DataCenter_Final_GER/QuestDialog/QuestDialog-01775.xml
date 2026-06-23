@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="5">Hier ist eine Nachricht für Euch, &lt;PCNAME&gt;. Konsul Dougal möchte, dass Ihr so schnell wie möglich nach Velika zurückkehrt.&lt;BR&gt;&lt;BR&gt;Ihr sollt dort wohl die Kämpfe an der Heimatfront unterstützen oder so etwas. Am besten macht Ihr Euch gleich auf den Weg.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Danke, dass Ihr bis hierher gekommen seid, &lt;PCNAME&gt;. Lasst mich gleich auf den Punkt kommen: Die Unterstützung der Kriegshandlungen hat überall in der Föderation die Lebensqualität erheblich beeinträchtigt.&lt;BR&gt;&lt;BR&gt;Die Föderation sendet Euch und weitere Agenten aus, um den Magistraten unter die Arme zu greifen, Materialien heranzuschaffen und die Lage insgesamt etwas zu entschärfen.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Magistrat Arn in Holzhausen. Zeigt den Bürgern, dass sie genauso wichtig sind wie die Argonen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1013">
+        <Page social="9">Die Natur gibt, doch der Feind plündert. Uns gehen die Rohstoffe aus.&lt;BR&gt;&lt;BR&gt;Verdrafasern, Krymetallerz und etwas Sonnenessenz brauchen wir am dringendsten. Ohne diese Dinge kann man hier nur schwerlich überleben.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="4" villagerId="1013">
+        <Page social="8">Das hilft uns sehr! Wir können unsere Werkzeuge reparieren, unser Land bestellen und unsere Wunden versorgen. Habt Dank!&lt;NEXTPAGEBUTTON&gt;"Es war mir eine Ehre zu helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ihr seid viel zu bescheiden. Sicher stimmt mir Magistrat Bisi da zu, wenn er Euch sieht. Im Augenblick ist er jedoch in Popolion, und in viel größeren Schwierigkeiten, als wir es waren.&lt;BR&gt;&lt;BR&gt;Möge Velik Euch segnen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" villagerId="1013">
+        <Page social="0">Es ist für alle eine schwere Zeit. Wir bitten nur um Hilfe für die dringendsten Notwendigkeiten.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1015">
+        <Page social="9">Ja, Holzhausen mangelt es an Rohmaterialien.&lt;BR&gt;&lt;BR&gt;Beschafft Sylvafasern, Linmetallerz und etwas Windessenz, bitte! Es mag keine besonders ruhmreiche Aufgabe sein, aber es würde uns allen sehr helfen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="7" villagerId="1015">
+        <Page social="13">Habt vielen Dank!&lt;BR&gt;&lt;BR&gt;Die Natur ist freigiebig - sofern &lt;PCNAME&gt; ihr dabei unter die Arme greift!&lt;NEXTPAGEBUTTON&gt;"Das war doch nichts Besonderes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Wir werden nie vergessen, was Ihr für uns getan habt!&lt;BR&gt;&lt;BR&gt;Es kamen Befehle für Euch. Wie es scheint, sollt Ihr nach Tulufan gehen. Dort brauchen sie Euch als Nächstes.&lt;BR&gt;&lt;BR&gt;Möge Seren Euch segnen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" villagerId="1015">
+        <Page social="0">Ihr bekommt alles, worum ich gebeten habe, auf den Feldern von Popolion. Ich würde ja selbst gehen, wenn da nicht diese Monster wären ...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="8" villagerId="1009">
+        <Page social="5">Es wird aber auch Zeit!&lt;BR&gt;&lt;BR&gt;Ich habe schon so viele Briefe nach Velika geschrieben, dass ich demnächst sicher meinen eigenen Flügel in den Archiven kriege.&lt;BR&gt;&lt;BR&gt;Unsere Vorräte wurden vor Kurzem gestohlen. Wir kommen gerade so aus ... sofern wir unsere Vorräte an Shetlafasern, Normetallerz und Sternenessenz auffüllen können.&lt;BR&gt;&lt;BR&gt;Könnt Ihr uns helfen?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="66" prevId="10" villagerId="1009">
+        <Page social="8">Nicht schlecht. Sogar ganz annehmbar.&lt;BR&gt;&lt;BR&gt;Wenn wir gewusst hätten, dass uns die Föderation im Stich lässt, wären wir ihr gar nicht erst beigetreten.&lt;NEXTPAGEBUTTON&gt;"Das stehen wir gemeinsam durch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hmpf, schon möglich.&lt;BR&gt;&lt;BR&gt;Konsul Dougal sagt, Ihr sollt als Nächstes nach Tria im südlichen Shara gehen.&lt;BR&gt;&lt;BR&gt;Möge Euch Kaias Segen schützen, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Naja, vielleicht reicht uns auch der Sand. Ziemlich praktisches Zeug, oder? Man kann keine Kleider und keine Waffen damit machen, aber wenigstens dafür sorgen, dass sich jeder kratzen muss!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="11" villagerId="1011">
+        <Page social="5">Wir sind für jede Hilfe dankbar.&lt;BR&gt;&lt;BR&gt;Die Vorräte gehen langsam zur Neige. Ganz besonders dringend brauchen wir Toirafasern, Schattmetallerz und etwas Eisessenz.&lt;BR&gt;&lt;BR&gt;Die Unterstützung der Föderation ist für unser Überleben und für unseren Erfolg lebensnotwendig. Bitte helft uns!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1011">
+        <Page social="5">Das reicht uns eine gute Weile.&lt;BR&gt;&lt;BR&gt;Die Menschen von Tria haben neue Hoffnung geschöpft. Unser Dank ist Euch gewiss!&lt;NEXTPAGEBUTTON&gt;"Es war mir ein Vergnügen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Präfekt Lauma in Frontera hofft ebenso von der Unterstützung der Föderation zu profitieren. Gute Reise!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" villagerId="1011">
+        <Page social="0">Wir wissen, dass es schwierig ist, aber wir haben keine andere Wahl. Bitte helft uns!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="75" prevId="14" villagerId="1007">
+        <Page social="5">Konsul Dougal hat über die Initiative der Föderation gesprochen, den entfernten Siedlungen zu helfen. Und wir brauchen jetzt diese Hilfe!&lt;BR&gt;&lt;BR&gt;Wir sind knapp an Luriafasern, Xermetallerz und etwas Blitzessenz. Wir wären für jede Aufstockung dankbar.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="75" prevId="16" villagerId="1007">
+        <Page social="5">Dougal hat sich {@gender:seinen Assistenten/seine Assistentin} gut ausgesucht. Wir sind für die Hilfe dankbar, und werden die Vorräte gut zu nutzen wissen.&lt;BR&gt;&lt;BR&gt;Dougal hat uns auch gebeten, Euch nach Velika zurückzuschicken. Lebt wohl, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="75" villagerId="1007">
+        <Page social="0">Wir brauchen Rohstoffe, um in Frontera weiter aktiv und produktiv zu bleiben.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="1160">
+        <Page social="5">Ich habe nur Gutes über Euch gehört. Selbst Turrek ist jetzt wieder besser gelaunt.&lt;BR&gt;&lt;BR&gt;Es wurden zwar keine Pläne durchkreuzt oder große Bestien besiegt ... doch der Einsatz für andere ist in den Diensten der Föderation eine hoch geschätzte Tradition. Ihr habt gute Arbeit geleistet, &lt;PCNAME&gt;. Danke!</Page>
+    </Text>
+</QuestDialog>

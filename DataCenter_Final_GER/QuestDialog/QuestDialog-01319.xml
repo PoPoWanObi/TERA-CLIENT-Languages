@@ -1,0 +1,54 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ihr begabt Euch auf Befehl von Fraya zum Tempel von Dagon und fandet das Expeditionsteam dort auf der Suche nach einem vermuteten Schatz vor, der den Argonenkrieg finanzieren würde.&lt;BR&gt;&lt;BR&gt;Nach gründlicher Suche im Tempel habt Ihr den Himmelblauen Edelstein, den Schlüssel zu Dagons Wiederauferstehung, in Eure Obhut gebracht und ihn dem Expeditionsteam übergeben.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Kommandantin Fraya hat in dieser Angelegenheit Eure Hilfe im Interesse des Expeditionsteams im Tempel von Dagon angefordert. Ibar in Frontera hat Details.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1001">
+        <Page social="5">Ich bin froh, dass Ihr hier seid, &lt;PCNAME&gt;. Fragt nicht, woher wir das wissen, aber die Naga haben im Tempel von Dagon wahrscheinlich Schätze für Opfergaben versteckt.&lt;BR&gt;&lt;BR&gt;Wir haben eine bessere Verwendung. Die Argonen sind in Schwierigkeiten und die Schatzkammer ist leer. Die Föderation sucht nach ... kreativen Lösungen.&lt;BR&gt;&lt;BR&gt;Wir haben ein Expeditionsteam auf die Suche in den Tempel geschickt, aber es braucht Verstärkung. Ich würde gern Euch schicken.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1039">
+        <Page social="5">Ihr könnt Euch nicht vorstellen, wie dankbar wir sind, Euch hier zu sehen. Der Tempel ist nicht nur größer als wir dachten, die Naga und ihre Freunde sind auch vortreffliche Feinde.&lt;BR&gt;&lt;BR&gt;Soviel wir herausbekommen haben, gibt es zwei Schatzkammern auf zwei verschiedenen Ebenen. Eine ist irgendwo hier in der Nähe und die andere - die größere - befindet sich dort unten, wo Dagon schläft.&lt;BR&gt;&lt;BR&gt;Mehr wissen wir leider nicht, aber wir brauchen diese Schätze, &lt;PCNAME&gt;. Die Föderation braucht sie.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1039">
+        <Page social="4">Ihr habt den Schatz! Werfen wir einen Blick drauf!&lt;NEXTPAGEBUTTON&gt;"Irgendwas Wertvolles?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ja, aber bei Weitem nicht so viel, wie wir hofften. Wir müssen den Schatz weiter unten finden. Das reicht wohl kaum für ein paar hundert gute Rüstungen.&lt;BR&gt;&lt;BR&gt;Eine Ebene weiter unten ist ein weiteres Lager. Redet mit Wekrine dort unten - sie wollten wohl in die unteren Ebenen vordringen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1039">
+        <Page social="0">Habt Ihr schon den Schatz gefunden?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1040">
+        <Page social="5">Euch schickt Nedisia? Ausgezeichnet. Wir haben jeden Winkel in dieser Ebene durchsucht und nichts gefunden.&lt;BR&gt;&lt;BR&gt;Wird &lt;PCNAME&gt; mit den Dagonittemplern in der Kammer der mächtigen Seelen fertig? Und bringt ein bisschen Nagaleder mit.&lt;NEXTPAGEBUTTON&gt;"Nagaleder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ja. Die Haut ist fest genug, um es zu Rüstungen zu verarbeiten, es hat außerdem magische Eigenschaften. In Allemantheia erzielt es hohe Preise.&lt;BR&gt;&lt;BR&gt;Solange Ihr sie sowieso alle bekämpft, ist es eine nicht zu verachtende Möglichkeit, die Schatullen der Föderation aufzufüllen.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="242" prevId="7" villagerId="1040">
+        <Page social="4">Sie sind ausgezeichnet. Und das Geld, das wir vom Verkauf erzielen, dient dem Kriegsaufwand. Sehr gut, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="242" villagerId="1040">
+        <Page social="0">Habt Ihr das Nagaleder?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="242" prevId="8" villagerId="1038">
+        <Page social="5">Nagaleder, sagt sie ... Ja, es ist wahnsinnig teuer, aber es sprengt auch nicht die Kosten für diesen Krieg.&lt;BR&gt;&lt;BR&gt;Ich glaube, dass sich der Himmelblaue Edelstein in diesem Tempel befindet. Er ist nicht nur das Wertvollste, was wir zu finden hofften. Die Mekonari denken auch, dass er die Wiederauferstehung von Dagon beschleunigt. Das bedeutet, dass wir uns von ihnen fernhalten müssen.&lt;BR&gt;&lt;BR&gt;Es können sich auch noch mehr Schätze dort befinden. Haltet Eure Augen offen.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="242" prevId="10" villagerId="1038">
+        <Page social="4">Schaut, da! Herrlich! Das ist Milliarden Stücke Nagaleder wert.&lt;BR&gt;&lt;BR&gt;Übrigens, &lt;PCNAME&gt;, mein Späher sagt, dass die Naga das Relikt von Dagon in Dagons Kantorei versteckt haben. Wenn das wahr ist, wollen sie ihn wahrscheinlich wiederauferstehen lassen.&lt;BR&gt;&lt;BR&gt;Wir müssen den Edelstein haben.&lt;NEXTPAGEBUTTON&gt;"Was kann ich tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Wir sind uns ziemlich sicher, dass sich Dagons Kantorei ganz unten im Tempel befindet, aber wir wissen nicht wo.&lt;BR&gt;&lt;BR&gt;Einer der Mekonari, der Abgesandte für Wiederbelebung, hat ein Buch, das die genaue Lage beschreibt. Ihr müsst es vielleicht von seinem Leichnam holen.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Schauen wir mal, was sich darin befindet, oder?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="242" prevId="11" villagerId="1038">
+        <Page social="4">Hier ist es - Das Buch der Rituale! Jetzt können wir Dagons Kantorei finden ...&lt;BR&gt;&lt;BR&gt;... Ja, hier. Aber es ist irgendwie geschützt.&lt;BR&gt;&lt;BR&gt;Schaut, ein Teleportal in der Haupthalle in der dritten Ebene. Vielleicht gehen sie da hindurch ein und aus.&lt;BR&gt;&lt;BR&gt;Wenn Ihr da hineingeht, &lt;PCNAME&gt;, erwartet kein leichtes Spiel. Sie lassen diesen Ort von ihren stärksten Kriegern bewachen. Überwältigt sie und sucht in dem Raum nach dem Edelstein.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Das Buch der Rituale. Habt Ihr es schon? &lt;BR&gt;&lt;BR&gt;Ohne es können wir Dagons Kantorei nicht finden.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="242" prevId="13" villagerId="1038">
+        <Page social="4">Das ist also der Himmelblaue Edelstein. Dieser Edelstein allein ist den Reichtümern von Allemantheia ebenbürtig.&lt;BR&gt;&lt;BR&gt;Und dann noch diese unbestreitbare Kraft. Das Mysterium wird sehr interessiert sein.&lt;BR&gt;&lt;BR&gt;Jetzt hat die Föderation die Mittel, die Argonen zu bekämpfen. Und das verdanken wir Euch, &lt;PCNAME&gt;. Das befand sich unter den Schätzen, die wir gehoben haben, und ich möchte, dass Ihr es bekommt. Verglichen mit dem, was Ihr geleistet habt, ist es wenig, aber ich hoffe, dass es Euch nutzt. Verwendet es klug.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Habt Ihr den Himmelblauen Edelstein gefunden? War es dort?</Page>
+    </Text>
+</QuestDialog>

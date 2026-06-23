@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">Если тебе интересно, у меня есть еще одно поручение. Эта карта убежища была давным-давно составлена кланом Консос под предводительством {@LinkCreature:230#1007#Лашинука}.&lt;BR&gt;&lt;BR&gt;Этот Шатер использовался для обслуживания армии големов.&lt;NEXTPAGEBUTTON&gt;"И что?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">То, что ядра {@LinkCreature:30#180#Медных вертоградарей} содержат инструкции по обслуживанию убежища. К сожалению, их системы самостоятельного ремонта дают сбой.&lt;BR&gt;&lt;BR&gt;Если мы хотим использовать големов, мы должны выяснить, что им известно.&lt;BR&gt;&lt;BR&gt;Собери несколько ядер {@LinkCreature:30#180#Медных вертоградарей} и принеси мне для расшифровки.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1005">
+        <Page social="1">Прекрасно! Активные ядра вертоградарей!&lt;BR&gt;&lt;BR&gt;Если будешь в лагере "Прозорливость", предложи Сестене присоединиться ко мне в их изучении.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1005">
+        <Page social="0">Если мы сможем заполучить неповрежденные ядра, это очень поможет нам в работе над сохранением и восстановлением убежища.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1019">
+        <Page social="1">У Наисаса есть рабочее ядро? Несколько?!&lt;BR&gt;&lt;BR&gt;Ничего себе! Это потрясающий прорыв, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

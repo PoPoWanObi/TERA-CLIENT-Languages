@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="4">(Auf dem Deckblatt steht "{@LinkCreature:76#1011}s praktische Anleitung". Darin befindet sich ein Forschungsbericht mit Feststellungen über die Argonen. Vielleicht solltet Ihr sie jemandem zeigen, der {@Creature:76#1011} kennt.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1016">
+        <Page social="6">Oh, aber natürlich kenne ich Linkia. Ein intelligentes Mädchen, etwa so groß wie ich.&lt;BR&gt;&lt;BR&gt;Sie hat ihre Eltern in einem Angriff der Argonen verloren und studiert sie seitdem.&lt;NEXTPAGEBUTTON&gt;"Ich habe ein paar von ihren Forschungsnotizen gefunden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Linkia ist gerade da draußen. Sie ist ziemlich furchtlos, hat aber kein besonders gutes Gedächtnis. Wenn Ihr auf die Jagd geht, werdet Ihr vermutlich auf mehr von ihren Notizen und Berichten stoßen. Sie lässt gerne Folianten, Hinweise und allerlei andere Informationen in der Gegend liegen. Sie sitzt normalerweise zum Schreiben auf den Gräbern.&lt;BR&gt;&lt;BR&gt;Bringt mir alle ihre Aufzeichnungen, die Ihr finden könnt. Vielleicht können wir daraus ja noch etwas lernen!</Page>
+    </Text>
+</QuestDialog>

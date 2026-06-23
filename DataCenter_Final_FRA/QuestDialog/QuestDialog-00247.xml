@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">Les nagas travaillent maintenant au service des kumas dans les Plaines d'Omphalos. Nous devons réduire leur nombre.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:7#1#mercenaires nagas}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Heroth à la Ferme de Godric.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">Bien joué. Je me sens déjà mieux.&lt;BR&gt;&lt;BR&gt;J'espère que ma prochaine affectation sera à Castanica. J'en ai assez de la vie à la campagne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1005">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

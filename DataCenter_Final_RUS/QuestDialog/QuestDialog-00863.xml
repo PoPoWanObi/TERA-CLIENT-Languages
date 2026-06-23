@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="1">Я слышал, что добыча редкостей - твоя специальность, &lt;PCNAME&gt;. Ну, это - и кровавый хаос.&lt;BR&gt;&lt;BR&gt;Кровавый хаос нам здесь не нужен, но ты можешь для меня кое-что добыть. А именно, шкуры для кожевников Аллемантеи.&lt;BR&gt;&lt;BR&gt;Остальные охотятся за грызунами и другими мелкими животными, а мы сыграем по-крупному. Убьем несколько Равнинных медведей!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1027">
+        <Page social="1">Отличный мех! Если сшить из этого первоклассную одежду и отвезти ее в Аллемантею, деньги можно будет грести лопатой.&lt;BR&gt;&lt;BR&gt;А если у тебя есть еще время, то мы вместе сможем заработать еще больше.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1027">
+        <Page social="0">Мой кошелек открыт для каждого, кто принесет шкуру {@LinkCreature:30#200#Равнинного медведя}. Ты же знаешь, как выглядит медведь?</Page>
+    </Text>
+</QuestDialog>

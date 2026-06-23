@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0">Le Mysterium a fait appel à vous pour mettre un terme aux recherches des descendants de Lok. Vous avez découvert des informations relatives à une ancienne fontaine, et vous avez arrêté le chef des descendants, Tezluar, avant que ses serviteurs n'aient le temps de mener leur entreprise à bien. Malheureusement, la réaction des descendants ne se fit pas attendre, et ils lancèrent une attaque de grande envergure contre le Sanctum Mysterium. Vous avez assuré la protection de Mattin, qui était chargé de l'acheminement des boucliers magiques, et vous avez sauvé le Sanctum Mysterium.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4">Nous sommes en pleine course contre les Descendants de Lok pour découvrir les secrets anciens des Vestiges de Cardovek. Malheureusement, ils ont de l'avance sur nous.&lt;BR&gt;&lt;BR&gt;Les Collines célestes étaient chères à de nombreux dieux et les Descendants doivent sûrement chercher dans cette direction. Il y a fort à parier que les omphalos des plaines sont d'origine divine.&lt;BR&gt;&lt;BR&gt;Allez voir l'un de nos érudits nommé Padraig près des vestiges.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1044">
+        <Page social="4">Ils préparent quelque chose, certes, mais je ne sais pas quoi. Ils ont des bouts de papier, mais ils sont codés et complètement désordonnés.&lt;BR&gt;&lt;BR&gt;Si vous arriviez à reconstituer un document entier, je pourrais peut-être le déchiffrer. Les {@LinkCreature:7#14#sorciers de Lok} sont votre meilleure chance de trouver une copie complète des pages, commencez par là.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1044">
+        <Page social="4">C'est pas vrai!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les documents sont en bon état, mais je n'arrive pas à les décoder. J'ai vu des {@LinkCreature:7#13#berserkers de Lok} lire ces cryptographes, peut-être qu'ils ont un moyen de les décoder.&lt;BR&gt;&lt;BR&gt;Trouvez un berserker et voyez s'il possède quelque chose que nous pouvons utiliser pour déchiffrer le texte. Nous devons absolument découvrir ce qu'ils manigancent!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="4">Vous avez tout?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Un appareil de décryptage et les cryptographes?&amp;nbsp; Nous ne pourrons pas en savoir plus sans eux.&lt;BR&gt;&lt;BR&gt;Avez-vous décrypté les messages?&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0">Vous l'avez perdu?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais qu'est-ce que je vais faire?&amp;nbsp; Oh!&amp;nbsp; Attendez, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0">Allez, je veux voir TOUT le message décrypté.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4">Quelqu'un me l'a donné il y a quelques temps mais je n'ai pas réalisé à l'époque...&lt;BR&gt;&lt;BR&gt;Vous devez être le &lt;PCClass:lcase&gt; le plus chanceux que j'ai rencontré. C'est le décodeur que vous avez perdu?&amp;nbsp; Le voici!&amp;nbsp; Prenez-le et commencez le décodage.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4">Ce fichu naga, {@LinkCreature:7#102#Tezluar}!&amp;nbsp; C'est lui qui est derrière tout ça!&amp;nbsp; Il cherche une fontaine – on dirait que c'est celle que cherchait Akasha autrefois.&lt;BR&gt;&lt;BR&gt;Ils n'ont aucune idée de l'endroit où elle peut se trouver maintenant et avec votre aide, ils ne la trouveront jamais.&lt;BR&gt;&lt;BR&gt;Tuez Tezluar et donnez une bonne leçon à ces descendants.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1044">
+        <Page social="0">Les {@LinkCreature:7#13#berserkers de Lok} doivent avoir une astuce pour lire ces cryptographes. Ils n'ont pas assez de cervelle pour le faire eux-mêmes!&amp;nbsp;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1044">
+        <Page social="4">Parfait!&amp;nbsp; Empressez-vous de porter cette bonne nouvelle à Mattin!&amp;nbsp;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1001">
+        <Page social="4">Les descendants de Lok semblent être de véritables perdants. Ils se rassemblent pour attaquer. Notre bouclier peut les repousser si nous le levons à temps.&lt;BR&gt;&lt;BR&gt;Tenez l'ennemi à distance jusqu'à ce que nos défenses soient actives!&amp;nbsp;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="419" prevId="12" villagerId="99">
+        <Page social="4">Le courage et le savoir-faire ont protégé les secrets et les connaissances que nous avons découverts. Et nous en sommes très reconnaissants.&lt;BR&gt;&lt;BR&gt;Les Collines célestes regorgent de secrets, nous ne sommes pas encore prêts à en découvrir certains et nous ne le serons jamais pour d'autres. Ensemble, nous les avons protégés.&lt;BR&gt;&lt;BR&gt;Nous vous remercions.</Page>
+    </Text>
+</QuestDialog>

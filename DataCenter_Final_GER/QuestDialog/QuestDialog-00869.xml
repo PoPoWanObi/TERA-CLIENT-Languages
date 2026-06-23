@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Vernichtet die Legionstruppen dieser Region und bringt Beweise dafür. Tötet {@LinkCreature:27#1#Lehmige Sporenwandler}, {@LinkCreature:27#21#Thulsanische Schlachtwüter}, {@LinkCreature:27#22#Thulsanische Mystiker}, {@LinkCreature:27#23#Thulsanische Zerstörer}, {@LinkCreature:27#24#Thulsanische Zauberer} und {@LinkCreature:27#25#Thulsanische Mäher}.&lt;BR&gt;&lt;BR&gt;Erstattet Karlaina Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1007">
+        <Page social="5">Eure Anstrengungen, die Legion zu befrieden, rechnen wir Euch hoch an.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1007">
+        <Page social="0">Ich kann nicht bestätigen, dass die Mission erfüllt wurde. Bringt mir Beweise für Eure Taten.</Page>
+    </Text>
+</QuestDialog>

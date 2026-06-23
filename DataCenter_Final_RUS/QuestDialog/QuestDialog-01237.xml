@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1016">
+        <Page social="5">Защитный щит ослабевает. Без него в храме будет небезопасно. К югу отсюда, возле Покоев погибших душ, находятся жуткие осколки, которые можно использовать для восстановления щита.&lt;BR&gt;&lt;BR&gt;Но нельзя терять ни минуты. Если щит не включить, наги и их приспешники нас одолеют.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1016">
+        <Page social="5">Хвала богам, ты снова с нами! Теперь мы в безопасности.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1016">
+        <Page social="0">Если ты не принесешь нам осколки для восстановления силы щита, мы все покойники.&lt;BR&gt;&lt;BR&gt;Не стой столбом!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="80" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="42">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Die übrigen Naga bewachen die Galerie auf der dritten Ebene des Tempels.&lt;BR&gt;&lt;BR&gt;Beseitigt {@LinkCreature:42#210#Dagonitkreuzritter}, {@LinkCreature:42#310#Nagatridentare}, {@LinkCreature:42#330#Nagawächter}, {@LinkCreature:42#900#Mekonarischamanen}, {@LinkCreature:42#910#Mekonarihexer} und {@LinkCreature:42#1000#Mekonarinachtwachen}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Verwalterin Glaserine, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="0">Ihr habt Euch den Dank der Föderation verdient. Eure Gilde dient allen anderen als Vorbild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Ihr habt Eure Mission anscheinend noch nicht beendet.</Page>
+    </Text>
+</QuestDialog>

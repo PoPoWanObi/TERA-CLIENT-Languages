@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3509#Дженсприн} на Полевой базе "Отвага" нужна кое-какая помощь. Наши расследования привели нас на опасный путь, и мы это понимаем. Но все же мне бы хотелось минимизировать риски.&lt;BR&gt;&lt;BR&gt;Отправляйся туда и окажи помощь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Я - ученая, а не солдат. Я здесь не для того, чтобы сражаться с аргонами, поэтому я буду благодарна тебе за помощь. Чаще всего нужно будет просто убивать разных гадов, но иногда придется что-нибудь взорвать.&lt;BR&gt;&lt;BR&gt;Хорошие времена.&lt;BR&gt;&lt;BR&gt;Что скажешь?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Все еще в строю, а?&lt;BR&gt;&lt;BR&gt;Хорошо иметь дело с такими талантливыми солдатами. Это изрядно упрощает жизнь!</Page>
+    </Text>
+</QuestDialog>

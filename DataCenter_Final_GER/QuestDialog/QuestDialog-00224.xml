@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="5">Es ist unsere Aufgabe, die Forscher des Mysteriums zu beschützen, also ist es auch unsere Aufgabe, ihnen ihre gefährlichen Forschungsmaterialien zu beschaffen. Jetzt wollen sie Kumaskerne! Könnt Ihr Euch das vorstellen?&lt;BR&gt;&lt;BR&gt;Ich brauche jemanden mit herausragenden Fähigkeiten. So wie Euch, &lt;PCNAME&gt;. Stellt eine Gruppe zusammen und beschafft mir ein paar Kerne von den {@LinkCreature:7#4#Benommenen Kumas}. Würde Ihr das für mich tun?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1100">
+        <Page social="5">Fabelhaft, Ihr habt die Kerne. Was wird ihnen wohl als Nächstes einfallen? Das weiß allein Shara.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1100">
+        <Page social="0">Habt Ihr die Kerne? Die Forscher des Mysteriums sitzen mir schon im Nacken.</Page>
+    </Text>
+</QuestDialog>

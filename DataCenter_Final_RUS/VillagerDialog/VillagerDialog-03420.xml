@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="225" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">&lt;img src='img://__Image_Dungeon_9089.9089'/&gt;&lt;BR&gt;Эллеон и я с коллегами потратили недели на то, чтобы раскрыть заговор Атель-акаад.&lt;BR&gt;Теперь мы, наконец, видим плоды своих трудов.&lt;BR&gt;(&lt;font color='#0000FF'&gt;Убежище Культистов&lt;/font&gt; - это подземелье на 5 человек, в котором можно выполнить связанные с подземельем задания.&lt;BR&gt;(&lt;font color='#0000FF'&gt;Убежище Культистов (соло)&lt;/font&gt; - это подземелье на 1 человека, в котором нет возможности выполнять связанные с подземельем задания.)&lt;BR&gt;&lt;TEXTBUTTON&gt;Использовать телепорт.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Отправиться в Убежище Культистов.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Телепорт позволит добраться до Убежища Культистов.&lt;TEXTBUTTON&gt;Использовать телепорт.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Отправиться в Убежище Культистов.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

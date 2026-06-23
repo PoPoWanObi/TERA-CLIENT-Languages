@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">{@LinkCreature:528#5005$$Tamur} a dit que vous auriez besoin d'équipement pour la Forêt de Tirkai.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mobilisation&amp;nbsp;: présentez-vous au commandant Ukenul pour débattre des stratégies concernant la guerre argone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5011">
+        <Page social="0">J'espère que ceci vous sera utile.</Page>
+    </Text>
+</QuestDialog>

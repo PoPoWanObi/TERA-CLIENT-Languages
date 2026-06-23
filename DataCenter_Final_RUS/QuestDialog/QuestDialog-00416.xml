@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="0">Вы отправились в дозор к пику Матар, забрались на утес, потом спрыгнули, приземлившись легко, как перышко. Джорхон объявил, что вы полностью готовы к службе.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="4">Пора тебе показать себя, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Гибрик, дитя Караса, охраняет восточный подход к Форпосту у башни. Ступай к нему, а я пока сообщу о твоих успехах Джорхону.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1024">
+        <Page social="4">Вот и новый рекрут, вот и задание для него готово. Это совпадение очень кстати.&lt;BR&gt;&lt;BR&gt;Каждый день мы обходим территорию вокруг пика Матар и собираем цветы на его вершине. Из них готовят особое зелье. А для защиты территории мы установили обелиск.&lt;NEXTPAGEBUTTON&gt;"Так что от меня требуется?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Неужели не ясно? {@linkcreature:13#301194#Камнеклювы} повредили обелиск, проглотили его осколки. Верни осколки, почини обелиск, собери цветы. После выполнения задания Гибрик, дитя Караса, объявит тебя полноправным бойцом гарнизона.&lt;BR&gt;&lt;BR&gt;Тому же, кто еле плетется, устав собирать цветы, поможет это зелье легкости. Используй его в нужный момент.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1053">
+        <Page social="4">(Вы устанавливаете на место осколки, обелиск начинает светиться. Кажется, работает.)&lt;BR&gt;&lt;BR&gt;(Теперь надо вскарабкаться по лианам.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1053">
+        <Page social="0">(Похоже, не все осколки найдены.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Отправляя тебя на тренировку, я надеюсь, что ты вернешься вовремя.&lt;BR&gt;&lt;BR&gt;Итак, что скажешь в свое оправдание?&lt;NEXTPAGEBUTTON&gt;"Задача по патрулированию выполнена, сэр".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">А, небесный цветок... Да, все взаправду хорошо.&lt;BR&gt;&lt;BR&gt;Ну, &lt;PCNAME&gt;, тебе удалось успешно завершить обучение. Поздравляю! Теперь ты - полноправный боец гарнизона. Думаю, тебе стоит одеться соответственно.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Die Zeit ist gekommen, die Machenschaften der Gula ins Mark zu treffen. Schaltet ihren Anführer {@LinkCreature:8#8011#Glauka} aus und zeigt den Gula, wer in dieser Gegend hier das Sagen hat.&lt;BR&gt;&lt;BR&gt;Doch seid vorsichtig, Glauka ist ein harter Brocken. Um so weit zu kommen, musste er das sein. Kommt lebendig zurück!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Sieht ziemlich ... schwer aus. Das nächste Mal bitte ich um eine leichtere und weniger unhandliche Trophäe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Glauka befindet sich in der Höhle des Gemetzels. Er ist einschüchternd, aber Ihr seid noch viel einschüchternder.</Page>
+    </Text>
+</QuestDialog>

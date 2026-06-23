@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="5">Hä?&lt;BR&gt;&lt;BR&gt;Oh, verzeiht. Dachte, Ihr hättet was gesagt. Bilde mir in letzter Zeit ständig ein, Dinge zu hören.&lt;BR&gt;&lt;BR&gt;Ihr sollt Euch jedenfalls um {@LinkCreature:35#20#Tenebraraaufseher}, {@LinkCreature:35#18#Tenebrarazerstörer} und {@LinkCreature:35#17#Tenebrarafurchtweber} kümmern. Versucht Euch nicht zu ... was?&lt;BR&gt;&lt;BR&gt;Oh ... tut mir leid, schon wieder was anderes. Aber egal, versucht Euch nicht zu sehr zu amüsieren.&lt;BR&gt;&lt;BR&gt;Sprecht mit ... sprecht mit Tesran in der Würmlingsklamm, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1015">
+        <Page social="5">Hier ist Eure Belohnung.&lt;BR&gt;&lt;BR&gt;Macht weiter so.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1015">
+        <Page social="0">Ihr seid wegen einer Belohnung hier? Dafür, dass Ihr die Mission nicht abgeschlossen habt? Versucht's noch mal.</Page>
+    </Text>
+</QuestDialog>

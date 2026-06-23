@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Ich glaube, ich weiß eine Behandlung für ihn, aber seid nachsichtig. Sie ist ein wenig ... ungewöhnlich.&lt;BR&gt;&lt;BR&gt;Er redet ständig davon, dass "sie" ihn beobachten: {@LinkCreature:9#410#Gulaplünderer}, listige {@LinkCreature:9#700#Alizarinwichteljäger} und {@LinkCreature:9#710#Alizarinwichtelbewacher}.&lt;BR&gt;&lt;BR&gt;Bringt mir ihre Augen. Wir werden dem armen Kerl wieder etwas Feingefühl beibringen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Ihr habt sie. Großartig!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Ihr findet die {@LinkCreature:9#410#Gulaplünderer}, die listigen {@LinkCreature:9#700#Alizarinwichteljäger} und {@LinkCreature:9#710#Alizarinwichtelbewacher} auf der ersten Ebene in Azarels Labyrinth.</Page>
+    </Text>
+</QuestDialog>

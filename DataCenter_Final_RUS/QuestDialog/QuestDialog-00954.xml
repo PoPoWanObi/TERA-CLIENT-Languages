@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0">Кто-то или что-то пытается говорить со мной. Я слышу голос, который нашептывает "собери части тени" и "слушай наши голоса".&lt;BR&gt;&lt;BR&gt;Думаешь, я спятил? А вот черта с два - и я это докажу! У Предела Головокружения крутятся {@LinkCreature:33#6#Злющие привидения} - убей их, собери части тени, и тогда посмотрим, кто тут спятил!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1010">
+        <Page social="4">Так, посмотрим, может, и сработает. Я засовываю эти штуки в уши.&lt;BR&gt;&lt;BR&gt;Что вам надо, чертовы голоса? Послушаем.&lt;BR&gt;&lt;BR&gt;Это же... ох, это голоса пропавших солдат!&lt;NEXTPAGEBUTTON&gt;"Солдат Кайдуна?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Да! Мои братья-аманы! Будь проклят Тулса! Будь проклято все это место!&lt;BR&gt;&lt;BR&gt;Жуткими защитниками Высоты Страданий были пропавшие солдаты, которые... о, нет!&lt;BR&gt;&lt;BR&gt;Хелер все еще наверху, пытается предупредить нас... что за проклятье пропитало все это место. Эх, мои товарищи!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, немедленно сообщи эту информацию Алссии!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1010">
+        <Page social="0">И что мне делать с этими частями тени? В уши себе, что ли, засунуть?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="3" villagerId="1001">
+        <Page social="4">Хелер? Он был там все это время? Подлый Тулса, будь ты проклят за то, что опорочил имя великого воина!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, умоляю, найди его. Может проклятье и изменило его облик, но он все еще наш товарищ. Помоги ему!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1012">
+        <Page social="0">Меня услышали! Не хочу, чтобы остальные увидели, во что я превратился, но и сидеть сложа руки, пока погибают мои товарищи, я тоже не могу.</Page>
+    </Text>
+</QuestDialog>

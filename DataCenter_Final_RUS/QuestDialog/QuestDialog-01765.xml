@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="9001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="9001">
+        <Page social="1">Забираться на территорию наших соперников очень опасно, мой друг &lt;PCCLASS:lcase&gt;. А значит, лучшего способа показать свою храбрость не найти.&lt;BR&gt;&lt;BR&gt;Чтобы прослыть настоящим героем в Союзе Просвещенных, проберись на Территорию Торговцев и вернись с доказательством своей отваги. Вполне достаточно будет убить Золотого василиска, Золотого фимбрилиска и Золотого клыкаря.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="9001">
+        <Page social="0">Тебе удалось выжить!&lt;BR&gt;&lt;BR&gt;Я была не совсем уверена, что тебе удастся выполнить задание. Понимаешь, многие пробовали это сделать, но мало кто вернулся.&lt;BR&gt;&lt;BR&gt;Я рада, что ты из тех, кто понимает разницу между торжественной клятвой и хвастовством.&lt;BR&gt;&lt;BR&gt;Союз Просвещенных гордится тем, что ты в его рядах, мой друг.</Page>
+    </Text>
+</QuestDialog>

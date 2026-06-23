@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Орканы Карбы храбро противостоят зачинщикам войны. Была бы воля верховного командования, из них бы получились неплохие солдаты Федерации.&lt;BR&gt;&lt;BR&gt;Они используют кровь кулларов, чтобы придать себе сил, но сейчас племя Черного Когтя перекрыло дорогу к местам обитания этих животных. Если судьба забросит тебя в &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=Caves"&gt;пещеры к югу отсюда&lt;/A&gt;&lt;/font&gt;, захвати немного крови кулларов для {@LinkCreature:241#1020#Хуурика}. Мне бы хотелось выказать орканам свою признательность.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="4">Кровь кулларов? Откуда она у тебя?&lt;BR&gt;&lt;BR&gt;Ты же рискуешь своей жизнью! Премного благодарен.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">Как же я истосковался по вкусу крови кулларов.&lt;BR&gt;&lt;BR&gt;Тебе не понять, ясное дело, но для моего народа она священна.</Page>
+    </Text>
+</QuestDialog>

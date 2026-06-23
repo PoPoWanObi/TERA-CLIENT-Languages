@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">Okay, vielleicht war ich doch ein bisschen voreilig, was das Kürbismonster betrifft. Entschuldigt bitte.&lt;BR&gt;&lt;BR&gt;Gerade habe ich herausgefunden, wer der Urheber all dieser Angriffe ist: Kürbiskopf!&lt;BR&gt;&lt;BR&gt;Den größten Teil des Jahres ist er völlig harmlos. Doch mit der Erntezeit wächst seine Macht. Er hatte schon immer einen Faible dafür, wie aus dem Nichts aufzutauchen. Er wird uns noch unter all seinen Schergen begraben.&lt;BR&gt;&lt;BR&gt;Irgendwie müssen wir es schaffen, Kürbiskopf zur Vernunft zu bringen. Ihr wisst schon, seinen erzürnten Geist beschwichtigen, wie in jeder richtigen Geistergeschichte. Wisst Ihr, wie man das anstellt?&lt;NEXTPAGEBUTTON&gt;"Kämpfen liegt mir mehr als Beschwichtigen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Was soll's, ich nehme jetzt jede Hilfe an, die ich bekommen kann. Haltet all die ungebetenen Gäste vom Festsaal fern.&lt;BR&gt;&lt;BR&gt;Wenn Ihr Kürbiskopf trefft, verarbeitet ihn zu Kürbisragout. Dann müssen wir uns erst nächstes Jahr wieder mit ihm herumschlagen.&lt;BR&gt;&lt;BR&gt;Eins noch: Nehmt diese Kleinigkeit für später an Euch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="5">Ich mache Euch {@g:zum Türsteher/zur Türsteherin} bei all unseren Partys, &lt;PCNAME&gt;. Naja, nicht, dass es hier so viele davon gäbe. Es dreht sich ja immer alles nur um's Lernen, Hausaufgaben machen, Lernen, Hausaufgaben machen ... wie dem auch sei. Ihr besitzt ein gewisses Talent dafür, das Gesindel fernzuhalten.&lt;BR&gt;&lt;BR&gt;Ihr verdient eine Belohnung - es ist schließlich Halloween! Nehmt dies und lasst die Popori tanzen!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="8001">
+        <Page social="0">Haltet die Tuwangi von den Süßigkeiten fern!&lt;BR&gt;&lt;BR&gt;Und wenn Euch Kürbiskopf über den Weg läuft, verarbeitet ihn zu Kürbisragout. Der hat ganz sicher keine Einladung zur Party bekommen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Ich weiß nicht, ob es eine gute Idee ist, doch wegen der knappen Rationen hier ziehen die Leute in Betracht, das Fleisch von {@Creature:47#1001$$Tirkaigrizzly}s zu essen.&lt;BR&gt;&lt;BR&gt;Ich denke, wenn wir es ausreichend einsalzen, würde das vermutlich die Argonenverseuchung eliminieren.&lt;BR&gt;&lt;BR&gt;Bringt etwas davon zu Jadora im Feldlager des Irrsinns. Sie hat Zugriff zu jeder Menge Salz.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Sie glaubt also, Salz macht es genießbar? Wir könnten auf jeden Fall mehr zu essen gebrauchen. Ich werde es ausprobieren.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">Ich habe Salz. Wofür braucht Ihr es doch gleich? Ich kann kein Fleisch sehen.</Page>
+    </Text>
+</QuestDialog>

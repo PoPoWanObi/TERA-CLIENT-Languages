@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="901" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Personne n'est un héros de naissance. Les soldats se jettent dans la bataille et le destin leur donne le choix. Ceux qui prennent la bonne décision, ce sont ceux-là qui deviennent des héros. &lt;BR&gt;&lt;BR&gt;En avant vers la gloire !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1256">
+        <Page social="0">Vous avez accompli des exploits héroïques, &lt;PCNAME&gt;.  Vos amis et vos ennemis se souviendront encore longtemps de votre nom.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Thulsas Truppen sind zu stark, als dass man sie in einem direkten Angriff besiegen könnte. Dazu müssen wir sie zuerst schwächen.&lt;BR&gt;&lt;BR&gt; Eliminiert die Thulsanischen {@LinkCreature:27#10#Zerstörer}, {@LinkCreature:27#11#Arkanisten}, {@LinkCreature:27#8#Berserker}, {@LinkCreature:27#9#Furchtweber} und {@linkcreature:27#12#Spalter}, um ihre Reihen zu lichten.&lt;BR&gt;&lt;BR&gt;Erstattet Sarvasia Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Ihr habt Euch den Dank der Föderation verdient. Eure Gilde dient allen anderen als Vorbild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

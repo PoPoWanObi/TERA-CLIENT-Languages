@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Berichte von der zweiten Ebene beschreiben hochgewachsene Wesen mit schwarzen Federn, die mit den Naga operieren. Bin ich der Einzige, der denkt, dass es sich um {@LinkCreature:42#1010#Mekonari} handelt? Das hat uns gerade noch gefehlt ...&lt;BR&gt;&lt;BR&gt;Tötet eines dieser schwarz gefiederten Wesen und bringt mir ein Andenken mit, ja? Wir müssen unbedingt wissen, womit wir es zu tun haben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">Mekonari, wie ich befürchtet habe. Aber warum sind sie hier? Ich würde gern mehr über sie wissen. Ich hätte auf der Akademie besser aufpassen sollen. Geht zurück und jagt die {@LinkCreature:42#1010#Mekonarieiferer}, bis Ihr es herausfindet. Ich werde mich natürlich bei Euch erkenntlich zeigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">Was führen die Mekonari im Schilde? Habt Ihr es schon herausgefunden?</Page>
+    </Text>
+</QuestDialog>

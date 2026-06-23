@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">&lt;PCNAME&gt;! Я получил запрос на подкрепление из Небесных холмов. Друстану на Стоянке Касиде срочно требуется помощь. У меня нет лишних солдат, но, возможно, ты сможешь ему помочь.&lt;BR&gt;&lt;BR&gt;Старик немного не в себе, но человек он хороший. Сделай все, что в твоих силах, друг. Слава Федерации!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">Ты и есть... помощь? Один солдат?!&lt;BR&gt;&lt;BR&gt;Дейвен, будь ты проклят. Нам нужно больше солдат... ну да ладно, давай найдем тебе работу. Орканы собираются идти в наступление. Поэтому лучше избавиться от них заблаговременно. Уничтожь {@LinkCreature:7#5#Орканов Красного Клыка} и {@LinkCreature:7#6#Бойцов Красного Клыка}, и принеси мне их клыки.&lt;BR&gt;&lt;BR&gt;Возможно, это позволит нам ненадолго передохнуть. Задай им жару!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">Отлично! Как много клыков.&lt;BR&gt;&lt;BR&gt;Думаю, тебе удалось отпугнуть их на время. Надеюсь, к тому моменту уже подтянется подкрепление.&lt;BR&gt;&lt;BR&gt;Хорошо, что ты здесь, &lt;PCNAME&gt;. Так держать.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">Я отдал тебе приказ, солдат. Приступай.</Page>
+    </Text>
+</QuestDialog>

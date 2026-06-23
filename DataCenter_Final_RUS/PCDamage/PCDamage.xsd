@@ -1,0 +1,10 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/PCDamage" targetNamespace="https://vezel.dev/novadrop/dc/PCDamage" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
+    <xsd:complexType name="PCDamage">
+        <xsd:sequence>
+            <xsd:element name="PCDamage" type="PCDamage" minOccurs="0" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="pcHitDamageVoice" type="xsd:string" />
+        <xsd:attribute name="templateId" type="xsd:int" />
+    </xsd:complexType>
+    <xsd:element name="PCDamage" type="PCDamage" />
+</xsd:schema>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Лодыри! Все до последнего! Я думаю, они специально заблудились, чтобы позвать на помощь.&lt;BR&gt;&lt;BR&gt;Надеюсь, что проклятые археологи сгинут где-нибудь в руинах. Все, хватит мне надоедать.&lt;BR&gt;&lt;BR&gt;Здесь расплодились {@LinkCreature:18#10#Караульные} и {@LinkCreature:18#12#Големы Боевого Клинка}. Избавься от них и, может быть, я подумаю над тем, чтобы взять тебя в наш отряд.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">Отлично.&lt;BR&gt;&lt;BR&gt;Пойдешь к нам в отряд? &lt;PCNAME&gt;, не обижайся, я иногда могу наговорить всякого, главное - чтобы работа была сделана.&lt;BR&gt;&lt;BR&gt;Здесь много шляется всяких бездельников, с которыми иначе - никак.</Page>
+    </Text>
+</QuestDialog>

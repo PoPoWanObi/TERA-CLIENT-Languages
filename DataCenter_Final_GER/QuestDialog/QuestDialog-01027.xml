@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="4">Ich meldete mich für diese Stelle freiwillig, weil meine Schwester hier starb. Ich hoffte, ihren Leichnam bergen zu können.&lt;BR&gt;&lt;BR&gt;Doch ich habe ihn nie gefunden. Sie liegt noch immer irgendwo da draußen in der Kälte.&lt;NEXTPAGEBUTTON&gt;"Das tut mir sehr leid."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ihr braucht Euch um mich nicht zu sorgen. Als Soldatin kenne ich die Risiken. Und, solange ich mich noch an sie erinnere, lebt sie in meinem Herzen weiter.&lt;BR&gt;&lt;BR&gt;Ich sollte ein paar Blumen an das Grab eines der unbekannten Soldaten in der Nähe von Acarum legen, um ihrer zu gedenken. Würdet Ihr für mich diese Blumen hinlegen, wenn Ihr dort vorbeikommt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1114">
+        <Page social="4">(Der Grabstein scheint bereits überfüllt zu sein mit Erinnerungsstücken verlorener Freunde, Angehöriger und gefallener Kameraden.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1010">
+        <Page social="4">Ich danke Euch. Sie soll nur wissen, dass ich sie nicht vergessen werde.</Page>
+    </Text>
+</QuestDialog>

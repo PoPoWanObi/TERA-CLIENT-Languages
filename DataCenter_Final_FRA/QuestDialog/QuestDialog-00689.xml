@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">Eh, vous savez quelle heure il est?&amp;nbsp; L'heure de tuer du Tulla!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Rien, hein?&amp;nbsp; Maintenant, vous savez pourquoi j'ai rejoint l'armée.&lt;BR&gt;&lt;BR&gt;Bon, exterminez les {@LinkCreature:21#3#orisks vicieux} et les {@LinkCreature:21#4#orisks brutaux}, puis allez faire votre rapport à Fianath à l'Avant-poste des terres arides!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1027">
+        <Page social="4">Merci. Le travail va pouvoir reprendre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1027">
+        <Page social="0">Pardon, votre mission n'est pas encore remplie.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1016">
+        <Page social="4">Привет! У тебя найдется минутка? Я бы хотела с тобой поговорить.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1016">
+        <Page social="4">Спасибо. Солдаты на нас, гражданских, обычно совсем внимания не обращают. А я всего лишь хочу знать, что происходит.&lt;NEXTPAGEBUTTON&gt;"Чем я могу помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Мы очень переживали за Кайатор, когда аргоны напали. Они взяли его?&lt;NEXTPAGEBUTTON&gt;"Нет, Кайатор выстоял".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Какое облегчение. Без подкреплений из Кайатора у нас не будет ни единого шанса. Обозы с припасами не доходят до нас уже больше месяца. Мы кое-как держимся, но селяне страшатся голодной смерти.&lt;NEXTPAGEBUTTON&gt;"Не стоит переживать, скоро дорога для обозов будет расчищена".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Спасибо. Аргоны, поди, и думать не думают о еде и хорошем виски. &lt;BR&gt;&lt;BR&gt; Какие-то припасы, впрочем, они явно собирают. Мы видели, как большие аргоны затаскивали эти светящиеся... штуки в Шпиль Циазмов.&lt;NEXTPAGEBUTTON&gt;"И что там, в шпиле?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Никто точно не знает, но я слышала, как Целтан с кем-то обсуждал, что циазма для аргонов - это как кровь и еда, все сразу.&lt;NEXTPAGEBUTTON&gt;"Мы примерно так и предполагали".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Трусов среди нас нет, но и аргоны - не какие-то там лесные разбойники. Мы простые ремесленники и торговцы.&lt;BR&gt;&lt;BR&gt;Нам никак не справиться с красными аргонами, а уж тем более с их королевой.&lt;NEXTPAGEBUTTON&gt;"Погоди. Королевой?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Да. Кейдос называл ее "Шандра Манайа". Не знаю уж, где он это услышал.&lt;BR&gt;&lt;BR&gt;Понятно одно: эти красные аргоны, которые начали нам попадаться, куда сильнее синих. Если собираешься с ними сражаться, будь осторожнее.</Page>
+    </Text>
+</QuestDialog>

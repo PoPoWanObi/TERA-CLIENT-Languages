@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3018">
+        <Page social="4">Эй, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3001#Арисел} повсюду ищет тебя.&lt;BR&gt;&lt;BR&gt;Готов поспорить, опять для бумажной работы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3001">
+        <Page social="4">У меня были на твой счет кое-какие сомнения, &lt;PCNAME&gt;, когда мы встретились впервые. Но сейчас... Сейчас даже не знаю, как бы я без тебя справлялась.&lt;BR&gt;&lt;BR&gt;Большинство наших солдат только и делают, что целыми днями начищают свое оружие. Но не ты!&lt;BR&gt;&lt;BR&gt;Вот, держи. Гидерад может гордиться тобой.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="4">Это место - настоящая ловушка. Если не видно кумасов - лезут твари пострашнее. Я высылаю патруль - и на него немедленно нападают {@LinkCreature:24#5#Резвые штормовые ящеры}. Бойцы ропщут и, похоже, подумывают о дезертирстве. Если ты немного избавишь нас хотя бы от части ящеров, мне будет гораздо проще назначать патрульных.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1005">
+        <Page social="4">Ух, ну и молодец же ты. Взгляни только на эти когти! Бойцы будут рады.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1005">
+        <Page social="0">Ищешь дорогу?</Page>
+    </Text>
+</QuestDialog>

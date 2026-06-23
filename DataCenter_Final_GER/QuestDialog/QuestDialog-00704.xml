@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Die Hexen haben das Teuflische Labor übernommen und brauen dort Elixiere. Sie werden die Tränke verwenden, um das gesamte Schloss zu verseuchen. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, bitte bringt meine Schwestern, die {@LinkCreature:22#19#Vadomahexen} und die {@LinkCreature:22#20#Schattenhelfer} zur Strecke, bevor es zu spät ist.&lt;BR&gt;&lt;BR&gt;Wenn wir das nicht verhindern, ist das gesamte Reich in Gefahr.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Gute Arbeit, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dann stehen diese Kessel also im Zentrum dieser Tragödie? Aber wer steckt dahinter?&lt;BR&gt;&lt;BR&gt;Ich hasse Geheimnisse.</Page>
+    </Text>
+</QuestDialog>

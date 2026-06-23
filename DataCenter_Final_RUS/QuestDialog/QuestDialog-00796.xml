@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1005">
+        <Page social="5">Мы бы смогли сделать гораздо больше, если бы нам не грозила опасность попасть волкам на обед. Эти {@LinkCreature:28#1021#Шипастые древолки} способны расправиться с попори одним взмахом лапы.&lt;BR&gt;&lt;BR&gt;Мы хотим помочь городу, но здесь, за стеной, я не готов рисковать своими товарищами. Если ты истребишь волков, мы продолжим сдерживать порчу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1005">
+        <Page social="5">Ох, ну надо же. Сколько клыков. Похоже, волки нас больше не побеспокоят.&lt;BR&gt;&lt;BR&gt;Я поговорю с ребятами. Мы сможем снова приступить к работе. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1005">
+        <Page social="0">Неужели ты боишься попасть волкам на обед? На тебя это не похоже. Хотя мне эти звери тоже не нравятся. Помни, мы не сможем вернуться к работе, пока ты не убьешь несколько Шипастых древолков.</Page>
+    </Text>
+</QuestDialog>

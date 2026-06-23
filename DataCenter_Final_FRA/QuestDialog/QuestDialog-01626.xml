@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="5">Nous avons besoin de votre aide. Les serviteurs de Thulsa cernent Habere. Eliminez les troupes de la légion maudite postées dans la Vallée des Aiguilles.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, venez me voir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1027">
+        <Page social="5">Vous êtes incroyable, &lt;PCNAME&gt;. Votre aura rayonne sur toute la Fédération. Aujourd'hui, j'ai espoir que cet endroit vive un jour de nouveau en paix.&lt;BR&gt;&lt;BR&gt;Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1027">
+        <Page social="0">Brisez le siège des troupes de la légion maudite avant que nos provisions ne soient totalement épuisées!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

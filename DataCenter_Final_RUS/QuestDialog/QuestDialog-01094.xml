@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1007">
+        <Page social="5">Тебе нужно пошевеливаться, если ты хочешь хоть что-то довести до конца, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;На этот раз тебе нужно позаботиться об {@LinkCreature:37#230#Алчных тираках}, {@LinkCreature:37#220#Жутких жнецах}, {@LinkCreature:37#240#Арахненах-мародерах}, {@LinkCreature:37#250#Инфернальных бесах} и {@LinkCreature:37#270#Капризных эбеновых бесах}.&lt;BR&gt;&lt;BR&gt;Надеюсь, ты записываешь. Я повторять все это не буду.&lt;BR&gt;&lt;BR&gt;Сообщи о своем успехе Шиосе в Лагере ученых Салерона.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1009">
+        <Page social="5">Отличная работа!&lt;BR&gt;&lt;BR&gt;Вот твоя награда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1009">
+        <Page social="0">Прости, но я не могу дать тебе ничего в награду, пока ты не выполнишь задание.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5">Призраки - это единственные здесь существа, которых мне по-настоящему жаль.&lt;BR&gt;&lt;BR&gt;Это нельзя назвать убийством, скорее, это освобождение.&lt;BR&gt;&lt;BR&gt;Поэтому... освободи призраков, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4">Тела умерли уже давно, а теперь и их души смогут вернуться в мир Грез. Это делает нас лучше.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Пожалуйста... Даже призраки заслуживают лучшей участи, чем эта.</Page>
+    </Text>
+</QuestDialog>

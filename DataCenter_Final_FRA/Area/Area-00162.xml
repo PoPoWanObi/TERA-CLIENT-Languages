@@ -1,0 +1,42 @@
+<Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="766" areaName="Pirateship_P" continentId="9766" nameId="9766001" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="0" recallReviveContinentIdC="0" ride="true" worldMapGuardId="6" worldMapWorldId="9999" xmlns="https://vezel.dev/novadrop/dc/Area">
+    <Section id="1" priority="0" desc="붉은 해적선" nameId="9766001" pcMoveCylinder="true" protect="true" ride="false" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+        <Fence pos="-68371.53906250,-47387.07031250,-423.72750854" />
+        <Fence pos="-68804.50781250,-47798.66406250,-491.37109375" />
+        <Fence pos="-74998.58593750,-51904.66406250,809.67285156" />
+        <Fence pos="-74550.14843750,-53853.69140625,-67.01660156" />
+        <Fence pos="-69512.77343750,-58508.32031250,-572.19628906" />
+        <Fence pos="-63294.91796875,-52094.88281250,-522.72357178" />
+        <Section id="2" priority="0" desc="3번 구간" nameId="9766001" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+            <Fence pos="-66489.14062500,-50849.12109375,1217.57995605" />
+            <Fence pos="-67595.53906250,-49990.60546875,-768.37817383" />
+            <Fence pos="-69180.73437500,-51622.75781250,-882.02148438" />
+            <Fence pos="-67838.64843750,-53358.57031250,-1153.19702148" />
+        </Section>
+        <Section id="3" priority="0" desc="2번 구간" nameId="9766001" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+            <Fence pos="-70902.26562500,-54470.10156250,926.60839844" />
+            <Fence pos="-69709.55468750,-54159.75390625,1281.72558594" />
+            <Fence pos="-69709.61718750,-52836.15625000,1281.72375488" />
+            <Fence pos="-69882.90625000,-52174.20312500,-900.57910156" />
+            <Fence pos="-70382.37500000,-52054.31640625,-805.36352539" />
+            <Fence pos="-70789.24218750,-52796.87890625,1062.13281250" />
+        </Section>
+        <Section id="4" priority="0" desc="1번 구간" nameId="9766001" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+            <Fence pos="-70016.96875000,-54595.77343750,739.68371582" />
+            <Fence pos="-70720.89843750,-54661.23828125,679.95922852" />
+            <Fence pos="-70855.61718750,-55769.74609375,1133.38549805" />
+            <Fence pos="-69953.43750000,-55693.14062500,694.62921143" />
+        </Section>
+        <Section id="7" priority="0" desc="전투 시작 이동 구간" nameId="9766001" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+            <Fence pos="-69953.41406250,-55697.94140625,501.77288818" />
+            <Fence pos="-70716.09375000,-55770.46875000,1133.39465332" />
+            <Fence pos="-71300.46093750,-56764.78906250,-356.17941284" />
+            <Fence pos="-70202.21875000,-56758.95312500,906.01110840" />
+        </Section>
+        <Section id="8" priority="0" desc="1번 전투 구간 다리 이동" nameId="9766001" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" campId="0" desTex="false" disableItemId="" duel="false" enableItemId="" floor="1" huntingZoneId="-1" ignoreObstacleShortTel="false" maze="false" pk="false" restBonus="false" subtractMinZ="256" trade="true" vender="false" worldMapSectionId="9766">
+            <Fence pos="-70086.84375000,-54128.32812500,931.49688721" />
+            <Fence pos="-70393.09375000,-54146.67578125,921.16210938" />
+            <Fence pos="-70298.76562500,-54626.89062500,919.52929688" />
+            <Fence pos="-69964.63281250,-54610.82421875,939.88177490" />
+        </Section>
+    </Section>
+</Area>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">Tief im Inneren der Katakomben der Hexenkönigin arbeiten {@LinkCreature:22#21#Chaosführer} und ihre {@LinkCreature:22#22#Iskaragards} gegen uns.&lt;BR&gt;&lt;BR&gt;Meine Schwestern müssen aufgehalten werden. Sie kennen unsere Taktiken sehr gut, daher muss ich Euch bitten, gegen sie zu kämpfen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Ich möchte nur, dass wir herausfinden, wie das geschehen konnte und wer dafür verantwortlich ist, sobald wir diese verfluchte Angelegenheit abgeschlossen haben.&lt;BR&gt;&lt;BR&gt;Das Verstehen wird mir bei der Heilung helfen, und zu wissen, wer verantwortlich ist, bietet den überlebenden Hexen jemanden, den sie töten können. Langsam.</Page>
+    </Text>
+</QuestDialog>

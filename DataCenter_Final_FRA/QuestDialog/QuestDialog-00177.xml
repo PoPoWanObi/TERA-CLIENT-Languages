@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Nous rencontrons bon nombre de problèmes au Hameau Tuwangi.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:5#4#grenouillards}, les {@LinkCreature:5#5#butors} et les {@LinkCreature:5#6#tailladeurs} tuwangis.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Zelia, de la Garnison Tuwangi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1011">
+        <Page social="5">Excellent, excellent!&amp;nbsp; C'est vraiment du très bon travail!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1011">
+        <Page social="0">Les tuwangis, c'est LA-BAS que ça se passe.</Page>
+    </Text>
+</QuestDialog>

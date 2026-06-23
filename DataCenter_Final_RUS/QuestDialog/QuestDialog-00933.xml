@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Неужели ты будешь просить меня дать Хасибу еще один шанс? Меня это все уже достало.&lt;BR&gt;&lt;BR&gt;С куда большим интересом я бы обсудила дела разведывательной сети мятежников. У них заканчиваются и силы, и припасы.&lt;BR&gt;&lt;BR&gt;А теперь, когда они потеряли командира, самое время нанести им решающий удар.&lt;NEXTPAGEBUTTON&gt;"И что ты хочешь сделать?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@LinkCreature:32#13#Сиранские чародеи} и их {@LinkCreature:32#14#Туванги-лягушечники} - наиболее важные звенья сиранской разведки. Даже если избавиться от них одних, это поможет спасти жизни десяткам солдат. Но если достать их записи, счет спасенных пойдет на сотни.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Невероятно! Если Хасиб действительно хотел произвести на меня впечатление, ему стоило бы сделать что-то такое же смелое и... полезное. Как твой поступок.&lt;BR&gt;&lt;BR&gt;Не могу сказать, что Хасиб такой уж плохой. Просто... он не тот, кто мне нужен.&lt;BR&gt;&lt;BR&gt;Тьфу! Опять я про Хасиба. Вот, держи свою награду.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Разве я не сказала, что {@LinkCreature:32#14#Туванги-лягушечники} засели в Морозной страже?</Page>
+    </Text>
+</QuestDialog>

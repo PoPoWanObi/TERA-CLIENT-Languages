@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="489" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="489" prevId="0" villagerId="1020">
+        <Page social="4">Je sais que les cultistes sont maléfiques, qu'ils veulent notre destruction, qu'ils sont déterminés à ramener le dieu démoniaque dans notre monde, et ainsi de suite.&lt;BR&gt;&lt;BR&gt;Mais il faut reconnaître qu'ils savent choisir leurs fournisseurs d'armes!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Récupérez des armes en explorant le refuge, et rapportez-les-moi!&amp;nbsp; Je pourrais peut-être découvrir d'où elles viennent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="489" prevId="2" villagerId="1020">
+        <Page social="4">Regardez-moi ça!&amp;nbsp; Des armes de premier choix!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="489" villagerId="1020">
+        <Page social="0">Si nous découvrons d'où viennent les armes des cultistes, nous pourrons peut-être les empêcher de s'en procurer d'autres.</Page>
+    </Text>
+</QuestDialog>

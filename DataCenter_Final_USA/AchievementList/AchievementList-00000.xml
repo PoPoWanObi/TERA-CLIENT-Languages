@@ -1,0 +1,54 @@
+<AchievementList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AchievementList AchievementList.xsd" xmlns="https://vezel.dev/novadrop/dc/AchievementList">
+    <CategoryInfo>
+        <MainCategory id="1000" priority="0" name="@Achievement:999010" isGrade="true" normalImage="gradeBtn_up" overImage="gradeBtn_over" pressImage="gradeBtn_click">
+            <SubCategory id="1001" name="@Achievement:999011" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="2000" priority="1" name="@Achievement:999020" isCompensation="true" normalImage="compensationBtn_up" overImage="compensationBtn_over" pressImage="compensationBtn_click" referId="0">
+            <SubCategory id="2001" name="@Achievement:999021" normalImage="" overImage="" pressImage="" referStr="TitleReward" />
+            <SubCategory id="2002" name="@Achievement:999022" normalImage="" overImage="" pressImage="" referStr="ETCReward" />
+            <SubCategory id="2003" name="@Achievement:999023" normalImage="" overImage="" pressImage="" referStr="ItemReward" referType="skillbook" />
+            <SubCategory id="2004" name="@Achievement:999024" normalImage="" overImage="" pressImage="" referStr="ItemReward" />
+            <SubCategory id="2005" name="@Achievement:999025" normalImage="" overImage="" pressImage="" referStr="MoneyReward" />
+        </MainCategory>
+        <MainCategory id="0" priority="2" name="@Achievement:999000" isSummary="true" normalImage="totalBtn_up" overImage="totalBtn_over" pressImage="totalBtn_click" str1="@Achievement:999001" str2="@Achievement:999002" str3="@Achievement:999003" />
+        <MainCategory id="100" priority="3" name="@Achievement:999100" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="101" name="@Achievement:999101" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="102" name="@Achievement:999102" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="200" priority="4" name="@Achievement:999200" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="201" name="@Achievement:999201" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="204" name="@Achievement:999204" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="202" name="@Achievement:999202" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="203" name="@Achievement:999203" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="300" priority="4" name="@Achievement:999300" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="301" name="@Achievement:999301" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="303" name="@Achievement:999303" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="306" name="@Achievement:999306" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="304" name="@Achievement:999304" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="305" name="@Achievement:999305" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="400" priority="4" name="@Achievement:999400" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="401" name="@Achievement:999401" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="404" name="@Achievement:999404" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="402" name="@Achievement:999402" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="403" name="@Achievement:999403" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="500" priority="4" name="@Achievement:999500" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="501" name="@Achievement:999501" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="502" name="@Achievement:999502" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="503" name="@Achievement:999503" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="504" name="@Achievement:999504" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+        <MainCategory id="600" priority="5" name="@Achievement:999600" isSummaryCounting="false" normalImage="normalBtn_up" overImage="normalBtn_over" pressImage="normalBtn_click" summaryId="0">
+            <SubCategory id="601" name="@Achievement:999601" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="602" name="@Achievement:999602" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="603" name="@Achievement:999603" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="604" name="@Achievement:999604" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="605" name="@Achievement:999605" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="606" name="@Achievement:999606" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="607" name="@Achievement:999607" normalImage="" overImage="" pressImage="" />
+            <SubCategory id="608" name="@Achievement:999608" normalImage="" overImage="" pressImage="" />
+        </MainCategory>
+    </CategoryInfo>
+</AchievementList>

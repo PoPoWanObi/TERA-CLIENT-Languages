@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="5">In den unteren Ebenen der Akademie befinden sich das Teuflische Labor und die Katakomben der Hexenkönigin.&lt;BR&gt;&lt;BR&gt;Ich habe mich mithilfe meiner Magie dort unten umgesehen und sah, dass es da von Dämonen wimmelt. Aus diesem Grund brauchen wir Eure Stärke.&lt;BR&gt;&lt;BR&gt;Geht in die unteren Ebenen, und findet {@LinkCreature:222#1023#Chalyn}. Sie wird wissen, was als Nächstes zu tun ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Wie läuft der Kampf auf den oberen Ebenen? Besser als hier unten, hoffe ich.&lt;BR&gt;&lt;BR&gt;Wir stehen bis zu den spitzen Hüten in Dämonen, &lt;PCNAME&gt;. Unsere Probleme scheinen für Ihresgleichen etwas zu profan zu sein, aber Dämonen werden gern von jenen genutzt, die nach einem schnellen Weg zur Macht streben. Was immer sie auch vorhaben, wir müssen sie aufhalten.</Page>
+    </Text>
+</QuestDialog>

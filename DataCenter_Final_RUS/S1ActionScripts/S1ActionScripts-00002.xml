@@ -1,0 +1,182 @@
+<S1ActionScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/S1ActionScripts S1ActionScripts.xsd" xmlns="https://vezel.dev/novadrop/dc/S1ActionScripts">
+    <Script id="101500" enableInput="true" playingTime="8000">
+        <Action time="0" type="PostProcess" on="true" postprocessSet="12">
+            <Action time="0" type="PostProcessMaterial" duration="500" from="0" param="Strength" to="0.9" postprocessSet="12" />
+            <Action time="500" type="PostProcessMaterial" duration="2000" from="0.9" param="Strength" to="0.9" postprocessSet="12" />
+            <Action time="2500" type="PostProcessMaterial" duration="4500" from="0.9" param="Strength" to="0" postprocessSet="12" />
+        </Action>
+        <Action type="PostProcess" isFinal="true" on="false" postprocessSet="12" />
+    </Script>
+    <Script id="101503" enableInput="true" isOnlyPlayerTarget="true" isStopActionEnd="true" playingTime="6000">
+        <Action time="0" type="PostProcess" on="true" postprocessSet="14">
+            <Action time="200" type="PostProcessMaterial" duration="700" from="0.05" param="Phase" to="0.15" postprocessSet="14" />
+            <Action time="700" type="PostProcessMaterial" duration="1500" from="0.15" param="Phase" to="0.5" postprocessSet="14" />
+            <Action time="2200" type="PostProcessMaterial" duration="3400" from="0.5" param="Phase" to="1" postprocessSet="14" />
+        </Action>
+        <Action type="PostProcess" isFinal="true" on="false" postprocessSet="14" />
+    </Script>
+    <Script id="101504" enableInput="true" playingTime="1500">
+        <Action time="0" type="PostProcess" on="true" postprocessSet="14">
+            <Action time="0" type="PostProcessMaterial" duration="500" from="0.05" param="Phase" to="0.15" postprocessSet="14" />
+            <Action time="500" type="PostProcessMaterial" duration="1000" from="0.15" param="Phase" to="0.5" postprocessSet="14" />
+        </Action>
+        <Action type="PostProcess" isFinal="true" on="false" postprocessSet="14" />
+    </Script>
+    <Script id="101505" enableInput="true" playingTime="200">
+        <Action time="0" type="PostProcess" on="true" postprocessSet="14">
+            <Action time="0" type="PostProcessMaterial" duration="200" from="0.15" param="Phase" to="0.5" postprocessSet="14" />
+        </Action>
+        <Action type="PostProcess" isFinal="true" on="false" postprocessSet="14" />
+    </Script>
+    <Script id="101510" enableInput="true" playingTime="5000">
+        <Action time="0" type="shortcut_blink" skillId="20100" blink="true" />
+        <Action time="0" type="shortcut_blink" skillId="50100" blink="true" />
+        <Action time="0" type="shortcut_blink" skillId="130100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="20100" blink="false" />
+        <Action time="5000" type="shortcut_blink" skillId="50100" blink="false" />
+        <Action time="5000" type="shortcut_blink" skillId="130100" blink="false" />
+        <Action type="shortcut_blink" skillId="20100" blink="false" isFinal="true" />
+        <Action type="shortcut_blink" skillId="50100" blink="false" isFinal="true" />
+        <Action type="shortcut_blink" skillId="130100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="101511" enableInput="true" playingTime="8000">
+        <Action time="0" type="shortcut_blink" skillId="400100" blink="true" />
+        <Action time="8000" type="shortcut_blink" skillId="400100" blink="false" />
+        <Action type="shortcut_blink" skillId="400100" blink="false" isFinal="true" />
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="101510" keyTextId="101510" on="true" xPadTextId="101510" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="8000" type="tutorialMessage" complete="true" dPadTextId="101510" keyTextId="101510" on="false" xPadTextId="101510" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="101510" isFinal="true" keyTextId="101510" on="false" xPadTextId="101510" />
+    </Script>
+    <Script id="101512" enableInput="true" playingTime="5000">
+        <Action time="0" type="shortcut_blink" skillId="30100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="30100" blink="false" />
+        <Action type="shortcut_blink" skillId="30100" blink="false" isFinal="true" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+    </Script>
+    <Script id="101513" enableInput="true" playingTime="0">
+        <Action time="0" type="shortcut_blink" skillId="30100" blink="true" />
+        <Action time="0" type="shortcut_blink" skillId="30100" blink="false" />
+        <Action type="shortcut_blink" skillId="30100" blink="false" isFinal="true" />
+        <Action time="0" type="shortcut_blink" skillId="400100" blink="true" />
+        <Action time="0" type="shortcut_blink" skillId="400100" blink="false" />
+        <Action type="shortcut_blink" skillId="400100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="101515" enableInput="true" playingTime="15000">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="101511" keyTextId="101511" on="true" xPadTextId="101511" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="15000" type="tutorialMessage" complete="true" dPadTextId="101511" keyTextId="101511" on="false" xPadTextId="101511" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="101511" isFinal="true" keyTextId="101511" on="false" xPadTextId="101511" />
+    </Script>
+    <Script id="101516" enableInput="true" playingTime="5000">
+        <Action time="0" type="shortcut_blink" skillId="400100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="400100" blink="false" />
+        <Action type="shortcut_blink" skillId="400100" blink="false" isFinal="true" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+    </Script>
+    <Script id="870001" enableInput="false" playingTime="7000">
+        <Action time="0" type="showUI" name="Inventory" on="true" />
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40002" keyTextId="40000" on="true" xPadTextId="40001" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="7000" type="tutorialMessage" complete="true" dPadTextId="40002" keyTextId="40000" on="false" xPadTextId="40001" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="40002" isFinal="true" keyTextId="40000" on="false" xPadTextId="40001" />
+    </Script>
+    <Script id="870002" enableInput="true" playingTime="0">
+        <Action time="0" type="showUI" name="Inventory" on="true" />
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="30042" keyTextId="30040" on="true" xPadTextId="30041" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="7000" type="tutorialMessage" complete="true" dPadTextId="30042" keyTextId="30040" on="false" xPadTextId="30041" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="30042" isFinal="true" keyTextId="30040" on="false" xPadTextId="30041" />
+    </Script>
+    <Script id="870003" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40100" keyTextId="40100" on="true" xPadTextId="40100" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40100" keyTextId="40100" on="false" xPadTextId="40100" />
+        <Action time="2000" type="shortcut_blink" skillId="50100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="50100" blink="false" />
+        <Action type="shortcut_blink" skillId="50100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870004" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40101" keyTextId="40101" on="true" xPadTextId="40101" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40101" keyTextId="40101" on="false" xPadTextId="40101" />
+        <Action time="2000" type="shortcut_blink" skillId="100100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="100100" blink="false" />
+        <Action type="shortcut_blink" skillId="100100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870005" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40102" keyTextId="40102" on="true" xPadTextId="40102" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40102" keyTextId="40102" on="false" xPadTextId="40102" />
+        <Action time="2000" type="shortcut_blink" skillId="80100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="80100" blink="false" />
+        <Action type="shortcut_blink" skillId="80100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870006" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40103" keyTextId="40103" on="true" xPadTextId="40103" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40103" keyTextId="40103" on="false" xPadTextId="40103" />
+        <Action time="2000" type="shortcut_blink" skillId="40100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="40100" blink="false" />
+        <Action type="shortcut_blink" skillId="40100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870007" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40104" keyTextId="40104" on="true" xPadTextId="40104" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40104" keyTextId="40104" on="false" xPadTextId="40104" />
+        <Action time="2000" type="shortcut_blink" skillId="200100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="200100" blink="false" />
+        <Action type="shortcut_blink" skillId="200100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870008" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40105" keyTextId="40105" on="true" xPadTextId="40105" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40105" keyTextId="40105" on="false" xPadTextId="40105" />
+        <Action time="2000" type="shortcut_blink" skillId="60100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="60100" blink="false" />
+        <Action type="shortcut_blink" skillId="60100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870009" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40106" keyTextId="40106" on="true" xPadTextId="40106" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40106" keyTextId="40106" on="false" xPadTextId="40106" />
+        <Action time="2000" type="shortcut_blink" skillId="120100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="120100" blink="false" />
+        <Action type="shortcut_blink" skillId="120100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870010" enableInput="true" playingTime="0">
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40107" keyTextId="40107" on="true" xPadTextId="40107" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40107" keyTextId="40107" on="false" xPadTextId="40107" />
+        <Action time="2000" type="shortcut_blink" skillId="90100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="90100" blink="false" />
+        <Action type="shortcut_blink" skillId="90100" blink="false" isFinal="true" />
+    </Script>
+    <Script id="870011" enableInput="true" playingTime="10000">
+        <Action time="1200" type="shortcut_blink" skillId="150100" blink="true" />
+        <Action time="3200" type="shortcut_blink" skillId="150100" blink="false" />
+        <Action type="shortcut_blink" skillId="150100" blink="false" isFinal="true" />
+        <Action time="1200" type="tutorialMessage" complete="true" dPadTextId="40200" keyTextId="40200" on="true" xPadTextId="40200" />
+        <Action time="1200" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="3200" type="tutorialMessage" complete="true" dPadTextId="40200" keyTextId="40200" on="false" xPadTextId="40200" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="40200" isFinal="true" keyTextId="40200" on="false" xPadTextId="40200" />
+    </Script>
+    <Script id="870012" enableInput="true" playingTime="10000">
+        <Action time="0" type="shortcut_blink" skillId="80100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="80100" blink="false" />
+        <Action type="shortcut_blink" skillId="80100" blink="false" isFinal="true" />
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40300" keyTextId="40300" on="true" xPadTextId="40300" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40300" keyTextId="40300" on="false" xPadTextId="40300" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="40300" isFinal="true" keyTextId="40300" on="false" xPadTextId="40300" />
+    </Script>
+    <Script id="870013" enableInput="true" playingTime="10000">
+        <Action time="0" type="shortcut_blink" skillId="200100" blink="true" />
+        <Action time="5000" type="shortcut_blink" skillId="200100" blink="false" />
+        <Action type="shortcut_blink" skillId="200100" blink="false" isFinal="true" />
+        <Action time="0" type="tutorialMessage" complete="true" dPadTextId="40400" keyTextId="40400" on="true" xPadTextId="40400" />
+        <Action time="0" type="Sound" radius="1" volume="4.5" pitch="2.2" cueName="InterfaceSound.SYSMSGCUE.SYSMSG_2088Cue" />
+        <Action time="5000" type="tutorialMessage" complete="true" dPadTextId="40400" keyTextId="40400" on="false" xPadTextId="40400" />
+        <Action type="tutorialMessage" complete="true" dPadTextId="40400" isFinal="true" keyTextId="40400" on="false" xPadTextId="40400" />
+    </Script>
+</S1ActionScripts>

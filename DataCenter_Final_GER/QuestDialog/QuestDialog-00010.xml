@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">Ich weiß ja, dass Ihr versprochen habt, mit mir zu spielen, aber mein Vater braucht Hilfe mit unseren Ferkeln.&lt;BR&gt;Sie laufen immer weg ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="4">Er ist ein guter Junge, nicht wahr? &lt;BR&gt;&lt;BR&gt;Wir hatten ein paar zahme Ferkel, aber sie sind weggerannt, als die Feen verrückt wurden. &lt;BR&gt;&lt;BR&gt;Wenn Ihr Euch nützlich machen wollt, nehmt diese Pheromonpfeile, mit denen Ihr Ferkel anlocken und hierher zurückholen könnt.&lt;BR&gt;&lt;BR&gt;Verschafft Euch erst ihre Aufmerksamkeit und benutzt dann die Pfeile.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2" villagerId="27">
+        <Page social="0">(Bringt Ferkel zu Maon.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="4">Habt vielen Dank. Es sind zwar noch immer nicht viele, aber immerhin ist es ein Anfang. Ich hoffe, Ihr könnt noch ein wenig länger helfen.</Page>
+    </Text>
+</QuestDialog>

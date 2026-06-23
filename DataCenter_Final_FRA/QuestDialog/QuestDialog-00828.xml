@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1001">
+        <Page social="5">Notre village est bien calme, aujourd'hui... c'est d'une tristesse. D'ordinaire, notre meilleur conteur est toujours là pour nous régaler de ses histoires incroyables, mais il reste introuvable.&lt;BR&gt;&lt;BR&gt;Vous avez déjà entendu parler de Porun?&amp;nbsp; S'il a choisi de nous fuir, ça signifie peut-être qu'il a un problème. Tout le monde vous serait reconnaissant si vous acceptiez de vous mettre à sa recherche.&lt;BR&gt;&lt;BR&gt;Il lui arrive de se rendre au Camp du Carrefour. C'est là-bas que vous devriez entamer vos recherches.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1026">
+        <Page social="5">Le chant de la nature est particulièrement mélodieux, dans le coin. On dit que la vie elle-même est née dans le Bassin béni, et que les personnes sensibles peuvent y percevoir des bribes du rêve de Shara.&lt;BR&gt;&lt;BR&gt;Bien sûr, en ville, sensible ou pas, l'agitation générale et la pléthore de touristes qui nous envahit empêche de percevoir quoi que ce soit. En ce moment, j'essaye de résoudre un mystère, mais les bois sont trop dangereux pour moi.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Si je parvenais à mieux cerner l'essence de cette région, ma muse reviendrait certainement m'inspirer. Un jour, j'ai découvert par hasard une vieille pierre tombale. Elle portait une inscription, mais je n'ai pas pris le temps de la lire.&lt;BR&gt;&lt;BR&gt;Si vous parveniez à la retrouver, à lire le message et à suivre cette piste avant de me rapporter vos découvertes, je retrouverais peut-être l'inspiration.&lt;BR&gt;&lt;BR&gt;Allez parler à {@LinkCreature:226#1006#Narden}. Il sait où se trouve la tombe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" prevId="3" villagerId="1006">
+        <Page social="5">Porun a perdu l'inspiration?&amp;nbsp; Quel dommage. Alors, que puis-je pour vous?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ah, je crois qu'il parle de la {@LinkCreature:226#1018#pierre tombale du garde forestier}. Toutefois, j'ignore ce qu'il pourra en apprendre de beau. Enfin... allez voir ça par vous-même.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="226" prevId="4" villagerId="1018">
+        <Page social="5">(L'inscription dit&amp;nbsp;: "La vérité n'apparaît qu'à ceux qui renoncent à toute idée préconçue.")</Page>
+    </Text>
+    <Text id="6" huntingZoneId="226" prevId="5" villagerId="1026">
+        <Page social="5">Vous l'avez trouvée?&amp;nbsp; Qu'est-ce que ça disait?&amp;nbsp; Oh, ça m'en donne des frissons!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Intéressant!&amp;nbsp; Cette pierre est restée là des années, dans l'attente que quelqu'un comme vous vienne y chercher une vérité. C'est tout à la fois émouvant et extrêmement "romantique", dans l'idée. Je sens l'inspiration revenir!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Vous avez ranimé la flamme qui m'habitait. Je vais immédiatement me remettre au travail.</Page>
+    </Text>
+</QuestDialog>

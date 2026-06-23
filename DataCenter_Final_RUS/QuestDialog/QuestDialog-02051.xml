@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Может быть, у тебя есть настроение поработать? Пожалуйста, соглашайся!&lt;BR&gt;&lt;BR&gt;Замечательно! Дело в том, что сегодня у меня выходной. Ну, не официально. На самом деле... я сказала {@LinkCreature:63#3003#Элтиэнн}, что приболела, так что наверняка ей понадобятся твои ремесленные умения.&lt;BR&gt;&lt;BR&gt;Вот видишь? И ты, и я в выигрыше!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Рада тебя видеть!&lt;BR&gt;&lt;BR&gt;Таратия заболела, а Бариану нужен кто-то, кто займется для него работой. На самом деле, я уверена, что ему больше понравится работать с тобой. А день, когда Таратия не будет мне докучать, - все равно что выходной. Закончив работу, отнеси результат {@LinkCreature:63#3001#Бариану}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Великолепная работа, как обычно.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Таратия} с тобой расплатится. Я слышал, что она уже окрепла настолько, чтобы выдавать деньги.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Сделай линстальные слитки и принеси мне.&lt;BR&gt;&lt;BR&gt;Кстати, может быть, ты хочешь вступить в Длань Велики? Я тебя уже спрашивал? Не хочешь?&lt;BR&gt;&lt;BR&gt;Что ж, понимаю, у воинов много дел...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3001">
+        <Page social="5">Спасибо, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Поговори с {@LinkCreature:63#3002#Таратией} об оплате. Вроде бы, выдавать деньги у нее уже хватает сил.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Сделай немного аэросилекса и принеси мне. Для умелого мастерового это не составит никакого труда.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3001">
+        <Page social="5">Как быстро, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Скажи {@LinkCreature:63#3002#Таратии}, что по моему мнению ты заслуживаешь премии... особенно раз уж она сегодня прогуливает.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Сделай немного босккожи и принеси мне, когда закончишь. Она нужна мне для доспехов, над которыми я работаю.&lt;BR&gt;&lt;BR&gt; Элтиэнн собирается отправить кого-то из Длани Велики на опасное задание. Мы должны убедиться, что наши полевые агенты как следует защищены.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3001">
+        <Page social="5">Надеюсь, ты скоро вернешься, &lt;PCNAME&gt;. Твоя работа всегда высшего качества.&lt;BR&gt;&lt;BR&gt;Да, и передай {@LinkCreature:63#3002#Таратии}, что она - лживая куча навоза гиены. Ну конечно же, она заболела. Мы тут все могли бы взять выходной по душевному здоровью.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Изготовь немного ткани из сильвы и принеси мне.&lt;BR&gt;&lt;BR&gt;Спасибо за работу, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3002">
+        <Page social="4">Отличная работа! Ты определенно стоишь того, что я тебе плачу.&lt;BR&gt;&lt;BR&gt;Думаю, мне нужно быть поосторожнее с отгулами по болезни. Так у меня не останется работы!</Page>
+    </Text>
+</QuestDialog>

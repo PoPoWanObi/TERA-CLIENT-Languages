@@ -1,0 +1,19 @@
+<AttachEffectCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AttachEffectCondition AttachEffectCondition.xsd" xmlns="https://vezel.dev/novadrop/dc/AttachEffectCondition">
+    <EffectCondition id="0" name="NPC_ALIVE_START" overlap="true" />
+    <EffectCondition id="1" name="NPC_ALIVE_ON" overlap="true" />
+    <EffectCondition id="10" name="NPC_ANGRY_START" overlap="true" />
+    <EffectCondition id="11" name="NPC_ANGRY_ON" overlap="true" />
+    <EffectCondition id="12" name="NPC_ANGRY_OFF" overlap="true" />
+    <EffectCondition id="20" name="USER_AGGRO_START" overlap="true" />
+    <EffectCondition id="21" name="USER_AGGRO_ON" overlap="true" />
+    <EffectCondition id="22" name="USER_AGGRO_OFF" overlap="true" />
+    <EffectCondition id="30" name="USER_SHORTTERN_AGGRO_START" overlap="true" />
+    <EffectCondition id="31" name="USER_SHORTTERN_AGGRO_ON" overlap="true" />
+    <EffectCondition id="32" name="USER_SHORTTERN_AGGRO_OFF" overlap="true" />
+    <EffectCondition id="40" name="NPC_DEATH_START" overlap="true" />
+    <EffectCondition id="51" name="USER_PK_ON" overlap="true" />
+    <EffectCondition id="52" name="USER_PK_OFF" overlap="true" />
+    <EffectCondition id="70" name="USER_CURSE_START" />
+    <EffectCondition id="71" name="USER_CURSE_ON" />
+    <EffectCondition id="72" name="USER_CURSE_OFF" />
+</AttachEffectCondition>

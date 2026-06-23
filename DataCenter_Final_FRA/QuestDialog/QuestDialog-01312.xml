@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Nous avons perdu une grande cargaison d'emblèmes en or récemment et je soupçonne les Griffes noires d'en être responsables. Mais ça pourrait aussi bien être des animaux sauvages… alors ouvrez l'œil.&lt;BR&gt;&lt;BR&gt;Tuez des {@LinkCreature:41#3002#cullars en vadrouille}, des {@LinkCreature:41#3003#cullars rapaces} et des {@LinkCreature:41#2004#combattants} et {@LinkCreature:41#2005#pillards Griffe noire} dans le nord de la Vallée sauvage.&lt;BR&gt;&lt;BR&gt;Vous pourrez remettre les insignes à Jeulile, à la Station de la Vallée sauvage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">Nous sommes un peu plus en sécurité à présent et vous avez récupéré ce qu'il faut pour nous permettre de transformer cette région. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">Nous avons besoin de ces emblèmes, &lt;PCNAME&gt;. Il faut davantage que des espoirs pour bâtir un avenir.</Page>
+    </Text>
+</QuestDialog>

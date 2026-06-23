@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1023">
+        <Page social="5">Тулса ничего не оставляет на волю случая. Агенты Мистериума обнаружили его элитные войска - легион Брогара.&lt;BR&gt;&lt;BR&gt;Давай познакомимся с ними поближе. Их нужно устранить, особое внимание удели {@LinkCreature:27#13#Стражникам Тулсы}, {@LinkCreature:27#14#Колдунам Тулсы} и {@LinkCreature:27#15#Последователям Тулсы}. Если получится от них избавиться, мы сможем вернуть крепость.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1023">
+        <Page social="5">Твои умения впечатлили нас. Твой вклад в эту битву неоценим.&lt;BR&gt;&lt;BR&gt;Остается вопрос, зачем Тулса убрал с фронта свой легион, который внушал всем наибольший страх. Была ли данная крепость настолько важной для его планов? Слишком много вопросов, на которые пока нет ответа. Всему свое время.&lt;BR&gt;&lt;BR&gt;На этом пока все, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="5">Тебе здесь нравится? Мне вот очень. Я бы хотел остаться здесь навсегда!&lt;BR&gt;&lt;BR&gt;О, тебе нужна работа? Ладно, раз так, убей парочку {@LinkCreature:36#8#Тенебрара-силачей}, {@LinkCreature:36#9#Ассасинов} и {@LinkCreature:36#10#Жрецов}. Дело полезное.&lt;BR&gt;&lt;BR&gt;Когда закончишь, поговори с Вирнной в Тор-Эксул.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1005">
+        <Page social="5">Отличная работа. Вот твоя награда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1005">
+        <Page social="0">Первым делом тебе нужно убить еще несколько врагов.</Page>
+    </Text>
+</QuestDialog>

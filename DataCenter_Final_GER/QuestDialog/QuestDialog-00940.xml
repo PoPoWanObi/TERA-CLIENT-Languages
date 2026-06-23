@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">Die uralte Magie des Gottes Balder hat das {@Rgn:30008$$Unterarchiv} lange beschützt, aber jetzt scheint sie abzuklingen. &lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:30#190#Messinghofwärter} im Tempel sind ein gutes Beispiel. Ursprünglich sollten sie den Tempelgarten instand halten und Monster abwehren. &lt;BR&gt;&lt;BR&gt;Jetzt sind sie selbst zu Monstern geworden und bekämpfen alles Lebendige.&lt;BR&gt;&lt;BR&gt;Im Interesse aller müssen die {@LinkCreature:30#190$$Messinghofwärter} ausgemerzt werden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1020">
+        <Page social="1">Ich bin ein wenig traurig. Die Messinghofwärter waren für Balder und seinen Garten treue Wächter, aber jetzt nehmen wir sie ohne Skrupel auseinander.&lt;BR&gt;&lt;BR&gt;Ich weiß, ich weiß. Ich habe Euch dazu angespornt. Aber die Messinghofwärter tun mir dennoch leid.</Page>
+    </Text>
+</QuestDialog>

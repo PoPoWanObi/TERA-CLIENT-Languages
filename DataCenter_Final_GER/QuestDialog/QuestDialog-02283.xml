@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Elthienne} sucht Euch. Habt Ihr schon mit ihr gesprochen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Hey! Ich habe nach Euch gesucht.&lt;BR&gt;&lt;BR&gt;Anscheinend werden unsere Nachbarn im Süden von Sturmechsen, Vulcanus und Kumas überrannt.&lt;BR&gt;&lt;BR&gt;Ich würde ihnen ja gern helfen, aber ... Vulcanus? Kumas? Eure Fähigkeiten übertreffen die der Hände bei Weitem, individuell und möglicherweise sogar kollektiv.&lt;BR&gt;&lt;BR&gt;Kann ich Euch losschicken, um einige der Gefahren in Val Aureum zu beseitigen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Ihr seid am {@Rgn:24001#Aurumpfad} gewesen? War das eine Selbstmordmission? In diesem Fall war sie jedenfalls nicht erfolgreich.&lt;BR&gt;&lt;BR&gt;Sagt {@LinkCreature:63#3003#Elthienne}, dass sie sich mehr anstrengen muss, wenn sie Euch umbringen will.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Greift {@LinkCreature:24#5#Flinke Sturmechsen} am {@Rgn:24001#Aurumpfad} an und bringt mir ihre Häute.&lt;BR&gt;&lt;BR&gt;Elthienne hat nicht darum gebeten, aber ich kann mir die Gelegenheit, das Material für neue Kleidung zu erhalten, nicht entgehen lassen. Das wird ein schönes Stück!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ich hasse den {@Rgn:24001#Aurumpfad}. Was hat er denn schon zu bieten? Sengende Hitze, überall Tod und Dinge, die einen tot sehen wollen. Wenn es nach mir ginge, würden wir den Süden aufgeben.&lt;BR&gt;&lt;BR&gt;Ich habe {@LinkCreature:63#3003#Elthienne} gesagt, sie soll nicht einmal in Erwägung ziehen, mich dorthin zu schicken. Aber Euch hat sie gewiss etwas Schönes dafür versprochen, oder?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt die {@LinkCreature:24#9#Wüstenblitzkumas} am {@Rgn:24001#Aurumpfad} und bringt alles Nützliche mit zurück.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Darf ich Euch als eine Inspiration bezeichnen? Das ist mein voller Ernst!&lt;BR&gt;&lt;BR&gt;Hoffentlich schätzt Euch {@LinkCreature:63#3003#Elthienne} ebenso wie ich. Sucht sie auf und findet es heraus.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt {@LinkCreature:24#12#Begierige Vulcanus} am {@Rgn:24001#Aurumpfad} und bringt alles Nützliche mit zurück ... und nützlich ist für uns fast alles.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Oh, {@LinkCreature:63#3003#Elthienne}! Seht mal, wer wieder da ist!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Jagt {@LinkCreature:24#62#Lechzende Vulcanus} am {@Rgn:24001#Aurumpfad} und steckt alles ein, was Ihr an Gegenständen bei ihnen findet.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Taratia sieht zufrieden aus. Ihr müsst bei den Leichen der Feinde am Aurumpfad einige schöne Dinge gefunden haben. Eure Findigkeit kennt wohl keine Grenzen.</Page>
+    </Text>
+</QuestDialog>

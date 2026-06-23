@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1031">
+        <Page social="0">Quête d'arme avatar</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1031">
+        <Page social="0">La rumeur veut que Roson, la braconnière de Crescentia, ait récemment découvert une relique ancestrale aux pouvoirs magiques.&lt;BR&gt;&lt;BR&gt;Mais personne n'en dit plus que cela. Qu'est-ce que c'est que ces manières?&amp;nbsp; On ne balance pas des formules comme "relique magique" si on n'a pas l'intention de donner plus d'informations!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;J'ai une idée&amp;nbsp;: allez chercher les informations à la source pour moi. Parlez à Roson et demandez-lui de quoi il en retourne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1031">
+        <Page social="0">Comment?&amp;nbsp; Ils prétendent que j'ai une relique?&amp;nbsp; C'est ridicule!&amp;nbsp; Voilà l'occasion d'apprendre une bonne leçon&amp;nbsp;: les gens jacassent avant même de connaître le fin mot de l'histoire et ils répètent tout avant même de disposer de toutes les informations.&lt;BR&gt;&lt;BR&gt;Ce que je peux offrir, c'est une zone approximative dans laquelle on trouve des fragments de relique. Un fragment seul ne sert pas à grand-chose, il vous faut en ramasser un paquet.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mais... les ramasser pour quoi faire?&amp;nbsp;&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'ai récemment découvert une légende ancienne sur les dieux et leurs reliques.&lt;BR&gt;&lt;BR&gt;En ramassant assez de fragments pour reconstituer une relique complète, alors on peut créer une arme fabuleuse et avoir la puissance des dieux!&amp;nbsp; Une arme avatar.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Ça sonne... faux.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je sais!&amp;nbsp; Mais c'est ce que mes études suggèrent. C'est la raison pour laquelle je suis en quête de reliques&amp;nbsp;: j'ai besoin de vérifier cette théorie pour voir si elle et vraie.&lt;BR&gt;&lt;BR&gt;Sauf que j'ai du mal à mettre la main sur les reliques. Je n'ai jamais été très habile au combat et on les trouve avant tout sur des monstres attirés par l'énergie qui émane des reliques. Je suis meilleure dans mes recherches.&lt;BR&gt;&lt;BR&gt;Mais vous... vous êtes {@gender:un combattant aguerri/une combattante aguerrie}, non?&amp;nbsp; Peut-être que vous pourriez... vous savez bien. Puis revenir me montrer ce que vous aurez trouvé?&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1031">
+        <Page social="0">Vous l'avez trouvé?&amp;nbsp; C'est vrai?&amp;nbsp; &lt;BR&gt;&lt;BR&gt;Et si ma théorie était correcte?&amp;nbsp; Je dois savoir!&amp;nbsp; &lt;NEXTPAGEBUTTON&gt;&amp;quot;Regardez cela.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mon dieu... c'est incroyable!&amp;nbsp; Quel formidable espadon... une véritable arme d'aventurier!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Et vous avez validé mes recherches!&amp;nbsp; Merci. &lt;BR&gt;&lt;BR&gt;Pourquoi ne garderiez-vous pas cet espadon en contrepartie?&amp;nbsp; Je pense qu'il vous servira bien plus qu'à moi.&lt;BR&gt;&lt;BR&gt;Il paraîtrait qu'il y a encore plus de reliques disséminées sur tout le continent. Je présume que vous n'aurez aucun mal à toutes les retrouver. Continuez à chercher et bonne chance dans vos expéditions futures!&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" villagerId="1031">
+        <Page social="0">Oh non, vous n'en avez pas trouvé?&amp;nbsp; Ma théorie était-elle donc fausse?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je vous en prie, continuez à chercher!&amp;nbsp; J'ai tellement envie de trouver une preuve de ce que j'avance.</Page>
+    </Text>
+</QuestDialog>

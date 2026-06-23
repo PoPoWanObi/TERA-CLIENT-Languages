@@ -1,0 +1,92 @@
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
+    <String string="Ваша гильдия создана." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Ваша гильдия распущена." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} вступает в гильдию." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} покидает гильдию." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} исключен(а) из гильдии." readableId="SMT_GUILDLOG_BAN" />
+    <String string="Добавлен ранг &quot;{GroupName}&quot;." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="Удален ранг &quot;{GroupName}&quot;." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} становится главой гильдии." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} получает ранг &quot;{GroupName}&quot;." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="{UserName} устанавливает налоговую ставку в области." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="Название гильдии изменено с &quot;{OldName}&quot; на &quot;{NewName}&quot;." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="Глава гильдии" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Набрать" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] получает [{Point}] очк. состязания." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} очк.{@select:{KP}///}" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} очк.{@select:{KP}///}" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} очк.{@select:{KP}///}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Битва гильдий" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Начать битву с гильдией {GuildName}?&#xA;Битва гильдий продлится {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Битва гильдий - без ставки" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="Гильдии-соперники не находятся в одной и тоже лиге. Слава за эту битву гильдий получена не будет. Вы хотите продолжить? (Битва гильдий будет продолжаться &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;.) " readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Объявить" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Отмена" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Битва гильдий идет" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="Гильдия [{Name}] победила!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="Битва окончилась вничью." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="Гильдия [{Name}] сдалась." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="Гильдия {Name} сдалась." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="Гильдия {Name} распущена." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
+    <String string="Подтверждение сдачи" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Вы хотите сдаться?&#xA;Битва с гильдией [{Opponent}] закончится, и ваш противник будет объявлен победителем." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="ОК" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Отмена" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Глава гильдии: {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Время заканчивается." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} очк.{@select:{KP}///}" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Пацифисты" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Готовы к бою" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Подтвердить изменение статуса гильдии" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Смена статуса гильдии с &quot;{OldState}&quot; на &quot;{NewState}&quot;. Гильдии &quot;{NewState}&quot; не могут участвовать в битвах гильдий." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Смена статуса гильдии с &quot;{OldState}&quot; на &quot;{NewState}&quot;. Когда вы получаете статус &quot;{NewState}&quot;, вы можете участвовать в битвах гильдий." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Изменить" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Отмена" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Ваша гильдия победила! Получено Славы: {Battlechip}!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Ваша гильдия проиграла! Потеряно Славы: {Battlechip}!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Ничья! Ваша гильдия потеряла Славы: {Battlechip}!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Гильдия {GuildName} отклонила бой. Ваша гильдия получила {Battlechip} Славы." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Ваша гильдия отклонила битву гильдий. Потеряно Славы: {Battlechip}." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Отмена! Ваша гильдия потеряла Славы: {Battlechip}!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="Битва гильдий против гильдии {GuildName} отменена по причине проблемы с системой битв гильдий." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="Битва гильдий против гильдии {GuildName} отменена: недостаточно Славы." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="Битва гильдий отменена: у гильдии {GuildName} недостаточно Славы." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="Сезон закончен. Текущие битвы гильдий отменены." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Вы хотите поставить еще &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battelchip}&lt;/FONT&gt; ед. Славы и продолжить битву гильдий с гильдией {GuildName}?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Сдавшись, вы потеряете {BattleChip} ед. Славы. Вы уверены, что хотите сдаться?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Телепортация" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="{UserName} атакован(а)! Телепортироваться к месту боя?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Информация о битве гильдий" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Можно проверить битв гильдий: {GuildWarCount}. Нажмите кнопку &quot;Подтвердить&quot;, чтобы открыть окно битв гильдий." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Поставить Славу и начать битву с другой гильдией. Ставка может быть не более, чем &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; от вашей Славы. Вы не можете начать битву гильдий, не сделав ставку, или если гильдия-соперник не сможет сделать такую же ставку." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Повысить ставку и продолжить битву гильдий. Вы можете поставить до &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; от первоначальной ставки. Если у гильдии противника есть менее чем &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150%&lt;/FONT&gt; Славы от вашей ставки, вы сможете поставить только то количество, которым обладают." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Ваша гильдия объявила битву гильдий с гильдией {Opponent}." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="Гильдия {Opponent} объявила битву гильдий вашей гильдии!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Ваша гильдия сделала дополнительную ставку в битве гильдий против гильдии {Opponent}." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="Гильдия {Opponent} сделала дополнительную ставку." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="Ожидание" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Отклонить" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Сдаться" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Отмена битвы гильдий" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Сдавшись, вы потеряете {BattleChip} ед. Славы. Вы уверены, что хотите сдаться?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Отменив, вы потеряете {Battlechip} ед. Славы. Вы уверены, что хотите отменить?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Отклонив, вы потеряете {Battlechip} ед. Славы. Вы уверены, что хотите отклонить?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Подтвердить" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Отмена" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Объявить битву гильдий" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Дополнительная ставка" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Объявить" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Ставка сделана" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Сведения" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Слава" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Гильдии с &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt;–&lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; удовлетворяющих требованиям учетных записей (игроки с персонажами уровня&lt;FONT SIZE='18' COLOR='#80E71C'&gt; 60&lt;/FONT&gt; или выше) получают по &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; ед. Славы на учетную запись каждую среду. Если в каких-то гильдиях есть персонажи 60+ уровня, Слава делится между ними. Любая гильдия, которая обладает более чем &lt;FONT SIZE='18' COLOR='#80E71C'&gt;1&lt;/FONT&gt; ед. Славы, может принять участие в битве гильдий в качестве как объявляющей битву стороны, так и стороны, которую вызывают на битву. Славу могут ставить только гильдии, которые находятся в одной лиге (Лига претендентов или Лига головорезов)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="Объявление битвы гильдий" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Выберите пункт &quot;Объявить битву гильдий&quot; ниже, после чего введите название гильдии, с которой вы хотите сразиться. (Вы также можете щелкнуть по игроку из этой гильдии и объявить битву гильдий из меню, или же объявить битву гильдий при помощи вкладки гильдий в игровом интерфейсе). Если другая гильдия вызывает вас на битву, вы можете согласиться, сделать дополнительную ставку или отклонить предложение. (Если вы не дадите ответ в течение &lt;FONT SIZE='18' COLOR='#80E71C'&gt;24&lt;/FONT&gt; часов, будет считаться, что вы отклонили вызов и с вашего счета спишется определенное количество Славы.) Только член гильдии с разрешением на управление битвами гильдий может объявить битву гильдий, сделать ставку или использовать описанные выше функции." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Победа в битве гильдий" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="Побеждает гильдия, которая первой убьет противников &lt;FONT SIZE='18' COLOR='#80E71C'&gt;500&lt;/FONT&gt; раз в течение 24 часов. Если ни одна из гильдий не смогла убить &lt;FONT SIZE='18' COLOR='#80E71C'&gt;500&lt;/FONT&gt; противников, побеждает гильдия с большим числом побед. Если число побед одинаково у двух гильдий или же число убийств у двух гильдий меньше &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, битва гильдий заканчивается ничьей и обе гильдии теряют Славу." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Ранг" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="Заработанная во время битв гильдий Слава добавляется к боевому рейтингу битв гильдий в конце каждого сезона (только лига головорезов). В рейтинге участвуют только гильдии, проведшие за сезон (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 недели&lt;/FONT&gt;) как минимум &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; боев гильдий." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
+</StrSheet_Guild>

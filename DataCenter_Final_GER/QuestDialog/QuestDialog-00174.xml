@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0">Die Tuwangi sind unerträglich nervtötend und aufsässig.&lt;BR&gt;&lt;BR&gt;Ihr müsst die {@LinkCreature:5#1#Tuwangiaufseher}, {@LinkCreature:5#2#Tuwangihelfer} und {@LinkCreature:5#3#Tuwangiarbeiter} in der Baboksenke töten.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Gara im Moor, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1010">
+        <Page social="5">Seht gut! Ich sehe es gern, wenn die Zahlen nach oben klettern!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1010">
+        <Page social="0">Ihr wisst doch, dass Ihr hier Sachen abgebt und nicht abholt, ja?&lt;BR&gt;&lt;BR&gt;Nein, nur so. Nein, kein besonderer Grund. Ich wollte nur etwas sagen.</Page>
+    </Text>
+</QuestDialog>

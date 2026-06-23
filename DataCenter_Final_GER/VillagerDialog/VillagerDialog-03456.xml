@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="225" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="10">
+        <Page social="4">Ich kenne Elion schon eine ganze Weile. Wenn Ihr die Kultisten sucht, kann ich Euch helfen.&lt;BR&gt;&lt;BR&gt;(Dies ist eine Instanz für 3 Spieler ab Stufe 37.)</Page>
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="18">
+        <Page social="7">Über das Teleportal gelangt man zur Zuflucht der Kultisten. Sagt Bescheid, wenn Ihr bereit seid. &lt;BR&gt;&lt;BR&gt;&lt;TEXTBUTTON&gt;Zuflucht der Kultisten&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Zuflucht der Kultisten betreten&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

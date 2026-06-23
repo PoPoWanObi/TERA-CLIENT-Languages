@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1019">
+        <Page social="5">Мне больно говорить это, но я хочу попросить у тебя об ужасной услуге.&lt;BR&gt;&lt;BR&gt;Мне нужны сердца {@LinkCreature:29#2031#Арахненов-лозорезов}. Обычно я воздерживаюсь от убийств, но, если на арахненов оказали воздействие, то следы этого должны остаться в их крови.&lt;BR&gt;&lt;BR&gt;Старайся убивать их быстро и безболезненно и принеси мне сердца.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1019">
+        <Page social="5">Уверяю тебя, это было необходимо. Мои исследования займут некоторое время, но вряд ли мне понадобятся новые образцы.&lt;BR&gt;&lt;BR&gt;Расширение Валькионской Федерации требует жертв. Мы ровняем с землей горы, вырубаем леса, насыщаем мир магической энергией. Последствия есть всегда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1019">
+        <Page social="0">Смерть арахненов уравновесит сохранение других жизней. Мое требование - не пустой каприз. Прошу тебя, принеси мне сердца.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="5">Ich habe gehört, dass Ihr zur Nebelmoorinsel unterwegs seid. Diese verdammten Sklavenhändler! Ich konnte fliehen, aber sie haben meinen Bruder gefangen genommen. Ich muss ihn retten, bevor sie ihn zum Sklavenmarkt bringen und verkaufen! Als sie ihn weggeschleppt haben, hat er nach mir gerufen.&lt;NEXTPAGEBUTTON&gt;"Wo haben sie ihn hingebracht?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Sie sind gen Osten gegangen. Der Markt wird Regenkäfige genannt. Mehr weiß ich nicht. Bitte, ich flehe Euch an! Bringt meinen Bruder zurück!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1012">
+        <Page social="4">Wer seid Ihr? Seid Ihr etwa {@gender:Soldat/Soldatin}? Habt Ihr zufällig meinen Bruder Zebulon gesehen?&lt;BR&gt;&lt;BR&gt;Er ist am Leben? Jetzt bin ich aber erleichtert.&lt;BR&gt;&lt;BR&gt;Ich brauche einen Schlüssel, um hier rauszukommen. Versucht doch, einem der {@LinkCreature:12#16#Sklavenhüter} einen Schlüssel abzunehmen. Ich weiß nicht, welchen ich brauche, also bringt mir lieber ein paar zur Auswahl mit.&lt;BR&gt;&lt;BR&gt;Ich werde mich hier verstecken. Bitte, bleibt am Leben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1012">
+        <Page social="4">Es tut so gut, wieder frei zu sein! Sagt unserer Mutter, dass wir in Sicherheit sind, ja?&lt;BR&gt;&lt;BR&gt;Und dann rate ich Euch noch etwas: Ihr erspart Euch eine Menge Drama, wenn Ihr meiner Mutter sagt, dass wir versprochen haben, nichts mehr mit Dirken zu tun zu haben. Ich denke, es ist seine Schuld, dass wir versagt haben!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1012">
+        <Page social="0">Beeilt Euch, &lt;PCCLASS&gt;! Wenn Euch die Sklavenhändler erwischen, dann sperren sie Euch auch ein!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1023">
+        <Page social="4">Sie sind am Leben? Alle beide? Oh, den Titanen sei Dank!&lt;BR&gt;&lt;BR&gt;Aber wehe ihnen, wenn die Jungs nach Hause kommen ... Wie können sie es wagen, mir so einen Schrecken einzujagen?! Und dann geben sie sich auch noch mit solchen Gestalten wie diesem Dirken ab? Haben sie denn gar nicht gehört, was ich ihnen immer gepredigt habe?&lt;BR&gt;&lt;BR&gt;Wenn sie doch nur mehr wären wie Ihr, &lt;PCNAME&gt;. Ihr seid das perfekte Beispiel von jemandem, der auf die Weisheit seiner Eltern gehört hat.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1018">
+        <Page social="4">Ihr habt Kaias Schwert durch Eure Taten und Euer Beispiel alle Ehre gemacht. Überdies habt Ihr diesen Ort mit entschlossener Hingabe geehrt.&lt;BR&gt;&lt;BR&gt;Ihr seid {@gender:ein/eine} {@gender:unvergleichlicher/unvergleichliche} &lt;PCCLASS&gt; in unseren Reihen. Euch gebührt unsere Anerkennung.&lt;BR&gt;&lt;BR&gt;Geht hin, &lt;PCNAME&gt;, und wisset, dass Ihr immer einen Platz im Regiment haben werdet.</Page>
+    </Text>
+</QuestDialog>

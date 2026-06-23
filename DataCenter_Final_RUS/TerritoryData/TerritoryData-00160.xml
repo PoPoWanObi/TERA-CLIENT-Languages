@@ -1,0 +1,52 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="423" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="42300001" desc="몬스터">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="68290.5391,-51550.0781,-1932.4664" />
+                <Fence pos="67620.2500,-51597.6094,-1932.5406" />
+                <Fence pos="67644.7109,-51954.1797,-1932.5468" />
+                <Fence pos="68295.5391,-51937.4258,-1932.5770" />
+            </Territory>
+            <Territory>
+                <Fence pos="68053.9609,-51369.4258,-1932.4338" />
+                <Fence pos="67771.1406,-51366.9297,-1932.4325" />
+                <Fence pos="67804.4766,-51514.9297,-1932.4161" />
+                <Fence pos="68009.6875,-51503.8203,-1932.4177" />
+                <Npc dir="265" npcTemplateId="6003">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="68313.9297,-53241.8828,-1932.6702" />
+                <Fence pos="68334.9141,-52935.6055,-1932.6528" />
+                <Fence pos="68173.5391,-52940.3203,-1932.6221" />
+                <Fence pos="68170.7734,-53216.3984,-1932.6320" />
+            </Territory>
+            <Territory>
+                <Fence pos="68062.6016,-52042.4805,-1932.5544" />
+                <Fence pos="68070.1250,-52209.7422,-1932.5240" />
+                <Fence pos="68233.6875,-52199.1641,-1932.5349" />
+                <Fence pos="68250.6016,-52047.3242,-1932.5587" />
+            </Territory>
+            <Territory>
+                <Fence pos="67566.6016,-52045.9102,-1932.5940" />
+                <Fence pos="67629.4922,-52218.9531,-1932.5443" />
+                <Fence pos="67811.7578,-52206.4805,-1932.5375" />
+                <Fence pos="67835.1875,-52048.1680,-1932.5859" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="42300002" desc="빌리저">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="67954.2109,-51325.1680,-1932.3748" />
+                <Fence pos="68005.8438,-51272.4180,-1932.3701" />
+                <Fence pos="67911.3516,-51236.9961,-1932.3669" />
+                <Fence pos="67865.1875,-51363.5313,-1932.3782" />
+                <Npc dir="270" npcTemplateId="1001">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

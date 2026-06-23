@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">Наг по имени {@LinkCreature:42#5006#Маэлсаресс} принадлежит к верховному командованию в армии Дагона. У нее есть книга "Деяния Дагона".&lt;BR&gt;&lt;BR&gt;Если мы хотим победить нагов и найти их сокровища, без этой книги, &lt;PCNAME&gt;, нам никак не обойтись. Ты - наша главная надежда на успех в этой миссии.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">Победа над Маэлсаресс стала еще одним шагом на пути к убийству самого Дагона. Мы изумлены подвигами, которые тебе удалось здесь совершить.&lt;BR&gt;&lt;BR&gt;Между нами говоря, я думаю, &lt;PCNAME&gt;, что ты сделаешь выдающуюся карьеру в Федерации.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Убив {@LinkCreature:42#5006#Маэлсаресс}, мы подорвем боеспособность нагов. И лучше сделать это как можно быстрее.</Page>
+    </Text>
+</QuestDialog>

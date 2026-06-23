@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="4">In den tiefen Ebenen von Raga Shadi befinden sich natürlich Argonen. Aber was mich fasziniert, sind die Argonomorphalbtraumunholde. Wir glauben, ihr Blut reagiert auf irgendeine Weise auf träumende Sterbliche. Mit anderen Worten, jedes Mal, wenn wir schlafen, werden sie stärker.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1035">
+        <Page social="4">Kommt nicht mit dem Blut in Berührung. Albtraumverseuchtes Blut kann Euch wahnsinnig machen, wenn Ihr einer größeren Menge davon ausgesetzt seid.&lt;BR&gt;&lt;BR&gt;Ihr findet Euch doch in der Umgebung der Türme zurecht, oder? Wart Ihr schon mal in der Seelenflutkammer im Osten? Nun, sie ist Euer nächstes Ziel.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1035">
+        <Page social="0">Das Blut der {@Creature:46#402#Argonomorphalbtraumunholde} reagiert auf die Träume Sterblicher. Wir müssen herausfinden, wie es das tut.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1036">
+        <Page social="4">Flinton hat Euch ziemlich schnell weitergeschickt. Entweder Ihr seid besonders effektiv, oder ... ja, das muss es sein. Ihr seid einfach gut in dem, was Ihr macht.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="5">Die Nachkommen Loks sind zwar überall in den Ruinen von Cardovek, aber sie haben sich noch nicht verschanzt. Wenn wir sie dauerhaft verunsichern können, gelingt es uns vielleicht, sie zu verjagen.&lt;BR&gt;&lt;BR&gt;Ihr müsst die {@LinkCreature:7#12#Lanzer Loks} und die {@LinkCreature:7#13#Berserker Loks} töten. Wir können nicht zulassen, dass sie sich stabilisieren und ihre Position ausbauen. Ihr seid die beste Person für diese Mission.&lt;BR&gt;&lt;BR&gt;Enttäuscht mich nicht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1019">
+        <Page social="5">Jetzt sind sie ein wenig geschwächt und das ist gut so. Wir werden versuchen, die Initiative zu behalten und das Blatt zu einem Sieg zu wenden!</Page>
+    </Text>
+</QuestDialog>

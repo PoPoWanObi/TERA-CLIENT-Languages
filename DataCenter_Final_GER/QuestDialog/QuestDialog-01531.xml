@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">Wir müssen den Zweck dieser Zomgulsammler ergründen. Das Mysterium ist recht alarmiert durch unsere Entdeckung.&lt;BR&gt;&lt;BR&gt;Findet {@LinkCreature:250#1021} und gebt ihm einige Herzen, die er studieren soll.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1021">
+        <Page social="6">Faszinierend. Die Funktion des Herzens ist weiterhin unklar, da der Zomgul nachweislich keinen Blutkreislauf besitzt.&lt;BR&gt;&lt;BR&gt;Ihr Interesse am Verschmelzen von organischen Teilen und Gebilden lässt auf ihr eigentliches Ziel schließen.&lt;BR&gt;&lt;BR&gt;Faszinierend.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1021">
+        <Page social="0">Ohne frische Zomgulherzen geraten die Nachforschungen ins Stocken.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1019">
+        <Page social="5">По дороге из Вивернового дозора я наткнулся на удивительное зрелище. Это был миканар, один из духов природы, наподобие древней. И у него за спиной был гигантский двуручный меч.&lt;BR&gt;&lt;BR&gt;Я не стал сражаться с ним, конечно же, но никак не могу забыть об этом мече.&lt;BR&gt;&lt;BR&gt;Тебе все еще интересно, &lt;PCNAME&gt;? Мне - однозначно да. Найди его и принеси мне этот меч. Это часть истории.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1019">
+        <Page social="5">Это тот самый меч? Но он совершенно не древний! Тут какая-то тайна, &lt;PCNAME&gt;. Возможно, великаны все еще где-то... поблизости. Или нет.&lt;BR&gt;&lt;BR&gt;Я люблю тайны, а ты?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1019">
+        <Page social="0">Да, я знаю, миканар большой и страшный. Именно поэтому я и не стал с ним сам драться. И все же, я хорошо тебе заплачу за этот меч.</Page>
+    </Text>
+</QuestDialog>

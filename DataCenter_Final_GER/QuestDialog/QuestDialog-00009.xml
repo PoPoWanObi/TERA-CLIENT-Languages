@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Maon ist der Schlüssel zu einer friedlichen Lösung unseres Problems mit den Feen.&lt;BR&gt;&lt;BR&gt;Sprecht mit ihm und findet heraus, ob Ihr zu einer Übereinkunft kommen könnt.&lt;BR&gt;&lt;BR&gt;Unterhaltet Euch aber zuerst mit seinem Sohn. Der Kleine spielt gern. Wenn Ihr ihn auf Eure Seite bringen könnt, ist sein Vater vielleicht empfänglicher.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">He! Wollt Ihr mit mir spielen?&lt;BR&gt;&lt;BR&gt;Ach, Geschäfte mit meinem Vater also? Versprecht, dass Ihr danach zurückkommt, dann werde ich ein gutes Wort für Euch bei ihm einlegen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Das Letzte, was wir hier brauchen, ist noch {@gender:ein/eine} &lt;PCCLASS&gt; mit dem Ziel, alles abzuschlachten.&lt;BR&gt;&lt;BR&gt;Mein Sohn meint, Ihr wärt vielleicht anders. Das ist alles gut und recht, aber wenn Ihr helfen wollt, den Frieden wiederherzustellen, müsst Ihr mich schon davon überzeugen, dass Ihr nicht nur ein weiterer Eindringling seid, der hier Streit sucht.</Page>
+    </Text>
+</QuestDialog>

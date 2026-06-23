@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Diese verfluchten Wendigos! Ich hatte all meine Beziehungen spielen lassen und mehrere Fässer allemantheischen Silberbranntwein bestellt, für den die Soldaten hier eine Vorliebe haben. Aber letzte Nacht haben die Wedigos unseren Vorratsspeicher ausgeplündert. Was glaubt Ihr wohl, was sie mitgehen haben lassen?&lt;BR&gt;&lt;BR&gt;Der Wein ist für meine Männer bestimmt, und sie sollen ihn auch genießen können.&lt;BR&gt;&lt;BR&gt;Jagt durch den Schrei des Wendigo und holt die Fässer zurück. Ich werde Euch persönlich dafür belohnen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Sehr gut!&lt;BR&gt;&lt;BR&gt;Ich nehme mal an, Ihr habt alles gefunden, was noch übrig war. Den Rest haben sicher die Wendigos getrunken.&lt;BR&gt;&lt;BR&gt;Habt jedenfalls vielen Dank.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">Findet die Weinfässer. Wenn Ihr dabei ein paar Wendigos umlegt, um so besser!</Page>
+    </Text>
+</QuestDialog>

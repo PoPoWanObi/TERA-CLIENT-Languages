@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="0">Dank Jelenas Plan seid Ihr in das Anwesen eingedrungen. Jelena schaltete den Alarm aus, während Ihr dem Leben des Herzogs und der Herzogin ein Ende gesetzt habt. Ihr habt die Vorrichtung gefunden, die die Dementalithen produziert und sie in die Luft gejagt.&lt;BR&gt;&lt;BR&gt;Eine Kultistenpriesterin, Akia, hat Euch Rache geschworen. Nachdem Ihr aber ihre Arachnenbegleiter getötet hattet, floh sie. Doch Euch und Jelena verbindet von nun an eine neue Freundschaft.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="4">Die Blaublüter benutzen dieses Teleportal, um ungesehen zu kommen und zu gehen.&lt;BR&gt;&lt;BR&gt;Sie halten es für sicher, weil es ihr Blut als Schlüssel braucht. Dank Euch haben wir aber etwas davon!&lt;BR&gt;&lt;BR&gt;Jeder nimmt eine Phiole. Ich sehe Euch dann auf der anderen Seite!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="488" prevId="2" villagerId="1001">
+        <Page social="4">Pssst! Sie sind direkt oben an der Treppe!&lt;BR&gt;&lt;BR&gt;Spürt Ihr dieses Kribbeln? Ganz hinten im Nacken? Das ist sicher die Magie ihrer Vorrichtung. Verdammt, ist die stark! Wir müssen uns beeilen.&lt;BR&gt;&lt;BR&gt;Gut, ist jeder an Ort und Stelle?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="488" prevId="3" villagerId="1001">
+        <Page social="4">Ihr werdet eine Menge Lärm machen, also schalte ich ihren Alarm aus. Wir treffen uns dann bei der Leiter zu den oberen Räumen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr mit irgendetwas Schwierigkeiten habt, mäht sie einfach nieder und lasst den Traum die Sache erledigen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="488" prevId="4" villagerId="1005">
+        <Page social="4">Ihr erscheint als ungeladener Gast auf der kleinen Feier von {@LinkCreature:488#10#Herzogin Tirania} und {@LinkCreature:488#13#Herzog Volperon}.&lt;BR&gt;&lt;BR&gt;Ich sorge dafür, dass sich dieses Tempeltor öffnet, wenn sie sterben. Dann machen wir diesem Zinnober ein Ende!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="15" villagerId="4">
+        <Page social="0">Gut! Jetzt wird es Zeit, die Vorrichtung abzuschalten. Summt ein Lied oder zählt, solange Ihr könnt. Egal, aber Ihr müsst Euch auf irgendetwas konzentrieren. Und dann sorgt dafür, dass das Ziel zerstört wird!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4">Bedeutet das das Ende für das Anwesen der Arglist?&lt;BR&gt;&lt;BR&gt;Wir haben den Herzog und die Herzogin ausgeschaltet und sogar den Dementalithengenerator zerstört. Und das alles in einem einzigen Tag, was? Das war gute Arbeit da drin!&lt;BR&gt;&lt;BR&gt;Jetzt kann ich mich vielleicht endlich ausstrecken und durchatmen. Ja, genau.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1013">
+        <Page social="4">Ты замечаешь, как аргонские создания забеспокоились из-за саженцев? Я считаю, магия фей ядовита для них в каком-то смысле. Думаешь, поэтому аргоны пытались уничтожить Силивуд? &lt;BR&gt;&lt;BR&gt; Я боюсь, что {@LinkCreature:47#2003#Зараженные гулы} попытаются искоренить саженцы. Если только ты не захочешь искоренить гулов первыми. Тогда свяжись с Розалин на научной станции "Гибельный рык".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1004">
+        <Page social="4">Меньше гулов - больше деревьев. Прекрасная работа, &lt;PCNAME&gt;. Будь поблизости и мы подыщем тебе хорошую работу.</Page>
+    </Text>
+</QuestDialog>

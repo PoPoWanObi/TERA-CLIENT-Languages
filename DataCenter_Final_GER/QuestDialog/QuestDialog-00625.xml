@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="4">Habt Ihr die Waffen dieser {@LinkCreature:19#4000#Wüter Loks} gesehen? Die würde ich nur zu gern in die Hände bekommen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr da hinausgehen und mir ein paar beschaffen könntet, würde ich sie zum Oberkommando nach Velika schicken. Dann könnten wir Replikate für die Soldaten der Föderation anfertigen!&lt;BR&gt;&lt;BR&gt;Was meint Ihr?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Fantastisch! Die schicke ich direkt nach Velika.&lt;BR&gt;&lt;BR&gt;Oh, stellt Euch das doch nur mal vor, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;... Was? Ich finde neue Waffen nun mal toll. Meine sind ein wenig schmuddelig.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1004">
+        <Page social="0">Ihr habt ein Problem damit, von den Ressourcen des Gegners zu profitieren, um selbst stärker zu werden?&lt;BR&gt;&lt;BR&gt;Also, ich halte das für den schlauesten Zug, den wir machen können.</Page>
+    </Text>
+</QuestDialog>

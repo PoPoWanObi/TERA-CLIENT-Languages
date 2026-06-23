@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">Diese verdammten kleinen Drecksäcke!&lt;BR&gt;&lt;BR&gt;Meine Familie stellt seit Jahrhunderten Beerenwein her, aber {@LinkCreature:23#3#Poporiverbannte} haben unsere kompletten Vorräte gestohlen!&lt;BR&gt;&lt;BR&gt;Wenn wir sie nicht zurückbekommen, sind wir ruiniert. Wir könnten unsere Steuern nicht bezahlen und auch nicht diese komischen kleinen Pilze kaufen! Könnt Ihr uns helfen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">Das ist er! Unser Wein! Ihr habt ihn gerettet!&lt;BR&gt;&lt;BR&gt;Ein Wunder, dass diese kleinen Schurken ihn nicht schon getrunken hatten!&lt;BR&gt;&lt;BR&gt;Vielen Dank!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1035">
+        <Page social="0">Bitte kommt nicht ohne den Wein zurück. Das könnte ich nicht ertragen.&lt;BR&gt;&lt;BR&gt;Verzeiht, das ist Poporihumor.</Page>
+    </Text>
+</QuestDialog>

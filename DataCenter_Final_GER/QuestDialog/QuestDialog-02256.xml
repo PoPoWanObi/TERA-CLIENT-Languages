@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Balder hat hier bei seinem Tod viele Relikte hinterlassen. Das meiste davon verrottet im Unkraut. Manches davon funktioniert aber noch immer.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3001#Semas} benötigt Hilfe mit einem Relikt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3001">
+        <Page social="4">Arisel ist ziemlich grob, sogar für unsere Verhältnisse.&lt;BR&gt;&lt;BR&gt;Wir haben hier ein Gerät, den sogenannten {@WorkObject:95}. Er befindet sich in {@Rgn:30007$$Balders Pavillon}, wo die Pflanzen und Ghilliedhus gezogen werden.&lt;BR&gt;&lt;BR&gt;Er sollte eigentlich von alleine funktionieren, tut er aber nicht. Geht hin und schaltet ihn wieder ein ... bitte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3001">
+        <Page social="4">Ein schöner Platz.&lt;BR&gt;&lt;BR&gt;Hier kamen Balder und Seren gerne her, um zu rasten. Ihr steht genau an der gleichen Stelle wie sie damals.</Page>
+    </Text>
+</QuestDialog>

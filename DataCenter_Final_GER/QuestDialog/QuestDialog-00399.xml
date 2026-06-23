@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
+        <Page social="0">Wir müssen die Piratenveteranen und Anführer empfindlich treffen.&lt;BR&gt;&lt;BR&gt;Eliminiert die Rotpeitschenpiraten am Schlafplatz der Freibeuter und in der Nähe der Hütte vom Piratenkapitän in der Piratengrotte.&lt;BR&gt;&lt;BR&gt;Vernichtet {@LinkCreature:11#1001#Rotpeitschenbootsmänner}, {@LinkCreature:11#1002#Rotpeitschensäbelrassler}, {@LinkCreature:11#1009#Rotpeitschenmäher}, {@LinkCreature:11#1010#Rotpeitschenbogenschützen}, {@LinkCreature:11#1011#Rotpeitschenunteroffiziere}, {@LinkCreature:11#2006#Rotpeitschenplünderer}, {@LinkCreature:11#2008#Rotpeitschenkorsare} und {@LinkCreature:11#4005#Rotpeitschenaufseher}.&lt;BR&gt;&lt;BR&gt;Erstattet Matina Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1013">
+        <Page social="4">Gut gemacht, &lt;PCNAME&gt;. Nur immer weiter so!&lt;BR&gt;&lt;BR&gt;Sieg für Valkyon!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1013">
+        <Page social="0">Ich werde Euch belohnen, wenn Ihr mir die Marken der Piratenanführer als Zeichen der Unterwerfung bringt.</Page>
+    </Text>
+</QuestDialog>

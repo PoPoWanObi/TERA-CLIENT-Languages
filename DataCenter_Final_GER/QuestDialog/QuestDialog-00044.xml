@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0">&lt;PCNAME&gt;, sagt {@LinkCreature:202#1012#Volos}, dass ich mit ihm sprechen möchte. Er ist ein Halbgott und so könnt Ihr nicht einfach zu ihm hingehen und sagen, dass Teroz einen Plausch mit ihm halten möchte.&lt;BR&gt;&lt;BR&gt;Nein, ein Halbgott benötigt eine Opfergabe. Erledigt auf dem Weg ein paar {@LinkCreature:2#5#Bullige Säbelzähne}.&lt;BR&gt;&lt;BR&gt;Volos ist ein Jäger. Er wird diese Geste zu schätzen wissen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1012">
+        <Page social="0">Teroz aus dem Feentallager möchte mit mir sprechen und schickt Euch? Noch nie von diesem Teroz gehört.&lt;BR&gt;&lt;BR&gt;Den Namen "&lt;PCNAME&gt;" wiederum höre ich immer wieder.</Page>
+    </Text>
+</QuestDialog>

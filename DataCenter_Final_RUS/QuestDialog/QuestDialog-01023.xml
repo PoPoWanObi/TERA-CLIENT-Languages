@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1018">
+        <Page social="6">Нам многое предстоит сделать, но припасы и снаряжение подходят к концу.&lt;BR&gt;&lt;BR&gt;Необходимо собрать крылья драколотов, чтобы продать их в Эленее. Соберешь их для нас?&lt;BR&gt;&lt;BR&gt;Только постарайся не столкнуться с Григелтом - он слишком силен. Все остальные покажутся тебе легкой добычей.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1018">
+        <Page social="18">Спасибо - я вижу, ты делаешь все, что в твоих силах, чтобы помочь нам.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1018">
+        <Page social="0">Нам так нужны крылья драколотов, чтобы обменять их на припасы.</Page>
+    </Text>
+</QuestDialog>

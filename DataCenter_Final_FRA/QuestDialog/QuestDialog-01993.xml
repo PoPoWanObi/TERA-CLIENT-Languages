@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="220020">
+        <Page social="1">C'est tout à fait extraordinaire. Il y a des plantes qui, exposées au noctenium, cessent de pousser mais aussi de faner. Collectez des graines de ces plantes pour moi. J'en ai besoin pour ma recherche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="220020">
+        <Page social="0">Cela aidera ma recherche.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="123" villagerId="220020">
+        <Page social="0">Savez-vous à quel point c'est important pour ma recherche?&amp;nbsp; Imaginez si les membres de l'Ordre de Fer comme vous ne dépérissaient jamais!&amp;nbsp; Ne vous laissez pas abîmer par la bataille.</Page>
+    </Text>
+</QuestDialog>

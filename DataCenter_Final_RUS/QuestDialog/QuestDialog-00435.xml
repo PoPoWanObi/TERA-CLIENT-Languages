@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Потрать пару минут, чтобы познакомиться с теми, кто помогает нам здесь, в Форпосте у башни.&lt;BR&gt;&lt;BR&gt;Начни с &lt;b&gt;Рутгара, торговца&lt;/b&gt;. Он стоит к югу отсюда, ближе к центру города.&lt;BR&gt;&lt;BR&gt;И - только между нами - с общего молчаливого одобрения ты имеешь полное право не принимать во внимание все, что говорит тебе Хельер. Он здесь в положении свинопаса.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">Добро пожаловать, новобранец! Меня зовут Рутгар, и здесь, в Форпосте у башни, я твой лучший друг.&lt;BR&gt;&lt;BR&gt;На этом острове есть два типа солдат: те, которые пополняют у меня свои запасы перед схваткой... и "боевые потери".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1007">
+        <Page social="4">Я обучаю боевым умениям. Мои уроки сможет заменить лишь опыт, полученный в настоящем бою. В любой момент я готов показать тебе пару новых трюков.&lt;BR&gt;&lt;BR&gt;Кстати, о трюках... Магией я не занимаюсь. Это дело Чарис.&lt;NEXTPAGEBUTTON&gt;"Понятно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Говорят, Эллеон снова пропал. Ты что-нибудь об этом знаешь?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">На этом острове столько красот и чудес. И столько тайн...&lt;BR&gt;&lt;BR&gt;Наверное, самая главная тайна в том, для чего титаны решили спрятать остров.&lt;BR&gt;&lt;BR&gt;И вторая - для чего они решили его показать?&lt;NEXTPAGEBUTTON&gt;"Хм-м..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Остров - это дар для нас. Я же учу новобранцев собирать различные дары острова, которые можно использовать.&lt;BR&gt;&lt;BR&gt;Впрочем, не позволяй скромному учителю тебя задерживать. Долг зовет!</Page>
+    </Text>
+</QuestDialog>

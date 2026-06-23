@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="4">Gula sind schlecht. Aber ihre Begleiter können manchmal noch schlimmer sein.&lt;BR&gt;&lt;BR&gt;Blöde Viecher. Beseitigt die {@LinkCreature:8#2061#Goldwichtel} und die {@LinkCreature:8#2011#Panzerhyänen}.&lt;BR&gt;&lt;BR&gt;Eine Sache weniger, um die wir uns kümmern müssen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1004">
+        <Page social="4">Gut, dass sie erledigt sind. Jetzt können wir uns auf die Gula konzentrieren.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1004">
+        <Page social="0">Keine Zeit für Wichtel und Hyänen? Wenn eine Hyäne an Eurer eigenen Leiche rumschnüffelt, wird Euer Geist hoffen, dass jemand anderes die Zeit hat, sich um Wichtel und Hyänen zu kümmern!</Page>
+    </Text>
+</QuestDialog>

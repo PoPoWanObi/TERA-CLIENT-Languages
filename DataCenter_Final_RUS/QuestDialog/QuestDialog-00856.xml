@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="1">Прошу тебя, помоги мне, &lt;PCNAME&gt;! Помоги... помоги мне отравиться!&lt;BR&gt;&lt;BR&gt;Подожди, не уходи! Я объясню. Мне нужно отравиться ядом {@LinkCreature:30#140#Ядовитого тентакуллара} и поскорее.&lt;NEXTPAGEBUTTON&gt;"Но зачем?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">У меня есть одна страшная тайна - нечто очень важное; то, что я не могу раскрыть никому. Но Алаис и его громилы из Мистериума собираются выпытать у меня мою тайну. Но есть выход - верная доза яда {@LinkCreature:30#140#Ядовитого тентакуллара} воздействует на мозг и вызывает потерю памяти. Лучше я буду забывчивым, чем мертвым.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1018">
+        <Page social="1">Огромное тебе спасибо, &lt;PCNAME&gt;. Скорее же дай мне его!&lt;NEXTPAGEBUTTON&gt;"Держи свой яд".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">(Шахтер выпивает яд из пузырька, а затем несколько раз открывает и закрывает рот. На его лице отражается испуг.)&lt;BR&gt;&lt;BR&gt;(Он показывает на свой рот, размахивает руками, а потом указывает на другого шахтера.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1018">
+        <Page social="0">Я не открою свой секрет, даже если меня будут пытать. Лучше уж смерть!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1017">
+        <Page social="1">Что-что он выпил? Неудивительно, что он не может говорить.&lt;BR&gt;&lt;BR&gt;Его горло так распухло, что несколько дней ему и дышать-то будет сложно. Но что произошло?&lt;NEXTPAGEBUTTON&gt;"Он хотел забыть свой секрет..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">А, эти бабкины сказки про яд тентакуллара? Прошлое он не забудет, а вот свой драгоценный секрет уже точно никому не расскажет.&lt;BR&gt;&lt;BR&gt;Сообщи обо всем {@LinkCreature:230#1065#Либиниенн}.&lt;BR&gt;&lt;BR&gt;У нас, шахтеров, есть старинный обычай, который называется "чур, я в домике". Так что о том, как этот дурень отравился, Либиниенн расскажешь ты.&lt;BR&gt;&lt;BR&gt;Удачи тебе, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="1065">
+        <Page social="1">Значит, он получил от тебя яд тентакуллара. А потом выпил его.&lt;BR&gt;&lt;BR&gt;Я... у меня просто нет слов.&lt;NEXTPAGEBUTTON&gt;"Он говорил, что ему нужно помочь".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">А ты всегда делаешь то, что тебе говорят?&lt;BR&gt;&lt;BR&gt;Хочешь знать, в чем заключается его большой секрет? Он крадет с места раскопок находки и прячет в условленном месте, где их забирают торговцы на черном рынке.&lt;BR&gt;&lt;BR&gt;А теперь, благодаря тебе, мы не сможем его допросить!&lt;NEXTPAGEBUTTON&gt;"Мне очень жаль".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ладно, в конце концов, наивность - не преступление.&lt;BR&gt;&lt;BR&gt;Если подумать, мы бы и сами не могли наказать его сильнее.&lt;BR&gt;&lt;BR&gt;Странствующего шахтера вряд ли напугать приговором к тяжелому труду.</Page>
+    </Text>
+</QuestDialog>

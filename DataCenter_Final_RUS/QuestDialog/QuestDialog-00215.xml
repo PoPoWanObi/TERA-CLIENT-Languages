@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">Кумасы заявляют права на Равнины омфалов.&lt;BR&gt;&lt;BR&gt;Чтобы напомнить им, кто в доме хозяин, убей {@LinkCreature:7#3#Ленивых кумасов} и {@LinkCreature:7#4#Неповоротливых кумасов}.&lt;BR&gt;&lt;BR&gt;Доложи Героту на Ферме Годрика, что задание выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">Ненавижу кумасов. Мерзкие чудовища. Они получили по заслугам. Если мне когда-нибудь удастся вернуться в Велику, &lt;PCNAME&gt;, с меня эль.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1005">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

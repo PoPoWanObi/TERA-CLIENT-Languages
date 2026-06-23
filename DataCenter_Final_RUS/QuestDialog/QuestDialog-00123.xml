@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="5">Признаюсь, давненько я не готовила это зелье. Очень надеюсь, что оно подействует так, как должно.&lt;BR&gt;&lt;BR&gt;В смысле... Я уверена, все пройдет, как надо! Я только... ну, знаешь.&lt;BR&gt;&lt;BR&gt;Ладно, забудь. До дна, хорошо? Удачи.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1004">
+        <Page social="12">Зелье у тебя? Как все прошло? Я надеялся, ты мне его принесешь, но, как подумаю, что и от меня бы так несло... вообще, я даже рад, что пить его пришлось не мне.&lt;BR&gt;&lt;BR&gt;Полагаю, теперь мы должны узнать, сможешь ли ты вытянуть хоть что-то из туванги. Вон {@LinkCreature:205#1020#пленный детеныш туванги Тангмо} - попробуй его разговорить. Посмотрим, что из этого получится.&lt;BR&gt;&lt;BR&gt;Расскажешь потом, если что-то удастся узнать.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1020">
+        <Page social="0">Хм-м-м... Что тут? Запах кожа. И отчаяние.&lt;NEXTPAGEBUTTON&gt;"А как именно пахнет отчаяние?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">М-м-м? О, ты меня понимать! Я рассказать тебе, что происходить. Ты знать причина трясина больше? А разве ТЫ никогда не хотеть дом БОЛЬШЕ-БОЛЬШЕ?&lt;BR&gt;&lt;BR&gt;За этим стоять туванги - мы расти!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="1004">
+        <Page social="5">О нет. Так это, значит, это все-таки туванги? Погано. А значит... ах ты ж.&lt;BR&gt;&lt;BR&gt;Что ж, спасибо тебе за помощь. Прошу, возьми это.</Page>
+    </Text>
+</QuestDialog>

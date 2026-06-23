@@ -1,0 +1,1661 @@
+<StrSheet_MonsterBehavior xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior StrSheet_MonsterBehavior.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior">
+    <String id="1" msg="Время убивать!" />
+    <String id="2" msg="Сомкнуть строй!" />
+    <String id="3" msg="Всеми силами!" />
+    <String id="4" msg="Все вместе!" />
+    <String id="5" msg="Хе-хе!" />
+    <String id="6" msg="Мы едины!" />
+    <String id="7" msg="Раз! Два! Три!" />
+    <String id="8" msg="Держать строй!" />
+    <String id="9" msg="Земля! Вода! Ветер! Огонь!" />
+    <String id="10" msg="Держать строй!" />
+    <String id="11" msg="Все в атаку!" />
+    <String id="12" msg="Следите за расстоянием!" />
+    <String id="13" msg="На слом!" />
+    <String id="14" msg="Держите строй." />
+    <String id="15" msg="Мы непобедимы!" />
+    <String id="16" msg="Покажем нашу силу." />
+    <String id="17" msg="Сомкнуть ряды!" />
+    <String id="18" msg="Опасность! Укрыться!" />
+    <String id="19" msg="Уничтожу!" />
+    <String id="20" msg="Вспомните тренировки!" />
+    <String id="21" msg="Вперед! Вперед!" />
+    <String id="22" msg="Шевелитесь!" />
+    <String id="23" msg="Окружайте врага!" />
+    <String id="24" msg="Рассредоточьтесь!" />
+    <String id="25" msg="Никто не пройдет!" />
+    <String id="26" msg="Покажем им, что такое оборона!" />
+    <String id="27" msg="Окружайте эту крысу!" />
+    <String id="28" msg="Двигайтесь быстрее ветра!" />
+    <String id="29" msg="Думайте головой! Вперед!" />
+    <String id="30" msg="Не толкаться! Держать строй!" />
+    <String id="31" msg="Вперед! Вперед!" />
+    <String id="32" msg="Слишком медленно! Живее!" />
+    <String id="33" msg="Только не умирать!" />
+    <String id="34" msg="Бегом! Бегом! Все, живо!" />
+    <String id="35" msg="Жить надоело? Немедленно в строй!" />
+    <String id="36" msg="Соберись, а то я сам тебя отделаю!" />
+    <String id="37" msg="Что ты так копаешься? Тувангийский пирог к ноге прилип?" />
+    <String id="38" msg="Соберись! Если жить охота." />
+    <String id="39" msg="Держать строй! Выцеливайте их слабые места!" />
+    <String id="40" msg="Собраться! Все внимание на врага." />
+    <String id="41" msg="Вперед! И поосторожней там!" />
+    <String id="42" msg="Ко мне, защитите меня!" />
+    <String id="43" msg="В бой! Кто собрался жить вечно?" />
+    <String id="44" msg="Пришло время! Враг ошеломлен!" />
+    <String id="45" msg="Бейте одиночные цели!" />
+    <String id="46" msg="Это слабое место! Цельтесь в него!" />
+    <String id="47" msg="Нападаем на слабейшего! В бой!" />
+    <String id="48" msg="Отрезайте и добивайте!" />
+    <String id="49" msg="Вперед!" />
+    <String id="50" msg="В бою важна дисциплина!" />
+    <String id="51" msg="Мои слуги!" />
+    <String id="52" msg="Это не конец!" />
+    <String id="53" msg="У меня еще есть сюрпризы..." />
+    <String id="54" msg="Ко мне, дети мои." />
+    <String id="55" msg="Из тьмы..." />
+    <String id="56" msg="Освободитесь ото сна!" />
+    <String id="57" msg="Вперед, братья мои!" />
+    <String id="58" msg="Вернитесь, братья мои!" />
+    <String id="59" msg="Придите, братья мои..." />
+    <String id="60" msg="Явитесь... мои марионетки..." />
+    <String id="61" msg="Именем силы тьмы..." />
+    <String id="62" msg="Я не могу умереть... не могу!" />
+    <String id="63" msg="Нет надежды..." />
+    <String id="64" msg="Не стой столбом. В бой!" />
+    <String id="65" msg="Это лишь начало." />
+    <String id="66" msg="О, братья... придайте мне сил!" />
+    <String id="67" msg="Встань и дерись!" />
+    <String id="68" msg="Но... мои друзья..." />
+    <String id="69" msg="Ха-ха-ха!" />
+    <String id="70" msg="Спасибо вам..." />
+    <String id="71" msg="Вперед, мои туванги!" />
+    <String id="81" msg="Пришло время битвы" />
+    <String id="82" msg="Мы покажем истинную силу!" />
+    <String id="83" msg="Братья, явитесь и помогите нам!" />
+    <String id="84" msg="Ха-ха-ха! Я сокрушу вас!" />
+    <String id="85" msg="Думаете, это конец? Это лишь начало!" />
+    <String id="86" msg="Узрите же! Нескончаемый поток чудовищ!" />
+    <String id="87" msg="Нас слишком много, и нас не победить! Придите, мои слуги!" />
+    <String id="88" msg="Я преподам вам урок. Никогда не забывайте о защите!" />
+    <String id="89" msg="Мы - последнее, что вы видите!" />
+    <String id="90" msg="Мои братья по крови!" />
+    <String id="91" msg="Не стоит недооценивать моих слуг!" />
+    <String id="92" msg="Юнцы, слушайте приказ!" />
+    <String id="93" msg="Наша жизнь вечна!" />
+    <String id="94" msg="Словно ветер листву, сметайте врагов!" />
+    <String id="95" msg="Скоро вы отдохнете... в могиле!" />
+    <String id="96" msg="От этого кошмара не сбежать!" />
+    <String id="97" msg="Идите и отомстите, мои слуги!" />
+    <String id="98" msg="Добро пожаловать, друзья! В бой!" />
+    <String id="99" msg="Удивлены? Что ж, попробуйте сбежать!" />
+    <String id="100" msg="Вперед! В атаку!" />
+    <String id="101" msg="Могущество для всех!" />
+    <String id="102" msg="Природа нам поможет!" />
+    <String id="103" msg="Во имя любви!" />
+    <String id="104" msg="Титаны, дайте нам сил!" />
+    <String id="105" msg="Даруйте мне силу!" />
+    <String id="106" msg="Мы благословенны!" />
+    <String id="107" msg="Вперед, вперед!" />
+    <String id="108" msg="Земля поддерживает нас!" />
+    <String id="109" msg="Ветер подгоняет нас!" />
+    <String id="110" msg="Огонь закаляет нас!" />
+    <String id="111" msg="Вода освежает нас!" />
+    <String id="112" msg="Скоре-е-е-ей!" />
+    <String id="113" msg="Давайте, покажите, на что вы способны!" />
+    <String id="114" msg="Не злите меня..." />
+    <String id="115" msg="Моя магия проведет нас!" />
+    <String id="116" msg="Обрушьте на них огонь ада, слуги!" />
+    <String id="151" msg="Ха! Застрял?" />
+    <String id="152" msg="Жар поглощает тебя." />
+    <String id="153" msg="Тьма накрывает тебя." />
+    <String id="154" msg="Сила затухает." />
+    <String id="155" msg="Сила умирает." />
+    <String id="156" msg="Око тьмы следит за тобой." />
+    <String id="157" msg="Тьма окружает тебя!" />
+    <String id="158" msg="Ты обратишься в камень!" />
+    <String id="159" msg="Твоя кровь закипит!" />
+    <String id="160" msg="Тьма пожирает тебя." />
+    <String id="161" msg="Тьма растворяет тебя!" />
+    <String id="162" msg="Взять их!" />
+    <String id="163" msg="Как жаль..." />
+    <String id="164" msg="Слишком много..." />
+    <String id="201" msg="Вперед!" />
+    <String id="202" msg="Получай!" />
+    <String id="203" msg="Живей!" />
+    <String id="204" msg="Вот так вот!" />
+    <String id="205" msg="Нас не остановить!" />
+    <String id="206" msg="Пришел конец!" />
+    <String id="207" msg="Получай!" />
+    <String id="208" msg="Текели-ли!" />
+    <String id="209" msg="Мы восстанем вновь!" />
+    <String id="210" msg="Умри, сгинь!" />
+    <String id="211" msg="Ты умрешь." />
+    <String id="212" msg="Как тебе такое?" />
+    <String id="213" msg="Хей! Хей! Торонг! Торонг!" />
+    <String id="214" msg="Это ничего!" />
+    <String id="215" msg="Йи-ха!" />
+    <String id="216" msg="Мяу!" />
+    <String id="217" msg="Гр-р!" />
+    <String id="218" msg="В бой!" />
+    <String id="219" msg="Вот так вот!" />
+    <String id="220" msg="Хо-хо-хо!" />
+    <String id="221" msg="Узри гнев неудержимого хаоса!" />
+    <String id="222" msg="Да как ты смеешь?" />
+    <String id="223" msg="Вот так вот!" />
+    <String id="224" msg="Вот тебе подарочек." />
+    <String id="225" msg="Это тебе!" />
+    <String id="226" msg="Мне страшно. Ступайте прочь!" />
+    <String id="227" msg="Нет... пожалуйста!" />
+    <String id="228" msg="Я вас покараю!" />
+    <String id="229" msg="У-у!" />
+    <String id="230" msg="Руби-руби!" />
+    <String id="231" msg="Гха!" />
+    <String id="232" msg="Нна!" />
+    <String id="233" msg="Грязная тварь! Как ты смеешь ко мне прикасаться?!" />
+    <String id="234" msg="Хочешь попробовать?!" />
+    <String id="235" msg="Я покажу тебе кошмар..." />
+    <String id="236" msg="Получи!" />
+    <String id="237" msg="Ха! Наконец-то!" />
+    <String id="238" msg="Да как ты смеешь? Тебе конец!" />
+    <String id="239" msg="Больно, наверное?.." />
+    <String id="240" msg="Получай!" />
+    <String id="241" msg="Держитесь ближе, если нужно лечение!" />
+    <String id="242" msg="Я - твой кошмар!" />
+    <String id="251" msg="Вперед! В бой!" />
+    <String id="252" msg="Наступайте!" />
+    <String id="253" msg="Все вместе! В атаку!" />
+    <String id="254" msg="Повеселимся!" />
+    <String id="255" msg="Бейте их по одному!" />
+    <String id="256" msg="Вместе мы - сила!" />
+    <String id="257" msg="Окружить врага!" />
+    <String id="258" msg="Задавить их!" />
+    <String id="259" msg="Нападайте вместе!" />
+    <String id="260" msg="Все вместе!" />
+    <String id="261" msg="Давайте, все разом!" />
+    <String id="262" msg="Нападайте со всех сторон!" />
+    <String id="263" msg="Получайте!" />
+    <String id="264" msg="Вот вам!" />
+    <String id="265" msg="Держать строй!" />
+    <String id="266" msg="За эту голову награда!" />
+    <String id="267" msg="Что? Смеяться над нами?" />
+    <String id="268" msg="Проучим их!" />
+    <String id="269" msg="Сомкнуть ряды!" />
+    <String id="270" msg="Цельтесь вон в того!" />
+    <String id="271" msg="Покажем, на что мы способны!" />
+    <String id="272" msg="Порхай как пчела, жаль как бабоч... что?" />
+    <String id="273" msg="Порхай как бабочка, жаль как пчела!" />
+    <String id="274" msg="На слом!" />
+    <String id="275" msg="Пора кончать с ними!" />
+    <String id="276" msg="Осталось немного! В бой!" />
+    <String id="277" msg="Игры закончились. Теперь все серьезно!" />
+    <String id="278" msg="Умрите!" />
+    <String id="279" msg="Время умирать!" />
+    <String id="280" msg="Не пропускайте их!" />
+    <String id="281" msg="Остановите их!" />
+    <String id="282" msg="Не-е-ет!" />
+    <String id="283" msg="Слава Аркадии!" />
+    <String id="284" msg="Остановить врагов!" />
+    <String id="285" msg="Я помогу!" />
+    <String id="286" msg="Держитесь!" />
+    <String id="287" msg="Они слишком сильны!" />
+    <String id="288" msg="Нарушители!" />
+    <String id="289" msg="!" />
+    <String id="290" msg="!" />
+    <String id="291" msg="!" />
+    <String id="292" msg="!" />
+    <String id="293" msg="!" />
+    <String id="294" msg="!" />
+    <String id="295" msg="!" />
+    <String id="296" msg="!" />
+    <String id="297" msg="!" />
+    <String id="298" msg="!" />
+    <String id="299" msg="!" />
+    <String id="301" msg="Пощади!" />
+    <String id="302" msg="Убей кого-нибудь другого!" />
+    <String id="303" msg="У меня дома семья... прошу..." />
+    <String id="304" msg="Жизнь только начала налаживаться..." />
+    <String id="305" msg="Больше... жизни..." />
+    <String id="306" msg="Не могу... пошевелиться..." />
+    <String id="307" msg="Мама! Я иду!" />
+    <String id="308" msg="В глазах мутнеет..." />
+    <String id="309" msg="Как... печально..." />
+    <String id="310" msg="Мои атаки... не достигают цели..." />
+    <String id="311" msg="Господин! Что мне делать?!" />
+    <String id="312" msg="Дешевый трюк!" />
+    <String id="313" msg="Прошу! Пощади!" />
+    <String id="314" msg="Кхх... кхх..." />
+    <String id="315" msg="Кхе... кхе..." />
+    <String id="316" msg="Хе-хе-хе-хе!" />
+    <String id="317" msg="Ай! Фу!" />
+    <String id="401" msg="Ты на очереди." />
+    <String id="402" msg="Это конец?.." />
+    <String id="403" msg="Отомстите за меня..." />
+    <String id="404" msg="Вот и все?" />
+    <String id="405" msg="Бегите... бегите!.." />
+    <String id="406" msg="Мама..." />
+    <String id="407" msg="Я... люблю..." />
+    <String id="408" msg="За меня отомстят..." />
+    <String id="409" msg="Я еще встану..." />
+    <String id="410" msg="Я хочу жить!" />
+    <String id="411" msg="А-а-а-а!" />
+    <String id="412" msg="Ничего не вижу..." />
+    <String id="413" msg="Ни о чем не жалею!" />
+    <String id="414" msg="Я вернусь..." />
+    <String id="415" msg="Смерть... забрала меня..." />
+    <String id="416" msg="Хе-хе-хе!" />
+    <String id="417" msg="Спасайте жизни!" />
+    <String id="418" msg="Работая на него, с голоду помрешь!" />
+    <String id="419" msg="Не бегите, глупцы!" />
+    <String id="420" msg="Как же так?.." />
+    <String id="501" msg="Враг! Р-ра-ур!" />
+    <String id="502" msg="Подходи и получи!" />
+    <String id="503" msg="За дело!" />
+    <String id="504" msg="Достойный боевой дух." />
+    <String id="505" msg="Хочешь поиграть, да?" />
+    <String id="506" msg="Гляди." />
+    <String id="507" msg="Встань и дерись!" />
+    <String id="508" msg="Тебе конец!" />
+    <String id="509" msg="Ты бросаешь мне вызов?" />
+    <String id="510" msg="Убить всех, кто войдет." />
+    <String id="511" msg="Никто не пройдет!" />
+    <String id="601" msg="Поражение!" />
+    <String id="602" msg="Слишком много..." />
+    <String id="603" msg="Вытащите меня отсюда!" />
+    <String id="604" msg="Командир..." />
+    <String id="605" msg="Никто не помешает исследованиям!" />
+    <String id="606" msg="Что за назойливость!" />
+    <String id="607" msg="Наконец-то, повеселимся!" />
+    <String id="608" msg="Из твоего черепа выйдет славный подарок." />
+    <String id="609" msg="Прочь с дороги!" />
+    <String id="610" msg="Ар-р! Не тронь меня!" />
+    <String id="611" msg="Вы, назойливые твари..." />
+    <String id="612" msg="Осторожно!" />
+    <String id="701" msg="Прочь с дороги!" />
+    <String id="702" msg="Ха-ха-ха! Щекотно!" />
+    <String id="703" msg="Вы, мелкие..." />
+    <String id="704" msg="Ты - первая цель!" />
+    <String id="705" msg="Начну с самых слабых...." />
+    <String id="706" msg="Кто ты?" />
+    <String id="707" msg="Ступай своей дорогой!" />
+    <String id="708" msg="Знаешь, что говорят про загнанных в угол?" />
+    <String id="709" msg="Что тебе нужно от меня?" />
+    <String id="1000" msg="CounterFlee" />
+    <String id="1001" msg="MonsterFlee" />
+    <String id="1002" msg="MonsterSummon" />
+    <String id="1003" msg="Я не в форме... не хватает сил..." />
+    <String id="1004" msg="Ха! Тебе даже не поднять оружие. Мне не придется даже сражаться! За меня все сделала усталость!" />
+    <String id="1005" msg="Еще один шаг... только посмей!" />
+    <String id="10101" msg="Я продаю зелья, свитки телепортации, костры и алкагест." onlyBalloon="true" />
+    <String id="10201" msg="Я могу помочь быстро исцелить раны и восстановить силы." onlyBalloon="true" />
+    <String id="10301" msg="Я могу помочь попасть в Велику." onlyBalloon="true" />
+    <String id="12101" existTime="2" msg="" />
+    <String id="12102" existTime="2" msg="" />
+    <String id="12103" existTime="2" msg="" />
+    <String id="12201" existTime="2" msg="" />
+    <String id="12202" existTime="2" msg="" />
+    <String id="12203" existTime="2" msg="" />
+    <String id="12204" existTime="2" msg="" />
+    <String id="12205" existTime="1" msg="" />
+    <String id="12206" existTime="1" msg="" />
+    <String id="19201" msg="&lt;font size='40'&gt;Это тестовое сообщение.&lt;/font&gt;" />
+    <String id="47901" msg="Великий Сараваш, дай мне силу!" />
+    <String id="47902" msg="Сила переполняет!" />
+    <String id="47903" msg="Удвоенная сила!" />
+    <String id="47904" msg="Утроенная сила!" />
+    <String id="47905" msg="Учетверенная сила!" />
+    <String id="47906" msg="Пятикратная сила!" />
+    <String id="47907" msg="Нападайте вместе!" />
+    <String id="47908" msg="Пойте песню горя!" />
+    <String id="47909" msg="В атаку! В атаку!" />
+    <String id="47910" msg="Сопротивление бесполезно!" />
+    <String id="47912" msg="Я убью вас всех!" />
+    <String id="47913" msg="Умри медленно и мучительно!" />
+    <String id="47914" msg="Ха! Мои удары сотрясают землю!" />
+    <String id="47915" msg="Ко мне, мои ядовитые паразиты." />
+    <String id="47916" msg="Кто ты? Я тебе не доверяю..." />
+    <String id="47917" existTime="5" msg="&lt;font size='40'&gt;Приближаются гориллы!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="47918" existTime="5" msg="&lt;font size='40'&gt;Виррсек испускает ядовитый газ.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="47919" existTime="5" msg="&lt;font size='40'&gt;Все молодые василиски мертвы.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="47920" existTime="5" msg="&lt;font size='40'&gt;Василиски защищают свою молодь.&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="47921" existTime="5" msg="&lt;font size='40'&gt;Разбейте бочонки с вином Белсамаэля, прежде чем он осушит их!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="47922" existTime="5" msg="&lt;font size='40'&gt;Убейте Сараваша, прежде чем он закончит.&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="47930" msg="Тебе меня не обмануть!" />
+    <String id="49401" msg="Кто здесь?" />
+    <String id="49402" msg="Одержит ли победу природа?" />
+    <String id="49403" existTime="5" msg="На тебе мое проклятье." msgOnScreen="true" styleId="37" />
+    <String id="49404" existTime="5" msg="Придите, призраки тьмы!" msgOnScreen="true" styleId="37" />
+    <String id="49405" existTime="5" msg="Погоди немного. Ты на очереди." msgOnScreen="true" styleId="37" />
+    <String id="49406" existTime="5" msg="Я тебя растопчу!" msgOnScreen="true" styleId="37" />
+    <String id="49407" msg="Что это за звук?" />
+    <String id="49408" existTime="5" msg="Особая атака морозного великана" msgOnScreen="true" styleId="37" />
+    <String id="49409" existTime="5" msg="Думаешь, это все, что у меня есть?" msgOnScreen="true" styleId="37" />
+    <String id="49410" existTime="5" msg="Что вы натворили?" msgOnScreen="true" styleId="37" />
+    <String id="49411" existTime="5" msg="Придите, слуги мои!" msgOnScreen="true" styleId="37" />
+    <String id="49412" existTime="5" msg="Призываю..." msgOnScreen="true" styleId="37" />
+    <String id="49413" msg="Темный дух, придай мне СИЛУ!" />
+    <String id="49414" msg="Моя палица не знает жалости." />
+    <String id="49415" existTime="5" msg="Ар-р!" msgOnScreen="true" styleId="37" />
+    <String id="49416" existTime="5" msg="Лежать, псы!" msgOnScreen="true" styleId="37" />
+    <String id="49417" msg="Узрите безграничную ярость легиона!" />
+    <String id="49418" msg="Легион вечен!" />
+    <String id="49419" existTime="5" msg="Я покажу тебе ад!" msgOnScreen="true" styleId="37" />
+    <String id="49420" msg="Ха! Это место станет твоей могилой." />
+    <String id="49421" msg="Сюда-то мне и надо было..." />
+    <String id="49422" existTime="7" msg="Что вы натворили?" msgOnScreen="true" styleId="37" />
+    <String id="49423" existTime="5" msg="Преисподняя придет за тобой!" msgOnScreen="true" styleId="37" />
+    <String id="49424" msg="Думаешь, это так просто?" />
+    <String id="49425" existTime="5" msg="Что-то не так." msgOnScreen="true" styleId="37" />
+    <String id="49426" msg="Поймай меня, если сможешь!" />
+    <String id="49427" existTime="5" msg="Кто смеет нарушать мое уединение?" msgOnScreen="true" styleId="37" />
+    <String id="49428" msg="Это конец..." />
+    <String id="49429" msg="Почему вы не нападаете?" />
+    <String id="49430" msg="Сомкнуть строй! Внимание!" />
+    <String id="49431" msg="Хоп! Хоп!" />
+    <String id="87001" msg="Кто смеет нарушать покой Рато?" />
+    <String id="87002" msg="Присоединись ко мне! Энергии Лакана хватит на всех!" />
+    <String id="87003" msg="Тебе не справиться со мной. Ни сейчас, ни в будущем!" />
+    <String id="102201" existTime="4" msg="Безумие Нексуса приводит монстра в огненную ярость." msgOnScreen="true" styleId="37" />
+    <String id="102202" existTime="4" msg="Вал Нексуса приводит монстра в огненную ярость!" msgOnScreen="true" styleId="37" />
+    <String id="102203" existTime="4" msg="Рвение Нексуса укрепляет монстра!" msgOnScreen="true" styleId="37" />
+    <String id="110001" existTime="10" msg="Призван монолит барьера на втором этаже!" msgOnScreen="true" styleId="50" />
+    <String id="110002" existTime="10" msg="Призван токсичный монолит на втором этаже!" msgOnScreen="true" styleId="50" />
+    <String id="110003" existTime="10" msg="Призван солдат-самоубийца на втором этаже!" msgOnScreen="true" styleId="50" />
+    <String id="110004" existTime="10" msg="Призван монолит барьера на первом этаже!" msgOnScreen="true" styleId="50" />
+    <String id="110005" existTime="10" msg="Призван токсичный монолит на первом этаже!" msgOnScreen="true" styleId="50" />
+    <String id="110006" existTime="10" msg="Призван солдат-самоубийца на первом этаже!" msgOnScreen="true" styleId="50" />
+    <String id="112001" existTime="10" msg="На арену выходит Нага-грабитель!" msgOnScreen="true" styleId="43" />
+    <String id="112002" existTime="10" msg="На арену выходит Внушительный тералит!" msgOnScreen="true" styleId="43" />
+    <String id="181001" msg="Ох! Ой! А ну, проваливай!" onlyBalloon="true" />
+    <String id="181002" msg="Меня кто-нибудь слышит? Это я, Пэйсен!" onlyBalloon="true" />
+    <String id="181003" msg="Золин! Дугал! Родос! Кто-нибудь!" onlyBalloon="true" />
+    <String id="181004" msg="Отпусти меня, пожалуйста!" onlyBalloon="true" />
+    <String id="181005" msg="Я здесь умру, я точно знаю..." onlyBalloon="true" />
+    <String id="181006" msg="Кто же нам поможет?.." onlyBalloon="true" />
+    <String id="181007" msg="Кто-нибудь! На помощь!" onlyBalloon="true" />
+    <String id="181008" msg="Я хочу обратно в лабораторию!" onlyBalloon="true" />
+    <String id="181009" msg="На помощь! Кто-нибудь, помогите!" onlyBalloon="true" />
+    <String id="181010" msg="Ты спасаешь мне жизнь!" onlyBalloon="true" />
+    <String id="181011" msg="Вместе со мной спасены мои исследования." onlyBalloon="true" />
+    <String id="181012" msg="Ты, случайно, не увлекаешься археологией?" onlyBalloon="true" />
+    <String id="181013" msg="Демокроны берут над нами верх. Работать с каждым днем все сложнее." onlyBalloon="true" />
+    <String id="181014" msg="Кто смеет будить меня от векового сна?" onlyBalloon="true" />
+    <String id="181015" msg="Ты уснешь вместе со мной!" onlyBalloon="true" />
+    <String id="181016" msg="Ты превратишься в труп!" onlyBalloon="true" />
+    <String id="181017" msg="Те, кто мешает мне, поплатятся за это!" onlyBalloon="true" />
+    <String id="181018" msg="Сжалься! Кр-рк!" onlyBalloon="true" />
+    <String id="181019" msg="Кр-рк! Пленники!" onlyBalloon="true" />
+    <String id="181020" msg="Здесь любопытно!" onlyBalloon="true" />
+    <String id="181021" msg="Хотелось бы мне исследовать это место!" onlyBalloon="true" />
+    <String id="181022" msg="Что за место!" onlyBalloon="true" />
+    <String id="181023" msg="Впервые вижу такое!" onlyBalloon="true" />
+    <String id="183001" msg="Верикам? В чем дело?" onlyBalloon="true" />
+    <String id="183002" msg="Что с нами теперь будет?" onlyBalloon="true" />
+    <String id="183003" msg="Какая трагедия..." onlyBalloon="true" />
+    <String id="183004" msg="Что же теперь будет, без Верикама?" onlyBalloon="true" />
+    <String id="183005" msg="Здесь становится опасно." onlyBalloon="true" />
+    <String id="183006" msg="Плач барака поднимается в черное небо." onlyBalloon="true" />
+    <String id="183007" msg="Надвигаются силы преисподней." onlyBalloon="true" />
+    <String id="183008" msg="Конец близок!" onlyBalloon="true" />
+    <String id="183009" msg="Близится холодная ночь, и цветы прячутся перед надвигающейся тьмой." onlyBalloon="true" />
+    <String id="183010" msg="За странниками крадется зловещий туман." onlyBalloon="true" />
+    <String id="183011" msg="Валькионская Федерация пришла на помощь!" onlyBalloon="true" />
+    <String id="250001" msg="Послушники Лока превыше всего!" />
+    <String id="250002" msg="Лок! Лок!" />
+    <String id="250003" msg="Лок! Прошу, вернись к нам!" />
+    <String id="410001" msg="За Кайатор!" />
+    <String id="410002" msg="Тебе не убежать!" />
+    <String id="410003" msg="Не стоит недооценивать стражу!" />
+    <String id="410004" msg="Проклятые клоуны!" />
+    <String id="412001" msg="Я воспользуюсь этим, чтобы оглушить монстра. А ты в это время атакуй!" />
+    <String id="416001" msg="Ух." />
+    <String id="416002" msg="Р-ра-а-а-а!" />
+    <String id="416003" msg="В атаку! Валькион победит!" />
+    <String id="416004" msg="Оставьте пациентов мне." />
+    <String id="416005" msg="Не сдавайся! Держись!" />
+    <String id="416006" msg="Крепись, солдат." />
+    <String id="416007" msg="Вперед, бегом!" />
+    <String id="416008" msg="Получай!" />
+    <String id="416009" msg="Покончим с этим!" />
+    <String id="416010" msg="Блокируйте атаку." />
+    <String id="416011" msg="Заблокируй-ка вот это!" />
+    <String id="416012" msg="Бей и исчезай без следа!" />
+    <String id="416013" msg="Потерпи, солдат." />
+    <String id="416014" msg="Покажи, на что ты способен!" />
+    <String id="416015" msg="Я прикрою справа!" />
+    <String id="416016" msg="Я прикрою слева!" />
+    <String id="416017" msg="Тут брешь!" />
+    <String id="416018" msg="Я буду прикрывать сзади." />
+    <String id="416019" msg="Пробудитесь, духи!.." />
+    <String id="416020" msg="Никогда не отступать!" />
+    <String id="424001" existTime="10" msg="Камень расплавится у тебя под ногами!" msgOnScreen="true" styleId="37" />
+    <String id="424002" existTime="10" msg="Берегись кровопийц!" msgOnScreen="true" styleId="37" />
+    <String id="424003" existTime="10" msg="Жалкие твари! Я выпью из ваших черепов!" msgOnScreen="true" styleId="37" />
+    <String id="424004" existTime="10" msg="Твои жалкие усилия тщетны!" msgOnScreen="true" styleId="37" />
+    <String id="424005" existTime="10" msg="Из портала появляется враг." msgOnScreen="true" styleId="37" />
+    <String id="425001" existTime="3" msg="Цель: {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="425002" existTime="3" msg="Цель: {targetName}, 5." msgOnScreen="true" styleId="37" />
+    <String id="425003" existTime="3" msg="Цель: {targetName}, 4." msgOnScreen="true" styleId="37" />
+    <String id="425004" existTime="3" msg="Цель: {targetName}, 3." msgOnScreen="true" styleId="37" />
+    <String id="425005" existTime="3" msg="Цель: {targetName}, 2." msgOnScreen="true" styleId="37" />
+    <String id="425006" existTime="3" msg="Цель: {targetName}, 1." msgOnScreen="true" styleId="37" />
+    <String id="425007" existTime="10" msg="Цель: {targetName}, огонь!" msgOnScreen="true" styleId="37" />
+    <String id="425008" existTime="6" msg="Кумас перезаряжается." msgOnScreen="true" styleId="37" />
+    <String id="425009" existTime="10" msg="Новая цель: {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="425010" existTime="10" msg="{targetName} не видит истины." msgOnScreen="true" styleId="37" />
+    <String id="425011" existTime="10" msg="Появляется поле целительной энергии." msgOnScreen="true" styleId="42" />
+    <String id="425012" existTime="10" msg="Очиститель работает." msgOnScreen="true" styleId="42" />
+    <String id="426001" existTime="10" msg="Здесь есть больше, чем кажется..." msgOnScreen="true" styleId="37" />
+    <String id="426002" existTime="10" msg="Хватит мне мешать!" msgOnScreen="true" styleId="37" />
+    <String id="426003" existTime="5" msg="Враг заметил персонажа {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="426004" existTime="10" msg="Враг заметил персонажа {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="426005" existTime="10" msg="Враг заметил персонажа {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="426006" existTime="10" msg="Пришло время призвать Келбу-наблюдателя!" msgOnScreen="true" styleId="37" />
+    <String id="426007" existTime="10" msg="Призван Баритзал-слуга." msgOnScreen="true" styleId="37" />
+    <String id="427001" msg="Ну что, понравилось? У меня есть еще!" />
+    <String id="427002" msg="Это лучшее, на что вы способны?" />
+    <String id="427003" msg="Рано или поздно вы все склонитесь пред королевой." />
+    <String id="427004" existTime="4" msg="Вы будете молить меня о смерти!" msgOnScreen="true" styleId="42" />
+    <String id="427006" existTime="4" msg="Тебе повезло!" msgOnScreen="true" styleId="42" />
+    <String id="427010" msg="Подходи! Умри за меня!" />
+    <String id="427011" msg="Нет! Тебе не победить меня. Ты не можешь победить меня!" />
+    <String id="427015" existTime="4" msg="Все бросившие мне вызов уже мертвы. Ты не станешь исключением." msgOnScreen="true" styleId="42" />
+    <String id="427016" existTime="4" msg="Думаешь, ты можешь со мной справиться? Нет!" msgOnScreen="true" styleId="42" />
+    <String id="427018" msg="Заходи, если хочешь. Уйти тебе не удастся." />
+    <String id="427019" existTime="4" msg="Ага, вот вы где. Значит, искать вас не придется." msgOnScreen="true" styleId="37" />
+    <String id="427021" msg="Мне сказали, что какие-то глупцы пришли за своей смертью." />
+    <String id="427022" msg="Думаешь, победа у тебя в руках? Ошибаешься!" />
+    <String id="427023" msg="Не поднимай шум. Умри достойно!" />
+    <String id="427025" existTime="4" msg="Итак, вы желаете смерти. Очень хорошо. Я дарую вам ее." msgOnScreen="true" styleId="37" />
+    <String id="427026" existTime="4" msg="Вы меня разбудили. За это вас ждет ужасная гибель." msgOnScreen="true" styleId="37" />
+    <String id="427027" existTime="4" msg="Узрите вершину развития аргонов! Меня!" msgOnScreen="true" styleId="37" />
+    <String id="427028" existTime="4" msg="Мой пик развития - ваша боль!" msgOnScreen="true" styleId="37" />
+    <String id="427029" existTime="4" msg="Я живу, чтобы вы могли умереть" msgOnScreen="true" styleId="37" />
+    <String id="427030" existTime="4" msg="Просыпайтесь, верные слуги. Ваше время пришло." msgOnScreen="true" styleId="42" />
+    <String id="427036" existTime="5" msg="&lt;font size='40'&gt;Хочешь ранить меня? Сначала попробуй меня достать!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="427040" existTime="5" msg="&lt;font size='40'&gt;Я несу смерть!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="427044" msg="Я с удовольствием прикончу тебя." />
+    <String id="427046" msg="Твой путь подошел к концу." />
+    <String id="427047" msg="Стой смирно, и я убью тебя быстро." />
+    <String id="427048" existTime="4" msg="Вас окатывает волна зла." msgOnScreen="true" styleId="37" />
+    <String id="427049" existTime="4" msg="Этого недостаточно! Гнев королевы не остановить." msgOnScreen="true" styleId="37" />
+    <String id="427050" existTime="5" msg="&lt;font size='40'&gt;О, великие! Придайте мне силу!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="427051" existTime="5" msg="Знайте, что убежать вам не удастся." msgOnScreen="true" styleId="42" />
+    <String id="443001" existTime="2" msg="&lt;font size='40'&gt;Тебе здесь не пройти!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443002" existTime="2" msg="Здесь нет никого, кроме воющих тюленей. Ха!" msgOnScreen="false" styleId="37" />
+    <String id="443003" existTime="2" msg="Враги!" msgOnScreen="false" styleId="37" />
+    <String id="443004" existTime="2" msg="Осмотрись очень внимательно!" msgOnScreen="false" styleId="37" />
+    <String id="443005" existTime="2" msg="&lt;font size='40'&gt;Кровь закипает... я покажу  тебе, что такое боль!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443006" existTime="2" msg="Хе-хе..." msgOnScreen="false" styleId="37" />
+    <String id="443007" existTime="2" msg="В нас нет жалости к таким, как вы." msgOnScreen="false" styleId="37" />
+    <String id="443008" existTime="2" msg="Мы сожрем тебя без остатка, даже кости!" msgOnScreen="false" styleId="37" />
+    <String id="443009" existTime="2" msg="Мы вырвем твои зубы!" msgOnScreen="false" styleId="37" />
+    <String id="443010" existTime="2" msg="&lt;font size='40'&gt;Новая игрушка? Для меня? Ломать!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443011" existTime="2" msg="&lt;font size='40'&gt;Качусь-качусь-качусь!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443012" existTime="2" msg="&lt;font size='40'&gt;Посмотрим, как ты от этого увернешься!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443013" existTime="2" msg="&lt;font size='40'&gt;Умри! Умри!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443014" existTime="2" msg="&lt;font size='40'&gt;Ха-ха!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443015" existTime="2" msg="&lt;font size='40'&gt;Тебе отсюда не уйти!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443016" msg="Эта травка всех спасет." />
+    <String id="443017" msg="Здесь столько чудовищ..." />
+    <String id="443018" msg="Какая милашка!" />
+    <String id="443019" msg="Если такой яд попадет в кровь, это верная смерть." />
+    <String id="443020" msg="Делать противоядия - кропотливая работа!" />
+    <String id="443021" msg="Повезло, что у меня были хорошие учителя." />
+    <String id="443022" msg="Мы почти на месте." />
+    <String id="443023" existTime="2" msg="&lt;font size='40'&gt;Гха! Сколько силы! Я сокрушу вас!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443024" existTime="2" msg="&lt;font size='40'&gt;Ха... попробуй-ка снять это проклятье.&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443025" existTime="2" msg="&lt;font size='40'&gt;Вот вы и в ловушке!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="443026" msg="Вперед, вперед! Уничтожить их!" />
+    <String id="443027" msg="Не стоит заходить туда, откуда нет возврата." />
+    <String id="443028" msg="Запомните, их всех надо убить одновременно." />
+    <String id="443029" msg="Эй! Сюда! Эй!" />
+    <String id="443030" msg="Не злите меня!" />
+    <String id="443031" msg="&lt;font size='40'&gt;Это место станет твоей могилой.&lt;/font&gt;" />
+    <String id="443032" msg="&lt;font size='40'&gt;Принесите мне их головы!&lt;/font&gt;" />
+    <String id="443033" msg="&lt;font size='40'&gt;Да кто вы такие?&lt;/font&gt;" />
+    <String id="443034" msg="&lt;font size='40'&gt;Слуги! Прикончите их!&lt;/font&gt;" />
+    <String id="443035" msg="Незваные гости, значит?" />
+    <String id="443036" msg="Посмотрим, на что вы годны!" />
+    <String id="443037" msg="Ха-ха!" />
+    <String id="443038" msg="Покоритесь мне!" />
+    <String id="443039" existTime="5" msg="&lt;font size='40'&gt;Катится камень!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="443040" msg="&lt;font size='40'&gt;Тревога! Тревога! Тревога!&lt;/font&gt;" />
+    <String id="443041" msg="&lt;font size='40'&gt;Неверный приказ. Готовьтесь к смерти.&lt;/font&gt;" />
+    <String id="443042" msg="&lt;font size='40'&gt;Проклятье подействует через 3 секунды.&lt;/font&gt;" />
+    <String id="443043" msg="&lt;font size='40'&gt;3&lt;/font&gt;" />
+    <String id="443044" msg="&lt;font size='40'&gt;2&lt;/font&gt;" />
+    <String id="443045" msg="&lt;font size='40'&gt;1&lt;/font&gt;" />
+    <String id="443046" msg="&lt;font size='40'&gt;Проклятье вскоре подействует.&lt;/font&gt;" />
+    <String id="443047" msg="&lt;font size='40'&gt;Определение статуса&lt;/font&gt;" />
+    <String id="443048" msg="&lt;font size='40'&gt;...&lt;/font&gt;" />
+    <String id="443049" msg="&lt;font size='40'&gt;Верный приказ об отмене.&lt;/font&gt;" />
+    <String id="443050" msg="&lt;font size='40'&gt;Проклятие будет отменено через 3 секунды.&lt;/font&gt;" />
+    <String id="443051" msg="Вот вы где!" />
+    <String id="443052" msg="&lt;font size='40'&gt;Умрите!&lt;/font&gt;" />
+    <String id="443053" msg="&lt;font size='40'&gt;Иди сюда! Я с тобой разберусь!&lt;/font&gt;" />
+    <String id="443054" msg="&lt;font size='40'&gt;Готовься к худшему!&lt;/font&gt;" />
+    <String id="443055" msg="Ломайте осадные орудия!" />
+    <String id="443056" msg="Защищайте голема!" />
+    <String id="443057" msg="&lt;font size='40'&gt;А-а-а-а!&lt;/font&gt;" />
+    <String id="443058" msg="&lt;font size='40'&gt;Вас слишком мало!&lt;/font&gt;" />
+    <String id="443059" msg="&lt;font size='40'&gt;Проклятье вскоре отменится.&lt;/font&gt;" />
+    <String id="443060" msg="&lt;font size='40'&gt;Проклятье начало действовать.&lt;/font&gt;" />
+    <String id="443061" msg="&lt;font size='40'&gt;Проклятье отменено.&lt;/font&gt;" />
+    <String id="443062" msg="&lt;font size='40'&gt;Думаешь, тебе везет?&lt;/font&gt;" />
+    <String id="443063" msg="&lt;font size='40'&gt;Ха!&lt;/font&gt;" />
+    <String id="443064" msg="&lt;font size='40'&gt;От меня не убежать!&lt;/font&gt;" />
+    <String id="443065" msg="&lt;font size='40'&gt;Очко в мою пользу!&lt;/font&gt;" />
+    <String id="443066" msg="&lt;font size='40'&gt;Еще хочешь?&lt;/font&gt;" />
+    <String id="443067" msg="&lt;font size='40'&gt;У тебя больше сил, чем мне казалось... удивительно! И, тем не менее, тебе конец!&lt;/font&gt;" />
+    <String id="443068" msg="Убейте этих подонков!" />
+    <String id="443069" msg="Они сломали надгробие!" />
+    <String id="443070" msg="В бой!" />
+    <String id="443071" msg="Защищайте смотрителя!" />
+    <String id="443072" msg="&lt;font size='40'&gt;Нет! Мой щит!&lt;/font&gt;" />
+    <String id="443073" msg="&lt;font size='40'&gt;Я не хочу так проиграть!&lt;/font&gt;" />
+    <String id="443074" msg="&lt;font size='40'&gt;Умрите!&lt;/font&gt;" />
+    <String id="443075" msg="&lt;font size='40'&gt;Не могу в это поверить!&lt;/font&gt;" />
+    <String id="443076" msg="Тебе нужно мое зелье?" />
+    <String id="443077" msg="Ненавижу насекомых." />
+    <String id="443078" msg="На меня наложили проклятье... а потом я ничего не помню." />
+    <String id="443079" msg="Свет... я вижу свет!" />
+    <String id="443080" msg="&lt;font size='40'&gt;У вас ничего не выйдет!&lt;/font&gt;" />
+    <String id="443081" msg="&lt;font size='40'&gt;Я лично буду защищать Алисс!&lt;/font&gt;" />
+    <String id="443082" msg="&lt;font size='40'&gt;Катите! Катите!&lt;/font&gt;" />
+    <String id="443083" msg="&lt;font size='40'&gt;Еще! Один! Раз!&lt;/font&gt;" />
+    <String id="443084" msg="&lt;font size='40'&gt;Эй! &lt;/font&gt;" />
+    <String id="443099" existTime="2" msg="Мы сварим из тебя суп!" msgOnScreen="false" styleId="37" />
+    <String id="443999" existTime="2" msg="Ха! Не такие уж вы плохие. Увидимся!" msgOnScreen="false" styleId="37" />
+    <String id="450001" existTime="7" msg="&lt;font size='50'&gt;Ятивио призвал для защиты своих приспешников!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450002" existTime="3" msg="&lt;font size='20'&gt;Сытно покушать - вовсе не преступление!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450003" existTime="3" msg="&lt;font size='20'&gt;Бац! Бац! Прямо по башке!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450004" existTime="3" msg="&lt;font size='20'&gt;Покорми меня! Покорми-и-и!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450005" existTime="3" msg="&lt;font size='20'&gt;Мы убийственно красивы!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450006" existTime="5" msg="&lt;font size='50'&gt;Колеогг подготавливает разряд молнии!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450007" existTime="3" msg="&lt;font size='20'&gt;Сейчас пошумим!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450009" existTime="5" msg="&lt;font size='50'&gt;Веспоракс разбрызгивает по пещере кислоту!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450010" existTime="3" msg="&lt;font size='20'&gt;Как я голоден! Пора подкрепиться!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450011" existTime="3" msg="&lt;font size='20'&gt;Кто покормит меня следующим?&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450012" existTime="3" msg="&lt;font size='20'&gt;Вам не справиться с самой природой, малявки!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450013" existTime="7" msg="&lt;font size='50'&gt;Разряд молнии Колеогга почти готов!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450014" existTime="7" msg="&lt;font size='50'&gt;Колеогг поражает гнездо молнией!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450015" existTime="3" msg="&lt;font size='20'&gt;Ха! Понравилось?&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450016" existTime="3" msg="&lt;font size='20'&gt;Эй! Эй!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450017" existTime="3" msg="&lt;font size='20'&gt;Растет! Растет!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450018" existTime="3" msg="&lt;font size='20'&gt;Мне нужно больше сил!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450019" existTime="3" msg="&lt;font size='20'&gt;Я чувствую, как сила разливается по моим жилам!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450020" existTime="7" msg="&lt;font size='50'&gt;Земля трясется!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450021" existTime="3" msg="&lt;font size='25'&gt;Тс-с. Смотри не попадись.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450022" existTime="3" msg="&lt;font size='20'&gt;Я сейчас могу корову съесть... но и ты сгодишься.&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450023" existTime="4" msg="&lt;font size='20'&gt;Назойливые недоумки!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450024" existTime="4" msg="&lt;font size='20'&gt;Вам не забрать мое сокровище!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450025" existTime="3" msg="&lt;font size='20'&gt;Я убью вас всех!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="450026" existTime="10" msg="&lt;font size='35'&gt;{targetName}! Веспоракс призывает пчел!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="450027" existTime="3" msg="&lt;font size='20'&gt;Похоже, что все готовы. Что ж, приступим.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450028" existTime="3" msg="&lt;font size='20'&gt;Сегодня отличный день для запуска дирижабля.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450029" existTime="3" msg="&lt;font size='20'&gt;Фьюить! Идем, Аззем!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450030" existTime="3" msg="&lt;font size='20'&gt;Дурацкие монстры! Получайте!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450031" existTime="3" msg="&lt;font size='20'&gt;Слышишь этот скрипучий звук?&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450032" existTime="3" msg="&lt;font size='20'&gt;Ага! Вот оно. Нашел.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450033" existTime="3" msg="&lt;font size='20'&gt;Убей это мерзкое растение. Сделай это одним ударом.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450034" existTime="3" msg="&lt;font size='20'&gt;Не хватает сил, да?&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450035" existTime="3" msg="&lt;font size='20'&gt;Покажи мне, что ты можешь.&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="451001" msg="Ва-а!" onlyBalloon="true" />
+    <String id="451002" msg="Ва ва-а!" onlyBalloon="true" />
+    <String id="451003" msg="Ва-а-а!" onlyBalloon="true" />
+    <String id="451004" msg="Умри, грязная тварь!" onlyBalloon="true" />
+    <String id="451005" msg="Да ну!" onlyBalloon="true" />
+    <String id="451006" msg="Ух-х!" onlyBalloon="true" />
+    <String id="451007" msg="Ха! Даже не больно!" onlyBalloon="true" />
+    <String id="451008" msg="Змея!" onlyBalloon="true" />
+    <String id="451009" msg="Змеи... очень опасные." onlyBalloon="true" />
+    <String id="451010" msg="Иди ты вперед." onlyBalloon="true" />
+    <String id="451011" msg="Ай-и-и!" onlyBalloon="true" />
+    <String id="452001" msg="" onlyBalloon="true" />
+    <String id="452002" msg="Что это было?" onlyBalloon="true" />
+    <String id="452003" msg="Ай-и-и!" onlyBalloon="true" />
+    <String id="452004" msg="Ква!" onlyBalloon="true" />
+    <String id="452005" msg="Ква-ква!" onlyBalloon="true" />
+    <String id="452006" msg="Убить нарушителей!" onlyBalloon="true" />
+    <String id="452007" msg="Глуда, даруй мне силу." onlyBalloon="true" />
+    <String id="452008" msg="Крови! Крови!" onlyBalloon="true" />
+    <String id="452009" msg="Месть, месть, месть..." onlyBalloon="true" />
+    <String id="452010" msg="Вкуснятина." onlyBalloon="true" />
+    <String id="452011" msg="Ха-ха-ха!" onlyBalloon="true" />
+    <String id="452012" msg="Давайте сюда еще крови!" onlyBalloon="true" />
+    <String id="452013" msg="Уберите их отсюда." onlyBalloon="true" />
+    <String id="452014" msg="Избавьтесь от этих любителей солнца!" onlyBalloon="true" />
+    <String id="452015" msg="Хе-хе!" onlyBalloon="true" />
+    <String id="452016" msg="Подарки от Глуды!" onlyBalloon="true" />
+    <String id="452017" msg="Ам!" onlyBalloon="true" />
+    <String id="452018" msg="Вкусно!" onlyBalloon="true" />
+    <String id="452019" msg="Пахнет чесноком..." onlyBalloon="true" />
+    <String id="452020" msg="Нарушители! Нарушители!" onlyBalloon="true" />
+    <String id="452021" msg="Умрите!" onlyBalloon="true" />
+    <String id="452022" msg="Хр-р!" onlyBalloon="true" />
+    <String id="452023" msg="А-а! Не подходи! Не подходи!" onlyBalloon="true" />
+    <String id="452024" msg="На помощь! Меня кто-нибудь слышит?" onlyBalloon="true" />
+    <String id="452025" msg="На помощь! А-а!" onlyBalloon="true" />
+    <String id="452026" msg="Хе-хе!" onlyBalloon="true" />
+    <String id="452027" msg="А-а!" onlyBalloon="true" />
+    <String id="452028" msg="Ха!" onlyBalloon="true" />
+    <String id="452029" msg="Ха-ха!" onlyBalloon="true" />
+    <String id="452030" msg="Лови!" onlyBalloon="true" />
+    <String id="452031" msg="Пустить им кровь!" onlyBalloon="true" />
+    <String id="452032" msg="Выглядит аппетитно!" onlyBalloon="true" />
+    <String id="452033" msg="Глуда!" onlyBalloon="true" />
+    <String id="452034" msg="На помощь! Беда!" onlyBalloon="true" />
+    <String id="452035" msg="Стража! Стража!" onlyBalloon="true" />
+    <String id="454001" msg="Будет немного больно." onlyBalloon="true" />
+    <String id="454002" existTime="7" msg="&lt;font size='60'&gt;Фульминар копит силы для сокрушительной атаки.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454003" existTime="7" msg="&lt;font size='45'&gt;Давай мы тебя укоротим!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454004" existTime="7" msg="&lt;font size='45'&gt;Я несу вам дар уничтожения.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454005" existTime="7" msg="&lt;font size='50'&gt;Вода устремляется в комнату.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454006" existTime="7" msg="&lt;font size='50'&gt;Вода устремляется в комнату.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454007" existTime="7" msg="&lt;font size='50'&gt;Вода устремляется в комнату.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454008" existTime="3" msg="&lt;font size='45'&gt;Вода сливается из бассейна.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454009" existTime="3" msg="&lt;font size='45'&gt;Вода слилась из бассейна.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454010" existTime="3" msg="&lt;font size='45'&gt;Справишься ли ты со своим страхом? Сомневаюсь!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454011" existTime="3" msg="&lt;font size='45'&gt;Тебе не выстоять перед моим могуществом!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454012" existTime="3" msg="&lt;font size='45'&gt;Воздух тут слишком свежий. Сейчас мы это исправим!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454013" existTime="3" msg="&lt;font size='45'&gt;Нет противоядия от моей ярости!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454014" msg="Здесь повсюду камары!" onlyBalloon="true" />
+    <String id="454015" existTime="7" msg="&lt;font size='60'&gt;Фульминар готовится нанести решающий удар.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="454016" existTime="7" msg="&lt;font size='45'&gt;Давайте-ка ускоримся!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="457001" existTime="3" msg="&lt;font size='40'&gt;Тело Арчерона содрогается!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457002" existTime="3" msg="&lt;font size='40'&gt;Арчерон падает спиной на землю&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457003" existTime="3" msg="&lt;font size='40'&gt;Приближаются лавовые монстры!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="457004" existTime="3" msg="&lt;font size='40'&gt;Вы все сгорите!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457005" existTime="3" msg="&lt;font size='40'&gt;Вы будете гореть вечно!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457006" existTime="3" msg="&lt;font size='40'&gt;Вы никогда не перестанете гореть!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457007" existTime="3" msg="&lt;font size='40'&gt;Весь мир сгорит!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457008" existTime="3" msg="&lt;font size='40'&gt;Перезаряжает Шкалу событий при помощи событий подземелья&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457009" existTime="3" msg="&lt;font size='40'&gt;Перезаряжает Шкалу событий при помощи навыков&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457010" existTime="3" msg="&lt;font size='40'&gt;Катлас! Принеси их мне&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457011" existTime="3" msg="&lt;font size='40'&gt;Мой огонь... угасает...&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457012" existTime="3" msg="&lt;font size='40'&gt;Почувствуй жар моего гнева!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457013" existTime="3" msg="&lt;font size='40'&gt;Гори!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457014" existTime="3" msg="&lt;font size='40'&gt;Почувствуй мою мощь!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457015" existTime="3" msg="&lt;font size='40'&gt;Используй меч!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457016" existTime="10" msg="&lt;font size='40'&gt;Катлас! {targetName} - вот главная опасность!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457017" existTime="3" msg="&lt;font size='40'&gt;&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457018" existTime="3" msg="&lt;font size='40'&gt;Глупцы! Сейчас вы ощутите мою ярость!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457019" existTime="3" msg="&lt;font size='40'&gt;Катлас! Прими мой дар огня!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457020" existTime="3" msg="&lt;font size='40'&gt;Железные решетки поднимутся через 10 секунд.&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457021" existTime="3" msg="&lt;font size='40'&gt;Подлетает метеорит!!!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457022" existTime="3" msg="&lt;font size='40'&gt;Мистель - Божественный меч восстанавливает здоровье&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="457023" existTime="3" msg="&lt;font size='40'&gt;Я уничтожу тебя!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457024" existTime="3" msg="&lt;font size='40'&gt;Ты уснешь глубоким сном&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457025" existTime="3" msg="&lt;font size='40'&gt;Ветер сметет тебя&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+    <String id="457026" existTime="3" msg="&lt;font size='40'&gt;Я растоплю твои кости!&lt;/font&gt;" msgOnScreen="false" styleId="42" />
+        <String id="457027" msg="&lt;font size='40'&gt;I...can't control...myself...&lt;/font&gt;" existTime="3" styleId="37" msgOnScreen="false" />
+    <String id="457028" msg="&lt;font size='40'&gt;You must...stop me...&lt;/font&gt;" existTime="3" styleId="37" msgOnScreen="false" />
+    <String id="457029" msg="&lt;font size='40'&gt;Stay vigilant! All of you!&lt;/font&gt;" existTime="3" styleId="37" msgOnScreen="false" />
+    <String id="457030" msg="&lt;font size='40'&gt;Quiet! Get over here!&lt;/font&gt;" existTime="3" styleId="37" msgOnScreen="false" />
+    <String id="457031" msg="&lt;font size='40'&gt;Hey! Over here! And try not to be seen! &lt;/font&gt;" existTime="3" styleId="37" msgOnScreen="false" />
+<String id="464001" msg="На помощь!" />
+    <String id="464002" msg="Куда вы меня тащите?!" />
+    <String id="464003" msg="Владыка! Спаси нас!" />
+    <String id="464004" msg="Стоишь на моем пути?!" />
+    <String id="464005" msg="Я убиваю все, что вижу!" />
+    <String id="464006" msg="Ха!" />
+    <String id="464007" msg="Крушить!" />
+    <String id="464008" msg="Мурак... ты не можешь... нет..." />
+    <String id="464009" msg="Кузнец... не убежать..." />
+    <String id="464010" msg="Скоро все будет кончено..." />
+    <String id="464011" msg="Тулса... все заберет назад..." />
+    <String id="464012" msg="Защищайте... устройство управления!" />
+    <String id="464013" msg="Никому... не уйти... живым..." />
+    <String id="464014" msg="Отправимся... в ад... вместе." />
+    <String id="464015" msg="Защищайте... защищайте..." />
+    <String id="475024" existTime="5" msg="Барьер снят." msgOnScreen="true" styleId="37" />
+    <String id="475025" existTime="5" msg="Келсаик возвращается в центр." msgOnScreen="true" styleId="37" />
+    <String id="475026" existTime="5" msg="Келсаик перезаряжается." msgOnScreen="true" styleId="37" />
+    <String id="475027" existTime="5" msg="Келсаик становится сильнее." msgOnScreen="true" styleId="37" />
+    <String id="475028" existTime="5" msg="Келсаик ревет." msgOnScreen="true" styleId="37" />
+    <String id="475029" existTime="5" msg="Келсаик воет." msgOnScreen="true" styleId="37" />
+    <String id="475030" existTime="5" msg="Келсаик почти завершен. Мир будет уничтожен через 8 минут." msgOnScreen="true" styleId="37" />
+    <String id="475031" existTime="5" msg="Келсаик издает громогласный звук." msgOnScreen="true" styleId="37" />
+    <String id="475032" existTime="3" msg="Келсаик завершен. Вы потеряли поддержку сторожевого камня." msgOnScreen="true" styleId="37" />
+    <String id="475033" existTime="3" msg="(Временное) временная цель - сзади" msgOnScreen="true" styleId="37" />
+    <String id="475034" existTime="3" msg="(Временное) временная цель - слева" msgOnScreen="true" styleId="37" />
+    <String id="475035" existTime="3" msg="(Временное) временная цель - справа" msgOnScreen="true" styleId="37" />
+    <String id="475036" existTime="3" msg="(Временное) временная цель - восстановление" msgOnScreen="true" styleId="37" />
+    <String id="475037" existTime="3" msg="(Временное) временная цель - призыв проклятия" msgOnScreen="true" styleId="37" />
+    <String id="475038" existTime="3" msg="(Временное) временная цель - призыв приспешника" msgOnScreen="true" styleId="37" />
+    <String id="475039" existTime="3" msg="(Временное) временная цель - ошеломление" msgOnScreen="true" styleId="37" />
+    <String id="475040" existTime="3" msg="(Временное) временная цель - воздействие" msgOnScreen="true" styleId="37" />
+    <String id="475041" existTime="5" msg="Вам становится тяжелее дышать." msgOnScreen="true" styleId="37" />
+    <String id="475042" existTime="5" msg="Воздух становится липким." msgOnScreen="true" styleId="37" />
+    <String id="475043" existTime="5" msg="Воздух становится разреженным." msgOnScreen="true" styleId="37" />
+    <String id="475044" existTime="7" msg="Губительный штурмовик просыпается." msgOnScreen="true" styleId="37" />
+    <String id="475045" existTime="7" msg="Губительный жнец просыпается." msgOnScreen="true" styleId="37" />
+    <String id="475046" existTime="7" msg="Губительный меткий стрелок просыпается." msgOnScreen="true" styleId="37" />
+    <String id="475047" existTime="7" msg="Губительный разрушитель пробуждается." msgOnScreen="true" styleId="37" />
+    <String id="475048" existTime="7" msg="Губительный покоритель просыпается." msgOnScreen="true" styleId="37" />
+    <String id="475049" existTime="5" msg="Проснись, мой друг!" msgOnScreen="true" styleId="37" />
+    <String id="475050" existTime="5" msg="Убьем их всех." msgOnScreen="true" styleId="37" />
+    <String id="475051" existTime="5" msg="Вы ранили нашего друга. Вы заплатите за это." msgOnScreen="true" styleId="37" />
+    <String id="475052" existTime="5" msg="Окружающий воздух вновь становится нормальным." msgOnScreen="true" styleId="37" />
+    <String id="475053" existTime="5" msg="Окружающий воздух вдруг становится горячим." msgOnScreen="true" styleId="37" />
+    <String id="477001" existTime="5" msg="Время выбирать..." msgOnScreen="true" styleId="37" />
+    <String id="477002" existTime="5" msg="Могущество великанов!" msgOnScreen="true" styleId="37" />
+    <String id="477003" existTime="5" msg="Не идеально..." msgOnScreen="true" styleId="37" />
+    <String id="477004" existTime="5" msg="Ха-ха! Меня просто так не свалить." msgOnScreen="true" styleId="37" />
+    <String id="477005" existTime="5" msg="Вы слышите шаги." msgOnScreen="true" styleId="37" />
+    <String id="477006" existTime="5" msg="Ха-ха-ха! Это была моя ловушка." msgOnScreen="true" styleId="37" />
+    <String id="477007" existTime="5" msg="Кто позарился на наши сокровища?" msgOnScreen="true" styleId="37" />
+    <String id="477008" existTime="5" msg="Во имя славы!" msgOnScreen="true" styleId="37" />
+    <String id="477009" existTime="5" msg="Прочь с дороги!" msgOnScreen="true" styleId="37" />
+    <String id="477010" existTime="5" msg="Берите того, что сзади!" msgOnScreen="true" styleId="37" />
+    <String id="477011" msg="Как вы слабы..." />
+    <String id="477012" msg="Не отставайте!" />
+    <String id="477013" msg="Исцеление бесполезно!" />
+    <String id="477014" msg="Вот наша цель!" />
+    <String id="477015" msg="Не болтайтесь позади!" />
+    <String id="477016" msg="Щекотно!" />
+    <String id="477017" msg="Не стойте рядом!" />
+    <String id="477018" msg="Что ты творишь?" />
+    <String id="477019" msg="Тебя ждет неминуемая смерть!" />
+    <String id="477020" existTime="5" msg="Тебе не убежать!" msgOnScreen="true" styleId="37" />
+    <String id="478001" msg="Ах ты дерзкая тварь..." />
+    <String id="478002" msg="Умри, невежа!" />
+    <String id="478003" msg="Эта гора станет тебе могильным курганом!" />
+    <String id="478004" msg="Дементалит вытягивает из меня силы..." />
+    <String id="478005" msg="Проклятые аргоны!" />
+    <String id="478006" msg="Аргоны сомнут нас!" />
+    <String id="478007" msg="Мы не удержимся..." />
+    <String id="478008" msg="Ха-ха!" />
+    <String id="478009" msg="Кайдун..." />
+    <String id="478010" existTime="10" msg="{targetName} получает проклятье Сурьяти!" msgOnScreen="true" styleId="37" />
+    <String id="478011" msg="Надо спасти ее!" />
+    <String id="478012" existTime="5" msg="Дементалит поврежден." msgOnScreen="true" styleId="37" />
+    <String id="478013" existTime="5" msg="Дементалит потрескался." msgOnScreen="true" styleId="37" />
+    <String id="478014" existTime="5" msg="Дементалит вот-вот расколется." msgOnScreen="true" styleId="37" />
+    <String id="478015" existTime="5" msg="Дементалит уничтожен." msgOnScreen="true" styleId="37" />
+    <String id="478016" existTime="5" msg="Еще один дементалит поврежден." msgOnScreen="true" styleId="37" />
+    <String id="478017" existTime="5" msg="Еще один дементалит потрескался." msgOnScreen="true" styleId="37" />
+    <String id="478018" existTime="5" msg="Еще один дементалит вот-вот расколется." msgOnScreen="true" styleId="37" />
+    <String id="478019" existTime="5" msg="Еще один дементалит уничтожен." msgOnScreen="true" styleId="37" />
+    <String id="478020" existTime="5" msg="Третий дементалит поврежден." msgOnScreen="true" styleId="37" />
+    <String id="478021" existTime="5" msg="Третий дементалит потрескался." msgOnScreen="true" styleId="37" />
+    <String id="478022" existTime="5" msg="Третий дементалит вот-вот расколется." msgOnScreen="true" styleId="37" />
+    <String id="478023" existTime="5" msg="Третий дементалит уничтожен." msgOnScreen="true" styleId="37" />
+    <String id="478024" existTime="5" msg="Щит Сурьяти поднимается!" msgOnScreen="true" styleId="37" />
+    <String id="478025" existTime="5" msg="Драстгаар бросается в атаку!" msgOnScreen="true" styleId="37" />
+    <String id="478026" msg="Сурьяти постарается взять вас под контроль." />
+    <String id="478027" msg="Осторожно! Сурьяти - это не простой аргон." />
+    <String id="478028" msg="Как сложно сопротивляться его воле..." />
+    <String id="478029" msg="Ты освободишь нас?" />
+    <String id="478030" msg="Сурьяти командует здешними аргонами." />
+    <String id="478031" msg="Ложь! Не слушайте его ложь!" />
+    <String id="478032" msg="Взять его, живо!" />
+    <String id="478033" msg="Осторожнее!" />
+    <String id="478034" existTime="10" msg="Это проклятие может убить всех, кто находится рядом. Не подходите!" msgOnScreen="true" styleId="37" />
+    <String id="478035" existTime="5" msg="Драстгаар дал волю своей ярости!" msgOnScreen="true" styleId="37" />
+    <String id="478036" msg="Чего ты ждешь, Гуфран?" />
+    <String id="478037" msg="Уничтожь этот проклятый камень!" />
+    <String id="478038" msg="Жаль, мы не можем сами это сделать." />
+    <String id="478039" msg="Ты уже на месте?" />
+    <String id="478040" msg="Нужно уничтожить камень!" />
+    <String id="478041" msg="Не могу... шевельнуться!" />
+    <String id="478042" msg="Проснитесь, все!" />
+    <String id="478043" msg="Оно того не стоит!" />
+    <String id="478044" msg="Защищайтесь!" />
+    <String id="478045" msg="Боритесь... с проклятием..." />
+    <String id="478046" msg="Невероятно..." />
+    <String id="478047" msg="Шаулик! Ралзира! Накара!" />
+    <String id="478048" msg="Аргоны придут." />
+    <String id="478049" msg="Будь осторожнее!" />
+    <String id="478050" msg="Теперь ты можешь попасть на ту сторону." />
+    <String id="478051" msg="Прошу... убей... Сурьяти. Отомсти... за нас." />
+    <String id="478052" msg="Задание провалено... но Шандра Манайя не сдается." />
+    <String id="480001" msg="Вперед!" />
+    <String id="480002" msg="Вам конец!" />
+    <String id="480003" msg="Ну давайте!" />
+    <String id="480004" msg="Шквал ударов" />
+    <String id="480005" msg="Град ударов" />
+    <String id="480006" msg="Удар воина" />
+    <String id="480007" msg="Ответный удар" />
+    <String id="481001" existTime="5" msg="Смерть дерзнувшим встать у меня на пути! {targetName}! Пришел твой черед!" msgOnScreen="true" styleId="37" />
+    <String id="495001" existTime="4" msg="Веморот в огне!" msgOnScreen="true" styleId="42" />
+    <String id="495002" existTime="4" msg="" msgOnScreen="true" styleId="42" />
+    <String id="496001" existTime="3" msg="Твои кристаллы не помогут, если их разбить." msgOnScreen="true" styleId="37" />
+    <String id="500001" msg="Где я?" />
+    <String id="500002" msg="Враги падут предо мной!" />
+    <String id="500003" msg="Давайте!" />
+    <String id="600001" msg="Я убираюсь отсюда!" />
+    <String id="600002" msg="На помощь!" />
+    <String id="600003" msg="Не хочу умирать!" />
+    <String id="600004" msg="Пожалуйста... вытащите меня отсюда!" />
+    <String id="600005" msg="Не бросайте нас!" />
+    <String id="600006" msg="Я сделаю все, что скажете!" />
+    <String id="600007" msg="Я... это просто оживший кошмар!" />
+    <String id="766001" existTime="10" msg="Цель атаки - {targetName}!" msgOnScreen="true" styleId="42" />
+    <String id="766002" existTime="5" msg="Разносчик пороха заложил бомбы!" msgOnScreen="true" styleId="42" />
+    <String id="766003" msg="Конец... не могу поверить... это конец..." />
+    <String id="766004" msg="Прошу помощи..." />
+    <String id="766005" msg="У меня для тебя есть кое-что особенное." />
+    <String id="766006" msg="Я с тобой разделаюсь!" />
+    <String id="766007" msg="Я тебя достану!" />
+    <String id="766008" msg="Вперед! Разнесите их!" />
+    <String id="766009" msg="Мне нехорошо..." />
+    <String id="766010" msg="Прикройте меня!" />
+    <String id="766011" msg="Защитите меня!" />
+    <String id="766012" msg="У меня есть все нужные зелья!" />
+    <String id="766013" msg="Зачем вы явились сюда, проделав столь долгий путь?" />
+    <String id="766014" msg="Я сотру тебя в порошок!" />
+    <String id="766015" msg="Тьма, взываю к тебе!" />
+    <String id="766016" msg="Ловушка сработала! Даже слишком просто..." />
+    <String id="766017" msg="Как больно!.." />
+    <String id="766018" msg="На помощь!" />
+    <String id="766019" msg="Спасите меня!" />
+    <String id="766020" msg="Прошу... слишком больно..." />
+    <String id="766021" msg="Все кончено... Я вижу яркий свет..." />
+    <String id="766022" existTime="5" msg="Вы дерзнули бросить вызов Железному Когтю? Глупцы!" msgOnScreen="true" styleId="37" />
+    <String id="766023" existTime="5" msg="Как самоуверенно! Я - Барбоса, ужасный пират!!!" msgOnScreen="true" styleId="37" />
+    <String id="766024" existTime="5" msg="Что-то здесь не так..." onlyBalloon="true" />
+    <String id="766025" existTime="5" msg="Все, кажется, в порядке..." onlyBalloon="true" />
+    <String id="766026" existTime="5" msg="Что это за мусор?" onlyBalloon="true" />
+    <String id="766027" msg="Пока ты не разрушишь барьер, я в полной безопасности!" />
+    <String id="766028" msg="С трудом держишься на ногах? Лучше возьмись за что-нибудь!" />
+    <String id="766029" msg="Мысли путаются? Не следовало тебе связываться со мной!" />
+    <String id="766030" msg="Хочется спать... так сильно хочется спать... " />
+    <String id="766031" msg="Пора бежать!" />
+    <String id="766032" existTime="5" msg="Приготовься встретить своего создателя, {targetName}!" msgOnScreen="true" styleId="37" />
+    <String id="766033" existTime="5" msg="Капитану нужна наша помощь! Как насчет усиления?" msgOnScreen="true" styleId="37" />
+    <String id="766034" msg="Я отдам жизнь за Малмока!" />
+    <String id="777001" msg="Вытащите меня! Я в каменной ловушке!" />
+    <String id="777002" msg="Я сокрушу тебя!" />
+    <String id="777003" msg="Отведай копья, громила!" />
+    <String id="777004" msg="Мое мастерство сделает тебя сильнее." />
+    <String id="777005" msg="Мое мастерство исцелит тебя." />
+    <String id="777006" msg="Вам не победить Керкиона, глупцы!" />
+    <String id="777007" msg="Из боя бегут только трусы!" />
+    <String id="777008" msg="Настоящий боец не показывает спину!" />
+    <String id="777009" msg="Ха-ха! Вы потратили всю энергию, и теперь..." />
+    <String id="777010" msg="Теперь сокровище мое! Оно принадлежит мне, Смугглу!" />
+    <String id="777011" msg="Пока, кретины. Драгоценное сокровище мое!" />
+    <String id="777012" msg="Обнаружены нарушители. Перехожу в режим нейтрализации." />
+    <String id="777013" msg="Я обнаружил вас. Приготовьтесь к устранению." />
+    <String id="777014" msg="Я вижу твой страх. Он красный, как и твоя кровь." />
+    <String id="777015" msg="Тебе не уйти от моего взгляда." />
+    <String id="777016" existTime="10" msg="Плекостома распространяет паразитов." msgOnScreen="true" styleId="42" />
+    <String id="777017" msg="Я поселю в тебе свою личинку!" />
+    <String id="777018" existTime="10" msg="Из яйца плекостомы появляется на свет личинка!" msgOnScreen="true" styleId="42" />
+    <String id="777019" msg="Тебе не скрыться от моего взора." />
+    <String id="777020" msg="Я выстою, а ты погибнешь!" />
+    <String id="777021" msg="Моя сила! Я раздавлю тебя!" />
+    <String id="808001" existTime="3" msg="&lt;font size='40'&gt;Гр-р-р!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808002" existTime="3" msg="&lt;font size='40'&gt;Готовься к смерти!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808003" existTime="3" msg="&lt;font size='40'&gt;Ты будешь молить о смерти!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808004" existTime="3" msg="&lt;font size='40'&gt;Тебе не унять эту боль!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808005" existTime="3" msg="&lt;font size='40'&gt;Твоя боль питает госпожу!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808007" existTime="3" msg="&lt;font size='40'&gt;Прочь!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808008" existTime="3" msg="&lt;font size='35'&gt;Хе-хе-хе... а вот и госпожа!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="808009" existTime="3" msg="&lt;font size='40'&gt;О-о... О-о-о! О-о!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808010" existTime="3" msg="&lt;font size='40'&gt;Умри! Умри!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808012" existTime="3" msg="&lt;font size='35'color='#FF0000'&gt;Ты не пройдешь!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808013" existTime="3" msg="&lt;font size='40'&gt;Взрывайся!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808014" existTime="3" msg="&lt;color='#FF0000'&gt;Конец близок!&lt;/font&gt;" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808015" msg="Магия... крови... это..." onlyBalloon="true" />
+    <String id="808016" msg="Больше магии крови!" onlyBalloon="true" />
+    <String id="808017" msg="&lt;color='#FF0000'&gt;Бум!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="808018" msg="&lt;color='#FF0000'&gt;Защищайте наше тайное оружие!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="808019" msg="&lt;color='#FF0000'&gt;Незваные гости должны умереть!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="809001" existTime="10" msg="{targetName} становится целью Саккарии!" msgOnScreen="true" styleId="42" />
+    <String id="809002" existTime="10" msg="Появляется саргрет." msgOnScreen="true" styleId="42" />
+    <String id="809003" existTime="10" msg="Демокраксус призывает морфул, чтобы исцелить раны." msgOnScreen="true" styleId="42" />
+    <String id="809004" msg="&lt;font size='30'color='#C9D8DA'&gt;Я сожру твою печень!&lt;/font&gt;" />
+    <String id="809005" msg="&lt;font size='30'color='#C9D8DA'&gt;Умри!&lt;/font&gt;" />
+    <String id="809006" msg="&lt;font size='30'color='#C9D8DA'&gt;Я раздавлю тебя, как виноградину!&lt;/font&gt;" />
+    <String id="809007" msg="&lt;font size='30'color='#C9D8DA'&gt;Твоя очередь!&lt;/font&gt;" />
+    <String id="809008" msg="&lt;font size='30'color='#C9D8DA'&gt;Давай посмотрим, что у тебя внутри...&lt;/font&gt;" />
+    <String id="809009" msg="&lt;font size='30'color='#C9D8DA'&gt;Сюрприз!&lt;/font&gt;" />
+    <String id="809010" msg="&lt;font size='30'color='#C9D8DA'&gt;Нельзя убить свой кошмар!&lt;/font&gt;" />
+    <String id="809011" msg="&lt;font size='30'color='#C9D8DA'&gt;Тебе не сбежать!&lt;/font&gt;" />
+    <String id="809012" msg="&lt;font size='30'color='#C9D8DA'&gt;Да! Беги! Страх придает мясу особый вкус!&lt;/font&gt;" />
+    <String id="811001" existTime="10" msg="{targetName} становится демокроном!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811002" existTime="10" msg="{targetName} попадает в хищные щупальца!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811003" msg="Оу! Оу!" onlyBalloon="true" />
+    <String id="811004" msg="Гр-р!" onlyBalloon="true" />
+    <String id="811005" existTime="10" msg="Энергия демокрона накоплена. Шевелитесь!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811006" existTime="10" msg="Талвег поглощает приспешников и становится сильнее!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811007" existTime="10" msg="Талвег поглощает приспешников и восстанавливает HP!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811008" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811009" existTime="10" msg="Кракатокс вытягивает энергию." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811010" existTime="10" msg="Смотри, как умирает твоя плоть." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811011" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811012" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811013" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811014" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811015" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811016" msg="Кракатокс голоден!" onlyBalloon="true" />
+    <String id="811017" msg="Падай!" onlyBalloon="true" />
+    <String id="811018" msg="Тебе уже не уйти отсюда!" onlyBalloon="true" />
+    <String id="811019" existTime="10" msg="Кракатокс поглотил энергию цели ({targetName})!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811020" msg="&lt;font size='30'color='#E8D073'&gt;Не шевелись, паразит!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811021" existTime="20" msg="Пещера начинает обрушиваться." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811022" msg="&lt;font size='30'color='#E8D073'&gt;Я становлюсь сильнее!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811023" existTime="20" msg="{targetName} получает вирус демокрона!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811024" existTime="20" msg="Кошмарный Талвег создает зону вируса демокрона." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811025" msg="&lt;font size='30'color='#E8D073'&gt;Хр-ра-а-а!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811026" existTime="20" msg="Демокроны устремляются к Талвегу!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811027" existTime="20" msg="Кракатокс создает зону энергии демокрона!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811028" existTime="10" msg="Очередные глупцы пришли на убой!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811029" existTime="10" msg="Новая дичь!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811030" existTime="10" msg="Куда тебе сражаться со мной!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811031" existTime="10" msg="С тобой я позже разберусь." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811032" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811033" existTime="10" msg="" msgOnScreen="true" styleId="42" />
+    <String id="811034" existTime="20" msg="Кракатокс создает зону вируса демокрона вокруг цели: {targetName}." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811035" existTime="20" msg="{targetName} попадает в хищные щупальца!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811036" existTime="20" msg="Кракатокс приходит в ярость!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811037" existTime="20" msg="Демокроны бросаются на вас сзади!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811038" existTime="10" msg="Кошмарный Кракатокс поглощает энергию демокронов." msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811039" existTime="20" msg="Кошмарный Кракатокс приходит в ярость!" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="813001" msg="&lt;font size='30'&gt;Вы, жалкие черви!&lt;/font&gt;" />
+    <String id="813002" existTime="3" msg="&lt;font size='30'&gt;Останется одна зола!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="813003" msg="&lt;font size='30'&gt;Я живу, чтобы защищать Баньякаса.&lt;/font&gt;" />
+    <String id="813004" msg="&lt;font size='30'&gt;Разорву на кусочки!&lt;/font&gt;" />
+    <String id="813005" msg="&lt;font size='30'&gt;Мне нужна помощь!&lt;/font&gt;" />
+    <String id="813006" msg="&lt;font size='30'&gt;Это будет длиться до тех пор, пока не удастся уничтожить все Осколки принуждения!&lt;/font&gt;" />
+    <String id="813007" msg="&lt;font size='30'&gt;Явитесь ко мне.&lt;/font&gt;" />
+    <String id="813008" msg="&lt;font size='30'&gt;Станьте сильнее, миканары!&lt;/font&gt;" />
+    <String id="813009" msg="&lt;font size='30'&gt;Придите и станьте сильнее!&lt;/font&gt;" />
+    <String id="813010" existTime="3" msg="&lt;font size='30'&gt;Я - самый горький плод!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="813011" msg="Как жаль, что Баньякас коснулся этого зловещего камня!" />
+    <String id="813012" msg="&lt;font size='30'&gt;С дороги! Я уничтожу Осколок принуждения!&lt;/font&gt;" />
+    <String id="813013" msg="Кто идет? Покажись!" />
+    <String id="813014" msg="Нарушитель? Тревога! У нас нарушитель!" />
+    <String id="813015" msg="У нас не хватает времени! Убейте Привратника!" />
+    <String id="813016" msg="&lt;font size='30'&gt;Чтобы восстановиться, понадобится время. Вы же пока отгоните этих петралисков!&lt;/font&gt;" />
+    <String id="813017" existTime="3" msg="&lt;font size='30'&gt;От тебя и углей не останется!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="813018" msg="&lt;font size='30'&gt;Трусливая тварь! Встреть смерть, как подобает!&lt;/font&gt;" />
+    <String id="821001" existTime="7" msg="&lt;font size='40'&gt;Золин замедляется!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="821002" msg="Прошу... убей меня. Не оставляй у него в рабстве." onlyBalloon="true" />
+    <String id="825001" existTime="3" msg="Цель: {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="825002" existTime="3" msg="{targetName} 5" msgOnScreen="true" styleId="37" />
+    <String id="825003" existTime="3" msg="{targetName} 4" msgOnScreen="true" styleId="37" />
+    <String id="825004" existTime="3" msg="{targetName} 3" msgOnScreen="true" styleId="37" />
+    <String id="825005" existTime="3" msg="{targetName} 2" msgOnScreen="true" styleId="37" />
+    <String id="825006" existTime="3" msg="{targetName} 1" msgOnScreen="true" styleId="37" />
+    <String id="825007" existTime="10" msg="Цель: {targetName}. Огонь!" msgOnScreen="true" styleId="37" />
+    <String id="825008" existTime="6" msg="Через тело Грига проходит электричество." msgOnScreen="true" styleId="37" />
+    <String id="825009" existTime="10" msg="Новая цель: {targetName}." msgOnScreen="true" styleId="37" />
+    <String id="825010" existTime="10" msg="{targetName} слепнет." msgOnScreen="true" styleId="37" />
+    <String id="825011" existTime="10" msg="Появляется поле целительной энергии." msgOnScreen="true" styleId="42" />
+    <String id="825012" existTime="10" msg="Очиститель работает." msgOnScreen="true" styleId="42" />
+    <String id="825013" existTime="6" msg="Появляется монстр-приспешник. Вы должны отключить рубильником электричество и войти в воду." msgOnScreen="true" styleId="37" />
+    <String id="826001" msg="Ты не знаешь, когда остановиться, да?" />
+    <String id="826002" msg="А теперь - умри!" />
+    <String id="826003" msg="Ты не перестаешь меня смешить!" />
+    <String id="826004" msg="Да!" />
+    <String id="826005" msg="Сдавайся! Наша победа неминуема." />
+    <String id="826006" msg="Меня утомляют эти вмешательства. Убить их!" />
+    <String id="826007" msg="Ты будешь молить о милосердной смерти!" />
+    <String id="826008" msg="Бла-бла-бла... Меня утомляет эта болтовня." />
+    <String id="826009" msg="Ха! " />
+    <String id="909901" existTime="4" msg="Привет, друзья! " msgOnScreen="true" styleId="43" />
+    <String id="909902" existTime="5" msg="Приготовиться... начали!" msgOnScreen="true" styleId="43" />
+    <String id="909903" existTime="1" msg="Розы " msgOnScreen="true" styleId="43" />
+    <String id="909904" existTime="1" msg="Шэрон" msgOnScreen="true" styleId="43" />
+    <String id="909905" existTime="1" msg="расцвели." msgOnScreen="true" styleId="43" />
+    <String id="909906" existTime="5" msg="Ты! Стой на месте!" msgOnScreen="true" styleId="43" />
+    <String id="916001" existTime="3" msg="&lt;font size='40'&gt;Машинный зал. Судьба ждет меня...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916002" existTime="3" msg="&lt;font size='30'&gt;Пришла пора пробудиться!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916003" existTime="3" msg="&lt;font size='40'&gt;Обратитесь в камень...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916004" existTime="3" msg="&lt;font size='30'&gt;Я заберу твою силу!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916005" existTime="3" msg="&lt;font size='30'&gt;Ощути жар адского пламени!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916006" existTime="3" msg="&lt;font size='30'&gt;Я уничтожу тебя!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916007" existTime="3" msg="&lt;font size='50'&gt;Перимос пытается уничтожить столп эоналиса!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="916008" existTime="3" msg="&lt;font size='40'&gt;Пришло время уничтожить корабль!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916009" existTime="3" msg="&lt;font size='40'&gt;Пришло время принять дар боли! Начнем?&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916010" existTime="3" msg="&lt;font size='40'&gt;Сжечь их!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916011" existTime="3" msg="&lt;font size='40'&gt;Я покажу тебе истинную силу тьмы!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916012" existTime="3" msg="&lt;font size='40'&gt;Я переверну этот мир...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916013" existTime="3" msg="&lt;font size='40'&gt;Вправо!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916014" existTime="3" msg="&lt;font size='40'&gt;Влево!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916015" existTime="3" msg="&lt;font size='40'&gt;Труп!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916016" existTime="3" msg="&lt;font size='40'&gt;Покойтесь с миром, трусы!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916017" existTime="3" msg="&lt;font size='40'&gt;Я пришибу тебя одним ударом!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916018" existTime="3" msg="&lt;font size='40'&gt;Смерть дарует покой!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916019" existTime="2" msg="&lt;font size='40'&gt;Драколот передает свою силу Даркану.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="916020" existTime="3" msg="&lt;font size='40'&gt;Я заберу твою силу!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916021" existTime="3" msg="&lt;font size='40'&gt;А сейчас ты увидишь... моего внутреннего демона!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916022" existTime="3" msg="&lt;font size='40'&gt;Я ощущаю силу!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916023" existTime="3" msg="&lt;font size='40'&gt;Призвать!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916024" existTime="3" msg="&lt;font size='40'&gt;Крушить!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916025" existTime="3" msg="&lt;font size='40'&gt;Пришло время... сокрушить камни!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916026" existTime="3" msg="&lt;font size='40'&gt;Маленькие твари... такие назойливые... сокрушу!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916027" existTime="3" msg="&lt;font size='40'&gt;Проваливай!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916028" existTime="3" msg="&lt;font size='40'&gt;Пилоны... так хрупки...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916029" existTime="2" msg="&lt;font size='40'&gt;Все в прах...&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916030" existTime="3" msg="&lt;font size='50'&gt;Уклонись-ка от этого!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916031" existTime="2" msg="&lt;font size='50'&gt;Почувствуй страх!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916032" existTime="2" msg="&lt;font size='40'&gt;Ну что ты? Бежать некуда!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916033" existTime="3" msg="&lt;font size='40'&gt;Меня уже не остановить!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916034" existTime="2" msg="&lt;font size='40'&gt;От тебя никакого толку!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916035" existTime="2" msg="&lt;font size='40'&gt;Попробуй уцелеть во тьме!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916036" existTime="2" msg="&lt;font size='40'&gt;Оглушить? Нет. Убить. Так проще.&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916037" existTime="2" msg="&lt;font size='40'&gt;{targetName} умирает.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="916038" existTime="2" msg="&lt;font size='40'&gt;Время на исходе!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916039" existTime="3" msg="&lt;font size='40'&gt;Ты ощущаешь неминуемую гибель?&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916040" existTime="2" msg="&lt;font size='40'&gt;{targetName}… ты умрешь... &lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916041" existTime="3" msg="&lt;font size='40'&gt;Вот - настоящая сила.&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916042" existTime="2" msg="&lt;font size='40'&gt;Нет... только не так...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916043" existTime="2" msg="&lt;font size='40'&gt;Что, кончилась мана? Какая жалость!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916044" existTime="3" msg="&lt;font size='40'&gt;Все в прах...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916045" existTime="3" msg="&lt;font size='40'&gt;Перимос собирает силу для атаки!&lt;/font&gt;" msgOnScreen="true" styleId="42" />
+    <String id="916046" existTime="3" msg="&lt;font size='40'&gt;Это не смешно... Скорее...&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916047" existTime="3" msg="&lt;font size='40'&gt;Умрите! Умрите все!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916048" existTime="3" msg="&lt;font size='40'&gt;Падите ниц, глупцы!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916049" existTime="3" msg="&lt;font size='40'&gt;Появилось подкрепление бойцов Кровавого гнева!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="916050" existTime="3" msg="&lt;font size='40'&gt;Назад!&lt;/font&gt;" msgOnScreen="false" styleId="37" />
+    <String id="916051" existTime="3" msg="&lt;font size='40'&gt;{targetName} умрет!" msgOnScreen="false" styleId="42" onlyBalloon="true" />
+    <String id="975001" existTime="10" msg="Взорвись, обжигая друзей!" msgOnScreen="true" styleId="37" />
+    <String id="975002" existTime="10" msg="Нести в себе мое пламя!" msgOnScreen="true" styleId="37" />
+    <String id="990001" msg="Возвращение Единого не за горами! Готовьтесь!" />
+    <String id="990002" msg="Надвигается день воскрешения! Мир переродится!" />
+    <String id="990003" msg="Вскоре он захватит весь мир. Приближается наш день!" />
+    <String id="990004" msg="Не знающие веры будут страдать! Вечно!" />
+    <String id="990005" msg="Готовься умереть. Смерть близко." />
+    <String id="990006" msg="Покайся, и тебя ждет справедливый суд!" />
+    <String id="990007" msg="Кусать! Рвать! Жевать!" />
+    <String id="990008" existTime="5" msg="Чую... врага! Убить! Убить!" msgOnScreen="true" styleId="37" />
+    <String id="990009" existTime="5" msg="Вопли Малгариоса призывают его темных отпрысков." msgOnScreen="true" styleId="37" />
+    <String id="990010" msg="Приготовьтесь! Возвращение Единого не за горами!" />
+    <String id="990011" msg="Воскрешение надвигается! Мир переродится!" />
+    <String id="990012" msg="Вскоре он захватит мир! Наш день грядет!" />
+    <String id="990013" msg="Истребить!" />
+    <String id="990014" msg="Сокрушить их!" />
+    <String id="990015" msg="Узри милосердие... удара палицей!" />
+    <String id="990016" msg="Придите, слуги мои!" />
+    <String id="990017" msg="Моя сила безгранична!" />
+    <String id="990018" existTime="5" msg="Да сгинут все кроме аргонов." msgOnScreen="true" styleId="37" />
+    <String id="990019" existTime="5" msg="Гр-р! Мне надоела твоя назойливость." msgOnScreen="true" styleId="37" />
+    <String id="990020" existTime="5" msg="Захватчики! Убить!" msgOnScreen="true" styleId="37" />
+    <String id="990021" existTime="5" msg="Из тьмы..." msgOnScreen="true" styleId="37" />
+    <String id="990022" msg="Встречай волшебную смерть!" />
+    <String id="990023" existTime="5" msg="Это лишь моя тень, но и она прикончит тебя!" msgOnScreen="true" styleId="37" />
+    <String id="990024" existTime="5" msg="Слуги! Ко мне! Исцелите меня!" msgOnScreen="true" styleId="37" />
+    <String id="990025" existTime="5" msg="Собирайтесь, слуги!" msgOnScreen="true" styleId="37" />
+    <String id="990026" existTime="5" msg="Гр-ро-о-ар-р!" msgOnScreen="true" styleId="37" />
+    <String id="990027" msg="Пф. Отойдите, негодные кретины. Теперь это моя битва!" />
+    <String id="990028" msg="Невелик ростом? Может быть. Слаб? Это вряд ли." />
+    <String id="990029" existTime="5" msg="Он подкапывается. Осторожно!" msgOnScreen="true" styleId="37" />
+    <String id="990030" msg="То, что мертво, умереть не может!" />
+    <String id="990031" msg="Хе-хе-хе! Кто хочет умереть первым?" />
+    <String id="990032" msg="Устоишь ли ты после моего удара?" />
+    <String id="990033" msg="Не умирай так быстро!" />
+    <String id="990034" msg="Скучно? Так умри же!" />
+    <String id="990035" msg="Не-е-е-ет! Не приближайся!" />
+    <String id="990036" msg="Ай! Ай!" />
+    <String id="990037" existTime="5" msg="Атакуй, тупая мартышка!" msgOnScreen="true" styleId="37" />
+    <String id="990038" msg="Спасите владыку Киллиана! Слуги, в бой!" />
+    <String id="990039" msg="Хо! Рабы Киллиана!" />
+    <String id="990040" existTime="6" msg="Арзакаар готовится с яростью броситься в ближний бой. Не приближайтесь к нему." msgOnScreen="true" styleId="37" />
+    <String id="990041" existTime="6" msg="Арзакаар готовится с яростью атаковать издалека. Подойдите к нему ближе." msgOnScreen="true" styleId="37" />
+    <String id="990042" existTime="6" msg="Я не могу так умереть! Я - Киллиан!" msgOnScreen="true" styleId="37" />
+    <String id="990043" existTime="6" msg="Инструктор призван." msgOnScreen="true" styleId="42" />
+    <String id="990044" existTime="6" msg="Для управления големом призван кровопиец." msgOnScreen="true" styleId="42" />
+    <String id="990045" msg="Уа-ха-ха-ха!" />
+    <String id="990046" msg="Кхе-хе-хе-хе!" />
+    <String id="990047" msg="Всякий погибший послужит Тулсе!" />
+    <String id="991001" existTime="5" msg="Тебе хватит одного удара!" msgOnScreen="true" styleId="37" />
+    <String id="991002" msg="О, могучий!" />
+    <String id="991003" msg="Проснись!" />
+    <String id="991004" msg="Убей!" />
+    <String id="991005" msg="Догони!" />
+    <String id="991006" msg="Ай-и-и!" />
+    <String id="991007" existTime="5" msg="Караша начинает произносить Три Слова Развоплощения! Хааргварош!" msgOnScreen="true" styleId="37" />
+    <String id="991008" existTime="5" msg="Караша произносит второе слово! Ганиирболохош!" msgOnScreen="true" styleId="37" />
+    <String id="991009" existTime="5" msg="Третье слово! Йепрасиабалолош! Попробуй-ка снять это проклятье! Ха-ха-ха-ха!" msgOnScreen="true" styleId="37" />
+    <String id="991010" existTime="5" msg="Три Слова Развоплощения! Если не развеять проклятье, то жить осталось не больше минуты!" msgOnScreen="true" styleId="37" />
+    <String id="991011" existTime="5" msg="Аватары, ко мне! В атаку!" msgOnScreen="true" styleId="37" />
+    <String id="991012" existTime="5" msg="Я истекаю кровью! Проклятые жрецы, где же вы?" msgOnScreen="true" styleId="37" />
+    <String id="991013" existTime="5" msg="Ко мне, мои питомцы! Сомните их!" msgOnScreen="true" styleId="37" />
+    <String id="991014" existTime="5" msg="Мои малыши! Пусть плоть врагов сгниет от яда!" msgOnScreen="true" styleId="37" />
+    <String id="991015" existTime="5" msg="Угомоните их, мои питомцы!" msgOnScreen="true" styleId="37" />
+    <String id="991016" existTime="5" msg="Караша сильнее! На этот раз вы умрете!" msgOnScreen="true" styleId="37" />
+    <String id="991017" existTime="5" msg="Смерть Караши не имеет значения. Это лишь минутная задержка." msgOnScreen="true" styleId="37" />
+    <String id="991018" existTime="5" msg="Триумф победы мимолетен. Смерть же вечна." msgOnScreen="true" styleId="37" />
+    <String id="991019" existTime="5" msg="Я ждала вас. Вы пожалеете, что явились сюда." msgOnScreen="true" styleId="37" />
+    <String id="991020" existTime="5" msg="Лесной стражник, явись!" msgOnScreen="true" styleId="37" />
+    <String id="991021" existTime="5" msg="Выходи, стражник!" msgOnScreen="true" styleId="37" />
+    <String id="991022" existTime="5" msg="Пламя преисподней!" msgOnScreen="true" styleId="37" />
+    <String id="991023" existTime="5" msg="Стражник святилища, явись!" msgOnScreen="true" styleId="37" />
+    <String id="3700001" msg="Убить нарушителей!" />
+    <String id="3700002" msg="Богу слава!" />
+    <String id="3700003" msg="Моя голова... как больно..." />
+    <String id="3700004" msg="Боль ушла... владыка Салерон!" />
+    <String id="3700005" msg="Я не позволю помешать нашему плану." />
+    <String id="3700006" msg="Все во имя воли Киллиана!" />
+    <String id="3700007" msg="Эта пещера принадлежит аргонам!" />
+    <String id="3700008" msg="Низшая тварь!" />
+    <String id="7001001" msg="Меня не поймать!" onlyBalloon="true" />
+    <String id="7001002" msg="Нет!" onlyBalloon="true" />
+    <String id="7001005" msg="Да не меня! Бей красных!" onlyBalloon="true" />
+    <String id="7001006" msg="Я арбуз? Это ты арбуз!" onlyBalloon="true" />
+    <String id="7001007" msg="Чем тебе не угодили арбузы?" onlyBalloon="true" />
+    <String id="7001008" msg="У тебя все друзья - арбузы!" onlyBalloon="true" />
+    <String id="7001009" msg="Мать твоя - арбуз!" onlyBalloon="true" />
+    <String id="7001010" msg="Папа твой - арбуз!" onlyBalloon="true" />
+    <String id="7001011" msg="Арбуз у тебя вместо мозга!" onlyBalloon="true" />
+    <String id="7001012" msg="Арбузы преследуют меня!" onlyBalloon="true" />
+    <String id="7001013" msg="Отличный выстрел!" onlyBalloon="true" />
+    <String id="7001014" msg="А-а! Вон там, там что-то есть!" onlyBalloon="true" />
+    <String id="7001015" msg="А-а-ах..." onlyBalloon="true" />
+    <String id="7001016" msg="Над чем это ты смеешься?" onlyBalloon="true" />
+    <String id="7001017" msg="Ух..." onlyBalloon="true" />
+    <String id="7001018" msg="Эй, осторожно!" onlyBalloon="true" />
+    <String id="7001019" msg="Да, о таком рассказывали..." onlyBalloon="true" />
+    <String id="7001020" msg="Ха-ха!" onlyBalloon="true" />
+    <String id="7001021" msg="Я могу разбивать наравне с лучшими!" onlyBalloon="true" />
+    <String id="7001022" msg="Не может быть... Тебе удалось разбить 30 арбузов?" onlyBalloon="true" />
+    <String id="7001023" msg="На другом берегу есть еще береговые пушки." onlyBalloon="true" />
+    <String id="7001024" msg="Компас помогает, когда разбиваешь арбузы." onlyBalloon="true" />
+    <String id="7001025" msg="Что тут говорят про арбузы?" onlyBalloon="true" />
+    <String id="7001026" msg="Часть куч песка шевелятся." onlyBalloon="true" />
+    <String id="7001027" msg="Не может быть..." onlyBalloon="true" />
+    <String id="7001028" msg="Уи-и!" onlyBalloon="true" />
+    <String id="7001029" msg="А-а! Как мило." onlyBalloon="true" />
+    <String id="7001030" msg="Ого! Неплохо получается!" onlyBalloon="true" />
+    <String id="7001031" msg="Прекратите, прекратите! А-а!" onlyBalloon="true" />
+    <String id="7001032" msg="Жду не дождусь следующего праздника! А ты?" onlyBalloon="true" />
+    <String id="7001033" msg="Жаль, что праздники не идут круглый год." onlyBalloon="true" />
+    <String id="7001034" msg="Этот ковер-самолет мягкий, словно облако!" onlyBalloon="true" />
+    <String id="7001035" msg="Праздник для всех! И смотрите, не потеряйтесь!" onlyBalloon="true" />
+    <String id="7001036" msg="На празднике можно выиграть ковер." onlyBalloon="true" />
+    <String id="7001037" msg="Я каждый год прихожу на праздник!" onlyBalloon="true" />
+    <String id="7001038" msg="Ищи Номаруна на празднике." onlyBalloon="true" />
+    <String id="7001039" msg="Вот идет Шуримон." onlyBalloon="true" />
+    <String id="7001040" msg="Выразите благодарность Балдеру, убравшись в его храме." onlyBalloon="true" />
+    <String id="7001041" msg="Никакого мусора! Никаких танков!" onlyBalloon="true" />
+    <String id="7001042" msg="Чистый храм - счастливый храм." onlyBalloon="true" />
+    <String id="7001043" msg="Лед начинает таять!" onlyBalloon="true" />
+    <String id="7001044" msg="Наслаждайся солнцем! И наслаждайся праздником!" onlyBalloon="true" />
+    <String id="7002001" msg="Станцуем!" onlyBalloon="true" />
+    <String id="7002002" msg="Один!" onlyBalloon="true" />
+    <String id="7002003" msg="Ура!" onlyBalloon="true" />
+    <String id="7002004" msg="Гори!" onlyBalloon="true" />
+    <String id="7002005" msg="Больше барабанов!" onlyBalloon="true" />
+    <String id="7002006" msg="Больше туванги!" onlyBalloon="true" />
+    <String id="7002007" msg="Больше лягушек!" onlyBalloon="true" />
+    <String id="7002008" msg="Какая храбрость!" onlyBalloon="true" />
+    <String id="7002009" msg="Получилось!" onlyBalloon="true" />
+    <String id="7002011" msg="Мои братья со всего Вольноземья собрались на Рутсток." onlyBalloon="true" />
+    <String id="7002012" msg="Мы можем отправить тебя в любую часть Вольноземья." onlyBalloon="true" />
+    <String id="7002013" msg="Куда ты хочешь отправиться? Назови место." onlyBalloon="true" />
+    <String id="7002014" msg="Отправляем в любую точку Вольноземья бесплатно." onlyBalloon="true" />
+        <String id="7002015" msg="Where would you like to go? Just say the word." onlyBalloon="true" />
+<String id="7002016" msg="Играя в мини-игры Рутстока, можно получить редкие продукты для готовки и рецепты." onlyBalloon="true" />
+    <String id="7002017" msg="Мелса продает рецепты для готовки." onlyBalloon="true" />
+    <String id="7002018" msg="Собирать небесные лотосы дано не каждому." onlyBalloon="true" />
+    <String id="7002019" msg="Используй зелье легкости - и сможешь спустить в полной безопасности, падение тебе не повредит." onlyBalloon="true" />
+    <String id="9055001" msg="Пи! Пи-и-и!" onlyBalloon="true" />
+    <String id="9055002" msg="Нарушители! Беги!" onlyBalloon="true" />
+    <String id="9055003" msg="Чертовы чужеземцы!" onlyBalloon="true" />
+    <String id="9055004" msg="Уродливые и тупые!" onlyBalloon="true" />
+    <String id="9055005" msg="Медленно! Слишком медленно!" onlyBalloon="true" />
+    <String id="9055006" msg="Кто смеет являться в мои владения?" onlyBalloon="true" />
+    <String id="9055007" msg="Бананы! Мне нужна энергия!" onlyBalloon="true" />
+    <String id="9055008" msg="Мне больно! Нужны целебные травы!" onlyBalloon="true" />
+    <String id="9055009" msg="Есть хочу! Надо что-то съесть!" onlyBalloon="true" />
+    <String id="9055012" msg="Где мои бананы?" onlyBalloon="true" />
+    <String id="9055013" msg="Где мои травы?" onlyBalloon="true" />
+    <String id="9055014" msg="Куда делось мясо?" onlyBalloon="true" />
+    <String id="9055015" msg="Вот теперь можно ускориться!" onlyBalloon="true" />
+    <String id="9055016" msg="Ха! Мои силы вернулись!" onlyBalloon="true" />
+    <String id="9055017" msg="Полный живот сулит тебе гибель!" onlyBalloon="true" />
+    <String id="9055018" msg="Тебе меня не победить!" onlyBalloon="true" />
+    <String id="9055019" msg="А вот и я!" onlyBalloon="true" />
+    <String id="9055020" msg="Давайте повеселимся!" onlyBalloon="true" />
+    <String id="9055021" msg="Новое блюдо! Выглядит аппетитно!" onlyBalloon="true" />
+    <String id="9055022" msg="Хватит игр. Отведай-ка вот это!" onlyBalloon="true" />
+    <String id="9055023" msg="Раз!" onlyBalloon="true" />
+    <String id="9055024" msg="А-а-а-а! Ох... голова..." onlyBalloon="true" />
+    <String id="9055026" msg="Как вам вот такое?" onlyBalloon="true" />
+    <String id="9055027" msg="Вы явились за моим яйцом!" onlyBalloon="true" />
+    <String id="9055031" msg="Чужаки! Прочь отсюда!" onlyBalloon="true" />
+    <String id="9055032" msg="Ненавидим нарушителей! Ненавидим нарушителей!" onlyBalloon="true" />
+    <String id="9055033" msg="Не трогайте нас! Не лезьте к нам!" onlyBalloon="true" />
+    <String id="9055035" msg="Защита увеличится!" onlyBalloon="true" />
+    <String id="9055037" msg="Исцеление!" onlyBalloon="true" />
+    <String id="9055038" msg="Очищение!" onlyBalloon="true" />
+    <String id="9055040" msg="А-а-а-ар-р-рх!" onlyBalloon="true" />
+    <String id="9055041" existTime="10" msg="Нимистрикс поглощает энергию природы!" msgOnScreen="true" styleId="42" />
+    <String id="9055042" existTime="10" msg="Нимистрикс громко кричит!" msgOnScreen="true" styleId="42" />
+    <String id="9055043" msg="Ц-ц-ц-цк-к-к! Ц-ц-цк!" onlyBalloon="true" />
+    <String id="9055046" existTime="10" msg="Уничтожение яйца приводит Нимистрикс в ярость!" msgOnScreen="true" styleId="42" />
+    <String id="9055047" existTime="10" msg="Нимистрикс бросается на игрока {targetName}!" msgOnScreen="true" styleId="42" />
+    <String id="9055048" existTime="10" msg="Кожа Нимистрикс укрепляется!" msgOnScreen="true" styleId="42" />
+    <String id="9055049" msg="Подходите и исцелитесь!" onlyBalloon="true" />
+    <String id="9055051" existTime="10" msg="Нимистрикс становится сильнее." msgOnScreen="true" styleId="42" />
+    <String id="9055053" existTime="10" msg="Нимистрикс призывает бурю!" msgOnScreen="true" styleId="42" />
+    <String id="9055054" existTime="10" msg="Глупцы! Вас никто не звал сюда!" msgOnScreen="true" styleId="42" />
+    <String id="9055056" existTime="10" msg="Вы смеете беспокоить меня?" msgOnScreen="true" styleId="42" />
+    <String id="9055057" existTime="10" msg="Я с удовольствием выпотрошу вас." msgOnScreen="true" styleId="42" />
+    <String id="9055058" existTime="10" msg="Форенгула призывает стручки-толкатели." msgOnScreen="true" styleId="42" />
+    <String id="9055059" existTime="10" msg="Познакомься с моими маленькими друзьями!" msgOnScreen="true" styleId="42" />
+    <String id="9055063" existTime="10" msg="Что это? Свежее мясо?" msgOnScreen="true" styleId="42" />
+    <String id="9055064" existTime="10" msg="Молчать!" msgOnScreen="true" styleId="42" />
+    <String id="9055065" existTime="10" msg="Сожрите их, и покончим с этим!" msgOnScreen="true" styleId="42" />
+    <String id="9055066" existTime="10" msg="Хватит играть с едой!" msgOnScreen="true" styleId="42" />
+    <String id="9055067" existTime="10" msg="Слишком много!" msgOnScreen="true" styleId="42" />
+    <String id="9055068" existTime="10" msg="Бесполезно!" msgOnScreen="true" styleId="42" />
+    <String id="9055069" msg="Мы зашли слишком далеко Нужно возвращаться!" onlyBalloon="true" />
+    <String id="9055070" msg="Скорее, в безопасную область!" onlyBalloon="true" />
+    <String id="9055071" msg="Скорее, в безопасную область!" onlyBalloon="true" />
+    <String id="9055072" msg="Скорее, в безопасную область!" onlyBalloon="true" />
+    <String id="9055073" msg="Два." onlyBalloon="true" />
+    <String id="9055074" msg="Три!" onlyBalloon="true" />
+    <String id="9810001" msg="Лакан! Лакан!" onlyBalloon="true" />
+    <String id="9810002" msg="Лакан! Лакан!" onlyBalloon="true" />
+    <String id="9810003" msg="Почувствуй, как тебя выжигает сила Лакана!" onlyBalloon="true" />
+    <String id="9810004" msg="Обрушь на него все, что у тебя есть!" onlyBalloon="true" />
+    <String id="9810010" msg="Считаю до трех." onlyBalloon="true" />
+    <String id="9810011" msg="Раз." onlyBalloon="true" />
+    <String id="9810012" msg="Два." onlyBalloon="true" />
+    <String id="9810013" msg="Три!" onlyBalloon="true" />
+    <String id="9810014" msg="Умрите!" onlyBalloon="true" />
+    <String id="9810015" msg="Сила Лакана растет." onlyBalloon="true" />
+    <String id="9885001" existTime="1" msg="&lt;font size='40'&gt;Тулса захватил цель!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885002" existTime="1" msg="&lt;fontㆍsize='40'&gt;Тулса выбрал целью &quot;{targetName}&quot;&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885003" existTime="1" msg="&lt;font size='40'&gt;3 цели спереди, захват цели!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885004" existTime="1" msg="&lt;font size='40'&gt;Тулса 5&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885005" existTime="1" msg="&lt;font size='40'&gt;Тулса 4&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885006" existTime="1" msg="&lt;font size='40'&gt;Тулса 3&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885007" existTime="1" msg="&lt;font size='40'&gt;Тулса 2&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885008" existTime="1" msg="&lt;font size='40'&gt;Тулса 1&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885009" existTime="5" msg="&lt;font size='40'&gt;Почувствуйте свое бессилие!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885010" existTime="5" msg="Слишком поздно! Келсаик впал в неистовство!" msgOnScreen="true" styleId="37" />
+    <String id="9885011" msg="&lt;font size='40'&gt;Я свершу свое возмездие. Здесь и сейчас!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885012" msg="&lt;font size='40'&gt;Каково это - оказаться в ловушке своего злейшего врага?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885013" msg="&lt;font size='40'&gt;Тебе удалось так далеко зайти с таким снаряжением?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885014" msg="*Тяжело дышит* ...Пусть... клоун... живет!" onlyBalloon="true" />
+    <String id="9885015" msg="&lt;font size='40'&gt;Нет! Мои слуги!!!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885016" msg="&lt;font size='40'&gt;Я призываю вас, мои слуги!!!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885017" msg="Таким, как ты, меня не победить." onlyBalloon="true" />
+    <String id="9885018" msg="Бух. Я умираю." onlyBalloon="true" />
+    <String id="9885019" msg="&lt;font size='40'&gt;Помнишь это?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885020" msg="&lt;font size='40'&gt;На этот раз так легко не будет!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885021" msg="Какая глупая ошибка!" onlyBalloon="true" />
+    <String id="9885022" msg="Умрите! Жалкие смертные!" onlyBalloon="true" />
+    <String id="9885023" msg="О, нет! Меня не должно здесь быть!!!" onlyBalloon="true" />
+    <String id="9885024" msg="Б... бегите!!!" onlyBalloon="true" />
+    <String id="9885025" existTime="1" msg="&lt;font size='40'&gt;{targetName} 5&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885026" existTime="1" msg="&lt;font size='40'&gt;{targetName} 4&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885027" existTime="1" msg="&lt;font size='40'&gt;{targetName} 3&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885028" existTime="1" msg="&lt;font size='40'&gt;{targetName} 2&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885029" existTime="1" msg="&lt;font size='40'&gt;{targetName} 1&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885030" existTime="1" msg="&lt;font size='40'&gt;3 направления 5&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885031" existTime="1" msg="&lt;font size='40'&gt;3 направления 4&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885032" existTime="1" msg="&lt;font size='40'&gt;3 направления 3&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885033" existTime="1" msg="&lt;font size='40'&gt;3 направления 2&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885034" existTime="1" msg="&lt;font size='40'&gt;3 направления 1&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885035" existTime="5" msg="&lt;font size='40'&gt;Как тебе адское пламя, {targetName}?!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885036" msg="Ши-ши-ши... У-ши-ши..." onlyBalloon="true" />
+    <String id="9885037" msg="У-ши-ши-ши... Ши-ши..." onlyBalloon="true" />
+    <String id="9885038" existTime="5" msg="&lt;font size='40'&gt;Создает взрыв неподалеку!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885039" existTime="5" msg="&lt;font size='40'&gt;Создает взрыв неподалеку!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885040" msg="Будьте вы прокляты..." onlyBalloon="true" />
+    <String id="9885041" msg="Вините во всем... собственную... глупость..." onlyBalloon="true" />
+    <String id="9885042" msg="Умрите... жадные... смертные..." onlyBalloon="true" />
+    <String id="9885043" msg="Вам... ни за что... не выбраться... живыми..." onlyBalloon="true" />
+    <String id="9885044" msg="Если хочешь сдаться, выбери меня!" onlyBalloon="true" />
+    <String id="9885045" msg="Если хочешь стать сильнее и добраться до следующего уровня, выбери меня!" onlyBalloon="true" />
+    <String id="9885046" existTime="5" msg="&lt;font size='40'&gt;Скулрегнат собирает энергию.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885047" existTime="5" msg="&lt;font size='50'&gt;Убейте синих аргонов. Усиленные аргоны снижают здоровье врага.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885048" existTime="5" msg="&lt;font size='50'&gt;Убейте красных аргонов. Усиленные аргоны увеличивают здоровье врага.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885049" msg="&lt;font size='40'&gt;Мой тебе подарок. Новая игрушка.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885050" existTime="3" msg="&lt;font size='40'&gt;Надсмотрщик заметил цель. Это {targetName}!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885051" msg="&lt;font size='40'&gt;Защищайте это место!!!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="9885052" existTime="3" msg="&lt;font size='40'&gt;Волсурус заметил цель. Это {targetName}!&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885053" msg="Если хочешь пройти к следующей двери, выбери меня!" onlyBalloon="true" />
+    <String id="9885054" msg="Если хочешь получить награды и добраться до следующего уровня, выбери меня!" onlyBalloon="true" />
+    <String id="9885060" msg="Повелитель Скулрегнат в опасности!" onlyBalloon="true" />
+    <String id="9885061" existTime="3" msg="&lt;font size='40'&gt;{targetName} - ослепление.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885062" existTime="5" msg="&lt;font size='40'&gt;Сурьяти проклинает игрока &quot;{targetName}&quot;.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="9885063" existTime="5" msg="&lt;font size='40'&gt;{targetName} скоро уничтожит группу. Держитесь, как можно дальше.&lt;/font&gt;" msgOnScreen="true" styleId="37" />
+    <String id="17220221" msg="Ски-и... ски-и-ит..." onlyBalloon="true" />
+    <String id="63001960" msg="Вот это куча! Но у меня заканчивается время." />
+    <String id="63001961" msg="Это все, что тебе нужно? Мне пора идти." />
+    <String id="63001962" msg="Мы закрываемся! У меня полно дел - деньги сами по себе не отмоются. Постой..." />
+    <String id="63001963" msg="Заканчивай! Я уже закрываюсь." />
+    <String id="63001964" msg="Ням-ням!" onlyBalloon="true" />
+    <String id="63001965" msg="Вкусно!" onlyBalloon="true" />
+    <String id="63001966" msg="Вкуснятина!" onlyBalloon="true" />
+    <String id="63001967" msg="М-м-м." onlyBalloon="true" />
+    <String id="63001968" msg="Еще?" onlyBalloon="true" />
+    <String id="63001969" msg="~~~~~" onlyBalloon="true" />
+    <String id="63001970" msg="О-ох." onlyBalloon="true" />
+    <String id="63001971" msg="" onlyBalloon="true" />
+    <String id="63001972" msg="Хм-м-м..." onlyBalloon="true" />
+    <String id="63001973" msg="" onlyBalloon="true" />
+    <String id="63001974" msg="Хрм..." onlyBalloon="true" />
+    <String id="63001975" msg="" onlyBalloon="true" />
+    <String id="63001976" msg="Уии!" onlyBalloon="true" />
+    <String id="63001977" msg="" onlyBalloon="true" />
+    <String id="63001978" msg="Зумм!" onlyBalloon="true" />
+    <String id="63001979" msg="" onlyBalloon="true" />
+    <String id="63001980" msg="Оу!" onlyBalloon="true" />
+    <String id="63001981" msg="" onlyBalloon="true" />
+    <String id="63001982" msg="Ау!" onlyBalloon="true" />
+    <String id="63001983" msg="" onlyBalloon="true" />
+    <String id="63001984" msg="Гр-р! " onlyBalloon="true" />
+    <String id="63001985" msg="" onlyBalloon="true" />
+    <String id="63001986" msg="Бр-р!" onlyBalloon="true" />
+    <String id="63001987" msg="" onlyBalloon="true" />
+    <String id="63001988" msg="Апчхи!" onlyBalloon="true" />
+    <String id="63001989" msg="Есть хочу." onlyBalloon="true" />
+    <String id="63001990" msg="Очень есть хочу!" onlyBalloon="true" />
+    <String id="63001991" msg="Кар!" onlyBalloon="true" />
+    <String id="63001992" msg="Кар-р-р!" onlyBalloon="true" />
+    <String id="63001993" msg="Кар-кар." onlyBalloon="true" />
+    <String id="63001994" msg="Кар-р-р-р!" onlyBalloon="true" />
+    <String id="63001995" msg="Кар!" onlyBalloon="true" />
+    <String id="63001996" msg="Кар?" onlyBalloon="true" />
+    <String id="63001997" msg="Хрю" onlyBalloon="true" />
+    <String id="63001998" msg="Мое!" onlyBalloon="true" />
+    <String id="63001999" msg="Эй, чудище! Золотом поделишься?" onlyBalloon="true" />
+    <String id="63002000" msg="Рой! Рой! Свинья занята делом!" onlyBalloon="true" />
+    <String id="63002001" msg="Нет денег? Больше нет денег!" onlyBalloon="true" />
+    <String id="63002002" msg="Что мое - твое, что я откопал - мое!" onlyBalloon="true" />
+    <String id="63002003" msg="Что же это может быть?" onlyBalloon="true" />
+    <String id="63100001" existTime="3" msg="Ты знаешь, что случилось с Хранители Света?" onlyBalloon="true" />
+    <String id="63100002" existTime="3" msg="Я хотел бы вступить в гильдию, но жена не позволяет!" onlyBalloon="true" />
+    <String id="63100003" existTime="3" msg="Однажды я уйду со своей скучной работы и вступлю в гильдию..." onlyBalloon="true" />
+    <String id="63100004" existTime="3" msg="Если хоть раз побываешь в Башне Накатам, даже Кастаника покажется тебе скучной." onlyBalloon="true" />
+    <String id="63100005" existTime="3" msg="Хочу стать Хранителем Света!" onlyBalloon="true" />
+    <String id="63100006" existTime="3" msg="Башня Накатам, какое удивительное место..." onlyBalloon="true" />
+    <String id="63100007" existTime="3" msg="Туда могут попасть только достойные." onlyBalloon="true" />
+    <String id="63100008" existTime="3" msg="Даже с такого расстояния Воздушные замки выглядят удивительно!" onlyBalloon="true" />
+    <String id="63100009" existTime="3" msg="Как ты думаешь, они могут просто взять и упасть с неба?" onlyBalloon="true" />
+    <String id="63100010" existTime="3" msg="Замок в воздухе... Как такое возможно?" onlyBalloon="true" />
+    <String id="63100012" existTime="3" msg="Я верю в Курсус Хонорум! Мне надо найти достойную гильдию!" onlyBalloon="true" />
+    <String id="63100013" existTime="3" msg="Мало что может сравниться по красоте с Башней Накатам." onlyBalloon="true" />
+    <String id="63100014" existTime="3" msg="Я видел Башню Накатам уже множество раз, но она не перестает меня удивлять." onlyBalloon="true" />
+    <String id="63100015" existTime="3" msg="Говорят, что многие гильдии готовятся сейчас к войне." onlyBalloon="true" />
+    <String id="63100016" existTime="3" msg="Говорят, торговцы ведут переговоры с гильдиями, чтобы выбить себе условия получше." onlyBalloon="true" />
+    <String id="63100017" existTime="3" msg="Ох, если бы я только умел драться!" onlyBalloon="true" />
+    <String id="63100018" existTime="3" msg="Все больше и больше людей вступает в гильдии." onlyBalloon="true" />
+    <String id="63100019" existTime="3" msg="Говорят, в Башню Накатам можно как-то попасть на пегасе." onlyBalloon="true" />
+    <String id="63100020" existTime="3" msg="Я хочу вступить в хорошую гильдию, чтобы сын гордился мной!" onlyBalloon="true" />
+    <String id="63100021" existTime="3" msg="Сестра будет гордиться, когда я вступлю в гильдию!" onlyBalloon="true" />
+    <String id="63100022" existTime="3" msg="Я хочу вырасти как можно скорее, чтобы побыстрее вступить в гильдию!" onlyBalloon="true" />
+    <String id="63100023" existTime="3" msg="Думаешь, я смогу продать это добро в гильдию?" onlyBalloon="true" />
+    <String id="63100024" existTime="3" msg="Товары для Башни Накатам уже готовы?" onlyBalloon="true" />
+    <String id="63150001" msg="Если собираешься на крейсер, поговори со мной." onlyBalloon="true" />
+    <String id="63150002" msg="Отметься здесь, чтобы подняться на борт &quot;Бесстрашного&quot;." onlyBalloon="true" />
+    <String id="63150003" msg="Отличная погода для полета." onlyBalloon="true" />
+    <String id="63150004" msg="Все готово к погрузке!" onlyBalloon="true" />
+    <String id="63156101" msg="Клянусь бычьими хвостами! Хотелось бы мне полететь на север." onlyBalloon="true" />
+    <String id="63156102" msg="Интересно, когда принцесса вернется домой?.." onlyBalloon="true" />
+    <String id="63156103" msg="А?.. У меня куда-то делась одна корова." onlyBalloon="true" />
+    <String id="70040001" existTime="3" msg="Голодная земля напьется твоей крови!" onlyBalloon="true" />
+    <String id="70040002" existTime="3" msg="Ха-ха-ха! Никто не сможет противостоять моей силе!" onlyBalloon="true" />
+    <String id="70040003" existTime="5" msg="Я отправлю подарок Альптинусу... Твою голову!" onlyBalloon="true" />
+    <String id="70040004" existTime="5" msg="Я! Скоро! Стану! Богом!" onlyBalloon="true" />
+    <String id="70040005" existTime="5" msg="Кажется, пора уходить." onlyBalloon="true" />
+    <String id="72100001" existTime="3" msg="Обладай я ресурсами Мистериума, возможно, и у меня был бы свой Воздушный замок." onlyBalloon="true" />
+    <String id="72100002" existTime="3" msg="Я хочу узнать тайны Башни Накатам!" onlyBalloon="true" />
+    <String id="72100003" existTime="3" msg="Охранять Башню Накатам - это, наверное, здорово..." onlyBalloon="true" />
+    <String id="72100004" existTime="3" msg="Хотя бы раз мне хочется побывать в Башне Накатам!" onlyBalloon="true" />
+    <String id="72100005" existTime="3" msg="Говорят, вид оттуда просто невероятный." onlyBalloon="true" />
+    <String id="72100006" existTime="3" msg="Я надеюсь когда-нибудь нести службу на посту, с которого видно Воздушные замки." onlyBalloon="true" />
+    <String id="72100007" existTime="3" msg="Башню Накатам можно будет увидеть от городских ворот..." onlyBalloon="true" />
+    <String id="72100008" existTime="3" msg="Никогда бы не подумал, что буду завидовать тем, кто стоит у ветреных врат." onlyBalloon="true" />
+    <String id="72100009" existTime="3" msg="Ветер - не проблема, когда можно смотреть на Воздушные замки!" onlyBalloon="true" />
+    <String id="72100010" existTime="3" msg="Интересно, какой вид с них открывается..." onlyBalloon="true" />
+    <String id="72100011" existTime="3" msg="Башня Накатам считается очень красивой." onlyBalloon="true" />
+    <String id="72100012" existTime="3" msg="Ах... Как же мне хочется жить там, в небе..." onlyBalloon="true" />
+    <String id="72100013" existTime="3" msg="Попробуй фейерверк! Прямиком из Башни Накатам!" onlyBalloon="true" />
+    <String id="72100014" existTime="3" msg="Если хочешь жить в небе, присоединяйся к состязанию гильдий!" onlyBalloon="true" />
+    <String id="72100015" existTime="3" msg="Они и правда делают Аллемантею красивей!" onlyBalloon="true" />
+    <String id="72100016" existTime="3" msg="Лишь достойные могут приблизиться к Воздушному замку..." onlyBalloon="true" />
+    <String id="77010001" msg="&lt;font size='30'&gt;&lt;font size='30'&gt;Умри, уродливая тварь!&lt;/font&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010002" msg="&lt;font size='30'&gt;Я тебя уничтожу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010003" msg="&lt;font size='30'&gt;Это заклинание приведет меня к победе!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010004" msg="&lt;font size='30'&gt;У тебя нет шансов. Смирись с поражением.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010005" msg="&lt;font size='30'&gt;Огненный шар!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010006" msg="&lt;font size='30'&gt;Ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010007" msg="&lt;font size='30'&gt;Надеюсь, у тебя было время приготовиться!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010008" msg="&lt;font size='30'&gt;Это - последняя капля!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010009" msg="&lt;font size='30'&gt;Ха-ха-ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010010" msg="&lt;font size='30'&gt;Получай!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010011" msg="&lt;font size='30'&gt;Будет больно...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010012" msg="&lt;font size='30'&gt;Готовься!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010013" msg="&lt;font size='30'&gt;Телепортация!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010014" msg="&lt;font size='30'&gt;Сейчас будет больно!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010015" msg="&lt;font size='30'&gt;Это тебе!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010016" msg="&lt;font size='30'&gt;Слабак...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010017" msg="&lt;font size='30'&gt;Я смету тебя с пути!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010018" msg="&lt;font size='30'&gt;Аргон завершен.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010019" msg="&lt;font size='30'&gt;Ха-ха-ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010020" msg="&lt;font size='30'&gt;Встречай боль!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010021" msg="&lt;font size='30'&gt;Ты мне не ровня.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010022" msg="&lt;font size='30'&gt;Новая боль! С пылу, с жару!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010023" msg="&lt;font size='30'&gt;Прочь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010024" msg="&lt;font size='30'&gt;Лежать, псы!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010025" msg="&lt;font size='30'&gt;Я сотру тебя в порошок!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010026" msg="&lt;font size='30'&gt;Умри!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010027" msg="&lt;font size='30'&gt;Невежда!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010028" msg="&lt;font size='30'&gt;Хо-хо-хо!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010029" msg="&lt;font size='30'&gt;Ты все еще хочешь драться?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010030" msg="&lt;font size='30'&gt;Узри гнев Лока!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010031" msg="&lt;font size='30'&gt;Понимаешь, в чем дело?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010032" msg="&lt;font size='30'&gt;А-а!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010033" msg="&lt;font size='30'&gt;Тебе конец!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010034" msg="&lt;font size='30'&gt;Перемешать!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010035" msg="&lt;font size='30'&gt;Покорми меня!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010036" msg="&lt;font size='30'&gt;Рубить!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010037" msg="&lt;font size='30'&gt;Осторожно!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010038" msg="&lt;font size='30'&gt;Лови!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010039" msg="&lt;font size='30'&gt;Прыжок назад!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010040" msg="&lt;font size='30'&gt;Ну что, веселишься?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010041" msg="&lt;font size='30'&gt;Тебе конец!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010042" msg="&lt;font size='30'&gt;Я раздавлю тебя!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010043" msg="&lt;font size='30'&gt;Уберите это!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010044" msg="&lt;font size='30'&gt;Стой!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010045" msg="&lt;font size='30'&gt;Получи!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010046" msg="&lt;font size='30'&gt;Теперь тебе конец!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010047" msg="&lt;font size='30'&gt;Я вас всех уничтожу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010048" msg="&lt;font size='30'&gt;Лучше беги!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010049" msg="&lt;font size='30'&gt;Йа-а-аргх!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010050" msg="&lt;font size='30'&gt;Это должно быть больно?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010051" msg="&lt;font size='30'&gt;Меня не остановить!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010052" msg="&lt;font size='30'&gt;Ты отправишься домой по кусочкам!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010053" msg="&lt;font size='30'&gt;Надвигается холод!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010054" msg="&lt;font size='30'&gt;Трусливый червяк!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010055" msg="&lt;font size='30'&gt;Теперь ты в моих руках!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010056" msg="&lt;font size='30'&gt;Преклонись передо мной!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010057" msg="&lt;font size='30'&gt;Морозно!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010058" msg="&lt;font size='30'&gt;Как такое может быть?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010059" msg="&lt;font size='30'&gt;Постой! Постой!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010060" msg="&lt;font size='30'&gt;Ты просто меня бесишь.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010061" msg="&lt;font size='30'&gt;Открыть огонь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010062" msg="&lt;font size='30'&gt;Вот вам!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010063" msg="&lt;font size='30'&gt;Поджигай!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010064" msg="&lt;font size='30'&gt;Горит!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010065" msg="&lt;font size='30'&gt;Гори!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010066" msg="&lt;font size='30'&gt;Ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010067" msg="&lt;font size='30'&gt;Куда это ты собираешься?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010068" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010069" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010070" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010071" msg="&lt;font size='30'&gt;Удар в корпус!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010072" msg="&lt;font size='30'&gt;Эй! Это больно!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010073" msg="&lt;font size='30'&gt;Все сжечь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010074" msg="&lt;font size='30'&gt;Узри мое могущество!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010075" msg="&lt;font size='30'&gt;Я тебя подожгу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010076" msg="&lt;font size='30'&gt;Ты выглядишь, как мой обед.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010077" msg="&lt;font size='30'&gt;Я тебя прихлопну как жука.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010078" msg="&lt;font size='30'&gt;Жри грязь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010079" msg="&lt;font size='30'&gt;Ого-о-онь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010080" msg="&lt;font size='30'&gt;У тебя нет ни шанса!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020001" msg="&lt;font size='20'color='#C9D8DA'&gt;Особые бриллиантовые матчи проводится за 10 минут до наступления нового часа!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020002" msg="&lt;font size='20'color='#C9D9DA'&gt;На обычные матчи можно ставить золотые жетоны. Для бриллиантовых матчей требуются бриллиантовые жетоны!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020003" msg="&lt;font size='20'color='#C9D9DA'&gt;Если вы переключаете канал или выходите из Бамарамы, ваша ставка пропадает.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020004" msg="&lt;font size='20'color='#C9D9DA'&gt;Если вы переключите канал, то не сможете забрать награду!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020011" msg="&lt;font size='20'color='#FF0000'&gt;Гори, детка, гори!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020012" msg="&lt;font size='20'color='#FF0000'&gt;Из тебя получится пюре!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020013" msg="&lt;font size='20'color='#FF0000'&gt;Как же мне тебя прожарить? До средней степени? Или с кровью?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020014" msg="&lt;font size='20'color='#FF0000'&gt;Гори!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020015" msg="&lt;font size='20'color='#FF0000'&gt;Ничего не выйдет!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020016" msg="&lt;font size='20'color='#FF0000'&gt;Превратись в пепел!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020017" msg="&lt;font size='20'color='#FF0000'&gt;Готовься к гибели!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020018" msg="&lt;font size='20'color='#FF0000'&gt;Еще... нет!..&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020019" msg="&lt;font size='20'color='#FF0000'&gt;Помедленнее!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020021" msg="&lt;font size='20'color='#9FA2E3'&gt;Я выжгу тебе душу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020022" msg="&lt;font size='20'color='#9FA2E3'&gt;Сгорай в пепел!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020023" msg="&lt;font size='20'color='#9FA2E3'&gt;Ха-ха-ха-ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020024" msg="&lt;font size='20'color='#9FA2E3'&gt;Р-ра-р-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020025" msg="&lt;font size='20'color='#9FA2E3'&gt;А как тебе землетрясение?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020026" msg="&lt;font size='20'color='#9FA2E3'&gt;Получи!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020027" msg="&lt;font size='20'color='#9FA2E3'&gt;Я это разломаю!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020028" msg="&lt;font size='20'color='#9FA2E3'&gt;Я все разломаю! На кусочки!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020029" msg="&lt;font size='20'color='#9FA2E3'&gt;Я тебя в клочки разорву!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020031" msg="&lt;font size='20'color='#FFFF00'&gt;Прибью!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020032" msg="&lt;font size='20'color='#FFFF00'&gt;Проваливай!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020033" msg="&lt;font size='20'color='#FFFF00'&gt;Жалкая тварь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020034" msg="&lt;font size='20'color='#FFFF00'&gt;Да как ты смеешь?!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020035" msg="&lt;font size='20'color='#FFFF00'&gt;Меня не победить!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020036" msg="&lt;font size='20'color='#FFFF00'&gt;Оставить тебя в живых?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020037" msg="&lt;font size='20'color='#FFFF00'&gt;Я раздавлю тебя!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020038" msg="&lt;font size='20'color='#FFFF00'&gt;Тебе со мной никак не справиться!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020039" msg="&lt;font size='20'color='#FFFF00'&gt;Нет...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020041" msg="&lt;font size='20'color='#E2B8A9'&gt;Получай хвостом!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020042" msg="&lt;font size='20'color='#E2B8A9'&gt;Получи!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020043" msg="&lt;font size='20'color='#E2B8A9'&gt;Я это разломаю!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020044" msg="&lt;font size='20'color='#E2B8A9'&gt;Умри!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020045" msg="&lt;font size='20'color='#E2B8A9'&gt;Вот так вон!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020046" msg="&lt;font size='20'color='#E2B8A9'&gt;Настоящий шок!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020047" msg="&lt;font size='20'color='#E2B8A9'&gt;Растопчу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020048" msg="&lt;font size='20'color='#E2B8A9'&gt;Разряд!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020049" msg="&lt;font size='20'color='#E2B8A9'&gt;Я еще... могу!..&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020051" msg="&lt;font size='20'color='#B9FFDC'&gt;Скрип!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020052" msg="&lt;font size='20'color='#B9FFDC'&gt;Р-ра-р-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020053" msg="&lt;font size='20'color='#B9FFDC'&gt;Кр-ра-а-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020054" msg="&lt;font size='20'color='#B9FFDC'&gt;Скрип! Скрип!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020055" msg="&lt;font size='20'color='#B9FFDC'&gt;Кр-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020056" msg="&lt;font size='20'color='#B9FFDC'&gt;Р-ра-р-р! Р-ра-р-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020057" msg="&lt;font size='20'color='#B9FFDC'&gt;Ра-а-а-р-р!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020058" msg="&lt;font size='20'color='#B9FFDC'&gt;Ух... Ух...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020059" msg="&lt;font size='20'color='#B9FFDC'&gt;Скрип!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020061" msg="&lt;font size='20'color='#E8D073'&gt;Кр-р... Кр-р-р…&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020062" msg="&lt;font size='20'color='#E8D073'&gt;Умри!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020063" msg="&lt;font size='20'color='#E8D073'&gt;Ха-ха-ха-ха!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020064" msg="&lt;font size='20'color='#E8D073'&gt;Получи!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020065" msg="&lt;font size='20'color='#E8D073'&gt;Разорву на мелкие кусочки!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020066" msg="&lt;font size='20'color='#E8D073'&gt;Думаешь, сможешь справиться?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020067" msg="&lt;font size='20'color='#E8D073'&gt;Я тебя убью!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020068" msg="&lt;font size='20'color='#E8D073'&gt;Сжечь в пепел!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020069" msg="&lt;font size='20'color='#E8D073'&gt;Я тебе голову откручу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020071" msg="&lt;font size='20'color='#D22F2F'&gt;Газ! Газ! ГАЗ!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020072" msg="&lt;font size='20'color='#D22F2F'&gt;Я тебя проглочу!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020073" msg="&lt;font size='20'color='#D22F2F'&gt;Это все твоя вина!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020074" msg="&lt;font size='20'color='#D22F2F'&gt;Качусь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020075" msg="&lt;font size='20'color='#D22F2F'&gt;Получи!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020076" msg="&lt;font size='20'color='#D22F2F'&gt;Бум!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020077" msg="&lt;font size='20'color='#D22F2F'&gt;Мне… больно...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020078" msg="&lt;font size='20'color='#D22F2F'&gt;Нюхни газку!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020079" msg="&lt;font size='20'color='#D22F2F'&gt;Я тебе башку оторву!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020081" msg="&lt;font size='20'color='#C9D8DA'&gt;Вор!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020082" msg="&lt;font size='20'color='#C9D8DA'&gt;Все конфеты!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020083" msg="&lt;font size='20'color='#C9D8DA'&gt;Будут! Только! Мои!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020084" msg="&lt;font size='20'color='#C9D8DA'&gt;Удар ракеты!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020085" msg="&lt;font size='20'color='#C9D8DA'&gt;Никто не сбежит!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020086" msg="&lt;font size='20'color='#C9D8DA'&gt;Добро пожаловать в Кумасшествие!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020087" msg="&lt;font size='20'color='#C9D8DA'&gt;Качусь!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020088" msg="&lt;font size='20'color='#C9D8DA'&gt;Замри!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020089" msg="&lt;font size='20'color='#C9D8DA'&gt;Нет... Нет... Моя карамель!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="823100001" msg="Надеюсь, экспедиция пройдет нормально." onlyBalloon="true" />
+    <String id="823100002" msg="Северный Арун называют &quot;потерянным континентом&quot;, но на самом деле его никто не терял." onlyBalloon="true" />
+    <String id="823100003" msg="Следуй за мной." onlyBalloon="true" />
+    <String id="823110101" msg="Ох, проклятье... как меня сюда занесло?" onlyBalloon="true" />
+    <String id="823110102" msg="А-а-а! На помощь!" onlyBalloon="true" />
+    <String id="823110103" msg="Прочь, чудовища!" onlyBalloon="true" />
+    <String id="823110104" msg="Сквозь дым ничего не видно." onlyBalloon="true" />
+    <String id="823110105" msg="С Золин все будет в порядке..." onlyBalloon="true" />
+    <String id="823301001" msg="Сюда, скорее." onlyBalloon="true" />
+    <String id="823301002" msg="На палубе опасно." onlyBalloon="true" />
+    <String id="823301003" msg="Я отправлю тебя на палубу." onlyBalloon="true" />
+    <String id="823301004" msg="Прошу, поскорее!" onlyBalloon="true" />
+    <String id="1000300241" msg="Говорят, что здесь живут призраки." />
+    <String id="1000300242" msg="Бдительные достойно сражаются." />
+    <String id="1000300243" msg="Иногда люди умирают. Вообще-то, довольно часто." />
+    <String id="1000300244" msg="Спасибо за помощь." />
+    <String id="1000300245" msg="Нежить! Они идут и идут!" />
+    <String id="1000300246" msg="Деванцы в чаще... плохой знак. Будет беда, и скоро." />
+    <String id="1000300247" msg="Какое... жуткое ощущение. И так каждый раз, когда я здесь." />
+    <String id="1000300248" msg="Когда-нибудь я тоже обрету могущество!" />
+    <String id="1001600021" msg="Уведите меня отсюда!" />
+    <String id="1001600022" msg="Я отправляюсь к Алетее." />
+    <String id="1001600023" msg="После многих веков воздержания вампирская жажда крови взяла свое." />
+    <String id="1001600024" msg="Атель-акаад? Не говори это слово! Они хотят убить меня! Они и вас убьют!" />
+    <String id="1001600025" msg="Здесь много пугающих вещей." />
+    <String id="1020210381" msg="Хрю!" />
+    <String id="1020210382" msg="Хрю-хрю?" />
+    <String id="1020210383" msg="Хрю?" />
+    <String id="1020210384" msg="Хрю-у-у!" />
+    <String id="1020210385" msg="Хрю-хрю, хрю-хрю." />
+    <String id="1020210386" msg="Хрю." />
+    <String id="1020210387" msg="Хрю!" />
+    <String id="1020210388" msg="Хрю-хрю!" />
+    <String id="1020310281" msg="Мы приближаемся." />
+    <String id="1020310282" msg="Не отставайте! У вас еще есть силы?" />
+    <String id="1020310283" msg="Хорошо, что вы здесь." />
+    <String id="1020310284" msg="Деванцы - уже плохо, но еще и монстры..." />
+    <String id="1020310285" msg="Если я погибну, не выиграет никто. Ни город, ни вы, и уж тем более не я." />
+    <String id="1020310286" msg="Не отставайте!" />
+    <String id="1020310287" msg="Держитесь поближе, защищайте меня!" />
+    <String id="1020310288" msg="Не вешайте нос! Мы почти на месте." />
+    <String id="1020610401" msg="Пожалуйста, отведи меня к Созии!" />
+    <String id="1020610402" msg="Я беспокоюсь за остальных." />
+    <String id="1020610403" msg="Пустите меня!" />
+    <String id="1020610404" msg="Живодеры разорили мой город. Они творили немыслимые злодеяния." />
+    <String id="1020610405" msg="Спасибо! Спасибо! Вы спасли мне жизнь!" />
+    <String id="1022110451" msg="Прошу, спасите меня!" />
+    <String id="1022110452" msg="Мне нужно доставить отчет Делиру." />
+    <String id="1022110453" msg="Как вам Делир? Величественный, верно?" />
+    <String id="1022110454" msg="Великолепно! У нас отлично получается." />
+    <String id="1022110455" msg="До базы еще долгий путь..." />
+    <String id="1022110456" msg="Возможно, Балруг наградит тебя, когда мы доберемся." />
+    <String id="1022110457" msg="Спасибо за помощь." />
+    <String id="1022110458" msg="Может быть... сюда?" />
+    <String id="1022510201" msg="Я докажу свою смелость!" />
+    <String id="1022510202" msg="Страх - для слабых." />
+    <String id="1022510203" msg="Осторожно!" />
+    <String id="1022510204" msg="Как смеешь ты меня оскорблять?!" />
+    <String id="1023030161" msg="Ме-е!" />
+    <String id="1023030162" msg="Ме-е-е!" />
+    <String id="1023030163" msg="Бе-е!" />
+    <String id="1023030164" msg="Грип!" />
+    <String id="1023030165" msg="Рип!" />
+    <String id="1023030166" msg="Гроп-п!" />
+    <String id="1048790011" msg="Культу Лока нет прощения!" />
+    <String id="1048790012" msg="За мучения брата я расквитаюсь кровью!" />
+    <String id="1048790013" msg="Ко мне, скорее! Разделяться опасно." />
+    <String id="1048790014" msg="Сюда... это здесь..." />
+    <String id="1048790015" msg="За мной, скорее." />
+    <String id="1048790016" msg="Следуйте за мной." />
+    <String id="1048790017" msg="Мой брат был хорошим солдатом." />
+    <String id="1048790018" msg="Почему они здесь? Это дурной знак." />
+    <String id="2147483647" msg="Веди нас, друг-высший эльф." />
+    <String id="2147483647" msg="Мне не терпится взглянуть на Озеро слез." />
+    <String id="2147483647" msg="Дорога не из простых!" />
+    <String id="2147483647" msg="Ух! Уф-ф! Может, немного помедленнее?" />
+    <String id="2147483647" msg="У тебя ноги длиннее моих. Помедленнее, пожалуйста!" />
+    <String id="2147483647" msg="Мы еще не пришли?" />
+    <String id="2147483647" msg="У меня уже сил нет. Долго еще?" />
+    <String id="2147483647" msg="Хм..." />
+    <String id="2147483647" msg="Фух..." />
+    <String id="2147483647" msg="Мы же еще не пришли, да?" />
+    <String id="2147483647" msg="Мы что, ходим кругами?" />
+    <String id="2147483647" msg="Вставай! Пошли!" />
+    <String id="2147483647" msg="Вот это путешествие!" />
+    <String id="2147483647" msg="Гр-ра-ур-р!" />
+    <String id="2147483647" msg="Уже пр-р-р-ришли?" />
+</StrSheet_MonsterBehavior>

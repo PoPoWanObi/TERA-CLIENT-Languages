@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1006">
+        <Page social="5">Die Kobolde schleichen herum, um uns von hinten in die Flanke zu fallen. Die Narren tun gerade so, als ob wir sie da draußen nicht sehen können.&lt;BR&gt;&lt;BR&gt;Kobolde sind absolute Nervensägen. Wir müssen sie so lange wie möglich in Schach halten. Glaubt Ihr, Ihr könntet für uns eine Schneise durch ihre Reihen schlagen? Wenn sie Angst vor uns haben, werden sie nicht so erpicht darauf sein, an unserer Position herumzuschwärmen.&lt;BR&gt;&lt;BR&gt;Tötet so viele {@LinkCreature:7#9#Schergen der Rotreißerkobolde} wie möglich. Ich bezweifle, dass sie Euch ausgehen werden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1006">
+        <Page social="5">Jetzt dürften sie zwei- oder gar dreimal nachdenken. Danke, &lt;PCNAME&gt;. Vielleicht bekommen wir jetzt mal fünf Minuten Schlaf.</Page>
+    </Text>
+</QuestDialog>

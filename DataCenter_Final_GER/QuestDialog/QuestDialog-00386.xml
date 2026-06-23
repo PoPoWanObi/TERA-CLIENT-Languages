@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="4">Da Ihr schon mal hier seid, &lt;PCNAME&gt;, könntet Ihr Euch auch nützlich machen.&lt;BR&gt;&lt;BR&gt;Wir sind auf etwas wirklich Nützliches aus: Rache!&lt;BR&gt;&lt;BR&gt;Gestern haben die {@LinkCreature:11#2002#Rotpeitschenenterer} Canrohl getötet. Sie haben ihn wie ein Schwein abgestochen und stundenlang schreien lassen. Entsetzliche Sache.&lt;BR&gt;&lt;BR&gt;Warum lasst Ihr sie nicht schreien? Auge um Auge, nicht wahr?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1014">
+        <Page social="4">Ich schätze, Ihr gebt jetzt eine Dauervorstellung in ihren Albträumen, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

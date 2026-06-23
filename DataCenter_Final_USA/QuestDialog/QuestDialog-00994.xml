@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="4">This extreme cold is definitely no natural phenomenon. We must be under the influence of a powerful ice spell.&lt;BR&gt;&lt;BR&gt;Federation scouts reported spotting a spirit as white as snow in the {@Rgn:31005$$Icefang Inlet} recently.&lt;BR&gt;&lt;BR&gt;I think this spirit may be {@LinkCreature:31#28$$Siarxis}, the legendary frost queen.&lt;BR&gt;&lt;BR&gt;If we can take her out, perhaps it will break the spell.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">So the frost queen {@LinkCreature:31#28$$Siarxis} really did exist! Keyword: did.&lt;BR&gt;&lt;BR&gt;In her absence, the ice should gradually melt.&lt;BR&gt;&lt;BR&gt;We are indebted to you, &lt;PCNAME&gt;. Thank you!</Page>
+    </Text>
+</QuestDialog>

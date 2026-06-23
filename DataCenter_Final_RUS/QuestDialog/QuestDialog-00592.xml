@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">Ты увидишь неподалеку месторождения светящейся голубой руды, откуда культисты выбирают небольшие светящиеся камни.&lt;BR&gt;&lt;BR&gt;Если ты принесешь мне парочку, может быть я смогу понять, зачем они понадобились культистам.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Я не говорила, что это будет легко, но я рада, что тебе удалось выжить. Это многому меня научило.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">Удалось найти светящиеся камни? Я сгораю от любопытства.</Page>
+    </Text>
+</QuestDialog>

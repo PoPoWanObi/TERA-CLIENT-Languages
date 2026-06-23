@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">Если мы хотим выполнить задание, то нам нужно держать аргонов на расстоянии.&lt;BR&gt;&lt;BR&gt;Избавься от {@LinkCreature:45#1001#Келба-штурмовиков}, {@LinkCreature:45#1002#Аргоновых орканов-карликов} и {@LinkCreature:45#1003#Аргоновых хранителей рун} около Пути к башне.&lt;BR&gt;&lt;BR&gt;О выполнении задания доложи {@LinkCreature:245#1002#Орено} на Полевой базе "Упорство".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1002">
+        <Page social="5">Отличная работа, &lt;PCNAME&gt;. Продолжай в том же духе.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1002">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="1">Seid gegrüßt, Sonnenfreund{@g:/in}. Die Prüfungen von Balders Tempel werden immer intensiver, so wie die Sonne, die am Himmel aufsteigt.&lt;BR&gt;&lt;BR&gt;Eure nächste Aufgabe ist es, {@LinkCreature:425#3000$$Lagreah}, den Beschützer des Gartens, zu besiegen. Dann zerstört den {@LinkCreature:425#5000#Golemgenerator}, um Eure Stärke zu beweisen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">Ihr seid wahrlich {@g:ein Freund/eine Freundin} der Sonne.&lt;BR&gt;&lt;BR&gt;Eure nächste Prüfung wartet auf Euch.</Page>
+    </Text>
+</QuestDialog>

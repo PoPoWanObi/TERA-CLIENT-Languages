@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4">Мы должны избавиться от аргонов, охраняющих лабиринт.&lt;BR&gt;&lt;BR&gt;Они обладают невероятно крепкой броней. Она даже крепче той, что носят элитные войска.&lt;BR&gt;&lt;BR&gt;Забери их броню, когда убьешь. Наши кузнецы посмотрят, из чего она сделана.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4">Ха! Ты прямо шкуры с них сдираешь!&lt;BR&gt;&lt;BR&gt;Храбрости тебе не занимать, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Молодец, солдат!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1001">
+        <Page social="0">Аргоны изобрели новый способ создания брони.&lt;BR&gt;&lt;BR&gt;Принеси мне несколько образцов, чтобы кузнецы смогли их изучить.</Page>
+    </Text>
+</QuestDialog>

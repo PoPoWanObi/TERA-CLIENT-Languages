@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0">Дулари и его посох помогли вам изучить новые умения.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Полагаю, тебе уже понятно, что этот остров - необычное место. Древни, постройки на юге... ладно, скажу проще: если тебя убьют, толку от тебя будет немного.&lt;BR&gt;&lt;BR&gt;Сейчас твоя главная задача - сделать остров безопаснее для будущих исследователей. &lt;font color='#660000'&gt;Волис&lt;/font&gt; научит тебя тому, что должен знать каждый &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1024">
+        <Page social="4">Тем, кто ищет знаний, поможет Волис, сын Караса. Когда ты получаешь возможность изучить новое умение, на панели меню появляется значок умений. Открой &lt;font color='#660000'&gt;Окно умений (K)&lt;/font&gt; и выбери новое умение или посети учителя или инструктора соответствующего класса и выбери пункт &lt;font color='#660000'&gt;Изучить умения&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Каждый &lt;PCCLASS:lcase&gt; должен иметь в своем арсенале умение &lt;font color='#660000'&gt;"Взрыв метаморфозы I".&lt;/font&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1024">
+        <Page social="4">"Волна боли обрушивается на врага". Когда противников поражает "Взрыв метаморфозы", они разлетаются, словно листья на ветру. &lt;BR&gt;&lt;BR&gt;Даже самые опытные колдуны используют &lt;font color='#660000'&gt;Восстановление маны&lt;/font&gt; для восстановления сил. Без ресурса, помогающего претворять знание в действие, тебя ждет лишь поражение.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1017">
+        <Page social="4">Да, ты знаешь про Взрыв метаморфозы, но умеешь ли ты им пользоваться?&lt;BR&gt;&lt;BR&gt;В окрестностях очень много {@linkcreature:13#300921#норуков}. Убей парочку по пути на юг, потом поговори с Нивеком у подножья холма.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1115">
+        <Page social="4">Гм... эти шкуры... просто отвратительны. Но раз у тебя кое-какие навыки имеются, ты поможешь нам в другом деле. Так держать, рекрут!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="213" villagerId="1115">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

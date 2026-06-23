@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="4">Тс-с-с! Эй, ты! Сделай одолжение. Я же работаю под прикрытием. Разве не видишь? Но мой вид уже тут примелькался.&lt;BR&gt;&lt;BR&gt;Принесешь мне одежду вон тех {@LinkCreature:40#2#Берсерков-марионеток} и {@LinkCreature:40#10#Умалишенных рабочих}? В их вещах меня никто не заподозрит!&lt;BR&gt;&lt;BR&gt;Ты только Нарпе не говори, хорошо?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Погоди, сейчас увидишь мою новую маскировку! Только держи язык за зубами. Спасибо, дружище!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1036">
+        <Page social="0">Тс-с-с-с! Ну что, удалось раздобыть вещи {@LinkCreature:40#2#Берсерков-марионеток} и {@LinkCreature:40#10#Умалишенных рабочих}? Мне они действительно нужны!</Page>
+    </Text>
+</QuestDialog>

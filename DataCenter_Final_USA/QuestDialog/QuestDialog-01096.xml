@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Regional predators threaten the trade of eldritch shards and all we've built.&lt;BR&gt;&lt;BR&gt;Eliminate {@LinkCreature:34#100#maligos icestalkers}, {@LinkCreature:34#200#caiman slaves}, and {@LinkCreature:34#300#Junaidar thieves}, {@LinkCreature:34#310#bandits}, {@LinkCreature:34#400#scourges}, and {@LinkCreature:34#410#raiders}.&lt;BR&gt;&lt;BR&gt;Report to Dena when mission is complete. Take the field!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1010">
+        <Page social="4">We appreciate your hard work and sacrifice.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1010">
+        <Page social="0">You have your orders, soldier. Carry them out.</Page>
+    </Text>
+</QuestDialog>

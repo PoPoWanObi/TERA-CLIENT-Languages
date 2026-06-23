@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="4">Wir müssen den Sklavenhandel der Gula da treffen, wo es wehtut - direkt im Geldbeutel.&lt;BR&gt;&lt;BR&gt;Nein, ich meine es wörtlich. Ich rede tatsächlich von ihren Geldbeuteln.&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:8#2051#Devanerakolythen} treiben viel Handel auf den Sklavenmärkten. Versucht sie zu überzeugen, ihre Geschäfte woanders zu machen. Gier ist das schlimmste Übel!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1002">
+        <Page social="4">Diese Devaner waren keinen Deut besser als die Gula. Ihr habt gute Arbeit geleistet!</Page>
+    </Text>
+</QuestDialog>

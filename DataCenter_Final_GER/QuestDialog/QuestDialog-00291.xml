@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Zwei Fragen habe ich, &lt;PCNAME&gt;. Und sie gehören zusammen.&lt;BR&gt;&lt;BR&gt;Kennt Ihr den Ausdruck "verrückter als ein Nest voller Mugato"?&lt;BR&gt;&lt;BR&gt;Habt Ihr das Mugatonest gleich &lt;font color='#660000'&gt;südlich&lt;/font&gt; von hier bemerkt?&lt;BR&gt;&lt;BR&gt;Ein so nahes Nest können wir nicht zulassen. Würdet Ihr die {@LinkCreature:9#200#Mugato} verjagen oder zumindest einige erschlagen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Wenigstens werden wir nicht von Mutatos überrannt.&lt;BR&gt;&lt;BR&gt;Aber sie kommen sicher wieder.&lt;BR&gt;&lt;BR&gt;Was für eine Landplage!</Page>
+    </Text>
+</QuestDialog>

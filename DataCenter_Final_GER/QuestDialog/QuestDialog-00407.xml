@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Das Kazuursyndikat, eine Gulavereinigung, die also vermutlich aus verrückten Kannibalen besteht, hat ein paar Sklaven an Dirken verkauft.&lt;BR&gt;&lt;BR&gt;Wäre es nicht nützlich, wenn sich herumspräche, dass es tödlich sein kann, mit Dirken Geschäfte zu machen? Nichts schmälert den Profit so sehr wie der eigene Tod, wenn Ihr versteht, was ich meine.&lt;BR&gt;&lt;BR&gt;Geht zum nördlichen Teil der Wüsten Küste und löscht die {@LinkCreature:12#7#Gulazänker} dort aus. Das wird sich herumsprechen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="5">Wir sind wirklich ein unschlagbares Team, &lt;PCNAME&gt;. Ich stelle ihnen eine Falle, und Ihr macht sie nieder.&lt;BR&gt;&lt;BR&gt;Hmmm. Wenn ich das sage, kriege ich sofort Durst ...</Page>
+    </Text>
+</QuestDialog>

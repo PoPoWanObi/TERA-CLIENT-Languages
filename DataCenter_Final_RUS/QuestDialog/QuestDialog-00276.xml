@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Детали задания: &lt;BR&gt;&lt;BR&gt;Уничтожь врагов в Галерее Хаоса и Галерее Рока в Лабиринте Азарела и принеси доказательства их смерти.&lt;BR&gt;&lt;BR&gt;Цель операции: {@LinkCreature:9#810#Гулы-гурманы}, {@LinkCreature:9#910#Кайманы-фанатики}, {@LinkCreature:9#440#Гулы-обвальщики}, {@LinkCreature:9#450#Гулы-злобни}, {@LinkCreature:9#1000#Жнецы крови Лока}, {@LinkCreature:9#1100#Мастера лука Лока}, {@LinkCreature:9#1200#Воители Лока}, и {@LinkCreature:9#1300#Кровояры Лока}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Это награда от Федерации. Да будут благословенны всем члены Гильдии!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Похоже, задание еще не выполнено.</Page>
+    </Text>
+</QuestDialog>

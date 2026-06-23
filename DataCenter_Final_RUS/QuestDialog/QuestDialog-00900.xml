@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Наги-пираты постоянно лезут к нам в гарнизон. Меня это приводит в ярость - им словно нет дела до того, что мы здесь и вооружены.&lt;BR&gt;&lt;BR&gt;Нужно преподать им урок и нанести ответный удар. Убей несколько {@LinkCreature:31#20#Нагов-жрецов смерти} и забери их шлемы. Мы вывесим их на воротах. Чтобы их холодная кровь заледенела еще больше.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">От одной мысли о том, какой страх шлемы будут внушать этим проклятым нагам, мне становится теплее. Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">У тебя уже есть шлемы {@LinkCreature:31#20#Нагов-жрецов смерти}?</Page>
+    </Text>
+</QuestDialog>

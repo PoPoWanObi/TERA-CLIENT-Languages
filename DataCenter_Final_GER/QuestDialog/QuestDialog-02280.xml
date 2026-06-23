@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Zurück für mehr Blut? {@LinkCreature:63#3003#Elthienne} sagt Euch, wohin Ihr gehen und was Ihr töten sollt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Wie gefällt Euch Val Aureum? Seid Ihr bereit, loszuziehen und meine Drecksarbeit zu erledigen?&lt;BR&gt;&lt;BR&gt;Fabelhaft!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">{@Rgn:18001#Kolossale Ruinen}, was? Die sind wohl riesig, was?&lt;BR&gt;&lt;BR&gt;Ratet mal, wer Euer Geld hat? Genau, {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir müssen ein paar {@LinkCreature:18#17#Uralte Theraliten} in den {@Rgn:18001#Kolossalen Ruinen} erledigen und Fragmente ihrer großen, aberwitzig felsigen Körper zurückbringen.&lt;BR&gt;&lt;BR&gt;Mit dem Zeug kriegt man gut Hornhaut weg. Aber natürlich ist das nicht alles, wofür wir es verwenden.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Wie war der Ausflug zu den Kolossalen Ruinen? Nicht gerade ein Spaziergang, was?&lt;BR&gt;&lt;BR&gt;Danke. {@LinkCreature:63#3003#Elthienne} wird Euch für diesen Auftrag bezahlen.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Wir müssen ein paar {@LinkCreature:18#18#Riesige Gladiatoren} in den Kolossalen Ruinen erledigen und diese feschen Stulpen von deren Riesendaumen zurückbringen. Die sind aus einem seltenen Metall, das schwer zu finden ist.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Gute Arbeit!&lt;BR&gt;&lt;BR&gt;Wo schicken wir Euch als Nächstes hin?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0">Ich habe eine ganz einfache Mission für Euch, &lt;PCNAME&gt;:&lt;BR&gt;&lt;BR&gt;Eliminiert die Himmelsfallkultisten, die sich an der Mündung zur Paraanonschlucht mit unserer Garnison schlagen.&lt;BR&gt;&lt;BR&gt;Konzentriert Euch dabei auf {@LinkCreature:17#300442#Himmelsfallwachen}, {@LinkCreature:17#300552#Fasskopfdrescher} und {@linkcreature:17#301220#Mutierte Elin}.&lt;BR&gt;&lt;BR&gt;Erstattet Blaessa am Umkämpften Außenposten Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1008">
+        <Page social="5">Dank Euch werden uns die Kultisten so schnell keine Probleme mehr bereiten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1008">
+        <Page social="0">Es sieht nicht aus, als hättet Ihr Eure Mission abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

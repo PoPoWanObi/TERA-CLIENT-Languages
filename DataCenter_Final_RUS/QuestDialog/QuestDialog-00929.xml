@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Проклятые наемники вчера снова получили груз.&lt;BR&gt;&lt;BR&gt;Мы не можем установить их поставщика, но если они смогут возобновить регулярное снабжение, мы в беде.&lt;BR&gt;&lt;BR&gt;Как насчет небольшого рейда, &lt;PCNAME&gt;? Отправляйся в лагерь наемников - в бухту к северу отсюда, и укради все их припасы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Спасибо! Это немного изменит расклад сил в нашу пользу.&lt;BR&gt;&lt;BR&gt;Кстати, тебя искал Хасиб. Наверное, начинает догадываться, что означает "не мой тип". Ну, ты понимаешь, о чем я...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Припасы наемников хранятся в лагере в бухте, что к северу отсюда. Уже удалось что-нибудь найти?</Page>
+    </Text>
+</QuestDialog>

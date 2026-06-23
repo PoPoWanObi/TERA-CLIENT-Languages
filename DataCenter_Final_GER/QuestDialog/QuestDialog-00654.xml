@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">Ich weiß nicht, was hier vor sich geht. Es ist einfach zu viel auf einmal.&lt;BR&gt;&lt;BR&gt;Ich weiß nicht, was sie tun, aber beseitigt die {@LinkCreature:20#30143000#Ebenholzweber Loks} und die {@LinkCreature:20#30140000#Blutmagier Loks}.&lt;BR&gt;&lt;BR&gt;Was immer sie tun, es kann nichts Gutes sein. Bring mir jegliche Forschungsmaterialien, die Ihr findet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Ein Tagebuch? Forschungsfortschritte und -ergebnisse? Ich werde es sofort zu Arthgal schicken, damit er es nach Velika bringen kann.&lt;BR&gt;&lt;BR&gt;Das habt Ihr gut gemacht!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">Ich hasse es, nicht zu wissen, was los ist. Wenn Ihr mir die Forschungsmaterialien bringt, werde ich es endlich wissen!</Page>
+    </Text>
+</QuestDialog>

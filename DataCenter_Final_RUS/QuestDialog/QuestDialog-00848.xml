@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="1">Проклятый Мистериум! Аллемантея не станет присылать войска, чтобы помочь нам в борьбе с ленивцами, потому что "ленивцы - это не хищники". Невероятно!&lt;BR&gt;&lt;BR&gt;Тебе доводилось видеть зубы у {@LinkCreature:30#110#Ленивцев-рубак}? Они такие острые, что... Хм, у меня появилась идея.&lt;BR&gt;&lt;BR&gt;Ты поможешь мне? Убей несколько {@LinkCreature:30#110#Ленивцев-рубак} и принеси мне их зубы, чтобы я могла показать их командиру.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">Превосходно. Посмотрим, как они заговорят, когда я покажу им эти зубы на собрании!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1010">
+        <Page social="0">Убей {@LinkCreature:30#110#Ленивцев-рубак} и собери их зубы.</Page>
+    </Text>
+</QuestDialog>

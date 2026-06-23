@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">Много ваших солдат отравились, съев неизвестные растения. Я знаю, что тут может помочь.&lt;BR&gt;&lt;BR&gt;По обе стороны от бастиона Черного Когтя находятся &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=Caves"&gt;пещеры&lt;/A&gt;&lt;/font&gt;. А в них растут &lt;font color='#660000'&gt;стебли лазурника&lt;/font&gt;, которые отлично помогают от большинства ядов. Отнеси его {@LinkCreature:241#1019#Хуурику}, чтобы он приготовил противоядие для ваших солдат.&lt;BR&gt;&lt;BR&gt;Мы же вроде как друзья теперь.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="0">Я приготовил противоядие из сока лазурника. Отнеси его {@LinkCreature:241#1003#Джаэбелю}. Если его принесешь ты, он быстрей поверит.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">Вход в пещеру находится у бастиона Черного Когтя. Цветы растут внутри.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="3" villagerId="1003">
+        <Page social="4">Говоришь, Хуурик прислал? Он, вроде, неплохой, но, на всякий случай, я попробую первым.&lt;BR&gt;&lt;BR&gt;Ну и гадость! Мерзость редкая, но я жив. Сомневаюсь, что это может навредить кому-то. Если это и вправду поможет солдатам, я отошлю Кабалке вкуснейшее мясо камара! Спасибо за помощь, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

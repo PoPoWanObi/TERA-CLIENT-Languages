@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1014">
+        <Page social="0">Dougals Versuch, Seir um Verstärkung zu ersuchen, ist gescheitert.&lt;BR&gt;&lt;PCNAME&gt; traf Garm, die Wache des Teleportals von Höhenwacht, um zu erfahren, warum das Kommunikationsgerät des Mysteriums nicht funktioniert hat. Garm offenbarte, dass das Teleportal von Höhenwacht aus irgendeinem Grund geschlossen ist.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1014">
+        <Page social="4">Ich habe etwas für Euch, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Während Ihr mit Omeros gesprochen habt, kam ein Freund von Dougal mit einer Notiz vorbei.&lt;NEXTPAGEBUTTON&gt;"Habt Dank."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4">Mysterium? Kommunikationsgerät? Ich bin mit keinem dieser Dinge vertraut ... &lt;BR&gt;&lt;BR&gt;Höhenwacht wurde über Generationen hinweg isoliert - seit unser Teleportal kaputt gegangen ist.&lt;BR&gt;&lt;BR&gt;Es gibt einfach keinen Weg, um die Außenwelt zu erreichen, ohne sich direkt durch die Sturmbarriere zu bewegen.&lt;NEXTPAGEBUTTON&gt;"Es gibt immer einen Weg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ihr habt zweifellos mehr Erfahrung mit Teleportalen als ich. Tausende Baraka haben versucht, unseres zu reaktivieren, aber alles war vergeblich.&lt;BR&gt;&lt;BR&gt;Ihr solltet Euch wirklich eine Alternativroute suchen.&lt;NEXTPAGEBUTTON&gt;"Darf ich mir Euer Teleportal wenigstens ansehen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">... natürlich.&lt;BR&gt;&lt;BR&gt;Sprecht mit Garm, er bewacht das Teleportal von Höhenwacht.&lt;BR&gt;&lt;BR&gt;Er ist der führende Experte in Höhenwacht, wenn es um Teleportale geht.&lt;BR&gt;&lt;BR&gt;Wenn Euch irgendjemand helfen kann, dann Garm.&lt;NEXTPAGEBUTTON&gt;"Vielen Dank."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1016">
+        <Page social="4">Ich habe mir immer vorgestellt, wie es wohl wäre, jenseits von Val Oriyn zu sein und die Welt zu sehen.&lt;BR&gt;&lt;BR&gt;Ich habe tausende Experimente mit dem Relativitätsstein dort durchgeführt, aber ohne Erfolg.&lt;BR&gt;&lt;BR&gt;Zur Zeit stehe ich meistens Wache, nicht so sehr wegen des Teleportals, sondern wegen meines Experiments.&lt;NEXTPAGEBUTTON&gt;"Gibt es denn gar nichts, das man tun kann?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Meine derzeitige Theorie ist, dass der Relativitätsstein verbraucht ist, weil er so lange ständig versucht hat, die Sturmbarriere zu durchbrechen. Jetzt, da die Sturmbarriere einen Riss bekommen hat, ist der Relativitätsstein zu schwach, um durchzustoßen.&lt;NEXTPAGEBUTTON&gt;"Gibt es irgendwo mehr Relativitätssteine?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das ... könnte sein.&lt;BR&gt;&lt;BR&gt;Ich empfehle Euch, die Halle des Wissens zu besuchen, wo die Baraka all unsere Entdeckungen aufbewahrt haben seit wir denken können. Ich habe es versucht, aber Ihr mögt Einblicke haben, die ich nicht habe.&lt;NEXTPAGEBUTTON&gt;"Dann werde ich dort nach Antworten suchen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich muss Euch vorwarnen: Ihr benötigt eine spezielle Erlaubnis, um die Halle des Wissens betreten zu dürfen.&lt;BR&gt;&lt;BR&gt;Bittet Rimun um eine Genehmigung.&lt;BR&gt;&lt;BR&gt;Und falls Ihr einen Weg findet, an Relativitätssteine zu gelangen, solltet Ihr sie vermutlich gleich in großer Zahl beschaffen. Es gibt keine Garantie, dass es mit dem ersten funktionieren wird.&lt;BR&gt;&lt;BR&gt;Und bitte nehmt dies im Voraus als ein Zeichen meiner Dankbarkeit.&lt;NEXTPAGEBUTTON&gt;"Macht Euch keine Sorgen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Ihr seid den Hinweisen gefolgt, die Ihr in den Verlorenen Wäldern gefunden habt, und in das Gebiet der Orkaner eingedrungen. Bei Rahtos Quartier im Gebiet der Orkaner konntet Ihr Informationen über den Einmarsch der Orkaner nach Pora Elinu sammeln.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Ihr werdet Euch also in das Gebiet der Orkaner begeben? Ein Spion, der mir bekannt ist, würde Euch dort gerne zur Hand gehen.&lt;BR&gt;&lt;BR&gt;Er ist als Orkaner verkleidet. Aber ich bin mir sicher, dass Ihr ihn bei Eurem feinen Gespür sofort erkennen werdet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1043">
+        <Page social="4">Psst! Hey! Hier drüben!&lt;BR&gt;&lt;BR&gt;Ich bin eigentlich kein Orkaner. Ich bin ein verkleideter Spion, der für Mirvan arbeitet und Informationen sammelt.&lt;BR&gt;&lt;BR&gt;Mirvan ist dem Pfad zur Orkanerfeste gefolgt. Falls sie dort in Schwierigkeiten geraten sollte, wird sie Eure Hilfe benötigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1027">
+        <Page social="4">Ihr lebt noch! Gut. Ich könnte Hilfe brauchen.&lt;BR&gt;&lt;BR&gt;Ich denke, dass dieser Ort für die Orkaner irgendwie von Bedeutung ist. Er ist schwer bewacht, doch sie kommen dem Altar nicht zu nah. Ich muss den Grund dafür herausfinden.&lt;BR&gt;&lt;BR&gt;Rahto, der Anführer der Orkaner, muss mehr über diesen Altar wissen. Findet heraus, was er weiß.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1028">
+        <Page social="4">[Das Tagebuch besteht hauptsächlich aus sinnlosem Kauderwelsch, doch daneben gibt es ein paar interessante Einträge zu roten Siegeln, die Rahto von jemandem beim Altar bekommen hat. Die nachfolgenden Einträge zeugen von überraschender Intelligenz. Laut Rahtos Tagebuch sollten die Siegel dazu dienen, die Führung über seinen Stamm zu erlangen und den Mitgliedern Macht zu verleihen. Sie weckten bei Rahto jedoch Begehrlichkeiten nach Macht.]</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1027">
+        <Page social="4">Ich habe mir diesen Altar genau angesehen und ich denke, dass es eine Art Teleportal ist. Vermutlich konnten die Orkaner ihre Truppen so in dieses Gebiet bringen, ohne dabei entdeckt zu werden. Was habt Ihr herausgefunden?&lt;BR&gt;&lt;BR&gt;Hm. Wenn Rahto die Orkaner durch diese roten Siegel kontrolliert, sollte Rahtos Beseitigung sie nicht nur schwächen, sondern ihnen auch das Interesse nehmen. Sobald sie fort sind, sollten wir Pora Elinu befreien können.&lt;NEXTPAGEBUTTON&gt;"Es ist einen Versuch wert."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nun gut, wir haben alles erfahren, was es hier zu erfahren gibt.&lt;BR&gt;&lt;BR&gt;Ich werde mich auf die Suche nach Rahto begeben. Ihr sorgt für Ablenkung, indem Ihr so viele Ödfelsschamanen beseitigt, wie nur möglich. Sagt unserem Spion, dass er zur Basis zurückkehren und Prinzessin Rida Bericht erstatten soll. Unsere Mission hier ist erledigt.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1043">
+        <Page social="4">Nun, falls sich Rahto nicht im Gebiet der Orkaner befindet, könnte er sich gerade um den Einmarsch nach Pora Elinu kümmern.&lt;BR&gt;&lt;BR&gt;Ich werde der Prinzessin Mirvans Bericht übermitteln. Ihr solltet Euch nach Norden aufmachen und Mirvan finden.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1011">
+        <Page social="4">Ist unser Spion unterwegs? Gut. Klingt, als hattet Ihr mehr Glück als ich. Rahto befindet sich nicht im Gebiet der Orkaner.&lt;BR&gt;&lt;BR&gt;Ich habe herausgefunden, dass die Orkaner Basilisken mit diesen roten Siegeln ausstatten, um sie als Geheimwaffe für den nächsten Angriff auf Pora Elinu einzusetzen. Wenn wir Rahto nicht aufhalten können, müssen wir zumindest die Basilisken aufhalten.&lt;BR&gt;&lt;BR&gt;Ich werde uns einen sicheren Pfad nach Pora Elinu suchen. Erledigt ein paar dieser Basilisken. Das sollte Rahto ein wenig zu schaffen machen.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" prevId="8" villagerId="1039">
+        <Page social="4">Ihr fangt an, mich mächtig zu beeindrucken, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aber dafür haben wir nun keine Zeit. Der Pfad hinter uns ist der einzige Weg nach Pora Elinu. Es ist riskant, aber uns gehen die Alternativen aus. Während ich nach Rahto suche, müsst Ihr für mich nach Pora Elinu gehen und Prinzessin Arin finden.&lt;BR&gt;&lt;BR&gt;Oh, übrigens: Ich habe ein paar Sachen im Lager der Orkaner gefunden, die Euch von Nutzen sein könnten. Sie gehören Euch. Viel Glück!</Page>
+    </Text>
+</QuestDialog>

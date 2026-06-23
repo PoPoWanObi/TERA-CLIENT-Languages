@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="5">Ich liebe Listen, Ihr nicht auch? Immer wenn man denkt, man ist so gut wie durch, stellt man fest, dass es noch weitere Seiten gibt. Da wird mir immer ganz warm ums Herz!&lt;BR&gt;&lt;BR&gt;Also gut, Ihr müsst die {@LinkCreature:38#12#Gefräßige Reißzahnbrut} beseitigen. Das wäre wirklich nett von Euch.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Elmaire im Außenposten am Kraterblick in der Siennaschlucht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1009">
+        <Page social="5">Gute Arbeit. Hier ist Eure Belohnung.&lt;BR&gt;&lt;BR&gt;Macht weiter so!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1009">
+        <Page social="0">Ihr habt Eure Mission nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

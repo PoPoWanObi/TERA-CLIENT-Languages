@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">EX-TRX - die Prototypen unseres Magiebots - benötigen eine ständige Energiezufuhr. Möchtet Ihr nicht sehen, wie das funktioniert?&lt;BR&gt;&lt;BR&gt;Besorgt mir Kristalle von {@LinkCreature:34#1010#Eisräuberriesen} in den Frostweiten.&lt;BR&gt;&lt;BR&gt;Und seht mich nicht so an. In der Entwicklungsphase erschienen mir die Kristalle der Eisräuberriesen noch eine passende Energiequelle zu sein.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1704">
+        <Page social="4">Genug Kristalle, um den Bot den ganzen Tag lang laufen zu lassen! Großartig, doch morgen brauche ich Eure Hilfe wieder.&lt;BR&gt;&lt;BR&gt;EX-TRXs Appetit nach Energie ist unersättlich! Hmmm. Tun wir einfach so, als würde das nicht ominös klingen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1704">
+        <Page social="0">Um diese Maschine in Gang zu halten, brauche ich eine Energiequelle. Kristalle der Eisräuberriesen, um genau zu sein.&lt;BR&gt;&lt;BR&gt;Das ist Fusionswissenschaft. Davon versteht Ihr nichts.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="4">Меконари соорудили магические устройства в виде надгробий.&lt;BR&gt;&lt;BR&gt;Время от времени один из аргонов или меконари окропляет их кровью. Думаю, они очень важны для обряда. Разве тебе нужен больший мотив для разрушения?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1022">
+        <Page social="4">Можно посмотреть на обломки этих штук?&lt;BR&gt;&lt;BR&gt;О, боги, какой ужас! Они действительно созданы для разрушения связи душ с миром Грез! Я не думала, что такое возможно. Неужели меконари не понимают, что творят?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1022">
+        <Page social="0">Сломай эти окровавленные надгробия, &lt;PCNAME&gt;. Уверена, это помешает обряду.</Page>
+    </Text>
+</QuestDialog>

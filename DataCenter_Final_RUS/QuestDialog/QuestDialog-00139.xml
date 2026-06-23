@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Ладно, следующая цель - {@LinkCreature:5#20#Рагуга}. Его смерть вполне может оказаться нашим ключом к победе.&lt;BR&gt;&lt;BR&gt;Продолжим любезничать, или ты сразу пойдешь и позаботишься о нем? Надеюсь, твои тренировки прошли не зря.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">Наконец-то! Это должно стать последней точкой в нашей войне с туванги. Твоя помощь неоценима. Благодарю тебя.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">Что, он все еще жив?&lt;BR&gt;&lt;BR&gt;Может, тебе требуется особое приглашение?</Page>
+    </Text>
+</QuestDialog>

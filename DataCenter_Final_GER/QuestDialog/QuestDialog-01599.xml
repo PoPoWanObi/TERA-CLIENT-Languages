@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="4">Da Ihr uns schon mit der Beseitigung von Selvereth geholfen habt, wäre es eigensüchtig von mir, Euch noch länger hier festzuhalten, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Südlich der Feuerstellung der Verwegenheit befindet sich der Göttliche Brennofen, den Thulsas Elitetruppen von uns erobert haben. Könnt Ihr unseren Soldaten dort helfen?&lt;BR&gt;&lt;BR&gt;Wenn Ihr über die Brücke kommt, trefft Ihr bei der Grabwacht der Verbannten auf Krok. Sein Arm ist so unnachgiebig wie seine Ansichten, das kann ich Euch versichern.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">{@g:Ein einzelner/Eine einzelne} &lt;PCCLASS&gt;? Das ist alles, was sie uns schicken? Soll das ein Witz sein?&lt;BR&gt;&lt;BR&gt;Wollen wir einfach zulassen, dass Thulsa hier ein Denkmal des Untergangs errichtet?</Page>
+    </Text>
+</QuestDialog>

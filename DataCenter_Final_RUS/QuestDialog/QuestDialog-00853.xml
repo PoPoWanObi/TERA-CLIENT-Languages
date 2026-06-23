@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Сегодня твой счастливый день! Мой наставник, маг Ошар, начинает новое предприятие.&lt;BR&gt;&lt;BR&gt;Под его руководством я разработал бальзам для волос, который не только омолаживает волосы и увеличивает их объем, но и помогает от облысения. Мне нужно приготовить новую партию образцов, но у меня кончились ингредиенты.&lt;BR&gt;&lt;BR&gt;А это означает... что тебе повезло!&lt;NEXTPAGEBUTTON&gt;"Вот как?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Именно так! Ты поможешь мне приготовить этот чудесный лосьон!&lt;BR&gt;&lt;BR&gt;Поймай несколько Лазурных древней и поищи ульи.&lt;BR&gt;&lt;BR&gt;Собери мед, и ты получишь отличную награду!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">Я не забуду этого, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Даже внесу твое имя в список участников проекта. Прими эту скромную награду в знак моей признательности.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">Люксовый лосьон Лешоффа почти готов!&lt;BR&gt;&lt;BR&gt;Как только у меня будет достаточно меда древней, я смогу закончить работу!</Page>
+    </Text>
+</QuestDialog>

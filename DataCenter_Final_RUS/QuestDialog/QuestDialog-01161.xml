@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Нужно разобраться с этими арахненами. Отправляйся за {@LinkCreature:39#131#Арахненами-матронами}, {@LinkCreature:39#130#Матриархами} и {@LinkCreature:39#140#Невольниками-смотрителями} на нижние уровни Арахнеи.&lt;BR&gt;&lt;BR&gt;Когда закончишь, возвращайся к Грейну на Неприветливую заставу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1003">
+        <Page social="4">Это было непростое задание, но у тебя неплохо получилось.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1003">
+        <Page social="0">Отправляйся на охоту. Твоя цель - {@LinkCreature:39#130#Арахнены-матриархи}, {@LinkCreature:39#131#Арахнены-матроны} {@LinkCreature:39#140#Невольники-смотрители}. Принеси мне доказательства их гибели.</Page>
+    </Text>
+</QuestDialog>

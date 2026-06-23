@@ -1,0 +1,643 @@
+<StrSheet_Npc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc">
+    <String id="1" string="Диалог" />
+    <String id="2" string="Задание" />
+    <String id="3" string="Магазин" />
+    <String id="4" string="Банк" />
+    <String id="5" string="Создать гильдию" />
+    <String id="6" string="Изучить умения" />
+    <String id="7" string="Доступные задания" />
+    <String id="8" string="Почта" />
+    <String id="9" string="Услуги брокера" />
+    <String id="11" string="Обработка предметов" />
+    <String id="12" string="Отправиться в полет" />
+    <String id="13" string="Регистрация претендента" />
+    <String id="14" string="Политика" />
+    <String id="15" string="Налоги" />
+    <String id="16" string="Открыть инкубатор" />
+    <String id="17" string="Использовать питомца" />
+    <String id="18" string="Ремесло" />
+    <String id="19" string="Телепортация" />
+    <String id="20" string="Управление Воздушным замком" />
+    <String id="21" string="Состав боевой группы" />
+    <String id="22" string="Налоги" />
+    <String id="23" string="Телепортация" />
+    <String id="24" string="Обменять медали" />
+    <String id="25" string="Уровни гильдии" />
+    <String id="26" string="Принять Ауру доблести" />
+    <String id="27" string="Восстановить бодрость" />
+    <String id="28" string="Услуги брокера" />
+    <String id="29" string="Сбросить очки" />
+    <String id="30" string="Увеличить вместительность сумки" />
+    <String id="31" string="Эмблема гильдии" />
+    <String id="32" string="Все задания выполнены" />
+    <String id="33" string="Переделать снаряжение" />
+    <String id="34" string="Восстановить внешний вид снаряжения" />
+    <String id="35" string="Банк гильдии" />
+    <String id="36" string="Очки политики" />
+    <String id="37" string="Восстановить HP" />
+    <String id="38" string="Восстановить MP" />
+    <String id="39" string="Восстановить HP и MP" />
+    <String id="40" string="Восстановить HP, MP и бодрость" />
+    <String id="41" string="Телепортация" />
+    <String id="43" string="Магазин очков политики" />
+    <String id="44" string="Убрать флаг" />
+    <String id="45" string="Об альянсе" />
+    <String id="46" string="Вступить в Сообщество Торговцев" />
+    <String id="47" string="Вступить в Союз Просвещенных " />
+    <String id="48" string="Вступить в Железный орден" />
+    <String id="49" string="Покинуть альянс" />
+    <String id="50" string="Основать альянс" />
+    <String id="51" string="Записать свою кандидатуру в экзархи" />
+    <String id="52" string="Разместить магазин редкостей" />
+    <String id="53" string="Возможности экзарха" />
+    <String id="54" string="Выдать очки политики" />
+    <String id="55" string="Выдать средства" />
+    <String id="56" string="Попробовать зачарование" />
+    <String id="57" string="Собрать налоги" />
+    <String id="58" string="Поменять шансы зачарователя" />
+    <String id="59" string="Уход в закат" />
+    <String id="60" string="Магазин очков арены" />
+    <String id="61" string="Подбор подземелий" />
+    <String id="62" string="Перенос бонуса к зачарованию" />
+    <String id="63" string="Ставки на монстров" />
+    <String id="64" string="Написать сообщение" />
+    <String id="66" string="Пробуждение" />
+    <String id="67" string="Вернуться в ближайший город" />
+    <String id="68" string="Чары пробуждения" />
+    <String id="78" string="Флаг гильдии" />
+    <String id="79" string="Телепортация в ваш Воздушный замок" />
+    <String id="100" string="Купить кристаллы" />
+    <String id="110" string="Купить кристаллы" />
+    <String id="120" string="Товары битвы гильдий" />
+    <String id="130" string="Магазин питомца" />
+    <String id="140" string="Обменять медные энсиформы" />
+    <String id="141" string="Магазин" />
+    <String id="142" string="Магазин" />
+    <String id="143" string="Обменять зимние жетоны" />
+    <String id="151" string="Обмен жетонов" />
+    <String id="152" string="Обмен жетонов" />
+    <String id="153" string="Обмен жетонов" />
+    <String id="154" string="Обмен жетонов" />
+    <String id="160" string="Купить обычные товары" />
+    <String id="161" string="Купить обычные товары" />
+    <String id="170" string="Товары для гильдии" />
+    <String id="180" string="Материалы для оружейного дела" />
+    <String id="181" string="Материалы для изготовления доспехов" />
+    <String id="182" string="Материалы для изготовления доспехов" />
+    <String id="183" string="Материалы для изготовления доспехов" />
+    <String id="184" string="Материалы для гравировки" />
+    <String id="185" string="Материалы для алхимии" />
+    <String id="190" string="Чертежи оружия" />
+    <String id="191" string="Чертежи доспехов" />
+    <String id="192" string="Чертежи доспехов" />
+    <String id="193" string="Чертежи доспехов" />
+    <String id="194" string="Чертежи оружия" />
+    <String id="195" string="Алхимические формулы" />
+    <String id="196" string="Узоры гравировки" />
+        <String id="201" string="Buy Warrior Glyphs" />
+    <String id="202" string="Buy Lancer Glyphs" />
+    <String id="203" string="Buy Slayer Glyphs" />
+    <String id="204" string="Buy Berserker Glyphs" />
+    <String id="205" string="Buy Sorcerer Glyphs" />
+    <String id="206" string="Buy Archer Glyphs" />
+    <String id="207" string="Buy Mystic Glyphs" />
+    <String id="208" string="Buy Priest Glyphs" />
+<String id="210" string="Купить доспехи" />
+    <String id="211" string="Купить оружие" />
+    <String id="221" string="Оружие ближнего боя за жетоны поддержки" />
+    <String id="222" string="Оружие ближнего боя за жетоны прогресса" />
+    <String id="223" string="Оружие ближнего боя за жетоны преданности" />
+    <String id="224" string="Оружие ближнего боя за жетоны первых рядов" />
+    <String id="231" string="Средоточия за жетоны поддержки" />
+    <String id="232" string="Средоточия за жетоны прогресса" />
+    <String id="233" string="Средоточия за жетоны преданности" />
+    <String id="234" string="Средоточия за жетоны первых рядов" />
+    <String id="240" string="Магазин красителей" />
+    <String id="250" string="Магазин редкостей" />
+    <String id="260" string="Выкройки для снаряжения" />
+    <String id="270" string="Обменять значки Оксбоу" />
+    <String id="271" string="Обменять значки испытаний" />
+    <String id="272" string="Обменять некротические значки" />
+    <String id="273" string="Обменять значки двойственности" />
+    <String id="274" string="Обменять жуткие значки" />
+    <String id="275" string="Обменять значки Гелида" />
+    <String id="276" string="Обменять расколотый фрагмент Шандры" />
+    <String id="277" string="Обменять собранный фрагмент Шандры" />
+    <String id="280" string="Обменять наградной чек" />
+    <String id="281" string="Обменять подарок Йоки" />
+    <String id="282" string="Обменять подарок Шаны" />
+    <String id="283" string="Обменять подарок Непир" />
+    <String id="286" string="Роскошные наряды" />
+    <String id="287" string="Элегантные наряды" />
+    <String id="288" string="Стильные наряды" />
+    <String id="289" string="Фантастические наряды" />
+    <String id="290" string="Обмен сырья" />
+    <String id="291" string="Жетоны Голдфингера" />
+    <String id="292" string="Магазин купонов на наряды" />
+    <String id="293" string="Обменять золотые медали" />
+    <String id="294" string="Обменять золотые письма" />
+    <String id="295" string="Магазин Дня влюбленных" />
+    <String id="296" string="Магазин Дня холостяков" />
+    <String id="297" string="Магазин по обмену штампов за участие" />
+    <String id="298" string="Магазин по обмену золотых писем II" />
+    <String id="299" string="Магазин купонов за пробег" />
+    <String id="300" string="Магазин редкостей" />
+    <String id="302" string="Магазин по обмену для синего бойца" />
+    <String id="303" string="Магазин по обмену для черного бойца" />
+    <String id="304" string="Магазин по обмену для красного бойца" />
+    <String id="305" string="Жетоны Голдфингера" />
+    <String id="306" string="Магазин по обмену золотых писем" />
+    <String id="308" string="Магазин купонов за пробег (второй сезон)" />
+    <String id="310" string="Обменять значки практики" />
+    <String id="311" string="Обменять ужасные значки" />
+    <String id="312" string="Обменять ужасные значки" />
+    <String id="314" string="Обмен валькионских жетонов" />
+    <String id="315" string="Потратить Счастливые билеты" />
+    <String id="316" string="Магазин" />
+    <String id="317" string="Магазин" />
+    <String id="318" string="Магазин" />
+    <String id="319" string="Магазин" />
+    <String id="320" string="Магазин" />
+    <String id="321" string="Магазин" />
+    <String id="322" string="Магазин" />
+    <String id="323" string="Магазин" />
+    <String id="324" string="Магазин" />
+    <String id="325" string="Магазин" />
+    <String id="326" string="Магазин" />
+    <String id="327" string="Магазин" />
+    <String id="328" string="Обменять: {@RawItem:45312}" />
+    <String id="329" string="Обменять шерсть дауни" />
+    <String id="330" string="Обменять перо аркая" />
+    <String id="331" string="Обменять конфеты для Хэллоуина" />
+    <String id="332" string="Книга умений для Хэллоуина" />
+    <String id="333" string="Ящик для Хэллоуина" />
+    <String id="334" string="Обмен особых жетонов" />
+    <String id="335" string="Обмен предметов Праздника полной луны" />
+    <String id="336" string="Обмен предметов события" />
+    <String id="337" string="Обмен жетонов Баньякаса" />
+    <String id="338" string="Обмен жетонов октябрьского события" />
+    <String id="339" string="Обмен снаряжения завоевателя " />
+    <String id="340" string="Обмен сладких леденцов" />
+    <String id="341" string="Обмен особых самоцветов завоевателя" />
+    <String id="342" string="Обмен особых самоцветов завоевателя" />
+    <String id="343" string="Обмен хелканских кристаллов" />
+    <String id="344" string="Обмен драгоценностей вернувшегося героя" />
+    <String id="345" string="Обмен монет элин 4-й годовщины" />
+    <String id="347" string="" />
+    <String id="348" string="" />
+    <String id="349" string="" />
+    <String id="350" string="" />
+    <String id="351" string="" />
+    <String id="352" string="" />
+    <String id="353" string="" />
+    <String id="355" string="" />
+    <String id="356" string="" />
+    <String id="359" string="" />
+    <String id="364" string="" />
+    <String id="510" string="Потратить серебряные таланты" />
+    <String id="511" string="Потратить золотые таланты" />
+    <String id="512" string="Потратить золотые таланты" />
+    <String id="513" string="Магазин" />
+    <String id="514" string="Магазин" />
+    <String id="515" string="Магазин" />
+    <String id="600" string="Магазин купца" />
+    <String id="609" string="Припасы Авангарда" />
+    <String id="1001" string="Назад" />
+    <String id="1002" string="Далее" />
+    <String id="1003" string="Отмена" />
+    <String id="1201" string="Обычные товары" />
+    <String id="1301" string="Питомцы" />
+    <String id="1302" string="Тренировка питомцев" />
+    <String id="1401" string="Оружие" />
+    <String id="1402" string="Доспех" />
+    <String id="1403" string="Украшения" />
+    <String id="1404" string="Припасы" />
+    <String id="1411" string="Чертежи Противоречия" />
+    <String id="1412" string="Ремесленное клеймо" />
+    <String id="1413" string="Боевые товары" />
+    <String id="1414" string="Ремесло 60 уровня" />
+    <String id="1421" string="Лучшие чертежи I" />
+    <String id="1422" string="Лучшие чертежи II" />
+    <String id="1423" string="Лучшие чертежи III" />
+    <String id="1424" string="Другие материалы" />
+    <String id="1431" string="Расходуемые" />
+    <String id="1432" string="Эксперт по опыту" />
+    <String id="1433" string="Украшение" />
+    <String id="1511" string="Оружие" />
+    <String id="1512" string="Доспех" />
+    <String id="1521" string="Оружие" />
+    <String id="1522" string="Доспех" />
+    <String id="1531" string="Оружие" />
+    <String id="1532" string="Доспех" />
+    <String id="1541" string="Оружие" />
+    <String id="1542" string="Доспех" />
+    <String id="1601" string="Обычные товары" />
+    <String id="1602" string="Бой" />
+    <String id="1603" string="Уроки извлечения" />
+    <String id="1604" string="Свитки" />
+    <String id="1701" string="Бой" />
+    <String id="1801" string="Наборы для обработки" />
+    <String id="1802" string="Наборы для оружия" />
+    <String id="1811" string="Наборы для обработки" />
+    <String id="1812" string="Наборы для доспехов" />
+    <String id="1821" string="Наборы для обработки" />
+    <String id="1822" string="Наборы для доспехов" />
+    <String id="1831" string="Наборы для обработки" />
+    <String id="1832" string="Наборы для доспехов" />
+    <String id="1841" string="Наборы для обработки" />
+    <String id="1842" string="Дополнительно" />
+    <String id="1851" string="Наборы для обработки" />
+    <String id="1852" string="Наборы и катализаторы" />
+    <String id="1853" string="Наборы для обработки" />
+    <String id="1854" string="Наборы для гравировки" />
+    <String id="1855" string="Разное" />
+    <String id="1900" string="Материалы" />
+    <String id="1901" string="Оружие ближнего боя" />
+    <String id="1902" string="Волшебное оружие" />
+    <String id="1903" string="Подмастерье" />
+    <String id="1905" string="Материалы" />
+    <String id="1906" string="Подмастерье" />
+    <String id="1907" string="Подмастерье" />
+    <String id="1910" string="Материалы" />
+    <String id="1911" string="Нагрудный доспех" />
+    <String id="1912" string="Перчатки / башмаки" />
+    <String id="1913" string="Подмастерье" />
+    <String id="1941" string="Диски" />
+    <String id="1942" string="Луки" />
+    <String id="1943" string="Посохи" />
+    <String id="1944" string="Жезлы" />
+    <String id="1951" string="Материалы" />
+    <String id="1952" string="Зелья" />
+    <String id="1953" string="Свитки" />
+    <String id="1954" string="Подмастерье" />
+    <String id="2001" string="Символы" />
+    <String id="2002" string="Символы" />
+    <String id="2003" string="Символы" />
+    <String id="2004" string="Символы" />
+    <String id="2005" string="Символы" />
+    <String id="2006" string="Символы" />
+    <String id="2007" string="Символы" />
+    <String id="2008" string="Символы" />
+    <String id="2101" string="Латные доспехи" />
+    <String id="2102" string="Кожаные доспехи" />
+    <String id="2103" string="Тканые доспехи" />
+    <String id="2111" string="Оружие ближнего боя" />
+    <String id="2112" string="Средоточия" />
+    <String id="2211" string="Парные клинки" />
+    <String id="2212" string="Копья" />
+    <String id="2213" string="Двуручные мечи" />
+    <String id="2214" string="Топоры" />
+    <String id="2221" string="Парные клинки" />
+    <String id="2222" string="Копья" />
+    <String id="2223" string="Двуручные мечи" />
+    <String id="2224" string="Топоры" />
+    <String id="2231" string="Парные клинки" />
+    <String id="2232" string="Копья" />
+    <String id="2233" string="Двуручные мечи" />
+    <String id="2234" string="Топоры" />
+    <String id="2241" string="Парные клинки" />
+    <String id="2242" string="Копья" />
+    <String id="2243" string="Двуручные мечи" />
+    <String id="2244" string="Топоры" />
+    <String id="2311" string="Диски" />
+    <String id="2312" string="Луки" />
+    <String id="2313" string="Посохи" />
+    <String id="2314" string="Жезлы" />
+    <String id="2321" string="Диски" />
+    <String id="2322" string="Луки" />
+    <String id="2323" string="Посохи" />
+    <String id="2324" string="Жезлы" />
+    <String id="2331" string="Диски" />
+    <String id="2332" string="Луки" />
+    <String id="2333" string="Посохи" />
+    <String id="2334" string="Жезлы" />
+    <String id="2341" string="Диски" />
+    <String id="2342" string="Луки" />
+    <String id="2343" string="Посохи" />
+    <String id="2344" string="Жезлы" />
+    <String id="2401" string="Пустые флаконы" />
+    <String id="2402" string="Наборы красок" />
+    <String id="2501" string="Припасы для боя" />
+    <String id="2502" string="Волшебные припасы" />
+    <String id="2503" string="Кристаллы оружия" />
+    <String id="2504" string="Кристаллы доспехов" />
+    <String id="2505" string="Свиток телепортации" />
+    <String id="2601" string="Оружие" />
+    <String id="2602" string="Латные доспехи" />
+    <String id="2603" string="Кожаные доспехи" />
+    <String id="2604" string="Тканые доспехи" />
+    <String id="2721" string="Снаряжение" />
+    <String id="2731" string="Снаряжение" />
+    <String id="2741" string="Снаряжение" />
+    <String id="2751" string="Снаряжение" />
+    <String id="2801" string="Костюм" />
+    <String id="2811" string="Снаряжение" />
+    <String id="2821" string="Снаряжение" />
+    <String id="2831" string="Снаряжение" />
+    <String id="2861" string="Кожа" />
+    <String id="2862" string="Металл" />
+    <String id="2863" string="Ткань" />
+    <String id="2864" string="&lt;font color='#80e71c'&gt;Щелкните левой кнопкой&lt;/font&gt; по наряду, чтобы &lt;font color='#80e71c'&gt;примерить его&lt;/font&gt;." />
+    <String id="2871" string="Кожа" />
+    <String id="2872" string="Металл" />
+    <String id="2873" string="Ткань" />
+    <String id="2874" string="&lt;font color='#80e71c'&gt;Щелкните левой кнопкой&lt;/font&gt; по наряду, чтобы &lt;font color='#80e71c'&gt;примерить его&lt;/font&gt;." />
+    <String id="2880" string="Особое" />
+    <String id="2881" string="Кожа" />
+    <String id="2882" string="Металл" />
+    <String id="2883" string="Ткань" />
+    <String id="2884" string="&lt;font color='#80e71c'&gt;Щелкните левой кнопкой&lt;/font&gt; по наряду, чтобы &lt;font color='#80e71c'&gt;примерить его&lt;/font&gt;." />
+    <String id="2890" string="Особое" />
+    <String id="2891" string="Кожа" />
+    <String id="2892" string="Металл" />
+    <String id="2893" string="Ткань" />
+    <String id="2894" string="&lt;font color='#80e71c'&gt;Щелкните левой кнопкой&lt;/font&gt; по наряду, чтобы &lt;font color='#80e71c'&gt;примерить его&lt;/font&gt;." />
+    <String id="2900" string="Сувениры" />
+    <String id="2901" string="Исключительное оружие" />
+    <String id="2902" string="Исключительные доспехи" />
+    <String id="2903" string="Редкое оружие" />
+    <String id="2904" string="Редкие доспехи" />
+    <String id="2910" string="Запертый сундук" />
+    <String id="2911" string="Воин" />
+    <String id="2912" string="Рыцарь" />
+    <String id="2913" string="Убийца" />
+    <String id="2914" string="Берсерк" />
+    <String id="2915" string="Маг" />
+    <String id="2916" string="Лучник" />
+    <String id="2917" string="Жрец" />
+    <String id="2918" string="Мистик" />
+    <String id="2919" string="Сырье" />
+    <String id="2931" string="Костюмы" />
+    <String id="2932" string="Оружие" />
+    <String id="2933" string="Особые предметы Голдфингера" />
+    <String id="2934" string="Расходуемые" />
+    <String id="2935" string="Список обмена" />
+    <String id="2936" string="Список обмена" />
+    <String id="2937" string="Список обмена" />
+    <String id="2938" string="Свитки Голдфингера" />
+    <String id="2939" string="Список обмена" />
+    <String id="2940" string="Обмен жетонов любви" />
+    <String id="2941" string="Костюмы" />
+    <String id="2942" string="Оружие" />
+    <String id="2943" string="Расходуемые предметы" />
+    <String id="2944" string="Обмен жетонов арены" />
+    <String id="2946" string="Обмен штампов за участие" />
+    <String id="2947" string="Оружие завоевателя" />
+    <String id="2948" string="Доспехи завоевателя" />
+    <String id="2949" string="Обмен меток жука" />
+    <String id="2950" string="Обмен жетонов Баньякаса " />
+    <String id="2951" string="Обменять ваучер октябрьского события" />
+    <String id="2952" string="Оружие завоевателя" />
+    <String id="2953" string="Доспехи завоевателя" />
+    <String id="2954" string="Предмет события" />
+    <String id="2955" string="Обмен особых самоцветов завоевателя" />
+    <String id="2956" string="Обмен особых самоцветов завоевателя" />
+    <String id="2957" string="Обмен особых самоцветов завоевателя" />
+    <String id="2958" string="Обмен предметов события" />
+    <String id="2959" string="Расходуемые предметы" />
+    <String id="2960" string="Чармы" />
+    <String id="2961" string="Кристаллы" />
+    <String id="2962" string="Обмен оружия Фульминара" />
+    <String id="2963" string="Обмен доспехов Фульминара" />
+    <String id="2964" string="Обмен огней Таркана" />
+    <String id="2969" string="Обмен предметов события" />
+    <String id="2977" string="" />
+    <String id="2978" string="" />
+    <String id="2979" string="" />
+    <String id="2980" string="" />
+    <String id="2987" string="" />
+    <String id="2988" string="" />
+    <String id="3000" string="Ящики" />
+    <String id="3001" string="Премиум" />
+    <String id="3002" string="Расходники" />
+    <String id="3003" string="Эксклюзив" />
+    <String id="3010" string="Редкие находки" />
+    <String id="3013" string="Кристаллы" />
+    <String id="3014" string="Товары Инвалеско" />
+    <String id="3015" string="Редкие находки" />
+    <String id="3018" string="Кристаллы" />
+    <String id="3019" string="Шариарские товары" />
+    <String id="3020" string="Редкие находки" />
+    <String id="3023" string="Кристаллы" />
+    <String id="3024" string="Товары Валсекира" />
+    <String id="3025" string="Редкие находки" />
+    <String id="3028" string="Кристаллы" />
+    <String id="3029" string="Товары Гидерада" />
+    <String id="3030" string="Кристаллы" />
+    <String id="3031" string="Длань Велики" />
+    <String id="3032" string="Нейтральные" />
+    <String id="3033" string="Симпатия" />
+    <String id="3034" string="Дружба" />
+    <String id="3035" string="Доверие / Почитание" />
+    <String id="3036" string="Оружие" />
+    <String id="3037" string="Доспех" />
+    <String id="3038" string="Редкие находки" />
+    <String id="3039" string="Обычные товары" />
+    <String id="3040" string="Обычные товары" />
+    <String id="3041" string="Обычные товары" />
+    <String id="3042" string="Броши" />
+    <String id="3043" string="Пояса" />
+    <String id="3044" string="Доверие" />
+    <String id="3045" string="Почитание" />
+    <String id="3046" string="Предметы фракции" />
+    <String id="3047" string="Набор &quot;Отречение&quot;" />
+    <String id="3048" string="Набор &quot;Молох&quot;" />
+    <String id="3050" string="Доспех" />
+    <String id="3051" string="Доспех" />
+    <String id="3052" string="Почитание" />
+    <String id="6090" string="Кристалл Авангарда" />
+    <String id="6091" string="Снаряжение" />
+    <String id="6092" string="Исключительный символ" />
+    <String id="6093" string="Особые" />
+    <String id="6094" string="Костюмы" />
+    <String id="6095" string="Оружие" />
+    <String id="6096" string="Доспехи" />
+    <String id="6097" string="Украшения" />
+    <String id="6098" string="Особые" />
+    <String id="7000" string="Мини-игра: Береговая пушка" />
+    <String id="7001" string="Мини-игра: Разбей арбуз вслепую" />
+    <String id="7002" string="Мини-игра: Прибей змею" />
+    <String id="7003" string="Мини-игра: Береговая пушка" />
+    <String id="7005" string="Мини-игра: Мощный удар" />
+    <String id="7006" string="Мини-игра: Скачки на свиньях" />
+    <String id="7007" string="Мини-игра: Бей в барабан" />
+    <String id="9121" string="Товары для рейдов" />
+    <String id="9122" string="Слияние" />
+    <String id="9123" string="Инструкции по слиянию оружия" />
+    <String id="9124" string="Инструкции по слиянию доспехов" />
+    <String id="9125" string="Только для офицеров" />
+    <String id="9126" string="Только для офицеров" />
+    <String id="9127" string="Только для офицеров" />
+    <String id="9128" string="Только для офицеров" />
+    <String id="9129" string="Только для офицеров" />
+    <String id="9130" string="Только для офицеров" />
+    <String id="9131" string="Только для офицеров" />
+    <String id="9132" string="Только для офицеров" />
+    <String id="9133" string="Только для офицеров" />
+    <String id="9134" string="Только для офицеров" />
+    <String id="9135" string="Только для офицеров" />
+    <String id="9136" string="Только для офицеров" />
+    <String id="9137" string="Только для офицеров" />
+    <String id="9138" string="Только для офицеров" />
+    <String id="9139" string="Только для офицеров" />
+    <String id="10001" string="Оружие" />
+    <String id="10002" string="Доспех" />
+    <String id="16058" string="Купить обычные товары" />
+    <String id="16059" string="Купить обычные товары" />
+    <String id="16060" string="Купить обычные товары" />
+    <String id="16061" string="Купить обычные товары" />
+    <String id="16062" string="Купить обычные товары" />
+    <String id="16063" string="Купить обычные товары" />
+    <String id="16064" string="Купить обычные товары" />
+    <String id="16065" string="Купить обычные товары" />
+    <String id="16066" string="Купить обычные товары" />
+    <String id="16067" string="Купить обычные товары" />
+    <String id="16068" string="Купить обычные товары" />
+    <String id="16069" string="Купить обычные товары" />
+    <String id="16070" string="Купить обычные товары" />
+    <String id="16071" string="Купить обычные товары" />
+    <String id="16072" string="Купить обычные товары" />
+    <String id="16073" string="Купить обычные товары" />
+    <String id="16074" string="Купить обычные товары" />
+    <String id="16075" string="Купить обычные товары" />
+    <String id="16076" string="Купить обычные товары" />
+    <String id="16077" string="Купить обычные товары" />
+    <String id="16078" string="Купить обычные товары" />
+    <String id="16079" string="Купить обычные товары" />
+    <String id="16080" string="Купить обычные товары" />
+    <String id="16081" string="Купить обычные товары" />
+    <String id="16083" string="Купить обычные товары" />
+    <String id="16084" string="Купить обычные товары" />
+    <String id="16085" string="Купить обычные товары" />
+    <String id="16086" string="Купить обычные товары" />
+    <String id="16087" string="Купить обычные товары" />
+    <String id="29201" string="Оружие" />
+    <String id="29202" string="Доспехи" />
+    <String id="29203" string="Красители" />
+    <String id="29204" string="Только для жнецов" />
+    <String id="29205" string="Только для жнецов" />
+    <String id="40000" string="Список снаряжения" />
+    <String id="40001" string="Оружие" />
+    <String id="40002" string="Доспех" />
+    <String id="40003" string="Украшения" />
+    <String id="40004" string="Обычные товары" />
+    <String id="40005" string="Кристаллы" />
+    <String id="40006" string="Обычные товары" />
+    <String id="50009" string="Облики для оружия" />
+    <String id="50010" string="Украшения" />
+    <String id="50011" string="Украшения для спины" />
+    <String id="50012" string="Костюмы (элин, аман, барака)" />
+    <String id="50013" string="Костюмы (человек, высший эльф)" />
+    <String id="50014" string="Костюмы (кастаник, попори)" />
+    <String id="50015" string="Элементы Воздушного замка" />
+    <String id="60901" string="Символы рыцаря" />
+    <String id="60902" string="Символы воина" />
+    <String id="60903" string="Символы убийцы" />
+    <String id="60904" string="Символы берсерка" />
+    <String id="60905" string="Символы лучника" />
+    <String id="60906" string="Символы мага" />
+    <String id="60907" string="Символы жреца" />
+    <String id="60908" string="Символы мистика" />
+    <String id="60909" string="Символы жнеца" />
+    <String id="60910" string="Символы инженеров" />
+    <String id="70001" string="Необходимое в пустыне" />
+    <String id="70002" string="Наборы игрушек" />
+    <String id="70003" string="Товары для вечеринки" />
+    <String id="70004" string="Обменять литые жетоны" />
+    <String id="70005" string="Оружие" />
+    <String id="70006" string="Доспехи" />
+    <String id="70007" string="Жетоны Рубры" />
+    <String id="70008" string="Жетоны Аркты" />
+    <String id="70010" string="Обменять жетоны циазмов" />
+    <String id="70011" string="Оружие" />
+    <String id="70012" string="Доспехи" />
+    <String id="70013" string="Ваучеры Бамарамы" />
+    <String id="70014" string="Рутстокский торговец" />
+    <String id="70015" string="Рутстокские рецепты" />
+    <String id="70016" string="Продукты для готовки" />
+    <String id="70017" string="Торговец Праздника Пруда" />
+    <String id="70018" string="Свитки" />
+    <String id="70019" string="Обменять жетоны Рубры" />
+    <String id="70020" string="Оружие" />
+    <String id="70021" string="Доспех" />
+    <String id="70022" string="Обменять жетоны Аркты" />
+    <String id="70023" string="Оружие" />
+    <String id="70024" string="Доспех" />
+    <String id="70025" string="Украшения" />
+    <String id="70026" string="Украшения" />
+    <String id="70311" string="Торговец" />
+    <String id="70312" string="" />
+    <String id="70313" string="" />
+    <String id="70314" string="" />
+    <String id="70315" string="" />
+    <String id="70316" string="" />
+    <String id="70317" string="" />
+    <String id="70318" string="" />
+    <String id="80000" string="Эксклюзив" />
+    <String id="80001" string="Обычные товары" />
+    <String id="80002" string="Обычные товары" />
+    <String id="500091" string="Облики для оружия" />
+    <String id="500101" string="Украшения" />
+    <String id="500111" string="Украшения для спины" />
+    <String id="500121" string="Элин" />
+    <String id="500122" string="Аман (муж.)" />
+    <String id="500123" string="Аман (жен.)" />
+    <String id="500124" string="Барака" />
+    <String id="500131" string="Человек (муж.)" />
+    <String id="500132" string="Человек (жен.)" />
+    <String id="500133" string="Высший эльф (муж.)" />
+    <String id="500134" string="Высший эльф (жен.)" />
+    <String id="500141" string="Кастаник (муж.)" />
+    <String id="500142" string="Кастаник (жен.)" />
+    <String id="500143" string="Попори" />
+    <String id="500151" string="Все" />
+    <String id="500152" string="Замок" />
+    <String id="500153" string="Двор" />
+    <String id="500154" string="Пристройки" />
+    <String id="500155" string="NPC" />
+    <String id="609011" string="Необычное" />
+    <String id="609012" string="Необычное" />
+    <String id="703110" string="Обычные товары" />
+    <String id="703111" string="Бой" />
+    <String id="703112" string="Извлечение" />
+    <String id="703113" string="Свитки" />
+    <String id="912100" string="Магазин интенданта" />
+    <String id="912200" string="Магазин для офицеров" />
+    <String id="912300" string="Магазин для офицеров" />
+    <String id="912400" string="Магазин для офицеров" />
+    <String id="912500" string="Товары за репутацию общества Ноктиния" />
+        <String id="913440" string="Fantastic Fashions" />
+    <String id="913441" string="Weapon Skins" />
+    <String id="913442" string="Remodel Skins" />
+    <String id="913443" string="Consumables" />
+    <String id="913444" string="Other" />
+<String id="964610" string="Снаряжение Честолюбия" />
+    <String id="964611" string="Оружие" />
+    <String id="964612" string="Доспехи" />
+        <String id="964750" string="Discovery Claim" />
+    <String id="964751" string="Weapons" />
+    <String id="964752" string="Armor" />
+    <String id="964753" string="Other" />
+    <String id="969990" string="Discovery Claim" />
+    <String id="969991" string="Weapons" />
+<String id="1022327" string="Магазин" />
+    <String id="9122001" string="Магазин для офицеров" />
+    <String id="9122002" string="Магазин для офицеров" />
+    <String id="9122003" string="Магазин для офицеров" />
+    <String id="9122004" string="Магазин для офицеров" />
+    <String id="9123001" string="Магазин для офицеров" />
+    <String id="9123002" string="Магазин для офицеров" />
+    <String id="9123003" string="Магазин для офицеров" />
+    <String id="9123004" string="Магазин для офицеров" />
+    <String id="9124001" string="Магазин для офицеров" />
+    <String id="9124002" string="Магазин для офицеров" />
+    <String id="9124003" string="Магазин для офицеров" />
+    <String id="9124004" string="Магазин для офицеров" />
+    <String id="9125001" string="Припасы для боя" />
+    <String id="9125002" string="Разное" />
+    <String id="9125003" string="Кристаллы" />
+    <String id="9999001" string="Магазин для грабителей подземелий" />
+    <String id="9999002" string="Сундуки" />
+    <String id="41150171" string="Пробужденное снаряжение." />
+    <String id="41150172" string="Зачаровать пробужденное снаряжение." />
+</StrSheet_Npc>

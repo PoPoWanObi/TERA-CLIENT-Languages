@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">За ошибки всяких мелких сошек должны нести ответственность их руководители. Давай применим это простое правило к культистам. Заставь {@LinkCreature:25#3031#Избранных ткачей тьмы Лока} и {@LinkCreature:25#3032#Посвященных рыцарей Лока} заплатить за свои ошибки и ошибки их подчиненных!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Отличная работа. Будем надеться, что другие культисты теперь отступятся.</Page>
+    </Text>
+</QuestDialog>

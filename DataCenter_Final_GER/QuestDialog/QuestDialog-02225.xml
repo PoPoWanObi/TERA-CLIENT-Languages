@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Die Argonen haben einen unserer Versorgungskonvois überfallen und eine ganze Lieferung Rationen vernichtet. Unsere Kämpfer halten nicht lange durch, wenn sie sich ihre Kräfte nicht bewahren können.&lt;BR&gt;&lt;BR&gt;Beschafft einen Vorrat an Notrationen von {@LinkCreature:78#3008#Artur} und bringt sie den Truppen im Feld!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">Ich muss {@gender:einem Veteranen/einer Veteranin} wie Euch nicht sagen, wie wichtig es ist, die Versorgungslinien zum Schlachtfeld aufrechtzuerhalten.&lt;BR&gt;&lt;BR&gt;Hier, nehmt diese Notrationen und bringt sie zu unseren Truppen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="4">Keine Zeit zu verlieren. Bringt diese Rationen zu den Soldaten, die sie brauchen.&lt;BR&gt;&lt;BR&gt;Ich will verdammt sein, wenn ein Soldat des Hungers sterben muss!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="4" villagerId="3008">
+        <Page social="4">Oh, den Göttern sei Dank!&lt;BR&gt;&lt;BR&gt;Ich hab mich schon gefragt, ob ich kosten muss, wie Argonen schmecken.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="4" villagerId="3006">
+        <Page social="4">Hätte nie gedacht, dass ich mich mal so über eine Packung Zwieback freue.&lt;BR&gt;&lt;BR&gt;Danke, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3004">
+        <Page social="4">Danke, dass Ihr uns nicht vergessen habt.&lt;BR&gt;&lt;BR&gt;Es gibt nichts Schlimmeres als das Gefühl, vergessen worden zu sein.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="3005">
+        <Page social="4">Ist zwar kein Rostbraten, aber ich bin trotzdem verdammt froh drüber. Danke!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="3010">
+        <Page social="4">Die Shariar vergessen die Ihren nicht. Danke dafür!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="3011">
+        <Page social="4">Für den Augenblick sind wir aus dem Schneider, dank Euch.&lt;BR&gt;&lt;BR&gt;Das dürfte bis zum nächsten Versorgungszug ausreichen.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="3003">
+        <Page social="4">Ich bin froh, dass Ihr Euch um unsere Kämpfer gekümmert habt, &lt;PCNAME&gt;. Es mag keine große Sache sein, aber es bedeutet diesen Leuten, die tagein, tagaus ihr Leben riskieren ungeheuer viel.</Page>
+    </Text>
+</QuestDialog>

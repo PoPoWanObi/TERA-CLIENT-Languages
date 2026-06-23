@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">Помоги Каэнии подготовить новобранцев, которые полетят на "Неустрашимом". Они, похоже, волнуются перед экспедицией.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">Это не первая экспедиция на север. Не так давно мы уже отправляли туда отряд.&lt;BR&gt;&lt;BR&gt;У нас стараются не судачить об их судьбе, но я опасаюсь самого страшного. Береги себя, &lt;PCNAME&gt;. Федерация не может позволить себе потерять и тебя.&lt;BR&gt;&lt;BR&gt;Поговори с Каэн и убедись, что все солдаты готовы.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">&lt;PCNAME&gt;? Приветствую! Я наслышана о твоих подвигах. Сочту за честь работать вместе с тобой.&lt;BR&gt;&lt;BR&gt;К сожалению, большая часть наших новобранцев - самые настоящие тюфяки. Может, тебе удастся как-то повлиять на них? Думаю, один твой вид сможет их подбодрить.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">Живот... живот сводит. О, боги... что же такое мы съели?..&lt;BR&gt;Я так... не смогу вернуться...&lt;BR&gt;&lt;BR&gt;Отыщи... Тильду. Принеси лекарство.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">Кретины! Я им говорила не трогать мои эликсиры. Они слишком концентрированные. И теперь эти идиоты отравились!&lt;NEXTPAGEBUTTON&gt;"А противоядие есть?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Все мои припасы уже на борту крейсера. У меня не осталось отваров.&lt;BR&gt;&lt;BR&gt;Но мы могли бы использовать мацерированные травы... то есть, заранее пережеванные.&lt;BR&gt;&lt;BR&gt;Знаю, звучит мерзко, но зато это спасет им жизнь.&lt;BR&gt;&lt;BR&gt;Наверное.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">Ох! Что это за мерзкая жижа? Хуже вампирьей крови!&lt;BR&gt;&lt;BR&gt;Как там Актол? Не забудь попотчевать и его этой дрянью.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">Что сказала травница?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">Так и знал, что Эдуяр схватил не тот эликсир! У меня в кишках словно драколот разбушевался.&lt;BR&gt;&lt;BR&gt;Ох! А это еще что такое? Ты хочешь отправить меня в Мир Грез?&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">Отравились? И чтобы вылечить, им пришлось съесть... что? Ха!&lt;BR&gt;&lt;BR&gt;Будут знать, как таскать наши эликсиры. Отлично сработано.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">J'ai besoin de votre aide, &lt;PCNAME&gt;. Nous avons du mal à garder le contrôle de la situation dans les Champs célestes, et le soutien d'une recrue aguerrie nous serait d'un grand secours.&lt;BR&gt;&lt;BR&gt;Ralliez les Champs célestes et éliminez les {@LinkCreature:45#4002#tuwangis}, les {@LinkCreature:45#4003#guerroussettes tuwangis} et les {@LinkCreature:45#4004#wendigos} argonomorphes.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Lyndel, du Camp de la Folie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1009">
+        <Page social="5">Vous avez fait du bon travail, &lt;PCNAME&gt;. Continuez comme ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1009">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Мы собираемся внезапно атаковать и закрепиться в Чумной деревне.&lt;BR&gt;&lt;BR&gt;Уничтожь {@LinkCreature:40#1#Берсерков-пугал}, {@LinkCreature:40#5#Злобных големов-собирателей}, {@LinkCreature:40#13#Прионов-обвальщиков} и {@LinkCreature:40#31#Мутировавших триклинков}. Нужно узнать уровень, насколько они опасны, так что собери образцы с павших.&lt;BR&gt;&lt;BR&gt;Когда закончишь, найди Лаширу в Исследовательском центре карантинной зоны.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Для тебя всегда есть работа - ты только скажи, &lt;PCNAME&gt;. Наша миссия, сдается мне, не закончится никогда.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Образцы с тобой? Я без них не могу начать.</Page>
+    </Text>
+</QuestDialog>

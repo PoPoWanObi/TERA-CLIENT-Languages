@@ -1,0 +1,14 @@
+<StrSheet_DarkRift xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DarkRift StrSheet_DarkRift.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_DarkRift">
+    <String string="Nexus" readableId="SMT_DARKRIFT_QUEST_LINK_NAME" />
+    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP">Nexus (phase {step})&lt;br&gt;&lt;ul&gt;&lt;li&gt;Disponibilité de la quête&amp;nbsp;: {congested}&lt;/li&gt;&lt;li&gt;Capacité&amp;nbsp;: {curOrders}/{maxOrders}&lt;/li&gt;&lt;/ul&gt;</String>
+    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP_NOT_OPEN_YET">Nexus (ouvre dans {time@durationBrief})&lt;br&gt;&lt;ul&gt;&lt;li&gt;Disponibilité de la quête&amp;nbsp;: {congested}&lt;/li&gt;&lt;li&gt;Capacité&amp;nbsp;: {curOrders}/{maxOrders}&lt;/li&gt;&lt;/ul&gt;</String>
+    <String string="" readableId="SMT_DARKRIFT_QUIET">&lt;font color='#4a95d8'&gt;Élevé&lt;/font&gt;</String>
+    <String string="" readableId="SMT_DARKRIFT_MILDLY_CONGESTED">&lt;font color='#ff7800'&gt;Moyen&lt;/font&gt;</String>
+    <String string="" readableId="SMT_DARKRIFT_CONGESTED">&lt;font color='#ff1515'&gt;Bas&lt;/font&gt;</String>
+    <String string="" readableId="SMT_DARKRIFT_FULLY_CONGESTED">&lt;font color='#c00005'&gt;Zéro&lt;/font&gt;</String>
+    <String string="Nexus" readableId="SMT_DARKRIFT_SUGGEST_POPUP_TITLE" />
+    <String string="Vous êtes {@gender:entré/entrée} dans un Nexus. Voulez-vous rejoindre un groupe en cours ?" readableId="SMT_DARKRIFT_SUGGEST_POPUP_MESSAGE" />
+    <String string="Oui" readableId="SMT_DARKRIFT_SUGGEST_POPUP_YES" />
+    <String string="Non" readableId="SMT_DARKRIFT_SUGGEST_POPUP_NO" />
+    <String string="Entrer dans la Traverse du Nexus" readableId="SMT_DARKRIFT_CALL_YOU_TITLE" />
+</StrSheet_DarkRift>

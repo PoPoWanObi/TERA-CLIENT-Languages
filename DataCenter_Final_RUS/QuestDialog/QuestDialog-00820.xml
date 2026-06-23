@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="5">Эй! У тебя найдется минутка? В Трие меня ждет дочь, но мой доспех изорван в лоскуты, а без него я не могу покинуть лагерь. Я могла бы его залатать, но для этого мне нужна кожа.&lt;BR&gt;&lt;BR&gt;Может быть, ты убьешь несколько {@LinkCreature:29#2011#Агрессивных свинов} и {@LinkCreature:29#1011#Клыкастых поросят} и принесешь мне их шкуры? Тогда я смогу починить доспех и отправиться к дочке. Что скажешь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1020">
+        <Page social="5">А ты не промах, &lt;PCNAME&gt;! Эти шкуры отлично подойдут. Теперь я смогу починить доспех и отправиться в путь.&lt;BR&gt;&lt;BR&gt;Слушай, я не люблю долгие и напыщенные речи. Скажем просто: я перед тобой в долгу. До встречи.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1020">
+        <Page social="0">Разрази меня гром! Я хочу увидеть дочку. Неужели так сложно достать эти шкуры?</Page>
+    </Text>
+</QuestDialog>

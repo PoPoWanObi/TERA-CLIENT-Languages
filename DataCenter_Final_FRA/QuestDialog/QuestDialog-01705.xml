@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Suite aux mises en garde d'Isrenia sur les intentions de Thulsa et Killian envers Sikander, vous avez traversé le Bois de Susurrus, empêché les mekonaris de commettre d'autres enlèvements et détruit l'autel où ils ont sacrifié des centaines de prisonniers. Là-bas, des indices vous ont conduit à Amena Quatla, terre des sikandaris et du grand œuf dans lequel dort Sikander.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le rituel se déroule en deux parties&amp;nbsp;: la première à l'Autel du Corbeau et la seconde au Sanctuaire de la résurrection. Vous devez interrompre les deux.&lt;BR&gt;&lt;BR&gt;Allez chercher des conseils à la Chute du Dragon, puis suivez la trace des ravisseurs.</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">Les mekonaris ont épuré le Bois Susurrus. Humains, Amans, Barakas... peu leur importait.&lt;BR&gt;&lt;BR&gt;Ils ont envoyé toute la population sur les routes, enfants compris. Nous avons envoyé le plus d'hommes possible vers le Camp Umbra. C'est eux qui s'occupent de secourir les réfugiés, mais ils ne sont toujours pas assez nombreux.&lt;BR&gt;&lt;BR&gt;Traversez Sorguebois et éliminez tous les chasseurs et file-ébène mekonaris que vous croiserez. On aura peut-être moins d'enlèvements, comme ça.&lt;BR&gt;&lt;BR&gt;Allez parler à Arshak quand vous arriverez, il vous dira tout ce qu'il sait.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1010">
+        <Page social="1">&lt;PCNAME&gt;?&amp;nbsp; Par la grâce de Kaia, vous êtes là. Vous en savez déjà beaucoup, mais laissez-moi vous en dire un peu plus. Les mekonaris croient que tout ce sang versé en l'honneur de Sikander forcera son réveil et sa reconnaissance envers eux. Quels idiots.&lt;BR&gt;&lt;BR&gt;Mais il y a pire&amp;nbsp;: le rituel dont Killian leur a fait part arrache les âmes des sacrifiés au Rêve, c'est épouvantable!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les mekonaris pensent que ça ramènera Sikander, mais ça risque au contraire de lui empoisonner l'esprit!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Vous avez raison. C'est le but de Thulsa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Il veut réveiller Sikander et le rendre fou?&amp;nbsp; Vous devez les arrêter!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Les templiers et dédieurs mekonaris mènent les rituels, mais il y a d'autres dangers. Killian a déversé tous ses maudits jouets sur le Bois Susurrrus.&lt;BR&gt;&lt;BR&gt;Et pour le moment, nous n'avons pas réussi à utiliser le téléportail de l'autel. Il doit y avoir une sorte de clé. Trouvez-la, et détruisez l'autel. Vous avez compris?&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" villagerId="1010">
+        <Page social="0">Des chasseurs et des file-ébène traversent Sorguebois avant d'aller enlever d'autres victimes!&amp;nbsp; Ne les laissez pas passer!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="256" prevId="4" villagerId="1025">
+        <Page social="1">(Il y a des os de toutes les tailles et de toutes les races. Les crânes humains mélangés avec des queues de poporis, des cornes d'amans et de castanics entassées ensemble. Apparemment, personne n'a été épargné.)&lt;BR&gt;&lt;BR&gt;(Détail horrible&amp;nbsp;: on a gravé des runes sur les dépouilles. Enfin, vous espérez qu'on les a inscrites sur les victimes après leur mort, et pas à vif.)&lt;BR&gt;&lt;BR&gt;(Soudain, vous ressentez un picotement dérangeant dans votre nuque.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="256" prevId="6" villagerId="1027">
+        <Page social="1">(Une voix se fait entendre puis s'éteint, comme portée par le vent sur une grande distance.)&lt;BR&gt;&lt;BR&gt;Sombrons dans la douleur... rien d'autre... vous nous entendez?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;... tous les dieux, vous devez...&lt;BR&gt;&lt;BR&gt;Tant d'efforts, mais... vous montrer où...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="256" prevId="7" villagerId="1026">
+        <Page social="1">... vous toucher, pour que... téléportail s'ouvre...&lt;BR&gt;&lt;BR&gt;... douleur, tant de douleur!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Dites à nos familles... ne pouvons plus...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="256" prevId="8" villagerId="1010">
+        <Page social="1">Vous avez réussi!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Mais je m'inquiète pour les sikandaris que vous avez vus à l'autel. Les mekonaris sont des apostats, ils sont prêts à tout pour réveiller Sikander le plus vite possible, mais les sikandaris sont patients, honorables. Je les croyais nos alliés, ce genre d'horreurs ne leur ressemble pas!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Si Thulsa a manipulé les sikandaris, alors il n'y a pas de temps à perdre!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez aidé à réhabiliter la {@Rgn:47001$$Forêt de Tirkai} et avez fait progresser les recherches de Yasring et du Mysterium dans la {@Rgn:45001$$Forteresse de la Serviture}. Ronalt, intrigué par l'énergie vitale qui émane de certaines structures des argons, a voulu purifier des animaux argonifiés, mais ce fut un échec.&lt;BR&gt;&lt;BR&gt;Vous avez assisté à la transformation de petits argons en d'autres formes, dont des édifices inanimés. Le Mysterium vous a demandé de creuser le sujet.&lt;BR&gt;&lt;BR&gt;Vous êtes {@gender:parti/partie} à la recherche de Yasring, mais ne l'avez pas trouvée.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Il s'agit d'un message de Yasring.)&lt;BR&gt;&lt;BR&gt;"J'étudie les argons dans la {@Rgn:45001$$Forteresse de la Servitude}. J'ai besoin de votre aide."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1022">
+        <Page social="4">Yasring?&amp;nbsp; Elle est venue chercher quelques réactifs, puis est repartie pour aller observer une construction argone.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="3" villagerId="2001">
+        <Page social="4">&lt;PCNAME&gt;!&amp;nbsp; J'espère que je n'ai pas interrompu une mission importante, mais j'avais vraiment besoin de votre aide.&lt;NEXTPAGEBUTTON&gt;"Non, vous avez bien fait de m'écrire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'ai fait des découvertes concernant ces structures argones. Elinu en pleurerait...&lt;BR&gt;&lt;BR&gt;J'ai pris des notes pour Mitiel. Il a déjà mené bon nombre de recherches relatives aux vestiges du passage des argons. Vous pourriez aller lui remettre mes notes?&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="4" villagerId="2002">
+        <Page social="4">Oui?&amp;nbsp; Vous avez besoin de quelque chose?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Yasring vous a envoyé ceci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10">Je vais m'occuper de ça. Ronalt veut s'entretenir avec vous. Vous devriez aller le voir.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="5" villagerId="2003">
+        <Page social="4">Nous étudions tous différents aspects des traces du passage des argons... plantes, animaux, bâtiments&amp;nbsp;: tout ce qui est entré en contact avec eux a subi des mutations effroyables.&lt;BR&gt;&lt;BR&gt;Kupan, qui se trouve ici, a découvert un endroit où il est simple de se procurer des fragments d'armures argones. Malheureusement, il a eu des problèmes, et il aurait bien besoin de votre aide.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="6" villagerId="2004">
+        <Page social="4">Tout à fait. Je trouve de tout&amp;nbsp;: objets, armes, comestibles. Hmmm... en parlant de ça, j'ai comme un creux.&lt;BR&gt;&lt;BR&gt;Pour en revenir à eux, les fragments d'armure devaient arriver, mais la livraison a pris du retard.&lt;BR&gt;&lt;BR&gt;J'espère que personne n'a attaqué le convoi. Vous voulez bien aller les chercher pour moi?&amp;nbsp; De mon côté, je vais aller m'occuper de mon déjeuner.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="7" villagerId="2005">
+        <Page social="9">C'est Kupan qui vous envoie?&amp;nbsp; Nous sommes sauvés!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Notre roue arrière s'est coincée… et j'ai vu des monstres… et j'ai pris la fuite.&lt;BR&gt;&lt;BR&gt;Vous pourriez jeter un œil à notre chariot?&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="2012">
+        <Page social="0">(Churimong avait raison. La roue arrière est coincée.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="2005">
+        <Page social="8">Je l'ai vu mettre les voiles. C'est bien pratique, un chariot enchanté, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Au moins, on n'a pas perdu la cargaison de Kupan. Dites-lui qu'on sera bientôt là.&lt;BR&gt;&lt;BR&gt;Au fait, vous pourriez passer me voir au {@Rgn:45009$$Camp de la Folie}?&amp;nbsp; En ce qui concerne les recherches relatives aux argons, nous sommes à la pointe du progrès.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="2009">
+        <Page social="4">Merci de votre aide avec ce chariot. Les retombées du travail de Churimon nous concernent tous.&lt;BR&gt;&lt;BR&gt;En parlant de lui, il se trouve que Churimon aimerait vous reparler.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" prevId="11" villagerId="2011">
+        <Page social="9">&lt;PCNAME&gt;, j'aimerais que {@Creature:245#2009$$Ronalt} aille jeter coup d'œil au nouveau site de recherche sur lequel j'ai fini par tomber. Mais je ne tiens pas à ce qu'il se fasse écharper, c'est pourquoi je vous demande de l'accompagner jusqu'à mon nouveau &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=site de recherche"&gt;site de recherche&lt;/A&gt;&lt;/font&gt;. Faites vite!&amp;nbsp;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="245" prevId="12" villagerId="2009">
+        <Page social="4">Qu'est-ce que c'est encore que cette histoire?&amp;nbsp; Je n'ai jamais vu {@Creature:245#2011$$Churimon} dans un tel état d'excitation.&lt;BR&gt;&lt;BR&gt;Un nouveau site de recherche?&amp;nbsp; Intéressant... Partez devant, je vous rejoindrai directement au &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=site de recherche"&gt;site de recherche&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="245" prevId="13" villagerId="2010">
+        <Page social="10">C'est catastrophique!&amp;nbsp; Si ces données sont exactes, tout et n'importe quoi peut finir par être frappé d'argonisation...&lt;BR&gt;&lt;BR&gt;Vous devez rentrer au camp, mais en chemin, pensez à me trouver des &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#813, -53203, -3631&amp;type=1&amp;name=plantes argonisées"&gt;plantes argonisées&lt;/A&gt;&lt;/font&gt;. Nous allons devoir étudier ce phénomène en profondeur, sans quoi nous finirons tous transformés en argons.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="245" prevId="14" villagerId="2009">
+        <Page social="10">Nous avons tout ce qu'il nous faut. Commençons.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="245" villagerId="2009">
+        <Page social="0">Des plantes argonisées!&amp;nbsp; Il m'en faut absolument des échantillons!&amp;nbsp;</Page>
+    </Text>
+    <Text id="17" huntingZoneId="245" prevId="15" villagerId="2009">
+        <Page social="4">Il s'agit d'inverser les fréquences argonomorphiques pour qu'elles se dissipent. En théorie, tout du moins.&lt;BR&gt;&lt;BR&gt;Voilà donc la potion. Nous allons la tester sur une créature argonomorphe... et on verra bien ce qui se passe.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="245" prevId="17" villagerId="2028">
+        <Page social="1">(Utiliser la potion de Ronalt.)</Page>
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="18" villagerId="2009">
+        <Page social="4">Ce n'est pas tout à fait le résultat escompté. Il manque quelque chose, mais quoi?&amp;nbsp; Apportez ces notes de recherches à Mitiel. Il trouvera peut-être d'où vient mon erreur.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="2002">
+        <Page social="4">Les résultats ne sont pas exactement ceux que nous attendions, mais Ronalt était sur la bonne voie. Vous devriez aller parler de tout ça à Yasring et Rancien aux Trois Tours.&lt;BR&gt;&lt;BR&gt;Allez transmettre les résultats des recherches de Ronalt à Rancien et faites-lui part de vos questions.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="2021">
+        <Page social="4">Vous cherchez {@creature:245#2001$$Yasring}?&amp;nbsp; Elle est déjà partie. A l'heure qu'il est, elle doit se trouver aux {@Rgn:46001$$Trois Tours}.</Page>
+    </Text>
+</QuestDialog>

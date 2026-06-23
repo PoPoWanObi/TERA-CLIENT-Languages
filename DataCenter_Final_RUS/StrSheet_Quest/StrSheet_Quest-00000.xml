@@ -1,0 +1,1278 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1" string="Принять" />
+    <String id="2" string="Отклонить" />
+    <String id="3" string="Нет" />
+    <String id="4" string="Соло" />
+    <String id="5" string="Группа" />
+    <String id="6" string="Задание провалено. Оно будет автоматически перезапущено через пару секунд." />
+    <String id="7" string="Задание провалено. Телепортируйтесь из подземелья и повторите попытку." />
+    <String id="8" string="Еще не открыто" />
+    <String id="9" string="Требуется уровень:" />
+    <String id="10" string="Максимальный уровень" />
+    <String id="11" string="Задание:" />
+    <String id="12" string="Сначала вы должны выполнить все предыдущие задания." />
+    <String id="13" string="Сначала вы должны выполнить хотя бы одно из предыдущих заданий." />
+    <String id="14" string="Нет информации о задании." />
+    <String id="15" string="Неизвестное место" />
+    <String id="16" string="Уменьшение награды за выполнение задания &quot;{QuestName}&quot;." />
+    <String id="20" string="[Максимум]" />
+    <String id="21" string="[Вы выполняете максимальное количество заданий. Выполните часть заданий, чтобы освободить место в списке.]" />
+    <String id="22" string="Часть сюжета:" />
+    <String id="23" string="Рекомендуется для:" />
+    <String id="24" string="Место:" />
+    <String id="25" string="Ур." />
+    <String id="30" string="Охота" />
+    <String id="31" string="Битва" />
+    <String id="32" string="Ремесло" />
+    <String id="33" string="" />
+    <String id="101" string="Найти:" />
+    <String id="102" string="" />
+    <String id="103" string="Где:" />
+    <String id="104" string="Цель:" />
+    <String id="105" string="" />
+    <String id="106" string="Цель/Цели:" />
+    <String id="107" string="Кто:" />
+    <String id="108" string="Кто:" />
+    <String id="109" string="" />
+    <String id="110" string="" />
+    <String id="111" string="Кому:" />
+    <String id="112" string="Кому:" />
+    <String id="113" string="" />
+    <String id="114" string="Сопровождение:" />
+    <String id="115" string="Защита:" />
+    <String id="116" string="" />
+    <String id="117" string="Цель/Цели:" />
+    <String id="118" string="Кто:" />
+    <String id="119" string="" />
+    <String id="120" string="Цель:" />
+    <String id="207" string="Кому:" />
+    <String id="208" string="Кому:" />
+    <String id="210" string="Кому:" />
+    <String id="213" string="Кому:" />
+    <String id="300" string="Распорядитель заданий гильдии" />
+    <String id="400" string="Гильдия ванарха" />
+    <String id="401" string="Уровень гильдии" />
+    <String id="402" string="Класс" />
+    <String id="403" string="Раса" />
+    <String id="404" string="Начало задания:" />
+    <String id="405" string="Использовать предмет &quot;{ItemName}&quot;" />
+    <String id="406" string="Получено сразу" />
+    <String id="407" string="Получено от персонажа {NpcName}" />
+    <String id="408" string="Уже выполнено." />
+    <String id="409" string="Не выполнено." />
+    <String id="410" string="Срочные приказы - {TerritoryName}" />
+    <String id="9901" string="бездействие1" />
+    <String id="9902" string="бездействие2" />
+    <String id="9903" string="бездействие3" />
+    <String id="9904" string="разговор1" />
+    <String id="9905" string="разговор2" />
+    <String id="9906" string="разговор3" />
+    <String id="9907" string="победа" />
+    <String id="9908" string="аплодисменты" />
+    <String id="9909" string="запрос" />
+    <String id="9910" string="беспокойство" />
+    <String id="9911" string="стесняюсь" />
+    <String id="9912" string="злоба" />
+    <String id="9913" string="плач" />
+    <String id="9914" string="приветствие" />
+    <String id="9915" string="насмешка" />
+    <String id="9916" string="задача" />
+    <String id="9917" string="атака" />
+    <String id="9918" string="показать" />
+    <String id="9919" string="танец" />
+    <String id="9920" string="улыбка" />
+    <String id="204001" string="Pixie Trouble" />
+    <String id="204002" string="Centurion Verus" />
+    <String id="204003" string="Artful Gracebloom Bunch" />
+    <String id="204004" string="Meet Keta at the deserted refugee tent in Fey Forest." />
+    <String id="204005" string="&quot;Got it.&quot;" />
+    <String id="204006" string="Centaur Blood" />
+    <String id="204007" string="Collect blood from centaur insurgents near the deserted homestead." />
+    <String id="204008" string="Deliver centaur blood to Keta at the deserted refugee tent." />
+    <String id="204009" string="&quot;Got it.&quot;" />
+    <String id="204010" string="Apprentice Arcanist Keta" />
+    <String id="204011" string="Keta's Test Samples" />
+    <String id="204012" string="Deliver Keta's test samples to Maon in the Fey Forest." />
+    <String id="204013" string="&quot;Got it.&quot;" />
+    <String id="204014" string="Forest Keeper Maon" />
+    <String id="204015" string="Faerie Essence" />
+    <String id="204016" string="Deliver faerie essence to Lillix at the Faevine Vale Camp in Fey Forest." />
+    <String id="204017" string="&quot;Got it.&quot;" />
+    <String id="204018" string="Escort Seravy." />
+    <String id="204019" string="Thank you." />
+    <String id="204020" string="Use the antidote dart to detoxify Seravy in the northeast. Escort Seravy to the faerie pond&#xA;[*Use when Seravy's HP is 30% or lower.*]" />
+    <String id="204021" string="Bring the tears to Volos." />
+    <String id="204022" string="Speak with Seravy." />
+    <String id="204023" string="Seravy" />
+    <String id="204024" string="Unicorn Tears" />
+    <String id="204025" string="Bring the unicorn tear to Volos." />
+    <String id="204026" string="&quot;For the federation!&quot;" />
+    <String id="245001" string="Fool in the Forest" />
+    <String id="245002" string="And tell him, &quot;No excuses this time.&quot;" />
+    <String id="245003" string="I sure hope you can help." />
+    <String id="245004" string="Lennert" />
+    <String id="245005" string="Bridge Repair Tools" />
+    <String id="245006" string="Deliver bridge repair tools to Weldon at Woodcutter Palisade." />
+    <String id="245007" string="&quot;I'm here to help!&quot;" />
+    <String id="246001" string="Keeping the Quota" />
+    <String id="246002" string="Take the timber to Weldon." />
+    <String id="246003" string="That's a lot of timber. Thanks." />
+    <String id="246004" string="&quot;For the federation!&quot;" />
+    <String id="246005" string="Gather the cut timber from the stacks near Woodcutter Palisade." />
+    <String id="246006" string="Deliver the cut timber to Weldon at the Woodcutter Palisade." />
+    <String id="247001" string="Ribs to Spare" />
+    <String id="247002" string="Hunt warthogs near Woodcutter Palisade." />
+    <String id="247003" string="This well feed a lot of people." />
+    <String id="247004" string="Warthog Meat" />
+    <String id="247005" string="Collect meat from nearby warthogs." />
+    <String id="247006" string="Deliver the meat to Audburn at the Woodcutter Palisade." />
+    <String id="247007" string="&quot;Anything else?&quot;" />
+    <String id="248001" string="Preserved Meat" />
+    <String id="248002" string="Use the salt on the meat to cure it." />
+    <String id="248003" string="Now we've plenty to eat, and plenty to put up for later." />
+    <String id="248004" string="&quot;Acknowledged.&quot;" />
+    <String id="248005" string="Go to Centurion Verus at the Woodcutter Palisade." />
+    <String id="248006" string="&quot;For the federation!&quot;" />
+    <String id="248007" string="Use the barrel and salt to cure the meat." />
+    <String id="248008" string="Deliver the salted meat to Einna." />
+    <String id="249001" string="Southbound" />
+    <String id="249002" string="Those lousy, stinking yellow faeries! Those horrible, atrocity-filled vermin!" />
+    <String id="249003" string="Look. Eastern way is safe now!" />
+    <String id="249004" string="Faerie Necklace" />
+    <String id="249005" string="Kill redcaps and faeries. Collect their necklaces." />
+    <String id="249006" string="Report to Keta." />
+    <String id="249007" string="&quot;Happy to help out.&quot;" />
+    <String id="250001" string="Where Help Is Needed" />
+    <String id="250002" string="The deserted homestead is south of here." />
+    <String id="250003" string="Thank you for helping us." />
+    <String id="250004" string="&quot;What can I do to help?&quot;" />
+    <String id="250005" string="Meet Balter at the deserted homestead." />
+    <String id="251001" string="The Mane Event" />
+    <String id="251002" string="Hunt nearby centaurs and centaur insurgents." />
+    <String id="251003" string="Now I can fell some trees." />
+    <String id="251004" string="Centaur Mane" />
+    <String id="251005" string="Hunt the centaurs and centaur insurgents for their manes." />
+    <String id="251006" string="Bring the manes to Balter." />
+    <String id="251007" string="&quot;Glad I could help.&quot;" />
+    <String id="252001" string="A Measure of Vengeance" />
+    <String id="252002" string="Likhan is a killer!" />
+    <String id="252003" string="Thank you for avenging my father." />
+    <String id="252004" string="Come closer...and I'll kill you!" />
+    <String id="252005" string="What have I done? Nooooooo!" />
+    <String id="252006" string="Kill Likhan the centaur in the southwestern part of the Fey Forest." />
+    <String id="252007" string="&quot;For the federation!&quot;" />
+    <String id="252008" string="Report to Serra at the deserted homestead." />
+    <String id="253001" string="Teething" />
+    <String id="253002" string="We must destroy them to get to the cabin." />
+    <String id="253003" string="I feel safer already." />
+    <String id="253004" string="Sabertooth Teeth" />
+    <String id="253005" string="Hunt the slinking sabertooths and collect their teeth." />
+    <String id="253006" string="Report to Reindal." />
+    <String id="253007" string="&quot;Thanks.&quot;" />
+    <String id="254001" string="Terron-tory" />
+    <String id="254002" string="Take care of those terrons." />
+    <String id="254003" string="Kill terrons on the way to Maon's cabin." />
+    <String id="254004" string="&quot;Where's Maon?&quot;" />
+    <String id="254005" string="Ask Phonon where his father is." />
+    <String id="254006" string="&quot;For the federation!&quot;" />
+    <String id="254007" string="Tell Keta's story to Maon." />
+    <String id="255001" string="Big Pork" />
+    <String id="255002" string="Be careful—they control nearby animals." />
+    <String id="255003" string="Nice work!" />
+    <String id="255004" string="Kill long tusk warthogs." />
+    <String id="255005" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="255006" string="Report to Maon." />
+    <String id="256001" string="Family Beads" />
+    <String id="256002" string="Oh, I hope you can find them!" />
+    <String id="256003" string="Thank you! I won't forget this!" />
+    <String id="256004" string="Phonon's Beads" />
+    <String id="256005" string="Retrieve Phonon's beads from the hoglings." />
+    <String id="256006" string="Give beads to Phonon." />
+    <String id="256007" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="257001" string="Much Ado About Mushrooms" />
+    <String id="257002" string="&quot;Happy to help!&quot;" />
+    <String id="257003" string="Collect cloud mushrooms." />
+    <String id="257004" string="Deliver the mushrooms back to Reindal." />
+    <String id="258001" string="That Confounded Bridge" />
+    <String id="258002" string="Deliver the tools to Siravon at the Bridge near Faevine Vale." />
+    <String id="258003" string="Thanks to the tools you brought, I can do some work now." />
+    <String id="258004" string="Reindal" />
+    <String id="258005" string="Bridge Tools" />
+    <String id="258006" string="Deliver the tools to Siravon at the Bridge near Faevine Vale." />
+    <String id="258007" string="&quot;For the federation!&quot;" />
+    <String id="259001" string="Parts Unknown" />
+    <String id="259002" string="Get my bridge parts back from those centaurs!" />
+    <String id="259003" string="Thanks!" />
+    <String id="259004" string="Bridge Parts" />
+    <String id="259005" string="Retrieve the bridge parts from the centaurs." />
+    <String id="259006" string="Deliver the bridge parts to Niklas at the Faevine Vale Camp." />
+    <String id="259007" string="&quot;For the federation!&quot;" />
+    <String id="260001" string="Preemptive Strike" />
+    <String id="260002" string="Something must be done about the rampaging faeries!" />
+    <String id="260003" string="It's better this way, but still sad." />
+    <String id="260004" string="Faerie Sword" />
+    <String id="260005" string="Eliminate the faeries around the Faevine Vale Camp and collect their swords." />
+    <String id="260006" string="Bring swords of Furious Faeries to Aeir in Faevine Vale Camp." />
+    <String id="260007" string="&quot;I honor their memory.&quot;" />
+    <String id="261001" string="Hunting the Big Cats" />
+    <String id="261002" string="Tell Volos I sent you." />
+    <String id="261003" string="I will see Teroz later." />
+    <String id="261004" string="Hunt hulking sabertooths around Faevine Vale Camp." />
+    <String id="261005" string="&quot;Just doing my part.&quot;" />
+    <String id="261006" string="Tell Volos about Teroz's message." />
+    <String id="262001" string="The Storm Has Passed" />
+    <String id="262002" string="They'll welcome the news." />
+    <String id="262003" string="Thank you for coming here to tell us." />
+    <String id="262004" string="&quot;Thank the federation for me!&quot;" />
+    <String id="262005" string="&quot;We'll do what we can.&quot;" />
+    <String id="262006" string="&quot;This won't happen again.&quot;" />
+    <String id="262007" string="Meet the faeries at the Faerie Pond." />
+    <String id="263001" string="A Brutal Sort of Mercy" />
+    <String id="263002" string="Be merciful." />
+    <String id="263003" string="It hurts to see their spirits corrupted." />
+    <String id="263004" string="Unicorn Horn" />
+    <String id="263005" string="End the suffering of the sullen and feral unicorns and collect their horns." />
+    <String id="263006" string="Deliver the unicorn horns to Aeir." />
+    <String id="263007" string="&quot;I did what needed to be done.&quot;" />
+    <String id="264001" string="An Errand to Aron" />
+    <String id="264002" string="Talk with Nemir at Aron's Camp." />
+    <String id="264003" string="Thank you for helping us." />
+    <String id="264004" string="&quot;I can help!&quot;" />
+    <String id="264005" string="Go to Nemir at Aron's Camp to the west." />
+    <String id="265001" string="The Tragic Trees" />
+    <String id="265002" string="Cut down the lumbering ghilliedhus, but do it with kindness." />
+    <String id="265003" string="Such a pity." />
+    <String id="265004" string="Kill lumbering ghilliedhus on the way to Aron's Camp." />
+    <String id="265005" string="&quot;Anything for the forest.&quot;" />
+    <String id="265006" string="Check in with Nemir." />
+    <String id="266001" string="The Last Argument" />
+    <String id="266002" string="Please bring my sister back!" />
+    <String id="266003" string="Oh, no... Jerelyn...!" />
+    <String id="266004" string="&quot;Rest in peace.&quot;" />
+    <String id="266005" string="Find Jerelyn in the forest to the southwest." />
+    <String id="266006" string="Jerelyn's Necklace" />
+    <String id="266007" string="Hunt jalmaraks and faeries until you recover Jerelyn's Necklace." />
+    <String id="266008" string="Take the necklace to Jessalin." />
+    <String id="266009" string="&quot;My condolences.&quot;" />
+    <String id="267001" string="Hazardous Hunting" />
+    <String id="267002" string="Hunt sporewalkers and terrons for the seals they carry." />
+    <String id="267003" string="Well done! And fast!" />
+    <String id="267004" string="Polluted Seals" />
+    <String id="267005" string="Gather seals from the remains of sporewalkers and terrons." />
+    <String id="267006" string="Deliver the seals to Kadhim at Aron's Camp." />
+    <String id="267007" string="&quot;For the federation!&quot;" />
+    <String id="268001" string="The Faerie Emissary" />
+    <String id="268002" string="You could save Himir's life!" />
+    <String id="268003" string="Nice work!" />
+    <String id="268004" string="Escort" />
+    <String id="268005" string="Thank you!" />
+    <String id="268006" string="Have Lymei teleport you to the Woodland Path, then escort Himir to safety across the bridge." />
+    <String id="268007" string="&quot;I did my duty.&quot;" />
+    <String id="268008" string="Talk to Nenuel." />
+    <String id="268009" string="&quot;Thank you.&quot;" />
+    <String id="268010" string="Report to Lymei." />
+    <String id="277001" string="Nouveau Riche" />
+    <String id="277002" string="Accept federation bills." />
+    <String id="277003" string="Meet {@linkcreature:60#9000} in Lumbertown." />
+    <String id="295001" string="Suppression Orders: Sabertooths" />
+    <String id="295002" string="Proof of Kill: Sabertooths" />
+    <String id="295003" string="&quot;Reporting in!&quot;" />
+    <String id="295004" string="Hunt slinking sabertooths in the Fey Forest." />
+    <String id="295005" string="Report to Reindal at Maon's Cabin." />
+    <String id="296001" string="Suppression Orders: Centaurs" />
+    <String id="296002" string="Proof of Kill: Centaurs" />
+    <String id="296003" string="&quot;For the federation!&quot;" />
+    <String id="296004" string="Defeat centaurs in the Fey Forest." />
+    <String id="296005" string="Report to Balter at the deserted homestead when mission is complete." />
+    <String id="297001" string="Suppression Orders: Unicorns" />
+    <String id="297002" string="Proof of Kill: Unicorns" />
+    <String id="297003" string="&quot;For the federation!&quot;" />
+    <String id="297004" string="Defeat unicorns in the Fey Forest." />
+    <String id="297005" string="Report to Aeir at the Faerie Pond when mission is complete." />
+    <String id="477001" string="Points and Plans" />
+    <String id="477002" string="Accept federation bills." />
+    <String id="477003" string="Meet {@linkcreature:61#9000} in Castanica." />
+    <String id="842001" string="On Time or Your Money Back" />
+    <String id="842002" string="Last time I hire escorts in Cutthroat Harbor!" />
+    <String id="842003" string="You've done us a solid favor, soldier." />
+    <String id="842004" string="&quot;Point me to them.&quot;" />
+    <String id="842005" string="Deliver the supplies to {@linkcreature:208#1034#Baidan} at Vanguard Post Alpha in the Hungry Caverns Vaults." />
+    <String id="842006" string="Resupply Crate" />
+    <String id="842007" string="Deliver the supplies to {@linkcreature:208#1034#Baidan} at Vanguard Post Alpha in the Hungry Caverns Vaults." />
+    <String id="842008" string="&quot;I hear you.&quot;" />
+    <String id="843001" string="Thirsty Caverns" />
+    <String id="843002" string="Damned if I'll let them drive us out!" />
+    <String id="843003" string="You cannibal cretins won't kill us that easily!" />
+    <String id="843004" string="Fill the jug from the {@linkcreature:208#1038#clean well} in the Cavern of Shackles." />
+    <String id="843005" string="Empty Water Jug" />
+    <String id="843006" string="Fill the jug from the {@linkcreature:208#1038#clean well} in the Cavern of Shackles." />
+    <String id="843007" string="Fill the jug." />
+    <String id="843008" string="Deliver the full jug to {@linkcreature:208#1022#Loxetrius}." />
+    <String id="843009" string="Brimming Water Jug" />
+    <String id="843010" string="Deliver the full jug to {@linkcreature:208#1022#Loxetrius}." />
+    <String id="843011" string="&quot;For the federation!&quot;" />
+    <String id="844001" string="Green-Eyed Monsters" />
+    <String id="844002" string="Good luck...partner!" />
+    <String id="844003" string="To my eyes, these stones are jewels and money!" />
+    <String id="844004" string="&quot;Sure!&quot;" />
+    <String id="844005" string="Aspidium Crystal" />
+    <String id="844006" string="Kill {@linkcreature:8#4031#skeletal caimans} and {@linkcreature:8#4031#bonethralls} in the Cavern of Tears and take their eyeballs." />
+    <String id="844007" string="Take the aspidium crystals to {@linkcreature:208#1036#Broxy}." />
+    <String id="844008" string="&quot;Easy money.&quot;" />
+    <String id="939001" string="Requesting Reinforcements" />
+    <String id="939002" string="We can't keep doing this alone! We need more bodies!" />
+    <String id="939003" string="I don't know if even Kaia can help us if we can't get more bodies out here to help." />
+    <String id="939004" string="&quot;I'm on it.&quot;" />
+    <String id="939005" string="Remind {@linkcreature:62#1007$$Kasib} at {@Rgn:62001$$Cutthroat Harbor} that Raviv needs more soldiers." />
+    <String id="939006" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="939007" string="Return to {@linkcreature:209#1007$$Raviv} at the {@Rgn:9011$$Relic Hunter Outpost}." />
+    <String id="940001" string="Return to Sender" />
+    <String id="940002" string="I need to know he's okay." />
+    <String id="940003" string="Thank you for your help." />
+    <String id="940004" string="&quot;I'm on it.&quot;" />
+    <String id="940005" string="Talk to {@linkcreature:209#1005$$Tryphena} at the {@Rgn:9011$$Relic Hunter Outpost}." />
+    <String id="940006" string="&quot;Of course.&quot;" />
+    <String id="940007" string="Return to {@linkcreature:209#1012$$Glorine} at the {@Rgn:9011$$Relic Hunter Outpost}." />
+    <String id="941001" string="Mad World" />
+    <String id="941002" string="I know! I'll cover myself in potent spices! Then I'll taste terrible..." />
+    <String id="941003" string="They'll never find me." />
+    <String id="941004" string="&quot;I'm on it.&quot;" />
+    <String id="941005" string="Find {@linkcreature:209#1011$$Jascus} at the entrance of Azarel's Labyrinth." />
+    <String id="941006" string="&quot;I'll see what I can do.&quot;" />
+    <String id="941007" string="Return to the {@linkcreature:209#1014$$crazy adventurer} at the {@Rgn:9011$$Relic Hunter Outpost}." />
+    <String id="942001" string="Day Late, Dollar Short" />
+    <String id="942002" string="I just hope we aren't too late." />
+    <String id="942003" string="By the way...don't spread this around." />
+    <String id="942004" string="Advance Camp" />
+    <String id="942005" string="You've arrived at the Advance Camp—but you're too late." />
+    <String id="942006" string="Go to the Advance Camp in Azarel's Labyrinth Depths." />
+    <String id="942007" string="&quot;I'm on it.&quot;" />
+    <String id="942008" string="Update {@linkcreature:209#1011$$Jascus} on what you found." />
+    <String id="942009" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="942010" string="Tell {@linkcreature:209#1005$$Tryphena} at the {@Rgn:9011$$Relic Hunter Outpost} that Jascus is staying at his post." />
+    <String id="943001" string="Out of Time" />
+    <String id="943002" string="Tell her I'm sorry I couldn't come myself." />
+    <String id="943003" string="Leave me..." />
+    <String id="943004" string="{@linkcreature:209#1005$$Tryphena}" />
+    <String id="943005" string="Notice of a Fallen Soldier" />
+    <String id="943006" string="Deliver the Notice of a Fallen Soldier to {@linkcreature:62#1023$$Wynne} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="943007" string="&quot;Of course.&quot;" />
+    <String id="1146001" string="Talk Like a Pirate Day" />
+    <String id="1146002" string="Good luck!" />
+    <String id="1146003" string="Don't go thinking this will be easy." />
+    <String id="1146004" string="&quot;First thing in the morning!&quot;" />
+    <String id="1146005" string="&quot;The moment the pirate is born!&quot;" />
+    <String id="1146006" string="Meet {@linkcreature:211#1036$$Dilato} of {@Rgn:11009$$Vanguard Bastion}." />
+    <String id="1146007" string="Thanks for saying so." />
+    <String id="1146008" string="&quot;Money and plundering!&quot;" />
+    <String id="1146009" string="&quot;Sailing with the wind at your back!&quot;" />
+    <String id="1146010" string="&quot;Breaking heads and draining kegs!&quot;" />
+    <String id="1146011" string="&quot;A keg full of rum!&quot;" />
+    <String id="1146012" string="Meet {@linkcreature:62#1014$$Finn} at {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1146013" string="I'm glad you think so." />
+    <String id="1146014" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="1146015" string="Return to {@linkcreature:211#1009$$Otus} of {@Rgn:11009$$Vanguard Bastion}." />
+    <String id="1147001" string="Locker Up" />
+    <String id="1147002" string="What? A pirate can't want to do something nice?" />
+    <String id="1147003" string="The families will be so happy to see these things!" />
+    <String id="1147004" string="Collect the locker." />
+    <String id="1147005" string="Find the locker in the {@Rgn:11006$$Pier Boundary}." />
+    <String id="1147006" string="Collect the locker." />
+    <String id="1147007" string="Find the locker in the {@Rgn:11006$$Pier Boundary}." />
+    <String id="1147008" string="Collect the locker." />
+    <String id="1147009" string="Find the locker in the {@Rgn:11006$$Pier Boundary}." />
+    <String id="1147010" string="Collect the locker." />
+    <String id="1147011" string="Find the locker in the {@Rgn:11006$$Pier Boundary}." />
+    <String id="1147012" string="&quot;I'm sure they will.&quot;" />
+    <String id="1147013" string="Return to {@linkcreature:211#1036$$Dilato} of {@Rgn:11009$$Vanguard Bastion}." />
+    <String id="1148001" string="The Key to a Pirate's Heart" />
+    <String id="1148002" string="I don't even remember where I last saw it." />
+    <String id="1148003" string="You're a pirate if I ever saw one!" />
+    <String id="1148004" string="Lucky Ship Key" />
+    <String id="1148005" string="Kill {@linkcreature:11#5006$$Lektor} and get Finn's lucky ship key." />
+    <String id="1148006" string="Return {@linkcreature:62#1014$$Finn}'s lucky key to its rightful owner in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1148007" string="&quot;Glad I could help.&quot;" />
+    <String id="1149001" string="Prevent Pirating" />
+    <String id="1149002" string="This will buy us some time." />
+    <String id="1149003" string="Great work." />
+    <String id="1149004" string="Good grog. Um, who were you again?" />
+    <String id="1149005" string="Deliver grog to {@linkcreature:62#1015$$Gengen} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1149006" string="" />
+    <String id="1149007" string="Thanks, but why is the sky spinning?" />
+    <String id="1149008" string="Deliver grog to {@linkcreature:62#1007$$Kasib} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1149009" string="" />
+    <String id="1149010" string="I feel...strange..." />
+    <String id="1149011" string="Deliver grog to {@linkcreature:62#1010$$Kinias} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1149012" string="" />
+    <String id="1149013" string="Smooth. I...um...good night." />
+    <String id="1149014" string="Deliver grog to {@linkcreature:62#1009$$Burukro} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1149015" string="" />
+    <String id="1149016" string="&quot;Maybe some grog would help.&quot;" />
+    <String id="1149017" string="Tell {@linkcreature:62#1014$$Finn} that his crew has canceled." />
+    <String id="1149018" string="&quot;Glad I could help.&quot;" />
+    <String id="1149019" string="Report back to {@linkcreature:62#1001$$Siam} in {@Rgn:62001$$Cutthroat Harbor}." />
+    <String id="1244001" string="Infiltrating the Rain Cages" />
+    <String id="1244002" string="We might all become slaves without Tairia leading." />
+    <String id="1244003" string="The cannibals...what they do...it's horrible!" />
+    <String id="1244004" string="Release Tairia." />
+    <String id="1244005" string="Recover {@Linkcreature:212#1018#Tairia} from the Rain Cages." />
+    <String id="1839001" string="Golem 2.0" />
+    <String id="1839002" string="That does sound bad." />
+    <String id="1839003" string="&quot;Wheelwatch golems? That's not good.&quot;" />
+    <String id="1839004" string="Ask {@linkcreature:218#1027$$Takucha} about Kunchara's charms." />
+    <String id="1839005" string="Torn Charm" />
+    <String id="1839006" string="Recover Kunchara's charms from the {@linkcreature:18#11#wheelwatch golems}." />
+    <String id="1839007" string="" />
+    <String id="1839008" string="&quot;Your speech is improving!&quot;" />
+    <String id="1840001" string="Sietch Mentality" />
+    <String id="1840002" string="&quot;On it.&quot;" />
+    <String id="1840003" string="&quot;Many thanks.&quot;" />
+    <String id="1840004" string="Ask {@linkcreature:218#1003$$Kardelen} about the supply shortage." />
+    <String id="1840005" string="&quot;Thank you.&quot;" />
+    <String id="1840006" string="Go to {@linkcreature:218#1001$$Dinian}." />
+    <String id="1840007" string="&quot;Very generous.&quot;" />
+    <String id="1840008" string="Go to {@linkcreature:218#1004$$Tirian}." />
+    <String id="1840009" string="&quot;Thank you.&quot;" />
+    <String id="1840010" string="Visit {@linkcreature:218#1002$$Kunchara}." />
+    <String id="1840011" string="&quot;Very kind.&quot;" />
+    <String id="1840012" string="Visit {@linkcreature:218#1028$$Bumon}." />
+    <String id="1840013" string="&quot;Glad to have helped.&quot;" />
+    <String id="1840014" string="Deliver the extra supplies to {@linkcreature:218#1005$$Anaka}." />
+    <String id="1840015" string="" />
+    <String id="1841001" string="Reduce, Rip Off, Resell" />
+    <String id="1841002" string="" />
+    <String id="1841003" string="Letter" />
+    <String id="1841004" string="Deliver the letter to {@linkcreature:218#1008#Nangor}." />
+    <String id="1841005" string="&quot;Sounds fair.&quot;" />
+    <String id="1841006" string="Mana Filter" />
+    <String id="1841007" string="Kill {@linkcreature:18#10#Sentinel Golems} and collect mana filters." />
+    <String id="1841008" string="" />
+    <String id="1841009" string="Worth every cent!" />
+    <String id="1935001" string="The Grain Game" />
+    <String id="1935002" string="Hurry, please." />
+    <String id="1935003" string="Wouldn't trust him any farther than I could throw him." />
+    <String id="1935004" string="&quot;It was no trouble.&quot;" />
+    <String id="1935005" string="Find Regik in the northeastern Bleak Fields." />
+    <String id="1936001" string="Nothing to Scavenge" />
+    <String id="1936002" string="I'm glad you're on my side." />
+    <String id="1936003" string="I'll take what I can get." />
+    <String id="1936004" string="Hyena" />
+    <String id="1936005" string="Kill the horned war hyenas and battle hyenas." />
+    <String id="1936006" string="&quot;It was no trouble.&quot;" />
+    <String id="1936007" string="Talk to Regik." />
+    <String id="1937001" string="Speedy Delivery" />
+    <String id="1937002" string="I'll do that." />
+    <String id="1937003" string="Thanks." />
+    <String id="1937004" string="&quot;Glad to help.&quot;" />
+    <String id="1937005" string="Deliver Regik's message to Elsta at Digory's farm." />
+    <String id="1938001" string="Searching for Piece" />
+    <String id="1938002" string="Better you than me." />
+    <String id="1938003" string="This metal...very interesting." />
+    <String id="1938004" string="(There's nothing significant here.)" />
+    <String id="1938005" string="(There's nothing significant here.)" />
+    <String id="1938006" string="(Wrap the metallic fragment in cloth and bring it along.)" />
+    <String id="1938007" string="Check the corpses in the area." />
+    <String id="1938008" string="&quot;For the federation!&quot;" />
+    <String id="1938009" string="Return to Regik." />
+    <String id="1939001" string="Flag Burning" />
+    <String id="1939002" string="I'll do it." />
+    <String id="1939003" string="They will be remembered." />
+    <String id="1939004" string="Obtain the flag." />
+    <String id="1939005" string="Retrieve the Free Brotherhood flag to the northeast." />
+    <String id="1939006" string="Free Brotherhood Flag" />
+    <String id="1939007" string="Flag Scraps" />
+    <String id="1939008" string="Deliver the flag scraps to Erina." />
+    <String id="1939009" string="&quot;It was no trouble.&quot;" />
+    <String id="1940001" string="Man among the Golems" />
+    <String id="1940002" string="Keep a low profile." />
+    <String id="1940003" string="I feel safer now that you're here." />
+    <String id="1940004" string="&quot;Glad I could help.&quot;" />
+    <String id="1940005" string="Find Cregan. He went to spy on the golems." />
+    <String id="1941001" string="Shattered Hearts" />
+    <String id="1941002" string="I appreciate your help." />
+    <String id="1941003" string="They make me nervous." />
+    <String id="1941004" string="Crystal Heart" />
+    <String id="1941005" string="Collect crystal hearts from the golems nearby." />
+    <String id="1941006" string="Deliver the crystal hearts to Cregan at Harvester Fields." />
+    <String id="1941007" string="&quot;It was no trouble.&quot;" />
+    <String id="1942001" string="Seems Suspicious" />
+    <String id="1942002" string="It's just kind of creepy, you know?" />
+    <String id="1942003" string="Now, where to keep it..." />
+    <String id="1942004" string="Take the shard." />
+    <String id="1942005" string="Find and examine the obelisk." />
+    <String id="1942006" string="Obelisk" />
+    <String id="1942007" string="Obelisk Shard" />
+    <String id="1942008" string="Take the shard to Cregan." />
+    <String id="1942009" string="&quot;Good luck with your studies.&quot;" />
+    <String id="1943001" string="Burn, Baby, Burn" />
+    <String id="1943002" string="Yyyes! Fire! Fire!" />
+    <String id="1943003" string="Got any marshmallows?" />
+    <String id="1943004" string="Broken Debris" />
+    <String id="1943005" string="Collect the destroyed pieces of fringed and demented scarecrows." />
+    <String id="1943006" string="Deliver broken debris to Cregan at the Harvester Fields." />
+    <String id="1943007" string="&quot;It was no trouble.&quot;" />
+    <String id="1944001" string="Mystery Man" />
+    <String id="1944002" string="Careful. They're still out there." />
+    <String id="1944003" string="We may never know..." />
+    <String id="1944004" string="Cregan" />
+    <String id="1944005" string="&quot;For the federation!&quot;" />
+    <String id="1944006" string="Visit Karadus at Lee's End Stead." />
+    <String id="1944007" string="&quot;Glad I could help.&quot;" />
+    <String id="1945001" string="Fearful Free Brotherhood" />
+    <String id="1945002" string="For the federation!" />
+    <String id="1945003" string="Those responsible must pay." />
+    <String id="1945004" string="Free Brotherhood Lokians" />
+    <String id="1945005" string="Kill the Lokians of the Free Brotherhood in their base." />
+    <String id="1945006" string="&quot;It was no trouble.&quot;" />
+    <String id="1945007" string="Report to Karadus at Lee's End Stead." />
+    <String id="1946001" string="A Storm of Swords" />
+    <String id="1946002" string="I can do that." />
+    <String id="1946003" string="Well done!" />
+    <String id="1946004" string="Cruel Blade" />
+    <String id="1946005" string="Kill Free Brotherhood Lokians and collect their weapons." />
+    <String id="1946006" string="Bring the blades to Karadus at Lee's End Stead." />
+    <String id="1946007" string="&quot;For the federation!&quot;" />
+    <String id="1947001" string="Eye for an Eye" />
+    <String id="1947002" string="They're no longer people." />
+    <String id="1947003" string="Thank you, thank you so much!" />
+    <String id="1947004" string="Mana-Enchanted Token" />
+    <String id="1947005" string="Kill the Lokians and collect their tokens." />
+    <String id="1947006" string="Speak to Yestin at Lee's End Stead." />
+    <String id="1947007" string="&quot;Glad I could help.&quot;" />
+    <String id="1948001" string="Irreparable Mistake" />
+    <String id="1948002" string="Thank you!" />
+    <String id="1948003" string="Now these weapons are in good hands." />
+    <String id="1948004" string="&quot;It was no trouble.&quot;" />
+    <String id="1948005" string="Retrieve the weapons from the weapon crates in the Free Brotherhood base." />
+    <String id="1948006" string="Deliver the weapons to Tashaberia." />
+    <String id="1949001" string="Sidurek Must Die" />
+    <String id="1949002" string="Sidurek is responsible." />
+    <String id="1949003" string="Finally, Sidurek is dead." />
+    <String id="1949004" string="&quot;Glad I could help.&quot;" />
+    <String id="1949005" string="Sidurek's Secret Message" />
+    <String id="1949006" string="Find and kill Sidurek." />
+    <String id="1949007" string="Report to Nasha at Lee's End Stead." />
+    <String id="1949008" string="&quot;For the federation!&quot;" />
+    <String id="1950001" string="Sidurek's Last Words" />
+    <String id="1950002" string="We must learn of Sidurek's plan." />
+    <String id="1950003" string="For the federation!" />
+    <String id="1950004" string="Follow the clues in the journal." />
+    <String id="1950005" string="Find Sidurek's journal in the ruins north of the base." />
+    <String id="1950006" string="Take the object." />
+    <String id="1950007" string="Search the old barrel." />
+    <String id="1950008" string="Old Barrel" />
+    <String id="1950009" string="Weird Orb" />
+    <String id="1950010" string="Bring the weird orb back to Nasha." />
+    <String id="1950011" string="&quot;For the federation!&quot;" />
+    <String id="2241001" string="They're Doing It Wrong" />
+    <String id="2241002" string="&quot;I'm on it.&quot;" />
+    <String id="2241003" string="&quot;You're an ugly thing, aren't you?&quot;" />
+    <String id="2241004" string="Investigate the {@linkcreature:223#1051#scarecrows} on the Eldritch Academy Grounds for Wheelow." />
+    <String id="2241005" string="&quot;How did this happen?&quot;" />
+    <String id="2241006" string="Continue to investigate the {@linkcreature:223#1052#scarecrows} for Wheelow." />
+    <String id="2241007" string="&quot;At least they're not wreaking havoc.&quot;" />
+    <String id="2241008" string="Look for one more {@linkcreature:223#1053#scarecrow} to complete your investigation for Wheelow." />
+    <String id="2241009" string="&quot;I wish I could do more...&quot;" />
+    <String id="2241010" string="Inform Wheelow about the condition of the scarecrows." />
+    <String id="2242001" string="Better You than Me" />
+    <String id="2242002" string="Blue Cyclone" />
+    <String id="2242003" string="You investigate the cyclone. It appears harmless." />
+    <String id="2242004" string="Investigate the blue cyclone in the Thaumaturge Chamber." />
+    <String id="2242005" string="&quot;Indeed.&quot;" />
+    <String id="2242006" string="Let Casilyn know that the blue cyclone is safe." />
+    <String id="2243001" string="Under Her Spell" />
+    <String id="2243002" string="" />
+    <String id="2243003" string="Love Letter" />
+    <String id="2243004" string="Deliver Tarni's letter to {@linkcreature:222#1010$$Ania} on the Eldritch Academy Grounds." />
+    <String id="2243005" string="&quot;Something for me?&quot;" />
+    <String id="2244001" string="That Soup Looks Amazing" />
+    <String id="2244002" string="&quot;Sure, why not?&quot;" />
+    <String id="2244003" string="" />
+    <String id="2244004" string="Basilisk Eyeball Soup" />
+    <String id="2244005" string="Deliver the tasty basilisk eyeball soup to {@linkcreature:222#1007$$Keslyn} at the Eldritch Bastion Grounds." />
+    <String id="2244006" string="&quot;No thanks.&quot;" />
+    <String id="2277001" string="Federation Focus" />
+    <String id="2277002" string="Accept federation bills." />
+    <String id="2277003" string="Meet {@linkcreature:68#9000} in Pora Elinu." />
+    <String id="2338001" string="Tread Lightly" />
+    <String id="2338002" string="&quot;Sure thing.&quot;" />
+    <String id="2338003" string="Speak with {@linkcreature:68#1027$$Merolyn}." />
+    <String id="2338004" string="" />
+    <String id="2338005" string="Borrowed Shoes" />
+    <String id="2338006" string="Deliver the shoes to {@linkcreature:223#1042$$Sujai}." />
+    <String id="2338007" string="&quot;She's most grateful.&quot;" />
+    <String id="2339001" string="Pride Goeth before the Fall" />
+    <String id="2339002" string="&quot;Thank you.&quot;" />
+    <String id="2339003" string="Speak with {@linkcreature:68#1010$$Ronelyn} about resolving the royal dispute." />
+    <String id="2340001" string="Spot Inspection" />
+    <String id="2340002" string="&quot;I'm sure they can.&quot;" />
+    <String id="2340003" string="Speak with Menani." />
+    <String id="2340004" string="&quot;So do I.&quot;" />
+    <String id="2340005" string="Speak with Naikara." />
+    <String id="2340006" string="&quot;Good to hear.&quot;" />
+    <String id="2340007" string="Speak with Lohona." />
+    <String id="2340008" string="&quot;Yes, sir.&quot;" />
+    <String id="2340009" string="Report back to {@linkcreature:68#1008$$Dadun}." />
+    <String id="2451001" string="Feet Don't Fail Me Now" />
+    <String id="2451002" string="Bring it." />
+    <String id="2451003" string="Tell {@linkcreature:224#1012$$Raquib} when you're ready to start." />
+    <String id="2451004" string="Sandwalker Refuge" />
+    <String id="2451005" string="You’ve reached Sandwalker Refuge. Hurry to the West Watchpost." />
+    <String id="2451006" string="Reach Sandwalker Refuge within the time limit." />
+    <String id="2451007" string="West Watchpost" />
+    <String id="2451008" string="You’ve arrived at the West Watchpost. Talk to Loqa." />
+    <String id="2451009" string="Reach the West Watchpost within the time limit." />
+    <String id="2451010" string="&quot;Sure thing.&quot;" />
+    <String id="2451011" string="Speak with {@linkcreature:224#1007$$Loqa}." />
+    <String id="2451012" string="&quot;I'll do that. Thanks!&quot;" />
+    <String id="2451013" string="Return to Torrent Outpost and talk with {@linkcreature:224#1012$$Raquib}." />
+    <String id="2452001" string="Entrepreneurial Spirit" />
+    <String id="2452002" string="&quot;Happy to help.&quot;" />
+    <String id="2452003" string="Collect star essences and normetal ore, and deliver them to {@linkcreature:224#1008$$Elston}." />
+    <String id="2452004" string="" />
+    <String id="2453001" string="An Unquenchable Thirst" />
+    <String id="2453002" string="&quot;Why not?&quot;" />
+    <String id="2453003" string="Speak with {@linkcreature:224#1008$$Elston}." />
+    <String id="2453004" string="Possible Water Source" />
+    <String id="2453005" string="This area might have water. Use a dowsing rod." />
+    <String id="2453006" string="Go to the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7003#-71173, -47471, 809&amp;type=1&amp;name=Possible Water Source&quot;&gt;possible water source.&lt;/A&gt;&lt;/font&gt;" />
+    <String id="2453007" string="Use the first dowsing rod." />
+    <String id="2453008" string="No water detected." />
+    <String id="2453009" string="Possible Water Source" />
+    <String id="2453010" string="This area might have water. Use a dowsing rod." />
+    <String id="2453011" string="Go to the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7003#-74328, -52996, 691&amp;type=1&amp;name=Possible Water Source&quot;&gt;possible water source.&lt;/A&gt;&lt;/font&gt;" />
+    <String id="2453012" string="Use the second dowsing rod." />
+    <String id="2453013" string="No water detected." />
+    <String id="2453014" string="Possible Water Source" />
+    <String id="2453015" string="This area might have water. Use a dowsing rod." />
+    <String id="2453016" string="Go to the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7003#-71089, -52594, 721&amp;type=1&amp;name=Possible Water Source&quot;&gt;possible water source.&lt;/A&gt;&lt;/font&gt;" />
+    <String id="2453017" string="Use the third dowsing rod." />
+    <String id="2453018" string="You detect a large water supply deep underground." />
+    <String id="2453019" string="&quot;Good luck with that, Elston.&quot;" />
+    <String id="2453020" string="Report your findings to {@linkcreature:224#1008$$Elston}." />
+    <String id="2542001" string="Ask if Supplies Are Needed" />
+    <String id="2542002" string="Tell them to send soldiers if they need supplies" />
+    <String id="2542003" string="If you help us, everything will go smoothly" />
+    <String id="2542004" string="&quot;It's an honor to serve.&quot;" />
+    <String id="2542005" string="Go see {@linkcreature:225#1008$$Jahdami} at the {@Rgn:24013$$Cathedral Redoubt}" />
+    <String id="2543001" string="Operation: Pacification" />
+    <String id="2543002" string="Find something to distract Lilyenne." />
+    <String id="2543003" string="We need to get her out of here." />
+    <String id="2543004" string="&quot;Thanks for the tip.&quot;" />
+    <String id="2543005" string="Speak to {@linkcreature:225#1016$$Heleid} at the {@Rgn:24013$$Cathedral Redoubt}." />
+    <String id="2543006" string="These won't do." />
+    <String id="2543007" string="Look through the {@linkcreature:225#1036#Valkyon supply crate} at the {@Rgn:24012$$Crusader Camp}." />
+    <String id="2543008" string="That won't work." />
+    <String id="2543009" string="Look through the {@linkcreature:225#1036#Valkyon supply crate} at the {@Rgn:24012$$Crusader Camp}." />
+    <String id="2543010" string="These would cheer me up!" />
+    <String id="2543011" string="Look through the {@linkcreature:225#1037#Valkyon supply crate} at the {@Rgn:24012$$Crusader Camp}." />
+    <String id="2543012" string="&quot;Enjoy them.&quot;" />
+    <String id="2543013" string="Deliver the cookies to {@linkcreature:225#1001$$Lilyenne} at {@Rgn:25004$$Vindicator Redoubt}." />
+    <String id="2543014" string="Deliver the cookies to {@linkcreature:225#1001$$Lilyenne} at {@Rgn:25004$$Vindicator Redoubt}." />
+    <String id="2543015" string="&quot;You're most welcome.&quot;" />
+    <String id="2543016" string="Speak with {@linkcreature:225#1017$$Doron}." />
+    <String id="2544001" string="It's Never Simple" />
+    <String id="2544002" string="We’ve never skipped our birthday! Never!" />
+    <String id="2544003" string="{@Rgn:67001$$Popolion} Specialty Cookies! Just the thought of them makes my mouth water." />
+    <String id="2544004" string="&quot;Absolutely.&quot;" />
+    <String id="2544005" string="Find {@linkcreature:225#2002$$Shurin} at the Portal." />
+    <String id="2544006" string="&quot;I can do that.&quot;" />
+    <String id="2544007" string="Speak with {@linkcreature:225#2000$$Deirin} at the {@Rgn:24013$$Cathedral Redoubt}." />
+    <String id="2544008" string="&quot;Save some cookies for me.&quot;" />
+    <String id="2544009" string="Report back to {@linkcreature:225#2001$$Maoran}." />
+    <String id="2545001" string="That's Not Amore" />
+    <String id="2545002" string="I don't have time for games." />
+    <String id="2545003" string="What an idiot." />
+    <String id="2545004" string="I honestly don't know how to respond to that." />
+    <String id="2545005" string="Speak with {@linkcreature:225#1020$$Deigan}." />
+    <String id="2545006" string="{@linkcreature:225#1020$$Deigan}" />
+    <String id="2545007" string="Notched Leg Bone" />
+    <String id="2545008" string="Give Deigan's bone to {@linkcreature:225#1015$$Essunia}." />
+    <String id="2545009" string="&quot;No worries.&quot;" />
+    <String id="2546001" string="Some Activation Required" />
+    <String id="2546002" string="Tyvol arcanaliths are among the most potent." />
+    <String id="2546003" string="Splendid work." />
+    <String id="2546004" string="Activate the first {@WorkObject:107$$tyvol arcanalith}." />
+    <String id="2546005" string="Activate the second {@WorkObject:108$$tyvol arcanalith}." />
+    <String id="2546006" string="Activate the final {@WorkObject:109$$tyvol arcanalith}." />
+    <String id="2546007" string="&quot;For the federation!&quot;" />
+    <String id="2546008" string="Speak with {@linkcreature:225#1016$$Heleid}." />
+    <String id="2547001" string="Every Kiss Begins with an Ambush" />
+    <String id="2547002" string="That box is rather delicate. Please be careful." />
+    <String id="2547003" string="Yes! Now I can get married." />
+    <String id="2547004" string="Kill {@linkcreature:25#2091$$Lokian zealots} in the {@Rgn:25003$$Transepts} and recover the small box." />
+    <String id="2547005" string="&quot;Good luck!&quot;" />
+    <String id="2547006" string="Deliver the small box to {@linkcreature:225#1028$$Jacobi}." />
+    <String id="2547007" string="Deliver the small box to {@linkcreature:225#1028$$Jacobi}." />
+    <String id="2634001" string="Shara's Tears" />
+    <String id="2634002" string="Please. It's for my son." />
+    <String id="2634003" string="Look at it—it glows!" />
+    <String id="2634004" string="Fountain of Shara" />
+    <String id="2634005" string="You’ve reached the {@Rgn:26005$$Fountain of Shara}." />
+    <String id="2634006" string="Find the Fountain of Shara." />
+    <String id="2634007" string="&quot;I hope this works.&quot;" />
+    <String id="2634008" string="Collect sacred water from the {@Rgn:26005$$Fountain of Shara}." />
+    <String id="2634009" string="Shara's Tears" />
+    <String id="2634010" string="Shara's Tears" />
+    <String id="2634011" string="Deliver the tears to {@linkcreature:226#1010$$Rithia}." />
+    <String id="2634012" string="&quot;I hope it helps your son.&quot;" />
+    <String id="2736001" string="A Window Closed" />
+    <String id="2736002" string="&quot;Return to the Dream.&quot;" />
+    <String id="2736003" string="Find {@linkcreature:227#1026$$Haruish}." />
+    <String id="2736004" string="(Name of Granter)" />
+    <String id="2736005" string="Haruish's Letter" />
+    <String id="2736006" string="Deliver {@linkcreature:227#1026$$Haruish}’s letter to {@linkcreature:227#1024$$Rees}." />
+    <String id="2736007" string="&quot;Absolutely.&quot;" />
+    <String id="2934001" string="Natural Wonders" />
+    <String id="2934002" string="&quot;Tell me about the poporis.&quot;" />
+    <String id="2934003" string="&quot;I've always wondered about the elins.&quot;" />
+    <String id="2934004" string="[Woodstrider Point]&#xA;Speak with {@LinkCreature:229#1006$$Isobel}." />
+    <String id="2934005" string="" />
+    <String id="2934006" string="&quot;I'll do that, thanks.&quot;" />
+    <String id="2934007" string="[Woodstrider Point]&#xA;Speak with {@LinkCreature:229#1006$$Isobel}." />
+    <String id="2934008" string="&quot;That's a good idea.&quot;" />
+    <String id="2934009" string="[Woodstrider Point]&#xA;Speak with {@LinkCreature:229#1006$$Isobel}." />
+    <String id="2934010" string="&quot;Of course!&quot;" />
+    <String id="2934011" string="&quot;Umm...maybe?&quot;" />
+    <String id="2934012" string="[Dorana Outpost]&#xA;Speak with {@LinkCreature:229#1023$$Senova}." />
+    <String id="2934013" string="" />
+    <String id="2934014" string="&quot;Thank you so much.&quot;" />
+    <String id="2934015" string="[Dorana Outpost]&#xA;Speak with {@LinkCreature:229#1023$$Senova}." />
+    <String id="3142001" string="Fleeting Fury" />
+    <String id="3142002" string="I'm cold, hungry, and pissed. In case you couldn't tell." />
+    <String id="3142003" string="For the federation. Always for the federation." />
+    <String id="3142004" string="&quot;I'm sure that will be sufficent.&quot;" />
+    <String id="3142005" string="Talk to {@linkcreature:231#1008$$Pedr}, so {@linkcreature:231#1023$$Ghauth} doesn't lose his temper." />
+    <String id="3142006" string="&quot;Let's hope it doesn't come to that.&quot;" />
+    <String id="3142007" string="Report to {@linkcreature:231#1023$$Ghauth} at the {@Rgn:31008$$Glacial Bay Research Station}." />
+    <String id="3143001" string="The Weatherman" />
+    <String id="3143002" string="Bring me good news or I'll kill somebody. I swear it." />
+    <String id="3143003" string="For the federation." />
+    <String id="3143004" string="&quot;I'll let him know.&quot;" />
+    <String id="3143005" string="Get a weather forecast from {@linkcreature:231#1027$$Yasper} at the {@Rgn:31009$$Beacon Point Garrison}." />
+    <String id="3143006" string="&quot;Sure thing.&quot;" />
+    <String id="3143007" string="Tell {@linkcreature:231#1023$$Ghauth} what Yasper had to say." />
+    <String id="3143008" string="&quot;I'll just steer clear of him.&quot;" />
+    <String id="3143009" string="Relay the message from {@linkcreature:231#1023$$Ghauth} to {@linkcreature:231#1008$$Pedr}." />
+    <String id="3144001" string="Taking in the View" />
+    <String id="3144002" string="For the federation." />
+    <String id="3144003" string="It must have been a mirage." />
+    <String id="3144004" string="&quot;I'll go take a look.&quot;" />
+    <String id="3144005" string="Speak with {@linkcreature:231#1013$$Urwah} at the {@Rgn:31009$$Beacon Point Garrison}." />
+    <String id="3144006" string="Lookout Spot" />
+    <String id="3144007" string="You don't see any incoming ships." />
+    <String id="3144008" string="Find Urwah's lookout spot and look for the incoming fleet." />
+    <String id="3144009" string="&quot;It's not your fault.&quot;" />
+    <String id="3144010" string="Report your observations to {@linkcreature:231#1013$$Urwah}." />
+    <String id="3145001" string="The Confident Countryman" />
+    <String id="3145002" string="What's he thinking?" />
+    <String id="3145003" string="He's going to get himself killed out there." />
+    <String id="3145004" string="{@linkcreature:231#1008$$Pedr}" />
+    <String id="3145005" string="Federation Supplies" />
+    <String id="3145006" string="Check on {@linkcreature:231#1020$$Bettenis}, who traveled north from Frost Wastes." />
+    <String id="3145007" string="&quot;Sure thing.&quot;" />
+    <String id="3145008" string="Pick a handful of dry grass." />
+    <String id="3145009" string="Find {@linkcreature:231#1051#dry grass} for {@linkcreature:231#1020$$Bettenis}." />
+    <String id="3145010" string="{@linkcreature:231#1051$$Dry Grass}" />
+    <String id="3145011" string="Dry Grass" />
+    <String id="3145012" string="Deliver the dry grass to {@linkcreature:231#1020$$Bettenis}." />
+    <String id="3145013" string="&quot;Take care.&quot;" />
+    <String id="3145014" string="&quot;For the federation.&quot;" />
+    <String id="3145015" string="Let {@linkcreature:231#1008$$Pedr} know you found Bettenis." />
+    <String id="3146001" string="Spirit of the Snow" />
+    <String id="3146002" string="I hope I'm right." />
+    <String id="3146003" string="For the federation!" />
+    <String id="3146004" string="Kill the frost queen {@linkcreature:31#28$$Siarxis} in the Icefang Inlet." />
+    <String id="3146005" string="&quot;Victory for Valkyon.&quot;" />
+    <String id="3146006" string="Report to {@linkcreature:231#1027$$Yasper} at the {@Rgn:31009$$Beacon Point Garrison}." />
+    <String id="3240001" string="Send Troops Now" />
+    <String id="3240002" string="With reinforcements, we stand a chance." />
+    <String id="3240003" string="Everybody's up against it right now." />
+    <String id="3240004" string="&quot;I understand.&quot;" />
+    <String id="3240005" string="Talk to Hallaj at {@Rgn:32008$$Holdouts Redoubt}." />
+    <String id="3240006" string="&quot;I did what I could.&quot;" />
+    <String id="3240007" string="Talk to Nashwa at {@Rgn:32008$$Holdouts Redoubt}." />
+    <String id="3241001" string="I Remember" />
+    <String id="3241002" string="I'll always remember her." />
+    <String id="3241003" string="It means a lot to me. Thanks." />
+    <String id="3241004" string="{@linkcreature:232#1010$$Nania}" />
+    <String id="3241005" string="Flowers" />
+    <String id="3241006" string="Go to a {@linkcreature:73#1114#grave of an unkown soldier} in the cemetery near {@Rgn:73001$$Acarum}." />
+    <String id="3241007" string="Place the flowers near the gravestone." />
+    <String id="3241008" string="&quot;I was glad to help.&quot;" />
+    <String id="3241009" string="Return to {@linkcreature:232#1010$$Nania} at {@Rgn:32008$$Holdouts Redoubt}." />
+    <String id="3242001" string="Execute the Executioner" />
+    <String id="3242002" string="It'll do wonders for morale." />
+    <String id="3242003" string="We're going to have a celebration." />
+    <String id="3242004" string="Kill High Executioner {@linkcreature:32#19$$Shimakur} in {@Rgn:32006$$Frigid Vigil}." />
+    <String id="3242005" string="&quot;I did my duty.&quot;" />
+    <String id="3242006" string="Report to Hallaj at {@Rgn:32008$$Holdouts Redoubt}." />
+    <String id="3738001" string="I Saw It First" />
+    <String id="3738002" string="&quot;I'll ask him.&quot;" />
+    <String id="3738003" string="Speak to {@linkcreature:237#1006$$Grenan}." />
+    <String id="3738004" string="&quot;Okay then.&quot;" />
+    <String id="3738005" string="Ask {@linkcreature:237#1032$$Eudon} about the history of the prions." />
+    <String id="3843001" string="Heartbroken" />
+    <String id="3843002" string="Take care when retrieving the heart." />
+    <String id="3843003" string="I am eternally in your debt." />
+    <String id="3843004" string="Kill Nyxarras, and bring its beating heart for Jerad." />
+    <String id="3843005" string="&quot;Good luck.&quot;" />
+    <String id="3843006" string="Quickly deliver Nyxarras’s heart to Jerad." />
+    <String id="3843007" string="" />
+    <String id="4047001" string="Special Delivery" />
+    <String id="4047002" string="Trezi needs to know my last wishes." />
+    <String id="4047003" string="Grada...so stubborn." />
+    <String id="4047004" string="" />
+    <String id="4047005" string="Grada's Letter" />
+    <String id="4047006" string="Deliver the letter to Trezi in {@Rgn:75001$$Frontera}." />
+    <String id="4047007" string="&quot;You may be right.&quot;" />
+    <String id="4139001" string="Round and Round" />
+    <String id="4139002" string="&quot;He's standing right over there.&quot;" />
+    <String id="4139003" string="[Emissary Point]&#xA;Talk to {@linkcreature:241#1013$$Kuban}." />
+    <String id="4139004" string="&quot;But he's standing right...nevermind.&quot;" />
+    <String id="4139005" string="[Emissary Point]&#xA;Talk to {@linkcreature:241#1023$$Majduk}." />
+    <String id="4139006" string="&quot;Hey, I'm just the messenger.&quot;" />
+    <String id="4139007" string="[Emissary Point]&#xA;Talk to {@linkcreature:241#1013$$Kuban}." />
+    <String id="4245001" string="None Left Behind" />
+    <String id="4245002" string="Chamber of Malice" />
+    <String id="4245003" string="The soldiers are not here." />
+    <String id="4245004" string="[Chamber of Malice]&#xA;Look for the soldiers in the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-69100, 60232, 1017&amp;type=1&amp;name=Chamber of Malice&quot;&gt;Chamber of Malice&lt;/font&gt;&lt;/a&gt;." />
+    <String id="4245005" string="Chamber of Malice" />
+    <String id="4245006" string="The soldiers are not here." />
+    <String id="4245007" string="[Coiling Transepts]&#xA;Look for the soldiers in the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-72608, 59295, 1017&amp;type=1&amp;name=Coiling Transepts&quot;&gt;Coiling Transepts&lt;/font&gt;&lt;/a&gt;." />
+    <String id="4245008" string="Chamber of Lost Souls" />
+    <String id="4245009" string="The soldiers are not here." />
+    <String id="4245010" string="[Chamber of Lost Souls]&#xA;Look for the soldiers in the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-76867, 54738, 657&amp;type=1&amp;name=Chamber of Lost Souls&quot;&gt;Chamber of Lost Souls&lt;/font&gt;&lt;/a&gt;." />
+    <String id="4245011" string="Depths of Corruption" />
+    <String id="4245012" string="The soldiers are not here." />
+    <String id="4245013" string="[Depths of Corruption]&#xA;Look for the soldiers in the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-72145, 58633, 89&amp;type=1&amp;name=Depths of Corruption&quot;&gt;Depths of Corruption&lt;/font&gt;&lt;/a&gt;." />
+    <String id="4245014" string="&quot;I'm sorry for your loss.&quot;" />
+    <String id="4245015" string="[Camp Venom]&#xA;Tell Tarna that you couldn't find her comrades." />
+    <String id="4246001" string="The Ties that Unbind" />
+    <String id="4246002" string="[Chamber of Lost Souls]&#xA;Kill {@linkcreature:42#5002$$Tragoleth} and {@linkcreature:42#5003$$Enirevass}." />
+    <String id="4246003" string="&quot;Consider it done.&quot;" />
+    <String id="4246004" string="[Ecdysi Atrium]&#xA;Talk to {@linkcreature:242#1006$$Trikaian}." />
+    <String id="4795001" string="" />
+    <String id="4795002" string="&quot;I'll put it to good use.&quot;" />
+    <String id="4795003" string="Meet Sonakin at Pathfinder Post to receive battle supplies." />
+    <String id="5539001" string="A Sixth Sense" />
+    <String id="5539002" string="For the federation." />
+    <String id="5539003" string="An ominous wind blows this way." />
+    <String id="5539004" string="Head west from Darkquaver Garrison and retrieve the sensor from the magic detector." />
+    <String id="5539005" string="" />
+    <String id="5539006" string="Scan Results" />
+    <String id="5539007" string="Take the scan results to Cecera at Darkquaver Garrison." />
+    <String id="5539008" string="&quot;For the federation.&quot;" />
+    <String id="5540001" string="Rise of the Machines" />
+    <String id="5540002" string="For the federation." />
+    <String id="5540003" string="They're just machines with a bad attitude. They will fall." />
+    <String id="5540004" string="&quot;I'll go right away.&quot;" />
+    <String id="5540005" string="Warn Belok at Ceravin Point about the argon/Thulsa alliance." />
+    <String id="5540006" string="&quot;For the federation.&quot;" />
+    <String id="5540007" string="Warn Winstail at Valumnir Outpost about the argon/Thulsa alliance." />
+    <String id="5737001" string="Numbing the Pain" />
+    <String id="5737002" string="&quot;You can count on me.&quot;" />
+    <String id="5737003" string="Speak with {@LinkCreature:257#1018$$Abila}." />
+    <String id="5738001" string="An Underground Cemetery" />
+    <String id="5738002" string="" />
+    <String id="5738003" string="Infiltration Report" />
+    <String id="5738004" string="[The Barbican]&#xA;Deliver the infiltration report to {@LinkCreature:257#1023$$Kalraz}." />
+    <String id="5738005" string="&quot;For the federation.&quot;" />
+    <String id="5738006" string="Wreckage by the Temple of Sikander" />
+    <String id="5738007" string="The carriage doesn’t have anything useful left in or around it." />
+    <String id="5738008" string="Investigate the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7021#-50678, 46817, 2635&amp;type=1&amp;name=Destroyed Carriage&quot;&gt;destroyed carriage&lt;/a&gt;&lt;/font&gt;." />
+    <String id="5738009" string="&quot;Sorry I couldn't do more.&quot;" />
+    <String id="5738010" string="[The Barbican]&#xA;Report to {@LinkCreature:257#1023$$Kalraz}." />
+    <String id="6360001" string="Pet" />
+    <String id="6360002" string="Get the Homunculus" />
+    <String id="6360003" string="Go to Jerelyn Ellin in the Liberty Plaza" />
+    <String id="6377001" string="Reaping Rewards" />
+    <String id="6377002" string="Accept federation bills." />
+    <String id="6377003" string="Go find {@linkcreature:63#9000} in Velika." />
+    <String id="6382001" string="Enchanting for Dummies" />
+    <String id="6382002" string="Let's get started." />
+    <String id="6382003" string="Alkahest lets you enchant an item up to +6." />
+    <String id="6382004" string="&quot;Understood.&quot;" />
+    <String id="6382005" string="Speak with {@linkcreature:63#1605}." />
+    <String id="6382006" string="Enchant the provided rare weapon using the normal quality item." />
+    <String id="6382007" string="Successful enchantment." />
+    <String id="6382008" string="&quot;All right.&quot;" />
+    <String id="6382009" string="Successful enchantment. Speak with {@linkcreature:63#1605}." />
+    <String id="6382010" string="Enchant the provided rare weapon using the uncommon quality item." />
+    <String id="6382011" string="Successful enchantment." />
+    <String id="6382012" string="&quot;Thank you.&quot;" />
+    <String id="6382013" string="Successful enchantment. Speak with {@linkcreature:63#1605}." />
+    <String id="6390001" string="Rockabye Kumas" />
+    <String id="6390002" string="Win in the Kumasylum." />
+    <String id="6390003" string="Win in the Kumasylum." />
+    <String id="6390004" string="&quot;All in a day's work!&quot;" />
+    <String id="6390005" string="Find Surah at the Valkyon Headquarters in Velika." />
+    <String id="6393001" string="Kumas in the Cradle" />
+    <String id="6393002" string="Win in the Kumasylum." />
+    <String id="6393003" string="Win in the Kumasylum." />
+    <String id="6393004" string="&quot;All in a day's work!&quot;" />
+    <String id="6393005" string="Find Surah at the Valkyon Headquarters in Velika." />
+    <String id="6394001" string="Rockin' the Kumas Cradle" />
+    <String id="6394002" string="Win in the Kumasylum." />
+    <String id="6394003" string="Win in the Kumasylum." />
+    <String id="6394004" string="&quot;All in a day's work!&quot;" />
+    <String id="6394005" string="Find Surah at the Valkyon Headquarters in Velika." />
+    <String id="6399001" string="The Eye of the Fire" />
+    <String id="6399002" string="Challenge the crucible, if you're brave enough." />
+    <String id="6399003" string="Aim for a higher score next time." />
+    <String id="6399004" string="&quot;I'm so ready!&quot;" />
+    <String id="6399005" string="Ask Vold to explain the challenge." />
+    <String id="6399006" string="Cyclops Eye" />
+    <String id="6399007" string="Eliminate the cyclops in the Crucible Bower." />
+    <String id="6399008" string="Show the cyclops eye to Vold as proof." />
+    <String id="6399009" string="&quot;You call that a challenge?&quot;" />
+    <String id="7201001" string="A Letter from Fraya" />
+    <String id="7201002" string="Thank you for coming so far. Catch your breath, and then we'll talk." />
+    <String id="7201003" string="&quot;I thank you.&quot;" />
+    <String id="7201004" string="Go to Allemantheia Headquarters and meet Fraya." />
+    <String id="7202001" string="Search for Research" />
+    <String id="7202002" string="I told Jerad I'd send help. You are that help." />
+    <String id="7202003" string="Sirjuka Gallery, eh?" />
+    <String id="7202004" string="&quot;Understood.&quot;" />
+    <String id="7202005" string="Go to Collegium Arcane and meet Jerad." />
+    <String id="7202006" string="" />
+    <String id="7202007" string="" />
+    <String id="7202008" string="" />
+    <String id="7202009" string="" />
+    <String id="7202010" string="" />
+    <String id="7202011" string="" />
+    <String id="7202012" string="" />
+    <String id="7202013" string="" />
+    <String id="7202014" string="Speak to {@linkcreature:72#1450#Armis}." />
+    <String id="7202015" string="&quot;I'm on the case.&quot;" />
+    <String id="7202016" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202017" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202018" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202019" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202020" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202021" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202022" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202023" string="Speak to {@linkcreature:72#1450#Armis} to enter Malachai's Lab. Find the experimental journal." />
+    <String id="7202024" string="Pick up Malachai's experimental journal." />
+    <String id="7202025" string="Examine the book stand that appeared in the central hall of Malachai's Lab." />
+    <String id="7202026" string="&quot;I've got it.&quot;" />
+    <String id="7202027" string="Deliver Malachai's experimental journal to Jerad." />
+    <String id="7202028" string="Deliver Malachai's experimental journal to Jerad." />
+    <String id="7202029" string="&quot;Glad to help.&quot;" />
+    <String id="7202030" string="Go to Allemantheia Headquarters and meet Fraya." />
+    <String id="7203001" string="Ominous Traces" />
+    <String id="7203002" string="Hurry! No one else can know that Thulsa was experimenting in Sirjuka Gallery." />
+    <String id="7203003" string="Let me summon a teleportal to Sirjuka Gallery." />
+    <String id="7203004" string="&quot;Understood.&quot;" />
+    <String id="7203005" string="Go to Collegium Arcane and meet Jerad." />
+    <String id="7203006" string="&quot;I get it.&quot;" />
+    <String id="7203007" string="After speaking with Armis, go to Malachai's Lab and meet with Jerad." />
+    <String id="7203008" string="Eliminate the {@linkcreature:428#2000#wretched blood fiend}." />
+    <String id="7203009" string="&quot;It was my duty.&quot;" />
+    <String id="7203010" string="Return to Allemantheia and speak to Jerad." />
+    <String id="7204001" string="A Tour of the Gallery" />
+    <String id="7204002" string="I'll follow as soon as I'm ready." />
+    <String id="7204003" string="I thank you on behalf of Allemantheia and the High Elves." />
+    <String id="7204004" string="&quot;Got it.&quot;" />
+    <String id="7204005" string="Go through the Sirjuka Gallery teleportal and speak to Jerad." />
+    <String id="7204006" string="Protect the crystal from Barkud." />
+    <String id="7204007" string="&quot;Will do.&quot;" />
+    <String id="7204008" string="Return to Allemantheia and speak to Jerad." />
+    <String id="7204009" string="&quot;I thank you.&quot;" />
+    <String id="7204010" string="Go to Allemantheia Headquarters and speak to Fraya." />
+    <String id="12113001" string="Adiar Must Die" />
+    <String id="12113002" string="Slay the Free Traders executor in Fort Tulufan." />
+    <String id="12113003" string="&quot;May the Enlightened Union prevail!" />
+    <String id="12113004" string="Report to {@linkcreature:122#9001#Derene}." />
+    <String id="12114001" string="Adiar Must Die" />
+    <String id="12114002" string="Slay the Free Traders executor in Fort Tulufan." />
+    <String id="12114003" string="&quot;Thank you.&quot;" />
+    <String id="12114004" string="Report to {@linkcreature:123#9001#Frateko}." />
+    <String id="12115001" string="Executor Protection" />
+    <String id="12115002" string="Adiar, the Free Traders executor, is under attack in Fort Tulufan! Defend him!" />
+    <String id="12115003" string="&quot;For the collective!&quot;" />
+    <String id="12115004" string="Report to {@linkcreature:121#9001#Adiar}." />
+    <String id="12213001" string="Derene Must Die" />
+    <String id="12213002" string="Slay the Enlightened Union executor in Fort Elenea." />
+    <String id="12213003" string="&quot;For the collective!&quot;" />
+    <String id="12213004" string="Report to {@linkcreature:121#9001#Adiar}." />
+    <String id="12214001" string="Derene Must Die" />
+    <String id="12214002" string="Slay the Enlightened Union executor in Fort Elenea." />
+    <String id="12214003" string="&quot;Thank you.&quot;" />
+    <String id="12214004" string="Report to {@linkcreature:123#9001#Frateko}." />
+    <String id="12215001" string="Executor Protection" />
+    <String id="12215002" string="Derene, the Enlightened Union executor, is under attack in Fort Elenea! Defend her!" />
+    <String id="12215003" string="&quot;It has been my honor to guard you.&quot;" />
+    <String id="12215004" string="Report to {@linkcreature:122#9001#Derene}." />
+    <String id="12313001" string="Frateko Must Die" />
+    <String id="12313002" string="Slay the Iron Order executor in Fort Dragonfall." />
+    <String id="12313003" string="&quot;For the collective!&quot;" />
+    <String id="12313004" string="Report to {@linkcreature:121#9001#Adiar}." />
+    <String id="12314001" string="Frateko Must Die" />
+    <String id="12314002" string="Slay the Iron Order executor in Fort Dragonfall." />
+    <String id="12314003" string="&quot;May the Enlightened Union ever prevail!" />
+    <String id="12314004" string="Report to {@linkcreature:122#9001#Derene}." />
+    <String id="12315001" string="Executor Protection" />
+    <String id="12315002" string="Frateko, the Iron Order executor, is under attack in Fort Dragonfall! Defend him!" />
+    <String id="12315003" string="&quot;For the Iron Order!&quot;" />
+    <String id="12315004" string="Report to {@linkcreature:123#9001#Frateko} in Fort Dragonfall." />
+    <String id="42471001" string="(Guild) Suppression Orders: Kaprima" />
+    <String id="42471002" string="Proof of Kill: Kaprima" />
+    <String id="42471003" string="&quot;For the federation.&quot;" />
+    <String id="42471004" string="Defeat {@LinkCreature:424#2000} in the {@Rgn:9024001}." />
+    <String id="42471005" string="Report to the nearest guild quest coordinator." />
+    <String id="42481001" string="Suppression Orders: Kaprima" />
+    <String id="42481002" string="Proof of Kill: Kaprima" />
+    <String id="42481003" string="&quot;For the federation.&quot;" />
+    <String id="42481004" string="Defeat {@LinkCreature:424#2000} in the {@Rgn:9024001}." />
+    <String id="42481005" string="Report to the nearest guild quest coordinator." />
+    <String id="45301001" string="Treasure of the Giant" />
+    <String id="45301002" string="Hand over the recommendation letter." />
+    <String id="45301003" string="Check Jelena’s recommendation letter and go to Penrik." />
+    <String id="45301004" string="&quot;Okay, I'm in.&quot;" />
+    <String id="45301005" string="Talk to Penrik." />
+    <String id="45301006" string="Kezzel's Gorge" />
+    <String id="45301007" string="You’ve arrived at Kezzel's Gorge." />
+    <String id="45301008" string="Use a teleportal to enter Kezzel's Gorge." />
+    <String id="45301009" string="&quot;I understand.&quot;" />
+    <String id="45301010" string="Talk to Penrik." />
+    <String id="45301011" string="Operate the trap device." />
+    <String id="45301012" string="Defeat the Stone Giant." />
+    <String id="45301013" string="&quot;I got it.&quot;" />
+    <String id="45301014" string="Talk to Penrik." />
+    <String id="47821001" string="Ghufran's Revenge" />
+    <String id="47821002" string="The curse must be broken!" />
+    <String id="47821003" string="&quot;I'm on my way.&quot;" />
+    <String id="47821004" string="Go to Georrif in Acarum and see what he knows." />
+    <String id="47821005" string="&quot;I'm on it.&quot;" />
+    <String id="47821006" string="Go to Ghufran in the Acarum Boneyard." />
+    <String id="47821007" string="Ghufran" />
+    <String id="47821008" string="Key Scroll" />
+    <String id="47821009" string="Activate the teleportal with the key scroll." />
+    <String id="47821010" string="&quot;For Ghufran!&quot;" />
+    <String id="47822001" string="The Mountain of Chains" />
+    <String id="47822002" string="It ends here." />
+    <String id="47822003" string="We should name the mountain after you." />
+    <String id="47822004" string="Eliminate the guards in the lab" />
+    <String id="47822005" string="&quot;Nor I you, Ghufran.&quot;" />
+    <String id="47822006" string="Return to Ghufran." />
+    <String id="47891001" string="Missing but Not Dead" />
+    <String id="47891002" string="Proof of Kill: Suryati's Slaves" />
+    <String id="47891003" string="&quot;You, too.&quot;" />
+    <String id="47891004" string="Eliminate Kaidun's former soldiers on Suryati's Peak." />
+    <String id="47891005" string="Report to Karihne." />
+    <String id="47892001" string="The Guardians of the Lab" />
+    <String id="47892002" string="Proof of Kill: Argon Guards" />
+    <String id="47892003" string="&quot;For the federation!&quot;" />
+    <String id="47892004" string="Eliminate Suryati's guards." />
+    <String id="47892005" string="Report to Kahrine." />
+    <String id="47921001" string="Remaining Argon's Hideout" />
+    <String id="47921002" string="Kill remaining Argons." />
+    <String id="47921003" string="&quot;For Valkyon!&quot;" />
+    <String id="47921004" string="Report to Tryphena at Relic Hunter Outpost." />
+    <String id="47921005" string="Tryphena" />
+    <String id="47921006" string="Argon Key" />
+    <String id="47921007" string="Find the argon teleportal." />
+    <String id="47921008" string="&quot;Let's do this.&quot;" />
+    <String id="47922001" string="Blowback" />
+    <String id="47922002" string="This will not be easy, wingless one." />
+    <String id="47922003" string="May victory always be yours!" />
+    <String id="47922004" string="Enter the Ascent of Saravash and clear it out." />
+    <String id="47922005" string="&quot;All in a day's work.&quot;" />
+    <String id="47922006" string="Report to Tryphena at Relic Hunter Outpost." />
+    <String id="47991001" string="Suppression Orders: Ascent of Saravash" />
+    <String id="47991002" string="Proof of Kill: Argon Lieutenants" />
+    <String id="47991003" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="47991004" string="Kill Saravash and its argon lieutenants in Ascent of Saravash." />
+    <String id="47991005" string="Report to Arkaius, Kaia's Sword Commander." />
+    <String id="48021001" string="The Immortal Dragon" />
+    <String id="48021002" string="With Skulregnath's aid, Dagon's minions might actually raise him!" />
+    <String id="48021003" string="&quot;On my way.&quot;" />
+    <String id="48021004" string="Report to Felion at Manafire Outpost." />
+    <String id="48021005" string="&quot;Got it.&quot;" />
+    <String id="48021006" string="Go to Mallon near the Raintree Oasis." />
+    <String id="48021007" string="Mallon " />
+    <String id="48021008" string="Dragon, Schmagon" />
+    <String id="48021009" string="Find the teleportal." />
+    <String id="48021010" string="Take the scale to the teleportal." />
+    <String id="48022001" string="The Crux of the Horror" />
+    <String id="48022002" string="We must eradicate every trace of Skulregnath." />
+    <String id="48022003" string="This is the best news the province has had in ages." />
+    <String id="48022004" string="Enter Sigil Adstringo and eliminate Skulregnath and its servants." />
+    <String id="48022005" string="&quot;For Valkyon!&quot;" />
+    <String id="48022006" string="Report to Heiatha." />
+    <String id="48091001" string="Dragon, Schmagon" />
+    <String id="48091002" string="Dragon Fragment" />
+    <String id="48091003" string="&quot;For the federation.&quot;" />
+    <String id="48091004" string="Enter Sigil Adstringo and destroy Skulregnath and its servants." />
+    <String id="48091005" string="Bring the dragon fragments to Lethanial in Elenea." />
+    <String id="48221001" string="Protecting the Goodies" />
+    <String id="48221002" string="Have you met Feilia?" />
+    <String id="48221003" string="Use it wisely!" />
+    <String id="48221004" string="&quot;Thanks!&quot;" />
+    <String id="48221005" string="Ask Feilia about the Cataclysm Machine. Return to Teldun to receive some Bailey Serum." />
+    <String id="52801001" string="A Bigger, Badder Kelsaik" />
+    <String id="52801002" string="Ebon Tower" />
+    <String id="52801003" string="You've found Kelsaik's Nest (20-person raid)." />
+    <String id="52801004" string="Go to Ebon Tower in the Vale of Spires." />
+    <String id="52801005" string="Kelsaik Core" />
+    <String id="52801006" string="Kill Raid XX Kelsaik." />
+    <String id="52801007" string="Report back to Tamur." />
+    <String id="52801008" string="&quot;For the federation!&quot;" />
+    <String id="60607001" string="Investigating Special Dimension" />
+    <String id="60607002" string="Please check what's in the Special Dimension. You're the only one who can get to the truth" />
+    <String id="60607003" string="Thank you. I'll do my best not to betray your expectations" />
+    <String id="60607004" string="Enter the Special Dimension and defeat Nexus Ruler" />
+    <String id="60607005" string="Receive reward" />
+    <String id="60607006" string="Report back to Rodrigo" />
+    <String id="74301001" string="Mysterium Request from Adonis" />
+    <String id="74301002" string="Okay." />
+    <String id="74301003" string="Travel through the teleportal near Seren's Lake in Veritas District, then talk to Ukururu in Wonderholme (Normal)." />
+    <String id="74301004" string="Go inside Wonderholme (Normal) and defeat Bandersnatch and his men." />
+    <String id="74301005" string="Thank you." />
+    <String id="74301006" string="Talk to Adonis." />
+    <String id="74302001" string="Occupy Wonderholme" />
+    <String id="74302002" string="Enter Wonderholme (Normal) and defeat Bandersnatch and his forces." />
+    <String id="74302003" string="Thank you for your efforts on behalf of the Mysterium." />
+    <String id="74302004" string="Talk to Delegate Lena of the Mysterium." />
+    <String id="74303001" string="Occupy Wonderholme" />
+    <String id="74303002" string="Enter Wonderholme (Normal) and defeat Bandersnatch and his forces." />
+    <String id="74303003" string="Thank you for your efforts on behalf of the Mysterium." />
+    <String id="74303004" string="Talk to Delegate Lena of the Mysterium." />
+    <String id="74304001" string="Occupy Wonderholme" />
+    <String id="74304002" string="Enter Wonderholme (Normal) and defeat Bandersnatch and his forces." />
+    <String id="74304003" string="Thank you for your efforts on behalf of the Mysterium." />
+    <String id="74304004" string="Talk to Delegate Lena of the Mysterium." />
+    <String id="74305001" string="Occupy Wonderholme" />
+    <String id="74305002" string="Enter Wonderholme (Normal) and defeat Bandersnatch and his forces." />
+    <String id="74305003" string="Thank you for your efforts on behalf of the Mysterium." />
+    <String id="74305004" string="Talk to Delegate Lena of the Mysterium." />
+    <String id="74306001" string="Mission to Wonderholme" />
+    <String id="74306002" string="&quot;I'll do whatever I can.&quot;" />
+    <String id="74306003" string="Talk to Delegate Lena of the Mysterium." />
+    <String id="75001001" string="The Bleeding Edge" />
+    <String id="75001002" string="&quot;I'm ready to help.&quot;" />
+    <String id="75001003" string="Use the {@linkcreature:29#1501$$teleportal} in the Timeless Woods to reach the Rift's Edge. Talk to Vandraul as soon as you arrive." />
+    <String id="75001004" string="Enter the caves of the Rift's Edge, and defeat the monsters you find there." />
+    <String id="75001005" string="&quot;It was...challenging.&quot;" />
+    <String id="75001006" string="Talk to Vandraul." />
+    <String id="76601001" string="The Lost Noctenium Fleet" />
+    <String id="76601002" string="Shattered Fleet—Rescue Ship" />
+    <String id="76601003" string="" />
+    <String id="76601004" string="Use the teleportal by the shipwreck on one of the south shores of the Jagged Coast to go to the Shattered Fleet." />
+    <String id="76601005" string="Kill Mulmok." />
+    <String id="76601006" string="Shattered Fleet—Freighter" />
+    <String id="76601007" string="" />
+    <String id="76601008" string="Use the bridge to cross to the next ship." />
+    <String id="76601009" string="Kill Fina." />
+    <String id="76601010" string="Shattered Fleet—Flagship" />
+    <String id="76601011" string="" />
+    <String id="76601012" string="Go through the broken wall and swim across to the final ship." />
+    <String id="76601013" string="Kill Barbosa." />
+    <String id="76601014" string="&quot;I'm glad I could help.&quot;" />
+    <String id="76601015" string="Talk to Taylor." />
+    <String id="77701001" string="No Running around the Pools!" />
+    <String id="77701002" string="Channelworks" />
+    <String id="77701003" string="You have entered Channelworks." />
+    <String id="77701004" string="Enter Channelworks via the teleportal in Veritas District." />
+    <String id="77701005" string="Kerkion’s Helm" />
+    <String id="77701006" string="Investigate Channelworks." />
+    <String id="77701007" string="Talk to the Channelworks Sentinel." />
+    <String id="77701008" string="&quot;Work should be able to resume.&quot;" />
+    <String id="81001001" string="Solitary Confinement" />
+    <String id="81001002" string="&quot;I'll stop them.&quot;" />
+    <String id="81001003" string="Use the {@linkcreature:3#1000$$teleportal} to access Lakan's Prison and talk to the scout." />
+    <String id="81001004" string="Defeat Possessed Risalke." />
+    <String id="81001005" string="&quot;Thank you.&quot;" />
+    <String id="81001006" string="Talk to Jodoc in Crescentia." />
+    <String id="81101001" string="Cleansing the Wound" />
+    <String id="81101002" string="The Abscess" />
+    <String id="81101003" string="" />
+    <String id="81101004" string="Use the {@linkcreature:204#1601$$teleportal} in Fyrmount to reach the Abscess." />
+    <String id="81101005" string="Defeat Thalweg." />
+    <String id="81101006" string="Defeat Coagulus." />
+    <String id="81101007" string="Defeat Krakatox." />
+    <String id="81101008" string="&quot;Okay.&quot;" />
+    <String id="81101009" string="Talk to Sophilia." />
+    <String id="81301001" string="Protecting Ghillieglade" />
+    <String id="81301002" string="Ghillieglade" />
+    <String id="81301003" string="You have discovered Ghillieglade." />
+    <String id="81301004" string="Use the {@linkcreature:203#1502$$teleportal} in Deva Silva to access the Ghillieglade." />
+    <String id="81301005" string="Gatekeeper's Grotto" />
+    <String id="81301006" string="" />
+    <String id="81301007" string="Locate the Gatekeeper." />
+    <String id="81301008" string="Guardian's Plaza" />
+    <String id="81301009" string="" />
+    <String id="81301010" string="Protect the injured Gatekeeper until it destroys all the coercive shards. Then, go to the Guardian's Plaza, or carry on straight to Banyakas's Sanctum." />
+    <String id="81301011" string="Banyakas’s Sanctum" />
+    <String id="81301012" string="" />
+    <String id="81301013" string="Protect the recovering Guardian until it destroys the hypnotic stone. Then make your way to Banyakas’s Sanctum." />
+    <String id="81301014" string="Free Banyakas from the influence of the Dominolith." />
+    <String id="81301015" string="&quot;Okay.&quot;" />
+    <String id="81301016" string="Talk to the Ghilliedhu Elder." />
+    <String id="90105001" string="Seven Wins for Seven Seas" />
+    <String id="90105002" string="Achieve 7 victories in Corsairs' Stronghold." />
+    <String id="90105003" string="" />
+    <String id="90105004" string="&quot;I'll take that.&quot;" />
+    <String id="90105005" string="Report your victory to Surah at Velika Headquarters." />
+    <String id="90106001" string="Victory over Madness" />
+    <String id="90106002" string="Achieve 5 victories in Kumasylum." />
+    <String id="90106003" string="" />
+    <String id="90106004" string="&quot;I'm happy to help, really.&quot;" />
+    <String id="90106005" string="Report victory to Surah at Velika Headquarters." />
+    <String id="90107001" string="Seven Kinds of Crazy" />
+    <String id="90107002" string="Achieve 7 victories in Kumasylum." />
+    <String id="90107003" string="" />
+    <String id="90107004" string="&quot;You're too kind.&quot;" />
+    <String id="90107005" string="Report victory to Surah at Velika Headquarters." />
+    <String id="90108001" string="Hit 'Em Hard, Hit 'Em Fast" />
+    <String id="90108002" string="Achieve 5 victories in Corsairs' Stronghold." />
+    <String id="90108003" string="" />
+    <String id="90108004" string="&quot;Much appreciated.&quot;" />
+    <String id="90108005" string="Report victory to Surah at Velika Headquarters." />
+    <String id="102251001" string="A Request From...Someone" />
+    <String id="102251002" string="&quot;Sounds important.&quot;" />
+    <String id="102251003" string="Leave now." />
+    <String id="102261001" string="Boundary Explorer" />
+    <String id="102261002" string="Go take a look for yourself. We'll talk later." />
+    <String id="102261003" string="I look forward to working with you again." />
+    <String id="102261004" string="Go to the nexus." />
+    <String id="102261005" string="Thank you." />
+    <String id="102261006" string="Report back to Rodrigo at Zulfikar Fortress on the Khanovar Front." />
+    <String id="999802001" string="Option: Take the Candy and Run!" />
+    <String id="999802002" string="[Kumasylum] Win a match in Kumasylum again." />
+    <String id="999802003" string="Claim your reward!" />
+    <String id="999860001" string="Option: Back to the Past-ure" />
+    <String id="999860002" string="Use Instance Matching and complete a Blast From the Past dungeon again." />
+    <String id="999860003" string="Claim your reward!" />
+    <String id="999888001" string="Option: Taproot Shortage" />
+    <String id="999888002" string="[Harvest Festival] We are short of taproots for making lunchboxes for Tuwangis. Please collect some taproots." />
+    <String id="999888003" string="Taproot" />
+    <String id="999888004" string="Complete the Vanguard Initiative order and claim your reward!" />
+    <String id="999888005" string="Taproot" />
+    <String id="999902001" string="Take the Candy and Run!" />
+    <String id="999902002" string="[Kumasylum] Win a match in Kumasylum" />
+    <String id="999902003" string="Claim your reward!" />
+    <String id="999958001" string="Defeat Akdevan Imperial Officers" />
+    <String id="999958002" string="Defeat Akdevan Imperial Officers" />
+    <String id="999958003" string="Akdevan Imperial Officer" />
+    <String id="999958004" string="Complete Valkyon Scout's order and claim your prize!" />
+    <String id="999959001" string="Dare You Touch National Treasures?" />
+    <String id="999959002" string="Ambush Tomb Robbers Camp, give the robbers a lesson, and retrieve the stolen Ancient Gold Coins." />
+    <String id="999959003" string="Stolen Ancient Gold Coin" />
+    <String id="999959004" string="Complete Valkyon Scout's order and claim your prize!" />
+    <String id="999960001" string="Back to the Past-ure" />
+    <String id="999960002" string="Use Instance Matching and complete a Blast From the Past dungeon." />
+    <String id="999960003" string="Claim your reward!" />
+    <String id="999971001" string="Mystery of Sanctuary" />
+    <String id="999971002" string="One scout said there is a secretive sanctuary where you can earn very special blessings. Go look for it." />
+    <String id="999971003" string="Complete Valkyon Scout's order and claim your prize!" />
+    <String id="999988001" string="Taproot Shortage" />
+    <String id="999988002" string="[Harvest Festival] Collect taproots for tuwangi lunchboxes." />
+    <String id="999988003" string="Taproot" />
+    <String id="999988004" string="Claim your reward!" />
+    <String id="999988005" string="Taproot" />
+    <String id="999990001" string="Let's Have A Snowball Fight!" />
+    <String id="999990002" string="[Wintera Snowfield] Seize victory in Wintera Snowfield." />
+    <String id="999990003" string="Claim your reward!" />
+</StrSheet_Quest>

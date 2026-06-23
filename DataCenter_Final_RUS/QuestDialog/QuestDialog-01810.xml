@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="0">Родос рассказал о трупах барака, обнаруженных в районе Хэйвенстоуна.&lt;BR&gt;Отправившись на Каменоломню Диранас, вы осмотрели тела и провели ритуал, дарующий покой их душам.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="4">Ты же &lt;PCNAME&gt;, верно?&lt;BR&gt;&lt;BR&gt;Гонец передавал для тебя сообщение. Предводитель кирийцев Родос хочет с тобой поговорить.&lt;BR&gt;&lt;BR&gt;Он просил передать, что будет ждать на западной дороге.&lt;NEXTPAGEBUTTON&gt;"Спасибо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1102">
+        <Page social="4">Я нашел тела солдат-барака, и в том, как они погибли, есть что-то странное.&lt;BR&gt;&lt;BR&gt;Ты можешь взглянуть на них и сказать, что ты по этому поводу думаешь? Барака доверяют тебе, а я хотел бы подтвердить свои подозрения.&lt;NEXTPAGEBUTTON&gt;"Конечно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1015">
+        <Page social="4">(Похоже, что раны на теле мертвого барака нанесло пламя.)&lt;NEXTPAGEBUTTON&gt;"Любопытно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1016">
+        <Page social="4">(Этот барака был убит ударом сзади.)&lt;NEXTPAGEBUTTON&gt;Закончить осмотр.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1102">
+        <Page social="4">Я так и знал! Архидеванцы!&lt;BR&gt;&lt;BR&gt;Ожоги это подтверждают, а то, что барака не ожидали нападения, говорит, что их атаковали под покровом ночной темноты. На них напали из засады!&lt;BR&gt;&lt;BR&gt;Это дурной знак, &lt;PCNAME&gt;. Мертвецы, не увидевшие лица своего убийцы, могут вернуться в облике мстительных духов и до скончания дней скитаться по этой дороге. Нам нужно провести ритуал утешения, чтобы их души обрели покой.&lt;NEXTPAGEBUTTON&gt;"Хм-м... а это долго?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Наверняка тебя это удивит, но подобный похоронный обычай есть и у барака, и у кирийцев. Забавное совпадение.&lt;BR&gt;&lt;BR&gt;Я прикажу Хоакиму и Донакиму собрать булыжники, чтобы соорудить надгробия.&lt;BR&gt;&lt;BR&gt;А тебе тем временем нужно поймать души барака в лежащие рядом с их телами камни, а затем обмыться овечьей кровью, чтобы к тебе не пристал запах солдатских душ. Если не сделать этого, они будут преследовать тебя до конца жизни.&lt;NEXTPAGEBUTTON&gt;"Эм-м... конечно. Нельзя этого допускать".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1102">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Я ценю такое уважение к нашей культуре.&lt;BR&gt;&lt;BR&gt;Хоаким и Донаким соорудили надгробия для всех убитых барака. Тебе осталось лишь положить на их надгробия камни душ, чтобы духи воинов обрели покой в загробной жизни.&lt;NEXTPAGEBUTTON&gt;"Хорошо. Мне не терпится начать".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1102">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Я знал, что на тебя можно рассчитывать.&lt;BR&gt;&lt;BR&gt;А когда придет время, я знаю, что ты поможешь мне заставить расплатиться тех, кто сделал это... расплатиться собственной кровью!&lt;NEXTPAGEBUTTON&gt;(Кивнуть.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

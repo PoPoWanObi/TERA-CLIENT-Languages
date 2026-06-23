@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0">И {@LinkCreature:41#2008#Болотные}, и {@LinkCreature:41#2009#Трясинные тентакуллары} живут в двух &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-37835,67917,1178&amp;type=1&amp;name=Caves"&gt;пещерах&lt;/A&gt;&lt;/font&gt; к северу отсюда.&lt;BR&gt;&lt;BR&gt;Мы пьем их кровь, чтобы стать сильными, а также предлагаем ее в дар в знак дружбы. Кубан собирается нанести визит вождям орканских племен. Это было бы прекрасным предложением мира.&lt;BR&gt;&lt;BR&gt;Передашь немного {@LinkCreature:241#1013#Кубану}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="0">М-м-м, как пахнет! Держусь из последних сил, чтобы не выпить все самому.&lt;BR&gt;&lt;BR&gt;Ну, разве что глоточек...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1013">
+        <Page social="0">Кровь тентакуллара - славный дар племенам, которых я хочу обратить на путь мира.</Page>
+    </Text>
+</QuestDialog>

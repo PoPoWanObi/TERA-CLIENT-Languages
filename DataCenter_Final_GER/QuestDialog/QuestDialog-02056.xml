@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="0">&lt;PCNAME&gt; kämpfte sich zur Luftschiffplattform durch und ging an Bord, um die Parthianer von oben zu überfallen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="4">Ich möchte, dass Ihr Euch hinter den Feind bewegt, indem Ihr Eure seltsamen Flugmaschinen benutzt.&lt;BR&gt;&lt;BR&gt;Wir nehmen sie in die Zange und treffen uns in der Mitte!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2132">
+        <Page social="4">Um zur Luftschiffplattform zu gelangen, werdet Ihr Euch durch die Erzdevaner im nördlichen Tal kämpfen müssen.&lt;BR&gt;&lt;BR&gt;Sobald Ihr alle erledigt habt, könnt Ihr in Euer Schiff steigen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2133">
+        <Page social="4">Ich habe Euch kämpfen sehen. Ihr seid ziemlich geschickt. Gut zu wissen, dass Seir immer noch die besten auswählt.&lt;BR&gt;&lt;BR&gt;Wir müssen einige Ersatzteile für das Luftschiff bergen. Ich kann nicht ohne sie gehen.&lt;BR&gt;&lt;BR&gt;Findet die Kisten und schafft sie zu Garog.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2103">
+        <Page social="4">Gelobt sei Kaia, Ihr habt sie gefunden!&lt;BR&gt;&lt;BR&gt;Ich werde das Luftschiff zum Laufen bringen. Ihr geht an Bord. Der Angriff kann endlich beginnen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="2103">
+        <Page social="0">Ohne die Teile geht diese Mission nirgendwo hin.</Page>
+    </Text>
+</QuestDialog>

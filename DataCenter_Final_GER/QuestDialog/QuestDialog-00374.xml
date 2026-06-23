@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">Wir können nicht einfach so durch die Grotte marschieren, weil die {@LinkCreature:11#2003#Rotpeitschennachtwachen} die Gegend ständig im Auge behalten.&lt;BR&gt;&lt;BR&gt;Aber ohne diese Nachtwachen könnten wir vom Dock aus zu allen Hauptdurchgängen der Grotte gelangen.&lt;BR&gt;&lt;BR&gt;Das ist Eure Aufgabe, &lt;PCNAME&gt;. Erledigt die Nachtwachen!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1011">
+        <Page social="4">Jetzt können wir das Innere der Grotte untersuchen. Für die Föderation!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1011">
+        <Page social="0">Beseitigt diese {@LinkCreature:11#2003#Rotpeitschennachtwachen}. Sie stehen ganz oben auf unserer Liste.</Page>
+    </Text>
+</QuestDialog>

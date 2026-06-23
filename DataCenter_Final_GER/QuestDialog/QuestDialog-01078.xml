@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="4">Eure Leute nehmen alle Scherben, deshalb sterben Wendigos.&lt;BR&gt;&lt;BR&gt;Madyar sagt, Eure Leute nicht wollen Krieg mit Wendigo, aber ihr nicht aufhört mit Bergbau. Was Ihr wollt tun? Ihr helfen, eine gute Lösung zu finden?&lt;NEXTPAGEBUTTON&gt;"Ich bin hier, um zu helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Stärke wichtig für Wendigos. {@LinkCreature:34#510#Wendigofrostmagier} und {@LinkCreature:34#500#Wendigofrostweber} beziehen Energie von gelben Steinen auf Boden. Lassen sie stark wirken.&lt;BR&gt;&lt;BR&gt;Wenn Ihr gelbe Steine wegnehmt, sind sie schwach. Dann andere Wendigos sehen, dass Magier nicht stark. Sie sehen, dass Uchamba stark. Dann verstehen, dass Uchamba im Recht.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1010">
+        <Page social="4">Eure Taten entsprechen Euren Worten. Uchamba respektiert Euch und Madyar.&lt;BR&gt;&lt;BR&gt;Jetzt können wir eine gemeinsame Zukunft erschaffen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Madyar nennt gelbe Steine "Xanthinscherben". Nehmen Kraft der Magier weg.</Page>
+    </Text>
+</QuestDialog>

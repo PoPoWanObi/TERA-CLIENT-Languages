@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0">Die {@LinkCreature:41#2008#Sumpftentacullare} und die {@LinkCreature:41#2009#Schlammtentacullare} leben beide in den &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-37835,67917,1178&amp;type=1&amp;name=Höhlen"&gt;Höhlen&lt;/A&gt;&lt;/font&gt; geradewegs nördlich von hier.&lt;BR&gt;&lt;BR&gt;Wir trinken zur Stärkung ihr Blut und wir bieten es als Zeichen der Freundschaft zum Geschenk an. Kuban wird bald die Stammesführer der Orkaner treffen, und da würde es sich als geeignetes Friedensgeschenk anbieten.&lt;BR&gt;&lt;BR&gt;Würdet Ihr etwas davon für {@LinkCreature:241#1013$$Kuban} besorgen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="0">Ah, es riecht so gut. Ich darf nur nicht alles selbst trinken.&lt;BR&gt;&lt;BR&gt;Vielleicht nur ein kleines Schlückchen ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1013">
+        <Page social="0">Für die Stämme, die ich auf den Weg des Friedens einstimmen möchte, sollte das Tentacullarblut ein angemessenes Geschenk sein.</Page>
+    </Text>
+</QuestDialog>

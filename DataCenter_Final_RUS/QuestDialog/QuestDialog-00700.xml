@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="4">Пока тебе не давали заскучать кулкари, я немного разведал окрестности каньона.&lt;BR&gt;&lt;BR&gt;И обнаружил {@LinkCreature:24#19#Жутких изгибателей} и {@LinkCreature:24#20#Черных стражей}. Не думаю, что кулкари просто так пошли в наступление. Пока ты будешь сражаться с чудовищами, я послежу за кулкари. Все трофеи неси сюда. Мы во всем разберемся.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="4">Ты тоже ничего не понимаешь? Гм. Я знаю, что что-то происходит. Нужно продолжать поиски.&lt;BR&gt;&lt;BR&gt;Отдохни, и не забудь попить! Если надумаешь тут сдохнуть, я тебя воскрешу и набью морду!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">Тебе что, особое приглашение нужно? Бегом, солдат!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Богиня Велика, хранительница Города Колес, хочет видеть тебя. Ты ответил на вопросы жрицы Кьебелл, после чего Велика сама приняла тебя. Она рассказала об угрозе, которая нависла над ее городом и попросила о помощи.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Детали задания:&lt;BR&gt;&lt;BR&gt;Немедленно вернись в Велику и доложи генералу Самаэлю. Все остальные приказы считать недействительными.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">А, &lt;PCNAME&gt;. Похоже, Велика решила лично наградить тебя за твои подвиги.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#1167#Жрица Велики Кьебел} ждет тебя у статуи богини. Надеюсь, что ты не заставишь ее ждать.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4">&lt;PCNAME&gt;, наконец-то! Расскажи о себе. Что ты считаешь самым главным для воина? Велика ищет бойцов, которые способны не просто слепо выполнять приказы. Валькионской Федерации сейчас как никогда нужны верные защитники.&lt;BR&gt;&lt;BR&gt;Кем ты себя считаешь: беспрекословным воином приказов или же мудрым стратегом?&lt;NEXTPAGEBUTTON&gt;"Я - мудрый воин".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Отличный ответ! Хорошо сказано.&lt;BR&gt;&lt;BR&gt;Велике нужны не просто солдаты, которые слепо выполнят приказ, и не просто мудрые стратеги, которые смогут все спланировать, но не будут готовы отдать свою жизнь. Наш мир стоит на распутье. Но как изменить течение Мира Грез?&lt;BR&gt;&lt;BR&gt;Это смогут сделать лишь мудрые воины, которые не просто будут выполнять приказы, но и понимать - зачем они это делают.&lt;BR&gt;&lt;BR&gt;Спасибо, &lt;PCNAME&gt;. Было приятно с тобой пообщаться.&lt;BR&gt;&lt;BR&gt;Велика ждет тебя.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="409" prevId="4" villagerId="1001">
+        <Page social="4">Наконец мы встретились, &lt;PCNAME&gt;. Я следила за твоими успехами. Твоя служба была честна и достойна, но, что самое главное - в тебе есть сострадание и милосердие.&lt;BR&gt;&lt;BR&gt;Мне нужны такие воины.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1167">
+        <Page social="4">С возвращением! Не забывай сказанное богиней. Твой долг - защитить город - и сам Мир Грез.&lt;BR&gt;&lt;BR&gt;А сейчас возвращайся к Самаэлю. До встречи.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
+        <Page social="4">Довелось поговорить с богиней?&lt;NEXTPAGEBUTTON&gt;"Да".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Это большая честь. Она не так просто выбирает себе собеседников.&lt;BR&gt;&lt;BR&gt;Должно быть Велика что-то в тебе разглядела.&lt;BR&gt;&lt;BR&gt;Интересно, что? Ха!</Page>
+    </Text>
+</QuestDialog>

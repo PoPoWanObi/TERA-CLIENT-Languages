@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="5">J'adore les listes, pas vous?&amp;nbsp; Quand on croit en voir le bout, on s'aperçoit immanquablement qu'on a oublié des pages entières. C'est toujours une bonne surprise.&lt;BR&gt;&lt;BR&gt;Bon!&amp;nbsp; Je vais vous demander d'aller tuer des {@LinkCreature:38#12#rejetons à crocs gloutons}. Vous me rendriez un grand service.&lt;BR&gt;&lt;BR&gt;Quand vous aurez atteint vos objectifs, allez présenter votre rapport à Elmaire, à l'Avant-poste du Cratère situé dans les Gorges de Sienna.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1009">
+        <Page social="5">Bon travail. Voici votre récompense.&lt;BR&gt;&lt;BR&gt;Continuez comme ça!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1009">
+        <Page social="0">Vous n'avez pas encore terminé votre mission.</Page>
+    </Text>
+</QuestDialog>

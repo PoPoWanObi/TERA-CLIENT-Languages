@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Хочешь отправиться на поиски приключений?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Элтиэнн} ищет кого-нибудь, кто сделает за нее грязную работу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Мы используем материалы со всего мира. Некоторые из них определяются спросом и предложением - мы же торговцы.&lt;BR&gt;&lt;BR&gt;Однако время от времени нам требуются весьма странные предметы, которые мы используем для защиты от многочисленных чудовищ в этих краях.&lt;BR&gt;&lt;BR&gt;Но нас немного. И мы не можем разорваться. Вот тут-то на сцену и выходишь ты!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Части тела! Мои любимые.&lt;BR&gt;&lt;BR&gt;Больше, чем я, их любит только {@LinkCreature:63#3003#Элтиэнн}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Охоться на {@LinkCreature:12#13#Наездников когтя Красной плети} на Острове Мистмур и принеси их зубы, когти и панцири.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Ну как был твой поход? Говорят, в это время года на Острове Мистмур особенно хорошо.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Элтиэнн} тебе заплатит.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Охоться на {@LinkCreature:12#17#Мародеров Красной плети} на Острове Мистмур и принеси их зубы, когти и панцири.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Я знала, что могу на тебя рассчитывать.</Page>
+    </Text>
+</QuestDialog>

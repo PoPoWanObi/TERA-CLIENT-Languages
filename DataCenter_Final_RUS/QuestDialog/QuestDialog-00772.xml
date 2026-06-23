@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1020">
+        <Page social="5">Мой муж, {@LinkCreature:227#1019#Джордал}, недавно присоединился к гарнизону. И мы толком не успели попрощаться. Отнесешь этот амулет к нему в &lt;font color='#660000'&gt;Кастра Мистериум&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;Скажи, что я люблю его и постоянно думаю о нем.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1019">
+        <Page social="13">Помню ли я о ней? Если дела не наладятся, то только воспоминание от меня и останется. Я должен доложить о ситуации в Кастра Мистериуме, но не думаю, что доберусь туда живым. Если только кто-нибудь мне не поможет.&lt;BR&gt;&lt;BR&gt;Сможешь пробиться через {@LinkCreature:27#1#Заляпанных глиной спороходов} и сообщить {@LinkCreature:227#1006#Эллане}, что мы не дезертировали и мы не трусы?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1006">
+        <Page social="5">Хм-м-м. Это не объясняет, почему он до сих пор там. Джордал знает, что мы запланировали. Пусть направляется сюда как можно скорее.&lt;BR&gt;&lt;BR&gt;Может быть, после того как тебе удалось уничтожить всех врагов на его пути, он изволит явиться.</Page>
+    </Text>
+</QuestDialog>

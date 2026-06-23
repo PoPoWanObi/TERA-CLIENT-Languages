@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tamur hat Euch mit einem Problem aufgesucht. Kaia hat, verzweifelt ob der vielen Verluste, beschlossen, ihr Leben zu riskieren und die Argonen im Khanovarposten anzugreifen. Ihr solltet auf Tamurs Wunsch hin eingreifen, denn wenn Kaia fällt, würde das die Moral der Truppe schwer beeinträchtigen. Kaia wollte nicht von ihrem Plan ablassen, war aber bereit, mit Euch und Hasmina in den Kampf zu ziehen. Ihr habt heroisch gekämpft, doch es waren einfach zu viele Argonen. Widerstrebend hat sich Kaia zurückgezogen, was Tamur sehr erleichtert hat.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Meldet Euch bei {@Creature:248#2001$$Tamur} in der Zitadelle von Khanovar für einen Neueinsatz höchster Priorität.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10">Danke ... Danke, dass Ihr meinen Vater gerächt habt. Aufgrund meiner Pflichten konnte ich nicht selbst Vergeltung üben.&lt;NEXTPAGEBUTTON&gt;"Euer Vater hätte das verstanden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10">Das ist richtig.&lt;BR&gt;&lt;BR&gt;Doch wir stehen gerade vor einer weiteren Krise. {@Creature:248#2010$$Kaia} will angreifen, um diesen Krieg endlich zu beenden.&lt;BR&gt;&lt;BR&gt;Ihr wisst am besten, dass die Götter ebenso schnell sterben wie die Sterblichen. Wir dürfen Kaia nicht verlieren - das wäre schlecht für die Moral!&lt;BR&gt;&lt;BR&gt;Tut mir einen Gefallen und redet ihr das aus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="2010">
+        <Page social="4">&lt;PCNAME&gt;, versucht nicht, mich aufzuhalten. Zu lange haben wir Schutzgötter die Ereignisse mit angesehen und nichts unternommen.&lt;BR&gt;&lt;BR&gt;Ich kenne das Risiko, aber das ändert nichts an meiner Pflicht gegenüber unseren Soldaten.&lt;NEXTPAGEBUTTON&gt;"Dann lasst mich wenigstens an Eurer Seite kämpfen!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Also gut. Wenn das Tamur zufriedenstellt, schließt Euch mir an. Mit Euch und {@Creature:248#2011$$Hasmina} an meiner Seite können wir es mit jedem aufnehmen!&lt;BR&gt;&lt;BR&gt;Wir brechen auf, sobald Ihr bereit seid.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="2010">
+        <Page social="4">Ich höre den Klang des Krieges - das habe ich viel zu lange nicht mehr vernommen.&lt;BR&gt;&lt;BR&gt;Wir werden den Argonen unseren Mut beweisen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2001">
+        <Page social="10">Kopf hoch. Ihr, Hasmina und {@Creature:248#2010$$Kaia} seid unseren Feinden begegnet und habt überlebt. Euer Vorbild wird unseren Truppen noch viele Jahre zur Motivation reichen.&lt;BR&gt;&lt;BR&gt;Ich schicke Euch und Hasmina nach Kanstria. Sie wartet draußen mit weiteren Informationen auf Euch.</Page>
+    </Text>
+</QuestDialog>

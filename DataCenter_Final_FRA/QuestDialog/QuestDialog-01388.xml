@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Peu soucieux de la présence des argons sur place, les chercheurs du Mysterium sont partis explorer les Trois Tours. Avant que vous n'ayez le temps de demander à Adeldur comment trouver Yasring, elle vous a demandé de mener à bien une mission de recherche, consécutivement à quoi, elle vous a dit de vous adresser à Kurance. Ce dernier vous a montré le registre des personnes portées disparues. Le nom de Yasring figurant sur la liste, vous avez décidé de mener l'enquête aux {@Rgn:9012001$$Aiguilles des Trois Tours}. Finalement, vous êtes {@gender:entré/entrée} en contact avec Greyden, le commandant de l'escouade des éclaireurs, qui vous a promis de vous aider.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Directive Valkyon&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Rendez-vous aux Trois Tours pour y prendre contact avec Adeldur, la chercheuse du Mysterium dont {@creature:245#2003$$Ronalt} a parlé, et aidez-la dans ses recherches. Tant que vous serez aux Trois Tours, tâchez de retrouver {@creature:245#2001$$Yasring}. Son rapport devrait nous être parvenu depuis longtemps.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="2001">
+        <Page social="10">Si les argons peuvent vraiment se combiner en formes encore plus terribles, cette guerre n'est pas encore terminée.&lt;BR&gt;&lt;BR&gt;Nous pourrons peut-être empêcher que le monde entier soit argonifié… Mais la seule façon de trouver une contremesure ou un antidote est de mener des études ici, au cœur du territoire argon.&lt;NEXTPAGEBUTTON&gt;"Je vois."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="3" villagerId="2001">
+        <Page social="4">Notre théorie principale est que les argons utilisent l'énergie vitale pour construire et alimenter ces tours. Des recherches ultérieures pourraient fournir un moyen de bloquer ou détourner cette énergie vitale.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="4" villagerId="2002">
+        <Page social="1">Adeldur a tout un tas de théories, mais une seule chose m'intéresse&amp;nbsp;: sauver notre peuple avant que les argons lui volent son "énergie vitale", même si nous ne savons pas encore tout à fait de quoi il s'agit. Je suis venu chercher quelqu'un de particulier… Quelqu'un à qui je tiens…&lt;BR&gt;&lt;BR&gt;J'imagine que vous aussi, vous cherchez quelqu'un?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"En quelque sorte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous pouvez consulter notre registre. Il n'est pas tout à fait complet, mais il dispose d'une entrée pour toutes les personnes que nous avons sauvées et toutes celles que nous cherchons encore. C'est le meilleur point de départ.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="5" villagerId="2002">
+        <Page social="1">Si vous faites partie des secours, dépêchez-vous.&lt;BR&gt;&lt;BR&gt;Nous avons un appareil spécial qui nous permet de revenir sur nos pas. Sans lui, on serait perdus depuis longtemps. Tous les couloirs se ressemblent...&lt;BR&gt;&lt;BR&gt;Suivez les empreintes de pas, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2003">
+        <Page social="0">Quand on parle des inconvénients du métier... Nous sommes des éclaireurs!&amp;nbsp; Notre mission consiste à retrouver les disparus!&amp;nbsp; Du coup, quand c'est nous qui disparaissons, qui vient nous chercher?&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="2003">
+        <Page social="0">Sauvez autant de personnes que vous pourrez, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="2003">
+        <Page social="10">Merci de votre aide. Toutefois, sachez que c'est ainsi que nous perdons régulièrement les plus dévouées d'entre nos recrues. C'est à se demander si ça vaut le coup... mais si vous pensez être de taille à relever le défi, ce n'est pas moi qui vous empêcherai de vous lancer.&lt;NEXTPAGEBUTTON&gt;"Je vais tenter ma chance."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Le registre est malheureusement incomplet. Nous recevons peu d'informations en provenance des niveaux inférieurs... ce sont des coins bien trop dangereux.&lt;BR&gt;&lt;BR&gt;Si vous avez le courage de relever le défi, allez voir Greyden, le commandant de l'escouade des éclaireurs. Il pourra certainement mettre la liste à jour.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" prevId="9" villagerId="2004">
+        <Page social="4">Impressionnant... bien peu de recrues seraient prêtes à prendre de tels risques pour se porter au secours de leurs camarades. Je vais tâcher de vous aider de mon mieux. Comment pourrais-je refuser?&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

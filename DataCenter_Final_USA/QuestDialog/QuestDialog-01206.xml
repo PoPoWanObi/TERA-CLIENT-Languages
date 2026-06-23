@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">Please...you have to help me, &lt;PCNAME&gt;! My pet dracoloth is deathly ill. He's so weak, he can hardly move. Only one thing will save him—a heart transplant!&lt;BR&gt;&lt;BR&gt;I can do the procedure, but I need a compatible heart. There's a dracoloth nearby, named Nyxarras, that's been terrorizing the area. Killing that menace and delivering its still-beating heart to me would be a boon to everyone—and would save me little precious here. Please, you have to do this for me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1027">
+        <Page social="5">Do you have it? Still beating? Fantastic!&lt;BR&gt;&lt;BR&gt;Give it to me, quickly! My precious is hanging on by a thread.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1027">
+        <Page social="0">Don't dawdle once you have Nyxarras's beating heart in your hand.</Page>
+    </Text>
+</QuestDialog>

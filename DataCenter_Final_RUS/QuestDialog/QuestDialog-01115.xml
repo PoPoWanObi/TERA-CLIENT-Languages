@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">Бедняга Джермир стонет во сне от боли.&lt;BR&gt;&lt;BR&gt;В Щетинистом овраге растет один цветок, под названием саликсия. Виверны едят его, когда им плохо. Вот я и думаю: вдруг ему тоже поможет?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, сможешь нарвать для меня этих цветов? Ради Джермира!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1027">
+        <Page social="6">Спасибо тебе! Я дам ему несколько штук, как только он придет в себя. Я уверен, скоро он встанет на ноги.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1027">
+        <Page social="0">Как только Джермир примет достаточное количество цветов саликсии, он тут же пойдет на поправку.</Page>
+    </Text>
+</QuestDialog>

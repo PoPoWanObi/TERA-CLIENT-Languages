@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Auf Melsas Geheiß habt Ihr Veliks Nachtwache in den Freilanden einen Besuch abgestattet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">[Farmerfestival]&lt;BR&gt;Die Freilande halten ihr jährliches Farmerfestival ab, um die letzten Wurzelgemüse zu ernten und die Saatsaison im Frühjahr vorzubereiten.&lt;BR&gt;&lt;BR&gt;Außer köstlichen Speisen und Getränken frisch von der Farm gibt es auch unterhaltsame Attraktionen. Wollt Ihr auch zum Farmerfestival kommen?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Schön, dass Ihr hier seid, &lt;PCNAME&gt;! Danke dass Ihr auf Leins Farm gekommen seid.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ich bin nicht sicher, was ihr noch von diesem Ort wisst. Aber mit Eurer Hilfe haben sich die Freilande erholt. Wir können endlich wieder das Farmerfestival abhalten!&lt;BR&gt;&lt;BR&gt;Wir freuen uns über Euren Besuch und alle hier sind Euch sehr dankbar für Eure Hilfe.</Page>
+    </Text>
+</QuestDialog>

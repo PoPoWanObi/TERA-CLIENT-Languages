@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">Конечно, эти твари не так опасны, как жуткие куклы, но с теми, кто населяет Катакомбы Отчаяния и Кровавые глубины я бы не шутил.&lt;BR&gt;&lt;BR&gt;Мы думали, они заторможенные и особой опасности не представляют, однако {@LinkCreature:33#8#Безжалостные дисковые жнецы}, {@LinkCreature:33#9#Бронированные дисковые жнецы}, {@LinkCreature:33#58#Мучающие дисковые жнецы} и {@LinkCreature:33#59#Роковые дисковые жнецы} сумели выследить и убить нескольких солдат и ученых.&lt;BR&gt;&lt;BR&gt;Я прошу тебя ликвидировать эту угрозу.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">О! Ты и впрямь смеешься в лицо смерти!&lt;BR&gt;&lt;BR&gt;Дисковые жнецы забрали много жизней, оставляя себе в качестве трофеев жетоны убитых! Я сражался во многих битвах, но ни в одной из них моя кровь не застывала от ужаса, только здесь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">Ну же! Тебе под силу найти Дисковых жнецов!</Page>
+    </Text>
+</QuestDialog>

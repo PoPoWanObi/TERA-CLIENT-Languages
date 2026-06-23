@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вы отправились к Хэганду, чтобы тот помог вам перезарядить Камень Относительности. Хэганд рассказал, как путешествовал в дни своей молодости. Он дал вам особое зелье, которое поможет попасть в опасные районы.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Хэганда нигде не видно.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1005">
+        <Page social="4">Хэганд хочет поговорить с тобой, прежде чем ты уйдешь. Ты найдешь его в этом здании.&lt;NEXTPAGEBUTTON&gt;"Попробую".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1004">
+        <Page social="4">Что ж, здравствуй. Исследователи сказали, что тебя зовут &lt;PCNAME&gt;, и что тебя видели рядом с высшим старейшиной Верикамом, когда его похитили. Интересно.&lt;BR&gt;&lt;BR&gt;Расскажи мне, что ты вообще здесь делаешь?&lt;NEXTPAGEBUTTON&gt;"Я ищу Каменоломню Диранас".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Хм... Халран прислал тебя? Или Гарм? Полагаю, они не предупредили тебя об опасности в каменоломнях?&lt;BR&gt;&lt;BR&gt;Конечно, нет. Слушай внимательно. Когда я последний раз был в тех краях, там всюду были архидеванцы и парфианцы. Я смог пробраться мимо них при помощи зелья невидимости... и к счастью для тебя, у меня еще немного осталось.&lt;BR&gt;&lt;BR&gt;Мне оно больше ни к чему, так что можешь его забрать. Но! Я рекомендую тебе сперва испытать его в спокойной обстановке, чтобы научиться двигаться под его действием.&lt;NEXTPAGEBUTTON&gt;"Что ж, чем раньше, тем лучше".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1004">
+        <Page social="4">Хм... Я тебя все еще вижу. Ну, может быть, ты немного зеленее.&lt;BR&gt;&lt;BR&gt;Как я и боялся, у зелья истек срок годности. Надо было выкинуть его раньше выкинуть.&lt;NEXTPAGEBUTTON&gt;"Может быть, ты можешь сделать новое?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Если есть желание, будет и возможность.&lt;BR&gt;&lt;BR&gt;У меня есть все необходимое, кроме двух компонентов. Ты сможешь добыть их?&lt;BR&gt;&lt;BR&gt;Первый из компонентов - отражающий корень, чтобы обмануть случайный взгляд.&lt;BR&gt;&lt;BR&gt;Второй - мутные глаза, чтобы отвести пристальный взор.&lt;BR&gt;&lt;BR&gt;Оба этих компонента довольно легко найти, но не так просто добыть.&lt;NEXTPAGEBUTTON&gt;"Тогда принимайся за работу. А я достану компоненты".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1004">
+        <Page social="4">Так быстро? Десять лет назад мне понадобилась неделя, чтобы достать компоненты.&lt;BR&gt;&lt;BR&gt;К счастью, зелье почти готово. Подожди еще минутку.&lt;NEXTPAGEBUTTON&gt;"Не торопись. Главное, чтобы оно сработало".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1004">
+        <Page social="4">Готово!&lt;BR&gt;&lt;BR&gt;Слушай внимательно. Эффект зелья длится не так уж долго, так что не пей его, пока не доберешься до Каменоломни Диранас. Собери камни и сразу же уходи.&lt;BR&gt;&lt;BR&gt;И запомни, ты ничего не почувствуешь, когда зелье закончит действовать.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Понятно".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

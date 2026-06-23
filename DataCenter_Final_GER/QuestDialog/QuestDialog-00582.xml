@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Ja, ich weiß. Immer dieselbe alte Leier von "Ins Lager zurück wegen der Sicherheit". Mir doch egal!&lt;BR&gt;&lt;BR&gt;Also, seid Ihr jetzt gewillt, zu helfen?&lt;NEXTPAGEBUTTON&gt;"Ich habe mich jedenfalls nicht freiwillig gemeldet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich habe Euch freiwillig gemeldet. Ich untersuche die Zivilisation der Riesen, finde aber nicht genügend historische Dokumente, um ein genaueres Bild davon zu bekommen. Doch {@LinkCreature:18#17#Uralte Teralithen} könnten mich weiterbringen, denn sie tragen Inschriften.&lt;BR&gt;&lt;BR&gt;Wenn Ihr mir ein paar davon beschaffen könnt, wäre ich Euch sehr dankbar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Oh, schaut Euch nur diese Inschriften an! Sie sind genau das, was ich mir erhoffte.&lt;BR&gt;&lt;BR&gt;Diese Bilder werden mich eine Menge lehren. Gute Arbeit!&lt;BR&gt;&lt;BR&gt;Hier, nehmt dies für Eure Mühen. Ich weiß, es ist nicht viel, aber so weit weg vom Lager ist das alles, was ich kriegen kann.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Wenn Ihr hier nach Uralten Teralithen Ausschau haltet, könnt Ihr lange suchen.&lt;BR&gt;&lt;BR&gt;Also los! Seid Ihr dabei oder nicht?</Page>
+    </Text>
+</QuestDialog>

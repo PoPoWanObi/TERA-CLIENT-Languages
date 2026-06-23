@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="4">Hey! I have a favor to ask!&lt;BR&gt;&lt;BR&gt;Today is my brother's birthday. Mine too, so to speak. We awakened in Pora Elinu and stuck together ever since.&lt;NEXTPAGEBUTTON&gt;"Happy birthday."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thanks! Now, my brother {@LinkCreature:225#2002$$Shurin} is in charge of planning the party this year. If I teleport you to him, can you find out if things are ready?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="2002">
+        <Page social="4">{@LinkCreature:225#2001$$Maoran} sent you? Curse his impatience!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:225#2000$$Deirin} ordered special cookies from Popolion, but I don't know if they'll make it here in time.&lt;BR&gt;&lt;BR&gt;Could you head to Cathedral Redbout and ask {@LinkCreature:225#2000$$Deirin} about the cookies?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="2000">
+        <Page social="4">Gah! I wish they'd stop worrying. They're fine. I left them in a crate at the Crusader Camp.&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:225#2001$$Maoran} not to worry so much!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="4" villagerId="2001">
+        <Page social="4">Heehee! Cookies for the party!&lt;BR&gt;&lt;BR&gt;If you're not too busy slaying Scions, you should stop by later! Those cookies are to die for.&lt;BR&gt;&lt;BR&gt;Well, you know what I mean.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Eines muss man den Darmschlitzern lassen: Sie sind hartnäckig. Obwohl sie argonifiziert sind, haben sie immer noch {@LinkCreature:46#202#Argonomorphschamanen}. Ich weiß nicht, ob sie noch eine religiöse Funktion ausüben, aber sie müssen auf jeden Fall sterben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">Die Argonomorphschamanen zu töten war wohl eine gute Sache. Jetzt können sie nicht mehr "mit den Geistern kommunizieren" oder so etwas.</Page>
+    </Text>
+</QuestDialog>

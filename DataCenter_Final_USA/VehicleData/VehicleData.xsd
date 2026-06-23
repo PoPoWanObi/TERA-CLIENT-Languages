@@ -1,0 +1,40 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/VehicleData" targetNamespace="https://vezel.dev/novadrop/dc/VehicleData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
+    <xsd:complexType name="VehicleData">
+        <xsd:sequence>
+            <xsd:element name="Vehicle" type="VehicleData_Vehicle" maxOccurs="unbounded" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="VehicleData_Vehicle">
+        <xsd:sequence>
+            <xsd:element name="GuildLogo" type="VehicleData_Vehicle_GuildLogo" minOccurs="0" />
+            <xsd:element name="RaceOverride" type="VehicleData_Vehicle_RaceOverride" minOccurs="0" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="animTypeName" type="xsd:string" use="required" />
+        <xsd:attribute name="basicActionId" type="xsd:int" use="required" />
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+        <xsd:attribute name="isTransFormVehicle" type="xsd:boolean" />
+        <xsd:attribute name="mountAngle" type="xsd:float" use="required" />
+        <xsd:attribute name="mountDistance" type="xsd:float" use="required" />
+        <xsd:attribute name="mountZ" type="xsd:float" use="required" />
+        <xsd:attribute name="riderSpawnEffectId" type="xsd:int" use="required" />
+        <xsd:attribute name="saddle" type="xsd:string" use="required" />
+        <xsd:attribute name="scale" type="xsd:float" use="required" />
+        <xsd:attribute name="shapeId" type="xsd:int" use="required" />
+        <xsd:attribute name="skillSetId" type="xsd:int" />
+        <xsd:attribute name="spawnEffectId" type="xsd:int" use="required" />
+        <xsd:attribute name="speed" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="VehicleData_Vehicle_GuildLogo">
+        <xsd:attribute name="defaultLogoRes" type="xsd:string" use="required" />
+        <xsd:attribute name="defaultSpecularMap" type="xsd:string" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="VehicleData_Vehicle_RaceOverride">
+        <xsd:attribute name="gender" type="xsd:string" use="required" />
+        <xsd:attribute name="mountAngle" type="xsd:float" use="required" />
+        <xsd:attribute name="mountDistance" type="xsd:float" use="required" />
+        <xsd:attribute name="mountZ" type="xsd:float" use="required" />
+        <xsd:attribute name="race" type="xsd:string" use="required" />
+        <xsd:attribute name="scale" type="xsd:float" use="required" />
+    </xsd:complexType>
+    <xsd:element name="VehicleData" type="VehicleData" />
+</xsd:schema>

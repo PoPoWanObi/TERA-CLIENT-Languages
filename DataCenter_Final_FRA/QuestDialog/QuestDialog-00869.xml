@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Ecrasez les forces de la légion et rapportez des preuves de la mort des soldats. Eliminez les {@LinkCreature:27#1#marchespores argileux}, ainsi que les {@LinkCreature:27#21#combattants enragés}, les {@LinkCreature:27#22#mystiques}, les {@LinkCreature:27#23#pourfendeurs}, les {@LinkCreature:27#24#sorciers} et les {@LinkCreature:27#25#faucheurs} de Thulsa.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Karlaina.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1007">
+        <Page social="5">Vos efforts pour affaiblir la légion sont appréciés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1007">
+        <Page social="0">Je ne suis pas en mesure de vérifier que les objectifs de mission ont été atteints. Rapportez-moi des preuves.</Page>
+    </Text>
+</QuestDialog>

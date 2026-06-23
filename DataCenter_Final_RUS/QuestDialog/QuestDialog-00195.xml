@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="5">Наша работа - обеспечивать безопасность исследователей, так что, когда им требуется какой-то особый ингредиент, добывать его приходится нам. Сейчас вот им потребовались сердца кумасов! Представляешь себе?&lt;BR&gt;&lt;BR&gt;Мне нужен хорошо подготовленный боец. Вроде тебя, &lt;PCNAME&gt;. Собери группу и достань несколько сердец {@LinkCreature:7#4#Неповоротливых кумасов}. Договорились?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1100">
+        <Page social="5">Отлично, тебе удалось раздобыть сердца. И что им потребуется в следующий раз... Одна Шара знает.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1100">
+        <Page social="0">Сердца у тебя? Исследователи из Мистериума стоят у меня над душой.</Page>
+    </Text>
+</QuestDialog>

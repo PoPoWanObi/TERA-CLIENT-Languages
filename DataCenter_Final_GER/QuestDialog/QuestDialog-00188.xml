@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="5">Alle beklagen sich über die Darmschlitzer, aber mir machen die Hyänen Ärger. Sie töten wahllos meine Tiere.&lt;BR&gt;&lt;BR&gt;Wie wär's, wenn Ihr ein paar {@LinkCreature:6#1031#Gefräßige Hyänen} oder {@LinkCreature:6#1032#Hungrige Hyänen} auf meinem Land zerfetzt?&lt;BR&gt;&lt;BR&gt;Äh ... bitte?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1001">
+        <Page social="5">Nicht schlecht, muss ich sagen. Zu dumm, dass Ihr nicht schon früher hier wart.&lt;BR&gt;&lt;BR&gt;Na ja ... immerhin etwas, oder?</Page>
+    </Text>
+</QuestDialog>

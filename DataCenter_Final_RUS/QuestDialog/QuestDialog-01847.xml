@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">В документе провидца написано &amp;quot;Найди легендарного кузнеца Мурака в его мастерской в {@LinkCreature:79#1501#Хабере}.&amp;quot;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt; Когда ты примешь задание, документ исчезнет.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">Итак, тебя привел ко мне документ провидца? Приятно познакомиться, &lt;PCNAME&gt;! Я раскрою тебе секрет моих самых лучших творений!</Page>
+    </Text>
+</QuestDialog>

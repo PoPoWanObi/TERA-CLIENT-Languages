@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="4">Как насчет небольшой игры с огнем, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Отправляйся на запад и убей нескольких {@LinkCreature:2#32#Напыщенных спороходов}, {@LinkCreature:2#22#Неуклюжих спороходов} и {@LinkCreature:2#10#Безжалостных джалмараков}.&lt;BR&gt;&lt;BR&gt;Я щедро заплачу тебе за их ядовитые шкуры.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1022">
+        <Page social="4">Продолжай в том же духе, и ты удостоишься чести защищать Кайатор на аргонском фронте, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Выше голову!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1022">
+        <Page social="0">Между нами говоря, &lt;PCNAME&gt;, если жизнь вернется в прежнее русло, тут снова станет невообразимо скучно.</Page>
+    </Text>
+</QuestDialog>

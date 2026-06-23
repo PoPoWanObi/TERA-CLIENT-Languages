@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0">Les explorateurs se plaignent des lézards de la tempête frayant dans la Barbacane d'Amena Quatla. Vous pourriez vous en occuper?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:57#6#lézards de la tempête rôdeurs}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, adressez-vous à Vevina, du Camp du Marteau pourpre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1007">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1007">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

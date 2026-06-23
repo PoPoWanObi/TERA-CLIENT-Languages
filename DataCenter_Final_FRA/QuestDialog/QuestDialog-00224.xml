@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1100">
+        <Page social="5">Protéger les chercheurs du Mysterium, c'est notre boulot. Et quand il faut risquer sa peau pour aller leur chercher des ingrédients et autres échantillons, c'est à nous de le faire. Ce coup-ci, ils ont besoin de noyaux de kumas!&amp;nbsp; Vous y croyez?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je vais avoir besoin de l'aide d'une personne de votre trempe, &lt;PCNAME&gt;. Montez un groupe et allez prélever quelques noyaux de {@LinkCreature:7#4#kumas amorphes}, vous voulez bien?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1100">
+        <Page social="5">Formidable, vous avez récupéré les noyaux. Je me demande ce qu'ils vont encore trouver le moyen de nous demander... Seule Shara pourrait le dire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1100">
+        <Page social="0">Vous avez les noyaux?&amp;nbsp; Les chercheurs du Mysterium commencent à se montrer impatients.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="4">Пока ты здесь...ты знаешь, я подумал, что будет неплохо уничтожить их вожака.&lt;BR&gt;&lt;BR&gt;Его зовут Сидурек и появился он примерно в то же время, когда наши люди стали болеть... а потом превращаться...&lt;NEXTPAGEBUTTON&gt;"Убив его мы сможем разобраться, что же здесь происходит?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Я надеюсь.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Сидурек} находится в самом сердце лагеря повстанцев, опасайся соблюдай осторожности.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1016">
+        <Page social="4">Он мертв? Хорошо. Это хорошо. Удалось отыскать какие-то подсказки?&lt;BR&gt;&lt;BR&gt;Письмо? Давай скорее.&lt;BR&gt;&lt;BR&gt;Здесь написано о ком-то по имени Малахай, Сидурек получил от него какой-то предмет и какие-то указания. Хмм.&lt;BR&gt;&lt;BR&gt;Нужно во всем разобраться.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1016">
+        <Page social="0">Ты должен убить Сидурека, пока не стало слишком поздно.</Page>
+    </Text>
+</QuestDialog>

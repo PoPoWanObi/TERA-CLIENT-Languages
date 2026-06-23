@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="4">Удалось найти моего брата? Он несколько дней назад ушел за материалами для магазина, и с тех пор я его не видела. Его зовут Паттек.&lt;BR&gt;&lt;BR&gt;Все больше и больше крестьян похищают, и я просто...&lt;BR&gt;&lt;BR&gt;Можешь отыскать его?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1024">
+        <Page social="0">(Одна старая коробка с надписью "Паттек" на ней. Следы ног вокруг коробки ведут по направлению к Темным рудникам.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1002">
+        <Page social="0">Я не смогла...недостаточно информации. Не знаю, что случилось.</Page>
+    </Text>
+</QuestDialog>

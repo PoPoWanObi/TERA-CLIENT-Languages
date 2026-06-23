@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Wart Ihr in {@Rgn:60001}?&lt;BR&gt;&lt;BR&gt;Falls Ihr durchkommen solltet, sprecht mit Tomba. Er stammt aus dem Tuwangimorast, und dort drüben scheint es eine Art Krise zu geben.&lt;BR&gt;&lt;BR&gt;Der Morast ist ein unvergleichlicher Ort, ich würde also vorschlagen, dass Ihr Euch auf jeden Fall dort umseht.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:60#1099} kann Euch hinbringen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1099">
+        <Page social="0">Ich von einem Ort, den Ihr Tuwangimorast nennt. Viele gute Tuwangi leben dort.&lt;BR&gt;&lt;BR&gt;Aber Tuwangi jetzt verrückt. Tuwangi vertreiben Menschen und wollen Welt beherrschen. Ich anders. Mag nicht kämpfen. Tuwangi verlieren, wenn sie gegen Außenstehende kämpfen.&lt;BR&gt;&lt;BR&gt;Kann Euch zu Ort bringen, den Ihr Moor nennt. Geht zu {@LinkCreature:205#1017#Rathe}. Sagt Rathe, Ihr wollt Tuwangi aufhalten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1017">
+        <Page social="5">Die hiesigen Tuwangi jammern, als würde die Welt untergehen und flehen jeden, der eine Waffe trägt, an, in den Morast zu kommen.&lt;BR&gt;&lt;BR&gt;Doch in Wirklichkeit herrscht hier im Tuwangimorast nichts als Langeweile. Die Tuwangi hier sind ziemlich gefügig - diejenigen, die das Gebiet verlassen haben und zurückgekommen sind, sind es, um die Ihr Euch Sorgen machen müsst.</Page>
+    </Text>
+</QuestDialog>

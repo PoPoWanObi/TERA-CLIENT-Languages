@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">У меня есть для тебя работа!&lt;NEXTPAGEBUTTON&gt;"Вот как?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ну, на самом деле у {@LinkCreature:63#3002#Таратии} есть для тебя работа. Но поручение, которое она тебе передаст, дала ей я, так что в каком-то смысле и у меня есть для тебя работа.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">&lt;PCNAME&gt;, у меня есть для тебя работа! То есть, технически работа для тебя есть у Элтиэнн, поскольку поручения мне выдает она. Но тебе это наверняка уже известно.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">{@LinkCreature:63#3002#Таратия} высоко о тебе отзывалась. Теперь я вижу, почему.&lt;BR&gt;&lt;BR&gt; Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Ну как дела с эссенцией молнии?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Передай {@LinkCreature:63#3002#Таратии}, что я это ценю.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Ну как дела с зерметаллической рудой?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Увидимся завтра.</Page>
+    </Text>
+</QuestDialog>

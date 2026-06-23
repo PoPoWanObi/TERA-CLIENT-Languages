@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Wir haben ein günstiges Ziel in den {@Rgn:9018001$$Argonenkatakomben}. Ich möchte, dass Ihr Euch darum kümmert.&lt;BR&gt;&lt;BR&gt;Sprecht mit {@LinkCreature:418#2003#Arigma}. Er kennt den derzeitigen Aufenthaltsort des Ziels.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Hier unten gibt es zwei Argonenkommandanten. Sie sind zwar vorsichtig, aber berechenbar.&lt;BR&gt;&lt;BR&gt;Wenn Ihr einen der Kommandanten ausschalten könnt, sollte das die Argonen aus der Fassung bringen und uns die Gelegenheit geben, die Initiative zu ergreifen.&lt;BR&gt;&lt;BR&gt;Viel Glück! Wir zählen alle auf Euch.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Oh, ich wünschte, ich hätte das miterleben dürfen. Einen Sieg dieser Art vergisst man nicht so schnell.&lt;BR&gt;&lt;BR&gt;Gute Arbeit, &lt;PCNAME&gt;. Die Shariar werden Lieder über diesen Tag singen. Laute Trinklieder.</Page>
+    </Text>
+</QuestDialog>

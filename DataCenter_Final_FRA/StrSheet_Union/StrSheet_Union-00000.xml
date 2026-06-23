@@ -1,0 +1,239 @@
+<StrSheet_Union xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union">
+    <String id="1" string="Collectif de libre Échange" />
+    <String id="2" string="Union des Éclairés" />
+    <String id="3" string="Ordre de Fer" />
+    <String id="11" string="Une organisation qui utilise le noctenium pour prospérer financièrement." />
+    <String id="12" string="Les membres capitalistes du Collectif de libre Échange gagnent 1% de pièces d'or en plus que les autres dans les butins." />
+    <String id="13" string="Une organisation qui étudie le noctenium pour des raisons purement académiques." />
+    <String id="14" string="L'Union des Éclairés a une grande influence diplomatique. Leurs membres bénéficient de 5% de crédits de réputation en plus que les autres." />
+    <String id="15" string="Une organisation qui utilise le noctenium pour posséder une force surhumaine." />
+    <String id="16" string="Les membres de l'Ordre de Fer bénéficient d'une supériorité physique et d'une résistance à l'étourdissement de 5% supplémentaires." />
+    <String id="400" string="Exarque" />
+    <String id="300" string="Commandant" />
+    <String id="301" string="Commandant adjoint" />
+    <String id="302" string="Commandant d'assaut" />
+    <String id="303" string="Commandant de défense" />
+    <String id="200" string="Membre de l'alliance" />
+    <String id="100" string="Recrue de l'alliance" />
+    <String id="1000" string="Groupes de leaders" />
+    <String id="1001" string="Membre du groupe de leaders 1" />
+    <String id="1002" string="Membre du groupe de leaders 2" />
+    <String id="1003" string="Membre du groupe de leaders 3" />
+    <String id="1004" string="Membre du groupe de leaders 4" />
+    <String id="1101" string="Exarque de {UnionName} : {CharName} [{GuildName}]" />
+    <String id="1102" string="Exarque de {UnionName} : tournoi d'élection" />
+    <String id="1103" string="Terme de l'Exarque : {Data}" />
+    <String id="1104" string="Période d'inscription des candidats au poste d'Exarque : {Data}" />
+    <String id="1105" string="Compétition de l'extracteur : {State}" />
+    <String id="1106" string="Garde de l'alliance : {State}" />
+    <String id="1107" string="Bourreau : {State}" />
+    <String id="1120" string="En cours" />
+    <String id="1121" string="Fermé" />
+    <String id="1122" string="Surveillance en cours" />
+    <String id="1123" string="En combat" />
+    <String id="1124" string="En sécurité" />
+    <String id="1125" string="Mort" />
+    <String id="1126" string="En danger" />
+    <String id="1127" string="Pas encore rejoint" />
+    <String id="1128" string="Les adversaires se battent pour contrôler des extracteurs de noctenium dans les territoires d'alliances." />
+    <String id="1130" string="Informations concernant ma position" />
+    <String id="1131" string="Zone de la balise d'infiltration" />
+    <String id="1132" string="Début du conflit d'alliance : {Data}" />
+    <String id="10001" string="Accès aux caveaux : ouvert" />
+    <String id="10002" string="Accès aux caveaux : fermé" />
+    <String id="20001" string="Affecter le Magasin de spécialités" />
+    <String id="20002" string="Hausse des PEX de l'Exarque" />
+    <String id="20003" string="Renforcement JcJ de l'Exarque" />
+    <String id="20004" string="Force d'âme de l'Exarque" />
+    <String id="20005" string="Changer le taux de taxe" />
+    <String id="20006" string="Collecter les taxes" />
+    <String id="20007" string="Installer la balise d'infiltration" />
+    <String id="20008" string="Fabrication d'une bombe étourdissante" />
+    <String id="20009" string="Fabrication d'une mine" />
+    <String id="20010" string="Fabrication d'une bombe ralentissante" />
+    <String id="20011" string="Fabrication d'une bombe à retardement" />
+    <String id="20012" string="Fabrication d'une grenade aveuglante" />
+    <String id="20013" string="Invocation de garde" />
+    <String id="20014" string="Invocation de barricade en bois" />
+    <String id="20015" string="Invocation d'arme" />
+    <String id="20016" string="Cri de commandement" />
+    <String id="20017" string="Protection du commandant" />
+    <String id="20018" string="Ailes du commandant" />
+    <String id="20019" string="Bénédiction du commandant" />
+    <String id="20020" string="Améliorer l'enchanteur" />
+    <String id="470301" string="Conditions d'adhésion à l'alliance" />
+    <String id="470302" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;2 membres de guilde ou plus&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470303" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;2 membres de guilde ou plus&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470304" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Coût de l'or : &lt;/font&gt; &lt;FONT color='#ffb033'&gt;1 000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470305" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Coût de l'or : &lt;/font&gt; &lt;FONT color='#ffb033'&gt;1 000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470306" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; Pour rejoindre l'alliance, vous devez remplir toutes les conditions. &lt;/font&gt;" />
+    <String id="470307" string="Rejoindre le Collectif de libre Échange" />
+    <String id="470308" string="Rejoindre l'Union des Éclairés" />
+    <String id="470309" string="Rejoindre l'Ordre de Fer" />
+    <String id="470311" string="Quitter l'alliance" />
+    <String id="470312" string="Vous allez quitter l'alliance et ne serez plus un membre de l'alliance.&lt;br&gt;Tous les membres de votre guilde seront exclus de l'alliance et ne pourront plus profiter de ses avantages. Ils peuvent rejoindre de nouveau une alliance dans {Hour} heure(s) et {Min} minute(s)." />
+    <String id="470313" string="Partir" />
+    <String id="470314" string="Annuler" />
+    <String id="470315" string="Conditions de présentation de candidature au poste d'Exarque" />
+    <String id="470316" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;30 membres de guilde ou plus&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470317" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;30 membres de guilde ou plus&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470318" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Coût de l'or : &lt;/font&gt; &lt;FONT color='#ffb033'&gt;1 000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470319" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Coût de l'or : &lt;/font&gt; &lt;FONT color='#ffb033'&gt;1 000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470320" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; Pour présenter votre candidature au poste d'Exarque, vous devez remplir toutes les conditions. &lt;/font&gt;" />
+    <String id="470321" string="Se présenter comme candidat au poste d'Exarque" />
+    <String id="470322" string="Ouvrir des magasins de spécialités" />
+    <String id="470323" string="Assignez des magasins de spécialités à chaque village dirigés par votre alliance. Des points politiques d'alliance seront déduits toutes les heures. Si vous ne disposez pas de suffisamment de points politiques d'alliance, l'assignation sera automatiquement annulée." />
+    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Affecter le magasin de spécialités&#xA;      Points politiques de l'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Affecter le magasin de spécialités&#xA;      Points politiques de l'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470326" string="Affecter le Magasin de spécialités" />
+    <String id="470327" string="Annuler un Magasin de spécialités" />
+    <String id="470328" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Annuler le magasin de spécialités&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470329" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Annuler le magasin de spécialités&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470330" string="Améliorer l'enchanteur" />
+    <String id="470331" string="Augmente pendant une heure le taux de réussite de l'enchanteur du hall de l'alliance." />
+    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Enchanteur d'argent&#xA;      Points politiques de l'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Enchanteur d'argent&#xA;      Points politiques de l'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470334" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Enchanteur d'or&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470335" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Enchanteur d'or&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470336" string="Enchanteur d'argent" />
+    <String id="470337" string="Enchanteur d'or" />
+    <String id="470338" string="Enchanteur de bronze" />
+    <String id="470339" string="&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Enchanteur de bronze&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470340" string="&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Enchanteur de bronze&#xA;      Points politiques d'alliance requis : {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470341" string="Utiliser les pouvoirs de l'Exarque" />
+    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName} &#xA; &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc} &#xA;&#xA; &lt;FONT SIZE='18' color='#80e71c'&gt;Points requis : {Point} &#xA;&#xA; &lt;FONT SIZE='24' color='#ff0000'&gt;{SkillName} sera utilisée.&#xA;&#xA;&lt;FONT SIZE='18' color='#80e71c'&gt;Points politiques de l'alliance disponibles : {Current} &#xA;Points politiques de l'alliance après utilisation des points requis : {Next}" />
+    <String id="470343" string="OK" />
+    <String id="470344" string="Annuler" />
+    <String id="470380" string="Vous pouvez de nouveau collecter des taxes dans {CoolTime} heure(s)." />
+    <String id="470400" string="Points politiques personnels" />
+    <String id="470401" string="Points politiques d'alliance" />
+    <String id="470402" string="Consommation de points politiques personnels" />
+    <String id="470403" string="Récompense bonus (alliance)" />
+    <String id="470501" string="Gardez votre position d'avantage pendant 30 secondes et vous arriverez à vous défendre." />
+    <String id="470502" string="Vous devez désormais défendre votre alliance." />
+    <String id="470503" string="Prenez garde. Il est désormais possible d'envahir votre territoire.." />
+    <String id="470504" string="Bourreau du Collectif de libre Échange" />
+    <String id="470505" string="Bourreau des Éclairés" />
+    <String id="470506" string="Bourreau de Fer" />
+    <String id="470507" string="Test String 07" />
+    <String id="470508" string="Test String 08" />
+    <String id="470509" string="Test String 09" />
+    <String id="470510" string="Test String 10" />
+    <String id="470511" string="Test String 11" />
+    <String id="470512" string="Test String 12" />
+    <String id="470513" string="Test String 13" />
+    <String id="470514" string="Test String 14" />
+    <String id="470515" string="Test String 15" />
+    <String id="470516" string="Test String 16" />
+    <String id="470517" string="Test String 17" />
+    <String id="470518" string="Test String 18" />
+    <String id="470519" string="Test String 19" />
+    <String id="470520" string="Test String 20" />
+    <String id="470521" string="Vous avez rejoint une alliance." />
+    <String id="470522" string="Vous avez quitté une alliance." />
+    <String id="470523" string="Une nouvelle saison d'alliances a commencé." />
+    <String id="470524" string="L'alliance a un nouvel exarque." />
+    <String id="470525" string="Vous êtes désormais commandant !" />
+    <String id="470526" string="Bienvenue dans le groupe de leaders!" />
+    <String id="470527" string="Du temps vous a été attribué pour entrer dans le caveau de l'alliance." />
+    <String id="470528" string="Vous pouvez entrer dans le caveau de l'alliance." />
+    <String id="470529" string="Vous n'avez plus accès au caveau de l'alliance." />
+    <String id="470530" string="Vous pouvez inscrire l'Exarque d'une alliance comme candidat." />
+    <String id="470531" string="La compétition pour le contrôle des extracteurs de noctenium a commencé." />
+    <String id="470532" string="La compétition pour le contrôle des extracteurs de noctenium est terminée." />
+    <String id="470533" string="Il n'y a pas assez d'extracteurs de noctenium dans le territoire de l'alliance." />
+    <String id="470534" string="Le territoire de votre alliance est envahi." />
+    <String id="470535" string="Votre poste d'alliance est en danger" />
+    <String id="470536" string="Le bourreau est attaqué." />
+    <String id="470537" string="Le bourreau est mort. Il n'est pas possible d'accéder aux options de l'Exarque." />
+    <String id="470538" string="Le bourreau est mort." />
+    <String id="470539" string="Un garde de l'alliance est mort." />
+    <String id="470540" string="Vous ressentez la force d'âme de l'Exarque." />
+    <String id="470541" string="Vous ressentez la hausse des PEX de l'Exarque." />
+    <String id="470542" string="Vous ressentez le renforcement JcJ de l'Exarque." />
+    <String id="470543" string="Des points politiques personnels ont été fournis" />
+    <String id="470544" string="Des fonds d'activité de l'alliance ont été fournis." />
+    <String id="470545" string="Vous avez collecté tous les taxes levées par l'alliance." />
+    <String id="470546" string="L'Exarque de l'alliance est mort." />
+    <String id="470547" string="Vous avez battu l'Exarque de l'alliance." />
+    <String id="470548" string="Vous êtes devenu l'Exarque de l'alliance." />
+    <String id="470549" string="Lieu où l'extracteur de noctenium a été volé." />
+    <String id="470550" string="Votre extracteur de noctenium a été désactivé." />
+    <String id="470551" string="Fonds d'activité de l'alliance fournis" />
+    <String id="470552" string="Alliance" />
+    <String id="470553" string="Solde de le taxe collectée" />
+    <String id="470554" string="Livrer le reste des taxes maintenant que la saison est terminée." />
+    <String id="470555" string="Vous avez obtenu une clé d'extracteur." />
+    <String id="470601" string="Une bataille a débuté au poste." />
+    <String id="470602" string="L'attaque de l'alliance ennemie a commencé." />
+    <String id="470603" string="Une bataille oppose différentes alliances." />
+    <String id="470604" string="Une autre alliance participera à l'attaque." />
+    <String id="470605" string="Une autre alliance participera à l'attaque." />
+    <String id="470606" string="Prenez part à la bataille entre différentes alliances. Elle a lieu au poste." />
+    <String id="470607" string="Attaque l'alliance ennemie et lui prend une partie de l'argent de ses taxes." />
+    <String id="470608" string="Vous avez gagné la quête de défense." />
+    <String id="470609" string="Risque d'invasion – Réduit l'effet bouclier du bourreau de votre alliance pendant 1 heure." />
+    <String id="470610" string="Risque d'invasion – Réduit l'effet bouclier du bourreau de votre alliance pendant 1 heure." />
+    <String id="470611" string="Vous vous êtes débarrassé de l'alliance ennemi et vous êtes défendu avec succès." />
+    <String id="470701" string="Dans 5 minutes, les combats JcJ seront activés dans les territoires de toutes les alliances." />
+    <String id="470702" string="Tous les membres de l'alliance ennemie qui se trouvent dans le territoire seront déplacés de force vers la zone de combat dans 1 minute." />
+    <String id="470703" string="La bataille est sur le point de débuter dans le territoire de l'alliance." />
+    <String id="470704" string="Pendant les 2 prochaines heures, vous pourrez effectuer des combats JcJ dans tous les zones du territoire de l'alliance." />
+    <String id="470705" string="Dans 5 minutes, les combats JcJ seront désactivés dans les territoires de toutes les alliances." />
+    <String id="470706" string="Tous les membres de l'alliance ennemie qui se trouvent dans le territoire seront déplacés de force vers la zone de combat dans 1 minute." />
+    <String id="470707" string="Les combats JcJ sont actuellement désactivés dans les territoires de l'alliance." />
+    <String id="470708" string="Pendant les 2 prochaines heures, vous ne pourrez effectuer de combats JcJ dans les zones du territoire de l'alliance." />
+    <String id="470712" string="5" />
+    <String id="470713" string="4" />
+    <String id="470714" string="3" />
+    <String id="470715" string="2" />
+    <String id="470716" string="1" />
+    <String id="470717" string="Tous les membres de l'alliance ennemie seront déplacés de force vers la zone de combat." />
+    <String id="470718" string="En raison de JcJ excessif, les points seront limités à partir de maintenant." />
+    <String id="470719" string="En raison de JcJ excessif, les points seront sévèrement limités." />
+    <String id="470720" string="En raison de JcJ excessif, les points seront énormément limités." />
+    <String id="470800" string="Notre alliance attaque le bourreau du Collectif de libre Échange." />
+    <String id="470801" string="Notre alliance attaque le bourreau de l'Union des Éclairés." />
+    <String id="470802" string="Notre alliance attaque le bourreau de l'Ordre de Fer." />
+    <String id="470901" string="La pierre angulaire de libre Échange a été détruite." />
+    <String id="470902" string="La pierre angulaire de l'Union des Éclairés a été détruite." />
+    <String id="470903" string="La pierre angulaire de l'Ordre de Fer a été détruite." />
+    <String id="470904" string="La pierre angulaire est presque détruite. Le bouclier protecteur de Fort Tulufan faiblit." />
+    <String id="470905" string="La pierre angulaire est presque détruite. Le bouclier protecteur de Fort Elenea faiblit." />
+    <String id="470906" string="La pierre angulaire est presque détruite. Le bouclier protecteur du Fort Chute du Dragon faiblit." />
+    <String id="470907" string="Malheur au Collectif de libre Échange! Le bourreau Adiar est mort!" />
+    <String id="470908" string="Malheur à l'Union des Éclairés! Le bourreau Derene est mort!" />
+    <String id="470909" string="Malheur à l'Ordre de Fer! Le bourreau Frateko est mort!" />
+    <String id="470910" string="Le conflit d'alliance débute dans 5 minutes." />
+    <String id="470911" string="Le conflit d'alliance débute dans 1 minute." />
+    <String id="470912" string="Le conflit d'alliance débute dans 10 secondes." />
+    <String id="470913" string="Le conflit d'alliance a débuté." />
+    <String id="470914" string="Le conflit d'alliance s'achève dans 5 minutes." />
+    <String id="470915" string="Le conflit d'alliance s'achève dans 1 minute." />
+    <String id="470916" string="Le conflit d'alliance s'achève dans 10 secondes." />
+    <String id="470917" string="Le conflit d'alliance est terminé." />
+    <String id="470918" string="L'aura du bourreau qui entourait les ennemis a disparu." />
+    <String id="470919" string="Vous avez réussi une série de {killCount} victimes ou assistances consécutives." />
+    <String id="470920" string="{killerName} fait des ravages sur le champ de bataille!" />
+    <String id="470921" string="{killerName} domine le champ de bataille!" />
+    <String id="470937" string="{killerName} est inarêtable!" />
+    <String id="470938" string="{killerName} a survolé le conflit d'alliance!" />
+    <String id="470939" string="{killerName} est imbattable!" />
+    <String id="480001" string="Position d'assaut de la pierre angulaire" />
+    <String id="470922" string="La pierre angulaire de libre Échange est attaquée." />
+    <String id="470923" string="La pierre angulaire de l'Union des Éclairés est attaquée." />
+    <String id="470924" string="La pierre angulaire de l'Ordre de Fer est attaquée." />
+    <String id="470925" string="Le conflit d'alliance débute dans 5 minutes." />
+    <String id="470926" string="Le conflit d'alliance débute dans 1 minute." />
+    <String id="470927" string="Le conflit d'alliance débute dans 10 secondes." />
+    <String id="470928" string="Le conflit d'alliance a débuté." />
+    <String id="470929" string="Le conflit d'alliance s'achève dans 5 minutes." />
+    <String id="470930" string="Le conflit d'alliance s'achève dans 1 minute." />
+    <String id="470931" string="Le conflit d'alliance s'achève dans 10 secondes." />
+    <String id="470932" string="Le conflit d'alliance est terminé." />
+    <String id="470933" string="Le conflit d'alliance débute dans 10 minutes." />
+    <String id="470934" string="Le conflit d'alliance débute dans 30 minutes." />
+    <String id="470935" string="Le conflit d'alliance débute dans 60 minutes." />
+    <String id="470936" string="Le conflit d'alliance s'achève dans 10 minutes." />
+    <String id="470405" string="Points" />
+</StrSheet_Union>

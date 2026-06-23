@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3002#Sunkuvil} in {@Rgn:50001$$Granarkus} hat es mit mehr Argonen zu tun, als sie selbst zur Strecke bringen kann. Habt Ihr Lust auf einen Ausflug?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">Dieses Lager ist gut versteckt, aber in den letzten Tagen hatten wir ein paar haarige Auseinandersetzungen mit den Argonen.&lt;BR&gt;&lt;BR&gt;Ich bin sicher, Euch macht es Vergnügen, sie aus dem Weg zu schaffen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">Nicht schlecht! &lt;BR&gt;&lt;BR&gt;Ich war schon versucht, sie selbst an mich zu nehmen. Aber ein Forstmeister darf nicht gierig werden.</Page>
+    </Text>
+</QuestDialog>

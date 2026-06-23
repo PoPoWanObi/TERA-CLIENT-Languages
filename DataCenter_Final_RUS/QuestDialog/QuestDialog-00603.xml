@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="4">Кулкари нападают на наших бойцов в пустыне. Стоит преподать им небольшой урок. Выследи {@LinkCreature:21#5001#Белдреска} и убей его.&lt;BR&gt;&lt;BR&gt;Принеси его клык - я повешу его перед нашей палаткой. Пусть знают, что нас так просто не запугать!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1025">
+        <Page social="4">Скальные преследователи впредь будут дважды думать перед тем, как нас атаковать. Спасибо тебе.&lt;BR&gt;&lt;BR&gt;Конечно, мертвых уже не вернуть, но хотя теперь погибать будет меньше бойцов. Хорошая работа!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1025">
+        <Page social="0">Я и не говорил, что будет просто. Поэтому не торопись и думай головой.&lt;BR&gt;&lt;BR&gt;У тебя все получится!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">Gut, hier ist mein Plan. Wenn es weniger {@LinkCreature:42#1100#Nickarverzauberinnen} gäbe, käme man viel leichter an die Nagaanführer heran.&lt;BR&gt;&lt;BR&gt;Ich habe nicht versprochen, dass es ein großer, komplizierter Plan werden würde, oder? Vertraut mir einfach. Erledigt so viele wie möglich und beseitigt vor allem denjenigen, für den sie Wache schieben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Vielen Dank, &lt;PCNAME&gt;. Ich weiß, dass es nicht einfach sein konnte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">Erledigt immer einen nach dem anderen, &lt;PCNAME&gt;. Was den {@LinkCreature:42#1100#Nickarverzauberinnen} schadet, ist gut für uns.</Page>
+    </Text>
+</QuestDialog>

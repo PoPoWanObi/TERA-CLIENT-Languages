@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">Полагаю, мы бы могли привлечь на свою сторону часть орканских племен, если бы не бешаранские торговцы. {@LinkCreature:241#1022#Падук} говорит, они продают племени Камня огненный напиток, который пробуждает в них ярость.&lt;BR&gt;&lt;BR&gt;Неплохо было бы организовать засаду на {@LinkCreature:41#2006#Бешаранских контрабандистов} и {@LinkCreature:41#2002#силачей} или их {@LinkCreature:41#4010#кайманов-привратников} и {@LinkCreature:41#4009#стражей}, чтобы отобрать этот напиток. Как ты на это смотришь?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1022">
+        <Page social="0">Отобьем у бешаранцев охоту травить орканов! Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1022">
+        <Page social="0">Не недооценивай бешаранцев - они, хоть и мелкие, но свирепые.</Page>
+    </Text>
+</QuestDialog>

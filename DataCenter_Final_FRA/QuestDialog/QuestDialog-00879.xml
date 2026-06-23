@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1001">
+        <Page social="5">Nous avons installé trois jauges dans la région qui nous permettent de mesurer l'étendue de la corruption, mais elles ont cessé d'émettre.&lt;BR&gt;&lt;BR&gt;Vous allez devoir faire un tour dans les bois pour les remettre en état de marche. Il ne s'agit certainement que d'un problème mineur.&lt;BR&gt;&lt;BR&gt;Trouvez les trois afflictiomètres, réparez-les, et repassez me voir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1020">
+        <Page social="0">(L'engin émet des cliquetis répétitifs. Quelque chose a l'air d'être coincé.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" prevId="2" villagerId="1018">
+        <Page social="0">(Cet afflictiomètre émet des séries de cliquetis saccadés.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="228" prevId="2" villagerId="1019">
+        <Page social="0">(L'engin est complètement silencieux.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="228" prevId="3" villagerId="1001">
+        <Page social="5">Magnifique!&amp;nbsp; Les trois afflictiomètres sont de nouveau en état de marche.&lt;BR&gt;&lt;BR&gt;Je parie qu'il vous aura suffi d'un ou deux coups de pied bien placés. Je vous remercie au nom du Mysterium.&lt;BR&gt;&lt;BR&gt;Maintenant, voyons un peu ce que ces engins ont enregistré.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">&lt;PCNAME&gt;, похоже, тебе удалось обнаружить нечто интересное!&lt;BR&gt;&lt;BR&gt;Уверена, ты знаешь, что освоить магию разума сложнее всего. Магию, которая направлена против нас, не способен породить ни один человек, но если их было несколько, например целый класс?&lt;BR&gt;&lt;BR&gt;Вдруг в этом могут быть замешаны учителя?&lt;NEXTPAGEBUTTON&gt;"Учителя? Невероятно!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">В это трудно поверить, но всякое может быть. Исследуй одежду учителей в восточном классе на втором этаже. В Атенеуме тоже могут оказаться улики.&lt;BR&gt;&lt;BR&gt;Шевелись! Если мы не сможем восстановить контроль над академией, Федерации придется ее уничтожить... и убить всех.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">Ты снова тут! Надеюсь, что задание было выполнено. Я видела постепенно сходящих с ума префектов, от вида которых у меня кровь стыла в венах.&lt;BR&gt;&lt;BR&gt;Давай посмотрим, что у тебя. Хм-м-м... Дело плохо, но есть шанс, что нам теперь удастся все разузнать.&lt;BR&gt;&lt;BR&gt;Займусь находками. Сила защитит тебя, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1007">
+        <Page social="0">Нет времени разгуливать тут! Умирают дети!</Page>
+    </Text>
+</QuestDialog>

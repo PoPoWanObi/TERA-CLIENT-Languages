@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1023">
+        <Page social="5">Thulsa geht keine Risiken ein. Agenten des Mysteriums entdeckten seinen Elitetrupp, die Brogarlegion.&lt;BR&gt;&lt;BR&gt;Wir sollten drastischere Maßnahmen ergreifen. Ich möchte, dass Ihr sie ausschaltet, speziell {@LinkCreature:27#13#Thulsanische Wächter}, {@LinkCreature:27#14#Thulsanische Beschwörer} und die {@LinkCreature:27#15#Thulsanische Anhängerinnen}. Wenn wir sie vertreiben könnten, können wir die Festung zurückerobern.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1023">
+        <Page social="5">Eure Fähigkeiten sind beeindruckend. Ihr seid eine große Hilfe für unseren Kampf.&lt;BR&gt;&lt;BR&gt;Die Frage ist, warum Thulsa diese fürchterliche Armee aufgestellt hat. War diese Festung so wichtig für seinen Plan? So viele offene Fragen. Alles zu seiner Zeit.&lt;BR&gt;&lt;BR&gt;Das wäre alles, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

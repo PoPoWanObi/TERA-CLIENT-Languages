@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Bei genauen Beobachtungen des Schlundes wurden die Dämonen entdeckt, die die Geister kontrollieren. Was für eine Entdeckung!&lt;BR&gt;&lt;BR&gt;Die Späher berichten, dass die Karigone magische Fesseln bei sich tragen. Diese Fesseln müssen untersucht werden.&lt;BR&gt;&lt;BR&gt;Bitte beschafft die Fesseln von den {@LinkCreature:13#6#Kariagonen} und {@LinkCreature:13#300942#Terronenleibeigenen}. Sie tauchen meistens im Südwesten des Verdorbenen Schlundes auf.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Die Straßen sind bereits etwas sicherer. Was immer die Nachkommen mit den versklavten Geistern gemacht haben, ist durch Euren Erfolg vereitelt worden. Aber um unser Ziel zu erreichen, brauchen wir mehr als nur diesen einen Sieg.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">Das Entscheidende sind die Fesseln. Keine gewöhnliche Bindung kann Geister so vollkommen versklaven. Tötet so viele {@LinkCreature:13#6#Kariagonen} wie nötig sind, um sie zu beschaffen.</Page>
+    </Text>
+</QuestDialog>

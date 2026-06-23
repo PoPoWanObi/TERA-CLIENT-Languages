@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="0">Nach dem Absturz der Kühnheit traf die Vorhutinitiative auf die Khirian.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="4">Wir können nicht ewig hier bleiben. Wir sind in der Pflicht gegenüber unseren Soldaten und der Valkyon-Föderation.&lt;NEXTPAGEBUTTON&gt;"Ihre Befehle, Herr?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ich habe einen Späher ausgesandt. Trefft Euch mit ihm und helft bei der Auskundschaftung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1019">
+        <Page social="4">Ich habe das Wrack gesehen, doch von hier aus könnt Ihr nicht dorthin gelangen.&lt;BR&gt;&lt;BR&gt;Ich soll ein Leuchtgeschoss abfeuern, aber das Abschussgerät funktioniert nicht. Warum versucht Ihr es nicht?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1019">
+        <Page social="4">Dort ist die Antwort auf unser Leuchtgeschoss. Wir müssen weiter.&lt;BR&gt;&lt;BR&gt;Ich weiß nicht, wie es mit den Verwundeten aussieht, aber ich kann nicht gegen diese Mandrille kämpfen. Vielleicht könnt Ihr uns einen kleinen Pfad freikämpfen?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1005">
+        <Page social="4">Eure Kleidung und Rüstungen sind mir fremd. Wer seid Ihr?&lt;NEXTPAGEBUTTON&gt;"Ich bin aus dem fernen Süden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Das kann nicht möglich sein. Die dunklen Wolken halten uns umschlossen. Wenn es wahr ist, was Ihr sagt, muss Rhodos davon erfahren.&lt;BR&gt;&lt;BR&gt;Überquert diese Brücke, um zu unserem Lager zu gelangen. Fragt nach Rhodos und gebt ihm diese Schriftrolle. Ich werde für Euch bürgen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">Was ist das? Bagi schreibt, dass Ihr aus dem Süden seid. Ist das wahr?&lt;NEXTPAGEBUTTON&gt;"Es ist wahr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Warum seid Ihr hier? Wie kommt es, dass Ihr auf mein Lager gestoßen seid?&lt;NEXTPAGEBUTTON&gt;"Unser Schiff stürzte in den Dschungel."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ihr mögt schlau sein, doch ich weiß nicht, ob Ihr lügt. Aber es gibt einen, der das herausfinden kann.&lt;BR&gt;&lt;BR&gt;Auf der anderen Seite des Weges von unserem Lager werdet Ihr eine gehörnte Hütte sehen. Madadt kann die Wahrheit Eurer Worte beurteilen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1007">
+        <Page social="4">Ah, {@gender:der Himmelsstürzer/die Himmelsstürzerin}.&lt;NEXTPAGEBUTTON&gt;"Was sagtet Ihr?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nun schaut nicht so verdutzt drein. Ich habe Euren großen Luftfisch aus dem Himmel stürzen sehen. Ihr müsst aus der Fremde stammen.&lt;BR&gt;&lt;BR&gt;Vielleicht ist unsere Zeit gekommen.&lt;BR&gt;&lt;BR&gt;Ich glaube, dass Eure Ankunft den Sieg der Khirian über die verfluchten Erzdevaner ankündigt.&lt;BR&gt;&lt;BR&gt;Hatischna! Sagt Rhodos, "Hatischna!"</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1006">
+        <Page social="4">Was hat Madadt gesagt?</Page>
+    </Text>
+</QuestDialog>

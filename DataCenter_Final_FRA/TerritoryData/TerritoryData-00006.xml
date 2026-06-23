@@ -1,0 +1,143 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="112" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="11200001" desc="중립몬스터(개인 버프)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="8427.3975,41480.8828,1436.1953" />
+                <Fence pos="9228.8057,41730.2539,1449.8652" />
+                <Fence pos="9024.3857,42089.2969,1429.0430" />
+                <Fence pos="8444.4463,41912.7305,1420.0566" />
+            </Territory>
+            <Territory>
+                <Fence pos="5913.8096,35262.5898,1447.0938" />
+                <Fence pos="6398.3745,35187.3555,1405.6680" />
+                <Fence pos="6614.8760,35468.8164,1387.1621" />
+                <Fence pos="5910.0342,35737.1836,1464.2051" />
+            </Territory>
+            <Territory>
+                <Fence pos="11445.5635,40043.1875,1466.8398" />
+                <Fence pos="11355.6338,40518.4023,1487.2578" />
+                <Fence pos="10652.3584,40272.6875,1481.6953" />
+                <Fence pos="10726.4961,39827.3633,1446.7773" />
+            </Territory>
+            <Territory>
+                <Fence pos="4393.6675,36557.5078,1452.4730" />
+                <Fence pos="4540.5352,36916.4258,1475.0566" />
+                <Fence pos="4259.3999,37009.7578,1431.2813" />
+                <Fence pos="3978.2686,37103.0898,1433.6172" />
+                <Fence pos="3894.2983,36683.3555,1461.6836" />
+            </Territory>
+            <Territory>
+                <Fence pos="12021.1035,42990.9258,2921.9131" />
+                <Fence pos="11162.0479,43189.7422,1822.3594" />
+                <Fence pos="2444.0430,40819.0781,1582.1729" />
+                <Fence pos="3130.1001,35008.9648,1625.7480" />
+                <Fence pos="3140.4438,34092.0703,1625.2441" />
+                <Fence pos="4258.2158,33732.6211,1739.9570" />
+                <Fence pos="12967.3066,36275.3008,1568.7441" />
+                <Fence pos="12317.0801,42179.1406,1625.2471" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="11200002" desc="중립몬스터(팀 버프)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="4525.5381,39308.5000,1392.6970" />
+                <Fence pos="4957.3008,39999.8828,1343.6194" />
+                <Fence pos="4518.1011,40219.4297,1401.5078" />
+                <Fence pos="4208.6548,39690.3008,1509.5793" />
+                <Npc dir="333" npcTemplateId="2000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="11200003" desc="중립몬스터(정복 점수)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="10946.8975,36788.7695,1377.2476" />
+                <Fence pos="10978.8301,37237.5234,1377.2498" />
+                <Fence pos="10560.0996,37532.7109,1388.9189" />
+                <Fence pos="10343.8975,36971.6484,1340.0078" />
+                <Npc dir="154" npcTemplateId="1000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="11200004" desc="새그룹">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="11115.2598,40059.8555,1463.7012" />
+                <Fence pos="10645.7510,40044.4531,1465.3496" />
+                <Fence pos="10661.3359,39679.3438,1430.1875" />
+                <Fence pos="11162.3418,39724.6328,1473.2598" />
+                <Npc dir="-176" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="10099.2998,36050.4219,1357.9668" />
+                <Fence pos="9786.0088,36311.6992,1311.0645" />
+                <Fence pos="9530.3887,35994.1211,1291.6406" />
+                <Fence pos="9798.1738,35694.1484,1349.7871" />
+                <Npc dir="0" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="4764.9204,36844.3750,1421.0547" />
+                <Fence pos="4703.4048,37168.4609,1413.4375" />
+                <Fence pos="4203.9756,37023.9766,1445.5234" />
+                <Fence pos="4261.4541,36726.9570,1441.0742" />
+                <Npc dir="0" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="5768.7627,40790.5547,1274.9063" />
+                <Fence pos="5597.6279,41101.9883,1338.2988" />
+                <Fence pos="5233.1089,40908.0859,1402.4023" />
+                <Fence pos="5415.5073,40613.0977,1298.7227" />
+                <Npc dir="0" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="9226.4961,41513.5508,1467.8164" />
+                <Fence pos="8924.3750,41530.5898,1459.2305" />
+                <Fence pos="8914.5059,41316.9102,1479.1035" />
+                <Fence pos="9204.8945,41302.3750,1491.8516" />
+                <Npc dir="-176" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="6531.5771,35570.9180,1406.2207" />
+                <Fence pos="6229.4556,35587.9570,1422.7441" />
+                <Fence pos="6219.5864,35374.2773,1415.9316" />
+                <Fence pos="6509.9756,35359.7422,1388.7207" />
+                <Npc dir="-176" npcTemplateId="5000">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="11473.3350,42094.5039,1624.2480" />
+                <Fence pos="11003.8262,42079.1016,1624.2480" />
+                <Fence pos="11019.4111,41713.9922,1624.2480" />
+                <Fence pos="11520.4170,41759.2813,1624.2480" />
+                <Npc dir="-176" npcTemplateId="5001">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="4355.0010,35129.4336,1624.7480" />
+                <Fence pos="3885.4919,35114.0313,1625.7480" />
+                <Fence pos="3901.0769,34748.9219,1624.7500" />
+                <Fence pos="4402.0830,34794.2109,1624.7480" />
+                <Npc dir="-176" npcTemplateId="5001">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

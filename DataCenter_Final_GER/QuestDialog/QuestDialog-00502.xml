@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="5">Kurz bevor diese Blutunholde sich hier niedergelassen haben, sind merkwürdige Pflanzen gewachsen. Die Blüten haben große Ähnlichkeit mit Blutblüten.&lt;BR&gt;&lt;BR&gt;Vielleicht ist es ja nur ein Zufall, aber um sicher zu gehen, müssen wir die Pflanzen untersuchen. Wärt Ihr so nett, die Blüten für mich einzusammeln, wenn Ihr draußen seid?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1024">
+        <Page social="5">Ja, das ist die Pflanze. Wenn man sie abpflückt, werden die Blüten rot wie Blut. An diesen Proben scheint nichts Ungewöhnliches, aber der Schein kann trügen.&lt;BR&gt;&lt;BR&gt;Nehmt dies als bescheidenes Zeichen der Dankbarkeit eines Gelehrten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1024">
+        <Page social="0">Nehmt Euch vor diesen Blutunholden in Acht, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">De retour à Velika, vous avez fait la rencontre du commandant Seir et de la prêtresse Ciebel. Ces derniers vous ont fait part de la crise qui frappait Allemantheia.&lt;BR&gt;&lt;BR&gt;Ils vous ont ensuite demandé de vous rendre à la capitale des Hauts-Elfes, où vous avez fait la rencontre du commandant Fraya, l'une des héroïnes les plus célèbres de sa race. Fraya vous a expliqué le conflit d'intérêts dont la cité faisait les frais, en croisant les doigts pour que votre présence aide à stabiliser la situation.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Ordres de mission&lt;BR&gt;&lt;BR&gt;Vous avez reçu l'ordre de rentrer immédiatement à Velika en vue d'une nouvelle affectation.&lt;BR&gt;&lt;BR&gt;Adressez-vous au commandant Seir dès que possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="5">C'est un plaisir de vous revoir, &lt;PCNAME&gt;, ça faisait longtemps. Comme je m'y attendais, les rapports que j'ai reçus vous concernant sont toujours élogieux.&lt;BR&gt;&lt;BR&gt;Nous avons reçu un appel à l'aide en provenance d'Allemantheia, et il émane du commandant Fraya en personne, une figure notable.&lt;BR&gt;&lt;BR&gt;Je ne sais rien de plus, sinon que vous allez devoir faire preuve de tact et de diplomatie.&lt;BR&gt;&lt;BR&gt;Par ailleurs, Ciebel tient également à s'entretenir avec vous avant votre départ.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="5">Pour l'instant, vous avez fait du très bon travail, &lt;PCNAME&gt;. Velik tient à vous informer que la menace qui planait sur Velika pèse maintenant sur le désert, et que jamais elle n'a été aussi lourde. Restez sur vos gardes tout au long de votre séjour à Allemantheia... nombreux sont les périls qui vous y guettent tapis dans l'ombre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1132">
+        <Page social="5">Bienvenue à Allemantheia, &lt;PCNAME&gt;. Votre vol s'est-il bien déroulé?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Le Joyau du Désert vous remercie de venir lui apporter votre aide, et nous vous sommes tous reconnaissants. Vous devez vous demander quelles raisons nous ont poussés à vous appeler.&lt;NEXTPAGEBUTTON&gt;"Pour tout dire, oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">A Allemantheia, le pouvoir est partagé entre la Fédération, les anciens et le Mysterium. C'est un équilibre délicat à préserver. Nous avions besoin d'un intervenant extérieur, et les trois factions se sont accordées sur votre nom.&lt;BR&gt;&lt;BR&gt;Le Mysterium est satisfait du travail que vous avez accompli dans les Collines célestes, et vos commandants n'ont de cesse de vanter votre courage et votre détermination.&lt;NEXTPAGEBUTTON&gt;"Et les anciens?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ils ne se sont pas montrés aussi enthousiastes, mais ils ont accepté. Je vous rassure, avec eux, c'est déjà une victoire... ne prenez pas ombrage de leur méfiance.&lt;BR&gt;&lt;BR&gt;Fraya souhaiterait parler avec vous. Elle n'est pas simplement la plus grande de nos combattantes, elle représente pour nous tous un modèle. Allez voir {@LinkCreature:72#1103#Arshadh}... avant tout.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="5" villagerId="1103">
+        <Page social="5">Salutations, &lt;PCNAME&gt;. Fraya vous attend à l'intérieur.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="518" prevId="6" villagerId="1001">
+        <Page social="5">Vous voici enfin. Elion nous a beaucoup parlé de vous!&amp;nbsp; Bienvenue à Allemantheia!&amp;nbsp; Merci d'avoir fait le déplacement.&lt;BR&gt;&lt;BR&gt;La ville doit faire face à un bon nombre de problèmes. Certains nécessitent simplement un peu de doigté, d'autres requièrent l'intervention d'une personne venant de l'extérieur. Je peux vous dire que le partage du pouvoir n'est pas une mince affaire. C'est complexe, subtil, et chaque faux pas se paye sur le long terme.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="518" prevId="7" villagerId="1001">
+        <Page social="5">Votre statut d'intervenant extérieur vous donne une certaine liberté d'action. Toutefois, je ne vous cacherai pas que certains restent sceptiques. Votre travail va avoir des répercussions sérieuses sur notre vie.&lt;BR&gt;&lt;BR&gt;Sans vouloir vous mettre la pression...</Page>
+    </Text>
+</QuestDialog>

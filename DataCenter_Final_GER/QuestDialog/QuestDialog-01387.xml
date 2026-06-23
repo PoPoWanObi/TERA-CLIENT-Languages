@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">Ich brauche Eure Hilfe, &lt;PCNAME&gt;. Wir haben Probleme, die Himmelsfelder zu halten und könnten die Hilfe eines guten Soldaten gebrauchen.&lt;BR&gt;&lt;BR&gt;Brecht zu den Himmelsfeldern auf und tötet dort {@LinkCreature:45#4002#Argonomorphtuwangi}, {@LinkCreature:45#4003#Argonomorphkampffrösche} und {@LinkCreature:45#4004#Argonomorphwendigos}.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss Eurer Mission bei Lyndel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1009">
+        <Page social="5">Ausgezeichnete Arbeit, &lt;PCNAME&gt;. Nur weiter so.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1009">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

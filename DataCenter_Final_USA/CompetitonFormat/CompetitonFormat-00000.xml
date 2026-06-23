@@ -1,0 +1,85 @@
+<CompetitonFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/CompetitonFormat CompetitonFormat.xsd" xmlns="https://vezel.dev/novadrop/dc/CompetitonFormat">
+    <Format id="1" type="total" bPrevSeason="false" needPageInfo="true">
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:202$$길드명}" size="180" />
+        <Column name="{@guildcompetition:207$$길드장}" size="180" />
+        <Column name="{@guildcompetition:218$$순위격차}" size="100" />
+    </Format>
+    <Format id="1" type="total" bPrevSeason="true" needPageInfo="true">
+        <Column name="{@guildcompetition:200$$순위}" size="50" />
+        <Column name="{@guildcompetition:202$$길드명}" size="180" />
+        <Column name="{@guildcompetition:210$$길드포인트}" size="100" />
+        <Column name="{@guildcompetition:211$$TOP 10}" size="100" />
+        <Column name="{@guildcompetition:212$$시즌보상}" size="100" />
+    </Format>
+    <Format id="2" type="dungeon" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="170" />
+        <Column name="{@guildcompetition:202$$길드명}" size="170" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:204$$개인 누적점수}" size="100" />
+    </Format>
+    <Format id="3" type="battlefield" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="170" />
+        <Column name="{@guildcompetition:202$$길드명}" size="170" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:205$$킬/데스/어시스트}" size="150" />
+        <Column name="{@guildcompetition:206$$승률}" size="0" />
+        <Column name="{@guildcompetition:213$$개인평점}" size="100" />
+    </Format>
+    <Format id="4" type="kumas" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="170" />
+        <Column name="{@guildcompetition:202$$길드명}" size="170" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:205$$킬/데스/어시스트}" size="0" />
+        <Column name="{@guildcompetition:206$$승률}" size="0" />
+        <Column name="{@guildcompetition:204$$개인점수}" size="100" />
+    </Format>
+    <Format id="5" type="guildWar" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:202$$길드명}" size="220" />
+        <Column name="{@guildcompetition:207$$길드장}" size="320" />
+        <Column name="{@guildcompetition:223$$전술칩}" size="400" />
+    </Format>
+    <Format id="6" type="achievement" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="180" />
+        <Column name="{@guildcompetition:202$$길드명}" size="180" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:215$$총업적점수}" size="390" />
+    </Format>
+    <Format id="7" type="produce" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="180" />
+        <Column name="{@guildcompetition:202$$길드명}" size="180" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:216$$제작 대성공 점수}" size="390" />
+    </Format>
+    <Format id="8" type="collections" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:202$$길드명}" size="210" />
+        <Column name="{@guildcompetition:207$$길드장}" size="110" />
+        <Column name="{@guildcompetition:209$$길드인원}" size="0" />
+        <Column name="{@guildcompetition:217$$길드채집점수}" size="390" />
+    </Format>
+    <Format id="9" type="dungeon" bPrevSeason="false">
+        <Column name="{@guildcompetition:208$$등급}" size="70" />
+        <Column name="{@guildcompetition:200$$순위}" size="70" />
+        <Column name="{@guildcompetition:201$$캐릭터명}" size="170" />
+        <Column name="{@guildcompetition:202$$길드명}" size="170" />
+        <Column name="{@guildcompetition:203$$클래스}" size="100" />
+        <Column name="{@guildcompetition:222$$개인 최고점수}" size="100" />
+    </Format>
+    <LeaguePageInfo title="1" bButton="true" bCheck="false" dateStr="40" infoStringId="5" leagueId="1" />
+    <LeaguePageInfo title="2" bButton="true" bCheck="false" dateStr="40" infoStringId="5" leagueId="2" />
+    <MainPageInfo titleId="3" infoStringId="12" tipStringId="40" />
+</CompetitonFormat>

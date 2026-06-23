@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Я не ожидал, что ты добудешь столько мяса, &lt;PCNAME&gt;. Боюсь, излишек начнет портиться, если мы не достанем соль.&lt;NEXTPAGEBUTTON&gt;"Для вкуса?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Нет, чтобы сохранить мясо от гниения. Конечно, солонина не сравнится с сочным барбекю. Когда мясо само отходит от кости, а ароматный сок стекает по пальцам и...&lt;BR&gt;&lt;BR&gt;Так, о чем это мы? А! О том, как сохранить излишки мяса. У Веруса есть все необходимое для засолки. Не отнесешь оставшееся мясо ему?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1004">
+        <Page social="4">Лишняя еда? Такие проблемы мне нравятся! Конечно, я помогу с засолкой.&lt;BR&gt;&lt;BR&gt;Вот, держи пустую бочку и соль. Приступай!&lt;BR&gt;&lt;BR&gt;Когда закончишь, отдай солонину &lt;b&gt;Эйне&lt;/b&gt; - она имеет большое влияние в лагере. Пусть сама распределяет мясо по мере необходимости.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1043">
+        <Page social="4">Сначала ты устраиваешь нам пир, а теперь спасаешь от голода. Мы правильно сделали, что решили бежать в Деревню лесорубов.&lt;BR&gt;&lt;BR&gt;От имени моих людей благодарю тебя, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1043">
+        <Page social="0">Благодаря тебе мясо не пропадет! Спасибо, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

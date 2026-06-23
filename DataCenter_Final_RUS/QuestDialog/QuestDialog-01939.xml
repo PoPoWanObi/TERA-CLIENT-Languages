@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5">Некоторые вожди Потомков все еще скрываются в бастионе. Пока мы не очистим эти туннели, в Лесах Забвения не будет спокойно.&lt;BR&gt;&lt;BR&gt;Убей {@LinkCreature:487#2002#Мистиков}, {@LinkCreature:487#2003#Магов}, {@LinkCreature:487#2004#Жнецов}, {@LinkCreature:487#3001#Рыцарей} и {@LinkCreature:487#3002#Убийц} бастиона.&lt;BR&gt;&lt;BR&gt;Сообщи мне, как только отправишь их в мир Грез.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5">Как хорошо, что у нас есть такие опытные солдаты. Я могла бы послать отряд менее опытных солдат на это задание, и, скорее всего, потеряла бы большую их часть. Спасибо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">Не возвращайся до тех пор, пока у тебя не будет достаточно знаков, чтобы я могла гордиться тобой.</Page>
+    </Text>
+</QuestDialog>

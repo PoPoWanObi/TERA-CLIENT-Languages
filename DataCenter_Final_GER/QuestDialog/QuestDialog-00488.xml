@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="0">Ihr traft auf Gurney, den Waffenausbilder, und lerntet dann das Sammeln von Lilni.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="4">Ihr habt alle Informationen, die Ihr benötigt, um stark und effektiv zu bleiben. Aber es ist immer weise, Eure Fertigkeiten so bald wie möglich zu verbessern.&lt;BR&gt;&lt;BR&gt;Ihr solltest als Nächstes mit Gurney sprechen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1007">
+        <Page social="4">Ich lehre hier Kampffertigkeiten. Außer echtem Kampf gibt es nichts Besseres und ich bin immer bereit, Euch ein paar neue Tricks zu zeigen.&lt;BR&gt;&lt;BR&gt;Wo wir gerade von Tricks reden ... Mit Magie habe ich nichts zu schaffen. Dafür ist Charise zuständig.&lt;NEXTPAGEBUTTON&gt;"Mit wem sollte ich als Nächstes sprechen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Also ... Ich habe Explosionen gehört und Ihr riecht wie ein Lagerfeuer ... genau!&lt;BR&gt;&lt;BR&gt;Lilni! Zeigt diesem Neuling, wie man Steine zerbricht, ja?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1048">
+        <Page social="4">Überall umgibt Euch die Fülle der Natur. Erze, Pflanzen und Energie sind &lt;font color='#660000'&gt;Materialien&lt;/font&gt;, die allesamt für das Handwerk genutzt werden können!&lt;BR&gt;&lt;BR&gt;Das wird Euch zugute kommen, da von Hand hergestellte Gegenstände in der Regel von besserer Qualität sind.&lt;BR&gt;&lt;BR&gt;Materialien gibt es überall! Seht Ihr, was ich meine?&lt;NEXTPAGEBUTTON&gt;"Wonach halte ich Ausschau?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Sammelbare Gegenstände werden hervorgehoben, wenn Ihr in ihre Nähe kommt - es erscheint ein Kreis, ganz ähnlich wie der, in dem ich gerade stehe. Stellt Euch neben einen sammelbaren Gegenstand und drückt &lt;b&gt;F&lt;/b&gt;. Falls das scheitert, versucht es erneut.&lt;BR&gt;&lt;BR&gt;Probiert es selbst einmal aus. Seht Euch in meiner Nähe nach rötlichen Steinen um. Wenn Ihr einen gefunden und ausgewählt habt, drückt die &lt;font color='#660000'&gt;[F]-Taste&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Gute Arbeit. Ihr glaubt ja nicht, wie viele mit irgendwelchen wahllosen Kieselsteinen zu mir zurückkommen.&lt;BR&gt;&lt;BR&gt;Als Mitglied einer &lt;font color='#660000'&gt;Gruppe&lt;/font&gt; sammelt Ihr Materialien schneller ein und teilt Euch den Ertrag.&lt;BR&gt;&lt;BR&gt;Eine weitere Art, das Sammeln zu beschleunigen: Verbessert Eure &lt;font color='#660000'&gt;Sammelfertigkeit&lt;/font&gt; durch Übung. Übung macht den Meister!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" villagerId="1048">
+        <Page social="0">Habt Ihr schon versucht, in der Welt draußen zu sammeln? Solltet Ihr die erlernten Fähigkeiten üben wollen, so nähert Euch dem Steinhaufen und drückt dann die [F]-Taste. Denkt daran, dass Ihr während des Kampfs nicht sammeln könnt.</Page>
+    </Text>
+</QuestDialog>

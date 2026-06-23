@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">Нужно продвигаться дальше. Отправляйся на охоту в Инкубатор. Уничтожь {@LinkCreature:39#170#Верных джалмараков}, {@LinkCreature:39#190#Взбешенных} и {@LinkCreature:39#191#Окаянных малигосов} в Арахнее.&lt;BR&gt;&lt;BR&gt;Когда закончишь, зайди к Анволду в Святилище.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1016">
+        <Page social="4">Да если бы все, кто сюда приходят, рубились бы так, как ты, мы бы и горя не знали.&lt;BR&gt;&lt;BR&gt;Сказать по правде, я не удивлюсь, если ты свихнешься от такой работы.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1016">
+        <Page social="0">Если в твоих странствиях по Арахнее тебе попадутся {@LinkCreature:39#170#Верные джалмараки}, {@LinkCreature:39#190#Взбешенные малигосы} или {@LinkCreature:39#191#Окаянные малигосы}, убивай их. А доказательства их гибели приноси мне в любое время - я щедро вознагражу.</Page>
+    </Text>
+</QuestDialog>

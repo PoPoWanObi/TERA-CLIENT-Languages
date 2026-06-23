@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">Я видела несколько {@LinkCreature:22#18#Благородных вампирш}, которые бродили по залам. Их не позвали на фестиваль, и похоже, что они сыграли свою роль в этой катастрофе!&lt;BR&gt;&lt;BR&gt;Вампиры показали себя опасным противником. Ступай и уничтожь их.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Вадомские ведьмы будут тебе весьма признательны, когда это все закончится.&lt;BR&gt;&lt;BR&gt;Мы всегда старались жить замкнуто, не полагаясь на чужаков.&lt;BR&gt;&lt;BR&gt;Когда к ним снова вернется рассудок, возможно, мы поменяем свою точку зрения.</Page>
+    </Text>
+</QuestDialog>

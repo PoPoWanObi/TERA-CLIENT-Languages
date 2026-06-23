@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Vous, vous devez vous ennuyer comme un rat mort. Je veux dire, la guerre fait rage, et vous restez là, à papoter avec moi.&lt;NEXTPAGEBUTTON&gt;"Eh oui..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je l'ai remarqué dès que j'ai posé les yeux sur vous. Vous n'êtes qu'{@gender:un/une} &lt;PCCLASS:lcase&gt; minable et {@gender:fainéant/fainéante}. Bah.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3002#Taratia} pour jouer aux billes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Hi hi. Oui, on perd tous un peu la boule, pas vrai?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Jouer aux billes, c'est la classe, mais j'ai besoin de matériaux, et il faut les livrer en quatrième vitesse à Santia, à l'atelier.&lt;BR&gt;&lt;BR&gt;On va dire une autre fois, pour les billes, alors?&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">De l'essence de soleil. Vous vous êtes déjà demandé d'où ça pouvait venir?&amp;nbsp; Je veux dire, vraiment?&amp;nbsp; Oui, non, moi non plus.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Pas la peine d'aller jusqu'au soleil pour récupérer un peu d'essence. Vous le saviez ça, non?&amp;nbsp;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Taratia disait vrai à votre propos. Digne de confiance, rapide et efficace.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Est-ce vous que Taratia a {@gender:envoyé/envoyée} pour m'apporter du minerai de krymétal?&amp;nbsp; Alors, où est-il?&amp;nbsp;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Sérieusement, un de ces jours, on devrait tous se retrouver pour boire un verre et rigoler un bon coup. Un jour, oui, quand toute ces histoires seront derrière nous.</Page>
+    </Text>
+</QuestDialog>

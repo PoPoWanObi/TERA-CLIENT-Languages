@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="4">Нет ничего более ужасного, чем атака толпы вендиго. Они становятся агрессивнее с каждым днем.&lt;BR&gt;&lt;BR&gt;Нужно обеспечить безопасность этого региона, если мы хотим добиться успеха. Нужно убить нескольких {@LinkCreature:34#610#Вендиго-злобней} и {@LinkCreature:34#710#Вендиго-полководцев}, чтобы ослабить их.&lt;BR&gt;&lt;BR&gt;Действуй быстро и следи, чтобы не привести их к нашим позициям.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Это была хорошая битва. Пока вендиго зализывают раны, мы сможем усилить наши позиции.</Page>
+    </Text>
+</QuestDialog>

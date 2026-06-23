@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4">Ich lebe nur noch für einen gerechten Tod. Die Gula haben alles andere ... verschlungen.&lt;BR&gt;&lt;BR&gt;Freunde ... verschlungen. Familie ... verschlungen. Mein ganzes Leben ... vernichtet.&lt;BR&gt;&lt;BR&gt;Aber seid gewiss, &lt;PCNAME&gt;: Viele der Gula werden mir auf dem Weg zurück in den Traum vorausgehen.&lt;NEXTPAGEBUTTON&gt;"Ich werde Euch beistehen, Kurak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich bin den Gula jetzt schon seit Jahren auf den Fersen, aber ich stoße einfach nicht ins Herz ihrer Machenschaften vor: ins Goldene Labyrinth.&lt;BR&gt;&lt;BR&gt;In den Katakomben der Hungrigen Höhlen gibt es ein Teleportal, das dorthin führt. Aber aus irgendeinem Grund funktioniert es bei mir nicht!&lt;BR&gt;&lt;BR&gt;Wollt Ihr der Rechtschaffenheit dienen, &lt;PCCLASS&gt;? &lt;BR&gt;&lt;BR&gt;Werdet Ihr {@LinkCreature:472#4#Gulatodbringer}, {@LinkCreature:472#24#Gularäuber}, {@LinkCreature:472#11#Gulawilde} und {@LinkCreature:472#207#Brutale Gula} töten? Raubt ihnen ihre Herzen, so wie sie mir meines geraubt haben.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6">Ich danke Euch, &lt;PCNAME&gt;. Danke für diese Herzen.&lt;BR&gt;&lt;BR&gt;Wenn Ihr mich bitte entschuldigen würdet ... Ich habe ein wenig Hunger.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Sie werden durch unsere rechtschaffene Macht sterben! Ich werde sie verzehren, so wie sie mich verzehrt haben!</Page>
+    </Text>
+</QuestDialog>

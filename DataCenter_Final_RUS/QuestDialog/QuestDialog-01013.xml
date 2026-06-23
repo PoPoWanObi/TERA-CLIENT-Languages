@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="5">Тулсианцы захватили Рудники Кроскурн. Кулкари Грозы пустыни, охраняющие периметр шахт, убивают нас одного из другим. Так что для того, чтобы вернуть рудники, нам надо хотя бы... остаться в живых. Покажи себя. Уничтожь как можно больше из них.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">Ха-ха! У тебя получилось, &lt;PCNAME&gt;! Они уничтожены.&lt;BR&gt;&lt;BR&gt;И теперь наши шахтеры смогут вернуться к работе.</Page>
+    </Text>
+</QuestDialog>

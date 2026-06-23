@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0">Считай это миссией милосердия.&lt;BR&gt;&lt;BR&gt;Здесь у нас много врагов, но {@LinkCreature:33#15#Меконари-магистры} и {@LinkCreature:33#67#Инквизиторы-обугленное сердце} - худшие из них... самые жестокие.&lt;BR&gt;&lt;BR&gt;Им все равно, кого пытать - живых или мертвых. Положи конец их жестокости.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1006">
+        <Page social="0">Твоя смелость, &lt;PCNAME&gt;, не знает границ.</Page>
+    </Text>
+</QuestDialog>

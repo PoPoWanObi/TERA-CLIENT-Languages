@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1100" huntingZoneId="204" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="204" prevId="0" villagerId="1100" endSocial="14">
+        <Page social="4">Soldaten sind gestorben, Minenarbeiter wurden niedergemetzelt und kaum einer kommt ihnen zu Hilfe. Allen geht es nur um das Metall und das Durignit. Seid Ihr anders?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1100" endSocial="0">
+        <Page social="0">Wollt Ihr jetzt teleportiert werden?&lt;TEXTBUTTON&gt;"Ja."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Zur Fyrkuppe gehen&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

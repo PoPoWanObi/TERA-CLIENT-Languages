@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Хочешь перо? Прости, но я дал себе обещание больше таких не делать.&lt;BR&gt;&lt;BR&gt;Это пушистое страусиное перо, а Шариар объявил охоту на страусов браконьерством. Не стоит нарушать их приказы.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Но у меня уже есть это перо...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">У тебя есть перо? Ну, Шариар запрещает только &amp;quot;охотиться&amp;quot; на них, так что, думаю, я сделаю тебе украшение.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Отличная новость.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Прости, но доблестные защитники Шариара признали охоту на страусов незаконной. Мой тебе совет: продавай зерметаллическую руду и волокна лурии и забывай обо всем, что связано с перьями страусов.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0">Les hérétiques sikandaris sont retranchés au Temple de Sikander, nous devons trouver un moyen de sortir de cette impasse.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller tuer les {@LinkCreature:57#7#défenseurs}, {@LinkCreature:57#8#porteurs de vie} et {@LinkCreature:57#10#champions} sikandaris?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Une fois la mission terminée, faites votre rapport à Sulis, au Camp du Pont brisé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1009">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1009">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

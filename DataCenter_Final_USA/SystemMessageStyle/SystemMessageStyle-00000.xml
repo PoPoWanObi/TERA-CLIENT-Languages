@@ -1,0 +1,53 @@
+<SystemMessageStyle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SystemMessageStyle SystemMessageStyle.xsd" xmlns="https://vezel.dev/novadrop/dc/SystemMessageStyle">
+    <Style id="0" type="" name="SMS_DEFAULT" />
+    <Style id="1" type="rolling" name="SMS_CHAT_INFO" />
+    <Style id="2" type="fixed" name="SMS_ADMIN_NOTICE" color="0xFEE134" size="30" blink="false" />
+    <Style id="3" type="rolling" name="SMS_ALERT_CENTER" color="0xFF0000" />
+    <Style id="4" type="" name="SMS_CHAT_DMG_TO_TARGET" />
+    <Style id="5" type="" name="SMS_CHAT_CRI_DMG_TO_TARGET" />
+    <Style id="6" type="" name="SMS_CHAT_DMG_TO_ME" />
+    <Style id="7" type="" name="SMS_CHAT_CRI_DMG_TO_ME" />
+    <Style id="8" type="" name="SMS_CHAT_DROB_DMG" />
+    <Style id="9" type="rolling" name="SMS_CHAT_WORLD_INFO" />
+    <Style id="10" type="rolling" name="SMS_CHAT_ERROR_INFO" />
+    <Style id="11" type="" name="SMS_CHAT_PARTY_INFO" />
+    <Style id="12" type="" name="SMS_CHAT_GUILD_INFO" />
+    <Style id="13" type="" name="SMS_CHAT_TEAM_INFO" />
+    <Style id="14" type="rolling" name="SMS_CHAT_INTERACTION_INFO" />
+    <Style id="15" type="rolling" name="SMS_CHAT_WARN_INFO" />
+    <Style id="16" type="" name="SMS_CHAT_LOOT_ITEM" />
+    <Style id="17" type="" name="SMS_CHAT_GET_EXP" />
+    <Style id="18" type="" name="SMS_CHAT_LOOT_MONEY" />
+    <Style id="19" type="fixed" name="SMS_CHAT_LOOT_SPECIAL_ITEM" color="0xFFC000" size="26" blink="false" />
+    <Style id="20" type="fixed" name="SMS_CHAT_INFO_QUEST" color="0xFF0000" size="26" blink="false" />
+    <Style id="21" type="fixed" name="SMS_DUEL_RESULT" color="0xFFC000" size="26" blink="false" />
+    <Style id="22" type="fixed" name="SMS_ALERT_INTERACTION" color="0xFBEF29" size="28" blink="true" />
+    <Style id="23" type="fixed" name="SMS_PK_ALERT" color="0xFF0000" size="26" blink="false" />
+    <Style id="24" type="" name="SMS_CHAT_INFO_CHAT_ONLY" />
+    <Style id="25" type="" name="SMS_CHAT_DMG_TO_ME_FROM_SMALL" />
+    <Style id="26" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_SMALL" />
+    <Style id="27" type="" name="SMS_CHAT_DMG_TO_ME_FROM_MEDIUM" />
+    <Style id="28" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_MEDIUM" />
+    <Style id="29" type="" name="SMS_CHAT_DMG_TO_ME_FROM_LARGE" />
+    <Style id="30" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_LARGE" />
+    <Style id="31" type="fixed" name="SMS_DUNGEON_EVENT_STYLE_DEFAULT" color="0xFF9900" size="26" blink="false" />
+    <Style id="32" type="fixed" name="SMS_DUNGEON_EVENT_STYLE_ALERT" color="0xFF9900" size="26" blink="false" />
+    <Style id="33" type="fixed" name="SMS_COMMAND" color="0xFF9900" size="26" blink="false" existTime="8" single="true" />
+    <Style id="34" type="fixed" name="SMS_CHAT_INFO_FIXED" color="0xFF9900" size="26" blink="false" />
+    <Style id="35" type="level" name="SMS_LEVEL" />
+    <Style id="36" type="" name="SMS_CHAT_ERROR_INFO_CHAT_ONLY" />
+    <Style id="37" type="fixed" name="SMS_MONSTER_ACTION_MESSAGE" color="0xFF9900" size="26" blink="false" />
+    <Style id="38" type="fixed" name="SMS_ALLY_LOCKON_YOU" color="0x80FF80" size="26" blink="true" />
+    <Style id="39" type="fixed" name="SMS_ENEMY_LOCKON_YOU" color="0xFF8080" size="26" blink="true" />
+    <Style id="40" type="rolling" name="SMS_CHAT_BATTLEFIELD_INFO" />
+    <Style id="41" type="countdown" name="SYSTEM_MSG_COUNT_DOWN" />
+    <Style id="42" type="dungeonmsg" name="SYSTEM_MSG_DUNGEON_MSG" />
+    <Style id="43" type="bfourmsg" name="SYSTEM_MSG_BF_OURTEAM_MSG" />
+    <Style id="44" type="bfenemymsg" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" />
+    <Style id="45" type="bfnonemsg" name="SYSTEM_MSG_BF_NONE_MSG" />
+    <Style id="46" type="fixed" name="SMS_CONSUL" color="0x12B581" size="36" blink="false" existTime="8" single="true" />
+    <Style id="47" type="systempopup" name="SMS_SYSTEM_POPUP" />
+    <Style id="48" type="fixed" name="SMS_CHAT_NOTICE" color="0x44ccFF" size="26" blink="false" single="true" />
+    <Style id="49" type="tutorial2" name="SYSTEM_MSG_TUTORIAL2" />
+    <Style id="50" type="bfnoticemsg" name="SMS_MSG_BF_NOTICE_MSG" />
+</SystemMessageStyle>

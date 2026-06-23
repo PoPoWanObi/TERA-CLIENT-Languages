@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Eine Schockbehandlung allein wird natürlich nicht ausreichen. Es braucht auch einen Anteil Magie. Und das bedeutet auch noch mehr blutiges Handwerk für Euch.&lt;BR&gt;&lt;BR&gt;Bringt mir die Gehirne der {@LinkCreature:9#800#Gulaschlächter}, um den Albtraum, der seinen Geist vernebelt, aufzunehmen.&lt;BR&gt;&lt;BR&gt;Warum umfassen meine Behandlungen bloß nie etwas Harmloses wie einfach nur "ein Glas warme Milch" oder "viel Ruhe"?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Sie sind kleiner als ich dachte. Aber das erklärt wohl so einiges, nicht wahr?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Bringt mir Gehirne, &lt;PCNAME&gt;. Gehirne!&lt;BR&gt;&lt;BR&gt;Bitte? Hätte ich das nicht sagen sollen?</Page>
+    </Text>
+</QuestDialog>

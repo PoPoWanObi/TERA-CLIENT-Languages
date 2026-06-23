@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;Vous avez aidé les soldats qui récupéraient les provisions dans les Bois perdus et obtenu plus de renseignements sur les desseins des Orkans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="4">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;&lt;PCNAME&gt;, je dois retourner au camp. Vous trouverez le chariot de ravitaillement à droite en suivant cette route. Veuillez récupérer les provisions qui y sont éparpillées et ramenez-les à Ketrath.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1026">
+        <Page social="4">Quelqu'un a fini par venir!&amp;nbsp; Mais je crains que vous n'arriviez trop tard.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Que s'est-il passé?&amp;nbsp;&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Des orcans. Ils ont mis la main sur les provisions que nous avions récupérées... et sur mes troupes. Moi, ils m'ont laissé pour mort. &lt;BR&gt;&lt;BR&gt;Pourriez-vous remonter leur trace et aider mes camarades à s'échapper?&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" villagerId="1026">
+        <Page social="0">Le temps presse. Dépêchez-vous, je vous prie.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="3" villagerId="1040">
+        <Page social="4">Merci. J'essayais de rejoindre Ketrath mais on m'a coupé la route. &lt;BR&gt;&lt;BR&gt;J'ai faussé compagnie aux orcans il y a peu, en me faufilant alors qu'ils étaient distraits. Mais j'ai pu voir où ils ont emmené le reste de mon unité... Je m'apprêtais d'ailleurs à aller chercher de l'aide. On dirait que vous êtes l'aide dont ils ont besoin.&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas pour moi. Je me débrouillerai, maintenant que la voie est libre. Allez donc au campement orcan et libérez mes amis!&amp;nbsp;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1041">
+        <Page social="4">Vous êtes venue pour nous!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Je vais bien... Mais je vous en prie, aidez mon ami Milio. Je l'ai entendu hurler tout à l'heure, donc je sais qu'il est retenu prisonnier quelque part dans ce camp.&lt;BR&gt;&lt;BR&gt;Je retourne à la base de ravitaillement, j'y arriverai par mes propres moyens.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1042">
+        <Page social="4">Esere est en vie?&amp;nbsp; Et Ketrath aussi?&amp;nbsp; Ce n'était donc pas un massacre complet...&lt;BR&gt;&lt;BR&gt;Où sont-ils?&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Retournez à la base.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je vais les rejoindre de ce pas. &lt;BR&gt;&lt;BR&gt;Mais avant de partir, j'ai des informations utiles pour vous. Les orcans des Bois perdus ont une hiérarchie. Cherchez les groupes qui portent un sceau rouge. &lt;BR&gt;&lt;BR&gt;Tuez-en quelques-uns, récupérez leurs sceaux et montrez-les à Lapau... S'il est encore en vie. Personne n'en sait autant que lui sur les orcans. Si quelqu'un peut expliquer ce que signifient ces sceaux, c'est bien Lapau.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1009">
+        <Page social="4">Salut!&amp;nbsp; Comment se porte la résistance?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Qu'est-ce que vous avez là?&amp;nbsp; Aah, un sceau à marquer orcan!&amp;nbsp; Les orcans s'en servent pour marquer leurs esclaves.&lt;BR&gt;&lt;BR&gt;Hum, voilà qui est intéressant. Ceux-ci sont magiques. Le maître peut transférer des pouvoirs à son esclave par le biais de ce sceau!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Vous devriez trouver un endroit où vous cacher.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hé!&amp;nbsp; Vous êtes marrante!&amp;nbsp; J'arrive à me cacher des orcans!&amp;nbsp; Je me débrouille juste mieux que tous les autres!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Hé, bonjour!&amp;nbsp; C'est une de vos connaissances?&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" villagerId="1009">
+        <Page social="0">Il n'y a rien qui puisse vous intéresser.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="87" prevId="8" villagerId="1037">
+        <Page social="4">Du bon travail, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;J'ai mené quelques recherches. Il ne s'agissait pas seulement de piller les provisions. Les orcans ont un chef et c'est lui qui a mis de l'ordre dans leur rang et leur a ordonné d'attaquer Pora Elinu.&lt;BR&gt;&lt;BR&gt;Mais, puisqu'il s'agit d'orcan, leur stratégie fut maladroite et grossière.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mais tristement efficace.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ce n'est pas faux. Ecoutez, j'ai une nouvelle mission pour vous. J'ai un autre éclaireur assez avancé dans le territoire contrôlé par les Orkans et qui recherche un point faible que nous pourrions exploiter pour les chasser des Bois perdus.&lt;BR&gt;&lt;BR&gt;Vous allez à nouveau faire diversion. Si vous y arrivez, vous aurez gagné tout mon respect.&lt;BR&gt;&lt;BR&gt;En attendant, tenez. Considérez qu'il s'agit de votre trophée pour être arrivée ici avant moi.</Page>
+    </Text>
+</QuestDialog>

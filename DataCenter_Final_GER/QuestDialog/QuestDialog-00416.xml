@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="4">Die Piraten unterhalten einen Sklavenpier für das Kazuursyndikat. Dank Euch, &lt;PCNAME&gt;, nutzen den Gula jetzt ihre eigenen Wachen nichts mehr.&lt;BR&gt;&lt;BR&gt;Aber es ist auch unwichtig, wer den Pier bewacht. Wir müssen verhindern, dass Schiffe dort andocken.&lt;BR&gt;&lt;BR&gt;Das bedeutet, die {@LinkCreature:12#13#Rotpeitschenklauenreiter} müssen vernichtet werden. Kein Kapitän, der mit Sklavenhändlern Geschäfte macht, wird an einem unbewachten Pier anlegen. Also kann das Kazuursyndikat seine Sklaven dann nicht mehr wegschaffen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Ihr seid der schlimmste Albtraum des Sklavenhandels, &lt;PCNAME&gt;. Die Götter sind hocherfreut über Euren Sinn für Gerechtigkeit!</Page>
+    </Text>
+</QuestDialog>

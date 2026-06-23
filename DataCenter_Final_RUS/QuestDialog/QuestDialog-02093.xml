@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Вы спасли крестьян, которых похитили вампиры для Кровавого Банкета.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Вампиры не желают так просто сдаваться. Они похитили несколько селян и теперь собираются завершить свой ритуал при помощи крови этих бедняг.&lt;BR&gt;&lt;BR&gt;Вернись на Кровавый Банкет и освободи захваченных селян.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="452" prevId="2" villagerId="101">
+        <Page social="4">Пожалуйста, помоги мне! Эти вампиры собираются убить меня! &lt;NEXTPAGEBUTTON&gt;"Ты в безопасности. Беги отсюда!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="2" villagerId="102">
+        <Page social="4">Я пытаюсь не трусить, но вампиры уже убили всех остальных, и скоро они придут за мной! &lt;NEXTPAGEBUTTON&gt;"Ступай домой. Твоя семья волнуется".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="7002">
+        <Page social="4">Это славный подвиг, &lt;PCNAME&gt;. Балдер тебе улыбается.</Page>
+    </Text>
+</QuestDialog>

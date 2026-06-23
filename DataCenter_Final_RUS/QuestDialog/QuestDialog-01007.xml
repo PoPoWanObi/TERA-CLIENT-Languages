@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0">Местные хищники мешают торговле жуткими осколками и могут разрушить все, что мы успели построить.&lt;BR&gt;&lt;BR&gt;Уничтожь {@LinkCreature:34#100#Малигосов-ледяных преследователей}, {@LinkCreature:34#200#Кайманов-невольников} и Джунайдарских {@LinkCreature:34#300#воровок}, {@LinkCreature:34#310#бандиток}, {@LinkCreature:34#400#бичевательниц} и {@LinkCreature:34#410#налетчиц}.&lt;BR&gt;&lt;BR&gt;Доложи Дене, когда задание будет выполнено. Задай им жару!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1010">
+        <Page social="4">Мы ценим твою старательность и твои жертвы.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1010">
+        <Page social="0">Я отдал тебе приказ, солдат. Выполни его.</Page>
+    </Text>
+</QuestDialog>

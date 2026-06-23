@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Ich verstehe ja, dass Ihr Soldaten Besseres zu tun habt, aber die Lage hat sich derart verschlechtert, dass Ihr mir helfen müsst.&lt;BR&gt;&lt;BR&gt;Die von den Gula zugefügten Wunden fangen sofort an zu eitern. Ich muss einen Wundsalbenverband herstellen, damit sich die Wunden nicht entzünden. Dafür brauche ich &lt;FONT COLOR='#660000'&gt;Shetlafasern&lt;/FONT&gt;.&lt;BR&gt;&lt;BR&gt;Ihr findet sie überall im Labyrinth oder könnt sie von anderen kaufen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="0">Sicher, Pflanzensammeln ist nicht gerade das, was man Euch bei der Rekrutierung versprochen hat, aber Ihr rettet das Leben Eurer Kameraden, &lt;PCNAME&gt;. Danke!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Ich brauche mehr &lt;font color='#660000'&gt;Shetlafasern&lt;/font&gt;, &lt;PCNAME&gt;. So einfach ist das.</Page>
+    </Text>
+</QuestDialog>

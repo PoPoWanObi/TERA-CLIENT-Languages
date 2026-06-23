@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">Некоторые ученики все еще находятся под властью чар, и они пытаются отбить академию. Положи этому конец. Уничтожь {@LinkCreature:22#19#Вадомских ведьм} и {@LinkCreature:22#20#Сумеречных проводников}.&lt;BR&gt;&lt;BR&gt;Когда дело будет сделано, разыщи Кендею.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1025">
+        <Page social="5">Их пришлось убить. Ясно. Хранитель знаний увековечит несчастных в наших хрониках.&lt;BR&gt;&lt;BR&gt;Их не забудут.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1025">
+        <Page social="0">Тебе удалось справиться с ведьмами и проводниками? Если нет, поторопись.</Page>
+    </Text>
+</QuestDialog>

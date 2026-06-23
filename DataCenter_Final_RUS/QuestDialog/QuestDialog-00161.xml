@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Поставки прекратились. Нет поставок - нет продовольствия. Нет продовольствия - нет энергии, нет энергии - нет шансов победить живодеров, которые нападают на нас и отбирают наши припасы!&lt;BR&gt;&lt;BR&gt;Если бы можно было раздобыть хоть немного мяса... Можно попросить тебя убить для нас парочку {@LinkCreature:6#1021#Топающих норуков}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">Спасибо тебе. Так-так, посмотрим.&lt;BR&gt;&lt;BR&gt;Видишь ли, мы обычно не едим их мясо. Но в чрезвычайных обстоятельствах...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1005">
+        <Page social="0">Тебе удалось раздобыть мясо? Норуков обычно не едят, просто у нас не осталось выбора...</Page>
+    </Text>
+</QuestDialog>

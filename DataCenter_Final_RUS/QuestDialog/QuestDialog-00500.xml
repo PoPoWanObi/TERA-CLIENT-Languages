@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">Нужно больше узнать про Церемонию благословения, но для этого придется прорваться через толпу вампиров.&lt;BR&gt;&lt;BR&gt;Если сможешь избавиться от {@LinkCreature:16#2403#Вампиров-посыльных} и {@LinkCreature:16#2404#Вампиров-солдат} в &lt;font color='#660000'&gt;саду особняка&lt;/font&gt;, это сильно облегчит мне задачу.&lt;BR&gt;&lt;BR&gt;Когда закончишь, доложи Сегодуну - он уже в саду.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">Все получилось, как я погляжу. Отлично!&lt;BR&gt;&lt;BR&gt;Вот, прими это в награду.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">{@LinkCreature:25#3021#Избранные Лока} делают культистов еще более одержимыми. Мы должны их уничтожить!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Эй, а ты справляешься намного лучше, чем я ожидал! Видишь, эмблемы этих одержимых зачарованы маной. Если провести анализ, то, возможно, мы сумеем определить, как контролировался их разум. Хорошая работа!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">Без эмблем я ничего не смогу сделать.</Page>
+    </Text>
+</QuestDialog>

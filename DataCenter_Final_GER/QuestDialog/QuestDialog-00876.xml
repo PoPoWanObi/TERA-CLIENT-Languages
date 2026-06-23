@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1005">
+        <Page social="5">Wir könnten viel mehr erledigen, wenn wir nicht ständig in Gefahr wären, von den Wölfen gefressen zu werden. Diese {@LinkCreature:28#1021#Dornholzwölfe} können uns mit ihren Reißzähnen in Hackfleisch verwandeln.&lt;BR&gt;&lt;BR&gt;Wir möchten dem Dorf helfen, aber ich riskiere meine Leute nicht, damit es sich andere hinter einer Mauer bequem machen können. Wenn Ihr die Wölfe erschlagt, werden wir weiter an der Eindämmung der Verderbnis arbeiten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1005">
+        <Page social="5">Oje! Das sind aber viele Reißzähne. Ich schätze, die Wölfe werden für eine Weile kein Problem mehr darstellen.&lt;BR&gt;&lt;BR&gt;Ich werde mit meinen Leuten reden, dann machen wir uns wieder an die Arbeit. Danke.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="228" villagerId="1005">
+        <Page social="0">Gefällt Euch der Gedanke, als Wolfsfutter zu enden? Ich glaube nicht. Ich habe auch keine Lust darauf, also erlegt einige Dornholzwölfe, dann können wir alle beruhigt weitermachen.</Page>
+    </Text>
+</QuestDialog>

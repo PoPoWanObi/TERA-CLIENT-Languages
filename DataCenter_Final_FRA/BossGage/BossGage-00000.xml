@@ -1,0 +1,153 @@
+<BossGage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/BossGage BossGage.xsd" active="true" xmlns="https://vezel.dev/novadrop/dc/BossGage">
+    <BossList>
+        <Boss templateId="81101" huntingZoneId="711" layer="20" range="2000" />
+        <Boss templateId="81102" huntingZoneId="711" layer="20" range="2000" />
+        <Boss templateId="81101" huntingZoneId="811" layer="20" range="2000" />
+        <Boss templateId="81102" huntingZoneId="811" layer="20" range="2000" />
+        <Boss templateId="1001" huntingZoneId="450" layer="30" range="1200" />
+        <Boss templateId="1002" huntingZoneId="450" layer="30" range="1500" />
+        <Boss templateId="1003" huntingZoneId="450" layer="30" range="1400" />
+        <Boss templateId="1001" huntingZoneId="750" layer="30" range="1200" />
+        <Boss templateId="1002" huntingZoneId="750" layer="30" range="1500" />
+        <Boss templateId="1003" huntingZoneId="750" layer="30" range="1400" />
+        <Boss templateId="2020" huntingZoneId="810" layer="20" range="1200" />
+        <Boss templateId="3001" huntingZoneId="810" layer="20" range="1200" />
+        <Boss templateId="3003" huntingZoneId="810" layer="20" range="1200" />
+        <Boss templateId="81398" huntingZoneId="713" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81399" huntingZoneId="713" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81301" huntingZoneId="713" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81308" huntingZoneId="713" layer="10" range="2500" />
+        <Boss templateId="81398" huntingZoneId="813" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81399" huntingZoneId="813" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81301" huntingZoneId="813" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="81308" huntingZoneId="813" layer="10" range="2500" />
+        <Boss templateId="30011000" huntingZoneId="808" layer="20" range="2000" />
+        <Boss templateId="30021000" huntingZoneId="808" layer="20" range="2000" />
+        <Boss templateId="30031000" huntingZoneId="808" layer="20" range="2000" />
+        <Boss templateId="30041000" huntingZoneId="808" layer="20" range="2000" />
+        <Boss templateId="95" huntingZoneId="454" layer="2" range="6000" />
+        <Boss templateId="1000" huntingZoneId="454" layer="30" range="1200" />
+        <Boss templateId="1001" huntingZoneId="454" layer="30" range="1200" />
+        <Boss templateId="1002" huntingZoneId="454" layer="30" range="1200" />
+        <Boss templateId="95" huntingZoneId="754" layer="2" range="6000" />
+        <Boss templateId="1000" huntingZoneId="754" layer="30" range="1200" />
+        <Boss templateId="1001" huntingZoneId="754" layer="30" range="1200" />
+        <Boss templateId="1002" huntingZoneId="754" layer="30" range="1200" />
+        <Boss templateId="100" huntingZoneId="455" layer="10" range="1000" />
+        <Boss templateId="200" huntingZoneId="455" layer="10" range="1000" />
+        <Boss templateId="300" huntingZoneId="455" layer="10" range="800" />
+        <Boss templateId="1001" huntingZoneId="809" layer="20" range="1000" />
+        <Boss templateId="4001" huntingZoneId="809" layer="20" range="1000" />
+        <Boss templateId="3001" huntingZoneId="809" layer="20" range="1000" />
+        <Boss templateId="6001" huntingZoneId="809" layer="20" range="1500" />
+        <Boss templateId="102" huntingZoneId="124" layer="10" range="1000" />
+        <Boss templateId="103" huntingZoneId="124" layer="10" range="1000" />
+        <Boss templateId="104" huntingZoneId="124" layer="10" range="1000" />
+        <Boss templateId="105" huntingZoneId="124" layer="10" range="1000" />
+        <Boss templateId="106" huntingZoneId="124" layer="10" range="1000" />
+        <Boss templateId="102" huntingZoneId="125" layer="10" range="1000" />
+        <Boss templateId="103" huntingZoneId="125" layer="10" range="1000" />
+        <Boss templateId="104" huntingZoneId="125" layer="10" range="1000" />
+        <Boss templateId="105" huntingZoneId="125" layer="10" range="1000" />
+        <Boss templateId="106" huntingZoneId="125" layer="10" range="1000" />
+        <Boss templateId="102" huntingZoneId="126" layer="10" range="1000" />
+        <Boss templateId="103" huntingZoneId="126" layer="10" range="1000" />
+        <Boss templateId="104" huntingZoneId="126" layer="10" range="1000" />
+        <Boss templateId="105" huntingZoneId="126" layer="10" range="1000" />
+        <Boss templateId="106" huntingZoneId="126" layer="10" range="1000" />
+        <Boss templateId="102" huntingZoneId="127" layer="20" range="1000" />
+        <Boss templateId="1002" huntingZoneId="436" layer="10" range="1500">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="3001" huntingZoneId="821" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="2001" huntingZoneId="826" layer="10" range="1400">
+            <Effect shakingCondition="HitByMe" />
+        </Boss>
+        <Boss templateId="91606" huntingZoneId="916" layer="20" range="2000" />
+        <Boss templateId="1000" huntingZoneId="916" layer="20" range="2000" />
+        <Boss templateId="1001" huntingZoneId="916" layer="20" range="2000" />
+        <Boss templateId="91650" huntingZoneId="916" layer="20" range="2000" />
+        <Boss templateId="91606" huntingZoneId="716" layer="20" range="2000" />
+        <Boss templateId="1000" huntingZoneId="716" layer="20" range="2000" />
+        <Boss templateId="1001" huntingZoneId="716" layer="20" range="2000" />
+        <Boss templateId="91650" huntingZoneId="716" layer="20" range="2000" />
+        <Boss templateId="1000" huntingZoneId="814" layer="20" range="2000" />
+        <Boss templateId="2007" huntingZoneId="823" layer="20" range="2000" />
+        <Boss templateId="77704" huntingZoneId="777" layer="10" range="1400" />
+        <Boss templateId="77707" huntingZoneId="777" layer="10" range="1400" />
+        <Boss templateId="77730" huntingZoneId="777" layer="10" range="1400" />
+        <Boss templateId="88501" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885021" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885032" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88504" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88506" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885061" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885062" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88507" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885071" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885072" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88508" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885081" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="885082" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88509" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88511" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88512" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88513" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88514" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88516" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88517" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88518" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88519" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88520" huntingZoneId="885" layer="20" range="2000" />
+        <Boss templateId="88501" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885021" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885032" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88504" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88506" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885061" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885062" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88507" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885071" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885072" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88508" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885081" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="885082" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88509" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88511" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88512" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88513" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88514" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88516" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88517" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88518" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88519" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="88520" huntingZoneId="886" layer="20" range="2000" />
+        <Boss templateId="1000" huntingZoneId="804" layer="30" range="1200" />
+        <Boss templateId="76609" huntingZoneId="766" layer="20" range="1000" />
+        <Boss templateId="76626" huntingZoneId="766" layer="20" range="1000" />
+        <Boss templateId="76619" huntingZoneId="766" layer="20" range="1000" />
+        <Boss templateId="1002" huntingZoneId="457" canDouble="true" layer="20" range="2000" />
+        <Boss templateId="202" huntingZoneId="457" canDouble="true" layer="10" range="2000" />
+        <Boss templateId="1004" huntingZoneId="457" layer="20" range="2000" />
+        <Boss templateId="1001" huntingZoneId="457" canDouble="true" layer="10" range="2000" />
+        <Boss templateId="1003" huntingZoneId="457" canDouble="true" layer="10" range="2000" />
+    </BossList>
+    <Default layer="20" range="2000">
+        <Effect shakingCondition="HitByMe" />
+        <Info showCondition="Anger,Annihilation,InstanceDeath,TimeAttack,Berserk,Swap" />
+    </Default>
+</BossGage>

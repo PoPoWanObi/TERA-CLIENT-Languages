@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="0">Вы вошли в Каменоломню Диранас, выпив полученное от Хэганда зелье невидимости.&lt;BR&gt;Под защитой зелья вы стащили Камни Относительности прямо из-под носа у демокронов и парфианцев.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="4">Куда ты собираешься? В Каменоломню Диранас в Долине Голода?&lt;BR&gt;&lt;BR&gt;Боюсь, ты напрасно теряешь время. Наш телепорт уже давно не подавал никаких признаков жизни.&lt;BR&gt;&lt;BR&gt;Но, похоже, что ты опытный &lt;PCCLASS:lcase&gt;. Ты сможешь вернуться в целости и сохранности. Удачи.&lt;NEXTPAGEBUTTON&gt;"Если телепорт не заработает, мы все равно обречены".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1018">
+        <Page social="4">Хэганд нужен камень!&lt;BR&gt;&lt;BR&gt;Многий золото!&lt;BR&gt;&lt;BR&gt;Хэганд ставь опыты, хотеть камень!&lt;NEXTPAGEBUTTON&gt;"Я могу тебе доверять?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Доверяй Гуиколь? Может быть.&lt;BR&gt;&lt;BR&gt;Доверяй Хэганд? Да.&lt;BR&gt;&lt;BR&gt;Доверяй золото? Всегда!&lt;NEXTPAGEBUTTON&gt;"Я понимаю".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="1018">
+        <Page social="0">Кр-р!&lt;BR&gt;&lt;BR&gt;Нет камень. Нет разговор.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1018">
+        <Page social="4">Камень, много камень! Очень тяжелый!&lt;BR&gt;&lt;BR&gt;Спрятай камень в куча. Недалеко!&lt;BR&gt;&lt;BR&gt;Найти, помощь, вернуться, унести камень.&lt;NEXTPAGEBUTTON&gt;"Хорошо".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="2064">
+        <Page social="4">(Должно быть, это та куча камней, о которой говорил Гуиколь.)&lt;NEXTPAGEBUTTON&gt;"Похоже, это то самое место".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

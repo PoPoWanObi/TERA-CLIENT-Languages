@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">Вы сразились с гуванги и спасли Мадада. Заручившись доверием кирийцев, вы объединили силы.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">Гуванги - одни из наших многочисленных врагов. Они охотятся на наших людей и угоняют их в свою деревню.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Я найду их и спасу Мадада".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Тебе удалось победить арахненов. Быть может, ты справишься и с гуванги.&lt;BR&gt;&lt;BR&gt;Их деревня находится к западу отсюда. Отыщи Мадада, а я пока соберу кирийцев.&lt;BR&gt;&lt;BR&gt;Мы спасем его вместе.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1012">
+        <Page social="4">"Восхождение новой звезды означает, что должна закатиться старая... Я не страшусь этого, ведь с новой звездой многое переменится. Мьюсу Краал".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1013">
+        <Page social="0">(Под крышкой вырезано имя: "Мадад".)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1014">
+        <Page social="0">Нет, прошу тебя! Не убивай!&lt;NEXTPAGEBUTTON&gt;"Ты не видел тут старика в нелепой шапке?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Да! Да! В шапке с длинными ушами. Видел, и совсем недавно.&lt;BR&gt;&lt;BR&gt;Если у него много сил, гуванги сделают его рабом. Если нет, то... они съедят что угодно.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1107">
+        <Page social="0">Почему ты так долго? Не люблю искушать судьбу.&lt;BR&gt;&lt;BR&gt;Давай выбираться отсюда.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1106">
+        <Page social="0">Что ж, неплохо для пришельца с юга. Похоже, я поспешил, когда осудил тебя.&lt;BR&gt;&lt;BR&gt;Видишь холм за моей спиной? В нем есть пещера, в которой находится убежище кирийцев.&lt;BR&gt;&lt;BR&gt;Встретимся там. Гуванги наверняка захотят отомстить.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">Добро пожаловать в наше убежище.&lt;BR&gt;&lt;BR&gt;Тут не слишком уютно, зато безопасно. Твои соратники могут пройти через телепорт. Мы позаботимся о раненых.</Page>
+    </Text>
+</QuestDialog>

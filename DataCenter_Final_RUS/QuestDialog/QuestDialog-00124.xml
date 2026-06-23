@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="4">Мать честная, &lt;PCNAME&gt;, похоже, все еще хуже, чем мы думали. Оказывается, туванги нападают на любого не-туванги, кто зайдет на их территорию! Недавно я видел, как какой-то {@LinkCreature:205#1006#торговец} отправился прямиком в ту сторону - ты можешь его остановить? Верни его или хотя бы помоги ему выбраться оттуда. Его зовут Боэрмас.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="4">Джаэдон прислал тебя на случай, если на меня напали, да? Спасибо, конечно, да только поздновато он спохватился.&lt;BR&gt;&lt;BR&gt;Туванги сначала показались такими милыми, накормили меня... я уж только потом понял, что еда была отравлена.</Page>
+    </Text>
+</QuestDialog>

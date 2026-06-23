@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">Ich traue mich kaum zu fragen - vor allem, wenn man die allgemeine Lage bedenkt - aber ich brauche Eure Hilfe. Unser Hund Ohdi ist weggerannt. Die Kinder haben gesagt, er ist in Richtung des Friedhofs von Berzerad gelaufen. Ich frage Euch nicht nur meinetwillen. Ohdi macht auch den anderen Bewohnern viel Freude.&lt;BR&gt;&lt;BR&gt;Nehmt diese Tasche hier. Sie enthält einen Leckerbissen, den Esedran für mich zubereitet hat. Wenn Ihr ihn Ohdi gebt, springt er sofort in die Tasche. Bitte!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">Coranns Hund? Das verdammte Biest macht mehr Ärger als ein betrunkener Dieb.&lt;BR&gt;&lt;BR&gt;Ja, jetzt, wo Ihr es erwähnt, erinnere ich mich, dass er diesen Hügel raufgejagt ist. {@LinkCreature:203#1025#Ohdi} mag den Friedhof sehr.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">(Ohdis Pfoten sind ganz schmutzig und der Boden weist einige frische Löcher auf. Er sieht Euch mit unverhohlener Freude an und wedelt mit dem Schwanz.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;, ich stehe in Eurer Schuld. Danke, dass Ihr Ohdi gerettet habt. Ich wüsste nicht, was ich ... äh ... was das Dorf ohne ihn getan hätte.</Page>
+    </Text>
+</QuestDialog>

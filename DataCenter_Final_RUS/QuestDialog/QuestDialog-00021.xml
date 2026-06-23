@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="4">Я верю тебе, &lt;PCNAME&gt;. Другие феи-союзницы, думаю, тоже.&lt;BR&gt;&lt;BR&gt;Отправляйся к Пруду фей и скажи, что им ничего не угрожает. По крайней мере, пока.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1033">
+        <Page social="0">Все мы надеялись на то, что Лилликс сумеет воззвать к разуму обитателей Деревни лесорубов - не говоря уж о нашей родне.&lt;BR&gt;&lt;BR&gt;И если ты, &lt;PCNAME&gt;, также стремишься к миру, прими нашу дружбу.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="0">Ты говоришь, что опасность миновала, но я никогда не буду чувствовать себя в безопасности, пока не пойму, что сделало моих родичей такими... озлобленными.&lt;BR&gt;&lt;BR&gt;Феи редко восстают против других фей... если только их не принудили. А раз уж в этом нет вины Федерации, как ты утверждаешь, значит, корень смуты надо искать в другом месте.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1027">
+        <Page social="5">Diese thulsanischen Ratten machen sich an der Steuerung des Göttlichen Brennofens zu schaffen!&lt;BR&gt;&lt;BR&gt;Werft {@LinkCreature:52#9006#Ksharanische Räuber}, {@LinkCreature:52#9007#Ksharanische Wüter}, {@LinkCreature:52#5004#Ksharanische Schattenweber}, {@LinkCreature:52#5001#Ksharanische Schwertmeister}, {@LinkCreature:52#9008#Ksharanische Furchtweber} und {@LinkCreature:52#5002#Ksharanische Bogenschützen} in die Lava!&lt;BR&gt;&lt;BR&gt;Erstattet Zenturio Senelin an der Grabwacht der Verbannten Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="5">Gute Arbeit, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ich hatte schon befürchtet, dass diese unsäglichen Idioten durch ihre Machenschaften an der Steuerung den Brennofen in die Luft jagen. Macht weiter so.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">Tötet diese ksharanischen Idioten, bevor sie den Göttlichen Brennofen beschädigen!</Page>
+    </Text>
+</QuestDialog>

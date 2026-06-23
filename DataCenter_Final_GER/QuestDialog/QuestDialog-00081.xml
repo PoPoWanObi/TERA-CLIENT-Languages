@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Unweit von hier befindet sich noch eine Späherin, {@LinkCreature:203#1010#Rasima}. Sie ist zwar ziemlich hart im Nehmen, aber sie ist ganz auf sich alleine gestellt.&lt;BR&gt;&lt;BR&gt;Sie würde nie von sich aus um Hilfe bitten, aber sie nimmt sie an, wenn man sie ihr anbietet. Und bringt ihr etwas zu trinken mit!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1010">
+        <Page social="4">Ja, ich bin ganz alleine - seit einer Weile. Mein Partner Keleth und ich wurden beim Spähen entdeckt. Wir kämpften verzweifelt, aber er erkaufte meine Flucht mit seinem Tod.&lt;BR&gt;&lt;BR&gt;Ich ehre sein Opfer, aber Ihr müsst mir einen Gefallen tun. Bringt mir den {@LinkCreature:203#1029#Ring}, damit ich ihn seiner Familie nach Hause schicken und mich bei ihnen bedanken kann.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1029">
+        <Page social="4">(Die Leiche wurde im Kampf schwer mitgenommen. Außer einem schlichten Kupferring scheint sie nichts bei sich zu haben.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1010">
+        <Page social="4">Ich erinnere mich an diesen Ring. Keleth war sehr stolz auf dieses schlichte Schmuckstück.&lt;BR&gt;&lt;BR&gt;Das ist perfekt. Dieses Andenken wird seinen Angehörigen viel bedeuten. Habt vielen Dank dafür. Möge die Schildjungfer Euch in all Euren Schlachten beschützen!</Page>
+    </Text>
+</QuestDialog>

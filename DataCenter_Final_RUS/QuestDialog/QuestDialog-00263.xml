@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Шоковая терапия одна не сработает, конечно. Нам понадобится еще магия. И, конечно, это значит, что тебе придется еще потрудиться.&lt;BR&gt;&lt;BR&gt;Принеси мне мозги {@LinkCreature:9#800#Гулов-мясников}, чтобы они вобрали в себя кошмары, которые застилают его разум.&lt;BR&gt;&lt;BR&gt;И почему я никогда не лечу пациентов чем-нибудь приятным? Почему никогда не получается просто сказать "выпейте стакан теплого молока и все пройдет" или "соблюдайте покой и все будет хорошо"?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Они меньше, чем я думала. Это многое объясняет, правда?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Принеси мне мозги, &lt;PCNAME&gt;. Да, мозги! &lt;BR&gt;&lt;BR&gt;Что? Что-то не так?</Page>
+    </Text>
+</QuestDialog>

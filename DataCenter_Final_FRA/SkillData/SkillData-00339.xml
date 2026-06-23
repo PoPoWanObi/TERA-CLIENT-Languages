@@ -1,0 +1,2622 @@
+<SkillData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SkillData SkillData.xsd" huntingZoneId="492" xmlns="https://vezel.dev/novadrop/dc/SkillData">
+    <Skill id="1101" type="normal" templateId="1" name="유안티부족장_기본공격_atk01_노말" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="0.89" totalAtk="1060720.57">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="1" time="490" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="70" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="45" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="7" miniRate="18" />
+                    </Area>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="30" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="7" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1102" type="normal" templateId="1" name="유안티부족장_회전광역공격_atk02_노말" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="0.89" totalAtk="2228727.03">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk02" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="1" time="1400" method="normal" type="none" startTime="0" endTime="0" interval="100" until="2200">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="40" minHeight="0" maxRadius="70" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.112">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="150" miniRate="150" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1103" type="normal" templateId="1" name="유안티부족장_괴성공격(공포)_atk03_노말" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="0.89" totalAtk="454594.53">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="550" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="120" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="45" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="99001110" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1104" type="normal" templateId="1" name="유안티부족장_2단베기_atk04_노말" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="0.89" totalAtk="1573265.14">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk04" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="580" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="80" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="130" rotateAngle="-20" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.5">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="20" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="930" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="75" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="150" rotateAngle="40" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="20" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1201" type="normal" templateId="1" name="유안티부족장_50%헉헉_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="Dyingwait" duration="2000" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1202" type="normal" templateId="1" name="유안티부족장_20%헉헉_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="Dyingwait" duration="3000" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1203" type="normal" templateId="1" name="유안티부족장_사전동작" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1205" type="normal" templateId="1" name="유안티부족장_명령_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="Command" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1206" type="normal" templateId="1" name="유안티부족장_뒤로회피_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="jumpevasion" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1207" type="normal" templateId="1" name="유안티부족장_좌걸음_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1208" type="normal" templateId="1" name="유안티부족장_우걸음_노말" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2101" type="normal" templateId="1" name="유안티부족장_기본공격_atk01_분노" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.157" totalAtk="1223781.76">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="490" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="70" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="45" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="7" miniRate="18" />
+                    </Area>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="30" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="7" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2102" type="normal" templateId="1" name="유안티부족장_회전광역공격_atk02_분노" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.157" totalAtk="2571292.53">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk02" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="1" time="1400" method="normal" type="none" startTime="0" endTime="0" interval="100" until="2200">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="40" minHeight="0" maxRadius="70" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.112">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="150" miniRate="150" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2103" type="normal" templateId="1" name="유안티부족장_괴성공격(공포)_atk03_분노" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.157" totalAtk="524477.90">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="550" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="120" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="45" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="99001110" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2104" type="normal" templateId="1" name="유안티부족장_2단베기_atk04_분노" parentId="30089000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.157" totalAtk="1815801.60">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="atk04" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="580" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="60" minHeight="0" maxRadius="80" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="130" rotateAngle="-20" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.5">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="20" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="930" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="75" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="150" rotateAngle="40" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="20" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2203" type="normal" templateId="1" name="유안티부족장_사전동작_분노" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2205" type="normal" templateId="1" name="유안티부족장_명령_분노" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="Command" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2206" type="normal" templateId="1" name="유안티부족장_뒤로회피_분노" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="jumpevasion" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2207" type="normal" templateId="1" name="유안티부족장_좌걸음_분노" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2208" type="normal" templateId="1" name="유안티부족장_우걸음_분노" parentId="30089000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="YuantiWarleader_ANI.Anim.YuantiWarleader_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1101" type="normal" templateId="2" name="시칸다리신관_근접후리기_atk01_노멀" parentId="30029000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="0.89" totalAtk="1675655.00">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="700" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="40" minHeight="0" maxRadius="80" offsetAngle="0" offsetDistance="-30" pierceDepth="1" rangeAngle="100" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0.5" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1102" type="normal" templateId="2" name="시칸다리신관_연속마법공격_atk02_노멀" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="0.89" totalAtk="2367451.92">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk02" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="toTargetWithGeo">
+            <Targeting id="-1" time="1250" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="25" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="1470" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="29.166666" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="1800" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="33.333332" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="2200" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="37.5" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1103" type="normal" templateId="2" name="시칸다리신관_주변번개마법6HIT_atk03_노멀" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="0.89" totalAtk="1691037.09">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1500" method="normal" type="none" startTime="0" endTime="0" interval="200" until="2600">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="33.333332" minHeight="0" maxRadius="83.33333" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.17">
+                            <AbnormalityOnCommon id="99001210" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1104" type="normal" templateId="2" name="시칸다리신관_전방근거리마법_atk04_노멀" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk04" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1155" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="183.33333" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="20" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="80">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1105" type="normal" templateId="2" name="시칸다리신관_전방근거리범위마법_atk05_노멀" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="0.89" totalAtk="2259479.60">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk05" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1719" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="166.66666" offsetAngle="0" offsetDistance="-41.666664" pierceDepth="1" rangeAngle="35" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="50">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="30" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1106" type="normal" templateId="2" name="시칸다리신관_근거리범위힐_atk06_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="0.89" totalAtk="0.00">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk06" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="820" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="ally" maxCount="10" maxHeight="50" minHeight="0" maxRadius="200" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0">
+                            <AbnormalityOnCommon id="99000310" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1201" type="normal" templateId="2" name="시칸다리신관_헉헉50%" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="Dyingwait" duration="2033" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1202" type="normal" templateId="2" name="시칸다리신관_헉헉20%" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="Dyingwait" duration="3033" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1203" type="normal" templateId="2" name="시칸다리신관_사전동작_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1204" type="normal" templateId="2" name="시칸다리신관_어그로체인지_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="aggrochange" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1206" type="normal" templateId="2" name="시칸다리신관_백점프회피_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="jumpevasion" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1207" type="normal" templateId="2" name="시칸다리신관_사이드워크(좌)_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1208" type="normal" templateId="2" name="시칸다리신관_사이드워크(우)_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1211" type="normal" templateId="2" name="시칸다리신관_Idle_노멀" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="idle" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2101" type="normal" templateId="2" name="시칸다리신관_근접후리기_atk01_분노" parentId="30029000" category="9011" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.07" totalAtk="1815297.17">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="700" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="40" minHeight="0" maxRadius="80" offsetAngle="0" offsetDistance="-30" pierceDepth="1" rangeAngle="100" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0.5" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2102" type="normal" templateId="2" name="시칸다리신관_연속마법공격_atk02_분노" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.07" totalAtk="2564738.91">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk02" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="toTargetWithGeo">
+            <Targeting id="-1" time="1250" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="25" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="1470" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="29.166666" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="1800" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="33.333332" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="2200" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="37.5" minHeight="0" maxRadius="25" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.25">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="10" miniRate="25" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2103" type="normal" templateId="2" name="시칸다리신관_주변번개마법6HIT_atk03_분노" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.07" totalAtk="1831956.37">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1500" method="normal" type="none" startTime="0" endTime="0" interval="200" until="2600">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="33.333332" minHeight="0" maxRadius="83.33333" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0.17">
+                            <AbnormalityOnCommon id="99001210" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2104" type="normal" templateId="2" name="시칸다리신관_전방근거리마법_atk04_분노" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk04" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1155" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="183.33333" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="20" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="80">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2105" type="normal" templateId="2" name="시칸다리신관_전방근거리범위마법_atk05_분노" parentId="30029000" category="9012" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.07" totalAtk="2447772.37">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk05" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1719" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="50" minHeight="0" maxRadius="166.66666" offsetAngle="0" offsetDistance="-41.666664" pierceDepth="1" rangeAngle="35" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="50">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="12" miniRate="30" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2106" type="normal" templateId="2" name="시칸다리신관_근거리범위힐_atk06_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.07" totalAtk="0.00">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="atk06" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="820" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="ally" maxCount="10" maxHeight="50" minHeight="0" maxRadius="200" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="0">
+                            <AbnormalityOnCommon id="99000310" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2203" type="normal" templateId="2" name="시칸다리신관_사전동작_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2204" type="normal" templateId="2" name="시칸다리신관_어그로체인지_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="aggrochange" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2206" type="normal" templateId="2" name="시칸다리신관_백점프회피_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="jumpevasion" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2207" type="normal" templateId="2" name="시칸다리신관_사이드워크(좌)_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2208" type="normal" templateId="2" name="시칸다리신관_사이드워크(우)_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2211" type="normal" templateId="2" name="시칸다리신관_Idle_분노" parentId="30029000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariOracle_ANI.Anim.SikandariOracle_Anim" animName="idle" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1101" type="normal" templateId="3" name="시칸다리정예병_기본찌르기_atk01_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="0.89" totalAtk="1355793.22">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="567" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="158.33333" offsetAngle="0" offsetDistance="-91.666664" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="91.666664">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0.5" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1102" type="normal" templateId="3" name="시칸다리정예병_돌진공격_atk02_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_1" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_2" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_3" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="469" method="normal" type="none" startTime="0" endTime="0" interval="250" until="1300">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="191.66666" offsetAngle="0" offsetDistance="-150" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="146.66666">
+                        <Effect atk="0.2">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="1" time="1600" method="normal" type="none" startTime="0" endTime="0" interval="200" until="2000">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="100">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1103" type="normal" templateId="3" name="시칸다리정예병_기모아서푹찌르기_atk05_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="0.89" totalAtk="2513737.79">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk05" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1600" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="91.666664">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1104" type="normal" templateId="3" name="시칸다리정예병_연속찌르기_atk04_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="0.89" totalAtk="2017349.66">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk04_1" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk04_2" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="350" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="166.66666" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="90">
+                        <Effect atk="0.5">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="974" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="90">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1105" type="normal" templateId="3" name="시칸다리정예병_공중에서검기발사공격_atk03_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="toTargetWithGeo">
+            <Targeting id="-1" time="1920" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="75" minHeight="0" maxRadius="41.666664" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1106" type="normal" templateId="3" name="시칸다리정예병_직선형검기발사_atk06_노멀" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="0.89" totalAtk="1505062.97">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk06" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="2190" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="40" minHeight="25" maxRadius="416.66666" offsetAngle="-5" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="5" rotateAngle="5" crosshairRadius="1" crosshairRadius2="3" minRadius="166.66666">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="1201" type="normal" templateId="3" name="시칸다리정예병_헉헉50%" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="Dyingwait" duration="2033" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1202" type="normal" templateId="3" name="시칸다리정예병_헉헉20%" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="Dyingwait" duration="3033" blendInTime="200" animRate="1" bAnimLooping="true" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1203" type="normal" templateId="3" name="시칸다리정예병_사전동작_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1204" type="normal" templateId="3" name="시칸다리정예병_어그로체인지_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="aggrochange" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1206" type="normal" templateId="3" name="시칸다리정예병_백점프회피_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="jumpevasion" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="0.75" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1207" type="normal" templateId="3" name="시칸다리정예병_사이드워크(좌)_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1208" type="normal" templateId="3" name="시칸다리정예병_사이드워크(우)_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="1211" type="normal" templateId="3" name="시칸다리정예병_Idle_노멀" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="idle" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2101" type="normal" templateId="3" name="시칸다리정예병_기본찌르기_atk01_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.07" totalAtk="1468779.74">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk01" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="567" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="158.33333" offsetAngle="0" offsetDistance="-91.666664" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="91.666664">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0.5" miniRate="1.5" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2102" type="normal" templateId="3" name="시칸다리정예병_돌진공격_atk02_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.2" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_1" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_2" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk02_3" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="469" method="normal" type="none" startTime="0" endTime="0" interval="250" until="1300">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="191.66666" offsetAngle="0" offsetDistance="-150" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="146.66666">
+                        <Effect atk="0.2">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="1" time="1600" method="normal" type="none" startTime="0" endTime="0" interval="200" until="2000">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="100">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2103" type="normal" templateId="3" name="시칸다리정예병_기모아서푹찌르기_atk05_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.07" totalAtk="2723219.62">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="60" endTime="900" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk05" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="1600" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="91.666664">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2104" type="normal" templateId="3" name="시칸다리정예병_연속찌르기_atk04_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="push" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.07" totalAtk="2185458.18">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk04_1" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+                <Stage scriptId="0" movable="true">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk04_2" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="350" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="166.66666" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="90">
+                        <Effect atk="0.5">
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+            <Targeting id="-1" time="974" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="5" maxHeight="37.5" minHeight="0" maxRadius="175" offsetAngle="0" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="10" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="90">
+                        <Effect atk="0.5">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2105" type="normal" templateId="3" name="시칸다리정예병_공중에서검기발사공격_atk03_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk03" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="toTargetWithGeo">
+            <Targeting id="-1" time="1920" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="75" minHeight="0" maxRadius="41.666664" offsetAngle="0" offsetDistance="0" pierceDepth="1" rangeAngle="360" rotateAngle="0" crosshairRadius="1" crosshairRadius2="3" minRadius="0">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="0" miniRate="0" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2106" type="normal" templateId="3" name="시칸다리정예병_직선형검기발사_atk06_분노" parentId="30028000" category="0" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="pass" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.07" totalAtk="1630484.79">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="atk06" duration="0" blendInTime="0" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse">
+            <Targeting id="-1" time="2190" method="normal" type="none" startTime="0" endTime="0" interval="0" until="0">
+                <AreaList>
+                    <Area type="enemy" maxCount="10" maxHeight="40" minHeight="25" maxRadius="416.66666" offsetAngle="-5" offsetDistance="-83.33333" pierceDepth="1" rangeAngle="5" rotateAngle="5" crosshairRadius="1" crosshairRadius2="3" minRadius="166.66666">
+                        <Effect atk="1">
+                            <AbnormalityOnCommon id="0" />
+                            <HpDiff value="0" />
+                            <MpDiff value="0" />
+                        </Effect>
+                        <HitEffect type="animationDamage" />
+                        <Reaction basicRate="8" miniRate="18" />
+                    </Area>
+                </AreaList>
+                <Cost hp="0" mp="0" />
+            </Targeting>
+        </TargetingList>
+    </Skill>
+    <Skill id="2203" type="normal" templateId="3" name="시칸다리정예병_사전동작_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="ReadyAction" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2204" type="normal" templateId="3" name="시칸다리정예병_어그로체인지_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="aggrochange" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2206" type="normal" templateId="3" name="시칸다리정예병_백점프회피_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="jumpevasion" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="0.75" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2207" type="normal" templateId="3" name="시칸다리정예병_사이드워크(좌)_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="sidewalk01" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2208" type="normal" templateId="3" name="시칸다리정예병_사이드워크(우)_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="sidewalk02" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+    <Skill id="2211" type="normal" templateId="3" name="시칸다리정예병_Idle_분노" parentId="30028000" category="" autoUse="false" changeDirToCenter="false" needWeapon="true" nextSkill="0" pushtarget="stop" returnAnimName="" returnAnimSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" timeRate="1.4" totalAtk="0">
+        <Action>
+            <CameraShakeList />
+            <CameraType type="none" duration="2000" startTime="0" startStageId="0" weight="2" />
+            <Cancel frontCancelEndTime="0" moveCancelStartTime="-1" rearCancelStartTime="0" />
+            <MoveInvincible startTime="0" endTime="0" />
+            <Pending startTime="-1" />
+            <SpecialEffectList />
+            <StageList>
+                <Stage scriptId="0" movable="false">
+                    <AnimSeq animSet="SikandariEliteSoldier_ANI.Anim.SikandariEliteSoldier_Anim" animName="idle" duration="0" blendInTime="200" animRate="1" bAnimLooping="false" loopingRate="1" rootMotionXYRate="1" rootMotionZRate="1" animMotionId="0" movingAnimName="" waitAnimName="" />
+                    <Property animControlType="normal" />
+                </Stage>
+            </StageList>
+        </Action>
+        <Bullet createTime="0" detachTime="0" flyingDuration="1000" shotSkill="0" startSkill="-1" />
+        <Defence rootMotion="false" successAnimName="" />
+        <Drain backSkillId="0" />
+        <Precondition coolTime="0" modeChangeMethod="2" modeNo="0">
+            <Cost hp="0" mp="0" />
+        </Precondition>
+        <Projectile lifeTime="0" areaBoxSizeX="0" areaBoxSizeY="0" areaBoxSizeZ="0" />
+        <Property weaponStatus="out" defence="false" reactionPendingType="normal" skillPendingType="normal">
+            <Direction toCenterWhenNoMove="false" />
+        </Property>
+        <TargetingList adjustTargetingPos="notUse" />
+    </Skill>
+</SkillData>

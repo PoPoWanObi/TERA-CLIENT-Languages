@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Der nächste Draelkarpfeiler ist im Schrei des Wendigo. Thulsa lässt ihn von ein paar Sihranerlakaien bewachen.&lt;BR&gt;&lt;BR&gt;Schlitzt diesen Verrätern die Kehle durch oder fackelt sie ab - was immer Eure bevorzugte Methode ist - und zerstört dann den Pfeiler.&lt;BR&gt;&lt;BR&gt;Beeilt Euch! Thulsa wartet nicht, auch wenn es {@g:ein/eine} &lt;PCCLASS&gt; ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Interessant. Die Wendigos sind nach wie vor aggressiv, aber sie scheinen verwirrt zu sein. Ich wette, sie wissen gerade nicht, gegen wen sie kämpfen sollen.&lt;BR&gt;&lt;BR&gt;Hervorragend. Von diesem Fortschritt können wir profitieren. Gute Arbeit!</Page>
+    </Text>
+</QuestDialog>

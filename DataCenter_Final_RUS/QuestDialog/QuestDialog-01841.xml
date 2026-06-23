@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="0">Родос приказал войскам наступать на Треллум-Консурго, но сперва нужно было уничтожить осадные пушки архидеванцев. Починив осадное орудие, вы нанесли удар по их позициям, но ваши снаряды не долетали до верхних пушек.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="4">Чертовы архидеванцы!&lt;BR&gt;&lt;BR&gt;Должен же быть какой-то способ спасти парфианцев! Нам приходится пробиваться к врагам по колено в крови собратьев.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">Верно сказано!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ваши колдуны не слабее архидеванцев. Неужели они не могут придумать, как обратить их магию?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2141">
+        <Page social="4">К сожалению, процесс пресуществления обратить нельзя. Быть может, мы найдем способ предотвратить превращение или разорвать подчиняющую связь, но тех, кто уже стал жертвой, увы, не спасти.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2110">
+        <Page social="4">Если мы не можем их спасти, то должны отомстить за них.&lt;BR&gt;&lt;BR&gt;Идем, &lt;PCNAME&gt;. Возьми осадное орудие и доставь его к Адскому Разлому.&lt;BR&gt;&lt;BR&gt;Мы штурмуем крепость!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="7">
+        <Page social="0">(Надежное осадное орудие. Двигатель урчит в ожидании водителя.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="191" prevId="5" villagerId="2138">
+        <Page social="4">Прежде чем идти на штурм, надо уничтожить их осадные пушки.&lt;BR&gt;&lt;BR&gt;Почини орудие, займи место стрелка и открывай огонь. Но целься повыше. Пропасть шире, чем кажется.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="191" prevId="7" villagerId="1601">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="191" prevId="8" villagerId="2138">
+        <Page social="4">К сожалению, достать пушки на стене не получается.&lt;BR&gt;&lt;BR&gt;Сообщи Родосу. Он должен принять решение.</Page>
+    </Text>
+</QuestDialog>

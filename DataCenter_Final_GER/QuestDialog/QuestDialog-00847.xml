@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
+        <Page social="5">Wegen all dieser Angriffe der Darmschlitzer will die Hälfte der Forscher aufgeben. Tötet die {@LinkCreature:26#1001#Schamanen der Waldwandler} und die {@LinkCreature:26#1002#Drescher der Waldwandler}, damit sie sich wieder sicher fühlen. &lt;BR&gt;&lt;BR&gt;Meldet Euch dann bei Nileen, damit Euch die Föderation belohnen kann.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1002">
+        <Page social="5">Ihr Tod ist bedauerlich, aber sie haben ihn selbst verschuldet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" villagerId="1002">
+        <Page social="0">Solange die {@LinkCreature:26#1001#Schamanen der Waldwandler} und die {@LinkCreature:26#1002#Drescher der Waldwandler} das Gleichgewicht bedrohen, habt Ihr die Erlaubnis, sie für eine Kopfprämie zu töten.</Page>
+    </Text>
+</QuestDialog>

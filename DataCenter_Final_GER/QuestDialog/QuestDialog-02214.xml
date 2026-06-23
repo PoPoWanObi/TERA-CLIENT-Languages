@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3001#Hurun} hat mir eine Nachricht geschickt und um Eure Hilfe bei den Drei Türmen gebeten.&lt;BR&gt;&lt;BR&gt;Wir dachten, Ihr seid die perfekte Wahl, um ihm zu assistieren.&lt;BR&gt;&lt;BR&gt;Ehrlich gesagt bin ich ziemlich neidisch. Ich wollte mir die Drei Türme schon immer mal näher anschauen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">Gott sei Dank! Die Argonen töten fortwährend unsere Forscher, darum bin ich froh, dass sie {@g:einen Soldaten/eine Soldatin} schicken.&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:46#201#Argonomorphzertrümmerer} oder ihre {@LinkCreature:46#202#Argonomorphschamanen} oder selbst die {@LinkCreature:46#203#Argonomorphzerstörer Loks} stellen große Gefahren dar. Schaltet sie aus, um den Druck auf uns zu verringern.&lt;BR&gt;&lt;BR&gt;Natürlich würde auch niemand in Tränen ausbrechen, wenn Ihr stattdessen die {@LinkCreature:246#3010#Cyasmaleiter} zerstören würdet.&lt;BR&gt;&lt;BR&gt;Alles davon würde uns sehr helfen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">Es ist ganz gut, der argonischen Kriegsmaschine hin und wieder mal einen Schlag zu versetzen.&lt;BR&gt;&lt;BR&gt;Ich bin dankbar für Euren Einsatz, &lt;PCNAME&gt;. Danke.</Page>
+    </Text>
+</QuestDialog>

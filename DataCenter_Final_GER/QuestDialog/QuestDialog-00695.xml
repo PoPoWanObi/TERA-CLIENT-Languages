@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">Dies soll eine Zeit der Freude und des Feierns sein, nicht des Mordens und der Schrecken.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#11#Hexenpräfektinnen} und {@LinkCreature:22#12#Ailuririesenmörder} verbreiten Angst und Schrecken in der Akademie - haltet sie auf, damit wir Zeit haben, ein Heilmittel zu finden.&lt;BR&gt;&lt;BR&gt;Spielt nicht mit ihnen, &lt;PCNAME&gt;, handelt schnell.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">Die Erntezeit wird für mich nie wieder eine Zeit der Freude sein. Nicht, wenn sie mich an so viel Schlimmes erinnert. Danke. Ich muss meine Studien fortsetzen.&lt;BR&gt;&lt;BR&gt;Vielleicht ist noch Zeit, den Rest zu retten!</Page>
+    </Text>
+</QuestDialog>

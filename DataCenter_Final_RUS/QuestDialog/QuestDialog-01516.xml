@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="5">Тулса заполнил Эбеновую Башню смертельно опасными испарениями гниющих трупов. &lt;BR&gt;&lt;BR&gt;Идти туда без защиты было бы безумием, самоубийством.&lt;BR&gt;&lt;BR&gt;Я сделал для Федерации Тотемы очищения, но есть одна проблема. Чтобы они заработали, мне понадобятся Ядра аргонов. &lt;NEXTPAGEBUTTON&gt;"Ядра аргонов?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Точно, &lt;PCNAME&gt;. Тулса и аргоны как-то связаны. Тулса не контролирует аргонов, но они на одной волне, можно так сказать.&lt;BR&gt;&lt;BR&gt; В любом случае, принеси мне Ядра аргонов, и я сделаю Тотем очищения.&lt;BR&gt;&lt;BR&gt; Поищи в Лабиринте Ужаса. Там много аргонов!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1102">
+        <Page social="5">О, этого достаточно, чтобы сделать Тотем очищения.&lt;BR&gt;&lt;BR&gt;Ты даже лучше, чем я думал. Хорошая работа!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" villagerId="1102">
+        <Page social="0">Принеси мне Ядра аргонов, а я сделаю для тебя Тотем очищения. Он защитит тебя от отравленного воздуха Эбеновой Башни.</Page>
+    </Text>
+</QuestDialog>

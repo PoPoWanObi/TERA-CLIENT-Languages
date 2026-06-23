@@ -1,0 +1,111 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="70201">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70202">
+        <Compensation>
+            <CompensationType type="normal" gold="40000" exp="150000" itemBag="allpay">
+                <Item templateId="71430" quantity="5" />
+                <Item templateId="200001" quantity="3" />
+                <Item templateId="71418" quantity="5" />
+                <Item templateId="71419" quantity="5" />
+                <Item templateId="71421" quantity="5" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70203">
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="120000" itemBag="allpay">
+                <Item templateId="71466" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70204">
+        <Compensation>
+            <CompensationType type="normal" gold="50000" exp="150000" itemBag="allpay">
+                <Item templateId="71422" quantity="1" />
+                <Item templateId="71423" quantity="1" />
+                <Item templateId="71424" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70205">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" itemBag="allpay">
+                <Item templateId="71442" quantity="5" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70206">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" itemBag="allpay">
+                <Item templateId="71468" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70207">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" itemBag="allpay">
+                <Item templateId="71433" quantity="4" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70208">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" itemBag="allpay">
+                <Item templateId="71432" quantity="5" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70209">
+        <Compensation>
+            <CompensationType type="normal" gold="10000" exp="72000" itemBag="allpay">
+                <Item templateId="71468" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="70211">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="12000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70212">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="27000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70213">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="27000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70214">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="20000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70215">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="20000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70216">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="20000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70217">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="20000" itemBag="allpay" />
+        </Compensation>
+    </Quest>
+    <Quest questId="70218">
+        <Compensation>
+            <CompensationType type="normal" gold="5000" exp="20000" itemBag="allpay">
+                <Item templateId="71467" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

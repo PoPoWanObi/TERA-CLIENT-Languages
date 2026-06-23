@@ -1,0 +1,1319 @@
+<BattleFieldData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/BattleFieldData BattleFieldData.xsd" xmlns="https://vezel.dev/novadrop/dc/BattleFieldData">
+    <BattleField id="46" type="Snow_Event" name="90" guideText="92">
+        <AvailableItems>
+            <Item id="562" />
+            <Item id="563" />
+            <Item id="564" />
+            <Item id="565" />
+            <Item id="19323" />
+            <Item id="19324" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.Carol_Time_Cue" />
+        <CommonData blueTeamSpawnPos="2340,-112451,2695" blueTeamStringId="25" maxLevel="65" maxTeamMember="10" minChatbanEnableMemberCount="6" minLevel="11" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="2340,-109501,2695" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="91" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_04" />
+        <OverrideSkillSet skillSetId="1023005" />
+        <Revision>
+            <LevelRevision isLevelRevision="true" maxRevisionLevel="64" revisionLevel="65" />
+        </Revision>
+        <RuleData maxMatchingMember="2" ruleId="6" />
+        <SpecificData>
+            <Round maxRound="3" roundMinCountDown="10" victoryRound="2" />
+            <Score tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="5" type="Kumas_World" name="50" blueTeamName="55" redTeamName="54">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="45411" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Time_Kumas_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Kumas_Cue" />
+        <CommonData blueTeamSpawnPos="14298,130754,12495" blueTeamStringId="25" maxLevel="65" maxTeamMember="13" minChatbanEnableMemberCount="6" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="20" redTeamSpawnPos="5538,131176,12983" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="51" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_KumasWorld" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <Revision>
+            <LevelRevision isLevelRevision="true" maxRevisionLevel="64" revisionLevel="65" />
+        </Revision>
+        <RuleData maxMatchingMember="1" ruleId="14" />
+        <SpecificData shareAlarmSec="1" toAttackSec="5">
+            <BFTreasureOfKumas name="53" />
+            <GuardTowerList>
+                <GuardTower id="3000" pos="13850,126438,12251" continentId="117" alarmCoolTime="5" alarmWhenHpBelow="50,30" posDir="0" />
+                <GuardTower id="3002" pos="13699,134653,12291" continentId="117" alarmCoolTime="5" alarmWhenHpBelow="50,30" posDir="0" />
+            </GuardTowerList>
+            <Round maxRound="1" roundMinCountDown="10" victoryRound="1" />
+            <Score blueTeamStartScore="0" redTeamStartScore="3" tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="10" type="Cannon" name="40">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Fire_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="2317.3845,109757.8281,1558.3425" blueTeamStringId="25" maxLevel="65" maxTeamMember="20" minChatbanEnableMemberCount="6" minLevel="30" minTeamMember="1" preCombatSec="120" redTeamSpawnPos="13950,121464,2265" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="41" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_05" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <Revision>
+            <LevelRevision isLevelRevision="true" maxRevisionLevel="64" revisionLevel="65" />
+        </Revision>
+        <RuleData maxMatchingMember="5" ruleId="9" />
+        <SpecificData autoReviveSec="10" baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <AirShipRespawnList>
+                <AirShipRespawn pos="2847.0815,108127.8594,1428.2605" continentId="116" objectNpcId="1001" whichSide="0" />
+                <AirShipRespawn pos="879.3168,110544.0938,1428.8274" continentId="116" objectNpcId="1002" whichSide="0" />
+                <AirShipRespawn pos="10301.8926,121076.8047,3233" continentId="116" objectNpcId="1003" whichSide="1" />
+            </AirShipRespawnList>
+            <CastleDoor continentId="116" bigObjectNpcId="3001" smallObjectNpcId="3000" />
+            <GateList>
+                <Gate id="1" templateId="3001" pos="11779.3545,119314.2188,2121.1748" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-134" />
+                <Gate id="2" templateId="3000" pos="11862.9063,114746.3047,2039.4011" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-178" />
+                <Gate id="3" templateId="3000" pos="7209.9043,119395.3047,2039.1650" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-87" />
+            </GateList>
+            <GuardTower continentId="116" objectNpcId="2000" />
+            <GuardTowerList>
+                <GuardTower id="2000" pos="13205.5947,120774.5703,2030.0493" continentId="116" alarmCoolTime="5" alarmWhenHpBelow="50,30" posDir="-134" />
+            </GuardTowerList>
+            <Round roundMinCountDown="60" />
+            <Score tensionScore="800" victoryScore="1000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="10287.9541,117819.1094,2687.3677" name="42" posDir="0" reviveSelectable="true" tombDir="0" tombPos="10287.9541,117819.1094,2687.3677" />
+                <Stronghold id="2" pos="11159,113069,1909" name="45" posDir="0" reviveSelectable="true" tombDir="0" tombPos="11159,113069,1909" />
+                <Stronghold id="3" pos="5302,118633,1909" name="46" posDir="0" reviveSelectable="true" tombDir="0" tombPos="5302,118633,1909" />
+            </StrongholdList>
+            <SystemMessage>
+                <RoundTimeRemainList>
+                    <RoundTimeRemain roundTime="5" />
+                    <RoundTimeRemain roundTime="4" />
+                    <RoundTimeRemain roundTime="3" />
+                    <RoundTimeRemain roundTime="2" />
+                    <RoundTimeRemain roundTime="1" />
+                </RoundTimeRemainList>
+            </SystemMessage>
+        </SpecificData>
+    </BattleField>
+    <BattleField id="11" type="Cannon" name="43">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Fire_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="2317.3845,109757.8281,1558.3425" blueTeamStringId="25" maxLevel="65" maxTeamMember="20" minChatbanEnableMemberCount="6" minLevel="30" minTeamMember="1" preCombatSec="120" redTeamSpawnPos="13950,121464,2265" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="44" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_05" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <Revision>
+            <LevelRevision isLevelRevision="true" maxRevisionLevel="64" revisionLevel="65" />
+        </Revision>
+        <RuleData maxMatchingMember="20" ruleId="16" />
+        <SpecificData autoReviveSec="10" baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <AirShipRespawnList>
+                <AirShipRespawn pos="2847.0815,108127.8594,1428.2605" continentId="116" objectNpcId="1001" whichSide="0" />
+                <AirShipRespawn pos="879.3168,110544.0938,1428.8274" continentId="116" objectNpcId="1002" whichSide="0" />
+                <AirShipRespawn pos="10301.8926,121076.8047,3233" continentId="116" objectNpcId="1003" whichSide="1" />
+            </AirShipRespawnList>
+            <CastleDoor continentId="116" bigObjectNpcId="3001" smallObjectNpcId="3000" />
+            <GateList>
+                <Gate id="1" templateId="3001" pos="11779.3545,119314.2188,2121.1748" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-134" />
+                <Gate id="2" templateId="3000" pos="11862.9063,114746.3047,2039.4011" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-178" />
+                <Gate id="3" templateId="3000" pos="7209.9043,119395.3047,2039.1650" continentId="116" alarmCoolTime="10" alarmWhenHpBelow="50,30" posDir="-87" />
+            </GateList>
+            <GuardTower continentId="116" objectNpcId="2000" />
+            <GuardTowerList>
+                <GuardTower id="2000" pos="13205.5947,120774.5703,2030.0493" continentId="116" alarmCoolTime="5" alarmWhenHpBelow="50,30" posDir="-134" />
+            </GuardTowerList>
+            <Round roundMinCountDown="60" />
+            <Score tensionScore="800" victoryScore="1000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="10287.9541,117819.1094,2687.3677" name="42" posDir="0" reviveSelectable="true" tombDir="0" tombPos="10287.9541,117819.1094,2687.3677" />
+                <Stronghold id="2" pos="11159,113069,1909" name="45" posDir="0" reviveSelectable="true" tombDir="0" tombPos="11159,113069,1909" />
+                <Stronghold id="3" pos="5302,118633,1909" name="46" posDir="0" reviveSelectable="true" tombDir="0" tombPos="5302,118633,1909" />
+            </StrongholdList>
+            <SystemMessage>
+                <RoundTimeRemainList>
+                    <RoundTimeRemain roundTime="5" />
+                    <RoundTimeRemain roundTime="4" />
+                    <RoundTimeRemain roundTime="3" />
+                    <RoundTimeRemain roundTime="2" />
+                    <RoundTimeRemain roundTime="1" />
+                </RoundTimeRemainList>
+            </SystemMessage>
+        </SpecificData>
+    </BattleField>
+    <BattleField id="26" type="StrongholdOccupation" name="20">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_honor_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="3782, 34548, 1625" blueTeamStringId="25" maxLevel="65" maxTeamMember="15" minLevel="65" minTeamMember="1" preCombatSec="90" redTeamSpawnPos="11753, 42431, 1625" redTeamStringId="26" />
+        <CommonUIData desc="21" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_02" />
+        <Resource assistMagneticEffectId="11808" killMagneticEffectId="11808" nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="5" ruleId="2" />
+        <SpecificData baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <Score tensionScore="5000" victoryScore="5000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="7740.0508,38344.1953,1690.7493" name="22" posDir="0" tombDir="0" tombPos="7066.0469,38674.6797,1721.2910" />
+                <Stronghold id="2" pos="3185.0229,40149.0000,1582.0415" name="23" posDir="0" tombDir="0" tombPos="2538.4023,40576.1836,1619.3870" />
+                <Stronghold id="3" pos="12005.9355,36751.6328,1552.7979" name="24" posDir="0" tombDir="0" tombPos="12859.9990,36326.3242,1599.2111" />
+            </StrongholdList>
+            <SystemMessage />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="27" type="StrongholdOccupation" name="27">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="3782, 34548, 1625" maxLevel="65" maxTeamMember="15" minChatbanEnableMemberCount="6" minLevel="65" minTeamMember="1" preCombatSec="90" redTeamSpawnPos="11753, 42431, 1625" />
+        <CommonUIData desc="28" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_02" />
+        <Resource assistMagneticEffectId="11808" killMagneticEffectId="11808" nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="15" ruleId="5" />
+        <SpecificData baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <Score tensionScore="5000" victoryScore="5000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="7740.0508,38344.1953,1690.7493" name="22" posDir="0" tombDir="0" tombPos="7066.0469,38674.6797,1721.2910" />
+                <Stronghold id="2" pos="3185.0229,40149.0000,1582.0415" name="23" posDir="0" tombDir="0" tombPos="2538.4023,40576.1836,1619.3870" />
+                <Stronghold id="3" pos="12005.9355,36751.6328,1552.7979" name="24" posDir="0" tombDir="0" tombPos="12859.9990,36326.3242,1599.2111" />
+            </StrongholdList>
+            <SystemMessage />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="29" type="StrongholdOccupation" name="29">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_honor_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="3782, 34548, 1625" blueTeamStringId="25" maxLevel="65" maxTeamMember="15" minLevel="65" minTeamMember="1" preCombatSec="90" redTeamSpawnPos="11753, 42431, 1625" redTeamStringId="26" />
+        <CommonUIData desc="290" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_02" />
+        <Resource assistMagneticEffectId="11808" killMagneticEffectId="11808" nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="5" ruleId="2" />
+        <SpecificData baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <Score tensionScore="5000" victoryScore="5000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="7740.0508,38344.1953,1690.7493" name="22" posDir="0" tombDir="0" tombPos="7066.0469,38674.6797,1721.2910" />
+                <Stronghold id="2" pos="3185.0229,40149.0000,1582.0415" name="23" posDir="0" tombDir="0" tombPos="2538.4023,40576.1836,1619.3870" />
+                <Stronghold id="3" pos="12005.9355,36751.6328,1552.7979" name="24" posDir="0" tombDir="0" tombPos="12859.9990,36326.3242,1599.2111" />
+            </StrongholdList>
+            <SystemMessage />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="28" type="StrongholdOccupation" name="27">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommanderSkillList team="blue">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommanderSkillList team="red">
+            <Skill id="63000101" />
+            <Skill id="63000111" />
+        </CommanderSkillList>
+        <CommonData blueTeamSpawnPos="3782, 34548, 1625" maxLevel="65" maxTeamMember="15" minLevel="65" minTeamMember="1" preCombatSec="90" redTeamSpawnPos="11753, 42431, 1625" />
+        <CommonUIData desc="28" checkBoxType="0" mapImgName="__WMap_BF.WMap_BFMatching_02" />
+        <Resource assistMagneticEffectId="11808" killMagneticEffectId="11808" nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="15" ruleId="5" />
+        <SpecificData baseAttackShowInterval="2" baseAttackShowSec="2" shareAlarmSec="1" toAttackSec="10">
+            <Score tensionScore="5000" victoryScore="5000" />
+            <StrongholdList>
+                <Stronghold id="1" pos="7740.0508,38344.1953,1690.7493" name="22" posDir="0" tombDir="0" tombPos="7066.0469,38674.6797,1721.2910" />
+                <Stronghold id="2" pos="3185.0229,40149.0000,1582.0415" name="23" posDir="0" tombDir="0" tombPos="2538.4023,40576.1836,1619.3870" />
+                <Stronghold id="3" pos="12005.9355,36751.6328,1552.7979" name="24" posDir="0" tombDir="0" tombPos="12859.9990,36326.3242,1599.2111" />
+            </StrongholdList>
+            <SystemMessage />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="37" type="Round_PvP" name="32">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="1300" />
+            <Item id="1301" />
+            <Item id="1302" />
+            <Item id="1303" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommonData blueTeamSpawnPos="5947.8267,99880.8594,6758.6182" blueTeamStringId="25" maxLevel="65" maxTeamMember="3" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9368.1289,99881.3047,6756.6172" redTeamStringId="26" useObserverMode="true" />
+        <CommonUIData desc="31" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_03" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="3" ruleId="4" />
+        <SpecificData toAttackSec="5">
+            <Round maxRound="3" roundMinCountDown="10" victoryRound="2" />
+            <Score tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="38" type="Round_PvP" name="38">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="1300" />
+            <Item id="1301" />
+            <Item id="1302" />
+            <Item id="1303" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommonData blueTeamSpawnPos="5947.8267,99880.8594,6758.6182" blueTeamStringId="25" maxLevel="65" maxTeamMember="3" minChatbanEnableMemberCount="6" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9368.1289,99881.3047,6756.6172" redTeamStringId="26" useObserverMode="true" />
+        <CommonUIData desc="39" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_03" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="1" ruleId="10" />
+        <SpecificData toAttackSec="5">
+            <Round maxRound="3" roundMinCountDown="10" victoryRound="2" />
+            <Score tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="39" type="Round_PvP" name="33">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="1300" />
+            <Item id="1301" />
+            <Item id="1302" />
+            <Item id="1303" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommonData blueTeamSpawnPos="5947.8267,99880.8594,6758.6182" blueTeamStringId="25" maxLevel="65" maxTeamMember="5" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9368.1289,99881.3047,6756.6172" redTeamStringId="26" useObserverMode="true" />
+        <CommonUIData desc="35" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_03" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="5" ruleId="20" />
+        <SpecificData toAttackSec="5">
+            <Round maxRound="3" roundMinCountDown="10" victoryRound="2" />
+            <Score tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="40" type="Round_PvP" name="34">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="1300" />
+            <Item id="1301" />
+            <Item id="1302" />
+            <Item id="1303" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_Cue.War_Start_Cue" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="War_Battle.War_Music_Cue.War_Time_Cue" />
+        <CommonData blueTeamSpawnPos="5947.8267,99880.8594,6758.6182" blueTeamStringId="25" maxLevel="65" maxTeamMember="5" minChatbanEnableMemberCount="6" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9368.1289,99881.3047,6756.6172" redTeamStringId="26" useObserverMode="true" />
+        <CommonUIData desc="36" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_03" />
+        <Resource nStrongholdPackageName="BattleField_Objects.Stronghold.BF_Stronghold_SM" />
+        <RuleData maxMatchingMember="1" ruleId="19" />
+        <SpecificData toAttackSec="5">
+            <Round maxRound="3" roundMinCountDown="10" victoryRound="2" />
+            <Score tensionScore="800" victoryScore="1000" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="70" type="Free_Fight" name="60" guideText="62">
+        <AvailableItems>
+            <Item id="70053" />
+            <Item id="8704" />
+            <Item id="8710" />
+            <Item id="8716" />
+            <Item id="8722" />
+            <Item id="8728" />
+            <Item id="8734" />
+            <Item id="8740" />
+            <Item id="8746" />
+            <Item id="8752" />
+            <Item id="8758" />
+            <Item id="8764" />
+            <Item id="8770" />
+            <Item id="8776" />
+            <Item id="8782" />
+            <Item id="8788" />
+            <Item id="8794" />
+            <Item id="8800" />
+            <Item id="8806" />
+            <Item id="8812" />
+            <Item id="8818" />
+            <Item id="8824" />
+            <Item id="8830" />
+            <Item id="8836" />
+            <Item id="8842" />
+            <Item id="8848" />
+            <Item id="8854" />
+            <Item id="8860" />
+            <Item id="6010" />
+            <Item id="6011" />
+            <Item id="6026" />
+            <Item id="6027" />
+            <Item id="111" />
+            <Item id="116" />
+            <Item id="130" />
+            <Item id="6291" />
+            <Item id="6286" />
+            <Item id="6221" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="War_Battle.War_Music_CUE.War_FreeFight_StartCue" fadeTime="1" finish="War_Battle.War_Music_CUE.War_FreeFight_EndCue" start="War_Battle.War_Music_CUE.War_FreeFight_TimeCue" />
+        <CommonData blueTeamSpawnPos="7604,9173,1028" blueTeamStringId="25" maxLevel="65" maxTeamMember="15" minLevel="65" minTeamMember="1" observerViewDistance="14000" preCombatSec="1" redTeamSpawnPos="7600,6114,1028" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="61" checkBoxType="-1" mapImgName="__WMap_BF.WMap_BFMatching_06" />
+        <RuleData maxMatchingMember="1" ruleId="21" />
+        <SpecificData>
+            <Score tensionScore="70" victoryScore="70" />
+            <SystemMessage>
+                <TimeRemainList>
+                    <TimeRemain minuteLeft="9" />
+                    <TimeRemain minuteLeft="8" />
+                </TimeRemainList>
+            </SystemMessage>
+        </SpecificData>
+    </BattleField>
+    <BattleField id="110" type="RoundPve" name="110">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="8000" />
+            <Item id="8005" />
+            <Item id="6011" />
+            <Item id="6010" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="Ambience_Field.Amb_EmotionCUE.Amb_Emotion_4CUE" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="boss_battle.Named_battle_Cue.Named_Battle_9" />
+        <CommonData blueTeamSpawnPos="5497,140461,2811" blueTeamStringId="25" maxLevel="50" maxTeamMember="3" minLevel="50" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9915,140462,2811" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="111" checkBoxType="0" mapImgName="__WMap_DG_BF_PVEBattle.WMAP_BFMatching_PVEBattle" />
+        <Resource nStrongholdPackageName="" />
+        <RuleData maxMatchingMember="3" ruleId="18" />
+        <SpecificData toAttackSec="5">
+            <AeroData scoreDifferenceMax="500" scoreDifferenceMin="200">
+                <LoseAero aero="BF_PVEBattle_Aeroset.AERO.BF_PVEBattle_Losing_AERO" blendTime="1" />
+                <WinAero aero="BF_PVEBattle_Aeroset.AERO.BF_PVEBattle_Winning_AERO" blendTime="1" />
+            </AeroData>
+            <IrregularRound maxRound="5">
+                <RoundSet id="1" roundTimeSec="162" />
+                <RoundSet id="2" roundTimeSec="279" />
+                <RoundSet id="3" roundTimeSec="275" />
+                <RoundSet id="4" roundTimeSec="313" />
+                <RoundSet id="5" roundTimeSec="412" />
+            </IrregularRound>
+            <PveSkillList>
+                <SkillList id="0" typeName="@BattleField:401">
+                    <Skill desc="@BattleField:301" name="@BattleField:201" icon="Icon_Status.plusattack_Tex" index="21" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:302" name="@BattleField:202" icon="Icon_Skills.Healinglightlockon_Tex" index="22" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:303" name="@BattleField:203" icon="Icon_Status.DarkRiftAreaDance_Tex" index="23" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:304" name="@BattleField:204" icon="Icon_Skills.handyslash_Tex" index="24" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                </SkillList>
+                <SkillList id="1" typeName="@BattleField:402">
+                    <Skill desc="@BattleField:305" name="@BattleField:205" icon="Icon_Status.minusdefence_Tex" index="11" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:306" name="@BattleField:206" icon="Icon_Status.plusmove_Tex" index="12" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:307" name="@BattleField:207" icon="Icon_Status.minuscriticalresist_Tex" index="13" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:308" name="@BattleField:208" icon="Icon_Status.minuscritical_Tex" index="14" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:321" name="@BattleField:221" icon="Icon_Status.poisondown_Tex" index="15" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:322" name="@BattleField:222" icon="Icon_Status.MindDomination_Tex" index="16" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                </SkillList>
+                <SkillList id="2" typeName="@BattleField:403">
+                    <Skill desc="@BattleField:309" name="@BattleField:209" icon="Icon_Status.cruel_slayer_1_Tex" index="31" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:310" name="@BattleField:210" icon="Icon_Status.cruel_slayer_1_Tex" index="32" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:311" name="@BattleField:211" icon="Icon_Status.cruel_slayer_1_Tex" index="33" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:312" name="@BattleField:212" icon="Icon_Status.cruel_slayer_1_Tex" index="34" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:313" name="@BattleField:213" icon="Icon_Status.cruel_slayer_1_Tex" index="35" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:314" name="@BattleField:214" icon="Icon_Status.cruel_slayer_2_Tex" index="36" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:315" name="@BattleField:215" icon="Icon_Status.cruel_slayer_2_Tex" index="37" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:316" name="@BattleField:216" icon="Icon_Status.cruel_slayer_2_Tex" index="38" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:317" name="@BattleField:217" icon="Icon_Status.cruel_slayer_2_Tex" index="39" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:318" name="@BattleField:218" icon="Icon_Status.cruel_slayer_2_Tex" index="40" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:319" name="@BattleField:219" icon="Icon_Status.diseaseup_Tex" index="101" maxCount="1" targetType="allyNpc" usePlayPoint="1050" />
+                    <Skill desc="@BattleField:320" name="@BattleField:220" icon="Icon_Status.DarkRiftRecovery_Tex" index="102" maxCount="1" targetType="allyNpc" usePlayPoint="1050" />
+                </SkillList>
+            </PveSkillList>
+            <Round maxRound="0" roundMinCountDown="0" victoryRound="0" />
+        </SpecificData>
+    </BattleField>
+    <BattleField id="111" type="RoundPve" name="112">
+        <AvailableItems>
+            <Item id="7000" />
+            <Item id="98" />
+            <Item id="400" />
+            <Item id="70116" />
+            <Item id="70117" />
+            <Item id="6" />
+            <Item id="7" />
+            <Item id="8" />
+            <Item id="31" />
+            <Item id="32" />
+            <Item id="33" />
+            <Item id="178" />
+            <Item id="179" />
+            <Item id="180" />
+            <Item id="181" />
+            <Item id="182" />
+            <Item id="183" />
+            <Item id="184" />
+            <Item id="185" />
+            <Item id="186" />
+            <Item id="187" />
+            <Item id="188" />
+            <Item id="189" />
+            <Item id="190" />
+            <Item id="191" />
+            <Item id="192" />
+            <Item id="193" />
+            <Item id="7100" />
+            <Item id="7101" />
+            <Item id="7102" />
+            <Item id="7103" />
+            <Item id="7104" />
+            <Item id="7105" />
+            <Item id="7106" />
+            <Item id="7107" />
+            <Item id="7108" />
+            <Item id="7109" />
+            <Item id="7110" />
+            <Item id="7111" />
+            <Item id="70019" />
+            <Item id="70020" />
+            <Item id="70021" />
+            <Item id="70022" />
+            <Item id="70023" />
+            <Item id="70024" />
+            <Item id="70025" />
+            <Item id="70026" />
+            <Item id="70027" />
+            <Item id="70028" />
+            <Item id="70029" />
+            <Item id="70030" />
+            <Item id="70031" />
+            <Item id="70032" />
+            <Item id="70033" />
+            <Item id="70034" />
+            <Item id="70053" />
+            <Item id="8008" />
+            <Item id="8009" />
+            <Item id="8010" />
+            <Item id="8011" />
+            <Item id="8012" />
+            <Item id="8013" />
+            <Item id="8014" />
+            <Item id="8015" />
+            <Item id="8016" />
+            <Item id="8017" />
+            <Item id="8018" />
+            <Item id="8019" />
+            <Item id="8020" />
+            <Item id="8021" />
+            <Item id="8022" />
+            <Item id="8023" />
+            <Item id="117" />
+            <Item id="129" />
+            <Item id="171" />
+            <Item id="139004" />
+            <Item id="6260" />
+            <Item id="6261" />
+            <Item id="6262" />
+            <Item id="8000" />
+            <Item id="8005" />
+            <Item id="6011" />
+            <Item id="6010" />
+            <Item id="70053" />
+            <Item id="139518" />
+            <Item id="212981" />
+        </AvailableItems>
+        <BGM enter="Ambience_Field.Amb_EmotionCUE.Amb_Emotion_4CUE" fadeTime="1" finish="War_Battle.War_Music_Cue.War_End_Cue" start="boss_battle.Named_battle_Cue.Named_Battle_9" />
+        <CommonData blueTeamSpawnPos="5497,140461,2811" blueTeamStringId="25" maxLevel="65" maxTeamMember="3" minLevel="60" minTeamMember="1" observerViewDistance="14000" preCombatSec="40" redTeamSpawnPos="9915,140462,2811" redTeamStringId="26" useObserverMode="false" />
+        <CommonUIData desc="111" checkBoxType="0" mapImgName="__WMap_DG_BF_PVEBattle.WMAP_BFMatching_PVEBattle" />
+        <Resource nStrongholdPackageName="" />
+        <Revision>
+            <LevelRevision isLevelRevision="true" maxRevisionLevel="64" revisionLevel="65" />
+        </Revision>
+        <RuleData maxMatchingMember="3" ruleId="18" />
+        <SpecificData toAttackSec="5">
+            <AeroData scoreDifferenceMax="500" scoreDifferenceMin="200">
+                <LoseAero aero="BF_PVEBattle_Aeroset.AERO.BF_PVEBattle_Losing_AERO" blendTime="1" />
+                <WinAero aero="BF_PVEBattle_Aeroset.AERO.BF_PVEBattle_Winning_AERO" blendTime="1" />
+            </AeroData>
+            <IrregularRound maxRound="3">
+                <RoundSet id="1" roundTimeSec="192" />
+                <RoundSet id="2" roundTimeSec="327" />
+                <RoundSet id="3" roundTimeSec="336" />
+            </IrregularRound>
+            <PveSkillList>
+                <SkillList id="0" typeName="@BattleField:401">
+                    <Skill desc="@BattleField:301" name="@BattleField:201" icon="Icon_Status.plusattack_Tex" index="21" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:302" name="@BattleField:202" icon="Icon_Skills.Healinglightlockon_Tex" index="22" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:303" name="@BattleField:203" icon="Icon_Status.DarkRiftAreaDance_Tex" index="23" maxCount="1" targetType="allyPc" usePlayPoint="775" />
+                </SkillList>
+                <SkillList id="1" typeName="@BattleField:402">
+                    <Skill desc="@BattleField:305" name="@BattleField:205" icon="Icon_Status.minusdefence_Tex" index="11" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:306" name="@BattleField:206" icon="Icon_Status.plusmove_Tex" index="12" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:307" name="@BattleField:207" icon="Icon_Status.minuscriticalresist_Tex" index="13" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:308" name="@BattleField:208" icon="Icon_Status.minuscritical_Tex" index="14" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:321" name="@BattleField:221" icon="Icon_Status.poisondown_Tex" index="15" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                    <Skill desc="@BattleField:322" name="@BattleField:222" icon="Icon_Status.MindDomination_Tex" index="16" maxCount="1" targetType="enemyPc" usePlayPoint="775" />
+                </SkillList>
+                <SkillList id="2" typeName="@BattleField:403">
+                    <Skill desc="@BattleField:309" name="@BattleField:209" icon="Icon_Status.cruel_slayer_1_Tex" index="31" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:310" name="@BattleField:210" icon="Icon_Status.cruel_slayer_1_Tex" index="32" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:311" name="@BattleField:211" icon="Icon_Status.cruel_slayer_1_Tex" index="33" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:312" name="@BattleField:212" icon="Icon_Status.cruel_slayer_1_Tex" index="34" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:313" name="@BattleField:213" icon="Icon_Status.cruel_slayer_1_Tex" index="35" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:314" name="@BattleField:214" icon="Icon_Status.cruel_slayer_2_Tex" index="36" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:315" name="@BattleField:215" icon="Icon_Status.cruel_slayer_2_Tex" index="37" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:316" name="@BattleField:216" icon="Icon_Status.cruel_slayer_2_Tex" index="38" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:317" name="@BattleField:217" icon="Icon_Status.cruel_slayer_2_Tex" index="39" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:318" name="@BattleField:218" icon="Icon_Status.cruel_slayer_2_Tex" index="40" maxCount="1" targetType="allyNpc" usePlayPoint="1000" />
+                    <Skill desc="@BattleField:319" name="@BattleField:219" icon="Icon_Status.diseaseup_Tex" index="101" maxCount="1" targetType="allyNpc" usePlayPoint="1050" />
+                    <Skill desc="@BattleField:320" name="@BattleField:220" icon="Icon_Status.DarkRiftRecovery_Tex" index="102" maxCount="1" targetType="allyNpc" usePlayPoint="1050" />
+                </SkillList>
+            </PveSkillList>
+            <Round maxRound="0" roundMinCountDown="0" victoryRound="0" />
+        </SpecificData>
+    </BattleField>
+    <BattleFieldGlobalData>
+        <BFMatchingUISortPriority battleFieldId="70,46,39,40,111,5,10,26,37,38,11,27" />
+        <BattleFieldRankingWindow allServerName="100" myServerName="101" />
+        <Observer observerKey="Jump" />
+        <StrongholdEffect blue="65100" blueAtk="65096" blueNRedAtk="65105" blueOccupation="50559" blueOverlay="50565" red="65101" redAtk="65097" redNBlueAtk="65106" redOccupation="50558" redOverlay="50566" tryOccupation="50554" />
+        <VehicleExEffect blueTeamFixEffectId="50567" redTeamFixEffectId="50568" />
+    </BattleFieldGlobalData>
+</BattleFieldData>

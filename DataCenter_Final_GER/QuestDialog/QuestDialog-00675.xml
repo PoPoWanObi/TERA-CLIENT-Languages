@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">Ich habe im &lt;font color='#660000'&gt;Heulenden Tal&lt;/font&gt; etwas sehr Verstörendes gesehen. Zwei Kreaturen derselben Spezies kämpften gegeneinander, und der Sieger hat das Fleisch des Verlierers gefressen.&lt;BR&gt;&lt;BR&gt;Das ist kein normales Verhalten und sollte näher untersucht werden.&lt;NEXTPAGEBUTTON&gt;"Was können wir tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Unsere Magie könnte dieses Phänomen vielleicht erklären. Jagt {@LinkCreature:21#4#Brutale Orisken} und entnehmt ihnen Proben.&lt;BR&gt;&lt;BR&gt;Bringt mir diese, dann können wir möglicherweise herausfinden, was sie zu diesem unnatürlichen Verhalten bewogen hat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">Ich hoffe, das war nicht zu anstrengend. Die Wüste ist groß und gefährlich.&lt;BR&gt;&lt;BR&gt;Ihr habt die Proben? Zeigt mal her. Und jetzt geht bitte beiseite, damit Ihr nicht schmutzig werdet.&lt;BR&gt;&lt;BR&gt;Bei den Göttern! Der Geruch in diesen Proben hätte mich fast überwältigt! Ich muss mich erst einmal ausruhen. Unglaublich. Meine Nase wird mir niemals vergeben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">Ich weiß, dass die Kreaturen widerlich sind und stinken, aber ohne die Proben kann ich keine Tests durchführen. So einfach ist das.</Page>
+    </Text>
+</QuestDialog>

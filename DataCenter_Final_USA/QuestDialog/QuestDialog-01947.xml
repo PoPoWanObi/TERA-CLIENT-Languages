@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1609">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1609">
+        <Page social="0">These are the materials for artisan robes. A soldier will be wearing what you make, so make it well.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1003">
+        <Page social="0">You're helping us win the war, &lt;PCNAME&gt;. We're grateful to you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1003">
+        <Page social="0">You have the design and kits. Talk to crafting vendors in the cities if you need additional materials.</Page>
+    </Text>
+</QuestDialog>

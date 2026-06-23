@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="5">Попори нужно снаряжение, а из Велики его слать не торопятся или шлют всякий хлам. Пора нам взять дело в свои руки.&lt;BR&gt;&lt;BR&gt;Сруби несколько {@LinkCreature:23#2#Железных древней} и срежь кору. Из коры получаются неплохие щиты.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1012">
+        <Page social="5">Я наделаю щитов.&lt;BR&gt;&lt;BR&gt;Несколько жизней будет спасено благодаря тебе, &lt;PCNAME&gt;. Надеюсь, в награду тебя отправят туда, где проблемы серьезнее этой.&lt;BR&gt;&lt;BR&gt;И все равно с каждой маленькой победой сегодня мы приближаемся к большой победе в будущем.&lt;BR&gt;&lt;BR&gt;Надеюсь.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1012">
+        <Page social="0">Знаю, знаю, это не очень-то утонченно, но попори - наши союзники. Мы должны помогать им, чем можем.&lt;BR&gt;&lt;BR&gt;Так что возвращайся и добудь коры.</Page>
+    </Text>
+</QuestDialog>

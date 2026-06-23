@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
+        <Page social="0">Die Nachkommen Loks haben ihre Stellung mit Molochsöldnern verstärkt. Sorgt dafür, dass sie deren Sold umsonst bezahlt haben.&lt;BR&gt;&lt;BR&gt;Beseitigt die {@LinkCreature:7#23#Molochsöldner} in den östlichen Ruinen von Cardovek.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Präfekt Nale im Sanctum Mysterium, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1016">
+        <Page social="5">Hervorragend. Ihr könnt damit weitermachen, bis es keinen Spaß mehr macht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1016">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

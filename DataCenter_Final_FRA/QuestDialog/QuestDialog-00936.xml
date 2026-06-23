@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Admirez!&amp;nbsp; Le "linceul d'humidification".&lt;BR&gt;&lt;BR&gt;Les risques d'électrocution augmentent de plusieurs dizaines de pour cent lorsque la victime est mouillée. Et c'est là qu'intervient la serviette. Elle vous sèche... et vous protège!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ses fibres extra-fines sont tissées en duvet de paresseux. Sa trame est étonnamment dense grâce à ma méthode de tissage arcanique.&lt;BR&gt;&lt;BR&gt;Je dois la présenter aux clients qui achètent mes produits.&lt;BR&gt;&lt;BR&gt;Pouvez-vous apporter la serviette au {@LinkCreature:230#1018#mineur itinérant vétéran} et au {@LinkCreature:230#1017#mineur itinérant novice}?&amp;nbsp; Montrez-leur cette splendeur et faites-vous la voix de leurs éloges.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1017">
+        <Page social="1">Quoi?&amp;nbsp; {@LinkCreature:230#1016$$Leshoff} a dit que j'en voudrais?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Il m'arrive, de temps en temps, de faire affaire avec des, hum, relations commerciales indépendantes d'Allemantheia, mais Leshoff est fou!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous me comprenez?&amp;nbsp; Il est au milieu de nulle part, à fabriquer des linceuls en poils de paresseux. Ne me dites pas que c'est une activité saine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1017">
+        <Page social="0">Quelle histoire. On m'avait dit un tas de choses à propos de Leshoff. Je ne sais pas si "fou" est un qualificatif assez fort, cela dit.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1016">
+        <Page social="1">Vous lui avez parlé du linceul d'humidification, et il a osé suggérer que je n'étais pas sain d'esprit?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Vous et moi sommes des âmes sœurs. Destinés à la grandeur mais incompris des masses non hygiéniques.&lt;BR&gt;&lt;BR&gt;En parlant d'hygiène, je devrais prendre un bain et tester ce linceul!&amp;nbsp; Pour la science!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0">Beim Kampf gegen die Gula in den Hungrigen Höhlen traft Ihr einen Soldaten namens Detrian, der wollte, dass Ihr seiner Schwester ein Geschenk bringt. Die Schwester revanchierte sich mit einem Geschenk an Detrian.&lt;BR&gt;&lt;BR&gt;Danach machte sich Detrian auf den Weg zu seinem Posten in den Hungrigen Höhlen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="5">Gula ... Allein bei dem Gedanken an sie kriege ich schon Gänsehaut.&lt;BR&gt;&lt;BR&gt;Seinen Feinden gegenüberzutreten und ihnen die Gurgel durchzuschneiden oder ihnen die Gedärme rauszureißen ist eine Sache ... Aber seine Feinde zu verspeisen - also sie zu kochen und dann aufzuessen - das ist doch verrückt!&lt;BR&gt;&lt;BR&gt;Kaias Schwert hat versucht, sie auszurotten, aber sie sind verdammt zäh.&lt;NEXTPAGEBUTTON&gt;"Ich kann helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Das könnt Ihr sicher, &lt;PCNAME&gt;. Ich schicke Euch umgehend dorthin.&lt;BR&gt;&lt;BR&gt;Könnt Ihr mir einen Gefallen tun, während ich Eure Papiere fertigmache? Bringt diesen Rückrufbefehl zu Detrian in Castanica.&lt;BR&gt;&lt;BR&gt;Er hat gerade Urlaub, aber wir brauchen ihn schnellstmöglich wieder an der Front, sobald er sich von den ... äh ... Freizeitangeboten in Castanica losreißen kann.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1106">
+        <Page social="5">Ein Rückrufbefehl? Dachte ich mir schon.&lt;BR&gt;&lt;BR&gt;Seid Ihr auch unterwegs zu den Hungrigen Höhlen?&lt;NEXTPAGEBUTTON&gt;"Das bin ich."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ich kenne diese Höhlen ja wie meine Westentasche, aber ...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, könntet Ihr meiner kleinen Schwester Hennika diese Puppe von mir geben?&lt;BR&gt;&lt;BR&gt;Ich habe versprochen, sie ihr mitzubringen, aber ich muss mich sofort zurückmelden und habe keine Zeit, jetzt nach Hause zu gehen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1107">
+        <Page social="5">Mein Bruder ist der Beste! Er denkt immer an mich!&lt;BR&gt;&lt;BR&gt;Und ich habe ihn auch nicht vergessen. Ich habe diesen Talisman für ihn besorgt, aber jetzt kann ich ihm den nicht mehr geben.&lt;BR&gt;&lt;BR&gt;Ihr aber könnt es! Ihr reist doch an denselben Ort wie er, oder? Sagt ihm einfach, dies sei ein Glücksbringer, denn Hennika möchte, dass er beschützt wird.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1023">
+        <Page social="5">Ein Talisman? Das ist ja so lieb von Hennika! Ich vermisse sie so sehr.&lt;BR&gt;&lt;BR&gt;Nun, Ihr solltet besser weiterziehen, &lt;PCNAME&gt;. Karina wartet auf Euch am Rächeraußenposten.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
+        <Page social="5">&lt;PCNAME&gt; ist hier! Die Schlacht kann beginnen!&lt;BR&gt;&lt;BR&gt;Euer erstes Einsatzziel sind {@LinkCreature:8#2031#Gulasklavenhändler} und {@LinkCreature:8#2021#Kaimansöldner}.&lt;BR&gt;&lt;BR&gt;Meldet Euch hier zurück, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
+        <Page social="5">Das ist genau der Einsatz, den ich sehen will, &lt;PCNAME&gt;. Aber das war erst der Anfang.</Page>
+    </Text>
+</QuestDialog>

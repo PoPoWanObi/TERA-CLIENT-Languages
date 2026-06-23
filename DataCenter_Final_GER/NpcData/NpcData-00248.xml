@@ -1,0 +1,44 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="491" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1" scale="0.4" shapeId="301251" gender="male" race="BisqueDoll" resourceSize="100" resourceType="medium" size="small" parentId="30125100" basicActionId="3012500" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="759" />
+    </Template>
+    <Template id="2" scale="1.1" shapeId="300320" gender="female" race="VampirLady" resourceSize="100" resourceType="medium" size="medium" parentId="30032000" basicActionId="3003200" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="9437" />
+    </Template>
+    <Template id="3" scale="0.9" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" size="small" parentId="30019600" basicActionId="3001900" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="759" />
+    </Template>
+    <Template id="4" scale="1.1" shapeId="300641" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" size="medium" parentId="30064100" basicActionId="3006400" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <Stat level="35" maxHp="9437" />
+    </Template>
+    <Template id="5" scale="0.8" shapeId="301170" gender="male" race="TorturedSouls" resourceSize="100" resourceType="medium" size="small" parentId="30117000" basicActionId="3011700" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="759" />
+    </Template>
+    <Template id="6" scale="0.55" shapeId="300731" gender="male" race="AbandonedAutomatedGuardian" resourceSize="100" resourceType="medium" size="medium" parentId="30073100" basicActionId="3007300" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="9437" />
+    </Template>
+    <Template id="7" scale="0.85" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" size="medium" parentId="30107000" basicActionId="3010700" elite="false" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false">
+        <NamePlate nameplateHeight="48" deathNameplateHeight="0" />
+        <Stat level="36" maxHp="12701" />
+    </Template>
+    <Template id="9" scale="0.95" shapeId="301040" gender="female" race="witch" size="medium" parentId="30104000" basicActionId="3010400" elite="true" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+        <Stat level="35" maxHp="42897" />
+    </Template>
+    <Template id="10" scale="1" shapeId="301041" gender="female" race="witch" size="medium" parentId="30104100" basicActionId="3010400" elite="true" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <Stat level="35" maxHp="42897" />
+    </Template>
+    <Template id="99" scale="1" shapeId="300640" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" size="medium" parentId="30064000" basicActionId="3006400" elite="true" isFreeNamed="false" showAggroTarget="false" showShorttermTarget="false" villager="true">
+        <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+        <Stat level="36" maxHp="92371" />
+    </Template>
+    <Template id="1002" scale="0.625" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="true" dontTurn="true" isObjectNpc="false" spawnScriptId="0" villager="true">
+        <NamePlate nameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+</NpcData>

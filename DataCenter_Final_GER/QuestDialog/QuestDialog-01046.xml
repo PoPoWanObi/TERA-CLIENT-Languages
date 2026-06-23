@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">Die Blutwache ist Thulsas hochrangigste Eliteeinheit. Sie verteidigen diesen Ort und sind daher eine ernste Gefahr für die Föderationsgarnison. Abgesehen davon scheinen sie in letzter Zeit auch etwas auszuhecken.&lt;BR&gt;&lt;BR&gt;Ihr findet die {@LinkCreature:33#10#Magier}, {@LinkCreature:33#60#Zauberer} und {@LinkCreature:33#70#Arkanisten} der Blutwache in der Nähe der Kreischenden Katakomben und dem Gefängnis der Entstellung.&lt;BR&gt;&lt;BR&gt;Bringt alle Informationen mit, die Ihr finden könnt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">Was habt Ihr gefunden? Hmm... Das müssen wir genauer untersuchen, aber es könnte erklären, wie Thulsas Macht die Blutwache fördert.&lt;BR&gt;&lt;BR&gt;Bevor ich mich aber zu sehr darauf konzentriere, hier zunächst noch Eure Belohnung!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">Ihr findet die {@LinkCreature:33#10#Magier}, {@LinkCreature:33#60#Zauberer} und {@LinkCreature:33#70#Arkanisten} der Blutwache in der Nähe der Kreischenden Katakomben und dem Gefängnis der Entstellung.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="4">Habt Ihr die {@LinkCreature:40#33#Zomporiminenarbeiter} gesehen, die für die Legion von Thulsa arbeiten? Was ist mit ihnen geschehen? Denkt Ihr, das Erz, das sie abbauen, beeinflusst die Minenarbeiter irgendwie?&lt;BR&gt;&lt;BR&gt;Helft Ihr mir, es herauszufinden? Um an Erzproben zu kommen, müsst Ihr vielleicht einige von ihnen töten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Ich werde es den Experten im Mysterium zur Analyse schicken. Unter uns gesagt, will ich damit nicht länger als unbedingt notwendig zu tun haben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Ich bin nur ein Zenturio, aber ich kann eins und eins zusammenzählen und erhalte Minen plus Magiesteine. Konntet Ihr schon etwas von diesem Mineral beschaffen?</Page>
+    </Text>
+</QuestDialog>

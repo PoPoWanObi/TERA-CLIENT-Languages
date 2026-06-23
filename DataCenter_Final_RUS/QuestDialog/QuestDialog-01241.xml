@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Разведчики докладывают о некоем {@LinkCreature:42#5002#Траголете}, который командует Kостяными солдатами в западной части покоев мертвых.&lt;BR&gt;&lt;BR&gt;Нельзя позволить им стать более организованными. &lt;PCNAME&gt;, не поможешь ли нам избавиться от этого существа?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Хорошая работа. Всегда приятно награждать за отважные деяния, а устранение Траголета именно к таким и относится. Вот, возьми это и используй во благо.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Чем скорее удастся убить Траголета, тем быстрее костяные солдаты останутся без командира.</Page>
+    </Text>
+</QuestDialog>

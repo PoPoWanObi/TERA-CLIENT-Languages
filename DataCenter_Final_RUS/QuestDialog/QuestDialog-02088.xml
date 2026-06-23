@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Вы помогли клану Консос очистить храмовый сад.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Поговори с Нахадом. Ему опять нужна была помощь в очистке Храмового сада.&lt;NEXTPAGEBUTTON&gt;"Я помогу".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">О, &lt;PCNAME&gt;. Рад тебя видеть! Большое тебе спасибо за помощь. Мусор, граффити, вампиры... в общем, забот по горло.&lt;NEXTPAGEBUTTON&gt;"Чем я могу тебе помочь?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Благодарю за помощь храму.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Благодарю за помощь храму.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Благодарю за помощь храму.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Сосуд для отходов. &lt;NEXTPAGEBUTTON&gt;Закрыть крышку.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Спасибо, &lt;PCNAME&gt;. Пожалуйста, прими это в знак моей благодарности.</Page>
+    </Text>
+</QuestDialog>

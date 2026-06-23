@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="489" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="489" prevId="0" villagerId="1013">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Vertreibt die entsetzlichen Geschöpfe von der Zuflucht der Kultisten.&lt;BR&gt;&lt;BR&gt;Konzentriert Euch auf {@LinkCreature:489#3610#Söldnerscharfschützen}, {@LinkCreature:489#3705#Söldnerverteidiger}, {@LinkCreature:489#3706#Söldnerverwüster}, {@LinkCreature:489#3708#Söldnerprälaten} und {@LinkCreature:489#3709#Söldnerarkanisten}.&lt;BR&gt;&lt;BR&gt;Meldet Euch bei Raubelak, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="489" prevId="2" villagerId="1013">
+        <Page social="5">Großartige Arbeit. Bitte helft der Föderation auch weiterhin dabei, die Kultisten restlos zu vernichten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="489" villagerId="1013">
+        <Page social="0">Ich will mir nicht eine Welt mit diesen Kultisten teilen. Rottet sie aus, so schnell Ihr könnt.</Page>
+    </Text>
+</QuestDialog>

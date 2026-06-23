@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
+        <Page social="0">L'heure de la vengeance a sonné!&amp;nbsp; Allez traquer des {@LinkCreature:39#110#ovolithes gardiens} et les {@LinkCreature:39#270#ovolithes sans pitié} dans les niveaux inférieurs d'Arachnaea, et tuez-les!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Rapportez la preuve de leur mort à Greina, à l'Avant-poste du Scélérat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1003">
+        <Page social="4">Nous vous remercions pour le travail que vous accomplissez au nom de la Fédération.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1003">
+        <Page social="0">Il y a des récompenses à la clé quand on travaille pour la Fédération.</Page>
+    </Text>
+</QuestDialog>

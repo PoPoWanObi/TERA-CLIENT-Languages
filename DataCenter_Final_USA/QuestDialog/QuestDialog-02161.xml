@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="480" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="5">One of Skulregnath's soul fragments survived and regenerated the dread dragon. We have to stop it once again.&lt;BR&gt;&lt;BR&gt;Penetrate Sigil Adstringo and destroy {@LinkCreature:480#107#Evignar}, {@LinkCreature:480#113#Harkyriss}, {@LinkCreature:480#119#Great Chief Tungkan}, and {@LinkCreature:480#121#Skulregnath}.&lt;BR&gt;&lt;BR&gt;Those dragon fragments require examination. Maybe they will reveal a way to keep this worm dead.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="74" prevId="2" villagerId="1019">
+        <Page social="5">Superb work, &lt;PCNAME&gt;! How many people can say they've killed an immortal dragon once, let alone twice?&lt;BR&gt;&lt;BR&gt;Maybe we can figure out a way to keep this from becoming a daily occurrence, eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="74" villagerId="1019">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

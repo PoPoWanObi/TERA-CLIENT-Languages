@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt;, а как у тебя с прыжками?&lt;BR&gt;&lt;BR&gt;В высоту и с высоты?&lt;BR&gt;&lt;BR&gt;Нам нужен боец, способный преодолеть широкие пропасти, а затем спуститься - вернее, нырнуть, - в подвал.&lt;BR&gt;&lt;BR&gt;Там сейчас находится разведчик по имени Вакаар, от которого давно не было вестей. Узнай, жив ли он, а затем возвращайся обратно к нам.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1024">
+        <Page social="4">Плохая новость - придется прыгать в эту дыру. Другого пути вниз нет.&lt;BR&gt;&lt;BR&gt;Хорошая новость -вчера мы спустили туда специалиста по телепортации, так что сможем вернуться обратно.&lt;BR&gt;&lt;BR&gt;Если только распорядитель пережил спуск...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1013">
+        <Page social="4">Что за спешка?&lt;BR&gt;&lt;BR&gt;Мне казалось, с врагами ты разбираешься не хуже, чем с гравитацией, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ох, сколько же еще работы нам предстоит сделать.</Page>
+    </Text>
+</QuestDialog>

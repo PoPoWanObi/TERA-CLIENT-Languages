@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="4">Diese {@LinkCreature:13#300541#Felsenkletterer} fressen die Relikte in dieser Gegend.&lt;BR&gt;&lt;BR&gt;Jedes Mal, wenn einer von ihnen einen Felsvorsprung pulverisiert, stößt Eria einen markerschütternden Schrei aus. Könnt Ihr etwas für unsere Ohren tun und ein paar Reliquienfragmente sammeln, bevor es zu spät ist?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1128">
+        <Page social="4">Das müsste vorerst genügen. Ich habe Eria hinter eine Säule hervorlugen sehen, während Ihr gekämpft habt ... ich glaube, sie bewundert Eure Arbeit!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1128">
+        <Page social="0">Ich brauche mehr als Versprechungen, um diese Frau zu beruhigen. Ich glaube, Lian hat sich seine langen Ohren komplett mit Stoffresten ausgestopft, um Erias Geschrei nicht mehr hören zu müssen.&lt;BR&gt;&lt;BR&gt;Bitte, &lt;PCNAME&gt;, ich flehe Euch an - helft einem armen Soldaten und bringt mir etwas, das ich benutzen kann!</Page>
+    </Text>
+</QuestDialog>

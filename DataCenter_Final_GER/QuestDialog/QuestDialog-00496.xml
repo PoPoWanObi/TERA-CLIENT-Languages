@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1027">
+        <Page social="0">Ein aktivierter Dementalith kann denjenigen, der ihn berührt, in den Wahnsinn treiben. Bedoram schlug vor, das Gerät zu sprengen und stellte Euch Jelena, eine erfahrenen Saboteurin, vor.&lt;BR&gt;&lt;BR&gt;Jelenas Bombe hat den Stein unschädlich gemacht, während Ihr gleichzeitig den Vampirwächter erledigt habt. Jelena war entsetzt, einen Vampir in die Sache verwickelt zu sehen. Sie sagte, dass Vampire immer ehrenhafte Wesen gewesen seien, und bat Euch herauszufinden, was sie so verändert hat. &lt;BR&gt;&lt;BR&gt;Es folgten noch schlimmere Nachrichten. Bedoram erkannte in den eingravierten Runen des zerstörten Dementalithen die Siegel des Kults von Lok. Dies war keine Krankheit oder irgendein Anschlag.&lt;BR&gt;&lt;BR&gt;Dies war Teil eines größeren Plans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1027">
+        <Page social="4">Wenn möglich, sollte man unbedingt vermeiden, einen Dementalithen anzufassen. Man braucht beträchtliche magische Kraft, um sie zu zerstören, und das Risiko, dabei dem Wahn zu verfallen, ist groß.&lt;BR&gt;&lt;BR&gt;Andererseits kenne ich jemanden, der helfen könnte. Jelena!&lt;BR&gt;&lt;BR&gt;Sie gehört zu den Kundschaftern von Valkyon und ist sehr geschickt im Umgang mit Sprengstoff. Ich weiß, dass sie in der Gegend ist. Findet sie, &lt;PCNAME&gt;. Ist wirklich ein Knaller, mit Ihr zusammenzuarbeiten!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1020">
+        <Page social="4">Sucht Ihr nach mir?&lt;BR&gt;&lt;BR&gt;Ihr wollt einen Dementalithen zerstören? Ja, das geht schon. Ist aber vielleicht nicht so einfach.&lt;BR&gt;&lt;BR&gt;Wenn ich das planen würde, dann würde ich für ein derart mächtiges Relikt Wachen oder einen anderen Schutz aufstellen. Ich gebe Euch die Sprengladung, aber Ihr solltet besser auf einen Kampf vorbereitet sein.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1020">
+        <Page social="4">Ihr steht ja noch?! Dann scheint an den Geschichten über Euch tatsächlich was dran zu sein. Wie auch immer! Was ist passiert?&lt;BR&gt;&lt;BR&gt;Vampire? Zeigt mir mal das Fragment!&lt;BR&gt;&lt;BR&gt;Merkwürdig. Warum sollten sich die Vampire da einmischen? Sie leben seit Jahrhunderten im Königreich. Aber Lian hat mir auch mal erzählt, sie hätten Verbindungen zur Blutmagie. Jetzt aber Schluss mit den Spekulationen!&lt;BR&gt;&lt;BR&gt;Bringt diese Probe zu Bedoram. Sie lässt mich erschauern!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1020">
+        <Page social="0">Schon zurück? Habt Ihr den Dementalithen gesprengt?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="215" prevId="4" villagerId="1027">
+        <Page social="4">Lasst mich das mal genauer untersuchen.&lt;BR&gt;&lt;BR&gt;Es sind Symbole darauf, aber das ergibt keinen Sinn. Warum sollte sich Loks Siegel auf einem Fragment befinden? Er ist doch schon lange tot und vergessen.&lt;NEXTPAGEBUTTON&gt;"Habt Ihr je von den Nachkommen Loks gehört?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ein Kult, der ihm huldigt? Das wäre zwar bizarr, aber es würde Einiges erklären. Kulte blühen in zersplitterten Gesellschaften und beziehen ihre Stärke aus den Desillusionierten. Dieses Chaos könnte durchaus der Beginn von etwas Größerem sein.&lt;BR&gt;&lt;BR&gt;Informiert Präfekt Paka darüber. Beeilt Euch!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" villagerId="1027">
+        <Page social="0">Bringt den ungewöhnlichen Stein zu Bedoram.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="4">Ein Dementalith? Blutmagie? Ein Kult? Wie die Natur mich hassen muss!&lt;BR&gt;&lt;BR&gt;Warum sollten die Vampire mit Kultisten zusammenarbeiten? Sie sind doch zufrieden hier, das sind wir alle. Es ergibt einfach keinen Sinn.&lt;BR&gt;&lt;BR&gt;Aber wo bleiben meine Manieren? Ich habe das Wichtigste ja vergessen!&lt;NEXTPAGEBUTTON&gt;"Was wäre das?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mich bei Euch und Bedoram zu bedanken, natürlich! Ihr habt mein Dorf vor dem Tod oder Schlimmerem bewahrt! Wir können Euch gar nicht genug danken!&lt;BR&gt;&lt;BR&gt;Das trifft leider wortwörtlich zu, fürchte ich. Angesichts all dieser Probleme haben wird uns hoch verschuldet, um das Leben im Bezirk aufrecht zu erhalten.&lt;BR&gt;&lt;BR&gt;Aber richtet {@LinkCreature:215#1012#Bruke} aus, wie dankbar ich Euch bin, dann wird er Euch sicher belohnen!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="215" prevId="8" villagerId="1012">
+        <Page social="4">Ihr habt nur Eure Arbeit getan, weiter nichts. Erwartet keinen Triumphzug in Velika oder so etwas.&lt;BR&gt;&lt;BR&gt;Trotzdem bin ich autorisiert, Euch eine kleine Belohnung zukommen zu lassen.&lt;BR&gt;&lt;BR&gt;Nehmt dies und wartet auf weitere Befehle ... sofern General Samael Euch ein weiteres Mal einzusetzen gedenkt, natürlich.</Page>
+    </Text>
+</QuestDialog>

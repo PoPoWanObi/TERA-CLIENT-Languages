@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">Wir packen seit dem Umzug noch immer aus und haben noch nicht unser gesamtes Referenzmaterial.&lt;BR&gt;&lt;BR&gt;Könnt Ihr im Collegium Arcanum ein thaumaturgisches Buch ausleihen? Man wird das dort verstehen ... Gefallen unter Kollegen und all so was.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1712">
+        <Page social="4">Das könnte das Buch sein, das Fitae braucht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Das ist genau das, welches ich brauche. Danke, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dank Eurer Hilfe schreitet unsere Forschungsarbeit rasant voran.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1702">
+        <Page social="0">Das Buch ist im Collegium Arcanum. Leider keine Bilder. Es ist ein Buch für Erwachsene.</Page>
+    </Text>
+</QuestDialog>

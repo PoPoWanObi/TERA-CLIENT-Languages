@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Ihr möchtet eine Krone? Entschuldigt, aber solche stelle ich nicht mehr her. Weiches Feenhaar ist nahezu unmöglich zu bekommen. Und einige waren etwas zu aggressiv zu den Feen, um am das Haar zu gelangen. &lt;BR&gt;&lt;BR&gt;Sofern Ihr nicht geerbt oder einen reichen Onkel habt oder sowas, gibt es keine Krone für Euch. &lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Nun gut, ich frage lieber nicht, wie Ihr da herangekommen seid ... bringt mir nicht mehr davon, einverstanden?&lt;BR&gt;&lt;BR&gt;Also, welche Farbe darf es sein?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Lasst einfach diese arme Fee in Ruhe, in Ordnung? Eine Krone ist nicht lebenswichtig für Euch.</Page>
+    </Text>
+</QuestDialog>

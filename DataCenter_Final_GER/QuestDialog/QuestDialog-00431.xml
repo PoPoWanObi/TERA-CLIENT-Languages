@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Ich weiß, dass Ihr zurückgekommen seid, um nach Elion zu suchen, aber ich will offen sein: Viele verstörte Überlebende sind hierher zurückgekommen ... die lieber weiter ihr Bett im Lazarett hätten hüten sollen.&lt;BR&gt;&lt;BR&gt;Versteht mich nicht falsch: Ich wünsche mir, dass Ihr Elion findet, aber ich möchte nicht eines Tages nach Euch suchen müssen. Wir müssen dafür sorgen, dass Ihr gut erholt und kampfbereit seid.&lt;BR&gt;&lt;BR&gt;Sprecht mit &lt;font color='#660000'&gt;Zenturio Barsabba&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Wenn dieser alte Recke Euch für einsatzfähig hält, dann soll mir das reichen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1106">
+        <Page social="4">Wir wollen uns alle an den Dämonen rächen, aber dieses Mal werden wir vorbereitet sein. Keine überraschenden Sturmangriffe oder verheerenden Strandlandungen mehr.&lt;BR&gt;&lt;BR&gt;Ihr seht so gesund aus wie {@gender:jeder/jede} andere &lt;PCCLASS&gt;, aber das könnte täuschen.</Page>
+    </Text>
+</QuestDialog>

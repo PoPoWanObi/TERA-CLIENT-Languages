@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="0">Laissez Dougal vous renseigner sur la mission. Il est absolument déterminé à la mener à son terme.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="4">Nous pouvons commencer l'embarquement une fois les recrues revenues.&lt;BR&gt;&lt;BR&gt;Je ne devrais pas faire attendre Zolyn. Informez-la que les provisions et les soldats sont prêts au départ.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1522">
+        <Page social="4">Hmmff. &lt;PCNAME&gt;. Je vous connais de réputation. La nature moissonne et vous êtes sa faux.&lt;BR&gt;&lt;BR&gt;Je présume que vous ne connaissez pas Syona, la princesse Elin?&amp;nbsp; &lt;NEXTPAGEBUTTON&gt;"J'ai bien peur que non."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Peu importe.&lt;BR&gt;&lt;BR&gt;Bien, nous avons entreposé notre cargaison et nos soldats sont à nouveau sur pieds. Ce qui est loin d'être le cas pour le reste de ces Tuwangis.&lt;BR&gt;&lt;BR&gt;Voici le démarreur du croiseur céleste. Dougal l'attend.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1521">
+        <Page social="4">Quel plaisir de vous revoir, &lt;PCNAME&gt;!&amp;nbsp; Une bonne chose qu'on vous ait nommé pour cette mission.&lt;NEXTPAGEBUTTON&gt;"Tenez, c'est pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Le démarreur. Nous pouvons enfin décoller. Parfait.&lt;BR&gt;&lt;BR&gt;Nous sommes en route vers le Nord d'Arun. Nous pensons que c'est là que se trouvent les racines du mal demokron, ainsi qu'un autre mystère plus personnel.&lt;BR&gt;&lt;BR&gt;Nous en reparlerons plus tard.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1521">
+        <Page social="4">Allez, embarquons, il me tarde de me mettre en route.&lt;BR&gt;&lt;BR&gt;Pyon vous transportera vers le vaisseau dès que vous serez prêt{@g:/e}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1000">
+        <Page social="4">Bienvenue à bord!&amp;nbsp; N'est-il pas magnifique?&amp;nbsp; Plus large qu'un navire de guerre et capable de transporter toute une compagnie.&lt;BR&gt;&lt;BR&gt;Je ne suis pas au fait de tous ses petits secrets, mais je sais que ce croiseur céleste s'appuie sur énormément de technologie argone.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" villagerId="4">
+        <Page social="0">Si vous êtes prêt{@g:/e}, je vais vous mener à votre cabine.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="6" villagerId="1005">
+        <Page social="4">&lt;PCNAME&gt;, vous nous avez sauvés, Actol et moi. Merci.&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas, fini le chapardage d'élixirs.</Page>
+    </Text>
+</QuestDialog>

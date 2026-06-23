@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="97" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0">Les mekonaris continuent de perturber nos recherches et de résister à nos pressions. Occupez-vous-en.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:55#5#voleurs arcaniques mekonaris} et les {@LinkCreature:55#6#déprédateurs} près de la Place des déchus.&lt;BR&gt;&lt;BR&gt;Une fois la mission terminée, faites votre rapport à Jola, à l'Avant-poste de Valumnir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1026">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1026">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="86" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Чтобы добиться успеха на острове, необходимо научиться пользоваться бомбами.&lt;BR&gt;&lt;BR&gt;Ступай и поговори с {@LinkCreature:64#1029#Кирией}. Она введет тебя в курс дела.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">ЧТО? ГОВОРИ ГРОМЧЕ, Я НЕ СЛЫШУ!&lt;BR&gt;&lt;BR&gt;Я ВСЮ ЖИЗНЬ РАБОТАЛА СО ВЗРЫВЧАТКОЙ И С РАДОСТЬЮ ПОДЕЛЮСЬ ЗНАНИЯМИ!&lt;BR&gt;&lt;BR&gt;НУ ЧТО, НАЧНЕМ ВЕСЕЛЬЕ?&lt;NEXTPAGEBUTTON&gt;"С удовольствием!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">СЛОЖНОГО ТУТ НИЧЕГО НЕТ! ПРОСТО ЗАПУСКАЙ МАГМОВЫЕ БОМБЫ ВОН В ТЕ {@LinkCreature:13#888#УЧЕБНЫЕ МАНЕКЕНЫ}!&lt;BR&gt;&lt;BR&gt;ЧТО В БОМБАХ ХОРОШО, ТАК ЭТО ТО, ЧТО ТЫ ТОЧНО ЗНАЕШЬ, КОГДА ОНИ СРАБОТАЛИ!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">УМЕТЬ ВЗРЫВАТЬ ВСЯКОЕ ОЧЕНЬ ВАЖНО, ОСОБЕННО ЕСЛИ СРАЖАЕШЬСЯ С ОРДАМИ ВРАГОВ!&lt;BR&gt;&lt;BR&gt;А ТЕПЕРЬ СТУПАЙ И НЕСИ СМЕРТЬ ВО ИМЯ СВОБОДЫ. ПЕРЕДАЙ ДЖОРХОНУ, ЧТО НА МОЙ ВЗГЛЯД ТЫ ВСЕ УЖЕ ЗНАЕШЬ.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Кирия... она особенная, верно? Всю жизнь она провела в таком грохоте, что удивительно, как она хоть что-то еще слышит.&lt;BR&gt;&lt;BR&gt;Что ж, если она поручилась за тебя, то я с радостью направлю тебя на службу.&lt;BR&gt;&lt;BR&gt;И я думаю, что тебе в самое ближайшее время предоставится случай применить полученные знания на практике.</Page>
+    </Text>
+</QuestDialog>

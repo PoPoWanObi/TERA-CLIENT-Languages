@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">Детали задания:&lt;BR&gt;&lt;BR&gt;Уничтожьте {@LinkCreature:8#1011#Массивных часовых}, {@LinkCreature:8#1021#Кромосов-рыскателей} и {@LinkCreature:8#1031#Капринских бесов}.&lt;BR&gt;&lt;BR&gt;Доложите Нарисе на Заставе мстителей, когда задание будет выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1003">
+        <Page social="4">Да, да, да! Еще одно задание позади!&lt;BR&gt;&lt;BR&gt;Пожалуйста, возьми это в награду за твой вклад в общее дело!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1003">
+        <Page social="0">М-м-м? Нет, нет, нет. Сначала выполни задание, а потом получишь награду. Только так.&lt;BR&gt;&lt;BR&gt;Наверное, ты тут недавно. Без обид. Иди займись делом.</Page>
+    </Text>
+</QuestDialog>

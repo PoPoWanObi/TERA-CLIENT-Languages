@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Ihr habt dem Consosclan dabei geholfen, den Tempel von Balder zu reinigen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">Ich würde Euch gerne eine Gelegenheit anbieten zu helfen.&lt;BR&gt;&lt;BR&gt;"Wenn der Tempel nicht sauber und glänzend ist, ist es Balders Licht auch nicht." Habt Ihr diesen Spruch schon einmal gehört?&lt;NEXTPAGEBUTTON&gt;"Nein. Was bedeutet er?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Es ist ein sehr altes Sprichwort und es bedeutet, dass der Tempel und die Sonne wie durch Gotteshand verbunden sind. Wenn der Tempel durch Staub und Unrat verschmutzt ist, ist die Sonne ... geschwächt. Es ist kompliziert und braucht Jahre der klerikalen Ausbildung, bis man es vollkommen verstehen kann.&lt;BR&gt;&lt;BR&gt;Leider gibt es zu wenige Priester, um den Tempel ordentlich sauber zu halten.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, darf ich Euch darum bitten, uns dabei zu helfen, den Tempel zu säubern?&lt;NEXTPAGEBUTTON&gt;"Das klingt wichtig, deshalb werde ich Euch helfen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Vielen Dank. Das bedeutet uns sehr viel. Die wenigsten sagen zu, wenn sie erfahren, dass die Ehrung von Balders Aufopferung mit  tatsächlicher Arbeit einhergeht.&lt;BR&gt;&lt;BR&gt;Bitte, verwendet das Teleportal, um den Tempel zu betreten und meldet Euch bei Davor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="3" villagerId="7000">
+        <Page social="4">Es ist mir ein Vergnügen, Euch kennenzulernen &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ich bin  Davor und ich bin für die Tempelkeller zuständig.&lt;BR&gt;&lt;BR&gt;Die heutige Aufgabe besteht darin, den Keller von Schädlingen zu befreien - in diesem Fall Faultiere. Sie klettern über die Mauern, um zum Wasser des Brunnens zu gelangen und hinterlassen dann ein heilloses Chaos.&lt;BR&gt;&lt;BR&gt;Ich warne Euch, diese Faultiere sind hochaggressiv. Aber wenn Ihr unseren Reinigungsroboter PEST-B-GON 8000 benutzt, sollte es nicht allzu schwierig werden.&lt;NEXTPAGEBUTTON&gt;"Wie der Roboter funktioniert?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Das ist ganz einfach. Einfach die Steuerung hier aktivieren, dann wird PEST-B-GON 8000 Euch überallhin folgen und dabei Faultiere beseitigen. Er ist jedoch nicht besonders intelligent, deshalb solltet Ihr PEST-B-GON 8000 am besten lenken, indem Ihr alles angreift, was er vernichten soll.&lt;BR&gt;&lt;BR&gt;Aktiviert einfach die Steuerung, wenn Ihr fertig seid.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="4" villagerId="7001">
+        <Page social="4">Hallo, &lt;PCNAME&gt;. Danke, dass Ihr den Consosclan heute im Tempel unterstützt habt.&lt;BR&gt;&lt;BR&gt;Ich bin Nahad. Ich pflege mithilfe meiner Gartengolemroboter die Gärten. Sie halten in erster Linie die Ghilliedhus in Schach, während ich mich um den Garten kümmere.&lt;BR&gt;&lt;BR&gt;Wie so viele Dinge im Tempel sind sie jedoch leider schon sehr alt und gehen leicht kaputt. Ich habe keine Zeit, mich selbst um sie zu kümmern: Irgendjemand hat die Mauern des Tempels beschmiert und ich muss herausfinden, wer.&lt;BR&gt;&lt;BR&gt;Es würde mir sehr helfen, wenn Ihr die Gartengolems reparieren könntet, &lt;PCNAME&gt;. Helft ihnen anschließend, die riesigen Ghilliedhus zu bezwingen.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="5" villagerId="7002">
+        <Page social="4">Vampire ... das ist nicht wirklich eine Überraschung. Sie wurden durch die Kraft der Sonne geschwächt, daher ist es nur logisch, dass sie zurückschlagen, indem sie den Tempel besudeln.&lt;BR&gt;&lt;BR&gt;Die Schmierereien sind Teil davon. Wenn wir uns außerhalb des Tempels wagen, dann bedrängen sie uns und aus dem ganzen Umkreis gibt es Berichte von entführten Dorfbewohnern. Und jetzt sind sie auch noch so dreist und dringen in den Tempel selbst ein!&lt;BR&gt;&lt;BR&gt;Ich muss Renmi davon berichten. Bitte geht die Treppe hinauf und sprecht mit Kodar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="6" villagerId="7003">
+        <Page social="4">Willkommen, &lt;PCNAME&gt;. Renmi hat mir von Euch berichtet. Vielen Dank, dass Ihr gekommen seid.&lt;BR&gt;&lt;BR&gt;Bitte helft mir dabei, das Tempelzentrum von den Schlangen zu befreien.&lt;NEXTPAGEBUTTON&gt;"Was soll ich tun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Das ist ganz einfach.&lt;BR&gt;&lt;BR&gt;Karu kann Euch alles erklären. Karu kümmert sich normalerweise um solches Ungeziefer, aber die Feen sind nicht immer ganz ... zuverlässig. Aber sprecht trotzdem mit ihm, bevor Ihr loslegt; er könnte Euch nützliche Ratschläge geben.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Willkommen zurück, &lt;PCNAME&gt;. Ich hoffe, Eure Aufgaben waren nicht zu anstrengend?&lt;BR&gt;&lt;BR&gt;Die Kleriker sagten mir, dass Ihr ihnen sehr geholfen habt. Sie hoffen darauf, dass Ihr ihnen nächstes erneut helfen werdet.&lt;BR&gt;&lt;BR&gt;In der Zwischenzeit möchten wir Euch etwas ganz Besonderes als Zeichen unserer Dankbarkeit geben.</Page>
+    </Text>
+</QuestDialog>

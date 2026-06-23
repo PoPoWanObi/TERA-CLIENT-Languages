@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Wir überlegen, ob die {@LinkCreature:40#11#Selvarasspäherinnen} etwas mit unseren vermissten Freunden und der Seuche zu tun haben. Die Selvaras haben in der Nähe eine Basis. Dort zu suchen, könnte nützliche Informationen erbringen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1012">
+        <Page social="4">Jede Seite dieses Dokuments erwähnt auf irgendeine Art die Legion von Thulsa. Da ist die Verbindung - sie arbeiten zusammen.&lt;BR&gt;&lt;BR&gt;Aber warum? Und wozu?&lt;BR&gt;&lt;BR&gt;Und für wen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1012">
+        <Page social="0">Holt alle Dokumente, die sich entweder auf die Entführungen oder die Seuche beziehen. Irgendwo dort gibt es eine Verbindung.</Page>
+    </Text>
+</QuestDialog>

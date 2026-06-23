@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1020">
+        <Page social="5">Hey! Habt Ihr kurz Zeit? Meine Tochter wartet in Tria auf mich, aber meine Rüstung ist zerbeult und ich sitze hier im Lager fest. Ich könnte sie flicken, doch dazu fehlt mir das Leder.&lt;BR&gt;&lt;BR&gt;Wenn Ihr einige {@LinkCreature:29#2011#Wilde Frischlinge} und {@LinkCreature:29#1011#Dickzahnfrischlinge} erlegen und mir ihr Leder bringen könntet, kann ich meine Rüstung reparieren und zu meiner Tochter reisen. Was sagt Ihr?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1020">
+        <Page social="5">Ihr seid tapfer, &lt;PCNAME&gt;! Das sollte mehr als genug sein. Ich werde meine Ausrüstung reparieren und dann aufbrechen.&lt;BR&gt;&lt;BR&gt;Ich bin kein Freund langer Reden, doch ich schulde Euch was. Lebt wohl.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" villagerId="1020">
+        <Page social="0">Verdammt noch mal! Ich möchte doch nur zu meiner Tochter. Habt Ihr das Leder noch nicht?</Page>
+    </Text>
+</QuestDialog>

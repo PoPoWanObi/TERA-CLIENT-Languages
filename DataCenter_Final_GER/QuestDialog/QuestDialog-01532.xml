@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">{@LinkCreature:250#1013} möchte unbedingt Feldforschung betreiben, aber das ist viel zu gefährlich für sie. Ihre Sicherheit und nicht ihr Glück hat bei mir oberste Priorität.&lt;BR&gt;&lt;BR&gt;Andererseits, wenn Ihr die Manaatholvollstrecker und Athakela östlich von hier ausschaltet, könnte sie es riskieren.&lt;BR&gt;&lt;BR&gt;Was sagt Ihr?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1018">
+        <Page social="6">Shirka hat von Eurer Mission gehört. Sie drängt darauf, die Region zu erkunden.&lt;BR&gt;&lt;BR&gt;Dank Euch dürfte das jetzt relativ sicher sein.</Page>
+    </Text>
+</QuestDialog>

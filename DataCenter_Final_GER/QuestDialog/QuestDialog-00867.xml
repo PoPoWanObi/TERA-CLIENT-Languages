@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
+        <Page social="0">Ich brauche Hilfe dabei, Thulsas Truppen durch Zermürbung zu schwächen. Eliminiert {@LinkCreature:27#10#Thulsanische Zerstörer}, {@LinkCreature:27#11#Thulsanische Arkanisten}, {@LinkCreature:27#8#Thulsanische Berserker}, {@LinkCreature:27#12#Thulsaspalter} und die {@LinkCreature:27#9#Thulsanische Furchtweber} und sammelt ihre Abzeichen ein.&lt;BR&gt;&lt;BR&gt;Erstattet Vlara Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1009">
+        <Page social="5">Thulsas Truppen werden unterliegen, solange wir Soldaten wie Euch haben. Gut gemacht.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" villagerId="1009">
+        <Page social="0">Geld gibt es nur gegen einen Todesnachweis. Tut mir Leid.</Page>
+    </Text>
+</QuestDialog>

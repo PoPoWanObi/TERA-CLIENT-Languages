@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="4">Ich brauche einen Kurier. Nach dem letzten Angriff der Argonen klappt die Kommunikation nicht mehr. Das kann so nicht weitergehen.&lt;NEXTPAGEBUTTON&gt;"Ich helfe gern."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Großartig. Geht zur {@Rgn:48004} und bringt {@LinkCreature:248#1015} diese Befehle. Sucht unterwegs nach {@LinkCreature:78#1012} in der Nähe der {@Rgn:78001} und befehlt ihm, zur Basis zurückzukehren.&lt;BR&gt;&lt;BR&gt;Wegtreten.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1012">
+        <Page social="4">Zurück zur Basis? Aber ich habe noch nicht alle Vorräte ausgeliefert.&lt;BR&gt;&lt;BR&gt;Das ist verderbliche Ware. Könnt Ihr sie wohl für mich abliefern?&lt;NEXTPAGEBUTTON&gt;"Wenn es auf meinem Weg liegt, gern."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Fein! {@LinkCreature:78#1009} hat einige Ferkel für die Schmiede an der {@Rgn:48001} geröstet.&lt;BR&gt;&lt;BR&gt;Sucht {@LinkCreature:248#1044} südöstlich der Festung. Er ist der hungrig aussehende Aman mit dem großen Hammer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1044">
+        <Page social="6">Bei den Titanen, riecht das gut! Ich habe ewig kein frisches Fleisch mehr gegessen ... Ich weiß kaum noch, wie es schmeckt!&lt;BR&gt;&lt;BR&gt;Hoffentlich bleiben wir lange genug am Leben, um uns daran laben zu können.&lt;NEXTPAGEBUTTON&gt;"Ärger mit den Argonen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Aber immer. Falls Ihr zur {@Rgn:78001} wollt, könntet Ihr vielleicht einige Argonomorphleichenunholde für mich ausschalten? Das liegt auf Eurem Weg und würde dazu beitragen, meine Leute am Leben zu erhalten.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="1015">
+        <Page social="6">Freut mich, Euch kennenzulernen, &lt;PCNAME&gt;. Muhrak lobt Euch in den höchsten Tönen.&lt;BR&gt;&lt;BR&gt;Danke für die Befehle. Als der Kontakt abbrach, habe ich mir um meine Leute Sorgen gemacht. Wenn wir die Argonentechnologie nutzen könnten, würde uns das sehr weiterhelfen.&lt;BR&gt;&lt;BR&gt;Hoffentlich ist sie das Risiko wert.</Page>
+    </Text>
+</QuestDialog>

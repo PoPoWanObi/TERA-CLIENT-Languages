@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">Если Тулса в самом деле стоит за всем этим, это объясняет появление Кшаранцев, о которых мы недавно услышали.&lt;BR&gt;&lt;BR&gt;Араст из Закатного лагеря сообщил, что видел Кшаранца неподалеку от своего поста. Кшаранцы - это нежить, которая создана аргонами. Они явно представляют собой угрозу.&lt;BR&gt;&lt;BR&gt;Убедись в их наличии и доложи непосредственно Арасту.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">Это точно амулеты Тулсы. Тулса широко раскинул свои сети и собрал бесчисленных союзников, чтобы замаскировать свою основную работу.&lt;BR&gt;&lt;BR&gt;Это объясняет неожиданную храбрость ансили. Они думают, что Тулса поддержит их. Наивные простаки.&lt;BR&gt;&lt;BR&gt;Тулса верен только сам себе.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">Я должен знать, безопасны ли дороги. Пожалуйста, убедись, что они безопасны, или принеси что-нибудь осязаемое, что можно будет обсудить с командованием.</Page>
+    </Text>
+</QuestDialog>

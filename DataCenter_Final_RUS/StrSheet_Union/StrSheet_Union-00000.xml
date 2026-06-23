@@ -1,0 +1,239 @@
+<StrSheet_Union xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union">
+    <String id="1" string="Сообщество Торговцев" />
+    <String id="2" string="Союз Просвещенных" />
+    <String id="3" string="Железный Орден" />
+    <String id="11" string="Организация, использующая ноктиний для того, чтобы добиться финансового процветания." />
+    <String id="12" string="Члены капиталистического Сообщества Торговцев получают на 1% больше золота при его сборе." />
+    <String id="13" string="Организация, изучающая ноктиний в научных целях." />
+    <String id="14" string="Союз Просвещенных обладает непревзойденной дипломатичностью. Его члены получают на 5% больше очков репутации и доблести." />
+    <String id="15" string="Организация, использующая ноктиний для получения сверхсилы." />
+    <String id="16" string="Железный Орден дает своим членам дополнительные физические преимущества - их сопротивляемость оглушению на 5% больше." />
+    <String id="400" string="Экзарх" />
+    <String id="300" string="Командир" />
+    <String id="301" string="Помощник командира" />
+    <String id="302" string="Командир штурма" />
+    <String id="303" string="Командир обороны" />
+    <String id="200" string="Член альянса" />
+    <String id="100" string="Кадет альянса" />
+    <String id="1000" string="Командование" />
+    <String id="1001" string="Командование 1" />
+    <String id="1002" string="Командование 2" />
+    <String id="1003" string="Командование 3" />
+    <String id="1004" string="Командование 4" />
+    <String id="1101" string="Экзарх - {UnionName}: {CharName} [{GuildName}]" />
+    <String id="1102" string="{UnionName}: турнир за пост экзарха" />
+    <String id="1103" string="Срок полномочий экзарха: {Data}" />
+    <String id="1104" string="Период регистрации кандидатов на пост экзарха: {Data}" />
+    <String id="1105" string="Состязание за экстракторы: {State}" />
+    <String id="1106" string="Стража альянса: {State}" />
+    <String id="1107" string="Казначей: {State}" />
+    <String id="1120" string="В процессе" />
+    <String id="1121" string="Закрыто" />
+    <String id="1122" string="Идет наблюдение" />
+    <String id="1123" string="В бою" />
+    <String id="1124" string="В безопасности" />
+    <String id="1125" string="Мертв" />
+    <String id="1126" string="В опасности" />
+    <String id="1127" string="Не участвует" />
+    <String id="1128" string="Участники состязания соревнуются за контроль над экстракторами ноктиния на землях альянса." />
+    <String id="1130" string="Данные о моей позиции" />
+    <String id="1131" string="Зона путеводной звезды" />
+    <String id="1132" string="Начало войны альянсов: {Data}" />
+    <String id="10001" string="Доступ к сокровищницам: открыт" />
+    <String id="10002" string="Доступ к сокровищницам: закрыт" />
+    <String id="20001" string="Разместить магазин редкостей" />
+    <String id="20002" string="Повышение опыта экзарха" />
+    <String id="20003" string="Усиление PvP экзарха" />
+    <String id="20004" string="Мужество экзарха" />
+    <String id="20005" string="Изменить" />
+    <String id="20006" string="Собрать налоги" />
+    <String id="20007" string="Установить путеводную звезду" />
+    <String id="20008" string="Создать оглушающую бомбу" />
+    <String id="20009" string="Создать мину" />
+    <String id="20010" string="Создать замедляющую бомбу" />
+    <String id="20011" string="Создать бомбу с часовым механихмом" />
+    <String id="20012" string="Создать световую гранату" />
+    <String id="20013" string="Призыв: страж" />
+    <String id="20014" string="Призыв: баррикада" />
+    <String id="20015" string="Призыв: оружие" />
+    <String id="20016" string="Командный оклик" />
+    <String id="20017" string="Защита командира" />
+    <String id="20018" string="Крылья командира" />
+    <String id="20019" string="Благословение командира" />
+    <String id="20020" string="Усилить Зачарователя" />
+    <String id="470301" string="Условия членства в альянсе" />
+    <String id="470302" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;2 или более членов гильдии&lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470303" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;2 или более членов гильдии&lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470304" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Цена (золото):&lt;/font&gt;&lt;FONT color='#ffb033'&gt;1000&lt;/font&gt;&lt;img src='Gold_smalltoken'&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470305" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Цена (золото):&lt;/font&gt;&lt;FONT color='#ffb033'&gt;1000&lt;/font&gt;&lt;img src='Gold_smalltoken'&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470306" string="&lt;img src='icon_notice'&gt;&lt;FONT SIZE='18'&gt; Чтобы вступить в альянс, вы должны соответствовать всем требованиям. &lt;/font&gt;" />
+    <String id="470307" string="Вступить в Сообщество Торговцев" />
+    <String id="470308" string="Вступить в Союз Просвещенных " />
+    <String id="470309" string="Вступить в Железный орден" />
+    <String id="470311" string="Покинуть альянс" />
+    <String id="470312" string="Вы покинете альянс и перестанете быть его членом.&lt;br&gt;Все члены вашей гильдии перестанут быть членами альянса и утратят прежние преимущества. Они смогут снова вступить в альянс через {Hour} ч. {Min} мин." />
+    <String id="470313" string="Выйти" />
+    <String id="470314" string="Отмена" />
+    <String id="470315" string="Требования к кандидатам на пост экзарха" />
+    <String id="470316" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;30 или более членов гильдии&lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470317" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;30 или более членов гильдии&lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470318" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Цена (золото):&lt;/font&gt;&lt;FONT color='#ffb033'&gt;1000&lt;/font&gt;&lt;img src='Gold_smalltoken'&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470319" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Цена (золото):&lt;/font&gt;&lt;FONT color='#ffb033'&gt;1000&lt;/font&gt;&lt;img src='Gold_smalltoken'&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470320" string="&lt;img src='icon_notice'&gt;&lt;FONT SIZE='18'&gt; Чтобы выдвинуть свою кандидатуру на пост экзарха, вы должны соответствовать всем требованиям. &lt;/font&gt;" />
+    <String id="470321" string="Записать свою кандидатуру в экзархи" />
+    <String id="470322" string="Открытие магазинов редкостей" />
+    <String id="470323" string="Вы можете разместить магазины редкостей во всех деревнях, находящихся под властью альянса.&#xA;Очки политики aльянса будут вычитаться у вас каждый час. В случае их нехватки размещение магазина будет автоматически отменено." />
+    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Разместить магазин редкостей&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Разместить магазин редкостей&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470326" string="Разместить магазин редкостей" />
+    <String id="470327" string="Убрать магазин редкостей" />
+    <String id="470328" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Убрать магазин редкостей&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470329" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Убрать магазин редкостей&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470330" string="Усилить Зачарователя" />
+    <String id="470331" string="Увеличение эффективности зачарователя из зала альянса на 1 час." />
+    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Серебряный зачарователь&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Серебряный зачарователь&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470334" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Золотой зачарователь&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470335" string="&lt;img src='number2' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Золотой зачарователь&#xA;     Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470336" string="Серебряный зачарователь" />
+    <String id="470337" string="Золотой зачарователь" />
+    <String id="470338" string="Бронзовый зачарователь" />
+    <String id="470339" string="&lt;img src='number3' vspace='-5'&gt;&lt;FONT SIZE='18' color='#80e71c'&gt;Бронзовый зачарователь&#xA;      Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_ok' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470340" string="&lt;img src='number3' vspace='-5'&gt;&lt;FONT SIZE='18' color='#c00005'&gt;Бронзовый зачарователь&#xA;     Необходимо очков политики альянса: {PolicyPoint} &lt;/font&gt;&lt;img src='icon_conditionCheck_no' vspace='-5'&gt;&lt;br&gt;" />
+    <String id="470341" string="Использовать силу экзарха" />
+    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName} &#xA; &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc} &#xA;&#xA; &lt;FONT SIZE='18' color='#80e71c'&gt;Необходимо очков:{Point} &#xA;&#xA; &lt;FONT SIZE='24' color='#ff0000'&gt;Используется {SkillName}.&#xA;&#xA;&lt;FONT SIZE='18' color='#80e71c'&gt;Доступно очков политики альянса:{Current} &#xA;Остаток очков политики альянса после использования:{Next}&#xA;" />
+    <String id="470343" string="ОК" />
+    <String id="470344" string="Отмена" />
+    <String id="470380" string="Вы сможете снова собрать налог через {CoolTime} ч." />
+    <String id="470400" string="Личные очки политики" />
+    <String id="470401" string="Очки политики aльянса" />
+    <String id="470402" string="Потребление личных очков политики" />
+    <String id="470403" string="Дополнительная награда (альянс)" />
+    <String id="470501" string="Сохраните преимущество в течение 30 секунд, и ваша оборона будет успешной." />
+    <String id="470502" string="Вы должны защитить свой альянс." />
+    <String id="470503" string="Будьте осторожны - на вас могут напасть в любой момент." />
+    <String id="470504" string="Казначей Сообщества Торговцев" />
+    <String id="470505" string="Казначей Союза Просвещения" />
+    <String id="470506" string="Казначей Железного Ордена" />
+    <String id="470507" string="Тестовая строка 07" />
+    <String id="470508" string="Тестовая строка 08" />
+    <String id="470509" string="Тестовая строка 09" />
+    <String id="470510" string="Тестовая строка 10" />
+    <String id="470511" string="Тестовая строка 11" />
+    <String id="470512" string="Тестовая строка 12" />
+    <String id="470513" string="Тестовая строка 13" />
+    <String id="470514" string="Тестовая строка 14" />
+    <String id="470515" string="Тестовая строка 15" />
+    <String id="470516" string="Тестовая строка 16" />
+    <String id="470517" string="Тестовая строка 17" />
+    <String id="470518" string="Тестовая строка 18" />
+    <String id="470519" string="Тестовая строка 19" />
+    <String id="470520" string="Тестовая строка 20" />
+    <String id="470521" string="Вы присоединились к альянсу." />
+    <String id="470522" string="Вы покинули альянс." />
+    <String id="470523" string="Начался новый сезон альянсов." />
+    <String id="470524" string="У альянса теперь новый экзарх." />
+    <String id="470525" string="Теперь вы - командир!" />
+    <String id="470526" string="Добро пожаловать в ряды командиров!" />
+    <String id="470527" string="Вам будет выделено определенное время для посещения сокровищницы альянса." />
+    <String id="470528" string="Вы можете посетить сокровищницу альянса." />
+    <String id="470529" string="У вас больше нет доступа в сокровищницу альянса." />
+    <String id="470530" string="Вы можете зарегистрироваться кандидатом в экзархи от альянса." />
+    <String id="470531" string="Состязание за экстракторы ноктиния началось." />
+    <String id="470532" string="Состязание за экстракторы ноктиния завершилось." />
+    <String id="470533" string="На землях альянса недостаточно экстракторов ноктиния." />
+    <String id="470534" string="На земли вашего альянса напали." />
+    <String id="470535" string="Ваш пост альянса в опасности." />
+    <String id="470536" string="Казначея атакуют!" />
+    <String id="470537" string="Казначей погиб. Возможности экзарха недоступны." />
+    <String id="470538" string="Казначей погиб." />
+    <String id="470539" string="Страж альянса погиб." />
+    <String id="470540" string="Вы ощущаете действие Мужества экзарха." />
+    <String id="470541" string="Вы ощущаете действие Повышения опыта экзарха." />
+    <String id="470542" string="Вы ощущаете действие Усиления PvP экзарха." />
+    <String id="470543" string="Получены личные очки политики." />
+    <String id="470544" string="Получено жалование альянса." />
+    <String id="470545" string="Вы собрали все налоги альянса." />
+    <String id="470546" string="Экзарх альянса погиб." />
+    <String id="470547" string="Вы победили экзарха альянса." />
+    <String id="470548" string="Вы стали экзархом альянса." />
+    <String id="470549" string="Место, откуда был украден экстрактор ноктиния." />
+    <String id="470550" string="Ваш экстрактор ноктиния отключен." />
+    <String id="470551" string="Получено жалование альянса." />
+    <String id="470552" string="Альянс" />
+    <String id="470553" string="Собранные средства (налоги)" />
+    <String id="470554" string="Сезон завершен. Выплатите оставшийся налог." />
+    <String id="470555" string="Вы получили ключ от экстрактора." />
+    <String id="470601" string="У поста разгорелась битва." />
+    <String id="470602" string="Вражеский альянс начал атаку." />
+    <String id="470603" string="Разгорелась битва между несколькими разными альянсами." />
+    <String id="470604" string="В атаке примет участие еще один альянс." />
+    <String id="470605" string="В атаке примет участие еще один альянс." />
+    <String id="470606" string="Примите участие в битве между несколькими альянсами, развернувшейся у поста." />
+    <String id="470607" string="Успешно атакуйте вражеский альянс, чтобы получить часть его налогов." />
+    <String id="470608" string="Вы выполнили задание по защите." />
+    <String id="470609" string="Опасность вторжения: на один час уменьшает защитный эффект казначея вашего альянса." />
+    <String id="470610" string="Опасность вторжения: на один час уменьшает защитный эффект казначея вашего альянса." />
+    <String id="470611" string="Вы успешно отбили атаку вторгшегося к вам вражеского альянса." />
+    <String id="470701" string="Через 5 минут на всех земля альянса будут разрешены PvP-бои." />
+    <String id="470702" string="Все члены вражеского альянса на этих землях будут принудительно отправлены на поле боя через 1 минуту." />
+    <String id="470703" string="Битва на землях альянса вот-вот начнется." />
+    <String id="470704" string="В течение 2 последующих часов на всех землях альянса будут разрешены PvP-бои." />
+    <String id="470705" string="Через 5 минут на всех землях альянса будут запрещены PvP-бои." />
+    <String id="470706" string="Через 1 минуту все члены вражеского альянса на этих землях будут принудительно отправлены на поле боя." />
+    <String id="470707" string="В настоящий момент PvP-бои на землях альянса запрещены." />
+    <String id="470708" string="В течение 2 последующих часов на всех землях альянса будут запрещены PvP-бои." />
+    <String id="470712" string="5" />
+    <String id="470713" string="4" />
+    <String id="470714" string="3" />
+    <String id="470715" string="2" />
+    <String id="470716" string="1" />
+    <String id="470717" string="Все члены вражеского альянса будут принудительно отправлены на поле боя." />
+    <String id="470718" string="В связи с чрезмерным количеством PvP-боев количество зарабатываемых очков с этого момента уменьшается." />
+    <String id="470719" string="В связи с чрезмерным количеством PvP-боев количество зарабатываемых очков с этого момента значительно уменьшается." />
+    <String id="470720" string="В связи с чрезмерным количеством PvP-боев количество зарабатываемых очков с этого момента крайне сильно уменьшается." />
+    <String id="470800" string="Наш альянс атакует казначея Сообщества Торговцев." />
+    <String id="470801" string="Наш альянс атакует казначея Союза Просвещенных." />
+    <String id="470802" string="Наш альянс атакует казначея Железного Ордена." />
+    <String id="470901" string="Салвалит Торговцев уничтожен." />
+    <String id="470902" string="Салвалит Союза Просвещенных уничтожен." />
+    <String id="470903" string="Салвалит Железного Ордена уничтожен." />
+    <String id="470904" string="Салвалит почти уничтожен. Щит, защищавший Форт Тулуфан, пал." />
+    <String id="470905" string="Салвалит почти уничтожен. Щит, защищавший Форт Эленея, пал." />
+    <String id="470906" string="Салвалит почти уничтожен. Щит, защищавший Форт Дрэгонфолл, пал." />
+    <String id="470907" string="Горе Сообществу Торговцев! Казначей Адьяр мертв!" />
+    <String id="470908" string="Горе Союзу Просвещенных! Казначей Дерена мертва!" />
+    <String id="470909" string="Горе Железному Ордену! Казначей Фратеко мертв!" />
+    <String id="470910" string="Война альянсов начнется через 5 минут." />
+    <String id="470911" string="Война альянсов начнется через 1 минуту." />
+    <String id="470912" string="Война альянсов начнется через 10 секунд." />
+    <String id="470913" string="Война альянсов началась." />
+    <String id="470914" string="Война альянсов закончится через 5 минут." />
+    <String id="470915" string="Война альянсов закончится через 1 минуту." />
+    <String id="470916" string="Война альянсов закончится через 10 секунд." />
+    <String id="470917" string="Война альянсов закончилась." />
+    <String id="470918" string="Аура казначея вокруг вражеского форта исчезла." />
+    <String id="470919" string="Вы совершили несколько убийств подряд или оказали помощь в их совершении ({killCount})." />
+    <String id="470920" string="{killerName} безумствует на поле боя!" />
+    <String id="470921" string="{killerName} доминирует на поле боя!" />
+    <String id="470937" string="{killerName} действует как машина, которую нельзя остановить!" />
+    <String id="470938" string="{killerName} - мастер войны альянсов!" />
+    <String id="470939" string="{killerName} не имеет себе равных!" />
+    <String id="480001" string="Штурм салвалита: положение" />
+    <String id="470922" string="Салвалит Торговцев атакуют!" />
+    <String id="470923" string="Салвалит Союза Просвещенных атакуют!" />
+    <String id="470924" string="Салвалит Железного Ордена атакуют!" />
+    <String id="470925" string="Война альянсов начнется через 5 минут." />
+    <String id="470926" string="Война альянсов начнется через 1 минуту." />
+    <String id="470927" string="Война альянсов начнется через 10 секунд." />
+    <String id="470928" string="Война альянсов началась." />
+    <String id="470929" string="Война альянсов закончится через 5 минут." />
+    <String id="470930" string="Война альянсов закончится через 1 минуту." />
+    <String id="470931" string="Война альянсов закончится через 10 секунд." />
+    <String id="470932" string="Война альянсов закончилась." />
+    <String id="470933" string="Война альянсов начнется через 10 минут." />
+    <String id="470934" string="Война альянсов начнется через 30 минут." />
+    <String id="470935" string="Война альянсов начнется через 60 минут." />
+    <String id="470936" string="Война альянсов закончится через 10 минут." />
+    <String id="470405" string="Очки" />
+</StrSheet_Union>

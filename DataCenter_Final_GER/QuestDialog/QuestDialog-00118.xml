@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Es wäre sehr unklug, Euch in den Kampf zu schicken, ohne zu wissen, wozu Ihr fähig seid.&lt;BR&gt;&lt;BR&gt;Also lasst mal sehen - zeigt mir, was Ihr so könnt!&lt;BR&gt;&lt;BR&gt;Die {@LinkCreature:4#2011#Unersättliche Reißzahnbrut} sollte eine gute Probe für Eure Fertigkeiten sein. Bringt mir ihre Herzen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Wenn Ihr Leichtigkeit demonstrieren wolltet, dann ist Euch das gelungen, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Die meisten Soldaten, die hierherkommen, empfinden die Reißzahnbrut eher als Herausforderung.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1003">
+        <Page social="0">Wenn Ihr glaubt, Ihr seid zu gut für eine simple Prüfung, dann solltet Ihr bedenken, dass dabei auch Eure Arroganz auf dem Prüfstand steht!</Page>
+    </Text>
+</QuestDialog>

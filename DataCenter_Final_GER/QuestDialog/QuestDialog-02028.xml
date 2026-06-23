@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Forscher der Queldarstation konnten wegen in der Nähe befindlichen Demokronen nicht zu ihrem Posten gelangen.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; rettete die Forscher und begleitete sie auf ihrem restlichen Weg.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Hallo? Ist da jemand?&lt;BR&gt;&lt;BR&gt;"Wir brauchen hier Hilfe!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3006">
+        <Page social="4">Oh, Oriyn sei Dank, jemand ist gekommen!&lt;BR&gt;&lt;BR&gt;Ich bin ein Archäologe der Queldarstation. Wir waren auf dem Rückweg zu unserer Grabungsstätte, als Demokronen auf uns losgingen. Unsere Wachen wurden überwältigt - aber zumindest haben sie diese Kreaturen von uns weggeführt.&lt;BR&gt;&lt;BR&gt;Unglücklicherweise sitzen wir jetzt hier fest, so ganz ohne Geleitschutz.&lt;NEXTPAGEBUTTON&gt;"Ich kann Euch helfen, wenn Ihr startklar seid."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="5">
+        <Page social="0">Tausend Dank, &lt;PCNAME&gt;, und es tut mir wirklich Leid, Euch solche Unannehmlichkeiten zu bereiten.&lt;BR&gt;&lt;BR&gt;Wir sollten wirklich ein bisschen weniger Zeit dafür verwenden, über Kämpfer zu lesen, und ein bisschen mehr Zeit dafür, zu lernen, wie wir uns selbst verteidigen können.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1005">
+        <Page social="4">Danke, dass Ihr unseren Forschern geholfen habt, zu uns zurückzukehren.&lt;BR&gt;&lt;BR&gt;Für gewöhnlich sind die Hochwachen mehr als fähig, für unsere Sicherheit zu sorgen ... aber da jeder daran arbeitet, den Hohen Ältesten Verikam ausfindig zu machen und die Verteidigung der Stadt zu verstärken, wurden sie wahrscheinlich überwältigt.&lt;BR&gt;&lt;BR&gt;Unsere Dankbarkeit ist Euch gewiss.&lt;NEXTPAGEBUTTON&gt;"Freut mich, dass ich helfen konnte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

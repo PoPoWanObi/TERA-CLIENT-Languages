@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1002">
+        <Page social="5">Outre les clowns cruels de Killian, il faut faire taire ses chefs de groupes et musiciens. Tuez cette fanfare grotesque et confisquez leurs instruments de torture.&lt;BR&gt;&lt;BR&gt;Le succès de la Fédération dépend de la mort de cette divinité malveillante. Me suis-je bien fait comprendre, &lt;PCNAME&gt;?&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1002">
+        <Page social="5">Notre &lt;PCCLASS:lcase&gt; a réussi!&amp;nbsp;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1002">
+        <Page social="0">Tuez les chefs de groupe et les musiciens qui se trouvent dans le Labyrinthe de la Terreur. La Fédération a plus que jamais besoin des prouesses de &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

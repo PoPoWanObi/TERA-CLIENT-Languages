@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="4">Детали задания:&lt;BR&gt;&lt;BR&gt;Остров Керозен наводнили смертельно опасные {@LinkCreature:10#1#Арахнены-воины}, {@LinkCreature:10#2#Лесные камара}, {@LinkCreature:10#3#Камара Вирека} и {@LinkCreature:10#10#Бородавочники Байкуна}, которые угрожают нашим патрулям.&lt;BR&gt;&lt;BR&gt;Приказываю уничтожить этих противников, после чего проследовать на побережье для встречи с Эдин.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">Ну вот, теперь патрули смогут патрулировать, а не пытаться выжить в кровавых стычках, в которых не продержишься и пяти минут. Спасибо, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">Остров Керозин - стратегически важный плацдарм, нельзя оставлять его местной фауне. Так что вернем его себе, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

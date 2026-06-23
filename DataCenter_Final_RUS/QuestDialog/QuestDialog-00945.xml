@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0">Сиранские защитники окружили Лагерь белых волков на Горе Тираннас. И нам никак не пробиться через их ряды!&lt;BR&gt;&lt;BR&gt; {@LinkCreature:32#4#Сиранские злобни}, {@LinkCreature:32#6#Сиранские защитники} и {@LinkCreature:32#5#Туванги-топотуны} - вырежи их как можно больше!&lt;BR&gt;&lt;BR&gt;Камесе заплатит тебе, когда все будет сделано.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1030">
+        <Page social="4">Отличная работа, &lt;PCNAME&gt;. Лучше их, чем нас.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1030">
+        <Page social="0">{@LinkCreature:32#4#Сиранские злобни}, {@LinkCreature:32#6#Сиранские защитники} и {@LinkCreature:32#5#Туванги-топотуны} должны быть уничтожены.</Page>
+    </Text>
+</QuestDialog>

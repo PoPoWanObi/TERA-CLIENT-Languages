@@ -1,0 +1,131 @@
+<StrSheet_ChatChannelName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName StrSheet_ChatChannelName.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName">
+    <Channel id="0" name="Sagen" />
+    <Channel id="1" name="Gruppe" />
+    <Channel id="2" name="Gilde" />
+    <Channel id="3" name="Gebiet" />
+    <Channel id="4" name="Handel" />
+    <Channel id="5" name="Kampfgruppe" />
+    <Channel id="7" name="Flüstern" />
+    <Channel id="9" name="Schlachtgruppe" />
+    <Channel id="11" name="Kanal 1" />
+    <Channel id="12" name="Kanal 2" />
+    <Channel id="13" name="Kanal 3" />
+    <Channel id="14" name="Kanal 4" />
+    <Channel id="15" name="Kanal 5" />
+    <Channel id="16" name="Kanal 6" />
+    <Channel id="17" name="Kanal 7" />
+    <Channel id="18" name="Kanal 8" />
+    <Channel id="19" name="Handel" />
+    <Channel id="20" name="LFG" />
+    <Channel id="21" name="Nachricht" />
+    <Channel id="22" name="Mannschaftsmitteilung" />
+    <Channel id="24" name="System" />
+    <Channel id="25" name="Schlachtgruppenmitteilung" />
+    <Channel id="27" name="Allgemein" />
+    <Channel id="28" name="Allianz" />
+    <Channel id="29" name="Führungsriege" />
+    <Channel id="30" name="Exarch" />
+    <Channel id="212" name="Rollenspiel" />
+    <Channel id="CHATTYPE_NORMAL" name="Sagen" shortcuts="s,allgemein" />
+    <Channel id="CHATTYPE_PARTY" name="Gruppe" shortcuts="p,gruppe" />
+    <Channel id="CHATTYPE_GUILD" name="Gilde" shortcuts="g,gilde" />
+    <Channel id="CHATTYPE_GUARD" name="Gebiet" shortcuts="a,Gebiet" />
+    <Channel id="CHATTYPE_BARGAIN" name="Handel" shortcuts="t,handel" />
+    <Channel id="CHATTYPE_TEAM" name="Kampfgruppe" shortcuts="b,gruppe" />
+    <Channel id="CHATTYPE_WHISPER" name="Flüstern" shortcuts="w,flüstern" />
+    <Channel id="CHATTYPE_RAID" name="Schlachtgruppe" shortcuts="h,schlachtgruppe" />
+    <Channel id="CHATTYPE_RAID_LEADER" name="Schlachtgruppenanführer" shortcuts="" />
+    <Channel id="CHATTYPE_PRIVATE_1" name="Kanal 1" shortcuts="1" />
+    <Channel id="CHATTYPE_PRIVATE_2" name="Kanal 2" shortcuts="2" />
+    <Channel id="CHATTYPE_PRIVATE_3" name="Kanal 3" shortcuts="3" />
+    <Channel id="CHATTYPE_PRIVATE_4" name="Kanal 4" shortcuts="4" />
+    <Channel id="CHATTYPE_PRIVATE_5" name="Kanal 5" shortcuts="5" />
+    <Channel id="CHATTYPE_PRIVATE_6" name="Kanal 6" shortcuts="6" />
+    <Channel id="CHATTYPE_PRIVATE_7" name="Kanal 7" shortcuts="7" />
+    <Channel id="CHATTYPE_PRIVATE_8" name="Kanal 8" shortcuts="8" />
+    <Channel id="CHATTYPE_DEALING" name="Handel" shortcuts="j,handeln" />
+    <Channel id="CHATTYPE_PARTY_SEARCH" name="LFG" shortcuts="u,lfg" />
+    <Channel id="CHATTYPE_PARTY_NOTICE" name="Nachricht" shortcuts="n,mitteilung" />
+    <Channel id="CHATTYPE_COMMAND" name="Mannschaftsmitteilung" shortcuts="d" />
+    <Channel id="CHATTYPE_ADMIN_NOTICE" name="System" shortcuts="" />
+    <Channel id="CHATTYPE_RAID_NOTICE" name="Schlachtgruppenmitteilung" shortcuts="n,mitteilung" />
+    <Channel id="CHATTYPE_GENERAL" name="Allgemein" shortcuts="y" />
+    <Channel id="CHATTYPE_UNION" name="Allianz" shortcuts="f,allianz" />
+    <Channel id="CHATTYPE_UNIONELITE" name="Führungsriege" shortcuts="l,führungsriege" />
+    <Channel id="CHATTYPE_UNION_NOTICE" name="Exarch" shortcuts="x,exarch" />
+    <Channel id="CHATTYPE_UNION_POST" name="Allianzkonflikt" shortcuts="" />
+    <Channel id="CHATTYPE_SOCIAL" name="Emote" shortcuts="" />
+    <Channel id="CHATTYPE_RP" name="Rollenspiel" shortcuts="em" />
+    <Channel id="CHATTYPE_MY_ATTACK" name="Angriffe" />
+    <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" name="Kritische Treffer" />
+    <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="Fallschaden" />
+    <Channel id="CHATTYPE_MY_DAMAGE_SMALL" name="Schaden von Schergen" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" name="Kritischer Schaden von Schergen" />
+    <Channel id="CHATTYPE_MY_DAMAGE" name="Schaden von gewöhnlichen Monstern" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" name="Kritischer Schaden von gewöhnlichen Monstern" />
+    <Channel id="CHATTYPE_MY_DAMAGE_LARGE" name="Schaden von Bossmonstern" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" name="Kritischer Schaden von Bossmonstern" />
+    <Channel id="CHATTYPE_INFO" name="Mitteilungen" />
+    <Channel id="CHATTYPE_WORLD_INFO" name="Weltmitteilungen" />
+    <Channel id="CHATTYPE_ERROR_INFO" name="Nachrichten" />
+    <Channel id="CHATTYPE_PARTY_INFO" name="Gruppenmitteilungen" />
+    <Channel id="CHATTYPE_GUILD_INFO" name="Gildenmitteilungen" />
+    <Channel id="CHATTYPE_TEAM_INFO" name="Kampfgruppenmitteilungen" />
+    <Channel id="CHATTYPE_INTERACTION_INFO" name="Interfacemitteilungen" />
+    <Channel id="CHATTYPE_WARNING" name="Warnungen" />
+    <Channel id="CHATTYPE_GET_ITEM" name="Gegenstände erworben" />
+    <Channel id="CHATTYPE_GET_EXP" name="EP erworben" />
+    <Channel id="CHATTYPE_GET_MONEY" name="Gold erworben" />
+    <ChatCommandList>
+        <CommandCategory name="Chat">
+            <Command name="Anforderungen für den privaten Chatkanal:&#xA;Der Kanalname muss aus 2-8 alphanumerische Zeichen und das Passwort aus 4 Zahlen bestehen." />
+            <Command name="/erstellen [Kanalname] [Passwort] (Erstellt einen privaten Chatkanal.)" />
+            <Command name="/chat [Kanalname] [Passwort] (Tretet einem existierenden privaten Chatkanal bei.)" />
+            <Command name="/verlassen [Kanalname/#]" />
+            <Command name="/kanalname (Kanalnummer) (Gebt Schrägstrich und den Namen oder die Nummer des gewünschten Chatkanals ein.)" />
+            <Command name="/passwort [K#] [Aktuelles Passwort] [Neues Passwort] (Ändert das Passwort.)" />
+            <Command name="/chatkick [K#] [Charakter] (Entfernt einen Spieler aus dem Kanal.)" />
+        </CommandCategory>
+        <CommandCategory name="Gruppe">
+            <Command name="Gruppenbefehle:" />
+            <Command name="/einladen [Charakter] (Ladet einen Charakter in Eure Gruppe ein.)" />
+            <Command name="/gruppeverlassen (Verlasst die Gruppe.)" />
+            <Command name="/anführer [Gruppenmitglied] (Ernennt jemanden zum Gruppenanführer.)" />
+            <Command name="/hinauswerfen [Gruppenmitglied]  (Entfernt einen Charakter aus Eurer Gruppe.)" />
+            <Command name="/beitreten [Gruppenmitglied]  (Verschickt eine Anfrage, einer Gruppe beizutreten.)" />
+            <Command name="Schlachtgruppenbefehle:" />
+            <Command name="/alleeinladen [Gruppenmitglied]  (Ladet eine Gruppe in Eure Schlachtgruppe ein.)" />
+            <Command name="/assistieren (Schlachtgruppenmitglied] (Gebt einem Schlachtgruppenmitglied die Rechte zum Einladen.)" />
+            <Command name="/h oder /schlachtgruppe (Chattet im Schlachtgruppenkanal.)" />
+        </CommandCategory>
+        <CommandCategory name="LFG">
+            <Command name="Taste [Y] (Um andere Gruppensuchende zu finden.)" />
+            <Command name="/ziel [Gruppenziel] (Ändert das Ziel Eurer Gruppe.)" />
+            <Command name="/u [Nachricht] (Chattet im Gruppensuchekanal.)" />
+        </CommandCategory>
+        <CommandCategory name="Emote">
+            <Command name="/hi" />
+            <Command name="/verbeugen" />
+            <Command name="/froh" />
+            <Command name="/traurig" />
+            <Command name="/sieg" />
+            <Command name="/tanzen" />
+            <Command name="/provozieren" />
+            <Command name="/klatschen" />
+            <Command name="/betteln" />
+            <Command name="/denken" />
+            <Command name="/liebe" />
+            <Command name="/stürmen" />
+            <Command name="/zeigen" />
+            <Command name="/schüchtern" />
+            <Command name="/wütend" />
+        </CommandCategory>
+        <CommandCategory name="Deathmatch">
+            <Command name="/dmeinladen [Charakter]" />
+            <Command name="/dmbeitreten [Leiter]" />
+            <Command name="/dmkick [Charakter]" />
+            <Command name="/dmverlassen" />
+            <Command name="/ergeben" />
+        </CommandCategory>
+    </ChatCommandList>
+</StrSheet_ChatChannelName>

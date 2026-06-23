@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="4">Entschuldigt, &lt;PCNAME&gt;, aber dürfte ich Euch um einen Gefallen bitten?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1027">
+        <Page social="4">Prinzessin Arin befahl mir, ein spezielles Paar Schuhe zu kaufen, aber niemand hatte das gewünschte. Stattdessen habe ich es mir nun von Sujai ausgeliehen, aber nun möchte sie das Paar zurückhaben.&lt;NEXTPAGEBUTTON&gt;"Wie kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Dort draußen ist eine Ranke, die zur Terrasse hochführt. Klettert sie hoch und gebt {@Creature:223#1042$$Sujai} die Schuhe, bevor Arin bemerkt, dass sie fort sind.&lt;BR&gt;&lt;BR&gt;Bitte, bitte?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1042">
+        <Page social="4">Sieh an, sieh an! Wenn das nicht seltsam ist. Warum bringt Ihr mir meine Schuhe zurück?&lt;BR&gt;&lt;BR&gt;Oh, ich nehme an, das spielt keine Rolle. Hoffentlich hatte Merolyn wenigstens ihren Spaß damit.</Page>
+    </Text>
+</QuestDialog>

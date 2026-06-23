@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0">Nous ne pouvons pas laisser les mekonaris ou les argons se servir du temple de l'Autel du Corbeau pour leurs rituels maléfiques.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:56#7#templiers} et {@LinkCreature:56#8#dédieurs} mekonaris, ainsi que les {@LinkCreature:56#23#vengeurs kalashs}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Kalyn, au Camp Umbra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1011">
+        <Page social="4">Le fait que les argons veuillent s'emparer de cet endroit est une raison suffisante pour le faire évacuer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1011">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

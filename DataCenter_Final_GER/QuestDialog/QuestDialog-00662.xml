@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">Ich habe vor zwei Tagen einen Späher losgeschickt, um ein Auge auf die Gipfelpirscherdarmschlitzer zu haben. Seitdem habe ich nichts mehr gehört. Da mir die Späher ausgehen, schicke ich Euch.&lt;BR&gt;&lt;BR&gt;Geht durch das Westtor und sucht nach {@LinkCreature:221#1047#Hebbin}. Wenn sie am Leben ist, nehmt ihren Bericht an Euch. Ansonsten führt die Erkundung selbst durch und kehrt dann zurück.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">Der Hauptmann hat sich Sorgen gemacht? Hm. Ich konnte mich nicht wegschleichen, das war alles.&lt;BR&gt;&lt;BR&gt;Seltsamerweise scheinen die Darmschlitzer nichts vorzuhaben. Sie sind merkwürdig ruhig.</Page>
+    </Text>
+</QuestDialog>

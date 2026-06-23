@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">Чертовы аргоны! Их слишком много. Я не могу через них пробиться в одиночку.&lt;NEXTPAGEBUTTON&gt;"С какой целью?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Вчера под моим командованием погибло три солдата, и я хочу передать их жетоны семьям.&lt;BR&gt;&lt;BR&gt;Джаред, Женевьева и Миша заслуживали большего, их имена не должны быть забыты.&lt;BR&gt;&lt;BR&gt;Но все, что я могу сейчас - это удерживать позицию. У меня не получается добраться до их тел. Как думаешь, сможешь достать жетоны?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1018">
+        <Page social="6">(Вы нашли жетон Женевьевы.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1020">
+        <Page social="6">(Жетон Миши отсечен наполовину, но читаем.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1019">
+        <Page social="6">(Вы нашли жетон Джареда, но ваш взгляд зацепился за кое-что еще.)&lt;NEXTPAGEBUTTON&gt;"Что это?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Это одна из потерянных Далмури глав.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="48" prevId="3" villagerId="1012">
+        <Page social="4">Я постарался задержать аргонов. Надеюсь, тебя не сильно потрепали?&lt;BR&gt;&lt;BR&gt;Спасибо за помощь. Это многое для меня значит.</Page>
+    </Text>
+</QuestDialog>

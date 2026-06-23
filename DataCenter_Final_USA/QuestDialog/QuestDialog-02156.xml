@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="479" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">We are receiving information that the remaining argons are conspiring against us.&lt;BR&gt;&lt;BR&gt;They are called the Saravash. Kill the Saravash and destroy their hideout. Find Tryphena at the Relic Hunter Outpost. She will lead you to the teleportal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="5">Thanks for coming. Arkaius instructed me to set up a teleportal here. &lt;BR&gt;&lt;BR&gt;Take this argon key. Use it to operate the teleportal and kill Saravash.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1501">
+        <Page social="0">(This is the teleportal linked to Ascent of Saravash.)</Page>
+    </Text>
+</QuestDialog>

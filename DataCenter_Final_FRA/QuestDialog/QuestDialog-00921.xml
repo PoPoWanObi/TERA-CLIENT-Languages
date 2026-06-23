@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="0">Pour déverrouiller le Temple de Balder, {@Creature:71#1114$$Rida} et vous avez passé plusieurs épreuves préparées par {@Creature:230#1007$$Lashinuk}, un très vieux baraka. Puis {@Creature:71#1114$$Rida} et vous avez brisé un des sceaux de Seren autour du temple, avec l'aide d'{@Creature:230#1015$$Elsine}.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="1">Il est temps pour vous de rencontrer un membre des Consos, le clan des barakas qui garde le {@Rgn:30001#Refuge de Balder}.&lt;BR&gt;&lt;BR&gt;Nous pensons qu'ils sont ici depuis la chute de l'empire des géants, ou même plus longtemps. Quelques-uns, comme leur chef Nandu, vivaient ici quand Lok et Thulsa ont tué Balder.&lt;BR&gt;&lt;BR&gt;L'aide des Consos est indispensable, et vous aurez besoin de leur permission.&lt;NEXTPAGEBUTTON&gt;"Comment l'obtenir?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Il semblerait que les dieux aient indiqué plusieurs épreuves rituelles à faire passer à ceux qui souhaitent entrer dans le temple.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1007$$Lashinuk} vous rejoindra au Camp de l'Ensoleillement et il supervisera votre première épreuve.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Vous êtes &lt;PCNAME&gt;?&amp;nbsp; C'est un honneur de vous rencontrer!&amp;nbsp; Elsine m'a donné des parchemins relatant vos exploits.&lt;BR&gt;&lt;BR&gt;C'est si excitant!&amp;nbsp; Mes amis seront jaloux de savoir que j'ai été le premier à vous parler.&lt;BR&gt;&lt;BR&gt;Je sors peu. Je n'ai jamais rencontré {@gender:un héros/une héroïne} de guerre avant vous.&lt;NEXTPAGEBUTTON&gt;"Vous devez me faire passer un test?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ah!&amp;nbsp; Oui, bien sûr.&lt;BR&gt;&lt;BR&gt;Ahem... "Vous qui cherchez le Soleil, vous devez d'abord prouver votre force contre le champion de laiton."&lt;BR&gt;&lt;BR&gt;Il y a un {@LinkCreature:30#2004#gardien de laiton} près d'ici. L'engin est très dangereux, mais je suis certain que vous pouvez le vaincre facilement!&amp;nbsp; Rapportez un de ses engrenages et je pourrai vous révéler l'épreuve suivante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">Houra!&amp;nbsp; C'est une chose de répéter le texte du rituel, mais c'en est une autre d'y assister!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Un jour, je vous montrerai le livre dans lequel j'ai appris le rituel, le dieu Balder l'a rédigé sur des feuilles de laiton avant sa mort.&lt;BR&gt;&lt;BR&gt;Bien, voici l'épreuve suivante.&lt;BR&gt;&lt;BR&gt;"La terre ayant prouvé sa force, l'air doit montrer sa sagesse."&lt;NEXTPAGEBUTTON&gt;"L'air?&amp;nbsp; Vous voulez dire Rida?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Oui, la princesse!&amp;nbsp; Cette épreuve est la sienne.&lt;BR&gt;&lt;BR&gt;Seren a aidé Balder à cacher et à protéger le temple de ceux qui voudraient détourner sa puissance. Seren a appelé Rida ici, sachant qu'une Elin n'ouvrirait jamais le temple à la mauvaise personne.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1081$$Rida} doit trouver et déchiffrer la partie suivante de l'énigme. Vous avez la permission de l'aider... et elle pourrait bien en avoir besoin.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Détruisez le {@LinkCreature:30#2004#gardien de laiton} et trouvez un de ses rouages. Je vous attendrai.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1081">
+        <Page social="1">Ainsi c'est mon tour?&amp;nbsp; Bien, je sais où aller, j'ai vu cet endroit dans mes visions.&lt;BR&gt;&lt;BR&gt;Je tenais l'épée de Seren, et elle m'a attirée ici. Je ne sais comment, je suis entrée dans l'épée...&lt;BR&gt;&lt;BR&gt;Mais je n'ai pas l'épée. Je ne sais pas ce que je suis supposée faire.&lt;NEXTPAGEBUTTON&gt;"La réponse doit être ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Hum. Il s'agit probablement d'un sceau à deux faces. Je vais travailler sur l'intérieur pendant que vous ouvrez l'extérieur. Mais où est le sceau?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Attendez. Il y a quelque chose de différent.&lt;BR&gt;&lt;BR&gt;Ce bassin réfléchissant n'était pas dans ma vision.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="1081">
+        <Page social="1">C'était ça!&amp;nbsp; Nous avons réussi... mais je suis épuisée.&lt;BR&gt;&lt;BR&gt;Et je ne pense pas que c'était le seul sceau. Je vais trouver le suivant.&lt;BR&gt;&lt;BR&gt;Demandez à votre admirateur consos ce qu'il nous faut d'autre.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1007">
+        <Page social="1">Une autre étape du rituel est achevée. Nous avons rêvé de ce jour!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;La princesse Rida est très douée. Etant plus faits d'esprit que de chair, les Elins n'ont pas pour habitude de rêver, même les princesses.&lt;BR&gt;&lt;BR&gt;Oh, mais je pérore. Rida et vous devez maintenant célèbrer une cérémonie. Mais pas ici, dans la salle des archives. &lt;NEXTPAGEBUTTON&gt;"La salle des archives?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">La salle des archives, dépositaire de la sagesse, recèle des tablettes spéciales, chacune contenant de vastes registres de connaissances.&lt;BR&gt;&lt;BR&gt;La tablette dont vous avez besoin est en morceaux, elle est cachée tout près dans le pavillon de Balder.&lt;BR&gt;&lt;BR&gt;Trouvez les morceaux et {@LinkCreature:230#1015$$Elsine} les assemblera pour vous. Bonne chance, {@gender:héros/héroïne} de la terre!&amp;nbsp;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1015">
+        <Page social="1">Contente que cela tombe sur vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Laissez-moi voir les morceaux de cette tablette... Remarquable!&amp;nbsp; Assemblons-les... parfait.&lt;BR&gt;&lt;BR&gt;Maintenant, je vais lire les parchemins de commande du dépôt.&lt;BR&gt;&lt;BR&gt;Oh non, ils étaient pourtant là!&amp;nbsp;&lt;NEXTPAGEBUTTON&gt;"Quoi?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Les parchemins de commande pour le dépôt. Ça ne fonctionnera pas sans eux.&lt;BR&gt;&lt;BR&gt;Je n'arrive pas à y croire!&amp;nbsp; La sacoche a été éventrée par ces maudits paresseux!&amp;nbsp; J'étais venu vous aider, &lt;PCNAME&gt;, mais c'est vous qui allez devoir m'aider.&lt;BR&gt;&lt;BR&gt;Récupérez mes parchemins de commande. Je ne pleurerai aucun des {@LinkCreature:30#130#paresseux fourrageurs} que vous devrez horriblement mutiler au passage.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="1015">
+        <Page social="0">Bien que vous voir me ravisse, nous devrions repousser notre réunion tant que vous n'avez pas les fragments de tablettes, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1015">
+        <Page social="1">Ah, vous avez trouvé les parchemins!&amp;nbsp; Etaient-ils déchirés ou endommagés?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Ces tablettes sont beaucoup trop cryptées pour pouvoir être lues à voix haute. Mais elles sont supposées ouvrir le dépôt...&lt;BR&gt;&lt;BR&gt;Essayons ceci&amp;nbsp;: insérez directement les parchemins et la tablette dans le dépôt, comme s'il s'agissait de clés. Je veux voir cette cérémonie!&amp;nbsp;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="1015">
+        <Page social="0">Ne déchirez pas les parchemins. Ils faut des lustres pour les rédiger.&lt;BR&gt;&lt;BR&gt;Faites ce que vous voulez des paresseux.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="11" villagerId="1015">
+        <Page social="1">Lisons maintenant les parchemins que le dépôt nous a transmis.&lt;BR&gt;&lt;BR&gt;Mmh, la plupart du contenu est historique.&lt;BR&gt;&lt;BR&gt;Les bâtiments datent de l'empire des géants. Balder les a conservés depuis le Jour du Feu, lorsque les dieux ont jeté à bas cet empire. Il semblerait que le dieu Lok ait bâti les assemblages et le dépôt pour Balder.&lt;BR&gt;&lt;BR&gt;Ironique, sachant que c'est un des appareils de Lok qui a ensuite causé la mort de Balder.&lt;NEXTPAGEBUTTON&gt;"Et pour la cérémonie?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Pardonnez ma curiosité... le défaut type des érudits. Je vais regarder ça de plus près.&lt;BR&gt;&lt;BR&gt;Balder et les Consos ont bâti le temple, Seren l'a protégé de ses sceaux, et... là... je crois que nous y sommes&amp;nbsp;: "La Voie de la Purification". Il doit s'agir de la cérémonie.&lt;BR&gt;&lt;BR&gt;Il va falloir veiller sur cette tablette!&amp;nbsp; Les Inquisiteurs en auront sans doute encore besoin.</Page>
+    </Text>
+</QuestDialog>

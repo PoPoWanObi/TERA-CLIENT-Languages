@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1006">
+        <Page social="4">Форсил отчаянно ищет шипастые бриллианты. Все мои силы брошены на поиск жутких осколков, иначе я бы помог ему.&lt;BR&gt;&lt;BR&gt;Может, ты соберешь немного? Отыскать их несложно и Форсил хорошо платит. Бриллианты встречаются к югу от Блеклого камня и к северу от Святилища Азуриса.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1011">
+        <Page social="4">А, еще бриллианты. Видимо, снега окрасились красным, раз кто-то смог достать их из-под носа у джунайдарцев.&lt;BR&gt;&lt;BR&gt;Чародеи и ювелиры дадут за них хорошую цену. Благодарю тебя!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1011">
+        <Page social="0">У тебя нет бриллиантов - у меня нет времени.</Page>
+    </Text>
+</QuestDialog>

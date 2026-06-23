@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3006" huntingZoneId="78" voiceTypeId="86" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="261">Wem habt Ihr denn ans Bein gepinkelt, um hier stationiert zu werden?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="0" voiceTypeId="262">Seid Ihr hier, um zu quatschen oder zu kämpfen?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="263">Ihr macht Euch wahrlich einen Namen, {@gender:mein Freund/meine Liebe}.&lt;BR&gt;&lt;BR&gt;Vergießt weiter Blut.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="263">Immer noch auf den Beinen, was?&lt;BR&gt;&lt;BR&gt;Gut. Das heißt, die Argonen liegen im Graben.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">Ruanal hat um Unterstützung in den Hallen der Finsternis gebeten. Ich denke, er ist einfach nur einsam da drin. Ich wäre es jedenfalls.&lt;BR&gt;&lt;BR&gt;Wie auch immer, meldet Euch bei ihm.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="0">So weit das Auge reicht, überall verrottende Leichen. Und was noch schlimmer ist, sie hören nicht auf, sich zu bewegen. Ihr müsst etwas unternehmen.&lt;BR&gt;&lt;BR&gt;Schon seit einiger Zeit zwingen {@LinkCreature:20#30011002#Grausame Zuchtmeister} und {@LinkCreature:20#30011001#Sklavenaufseher} die {@LinkCreature:20#30039000#Zomporiarbeiter}, thermionische Ablagerungen abzubauen. Ich habe keine Ahnung, was sie mit diesem Erz vorhaben, aber die Erfahrung sagt mir, dass mir die Antwort nicht gerade gefallen wird.&lt;BR&gt;&lt;BR&gt;Vernichtet sie alle - ob Sklaven oder Sklaventreiber. Und sammelt auch alle Nuggets thermionischen Materials ein, das sie abgebaut haben. Vielleicht verraten uns die Nuggets, was sie vorhaben.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1004">
+        <Page social="4">Hat Ruanal dieses Erz geschickt? Das ist neu.&lt;BR&gt;&lt;BR&gt;Ich werde es gleich weiterschicken, damit es untersucht wird.&lt;BR&gt;&lt;BR&gt;Das habt Ihr gut gemacht.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" villagerId="1004">
+        <Page social="0">Ich habe gehört, Ruanal möchte, dass ich mir etwas ansehe?</Page>
+    </Text>
+</QuestDialog>

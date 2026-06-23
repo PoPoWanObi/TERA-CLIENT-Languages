@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0">Les Descendants de Lok disposent d'une tête de pont dans l'enceinte de laquelle ils ont érigé un monument nommé Sanctuaire de Valselok. Nous devons les arrêter, ou tout du moins les ralentir.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:6#3031#ravageurs} et les {@LinkCreature:6#3032#mystiques} de Lok rôdant à proximité du Sanctuaire.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Embarr, qui est posté près du Sanctuaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">Ils vénèrent encore Lok. Quel intérêt y a-t-il à idolâtrer un dieu mort?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Enfin... voyons un peu ce que vous nous rapportez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1022">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

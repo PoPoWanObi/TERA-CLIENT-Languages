@@ -1,0 +1,11 @@
+<IngameManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/IngameManager IngameManager.xsd" xmlns="https://vezel.dev/novadrop/dc/IngameManager">
+    <Command type="toggle" desc="명령어를 한 번 입력하면 운영자 캐릭터가 투명화되고, 한 번 더 입력하면 투명 상태가 해제된다. 로그아웃 하거나 서버와의 접속이 종료되면 투명 상태가 자동으로 해제된다." name="icanseedeadpeople" />
+    <Command type="execute" desc="운영자 캐릭터의 이동속도를 변경한다. 로그아웃 하거나 서버와의 접속이 종료되면 이동 속도는 기본 설정값으로 변경된다." name="iamtheflashman" />
+    <Command type="toggle" desc="명령어를 한 번 입력하면 운영자 캐릭터가 무적 상태가 되고, 한 번 더 입력하면 무적 상태가 해제된다. 로그아웃 하거나 서버와의 접속이 종료되면 무적 상태가 자동으로 해제된다." name="itisagooddaytodie" />
+    <Command type="execute" desc="유저 캐릭터를 부활시킨다. 편의에 따라 부활 주문과 같은 방식으로 동작해도 좋다." name="wakeupmywarrior" />
+    <Command type="execute" desc="운영자 캐릭터를 파라메터에 입력한 좌표로 이동시킨다." name="iwanttomove" />
+    <Command type="execute" desc="운영자 캐릭터를 북마크에 설정된 지점으로 이동시킨다." name="bookmark" />
+    <Command type="execute" desc="특정 유저 캐릭터의 위치를 x,y,z좌표로 알려준다." name="whereis" />
+    <Command type="execute" desc="특정 유저 캐릭터를 현재 GM의 위치로 이동시킨다." name="sticktogether" />
+    <Command type="toggle" desc="특정 유저의 채팅을 금지시킨다. 한 번 입력하면 채팅 출력을 막고, 한 번 더 입력하면 채팅을 출력할 수 있게 한다. 채팅 금지가 설정된 캐릭터가 로그아웃 하거나 서버와의 접속이 끊기면, 채팅 금지 상태가 해제된다." name="shutupplease" />
+</IngameManager>

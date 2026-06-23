@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">О, ты - луч света в моем персональном царстве тьмы! Я просто завалена работой!&lt;BR&gt;&lt;BR&gt;Не желаешь немного подзаработать?&lt;NEXTPAGEBUTTON&gt;"Странный вопрос".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Отлично! {@LinkCreature:63#3002#Таратия} составила огромный список всяких мелких дел. Мелких в ее понимании, разумеется.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Как раз вовремя! Ты не поищешь кое-что для меня?&lt;BR&gt;&lt;BR&gt;Элтиэнн вынесет мне весь мозг, если я не достану ряд предметов из списка.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Вот это действительно, помощь! Ты - чудо! Хотела бы я быть похожей на тебя, когда вырасту. Нет, взаправду!&lt;BR&gt;&lt;BR&gt;Передай {@LinkCreature:63#3003#Элтиэнн} мои слова. Правда, вряд ли она поверит. Она считает меня жалкой неумехой.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Волокна сильвы! Волокна сильвы, вы где? Волокна сильвы! Ау!&lt;BR&gt;&lt;BR&gt;Молчание. Проклятье. Значит, посижу здесь, подожду пока кто-нибудь объявится.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Да! То, что нужно! Ты чудо!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Элтиэнн} приготовила кое-что для тебя. Спорим, ты даже не догадываешься, что именно?!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">У тебя точно нет зеленых шкур?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Твоя награда, как и обещано. И ты ее целиком и полностью заслуживаешь. Знаю, работать с Таратией временами бывает... тяжело.</Page>
+    </Text>
+</QuestDialog>

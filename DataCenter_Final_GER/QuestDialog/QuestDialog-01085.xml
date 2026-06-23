@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">Bitte, helft mir! Mein Sohn ist weggegangen. Ich wette, er versucht sich in der Jagd.&lt;BR&gt;&lt;BR&gt;Shalims Herz ist groß, aber er wäre für einen Bären oder Barsicoren kein Gegner, von den anderen Gefahren hier draußen ganz zu schweigen.&lt;BR&gt;&lt;BR&gt;Helft Ihr mir, ihn zu finden? Er hat ein Faible für Heldenverehrung. Wenn Ihr ihm Eure Stärke beweist, wird er Euch gerne folgen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1014">
+        <Page social="4">Zurück zu meinem Vater? Ha! Jemanden wie Euch würde er mir niemals hinterherschicken. Er ist ein großer Jäger, und Ihr seid ... na ja, keiner.&lt;BR&gt;&lt;BR&gt;Warum pocht denn die Ader an Eurer Stirn so? Aber falls Ihr ein {@LinkCreature:34#910#Frostwachenmugatojunges} töten könnt, würde ich Euch das hoch anrechnen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1014">
+        <Page social="4">Puh! Das nenne ich einen toten Mugato!&lt;BR&gt;&lt;BR&gt;Vielleicht habe ich Euch falsch eingeschätzt, &lt;PCCLASS&gt;! Darf ich mit Euch gehen? Ich könnte kämpfen lernen, wie Ihr.&lt;BR&gt;&lt;BR&gt;Ich esse nur fünfmal am Tag und mein Schnarchen ist eher wohltuend.&lt;NEXTPAGEBUTTON&gt;"Gehe zu deinem Vater zurück."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pah! Ich gehe nicht zurück. Nie lässt er mich etwas tun. "Räume dies auf", "koche das", "verstecke nicht meine Waffen".&lt;BR&gt;&lt;BR&gt;Ich will ihm nur zeigen, dass ich auch ein großer Jäger bin.&lt;BR&gt;&lt;BR&gt;Na gut. Wenn Ihr es sagt, werde ich zurückgehen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" villagerId="1014">
+        <Page social="0">Kommt schon! Es ist nur ein Mugatounges. Ich hielt Euch für einen so mächtigen Jäger!&lt;BR&gt;&lt;BR&gt;Prahlt nicht so! Sonst wird Kaia Eure wichtigen Körperteile abfallen lassen!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="4" villagerId="1012">
+        <Page social="4">Shalim ist unglaublich störrisch. Wenn er Disziplin lernt, kann er ein guter Jäger werden.&lt;BR&gt;&lt;BR&gt;Ehrlich gesagt, ich war genauso, als ich in seinem Alter war. Ich weiß nicht, wie mein Vater es mit mir aushielt.&lt;BR&gt;&lt;BR&gt;Auf jeden Fall danke ich Euch, dass Ihr Shalim gefunden habt.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="418" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Ihr wollt also nur hier durch?&lt;BR&gt;&lt;BR&gt;Ich nehme an, Ihr seid auf einer Mission, sonst hättet Ihr es nicht so eilig.&lt;BR&gt;&lt;BR&gt;Ich sage Euch etwas: Warum tragen wir es nicht in einem Rätselwettbewerb aus? Wenn Ihr gewinnt, lasse ich Euch passieren.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Ha! Ihr seid mir ja ein zäher Kunde! Nun gut.&lt;TEXTBUTTON&gt;"Ich habe keine Zeit für sowas." &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Öffnet endlich die Tür." &lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">Okay, einen Moment. Ich werde die Tür für Euch öffnen.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">Haltet besser die Augen offen.</Page>
+    </Text>
+</VillagerDialog>

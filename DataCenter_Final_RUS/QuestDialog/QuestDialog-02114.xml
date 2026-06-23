@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">Вы помогли туванги и приняли участие в Празднике Пруда.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">Праздник Пруда - это церемония для туванги, которым исполняется семь лет. Ритуалы туванги удивительно сложны для такого примитивного народца!&lt;BR&gt;&lt;BR&gt;Поговори с их шаманом Харосо. Может быть, он позволит тебе понаблюдать за юными туванги или даже присоединиться к ним. &lt;NEXTPAGEBUTTON&gt;Хорошо.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Молодой туванги бояться. Они прятаться. Надо искать! Надо делать храбрый! &lt;NEXTPAGEBUTTON&gt;Чем я могу помочь?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Харосо давай барабан.&lt;BR&gt;Барабан бум-бум! Бей барабан, чтобы делать туванги храбрый.&lt;BR&gt;&lt;BR&gt;Найди туванги! Бей барабан. Делай храбрый!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2006">
+        <Page social="4">Главное.... не... бояться!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="4">Спасибо тебе! Ты помогай хорошо. Мы пируй!&lt;BR&gt;&lt;BR&gt;Много пируй в твой честь! &lt;NEXTPAGEBUTTON&gt;Мне было совсем не сложно.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ты приноси пища! Приноси мясо дракон! Все туванги пировать! Мясо дракон лучше всей!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="5" villagerId="2001">
+        <Page social="4">Мясо дракон!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Мясо дракон!</Page>
+    </Text>
+</QuestDialog>

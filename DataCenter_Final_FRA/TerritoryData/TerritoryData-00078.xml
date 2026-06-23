@@ -1,0 +1,39 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="243" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="24300005" desc="검은동굴 외부캠프(24300005)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="69819.9766,72883.0547,4806.0869" />
+                <Fence pos="69058.7188,72763.1641,4629.9482" />
+                <Fence pos="68854.5000,72048.2109,4534.6357" />
+                <Fence pos="68983.2734,71549.0781,4689.1797" />
+                <Fence pos="69762.4297,71463.4375,4894.8145" />
+                <Fence pos="70267.8906,72307.3828,4863.8965" />
+                <Npc dir="184" npcTemplateId="1005" />
+                <Npc dir="153" npcTemplateId="1006" />
+                <Npc dir="219" npcTemplateId="1007" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="24300001" desc="침략군 기지 캠프(24300001)">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="72171.5156,48404.2617,4558.5239" />
+                <Fence pos="72976.8984,49730.4414,4545.6270" />
+                <Fence pos="72026.5469,50187.2969,4606.6982" />
+                <Fence pos="71537.0547,49325.0547,4653.0537" />
+                <Npc dir="20" npcTemplateId="1001" />
+                <Npc dir="20" npcTemplateId="1002" />
+            </Territory>
+            <Territory>
+                <Fence pos="76132.8203,40567.8906,4593.8018" />
+                <Fence pos="76635.4922,39756.1914,4583.1704" />
+                <Fence pos="77091.3516,39655.6836,4618.3618" />
+                <Fence pos="77549.7344,40055.2109,4675.9277" />
+                <Fence pos="77712.5703,41051.7695,4635.5967" />
+                <Fence pos="76581.9609,41845.7344,4616.5635" />
+                <Npc dir="302" npcTemplateId="1003" />
+                <Npc dir="310" npcTemplateId="1004" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

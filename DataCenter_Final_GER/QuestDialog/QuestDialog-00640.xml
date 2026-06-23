@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">Die Mine wächst und wächst, und daran sind nur diese {@LinkCreature:20#30011000#Sklavenvorarbeiter} und {@LinkCreature:20#30012000#Zombiesklaven} Schuld. Wer weiß, wie tief sie inzwischen gegraben haben?&lt;BR&gt;&lt;BR&gt;Ihr müsst sie ausschalten. Je tiefer die Mine wird, desto unwahrscheinlicher ist es, dass dabei etwas Gutes herauskommt.&lt;BR&gt;&lt;BR&gt;Wenn Ihr schon dabei seid, könnt Ihr auch gleich ihre Werkzeuge einsammeln. Warum sollte man kostenlose Ausrüstung herumliegen lassen? Bringt dann alles zu Ruanal in den Hallen der Finsternis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">Genau so macht man das, &lt;PCNAME&gt;. Die hier werde ich behalten.&lt;BR&gt;&lt;BR&gt;Hier ist eine kleine Belohnung für Eure harte Arbeit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Wir müssen mehr von diesen Zombies erledigen ...</Page>
+    </Text>
+</QuestDialog>

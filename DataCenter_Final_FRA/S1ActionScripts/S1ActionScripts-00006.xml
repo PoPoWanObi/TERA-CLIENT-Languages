@@ -1,0 +1,2607 @@
+<S1ActionScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/S1ActionScripts S1ActionScripts.xsd" xmlns="https://vezel.dev/novadrop/dc/S1ActionScripts">
+    <Script id="1000" playingTime="10000">
+        <Action type="move" pos="119045.8203,-3368.7664,3105.0845" speed="60">
+            <Action time="1000" type="rotate" duration="500" dir="25668" />
+        </Action>
+    </Script>
+    <Script id="10001" playingTime="10000">
+        <Action type="dialog" textId="101">
+            <Action time="4000" type="animation" animName="craft_energy">
+                <Action type="animation" animName="enchant">
+                    <Action type="animation" animName="enchant">
+                        <Action type="animation" animName="enchant">
+                            <Action type="animation" animName="enchant">
+                                <Action type="animation" animName="worry">
+                                    <Action type="dialog" textId="102" />
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10002" playingTime="10000">
+        <Action type="animation" animName="craft_energy">
+            <Action type="animation" animName="craft_energy">
+                <Action time="1000" type="dialog" textId="10001">
+                    <Action time="4000" type="dialog" textId="10002">
+                        <Action time="4000" type="dialog" textId="10003" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10003" playingTime="10000">
+        <Action type="move" pos="70896,-9342,57" speed="100">
+            <Action type="animation" animName="craft_energy">
+                <Action type="animation" animName="craft_energy">
+                    <Action time="1000" type="dialog" textId="10001">
+                        <Action time="4000" type="moveToInitPos" speed="100" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10015" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="animation" animName="Thanks_Q">
+                <Action type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                    <Action type="move" pos="32621,83563,1684" speed="90">
+                        <Action type="move" pos="32396,83894,1673" speed="90" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10017" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="animation" animName="Thanks_Q">
+                <Action type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                    <Action type="move" pos="32621,83563,1684" speed="90">
+                        <Action type="move" pos="32396,83894,1673" speed="90" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10018" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait">
+                <Action type="move" pos="32621,83563,1684" speed="90">
+                    <Action type="move" pos="32396,83894,1673" speed="90" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10020" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="animation" animName="Thanks_Q">
+                <Action type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                    <Action type="move" pos="31732,86778,1488" speed="90">
+                        <Action type="move" pos="31379,86600,1477" speed="90" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10021" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="defaultAnim" moveAnim="UnarmedRun" waitAnim="UnarmedWait">
+                <Action type="move" pos="31732,86778,1488" speed="90">
+                    <Action type="move" pos="31379,86600,1477" speed="90" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10022" playingTime="7000">
+        <Action type="dialog" textId="10001">
+            <Action type="defaultAnim" moveAnim="UnarmedRun" waitAnim="UnarmedWait">
+                <Action type="move" pos="31732,86778,1488" speed="90">
+                    <Action type="move" pos="31379,86600,1477" speed="90" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10024" playingTime="7000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait">
+            <Action type="move" pos="78601,-81506,-4405" speed="200" />
+        </Action>
+    </Script>
+    <Script id="172001" playingTime="12300">
+        <Action time="800" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="2300" type="move" pos="-7217,-15462,285" duration="10000" speed="300" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="172002" playingTime="16000">
+        <Action time="800" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="-44,-9537,1917" duration="10000" speed="250" />
+        <Action time="16000" type="visible" visibility="false" />
+    </Script>
+    <Script id="183001" playingTime="23000">
+        <Action type="rotateToUser" duration="100">
+            <Action time="500" type="dialog" textId="101" />
+            <Action time="2500" type="rotate" duration="500" dir="-24000">
+                <Action time="1000" type="dialog" textId="102" />
+                <Action time="1000" type="ActionScript" templateId="2106" huntingZoneId="183" scriptId="183002" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="183002" playingTime="23000">
+        <Action type="defaultAnim" moveAnim="walk" />
+        <Action time="1000" type="dialog" showChat="false" textId="101" />
+        <Action time="3000" type="move" pos="15953,8367,6999" speed="70">
+            <Action time="0" type="move" pos="16631,8338,7009" speed="70">
+                <Action time="0" type="move" pos="16954,8024,6929" speed="70">
+                    <Action time="1000" effectId="10000004" type="effect">
+                        <Action time="1000" type="visible" visibility="false" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="191001" playingTime="12300">
+        <Action type="animation" animName="RoarEnd" blendInTime="0.3" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="800" type="dialog" textId="101" />
+        <Action time="2300" type="move" pos="35088,18583,8216" duration="10000" speed="150" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="191002" playingTime="3500">
+        <Action time="0" type="ActionScript" templateId="1006" huntingZoneId="191" scriptId="191003" />
+    </Script>
+    <Script id="191003" playingTime="3500">
+        <Action time="0" type="material" postfix="_death" />
+        <Action type="materialParam" duration="3000" from="0" param="JordonCrossFactor" to="1" />
+        <Action time="500" effectId="300004" type="effect" />
+        <Action time="3500" type="visible" visibility="false" />
+    </Script>
+    <Script id="191004" playingTime="5300">
+        <Action type="animation" animName="RoarEnd" blendInTime="0.3" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="800" type="dialog" textId="101" />
+        <Action time="2300" type="move" pos="34397,22602,9045" duration="3000" speed="170" />
+        <Action time="5300" type="visible" visibility="false" />
+    </Script>
+    <Script id="191005" playingTime="3000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="100" type="material" postfix="_death" />
+        <Action type="materialParam" duration="3000" from="0" param="JordonCrossFactor" to="1" />
+        <Action time="600" effectId="300004" type="effect" />
+        <Action time="3600" type="visible" visibility="false" />
+    </Script>
+    <Script id="191006" playingTime="800">
+        <Action time="0" type="ActionScript" templateId="2202" huntingZoneId="191" scriptId="191003" />
+    </Script>
+    <Script id="191007" playingTime="3300">
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="100" type="instantDistanceMove" dir="75" distance="700" dirType="absolute" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="300" type="move" pos="37952,22326,9111" duration="3000" speed="170" />
+        <Action time="500" type="visible" visibility="true" />
+        <Action time="700" type="dialog" textId="101" />
+        <Action time="1000" type="ActionScript" templateId="2202" huntingZoneId="191" scriptId="191009" />
+    </Script>
+    <Script id="191008" playingTime="0">
+        <Action time="0" type="visible" visibility="false" />
+    </Script>
+    <Script id="191009" playingTime="200">
+        <Action time="0" type="dialog" textId="102" />
+        <Action time="1500" type="material" postfix="_death" />
+        <Action type="materialParam" duration="3000" from="0" param="JordonCrossFactor" to="1" />
+        <Action time="2000" effectId="300004" type="effect" />
+        <Action time="5000" type="visible" visibility="false" />
+    </Script>
+    <Script id="191010" playingTime="200">
+        <Action time="0" type="systemMessage" message="@dungeon:9821001" style="SMS_CHAT_INFO_QUEST" />
+    </Script>
+    <Script id="191011" playingTime="200">
+        <Action time="0" type="systemMessage" message="@dungeon:9821002" style="SMS_CHAT_INFO_QUEST" />
+    </Script>
+    <Script id="191012" playingTime="200">
+        <Action time="0" type="systemMessage" message="@dungeon:9821003" style="SMS_CHAT_INFO_QUEST" />
+    </Script>
+    <Script id="191013" playingTime="5000">
+        <Action time="0" type="ActionScript" templateId="2142" huntingZoneId="191" scriptId="191014" />
+    </Script>
+    <Script id="191014">
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="100" type="instantDistanceMove" dir="130" distance="300" dirType="absolute" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="300" type="move" pos="39385.8906,28224.5723,8602.3184" duration="2000" speed="170" />
+        <Action time="500" type="visible" visibility="true" />
+        <Action time="700" type="dialog" textId="101" />
+    </Script>
+    <Script id="191015" playingTime="500">
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="100" type="instantDistanceMove" dir="240" distance="700" dirType="absolute" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="300" type="move" pos="32456.7637,6522.4771,6223.0918" duration="3000" speed="170" />
+        <Action time="500" type="visible" visibility="true" />
+        <Action time="700" type="dialog" textId="101" />
+    </Script>
+    <Script id="191016" playingTime="500">
+        <Action time="0" type="systemMessage" message="@dungeon:9821003" style="SMS_CHAT_INFO_QUEST" />
+        <Action time="2000" type="ActionScript" templateId="4003" huntingZoneId="183" scriptId="191015" />
+    </Script>
+    <Script id="191017" playingTime="500">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="39340,43580,9731" duration="500" speed="140" />
+        <Action time="700" type="ActionScript" templateId="2140" huntingZoneId="191" scriptId="40000" />
+    </Script>
+    <Script id="191018" playingTime="500">
+        <Action time="500" type="ActionScript" templateId="2140" huntingZoneId="191" scriptId="191017" />
+    </Script>
+    <Script id="191019" playingTime="500">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="500" type="move" pos="33367,18079,8331" duration="7000" speed="170" />
+        <Action time="6000" type="visible" visibility="false" />
+        <Action time="6100" effectId="10000004" type="effect" />
+    </Script>
+    <Script id="191020" playingTime="500">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="500" type="move" pos="33398,18053,8330" duration="7000" speed="170" />
+        <Action time="6000" type="visible" visibility="false" />
+        <Action time="6100" effectId="10000004" type="effect" />
+    </Script>
+    <Script id="191021" playingTime="500">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="600" type="move" pos="33283,18148,8338" duration="7000" speed="170" />
+        <Action time="6000" type="visible" visibility="false" />
+        <Action time="6100" effectId="10000004" type="effect" />
+    </Script>
+    <Script id="191022" playingTime="500">
+        <Action time="0" type="ActionScript" templateId="2102" huntingZoneId="191" scriptId="191019" />
+        <Action time="0" type="ActionScript" templateId="2143" huntingZoneId="191" scriptId="191020" />
+        <Action time="0" type="ActionScript" templateId="2144" huntingZoneId="191" scriptId="191021" />
+    </Script>
+    <Script id="191100" playingTime="500">
+        <Action time="0" effectId="4615" type="effect" />
+    </Script>
+    <Script id="191101" playingTime="2000">
+        <Action time="0" effectId="4615" type="effect" />
+        <Action time="2000" effectId="4615" type="removeEffect" />
+    </Script>
+    <Script id="821001" playingTime="500">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="1000" type="dialog" textId="103" />
+    </Script>
+    <Script id="821002" playingTime="500">
+        <Action time="0" type="dialog" textId="102" />
+    </Script>
+    <Script id="821003" playingTime="500">
+        <Action time="0" effectId="513020819" type="effect" />
+        <Action time="100" type="translationZ" power="1" duration="10" from="0" to="100" />
+        <InitState translate="200" />
+    </Script>
+    <Script id="821004" playingTime="500">
+        <Action time="0" type="translationZ" power="2.8" duration="4000" from="-100" to="0" />
+        <Action time="800" effectId="65137" type="effect" />
+        <InitState translate="-100" />
+    </Script>
+    <Script id="821005" playingTime="500">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="826001" enableInput="false" playingTime="5000">
+        <Action time="0" type="CameraFocus" templateId="4001" huntingZoneId="826" on="true" />
+        <Action time="3000" type="CameraFocus" templateId="4001" huntingZoneId="826" on="false" />
+    </Script>
+    <Script id="826002" playingTime="500">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+    </Script>
+    <Script id="826003" playingTime="500">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5001" toTemplateId="2001" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+    </Script>
+    <Script id="826004" playingTime="500">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5002" toTemplateId="2001" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="826" fromTemplateId="5000" toTemplateId="2001" />
+    </Script>
+    <Script id="826005" playingTime="500">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="826006">
+        <Action time="0" type="PostProcess" on="true" postprocessSet="2">
+            <Action time="0" type="PostProcessMaterial" duration="1000" from="0" param="Strength" to="1" postprocessSet="2" />
+            <Action time="1300" type="PostProcessMaterial" duration="1000" from="1" param="Strength" to="0" postprocessSet="2" />
+            <Action time="2300" type="PostProcess" on="false" postprocessSet="2" />
+        </Action>
+    </Script>
+    <Script id="826007" playingTime="500">
+        <Action time="500" type="dialog" textId="101" />
+    </Script>
+    <Script id="826008" playingTime="500">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="826009" playingTime="500">
+        <Action time="2500" type="dialog" textId="101" />
+    </Script>
+    <Script id="4900001">
+        <Action type="dialog" textId="101" />
+    </Script>
+    <Script id="4900002">
+        <Action type="dialog" textId="102" />
+    </Script>
+    <Script id="4900003">
+        <Action type="dialog" textId="103" />
+    </Script>
+    <Script id="4900004">
+        <Action type="dialog" textId="104" />
+    </Script>
+    <Script id="4900005">
+        <Action type="dialog" textId="105" />
+    </Script>
+    <Script id="4900006">
+        <Action type="dialog" textId="106" />
+    </Script>
+    <Script id="4900007">
+        <Action type="dialog" textId="107" />
+    </Script>
+    <Script id="4900008">
+        <Action type="dialog" textId="108" />
+    </Script>
+    <Script id="4900009">
+        <Action type="dialog" textId="109" />
+    </Script>
+    <Script id="4900010">
+        <Action type="dialog" textId="110" />
+    </Script>
+    <Script id="4900011">
+        <Action type="dialog" textId="111" />
+    </Script>
+    <Script id="4904921">
+        <Action type="dialog" textId="101" />
+        <Action time="3000" type="actionScript" templateId="1016" huntingZoneId="76" scriptId="4900001" />
+    </Script>
+    <Script id="8140001" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2004" huntingZoneId="814" scriptId="8140002" />
+        <Action time="0" type="ActionScript" templateId="2005" huntingZoneId="814" scriptId="8140003" />
+        <Action time="0" type="ActionScript" templateId="2006" huntingZoneId="814" scriptId="8140004" />
+        <Action time="0" type="ActionScript" templateId="2001" huntingZoneId="814" scriptId="8140005" />
+    </Script>
+    <Script id="8140002" playingTime="12000">
+        <Action type="instantMove" pos="-7805,-147354,6638" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="walk" />
+        <Action time="0" type="moveToInitPos" speed="70" />
+    </Script>
+    <Script id="8140003" playingTime="1000">
+        <Action type="instantMove" pos="-7863,-147454,6638" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="walk" />
+        <Action time="0" type="move" pos="-7860,-146570,6636" speed="70">
+            <Action time="0" type="moveToInitPos" speed="70" />
+        </Action>
+        <Action time="2000" type="dialog" textId="101" />
+    </Script>
+    <Script id="8140004" playingTime="12000">
+        <Action type="instantMove" pos="-7878,-147417,6638" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="walk" />
+        <Action time="0" type="moveToInitPos" speed="70" />
+        <Action time="5000" type="dialog" textId="101" />
+    </Script>
+    <Script id="8140005" playingTime="1000">
+        <Action type="instantMove" pos="-7868,-147317,6638" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="walk" />
+        <Action time="0" type="move" pos="-7914,-146602,6634" speed="70">
+            <Action time="0" type="moveToInitPos" speed="70" />
+        </Action>
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="8000" type="dialog" textId="102" />
+    </Script>
+    <Script id="10002311" playingTime="20000">
+        <Action type="move" pos="100194,-21785,2308" speed="20">
+            <Action time="2000" effectId="10000002" type="effect" />
+            <Action type="visible" visibility="false" />
+        </Action>
+    </Script>
+    <Script id="10003041" playingTime="20000">
+        <Action type="dialog" textId="10001">
+            <Action time="1000" type="animation" animName="inweapon">
+                <Action time="1000" type="animation" animName="summonPet">
+                    <Action time="1000" type="move" pos="97601,16026,2778" speed="70">
+                        <Action time="1000" type="move" pos="95968.3828,16451.0508,2886.1497" speed="80">
+                            <Action time="2000" effectId="10000002" type="effect" />
+                            <Action time="2000" type="visible" visibility="false" />
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10003231" playingTime="10000">
+        <Action type="dialog" textId="10001">
+            <Action time="300" type="animation" animName="Talk">
+                <Action type="defaultAnim" moveAnim="run" waitAnim="Wait">
+                    <Action type="move" pos="97838,15923,2762" speed="140">
+                        <Action type="move" pos="97308,15868,2806" speed="140">
+                            <Action type="visible" visibility="false" />
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10005351" playingTime="10000">
+        <Action type="move" pos="51689,-3316,53" speed="60">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Marking">
+                    <Action time="3000" type="move" pos="51422,-3316,72" speed="60">
+                        <Action type="dialog" textId="10002">
+                            <Action type="animation" animName="outweapon">
+                                <Action time="3000" type="moveToInitPos" speed="60">
+                                    <Action time="1000" type="dialog" textId="10003" />
+                                    <Action type="animation" animName="Groggy1" />
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10006302" playingTime="10000">
+        <Action time="300" type="animation" animName="Thanks_Q">
+            <Action type="defaultAnim" moveAnim="run" waitAnim="unarmedwait">
+                <Action type="relativeMove" pos="-2000,-600,0" speed="120" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10016021" playingTime="7000">
+        <Action time="2000" type="dialog" textId="10001">
+            <Action type="animation" animName="flinch">
+                <Action type="animation" animName="flinch">
+                    <Action type="animation" animName="stun">
+                        <Action time="2000" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+                            <Action type="move" pos="-9555,71368,3146" speed="120" />
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10020021" playingTime="15000">
+        <Action type="rotateToUser" duration="500">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Thanks_Q" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait">
+                        <Action type="move" pos="-17094,-47076,-624" speed="30">
+                            <Action time="1000" type="rotate" duration="500" dir="-19534">
+                                <Action time="1000" type="rotate" duration="500" dir="20984">
+                                    <Action time="1000" type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                                        <Action type="move" pos="-18740,-47189,-622" speed="90">
+                                            <Action type="visible" visibility="false" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10020022" playingTime="15000">
+        <Action type="rotateToUser" duration="500">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Thanks_Q" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait">
+                        <Action type="move" pos="-17643,-47487,-624" speed="30">
+                            <Action time="1000" type="rotate" duration="500" dir="-32338">
+                                <Action time="1000" type="rotate" duration="500" dir="7154">
+                                    <Action time="1000" type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                                        <Action type="move" pos="-18632,-47077,-622" speed="90">
+                                            <Action type="visible" visibility="false" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="10020023" playingTime="15000">
+        <Action type="rotateToUser" duration="500">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Thanks_Q" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait">
+                        <Action type="move" pos="-20437,-48602,-622" speed="30">
+                            <Action time="1000" type="rotate" duration="500" dir="4922">
+                                <Action time="1000" type="rotate" duration="500" dir="-32356">
+                                    <Action time="1000" type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                                        <Action type="move" pos="-21242,-48217,-620" speed="90">
+                                            <Action type="visible" visibility="false" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10020024" playingTime="15000">
+        <Action type="rotateToUser" duration="500">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Thanks_Q" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait">
+                        <Action type="move" pos="-20376,-48348,-622" speed="40">
+                            <Action time="1000" type="rotate" duration="500" dir="4922">
+                                <Action time="1000" type="rotate" duration="500" dir="-32356">
+                                    <Action time="1000" type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                                        <Action type="move" pos="-21252,-48272,-619" speed="90">
+                                            <Action type="visible" visibility="false" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10020025" playingTime="15000">
+        <Action type="rotateToUser" duration="500">
+            <Action type="dialog" textId="10001">
+                <Action type="animation" animName="Thanks_Q" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait">
+                        <Action type="move" pos="-20477,-46739,-622" speed="30">
+                            <Action time="1000" type="rotate" duration="500" dir="7702">
+                                <Action time="1000" type="rotate" duration="500" dir="17710">
+                                    <Action time="1000" type="defaultAnim" moveAnim="Run" waitAnim="UnarmedWait">
+                                        <Action type="move" pos="-20232,-46440,-622" speed="90">
+                                            <Action time="1000" type="move" pos="-19225,-46784,-623" speed="90">
+                                                <Action type="visible" visibility="false" />
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10021041" playingTime="20000">
+        <Action type="rotateToUser" duration="1000">
+            <Action type="animation" animName="Talk">
+                <Action type="move" pos="-43971,-16925,460" speed="60">
+                    <Action type="dialog" textId="10001">
+                        <Action type="animation" animName="Talk">
+                            <Action type="move" pos="-44014,-17160,460" speed="60">
+                                <Action type="move" pos="-44179,-17160,460" speed="60">
+                                    <Action effectId="10000002" type="effect" />
+                                    <Action type="visible" visibility="false" />
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10039051" playingTime="20000">
+        <Action time="1000" type="dialog" textId="10003" />
+        <Action time="3000" type="dialog" textId="10004" />
+        <Action time="5000" type="relativeMove" pos="1000,1000,0" speed="60" />
+    </Script>
+    <Script id="10487021" playingTime="20000">
+        <Action type="rotateToUser" duration="500">
+            <Action time="1000" type="dialog" textId="10001">
+                <Action type="animation" animName="summonPet" blendInTime="0.2">
+                    <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait">
+                        <Action time="5000" type="dialog" textId="10002" />
+                        <Action time="1000" type="move" pos="70154,5560,-195" speed="150">
+                            <Action effectId="10000002" type="effect" />
+                            <Action type="visible" visibility="false" />
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="10488011" playingTime="7000">
+        <Action time="1000" type="dialog" textId="10001">
+            <Action type="animation" animName="inspiringRoar">
+                <Action type="move" pos="70277,26920,3321" speed="120" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="14711005" playingTime="10000">
+        <Action type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action type="dialog" textId="101" />
+        <Action time="1000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1005" toTemplateId="12" />
+        <Action time="2000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="3000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1005" toTemplateId="12" />
+        <Action time="4000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="5000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1005" toTemplateId="12" />
+        <Action time="6000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="7000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1005" toTemplateId="12" />
+        <Action time="8000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="9000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1005" toTemplateId="12" />
+    </Script>
+    <Script id="18100001" playingTime="18000">
+        <Action time="1000" type="dialog" duration="1500" blendInTime="0.5" textId="102">
+            <Action time="3000" type="animation" animName="craft_energy" blendInTime="0.5">
+                <Action type="animation" animName="craft_energy" blendInTime="0.5">
+                    <Action type="animation" animName="enchant" blendInTime="1">
+                        <Action type="animation" animName="enchant" blendInTime="0.5">
+                            <Action type="dialog" duration="1500" textId="101" />
+                            <Action type="animation" animName="craft_energy" blendInTime="0.5">
+                                <Action type="animation" animName="enchant" blendInTime="0.5">
+                                    <Action type="animation" animName="enchant" blendInTime="0.5" />
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="18100002" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="21371,-21885,1663" duration="10000" speed="100" />
+        <Action type="move" pos="20520,-22733,1573" duration="10000" speed="100" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="18100003" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="22091,-13701,3669" duration="10000" speed="100" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="18100004" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="30111,-5500,4180" duration="10000" speed="100" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="18100005" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="27069,-708,3252" duration="10000" speed="100" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="18100006" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2300" type="move" pos="26241,-3308,3224" duration="10000" speed="100" />
+        <Action time="12300" type="visible" visibility="false" />
+    </Script>
+    <Script id="18100007" playingTime="15000">
+        <Action time="0" type="cameraShake" power="2" duration="15000" speed="1000" />
+    </Script>
+    <Script id="18100008" playingTime="12000">
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="100" type="instantDistanceMove" dir="-90" distance="250" dirType="absolute" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="300" type="move" pos="53983,56889,4655" duration="2000" speed="170" />
+        <Action time="400" type="visible" visibility="true" />
+        <Action time="6000" type="dialog" textId="101">
+            <Action time="10000" type="dialog" textId="102" />
+        </Action>
+    </Script>
+    <Script id="18100009" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2000" type="move" pos="55772,52693,4758" duration="10000" speed="170">
+            <Action type="visible" visibility="false" />
+        </Action>
+        <Action time="13500" type="visible" isFinal="true" visibility="false" />
+    </Script>
+    <Script id="18100010" playingTime="15000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2000" type="move" pos="54079,54497,4674" duration="10000" speed="140" />
+        <Action time="12300" type="visible" visibility="false" />
+        <Action time="13500" type="visible" isFinal="true" visibility="false" />
+    </Script>
+    <Script id="18100011" playingTime="10000">
+        <Action time="3000" type="dialog" duration="1500" blendInTime="0.5" textId="101">
+            <Action time="6000" type="defaultAnim" blendInTime="0.5" waitAnim="bReactionDown2">
+                <Action time="90000" type="visible" visibility="false" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="18100012" playingTime="18000">
+        <Action time="1000" type="mesh" templateId="20120" huntingZoneId="181" />
+        <Action time="1200" effectId="10000004" type="effect" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="2500" type="dialog" showChat="false" textId="101">
+            <Action time="4000" type="move" pos="26687,-15471,2722" speed="170">
+                <Action type="move" pos="26353,-16823,2309" speed="170">
+                    <Action type="move" pos="25284,-17672,2035" speed="170">
+                        <Action type="visible" visibility="false" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="42810101" playingTime="6000">
+        <Action time="0" type="CameraFocus" templateId="1010" huntingZoneId="428" on="true" />
+        <Action time="2000" type="CameraFocus" templateId="1010" huntingZoneId="428" on="false" />
+        <Action time="0" type="cameraShake" power="2" duration="5000" speed="1000" />
+        <Action time="1000" type="move" pos="68905, -114303, 124" speed="50" />
+    </Script>
+    <Script id="42810102" playingTime="9000000">
+        <Action time="0" effectId="10000002" type="effect" />
+        <Action time="500" effectId="10000002" type="effect" />
+        <Action time="1000" effectId="10000002" type="effect" />
+        <Action time="1500" effectId="10000002" type="effect" />
+        <Action time="2000" effectId="10000002" type="effect" />
+        <Action time="2500" effectId="10000002" type="effect" />
+        <Action time="3000" effectId="10000002" type="effect" />
+        <Action time="3500" effectId="10000002" type="effect" />
+        <Action time="4000" effectId="10000002" type="effect" />
+        <Action time="4500" effectId="10000002" type="effect" />
+        <Action time="5000" effectId="10000002" type="effect" />
+        <Action time="5500" effectId="10000002" type="effect" />
+        <Action time="1000" type="translationZ" power="2.8" duration="5000" from="0" to="-500" />
+        <Action time="1000" type="cameraShake" power="2" duration="5000" speed="1000" />
+        <Action time="5000" type="visible" visibility="false" />
+        <Action time="8900000" type="visible" visibility="false" />
+    </Script>
+    <Script id="42810103" playingTime="1000">
+        <Action time="0" type="actionScript" templateId="1013" huntingZoneId="428" scriptId="42820001" />
+        <Action time="1" type="actionScript" templateId="1014" huntingZoneId="428" scriptId="42820002" />
+        <Action time="2" type="actionScript" templateId="1015" huntingZoneId="428" scriptId="42820003" />
+        <Action time="3" type="actionScript" templateId="1016" huntingZoneId="428" scriptId="42820004" />
+        <Action time="1000" type="actionScript" templateId="3000" huntingZoneId="428" scriptId="42820005" />
+    </Script>
+    <Script id="42810131" playingTime="3000">
+        <Action time="0" type="translationZ" power="2.8" duration="3000" from="-200" to="0" />
+        <Action time="1" type="cameraShake" power="2" duration="3000" speed="1000" />
+        <Action time="800" effectId="1198" type="effect" />
+        <InitState translate="-200" />
+    </Script>
+    <Script id="42810171" playingTime="15000">
+        <Action time="0" type="move" pos="69028, -114521, 114" speed="120" />
+        <Action time="600" type="dialog" textId="101" />
+        <Action time="2600" type="dialog" textId="102" />
+        <Action time="2600" type="rotate" duration="500" dir="15898" />
+        <Action time="5100" type="animation" animName="PvpCastingStand" />
+        <Action time="6400" type="animation" animName="PvpCastingStand" />
+        <Action time="7700" type="animation" animName="PvpCastingStand" />
+        <Action time="9000" type="animation" animName="PvpAttackshotStand" />
+        <Action time="11000" type="dialog" textId="103" />
+        <Action time="13000" type="dialog" textId="104" />
+    </Script>
+    <Script id="42810172" playingTime="15000">
+        <Action time="0" type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait" />
+        <Action time="1" type="animation" animName="SitStart" />
+        <Action time="2000" type="dialog" textId="110" />
+        <Action time="4000" type="dialog" textId="111" />
+        <Action time="6000" type="dialog" textId="112" />
+    </Script>
+    <Script id="42820001" playingTime="10000">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="1500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="2000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="2500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="3000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="3500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="4000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="4500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="5000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+        <Action time="5500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1013" toTemplateId="3000" />
+    </Script>
+    <Script id="42820002" playingTime="10000">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="1500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="2000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="2500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="3000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="3500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="4000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="4500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="5000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+        <Action time="5500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1014" toTemplateId="3000" />
+    </Script>
+    <Script id="42820003" playingTime="10000">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="1500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="2000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="2500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="3000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="3500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="4000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="4500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="5000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+        <Action time="5500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1015" toTemplateId="3000" />
+    </Script>
+    <Script id="42820004" playingTime="10000">
+        <Action time="0" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="1500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="2000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="2500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="3000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="3500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="4000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="4500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="5000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+        <Action time="5500" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="1016" toTemplateId="3000" />
+    </Script>
+    <Script id="42820005" playingTime="20000">
+        <Action time="2000" type="scale" scale="2" power="1" duration="1" />
+        <Action time="3000" type="scale" scale="3" power="1" duration="1" />
+        <Action time="4000" type="scale" scale="4" power="1" duration="1" />
+        <Action time="5000" type="scale" scale="5" power="1" duration="1" />
+        <Action time="6000" type="scale" scale="6" power="1" duration="1" />
+        <Action time="6500" type="animation" animName="Roar" rate="0.7" />
+        <Action time="6500" type="cameraShake" power="2" duration="3000" speed="1000" />
+        <Action time="9404" type="animation" animName="Roar" rate="0.7" />
+        <Action time="9404" type="cameraShake" power="2" duration="3000" speed="1000" />
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="3000" type="dialog" textId="102" />
+    </Script>
+    <Script id="42830001" playingTime="20000">
+        <Action time="1000" type="dialog" textId="107" />
+        <Action time="2900" type="animation" animName="PvpCastingStand" />
+        <Action time="4200" type="animation" animName="PvpCastingStand" />
+        <Action time="5500" type="animation" animName="PvpAttackshotStand" />
+        <Action time="7033" type="animation" animName="PvpCastingStand" />
+        <Action time="8333" type="animation" animName="PvpCastingStand" />
+        <Action time="3000" type="dialog" textId="105" />
+        <Action time="5000" type="dialog" textId="106" />
+        <Action time="7000" type="actionScript" templateId="3000" huntingZoneId="428" scriptId="42830002" />
+        <Action time="11000" type="animation" animName="SitStart" />
+        <Action time="11000" type="dialog" textId="109" />
+        <Action time="14066" type="defaultAnim" moveAnim="run" waitAnim="SitLoop" />
+        <Action time="14066" type="dialog" textId="108" />
+    </Script>
+    <Script id="42830002" playingTime="20000">
+        <Action time="0" type="animation" animName="Groggy" />
+        <Action time="1" type="scale" scale="1" power="1" duration="4000" />
+        <Action time="200" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="400" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="600" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="800" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="1000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="1200" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="1400" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="1600" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="1800" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="2000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="2200" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="2400" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="2600" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="2800" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="3000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="3200" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="3400" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="3600" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="3800" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+        <Action time="4000" effectId="90003" type="magnetic" huntingZoneId="428" fromTemplateId="3000" toTemplateId="1017" />
+    </Script>
+    <Script id="44500001">
+        <Action type="dialog" textId="101" />
+    </Script>
+    <Script id="44500002">
+        <Action type="dialog" textId="101" />
+    </Script>
+    <Script id="44500003">
+        <Action type="dialog" textId="102" />
+    </Script>
+    <Script id="48101301">
+        <Action type="actionScript" templateId="1034" huntingZoneId="248" scriptId="248009999" />
+        <Action type="move" pos="41407.9336,10666.1738,1034.3105" speed="200" />
+        <Action time="12000" type="actionScript" templateId="1034" huntingZoneId="248" scriptId="248009998" />
+        <InitState visible="false" />
+    </Script>
+    <Script id="49100601">
+        <Action type="actionScript" templateId="1013" huntingZoneId="249" scriptId="248009999" />
+        <Action type="move" pos="74251.9844,40955.1914,2781.3359" speed="100" />
+        <Action time="6000" type="actionScript" templateId="1013" huntingZoneId="249" scriptId="248009998" />
+        <InitState visible="false" />
+    </Script>
+    <Script id="49610011" playingTime="15000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="2000" type="dialog" textId="102" />
+        <Action time="2000" type="rotate" duration="500" dir="-16242" />
+        <Action time="3000" type="animation" animName="Enchant" />
+        <Action time="4266" type="animation" animName="SummonPet" />
+        <Action time="4266" type="dialog" textId="103" />
+        <Action time="7266" type="dialog" textId="104" />
+        <Action time="6000" type="actionScript" templateId="1002" huntingZoneId="496" scriptId="49610021" />
+    </Script>
+    <Script id="49610021" playingTime="30000">
+        <Action time="0" type="animation" animName="modealarm" />
+        <Action time="0" type="Sound" radius="1" volume="3.5" pitch="1" cueName="Monster_Voice14Arkus_Cue.Arkus_Aggrochange" />
+        <Action time="0" type="cameraShake" power="2" duration="3366" speed="1000" />
+        <Action time="0" type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait" />
+        <Action time="3366" type="move" pos="-3003, -159355, 5650" speed="120" />
+        <Action time="9000" type="animation" animName="flymove01_1" />
+        <Action time="20033" type="animation" animName="flymove01_2" />
+        <Action time="0" type="Sound" radius="1" volume="3.5" pitch="1" cueName="Monster_Voice14Arkus_Cue.Arkus_Aggrochange" />
+        <Action time="25733" type="animation" animName="modealarm" />
+        <Action time="25733" type="cameraShake" power="2" duration="3366" speed="1000" />
+    </Script>
+    <Script id="70102011" playingTime="5000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action type="move" pos="-8782,78621,-1242" duration="3000" speed="80" />
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="4300" type="rotateToUser" duration="100" />
+        <Action time="4300" type="dialog" textId="102" />
+    </Script>
+    <Script id="70104001" playingTime="1000">
+        <Action type="defaultAnim" moveAnim="Walk" waitAnim="Craft_energy" />
+    </Script>
+    <Script id="70104002" playingTime="8000">
+        <Action type="defaultAnim" moveAnim="Walk" waitAnim="unarmedwait" />
+        <Action type="move" pos="-10045,80201,-1331" duration="3000" speed="60" />
+        <Action time="3000" type="animation" animName="Herb" rate="1" />
+    </Script>
+    <Script id="70111021" playingTime="5000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action type="move" pos="-8947,77299,-1192" duration="3000" speed="80" />
+        <Action type="dialog" textId="101" />
+        <Action time="2000" type="actionScript" templateId="7002" huntingZoneId="230" scriptId="40000" />
+    </Script>
+    <Script id="100202561" playingTime="20000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action type="move" pos="119403.8750, -4399.1172, 3154.8384" speed="200">
+            <Action effectId="10000002" type="effect" />
+            <Action type="visible" visibility="false" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="103200161" playingTime="5000">
+        <Action type="animation" animName="stun" blendInTime="0.2" />
+        <Action time="1500" type="dialog" textId="101" />
+        <Action time="1800" type="animation" animName="downend" blendInTime="0.2" />
+        <Action time="3800" effectId="10000004" type="effect" />
+        <Action time="3800" type="visible" visibility="false" />
+        <InitState visible="true" />
+    </Script>
+    <Script id="106010401" playingTime="10000">
+        <Action type="animation" animName="questsocial" blendInTime="0.2" />
+        <Action time="3000" type="dialog" textId="101" />
+        <Action time="4000" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait">
+            <Action time="533" type="move" pos="93354.6641,-5153.6968,379.0161" speed="120">
+                <Action effectId="10000002" type="effect" />
+                <Action type="visible" visibility="false" />
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="106010411" playingTime="10000">
+        <Action type="animation" animName="questsocial" blendInTime="0.2" />
+        <Action time="3000" type="dialog" textId="101" />
+        <Action time="4000" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait">
+            <Action time="533" type="move" pos="92485,-4332,664" speed="120">
+                <Action time="1000" type="move" pos="92413,-4778,557" speed="120">
+                    <Action time="1000" type="move" pos="93354.6641,-5153.6968,379.0161" speed="120">
+                        <Action effectId="10000002" type="effect" />
+                        <Action type="visible" visibility="false" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="106010421" playingTime="10000">
+        <Action type="animation" animName="questsocial" blendInTime="0.2" />
+        <Action time="3000" type="dialog" textId="101" />
+        <Action time="4000" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait">
+            <Action time="533" type="move" pos="91875,-4623,645" speed="120">
+                <Action time="1000" type="move" pos="93354.6641,-5153.6968,379.0161" speed="120">
+                    <Action effectId="10000002" type="effect" />
+                    <Action type="visible" visibility="false" />
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="106010431" playingTime="10000">
+        <Action type="animation" animName="questsocial" blendInTime="0.2" />
+        <Action time="3000" type="dialog" textId="101" />
+        <Action time="4000" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait">
+            <Action time="533" type="move" pos="93354.6641,-5153.6968,379.0161" speed="120">
+                <Action effectId="10000002" type="effect" />
+                <Action type="visible" visibility="false" />
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="106310661" playingTime="4000">
+        <Action time="3000" effectId="10000004" type="effect" />
+        <Action time="3000" type="visible" visibility="false" />
+        <InitState visible="true" />
+    </Script>
+    <Script id="107211111" playingTime="10000">
+        <Action type="animation" animName="talk" blendInTime="0.2">
+            <Action type="dialog" textId="101" />
+            <Action time="3000" type="dialog" textId="102" />
+        </Action>
+    </Script>
+    <Script id="107211331" playingTime="7000">
+        <Action type="instantMove" pos="2095,-9966,6840" dir="-10000">
+            <Action time="4000" type="ActionScript" templateId="1111" huntingZoneId="72" scriptId="107211111" />
+            <Action effectId="10000002" type="effect" />
+            <Action type="visible" visibility="true" />
+            <Action time="1000" type="moveToInitPos" speed="80" />
+            <Action time="2000" type="dialog" textId="101" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="107910071" playingTime="12000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="animation" animName="PvpAttackshotStand" rate="0.8" blendInTime="0.2" />
+        <Action time="2000" type="rotate" duration="500" dir="-13000" />
+        <Action time="2500" type="dialog" textId="102" />
+        <Action time="2500" type="actionScript" templateId="1047" huntingZoneId="79" scriptId="107910471" />
+        <Action time="4000" type="rotate" duration="500" dir="-30000" />
+    </Script>
+    <Script id="107910072" playingTime="5000">
+        <Action time="500" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="500" type="dialog" textId="103" />
+        <Action time="2000" type="dialog" textId="104" />
+        <Action time="2000" type="animation" animName="PvpAttackshotStand" rate="0.7" blendInTime="0.2" />
+        <Action time="4000" type="move" pos="-3966,62637,5978" speed="150" />
+        <Action time="7000" type="move" pos="-3912,60413,5723" speed="150" />
+        <Action time="15000" type="visible" visibility="false" />
+    </Script>
+    <Script id="107910471" playingTime="40000">
+        <Action time="0" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="3000" type="move" pos="-3472,62736,6042" speed="120" />
+        <Action time="3500" type="dialog" textId="103" />
+        <Action time="5000" type="dialog" textId="104" />
+        <Action time="4500" type="actionScript" templateId="1048" huntingZoneId="79" scriptId="107910481" />
+        <Action time="6000" type="actionScript" templateId="1050" huntingZoneId="79" scriptId="107910501" />
+        <Action time="7000" type="move" pos="-3482,62945,6048" speed="120" />
+        <Action time="10000" type="dialog" textId="105" />
+        <Action time="11000" type="actionScript" templateId="1049" huntingZoneId="79" scriptId="107910491" />
+        <Action time="11000" type="actionScript" templateId="1051" huntingZoneId="79" scriptId="107910511" />
+        <Action time="12000" type="move" pos="-3472,62869,6049" speed="120" />
+        <Action time="13000" type="dialog" textId="106" />
+        <Action time="15000" type="move" pos="-3966,62637,5978" speed="150" />
+        <Action time="15000" type="actionScript" templateId="1007" huntingZoneId="79" scriptId="107910072" />
+        <Action time="17000" type="move" pos="-3912,60413,5723" speed="150" />
+        <Action time="31000" type="visible" visibility="false" />
+    </Script>
+    <Script id="107910481" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="1500" type="move" pos="-3577,62823,6030" speed="160" />
+        <Action time="2200" type="move" pos="-3890,62476,5968" speed="160" />
+        <Action time="6500" type="move" pos="-3906,60308,5714" speed="160" />
+        <Action time="27000" type="visible" visibility="false" />
+    </Script>
+    <Script id="107910491" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="1600" type="move" pos="-3798,63010,6015" speed="150" />
+        <Action time="3500" type="move" pos="-3282,63520,6083" speed="150" />
+        <Action time="8500" type="move" pos="-2054,63579,6057" speed="150" />
+        <Action time="15000" type="visible" visibility="false" />
+    </Script>
+    <Script id="107910501" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="1500" type="move" pos="-4574,62897,6013" speed="150" />
+        <Action time="8000" type="move" pos="-6277,63164,6050," speed="150" />
+        <Action time="12000" type="move" pos="-6386,63164,6050" speed="150" />
+        <Action time="28000" type="visible" visibility="false" />
+    </Script>
+    <Script id="107910511" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait" />
+        <Action time="1000" type="move" pos="-3684,63136,6039" speed="150" />
+        <Action time="3000" type="move" pos="-3332,64430,6271" speed="150" />
+        <Action time="12000" type="move" pos="-4414,65066,6500" speed="150" />
+        <Action time="18000" type="visible" visibility="false" />
+    </Script>
+    <Script id="108110191" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="1000" type="move" pos="-57664,-24279,2119" speed="100" />
+        <Action time="2000" type="dialog" textId="102" />
+        <Action time="2000" type="animation" animName="charge" />
+        <Action time="3133" type="animation" animName="purify" />
+        <Action time="3150" type="actionScript" templateId="1027" huntingZoneId="81" scriptId="108110272" />
+        <Action time="6000" type="move" pos="-57683,-24356,2114" speed="100" />
+        <Action time="7000" type="dialog" textId="103" />
+        <Action time="7000" type="animation" animName="charge" />
+        <Action time="8133" type="animation" animName="purify" />
+        <Action time="8150" type="actionScript" templateId="1026" huntingZoneId="81" scriptId="108110262" />
+        <Action time="10000" type="moveToInitPos" speed="100" />
+        <Action time="11800" type="rotate" duration="500" dir="-10000" />
+        <Action time="14000" type="dialog" textId="104" />
+        <Action time="16000" type="dialog" textId="105" />
+    </Script>
+    <Script id="108110262" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="108110272" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="108411501" playingTime="100000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="5000" type="dialog" textId="102" />
+        <Action time="8000" type="dialog" textId="103" />
+        <Action time="26000" type="dialog" textId="107" />
+        <Action time="28000" type="dialog" textId="108" />
+        <Action time="30000" type="dialog" textId="109" />
+        <Action type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait">
+            <Action type="move" pos="-10867,9802,4333" speed="90">
+                <Action type="move" pos="-10869,9486,4333" speed="90">
+                    <Action type="move" pos="-11395,9495,4257" speed="90">
+                        <Action type="rotate" duration="500" dir="-19534">
+                            <Action type="actionScript" templateId="1174" huntingZoneId="84" scriptId="108411741">
+                                <Action type="actionScript" templateId="1173" huntingZoneId="84" scriptId="108411731">
+                                    <Action time="2000" type="dialog" textId="104">
+                                        <Action type="animation" animName="greet" />
+                                        <Action time="2000" type="dialog" textId="105">
+                                            <Action time="5500" type="dialog" textId="106">
+                                                <Action type="move" pos="-11384,8917,4278" speed="90">
+                                                    <Action type="move" pos="-10876,8889,4278" speed="90">
+                                                        <Action type="rotate" duration="500" dir="-19534">
+                                                            <Action type="move" pos="-10869,8556,4283" speed="90">
+                                                                <Action time="3000" type="visible" visibility="false">
+                                                                    <Action effectId="10000004" type="effect" />
+                                                                </Action>
+                                                            </Action>
+                                                        </Action>
+                                                    </Action>
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="108411731" playingTime="10000">
+        <Action type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait">
+            <Action type="animation" animName="sitstart" duration="3000" rate="2">
+                <Action type="animation" animName="sitloop" duration="1000" rate="2">
+                    <Action type="animation" animName="sitend" duration="1000" rate="2">
+                        <Action type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait">
+                            <Action time="5500" type="move" pos="-11425,9478,4257" speed="90">
+                                <Action type="move" pos="-11343,8973,4278" speed="90">
+                                    <Action type="move" pos="-11263,8876,4278" speed="90">
+                                        <Action type="move" pos="-11049,8863,4278" speed="90">
+                                            <Action type="move" pos="-10818,8926,4278" speed="90">
+                                                <Action type="rotate" duration="500" dir="-19534">
+                                                    <Action type="move" pos="-10836,8620,4283" speed="90">
+                                                        <Action time="3000" type="visible" visibility="false">
+                                                            <Action effectId="10000004" type="effect" />
+                                                        </Action>
+                                                    </Action>
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="108411741" playingTime="100000">
+        <Action type="dialog" textId="101" />
+        <Action time="5000" type="dialog" textId="102" />
+        <Action type="animation" animName="sitstart" duration="3000" rate="2">
+            <Action type="animation" animName="sitloop" duration="1000" rate="2">
+                <Action type="animation" animName="sitend" duration="1000" rate="2">
+                    <Action type="defaultAnim" moveAnim="walk" waitAnim="UnarmedWait">
+                        <Action time="5000" type="move" pos="-11349,9461,4257" speed="90">
+                            <Action type="move" pos="-11444,8965,4278" speed="90">
+                                <Action type="move" pos="-11257,8937,4278" speed="90">
+                                    <Action type="move" pos="-10905,8938,4278" speed="90">
+                                        <Action type="rotate" duration="500" dir="-19534">
+                                            <Action type="move" pos="-10907,8626,4283" speed="90">
+                                                <Action time="3000" type="visible" visibility="false">
+                                                    <Action effectId="10000004" type="effect" />
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="108411841" playingTime="10000">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="120310301" playingTime="15000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="animation" animName="death" rate="0.5" blendInTime="0.2">
+            <Action type="visible" visibility="false" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="120610401" playingTime="20000">
+        <Action type="defaultAnim" moveAnim="walk" waitAnim="Wait" />
+        <Action type="move" pos="78671.9531,24701.7363,2659.0740" speed="100">
+            <Action effectId="10000002" type="effect" />
+            <Action type="visible" visibility="false" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="120810051" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action type="move" pos="78824, 63610, -3791" speed="120">
+                <Action type="move" pos="78822, 63238, -3794" speed="120">
+                    <Action type="move" pos="78177, 63077, -3794" speed="120">
+                        <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810241" playingTime="4000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="4000" type="none" />
+    </Script>
+    <Script id="120810251" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action type="move" pos="78912, 63447, -3794" speed="120">
+                <Action type="move" pos="78177, 63077, -3794" speed="120">
+                    <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810261" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait">
+            <Action type="move" pos="78824, 63610, -3791" speed="120">
+                <Action type="move" pos="78822, 63238, -3794" speed="120">
+                    <Action type="move" pos="78177, 63077, -3794" speed="120">
+                        <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810271" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="1000" type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait">
+            <Action type="move" pos="78824, 63610, -3791" speed="120">
+                <Action type="move" pos="78822, 63238, -3794" speed="120">
+                    <Action type="move" pos="78177, 63077, -3794" speed="120">
+                        <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810281" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action type="move" pos="78824, 63610, -3791" speed="120">
+                <Action type="move" pos="78822, 63238, -3794" speed="120">
+                    <Action type="move" pos="78177, 63077, -3794" speed="120">
+                        <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810291" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait">
+            <Action type="move" pos="78824, 63610, -3791" speed="120">
+                <Action type="move" pos="78822, 63238, -3794" speed="120">
+                    <Action type="move" pos="78177, 63077, -3794" speed="120">
+                        <Action type="move" pos="77528, 63073, -3793" speed="120" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="120810301" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="3000" type="none" />
+    </Script>
+    <Script id="120810321" playingTime="20000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action time="2000" type="move" pos="90332,58769,-1811" speed="120" />
+        </Action>
+    </Script>
+    <Script id="121310051" playingTime="20000">
+        <Action type="instantMove" pos="56053.5859,-66672.0313,-5359.9219" dir="-10000">
+            <Action effectId="10000004" type="effect" />
+            <Action time="1000" type="move" pos="56203.1406,-67019.9609,-5383.8984" speed="120" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="121310052" playingTime="20000">
+        <Action type="instantMove" pos="56203.1406,-67019.9609,-5383.8984" dir="20000">
+            <Action time="1000" type="move" pos="56053.5859,-66672.0313,-5359.9219" speed="120">
+                <Action effectId="10000004" type="effect" />
+                <Action type="visible" visibility="false" />
+            </Action>
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="121310081" playingTime="10000">
+        <Action type="animation" animName="craft_energy" blendInTime="0.2">
+            <Action type="animation" animName="craft_energy" blendInTime="0.2" />
+        </Action>
+    </Script>
+    <Script id="121510271" playingTime="20000">
+        <Action time="2000" type="relativeMove" pos="17,-110,0" speed="60">
+            <Action time="1000" type="rotate" duration="1000" dir="30000">
+                <Action time="1000" type="animation" animName="healstart" rate="0.5" blendInTime="0.2" />
+                <Action time="1866" type="animation" animName="healloop" rate="0.5" blendInTime="0.2" />
+                <Action time="5600" type="animation" animName="healloop" rate="0.5" blendInTime="0.2" />
+                <Action time="7600" type="actionScript" templateId="1028" huntingZoneId="215" scriptId="121510281" />
+                <Action time="12600" type="moveToInitPos" speed="60" />
+                <Action time="13000" type="dialog" textId="101" />
+                <Action time="15000" type="rotateToUser" duration="1000" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="121510281" playingTime="1000">
+        <Action effectId="50266" type="effect" />
+    </Script>
+    <Script id="122310021" playingTime="6000">
+        <Action type="animation" animName="charge" rate="0.5" blendInTime="0.2">
+            <Action type="dialog" textId="101" />
+        </Action>
+    </Script>
+    <Script id="122413031" playingTime="100000">
+        <Action time="1" type="ActionScript" templateId="1303" huntingZoneId="224" scriptId="122413032" />
+    </Script>
+    <Script id="122413032" playingTime="100000">
+        <Action time="2000" effectId="10000002" type="effect" />
+        <Action time="2500" type="scale" scale="1" power="1" duration="1" />
+        <Action time="2800" type="translationZ" power="3" duration="1000" from="0" to="-20" />
+        <Action time="3000" effectId="10000002" type="effect" />
+        <Action time="3000" type="cameraShake" power="0.3" duration="500" speed="10000" />
+        <Action time="4800" type="translationZ" power="3" duration="2000" from="-20" to="-60" />
+        <Action time="5000" effectId="10000002" type="effect" />
+        <Action time="5100" type="cameraShake" power="0.3" duration="1000" speed="10000" />
+    </Script>
+    <Script id="123210101" playingTime="20000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="1200" type="animation" animName="charge" blendInTime="0.2" />
+        <Action time="2400" type="animation" animName="charge" blendInTime="0.2" />
+        <Action time="3600" type="animation" animName="charge" blendInTime="0.2" />
+        <Action time="4800" type="animation" animName="charge" blendInTime="0.2" />
+        <Action time="6000" type="animation" animName="charge" blendInTime="0.2" />
+        <Action time="7200" type="animation" animName="craft_energy" blendInTime="0.5" />
+        <Action time="8200" effectId="41032001" type="effect" />
+        <Action time="8600" type="animation" animName="craft_energy" blendInTime="1" />
+        <Action time="9000" type="dialog" textId="102" />
+        <Action time="9200" effectId="41032001" type="effect" />
+        <Action time="10000" type="animation" animName="craft_energy" blendInTime="0.5" />
+        <Action time="11200" effectId="41032001" type="effect" />
+        <Action time="11600" type="animation" animName="craft_energy" blendInTime="0.5" />
+        <Action time="13000" effectId="41032001" type="effect" />
+        <Action time="13200" type="animation" animName="craft_energy" blendInTime="0.5" />
+        <Action time="14200" effectId="41032001" type="effect" />
+        <Action time="14800" type="animation" animName="craft_energy" blendInTime="0.5" />
+        <Action time="16200" effectId="41032001" type="effect" />
+        <Action time="18000" type="dialog" textId="103" />
+    </Script>
+    <Script id="123210221" playingTime="6000">
+        <Action time="3800" type="visible" visibility="true" />
+        <Action time="3800" type="animation" animName="groggy1" blendInTime="0.2" />
+        <Action time="5800" type="dialog" textId="101" />
+        <InitState visible="false" />
+    </Script>
+    <Script id="123210222" playingTime="50000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="UnarmedWait" />
+        <Action time="2000" type="animation" animName="bug" blendInTime="0.2" />
+        <Action time="7000" type="move" pos="-27984,-87115,5886" speed="150">
+            <Action time="1000" type="move" pos="-27748.8379,-88292.1641,5962.6719" speed="220">
+                <Action effectId="10000002" type="effect" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="123511111" playingTime="10000">
+        <Action time="0" type="cameraShake" power="1" duration="4500" speed="1000" />
+        <Action time="0" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="500" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="1000" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="1500" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="2000" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="2500" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="3000" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="3500" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="4000" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+        <Action time="4500" effectId="90001" type="MagneticToPlayer" huntingZoneId="235" fromTemplateId="1111" />
+    </Script>
+    <Script id="123811101" playingTime="10000">
+        <Action time="0" type="cameraShake" power="1" duration="4500" speed="1000" />
+        <Action time="0" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="500" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="1000" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="1500" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="2000" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="2500" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="3000" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="3500" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="4000" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+        <Action time="4500" effectId="90001" type="MagneticToPlayer" huntingZoneId="238" fromTemplateId="1110" />
+    </Script>
+    <Script id="124110211" playingTime="5000">
+        <Action type="dialog" textId="101" />
+        <Action type="animation" animName="skillready" blendInTime="0.2">
+            <Action type="animation" animName="skillready" blendInTime="0.2">
+                <Action time="2000" type="dialog" textId="102" />
+                <Action time="5000" type="none" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="124110261" playingTime="2000">
+        <Action time="2000" type="dialog" textId="101" />
+        <Action time="2000" type="none" />
+    </Script>
+    <Script id="124110262" playingTime="3000">
+        <Action type="dialog" textId="102" />
+        <Action type="animation" animName="laugh_Q" blendInTime="0.2">
+            <Action type="dialog" textId="103" />
+        </Action>
+    </Script>
+    <Script id="124520091" playingTime="11500">
+        <Action time="1" type="move" pos="3610, -50121, -4742" speed="70" />
+        <Action time="1200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="1500" type="ActionScript" templateId="2018" huntingZoneId="245" scriptId="124520182" />
+        <Action time="2200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="3200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="4200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="5200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="6200" type="animation" animName="charge" rate="0.5" blendInTime="0.1" />
+        <Action time="10000" type="moveToInitPos" speed="70" />
+    </Script>
+    <Script id="124520121" playingTime="100000">
+        <Action time="1" type="ActionScript" templateId="2012" huntingZoneId="245" scriptId="124520122" />
+    </Script>
+    <Script id="124520122" playingTime="100000">
+        <Action time="1" effectId="10000004" type="effect" />
+        <Action time="1000" type="move" pos="9793, -52060, -4202" speed="200" />
+        <Action time="4999" effectId="10000004" type="effect" />
+        <Action time="5000" type="visible" visibility="false" />
+    </Script>
+    <Script id="124520182" playingTime="300000">
+        <Action time="0" type="animation" animName="OnStart" rate="1" blendInTime="0.1" />
+        <Action time="0" effectId="2216" type="effect" />
+        <Action time="4033" type="animation" animName="On" rate="1" blendInTime="0.1" />
+        <Action time="7399" type="animation" animName="OffStart" rate="1" blendInTime="0.1" />
+        <Action time="7399" effectId="10000004" type="effect" />
+        <Action time="9763" type="animation" animName="Off" rate="1" blendInTime="0.1" />
+    </Script>
+    <Script id="124520201" playingTime="100000">
+        <Action time="1" effectId="10000001" type="effect" />
+        <Action time="5" type="visible" visibility="false" />
+        <Action time="10" effectId="10000001" type="effect" />
+        <Action time="10" type="ActionScript" templateId="2025" huntingZoneId="245" scriptId="124520251" />
+        <Action time="10" type="ActionScript" templateId="2026" huntingZoneId="245" scriptId="124520261" />
+        <Action time="10" type="ActionScript" templateId="2027" huntingZoneId="245" scriptId="124520271" />
+    </Script>
+    <Script id="124520202" playingTime="100000">
+        <Action time="1" effectId="10000002" type="effect" />
+        <Action time="5" type="visible" visibility="true" />
+        <Action time="10" effectId="10000002" type="effect" />
+    </Script>
+    <Script id="124520231" playingTime="95000">
+        <Action time="0" type="ActionScript" templateId="2028" huntingZoneId="245" scriptId="124520232" />
+    </Script>
+    <Script id="124520232" playingTime="95000">
+        <Action time="0" effectId="41032001" type="effect" />
+        <Action time="0" type="animation" animName="eat_q" />
+        <Action time="2000" type="move" pos="2132, -47019, -4511" speed="100" />
+        <Action time="2500" type="animation" animName="atk02" />
+        <Action time="3500" type="move" pos="2008, -46967, -4506" speed="100" />
+        <Action time="4000" type="animation" animName="atk02" />
+        <Action time="5000" type="move" pos="2089, -46988, -4509" speed="100" />
+        <Action time="5500" type="animation" animName="atk03" />
+        <Action time="7000" type="animation" animName="death" />
+        <Action time="11000" effectId="10000001" type="effect" />
+        <Action time="11000" type="visible" visibility="false" />
+    </Script>
+    <Script id="124520251" playingTime="100000">
+        <Action time="0" type="visible" visibility="true" />
+        <Action time="0" effectId="10000001" type="effect" />
+        <Action time="1" type="move" pos="-8281, -47320, -3639" speed="100" />
+        <Action time="3000" type="move" pos="-8238, -47204, -3624" speed="100" />
+        <Action time="5000" type="move" pos="-8024, -47188, -3678" speed="100" />
+        <Action time="8000" type="move" pos="-7932, -47312, -3718" speed="100" />
+        <Action time="16000" type="move" pos="-8328, -47324, -3630" speed="100" />
+        <Action time="20000" type="move" pos="-7933, -47315, -3718" speed="100" />
+        <Action time="23000" effectId="10000001" type="effect" />
+        <Action time="23001" type="visible" visibility="false" />
+        <Action time="23002" type="ActionScript" templateId="2020" huntingZoneId="245" scriptId="124520202" />
+    </Script>
+    <Script id="124520261" playingTime="100000">
+        <Action time="0" type="visible" visibility="true" />
+        <Action time="0" effectId="10000001" type="effect" />
+        <Action time="1" type="move" pos="-8055, -47529, -3709" speed="100" />
+        <Action time="2000" type="move" pos="-8176, -47530, -3677" speed="100" />
+        <Action time="7000" type="move" pos="-7945, -47468, -3732" speed="100" />
+        <Action time="11000" type="move" pos="-7994, -47371, -3711" speed="100" />
+        <Action time="13000" type="move" pos="-8005, -47645, -3723" speed="100" />
+        <Action time="20000" type="move" pos="-7933, -47315, -3718" speed="100" />
+        <Action time="23000" effectId="10000001" type="effect" />
+        <Action time="23001" type="visible" visibility="false" />
+    </Script>
+    <Script id="124520271" playingTime="100000">
+        <Action time="0" type="visible" visibility="true" />
+        <Action time="0" effectId="10000001" type="effect" />
+        <Action time="1" type="move" pos="-7985, -47051, -3655" speed="100" />
+        <Action time="2000" type="move" pos="-7860, -47042, -3671" speed="100" />
+        <Action time="7000" type="move" pos="-8031, -47225, -3682" speed="100" />
+        <Action time="12000" type="move" pos="-8167, -47118, -3623" speed="100" />
+        <Action time="17000" type="move" pos="-7959, -47046, -3658" speed="100" />
+        <Action time="20000" type="move" pos="-7933, -47315, -3718" speed="100" />
+        <Action time="23000" effectId="10000001" type="effect" />
+        <Action time="23001" type="visible" visibility="false" />
+    </Script>
+    <Script id="124620271" playingTime="100000">
+        <Action time="0" type="ActionScript" templateId="2027" huntingZoneId="246" scriptId="124620272" />
+    </Script>
+    <Script id="124620272" playingTime="500000">
+        <Action time="0" effectId="8060" type="effect" />
+        <Action type="move" pos="32068, -26583, -464" speed="70">
+            <Action time="0" effectId="8060" type="effect" />
+            <Action type="move" pos="31934, -26341, -464" speed="70">
+                <Action time="0" effectId="8060" type="effect" />
+                <Action type="move" pos="31817, -26137, -464" speed="70">
+                    <Action time="0" effectId="8060" type="effect" />
+                    <Action type="move" pos="31688, -25954, -464" speed="70">
+                        <Action time="0" effectId="8060" type="effect" />
+                        <Action type="move" pos="31533, -25717, -464" speed="70">
+                            <Action time="0" effectId="8060" type="effect" />
+                            <Action type="move" pos="31425, -25527, -418" speed="70">
+                                <Action time="0" effectId="8060" type="effect" />
+                                <Action type="move" pos="31318, -25303, -399" speed="70">
+                                    <Action time="0" effectId="8060" type="effect" />
+                                    <Action type="move" pos="31146, -24993, -400" speed="70">
+                                        <Action time="0" effectId="8060" type="effect" />
+                                        <Action type="move" pos="30998, -24635, -400" speed="70">
+                                            <Action time="0" effectId="8060" type="effect" />
+                                            <Action type="move" pos="30791, -24335, -400" speed="70">
+                                                <Action time="0" effectId="8060" type="effect" />
+                                                <Action type="move" pos="30634, -24025, -400" speed="70">
+                                                    <Action time="0" effectId="8060" type="effect" />
+                                                    <Action type="move" pos="30467, -23712, -429" speed="70">
+                                                        <Action time="0" effectId="8060" type="effect" />
+                                                        <Action type="move" pos="30364, -23493, -464" speed="70">
+                                                            <Action time="0" effectId="8060" type="effect" />
+                                                            <Action type="move" pos="30725, -23209, -464" speed="70">
+                                                                <Action time="0" effectId="8060" type="effect" />
+                                                                <Action type="move" pos="31053, -23018, -463" speed="70">
+                                                                    <Action time="0" effectId="8060" type="effect" />
+                                                                    <Action type="move" pos="31442, -22736, -528" speed="70">
+                                                                        <Action time="0" effectId="8060" type="effect" />
+                                                                        <Action time="0" type="ActionScript" templateId="2028" huntingZoneId="246" scriptId="124620273" />
+                                                                    </Action>
+                                                                </Action>
+                                                            </Action>
+                                                        </Action>
+                                                    </Action>
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="124620273" playingTime="500000">
+        <Action type="move" pos="31648, -22426, -528" speed="70">
+            <Action time="0" effectId="8060" type="effect" />
+            <Action type="move" pos="31686, -22074, -528" speed="70">
+                <Action time="0" effectId="8060" type="effect" />
+                <Action type="move" pos="31541, -21729, -487" speed="70">
+                    <Action time="0" effectId="8060" type="effect" />
+                    <Action type="move" pos="31422, -21387, -409" speed="70">
+                        <Action time="0" effectId="8060" type="effect" />
+                        <Action type="move" pos="31350, -21101, -398" speed="70">
+                            <Action time="0" effectId="8060" type="effect" />
+                            <Action type="move" pos="31620, -20949, -398" speed="70">
+                                <Action time="0" effectId="8060" type="effect" />
+                                <Action type="move" pos="32052, -21039, -399" speed="70">
+                                    <Action time="0" effectId="8060" type="effect" />
+                                    <Action type="move" pos="32348, -21106, -398" speed="70">
+                                        <Action time="0" effectId="8060" type="effect" />
+                                        <Action type="move" pos="32616, -20944, -399" speed="70">
+                                            <Action time="0" effectId="8060" type="effect" />
+                                            <Action type="move" pos="32950, -20749, -398" speed="70">
+                                                <Action time="0" effectId="8060" type="effect" />
+                                                <Action type="move" pos="33241, -20579, -399" speed="70">
+                                                    <Action time="0" effectId="8060" type="effect" />
+                                                    <Action type="move" pos="33617, -20295, -400" speed="70">
+                                                        <Action time="0" effectId="8060" type="effect" />
+                                                        <Action time="0" type="ActionScript" templateId="2029" huntingZoneId="246" scriptId="124620274" />
+                                                    </Action>
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="124620274" playingTime="500000">
+        <Action type="move" pos="34013, -20410, -399" speed="70">
+            <Action time="0" effectId="8060" type="effect" />
+            <Action type="move" pos="34398, -20515, -399" speed="70">
+                <Action time="0" effectId="8060" type="effect" />
+                <Action type="move" pos="34813, -20630, -399" speed="70">
+                    <Action time="0" effectId="8060" type="effect" />
+                    <Action type="move" pos="35245, -20700, -400" speed="70">
+                        <Action time="0" effectId="8060" type="effect" />
+                        <Action type="move" pos="35683, -20858, -398" speed="70">
+                            <Action time="0" effectId="8060" type="effect" />
+                            <Action type="move" pos="36094, -20986, -399" speed="70">
+                                <Action time="0" effectId="8060" type="effect" />
+                                <Action type="move" pos="36448, -21082, -399" speed="70">
+                                    <Action time="0" effectId="8060" type="effect" />
+                                    <Action type="move" pos="36749, -21165, -398" speed="70">
+                                        <Action time="0" effectId="8060" type="effect" />
+                                        <Action type="move" pos="37163, -21192, -399" speed="70">
+                                            <Action time="0" effectId="8060" type="effect" />
+                                            <Action type="move" pos="37647, -20950, -399" speed="70">
+                                                <Action time="0" effectId="8060" type="effect" />
+                                                <Action type="move" pos="37991, -20758, -398" speed="70">
+                                                    <Action time="0" effectId="8060" type="effect" />
+                                                    <Action type="move" pos="38301, -20592, -398" speed="70">
+                                                        <Action time="0" effectId="8060" type="effect" />
+                                                        <Action type="move" pos="38551, -20770, -399" speed="70">
+                                                            <Action time="0" effectId="8060" type="effect" />
+                                                            <Action type="move" pos="38848, -21183, -399" speed="70">
+                                                                <Action time="0" effectId="8060" type="effect" />
+                                                                <Action type="move" pos="39036, -21424, -398" speed="70">
+                                                                    <Action time="0" effectId="8060" type="effect" />
+                                                                </Action>
+                                                            </Action>
+                                                        </Action>
+                                                    </Action>
+                                                </Action>
+                                            </Action>
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="124720021" playingTime="100000">
+        <Action time="1033" type="animation" animName="healLoop" rate="0.1" blendInTime="0.1" />
+        <Action time="3066" type="animation" animName="ShackleLoop" blendInTime="0.1" />
+        <Action time="3067" effectId="41032001" type="effect" />
+        <Action time="4099" type="animation" animName="ShackleLoop" blendInTime="0.1" />
+        <Action time="5100" type="animation" animName="ShackleShot" blendInTime="0.1" />
+        <Action time="5101" effectId="10000004" type="effect" />
+    </Script>
+    <Script id="124720051" playingTime="100000">
+        <Action time="1" effectId="50266" type="effect" />
+        <Action time="2" effectId="50403" type="effect" />
+        <Action time="3500" type="visible" visibility="false" />
+    </Script>
+    <Script id="125110111" playingTime="5000">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="125110292" playingTime="25000">
+        <Action time="1000" type="dialog" textId="102" />
+        <Action time="4000" type="move" pos="7113,54069,7159" speed="120" />
+        <Action time="4000" type="dialog" textId="103" />
+        <Action time="7000" type="dialog" textId="104" />
+        <Action time="10000" type="move" pos="8199,54701,7322" speed="120" />
+        <Action time="19000" type="move" pos="8142,55789,7399" speed="120" />
+        <Action time="25000" type="visible" visibility="false" />
+    </Script>
+    <Script id="125110311" playingTime="32000">
+        <Action time="0" type="move" pos="6570,54185,7080" speed="120" />
+        <Action time="6000" type="dialog" textId="101" />
+        <Action time="6000" type="animation" animName="Talk" />
+        <Action time="10000" type="actionScript" templateId="1011" huntingZoneId="251" scriptId="125110111" />
+        <Action time="15000" type="dialog" textId="102" />
+        <Action time="18000" type="move" pos="6486,54505,7061" speed="120" />
+        <Action time="22000" type="move" pos="5725,54710,7059" speed="120" />
+        <Action time="26000" type="move" pos="5023,54792,7059" speed="120" />
+        <Action time="32000" type="visible" visibility="false" />
+    </Script>
+    <Script id="125110351" playingTime="4000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="animation" animName="PvpAttackshotStand" rate="0.5" blendInTime="0.2" />
+    </Script>
+    <Script id="125310151" playingTime="9000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="0" type="animation" animName="SitStart" rate="1" />
+        <Action time="3066" type="animation" animName="SitLoop" rate="1" />
+        <Action time="5149" type="animation" animName="SitEnd" rate="1" />
+    </Script>
+    <Script id="125410371" playingTime="30000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="2000" type="dialog" textId="102" />
+        <Action time="2000" type="move" pos="-78788,-23873,3207" speed="130" />
+        <Action time="7500" type="dialog" textId="103" />
+        <Action time="7500" type="move" pos="-75539,-24889,3364" speed="250" />
+        <Action time="18000" type="move" pos="-71812,-24954,3394" speed="280" />
+        <Action time="22000" type="visible" visibility="false" />
+    </Script>
+    <Script id="125510301" playingTime="10000">
+        <Action time="1000" type="rotateToUser" duration="1000" />
+        <Action time="0" type="translationZ" power="4" duration="3000" from="0" to="100" />
+        <Action time="4000" effectId="10000004" type="effect" />
+        <Action time="0" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="500" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="1000" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="1500" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="2000" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="2500" effectId="90001" type="MagneticToPlayer" huntingZoneId="255" fromTemplateId="1030" />
+        <Action time="4000" type="visible" visibility="false" />
+    </Script>
+    <Script id="125610251" playingTime="2000">
+        <Action time="1000" effectId="90001" type="magnetic" huntingZoneId="256" fromTemplateId="1025" toTemplateId="1027" />
+        <Action time="1200" effectId="90001" type="magnetic" huntingZoneId="256" fromTemplateId="1025" toTemplateId="1027" />
+        <Action time="1400" effectId="90001" type="magnetic" huntingZoneId="256" fromTemplateId="1025" toTemplateId="1027" />
+        <Action time="1600" effectId="90001" type="magnetic" huntingZoneId="256" fromTemplateId="1025" toTemplateId="1027" />
+        <Action time="1800" effectId="90001" type="magnetic" huntingZoneId="256" fromTemplateId="1025" toTemplateId="1027" />
+    </Script>
+    <Script id="125610261" playingTime="10000">
+        <Action time="0" type="dialog" textId="101">
+            <Action type="translationZ" power="4" duration="4000" from="0" to="40">
+                <Action effectId="10000001" type="effect" />
+                <Action type="visible" visibility="false" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="125610271" playingTime="80000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action time="0" type="dialog" textId="101">
+                <Action time="0" type="move" pos="-66426,41391,2378" speed="90">
+                    <Action time="0" type="dialog" textId="102">
+                        <Action time="0" type="move" pos="-67412,40857,2352" speed="90">
+                            <Action time="0" type="dialog" textId="103">
+                                <Action time="0" type="move" pos="-68262,40758,2352" speed="90">
+                                    <Action time="0" type="move" pos="-68275,40931,2352" speed="90">
+                                        <Action type="animation" animName="wait" duration="5000" />
+                                        <Action time="1000" type="rotate" duration="500" dir="-19534" />
+                                        <Action time="0" type="dialog" textId="104" />
+                                        <Action type="visible" visibility="false" />
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="140110011" playingTime="30000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action type="instantMove" pos="69191,-38968,-91" dir="18000" />
+        <Action time="11000" effectId="50299" type="effect" />
+        <Action time="12000" type="visible" visibility="true" />
+        <Action time="12200" type="moveToInitPos" speed="160">
+            <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait" />
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="140110021" playingTime="30000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action type="instantMove" pos="69121,-38968,-91" dir="18000" />
+        <Action time="10000" effectId="50299" type="effect" />
+        <Action time="11000" type="visible" visibility="true" />
+        <Action time="11200" type="moveToInitPos" speed="130">
+            <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait" />
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="140110031" playingTime="30000">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action type="instantMove" pos="69275,-38968,-91" dir="18000" />
+        <Action time="10500" effectId="50299" type="effect" />
+        <Action time="11500" type="visible" visibility="true" />
+        <Action time="11700" type="moveToInitPos" speed="140">
+            <Action type="defaultAnim" moveAnim="Walk" waitAnim="UnarmedWait" />
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="140110081" playingTime="30000">
+        <Action type="instantMove" pos="69275,-38968,-91" dir="18000" />
+        <Action time="6000" effectId="50299" type="effect" />
+        <Action time="7000" type="visible" visibility="true" />
+        <Action time="8200" type="moveToInitPos" speed="80">
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="140110091" playingTime="30000">
+        <Action type="instantMove" pos="69121,-38968,-91" dir="18000" />
+        <Action time="5000" effectId="50299" type="effect" />
+        <Action time="6000" type="visible" visibility="true" />
+        <Action time="6200" type="moveToInitPos" speed="70">
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="140110101" playingTime="30000">
+        <Action type="instantMove" pos="69191,-38968,-91" dir="18000" />
+        <Action time="5500" effectId="50299" type="effect" />
+        <Action time="6500" type="visible" visibility="true" />
+        <Action time="6700" type="moveToInitPos" speed="60">
+            <Action time="1000" type="rotateToInitDir" duration="500" />
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="141030031" playingTime="10000">
+        <Action type="animation" animName="outweapon">
+            <Action type="animation" animName="wait" duration="10000" />
+        </Action>
+    </Script>
+    <Script id="141050051" playingTime="10000">
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="5000" type="dialog" textId="102" />
+        <Action time="9000" type="dialog" textId="103" />
+        <Action time="11000" type="dialog" textId="104" />
+        <Action time="17000" type="dialog" textId="105" />
+        <Action time="19000" type="dialog" textId="106" />
+        <Action time="21000" type="dialog" textId="107" />
+        <Action time="11000" type="animation" animName="angry" blendInTime="0.2" />
+        <Action time="17000" type="animation" animName="shout" blendInTime="0.2" />
+        <Action time="21000" type="animation" animName="angry" blendInTime="0.2" />
+        <Action time="3000" type="actionScript" templateId="5006" huntingZoneId="410" scriptId="141050061" />
+        <Action time="4000" type="actionScript" templateId="5007" huntingZoneId="410" scriptId="141050071" />
+        <Action type="defaultAnim" moveAnim="v_walk_02" waitAnim="UnarmedWait">
+            <Action time="1000" type="move" pos="23808,-161362,297" speed="80">
+                <Action type="animation" animName="shout">
+                    <Action time="1000" type="actionScript" templateId="3003" huntingZoneId="410" scriptId="141030031">
+                        <Action time="28000" type="moveToInitPos" speed="90">
+                            <Action type="rotateToInitDir" duration="50" />
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="141050052" playingTime="14000">
+        <Action time="0" type="dialog" textId="108" />
+        <Action time="0" type="animation" animName="greet" rate="1" />
+    </Script>
+    <Script id="141050061" playingTime="10000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="8000" type="dialog" textId="102" />
+        <Action time="8000" type="animation" animName="AuraOn" blendInTime="0.2" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action time="6000" type="move" pos="23867, -161434, 297" speed="120">
+                <Action time="28000" type="moveToInitPos" speed="90">
+                    <Action type="rotateToInitDir" duration="50" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="141050062" playingTime="14000">
+        <Action time="1000" type="dialog" textId="103" />
+        <Action time="0" type="animation" animName="SitStart" rate="1" />
+        <Action time="3066" type="animation" animName="SitLoop" rate="1" />
+        <Action time="5149" type="animation" animName="SitEnd" rate="1" />
+    </Script>
+    <Script id="141050071" playingTime="10000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="7000" type="dialog" textId="102" />
+        <Action time="7000" type="animation" animName="recall" blendInTime="0.2" />
+        <Action time="15000" type="dialog" textId="103" />
+        <Action type="defaultAnim" moveAnim="run" waitAnim="UnarmedWait">
+            <Action time="5000" type="move" pos="23858,-161303,297" speed="110">
+                <Action time="28000" type="moveToInitPos" speed="90">
+                    <Action type="rotateToInitDir" duration="50" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="141050072" playingTime="14000">
+        <Action time="1000" type="dialog" textId="104" />
+        <Action time="0" type="animation" animName="SitStart" rate="1" />
+        <Action time="3066" type="animation" animName="SitLoop" rate="1" />
+        <Action time="5149" type="animation" animName="SitEnd" rate="1" />
+    </Script>
+    <Script id="141050091" playingTime="14000">
+        <Action time="5000" type="dialog" textId="101" />
+        <Action time="2000" type="ActionScript" templateId="5005" huntingZoneId="410" scriptId="141050052" />
+        <Action time="2000" type="ActionScript" templateId="5006" huntingZoneId="410" scriptId="141050062" />
+        <Action time="2000" type="ActionScript" templateId="5007" huntingZoneId="410" scriptId="141050072" />
+        <Action time="10000" type="none" />
+    </Script>
+    <Script id="141050101" playingTime="10000">
+        <Action time="5000" type="none">
+            <Action time="0" type="visible" visibility="true" />
+            <Action time="0" effectId="50403" type="effect" />
+            <Action time="0" type="translationZ" power="4" duration="2000" from="-100" to="0" />
+            <Action time="0" type="cameraShake" power="2" duration="2000" speed="1000" />
+            <Action time="5000" type="dialog" textId="101" />
+            <Action time="8000" type="dialog" textId="102" />
+            <Action time="10000" type="dialog" textId="103" />
+            <Action time="13000" type="dialog" textId="104" />
+            <Action time="16000" type="dialog" textId="105" />
+            <Action time="6000" type="animation" animName="talk" blendInTime="0.2">
+                <Action time="0" type="animation" animName="idle2" blendInTime="0.2">
+                    <Action time="0" type="animation" animName="idle2" blendInTime="0.2">
+                        <Action time="0" type="animation" animName="idle2" blendInTime="0.2">
+                            <Action time="0" type="animation" animName="idle2" blendInTime="0.2">
+                                <Action time="0" type="animation" animName="idle2" blendInTime="0.2">
+                                    <Action time="0" type="animation" animName="idle2" blendInTime="0.2" />
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+        <InitState visible="false" />
+    </Script>
+    <Script id="141150011" playingTime="32500">
+        <Action type="defaultAnim" moveAnim="run" waitAnim="idle1">
+            <Action type="dialog" textId="101">
+                <Action type="move" pos="84714,-7080,473" speed="80">
+                    <Action time="2000" type="animation" animName="greet" duration="3000" rate="1" blendInTime="0.4" />
+                    <Action time="3000" effectId="200023" type="effect" duration="2000" />
+                    <Action time="4000" type="animation" animName="defenceHit" duration="2000" rate="0.5" blendInTime="0.4" />
+                    <Action time="7000" type="animation" animName="hammer" duration="2000" rate="1" blendInTime="0.4" />
+                    <Action time="8500" type="animation" animName="hammer" duration="2000" rate="1" blendInTime="0.4" />
+                    <Action time="10000" type="animation" animName="hammer" duration="2000" rate="1" blendInTime="0.4" />
+                    <Action time="11500" type="animation" animName="hammer" duration="2000" rate="1" blendInTime="0.4" />
+                    <Action time="13000" type="dialog" textId="104" />
+                    <Action time="16000" effectId="200005" type="effect" duration="4000" rate="1" />
+                    <Action time="20000" type="rotateToUser" duration="2000" />
+                    <Action time="22000" type="dialog" textId="106" />
+                    <Action time="23000" type="animation" animName="Give" duration="4000" />
+                    <Action time="27000" type="moveToInitPos" speed="80" />
+                    <Action time="32000" type="rotateToInitDir" duration="500" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="147110041" playingTime="10000">
+        <Action type="translationZ" power="4" duration="12000" from="0" to="80" />
+        <Action time="1000" type="visible" visibility="false" />
+        <Action time="1500" type="visible" visibility="true" />
+        <Action time="2000" type="visible" visibility="false" />
+        <Action time="2400" type="visible" visibility="true" />
+        <Action time="2800" type="visible" visibility="false" />
+        <Action time="3200" type="visible" visibility="true" />
+        <Action time="3600" type="visible" visibility="false" />
+        <Action time="3900" type="visible" visibility="true" />
+        <Action time="4200" type="visible" visibility="false" />
+        <Action time="4500" type="visible" visibility="true" />
+        <Action time="4800" type="visible" visibility="false" />
+        <Action time="5000" type="visible" visibility="true" />
+        <Action time="5200" type="visible" visibility="false" />
+        <Action time="5400" type="visible" visibility="true" />
+        <Action time="5600" type="visible" visibility="false" />
+        <Action time="5800" type="visible" visibility="true" />
+        <Action time="6000" type="visible" visibility="false" />
+        <Action time="6100" type="visible" visibility="true" />
+        <Action time="6200" type="visible" visibility="false" />
+        <Action time="6300" type="visible" visibility="true" />
+        <Action time="6400" type="visible" visibility="false" />
+        <Action time="6500" type="visible" visibility="true" />
+        <Action time="6600" type="visible" visibility="false" />
+        <Action time="6700" type="visible" visibility="true" />
+        <Action time="6800" type="visible" visibility="false" />
+        <Action time="6900" type="visible" visibility="true" />
+        <Action time="7000" type="visible" visibility="false" />
+        <Action time="7100" type="visible" visibility="true" />
+        <Action time="7200" type="visible" visibility="false" />
+        <InitState visible="true" translate="0" />
+    </Script>
+    <Script id="147110061" playingTime="10000">
+        <Action type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action type="dialog" textId="101" />
+        <Action time="1000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1006" toTemplateId="12" />
+        <Action time="2000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="3000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1006" toTemplateId="12" />
+        <Action time="4000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="5000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1006" toTemplateId="12" />
+        <Action time="6000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="7000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1006" toTemplateId="12" />
+        <Action time="8000" type="animation" animName="swimDeathWait" blendInTime="0.2" />
+        <Action time="9000" effectId="10001" type="magnetic" huntingZoneId="471" fromTemplateId="1006" toTemplateId="12" />
+    </Script>
+    <Script id="147310181" playingTime="14000">
+        <Action type="defaultAnim" moveAnim="walk1" waitAnim="UnarmedWait">
+            <Action time="1000" type="dialog" textId="101">
+                <Action time="2000" type="dialog" textId="102">
+                    <Action type="animation" animName="UnarmedWait">
+                        <Action type="move" pos="63249, 88183, 6215" speed="60">
+                            <Action type="move" pos="63108, 88019, 6214" speed="60">
+                                <Action type="move" pos="62768, 88163, 6227" speed="60">
+                                    <Action type="move" pos="62127, 88172, 6227" speed="60">
+                                        <Action type="dialog" textId="103">
+                                            <Action effectId="50299" type="effect" />
+                                            <Action type="visible" visibility="false" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="147610191" playingTime="6000">
+        <Action type="defaultAnim" waitAnim="UnarmedWait">
+            <Action time="2000" type="dialog" textId="102">
+                <Action time="3000" type="ActionScript" templateId="1020" huntingZoneId="476" scriptId="147610202">
+                    <Action time="2000" effectId="10000004" type="effect" />
+                    <Action time="4000" type="visible" visibility="false" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="147610201" playingTime="160000">
+        <Action type="defaultAnim" waitAnim="bReactionDown2">
+            <Action time="4000" type="dialog" textId="101" />
+        </Action>
+    </Script>
+    <Script id="147610202" playingTime="6000">
+        <Action type="defaultAnim" waitAnim="bReactionDown2">
+            <Action time="3000" effectId="50299" type="effect" />
+            <Action time="4000" type="visible" visibility="false" />
+            <Action time="4000" type="instantMove" pos="70998,156933,3531" dir="10000" />
+        </Action>
+    </Script>
+    <Script id="147610211" playingTime="10000">
+        <Action type="translationZ" power="4" duration="10000" from="0" to="-40" />
+        <Action effectId="10000001" type="effect" />
+        <Action type="visible" visibility="false" />
+    </Script>
+    <Script id="148910071" playingTime="10000">
+        <Action type="SystemMessage" message="@dungeon:9089108" style="SMS_CHAT_INFO_QUEST" />
+        <Action time="1000" type="scale" scale="2" power="5" duration="5000">
+            <Action effectId="10000004" type="effect" />
+            <Action type="visible" visibility="false" />
+            <Action type="actionScript" templateId="3707" huntingZoneId="489" scriptId="148937072" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="148910072" playingTime="10000">
+        <Action type="SystemMessage" message="@dungeon:9089108" style="SMS_CHAT_INFO_QUEST" />
+        <Action time="1000" type="scale" scale="2" power="5" duration="5000">
+            <Action effectId="10000004" type="effect" />
+            <Action type="visible" visibility="false" />
+            <Action type="actionScript" templateId="3707" huntingZoneId="889" scriptId="148937072" />
+        </Action>
+        <InitState visible="true" />
+    </Script>
+    <Script id="148937071" playingTime="5000">
+        <InitState visible="false" />
+    </Script>
+    <Script id="148937072" playingTime="1000">
+        <InitState visible="true" />
+    </Script>
+    <Script id="149411131" playingTime="10000">
+        <Action time="0" type="cameraShake" power="1" duration="4500" speed="1000" />
+        <Action time="0" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="500" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="1000" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="1500" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="2000" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="2500" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="3000" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="3500" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="4000" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+        <Action time="4500" effectId="90001" type="MagneticToPlayer" huntingZoneId="494" fromTemplateId="1113" />
+    </Script>
+    <Script id="151810011" playingTime="10000">
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="151850171" playingTime="100000">
+        <Action time="1" type="ActionScript" templateId="5027" huntingZoneId="528" scriptId="151850172" />
+        <Action time="1" type="ActionScript" templateId="5005" huntingZoneId="528" scriptId="151850173" />
+    </Script>
+    <Script id="151850172" playingTime="100000">
+        <Action time="1" type="defaultAnim" moveAnim="run" waitAnim="Wait" />
+        <Action time="1" type="move" pos="24422, -161566, 296" speed="130" />
+        <Action time="1" type="dialog" textId="101" />
+        <Action time="1000" type="dialog" textId="101" />
+        <Action time="4999" type="defaultAnim" moveAnim="walk" waitAnim="unarmedwait" />
+        <Action time="5000" type="move" pos="24412, -161438, 296" speed="90" />
+        <Action time="5000" type="dialog" textId="102" />
+        <Action time="9000" type="dialog" textId="103" />
+        <Action time="13000" type="dialog" textId="104" />
+    </Script>
+    <Script id="151850173" playingTime="100000">
+        <Action time="5000" type="rotate" duration="500" dir="-13000" />
+        <Action time="7000" type="dialog" textId="101" />
+        <Action time="11000" type="dialog" textId="102" />
+    </Script>
+    <Script id="182000001" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2410" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2409" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2510" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2509" huntingZoneId="182" scriptId="822000008" />
+    </Script>
+    <Script id="182000010" playingTime="12000">
+        <Action time="1000" type="ActionScript" templateId="2010" huntingZoneId="182" scriptId="182000011" />
+        <Action time="1000" type="ActionScript" templateId="2009" huntingZoneId="182" scriptId="182000012" />
+    </Script>
+    <Script id="182000011" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="1000" type="dialog" showChat="false" textId="102" />
+        <Action time="1000" type="move" pos="4093,-13762,1564" speed="160">
+            <Action time="0" type="move" pos="4540,-13955,1575" speed="160">
+                <Action time="0" type="move" pos="4780,-14243,1569" speed="160">
+                    <Action time="0" type="move" pos="5162,-14327,1549" speed="160">
+                        <Action time="0" type="move" pos="5203,-14306,1540" speed="160" />
+                        <Action time="0" type="dialog" showChat="false" textId="101" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000012" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="1500" type="dialog" showChat="false" textId="101" />
+        <Action time="1500" type="move" pos="4048,-13806,1565" speed="150">
+            <Action time="0" type="move" pos="4518,-13918,1574" speed="150">
+                <Action time="0" type="move" pos="4891,-14344,1568" speed="150">
+                    <Action time="0" type="move" pos="5152,-14377,1551" speed="150">
+                        <Action time="0" type="move" pos="5201,-14367,1541" speed="150" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000020" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2009" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2010" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2409" huntingZoneId="182" scriptId="822000009" />
+        <Action time="0" type="ActionScript" templateId="2410" huntingZoneId="182" scriptId="822000009" />
+        <Action time="1000" type="ActionScript" templateId="2410" huntingZoneId="182" scriptId="182000021" />
+        <Action time="1000" type="ActionScript" templateId="2409" huntingZoneId="182" scriptId="182000022" />
+    </Script>
+    <Script id="182000021" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="5203,-14306,1540" />
+        <Action time="1000" type="dialog" showChat="false" textId="101" />
+        <Action time="1000" type="move" pos="5401,-14994,1549" speed="160">
+            <Action time="0" type="move" pos="6034,-15853,1579" speed="160">
+                <Action time="0" type="move" pos="6111,-16071,1607" speed="160" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000022" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="5201,-14367,1541" />
+        <Action time="1500" type="move" pos="5319,-14990,1556" speed="150">
+            <Action time="0" type="move" pos="5829,-15594,1563" speed="150">
+                <Action time="0" type="move" pos="6139,-16058,1603" speed="150" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000030" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2409" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2410" huntingZoneId="182" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2509" huntingZoneId="182" scriptId="822000009" />
+        <Action time="0" type="ActionScript" templateId="2510" huntingZoneId="182" scriptId="822000009" />
+        <Action time="1000" type="ActionScript" templateId="2510" huntingZoneId="182" scriptId="182000031" />
+        <Action time="1000" type="ActionScript" templateId="2509" huntingZoneId="182" scriptId="182000032" />
+    </Script>
+    <Script id="182000031" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="6111,-16071,1607" dir="-80000" />
+        <Action time="1000" type="move" pos="7386,-16845,1833" speed="160">
+            <Action time="0" type="move" pos="7557,-17217,1923" speed="160">
+                <Action time="0" type="move" pos="7569,-17804,2018" speed="160">
+                    <Action time="0" type="dialog" showChat="false" textId="101" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000032" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="6139,-16058,1603" dir="-80000" />
+        <Action time="1500" type="move" pos="7389,-16820,1830" speed="150">
+            <Action time="0" type="move" pos="7574,-17157,1915" speed="150">
+                <Action time="0" type="move" pos="7523,-17789,2018" speed="150">
+                    <Action time="0" type="dialog" showChat="false" textId="101" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000040" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2510" huntingZoneId="182" scriptId="182000041" />
+        <Action time="0" type="ActionScript" templateId="2509" huntingZoneId="182" scriptId="182000042" />
+    </Script>
+    <Script id="182000041" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="7576,-17754,2020" dir="-50000" />
+        <Action time="0" type="move" pos="7568,-17963,2014" speed="160">
+            <Action time="0" type="dialog" showChat="false" textId="102" />
+            <Action time="2500" type="dialog" showChat="false" textId="103" />
+            <Action time="3500" type="move" pos="7571,-17080,1903" speed="160">
+                <Action time="0" type="move" pos="7254,-16717,1766" speed="160">
+                    <Action type="defaultAnim" moveAnim="Walk" />
+                    <Action time="0" type="move" pos="7021,-16582,1663" speed="70" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182000042" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="0" type="instantMove" pos="7523,-17789,2018" dir="-50000" />
+        <Action time="0" type="dialog" showChat="false" textId="102" />
+        <Action time="0" type="move" pos="7519,-17963,2014" speed="150">
+            <Action time="4500" type="move" pos="7525,-17140,1909" speed="150">
+                <Action time="0" type="move" pos="7299,-16861,1810" speed="150">
+                    <Action type="defaultAnim" moveAnim="Walk" />
+                    <Action time="0" type="move" pos="6991,-16663,1668" speed="70" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="182020051" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="Walk" />
+        <Action time="0" type="move" pos="7543,-17976,2039" duration="1000" speed="60">
+            <Action time="0" type="rotate" duration="100" dir="-50000" />
+            <Action time="1000" type="dialog" showChat="false" textId="101" />
+            <Action time="4900" type="animation" animName="bReactionStart2" />
+            <Action time="4900" type="defaultAnim" waitAnim="bReactionDown2" />
+            <Action time="5000" type="instantMove" pos="7543,-17976,1350" dir="-50000" />
+            <Action time="5000" type="translationZ" power="2" duration="1400" from="605" to="0" />
+            <Action time="5385" type="instantMove" pos="7542,-18109,1348" dir="-50000" />
+            <Action time="8000" effectId="10000004" type="effect">
+                <Action time="0" type="visible" visibility="false" />
+            </Action>
+        </Action>
+        <Action time="6000" type="ActionScript" templateId="2510" huntingZoneId="182" scriptId="182000041" />
+        <Action time="6500" type="ActionScript" templateId="2509" huntingZoneId="182" scriptId="182000042" />
+    </Script>
+    <Script id="182020151" playingTime="10000">
+        <Action time="1000" effectId="10000002" type="effect" />
+        <Action time="1000" type="animation" animName="stun" />
+    </Script>
+    <Script id="182020321" playingTime="45000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="800" type="dialog" showChat="false" textId="101" />
+        <Action time="1000" type="move" pos="12603,-18801,615" speed="350">
+            <Action time="0" type="move" pos="13425,-19933,870" speed="350">
+                <Action time="0" type="move" pos="13227,-20925,917" speed="350">
+                    <Action time="0" type="move" pos="11724,-21419,1106" speed="350">
+                        <Action time="0" type="move" pos="11691,-21437,1106" speed="350" />
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="188937071" playingTime="5000">
+        <InitState visible="false" />
+    </Script>
+    <Script id="230010811">
+        <Action type="defaultAnim" moveAnim="walk" waitAnim="Wait" />
+        <Action time="100" type="rotate" duration="100" dir="19994" />
+        <Action time="1000" type="move" pos="-11034.28,67088.58,557.48" speed="80" />
+        <Action time="3000" type="dialog" textId="101" />
+        <Action time="4000" type="dialog" textId="102" />
+        <Action time="4000" type="animation" animName="healStart" />
+        <Action time="5033" type="animation" animName="mpChargeStart" />
+        <Action time="5066" type="animation" animName="purify" />
+        <Action time="6599" effectId="200011" type="effect" />
+        <Action time="8132" type="visible" visibility="false" />
+    </Script>
+    <Script id="230010812" playingTime="9000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait">
+            <Action type="move" pos="-9566.0010,64911.0352,482.5511" speed="100">
+                <Action type="dialog" textId="103">
+                    <Action type="visible" visibility="false" />
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="230010813">
+        <Action time="0" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="0" type="move" pos="-11034.28,67088.58,557.48" speed="200" />
+        <Action time="1000" type="defaultAnim" moveAnim="walk" waitAnim="Wait" />
+        <Action time="1500" effectId="200011" type="effect" />
+        <Action time="2000" type="visible" visibility="true" />
+        <Action time="3000" type="move" pos="-10967.9229,66881.8047,567.7363" speed="100" />
+    </Script>
+    <Script id="230010821">
+        <Action type="defaultAnim" moveAnim="walk" waitAnim="Wait" />
+        <Action time="100" type="rotate" duration="100" dir="19994" />
+        <Action time="1000" type="move" pos="-4534.1133,88309.8438,-1358.8176" speed="80" />
+        <Action time="2000" type="dialog" textId="101" />
+        <Action time="3000" type="dialog" textId="102" />
+        <Action time="3000" type="animation" animName="healStart" />
+        <Action time="4033" type="animation" animName="mpChargeStart" />
+        <Action time="4066" type="animation" animName="purify" />
+        <Action time="5599" effectId="200011" type="effect" />
+        <Action time="7132" type="visible" visibility="false" />
+    </Script>
+    <Script id="230010822" playingTime="9000">
+        <Action time="0" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="1000" type="move" pos="-4605.5815,88227.0469,-1361.3062" speed="100" />
+        <Action time="3000" type="dialog" textId="103" />
+        <Action time="5000" type="move" pos="-4487.3071,88124.4141,-1361.3124" speed="100" />
+        <Action time="7000" type="move" pos="-4396.2241,88155.4844,-1361.3408" speed="100" />
+        <Action time="9000" type="move" pos="-3625.5796,87346.4688,-1360.3623" speed="100" />
+        <Action time="9000" type="visible" visibility="false" />
+    </Script>
+    <Script id="230010823">
+        <Action time="0" type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="0" type="visible" visibility="false" />
+        <Action time="0" type="move" pos="-4534.1133,88309.8438,-1358.8176" speed="200" />
+        <Action time="1000" type="defaultAnim" moveAnim="walk" waitAnim="Wait" />
+        <Action time="1500" effectId="200011" type="effect" />
+        <Action time="2000" type="visible" visibility="true" />
+        <Action time="3000" type="move" pos="-4576.1289,88350.8047,-1361.2838" speed="100" />
+    </Script>
+    <Script id="236101001" playingTime="3000">
+        <Action type="dialog" textId="101" />
+    </Script>
+    <Script id="238101401" playingTime="8000">
+        <Action type="move" pos="-84260, 15547, 1410" speed="120">
+            <Action type="actionScript" templateId="1032" huntingZoneId="238" scriptId="238103202" />
+        </Action>
+    </Script>
+    <Script id="418200201" playingTime="100000">
+        <Action time="0" type="dialog" textId="101" />
+        <Action time="2000" type="move" pos="34011, 60448, 190" speed="100" />
+        <Action time="3000" type="animation" animName="charge" rate="1" />
+        <Action time="5000" type="ActionScript" templateId="3001" huntingZoneId="418" scriptId="418300101" />
+        <Action time="8366" type="dialog" textId="102" />
+    </Script>
+    <Script id="418300001" playingTime="100000">
+        <Action time="1000" type="translationZ" power="2" duration="3000" from="0" to="-600" />
+        <Action time="1000" type="cameraShake" power="3" duration="3000" speed="1000" />
+    </Script>
+    <Script id="418300101" playingTime="100000">
+        <Action time="0" type="animation" animName="opening" rate="1" />
+    </Script>
+    <Script id="418300102" playingTime="100000">
+        <Action time="0" type="ActionScript" templateId="2002" huntingZoneId="418" scriptId="418200201" />
+    </Script>
+    <Script id="425100052" playingTime="3000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="1000" effectId="200012" type="effect" />
+        <Action time="1000" type="animation" animName="Auraon" />
+        <Action time="2533" type="animation" animName="magicShot" />
+        <Action time="3566" effectId="200041" type="effect" />
+    </Script>
+    <Script id="425100091" playingTime="6000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="500" type="actionScript" templateId="10010" huntingZoneId="425" scriptId="425100101" />
+        <Action time="3500" effectId="70002" type="MagneticToPlayer" huntingZoneId="425" fromTemplateId="10005" />
+        <Action time="3500" type="visible" visibility="false" />
+    </Script>
+    <Script id="425100101" playingTime="3000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action time="0" effectId="70001" type="effect" />
+        <Action time="0" type="move" pos="12792.6572,69250.4453,-6309.0234" speed="100" />
+        <Action time="0" type="scale" scale="0.2" power="5" duration="3000" />
+        <Action time="3000" type="visible" visibility="false" />
+    </Script>
+    <Script id="720011119" playingTime="500">
+        <Action type="dialog" textId="103" />
+    </Script>
+    <Script id="720011120" playingTime="500">
+        <Action type="dialog" textId="104" />
+    </Script>
+    <Script id="720011121" playingTime="500">
+        <Action type="dialog" textId="105" />
+    </Script>
+    <Script id="720011122" playingTime="500">
+        <Action type="dialog" textId="106" />
+    </Script>
+    <Script id="720011123" playingTime="5000">
+        <Action time="3000" type="actionScript" templateId="1446" huntingZoneId="72" scriptId="720014463">
+            <Action time="2000" type="dialog" textId="107">
+                <Action time="4000" type="dialog" textId="108" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="720014461" playingTime="5500">
+        <Action type="rotate" duration="500" dir="-2693">
+            <Action time="500" type="dialog" textId="101">
+                <Action time="1500" type="actionScript" templateId="1111" huntingZoneId="72" scriptId="720011119">
+                    <Action time="2000" type="dialog" textId="102">
+                        <Action time="2500" type="actionScript" templateId="1111" huntingZoneId="72" scriptId="720011120">
+                            <Action time="3000" type="dialog" textId="103">
+                                <Action time="3500" type="actionScript" templateId="1111" huntingZoneId="72" scriptId="720011121">
+                                    <Action time="4000" type="actionScript" templateId="1111" huntingZoneId="72" scriptId="720011122">
+                                        <Action time="4500" type="dialog" textId="104">
+                                            <Action type="rotateToUser" duration="100" />
+                                        </Action>
+                                    </Action>
+                                </Action>
+                            </Action>
+                        </Action>
+                    </Action>
+                </Action>
+            </Action>
+        </Action>
+    </Script>
+    <Script id="720014462" playingTime="5000">
+        <Action type="defaultAnim" moveAnim="unarmedrun" waitAnim="Wait" />
+        <Action type="move" pos="1521,-9393,6849" duration="3000" speed="100" />
+        <Action type="dialog" textId="105" />
+        <Action time="1000" type="actionScript" templateId="1111" huntingZoneId="72" scriptId="720011123" />
+    </Script>
+    <Script id="720014463" playingTime="5000">
+        <InitState visible="false" />
+    </Script>
+    <Script id="822000001" playingTime="12000">
+        <Action type="instantMove" pos="-40428,-146984,-546" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40826,-147890,-550" speed="150">
+            <Action type="defaultAnim" moveAnim="run" />
+            <Action time="0" type="moveToInitPos" speed="150" />
+        </Action>
+    </Script>
+    <Script id="822000002" playingTime="12000">
+        <Action type="instantMove" pos="-40368,-147014,-542" dir="-10000" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40701,-147800,-551" speed="120">
+            <Action type="defaultAnim" moveAnim="run" />
+            <Action time="0" type="moveToInitPos" speed="120" />
+        </Action>
+    </Script>
+    <Script id="822000003" playingTime="12000">
+        <Action type="instantMove" pos="-40430,-147094,-547" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40727,-147814,-553" speed="150">
+            <Action type="defaultAnim" moveAnim="run" />
+            <Action time="0" type="moveToInitPos" speed="150" />
+        </Action>
+    </Script>
+    <Script id="822000004" playingTime="12000">
+        <Action type="instantMove" pos="-40396,-147092,-545" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40800,-147885,-551" speed="120">
+            <Action type="defaultAnim" moveAnim="run" />
+            <Action time="0" type="moveToInitPos" speed="150" />
+        </Action>
+    </Script>
+    <Script id="822000005" playingTime="12000">
+        <Action type="instantMove" pos="-40408,-146989,-544" />
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40788,-147910,-552" speed="50">
+            <Action type="defaultAnim" moveAnim="run" />
+            <Action time="0" type="moveToInitPos" speed="90" />
+        </Action>
+    </Script>
+    <Script id="822000006" playingTime="1000">
+        <Action type="rotate" duration="0" dir="-52000" />
+    </Script>
+    <Script id="822000007" playingTime="1000">
+        <Action type="rotate" duration="1000" dir="50000" />
+    </Script>
+    <Script id="822000008" playingTime="12000">
+        <Action time="0" type="visible" visibility="false" />
+    </Script>
+    <Script id="822000009" playingTime="12000">
+        <Action time="0" type="visible" visibility="true" />
+    </Script>
+    <Script id="822000010" playingTime="12000">
+        <Action time="0" type="ActionScript" templateId="2002" huntingZoneId="822" scriptId="822000008" />
+        <Action time="0" type="ActionScript" templateId="2012" huntingZoneId="822" scriptId="822000009" />
+    </Script>
+    <Script id="822000011" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="dialog" textId="102" />
+        <Action time="0" type="move" pos="-40712,-147729,-550" speed="120">
+            <Action time="0" type="move" pos="-40414,-147014,-546" speed="120" dir="-10000">
+                <Action time="1000" effectId="10000004" type="effect" />
+                <Action time="1000" type="visible" visibility="false" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="822000012" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="dialog" textId="102" />
+        <Action time="0" type="move" pos="-40765,-147834,-551" speed="120">
+            <Action time="0" type="move" pos="-40387,-147048,-545" speed="120">
+                <Action time="1000" effectId="10000004" type="effect" />
+                <Action time="1000" type="visible" visibility="false" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="822000013" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40752,-147914,-553" speed="180">
+            <Action time="0" type="move" pos="-40432,-147040,-546" speed="120">
+                <Action time="0" type="rotate" duration="0" dir="-48000" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="822000014" playingTime="12000">
+        <Action type="defaultAnim" moveAnim="run" />
+        <Action time="0" type="move" pos="-40762,-147841,-552" speed="150">
+            <Action time="0" type="move" pos="-40477,-147011,-548" speed="150">
+                <Action time="0" type="rotate" duration="0" dir="-340" />
+            </Action>
+        </Action>
+    </Script>
+    <Script id="822020052" playingTime="12000">
+        <Action time="0" type="rotate" duration="0" dir="29000" />
+        <Action time="100" type="animation" animName="bReactionStart2">
+            <Action time="0" type="animation" animName="bReactionCom2">
+                <Action time="0" type="animation" animName="Groggy1" blendInTime="0.7">
+                    <Action time="800" type="rotate" duration="0" dir="-170" />
+                </Action>
+            </Action>
+        </Action>
+        <Action time="101" type="dialog" textId="101" />
+        <Action time="1600" type="instantMove" pos="-40906.5,-147957,-551" dir="-36000" />
+    </Script>
+    <Script id="822020053" playingTime="2000">
+        <Action time="0" type="rotate" duration="0" dir="-29000" />
+        <Action time="0" type="animation" animName="sReaction">
+            <Action time="800" type="rotate" duration="0" dir="5" />
+        </Action>
+        <Action time="0" type="dialog" textId="101" />
+    </Script>
+    <Script id="822020071" playingTime="12000">
+        <Action type="animation" animName="blastBallStart" blendInTime="0.3">
+            <Action type="animation" animName="blastBallLoop" blendInTime="0.3">
+                <Action type="animation" animName="blastBallShot" rate="1.3" blendInTime="0.3" />
+            </Action>
+        </Action>
+        <Action time="950" effectId="1005" type="effect" />
+    </Script>
+    <Script id="822020072" playingTime="20000">
+        <Action type="defaultAnim" moveAnim="Run" />
+        <Action time="2000" type="move" pos="-40748,-147906,-553" speed="150">
+            <Action time="0" type="move" pos="-40394,-146989,-543" speed="150">
+                <Action time="0" type="visible" visibility="false" />
+            </Action>
+        </Action>
+        <Action time="5200" type="ActionScript" templateId="2006" huntingZoneId="822" scriptId="822020053" />
+        <Action time="5200" type="ActionScript" templateId="2005" huntingZoneId="822" scriptId="822020052" />
+        <Action time="7000" type="ActionScript" templateId="2006" huntingZoneId="822" scriptId="822000012" />
+        <Action time="9000" type="ActionScript" templateId="2005" huntingZoneId="822" scriptId="822000011" />
+    </Script>
+    <Script id="822020073" playingTime="12000">
+        <Action type="defaultAnim" waitAnim="DyingWait" />
+        <Action time="0" effectId="13112983" type="effect" />
+        <Action time="2000" effectId="7052" type="effect" />
+        <Action time="3200" effectId="13112983" type="removeEffect" />
+    </Script>
+</S1ActionScripts>

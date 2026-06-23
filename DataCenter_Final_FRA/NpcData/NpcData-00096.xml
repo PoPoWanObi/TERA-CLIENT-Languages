@@ -1,0 +1,22 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="127" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="101" scale="1.1" shapeId="300813" gender="male" race="Basilisk" resourceSize="100" resourceType="large" size="large" parentId="30081200" basicActionId="3008100" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="false">
+        <AltAnimation />
+        <NamePlate nameplateHeight="90" />
+        <Stat level="60" maxHp="12157816" />
+    </Template>
+    <Template id="102" scale="1.5" shapeId="302170" gender="male" race="monster" resourceSize="100" resourceType="large" size="large" parentId="30217000" basicActionId="3021700" elite="true" isFreeNamed="false" isObjectNpc="false" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+        <AltAnimation>
+            <AltAnim type="Run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <NamePlate nameplateHeight="10" deathNameplateHeight="2" />
+        <Stat level="65" maxHp="19553538" />
+    </Template>
+    <Template id="501" scale="1.7" shapeId="611450" gender="male" race="NPC_T4_Battle_Door" resourceSize="100" resourceType="medium" size="medium" parentId="61145000" basicActionId="6114500" elite="false" isFreeNamed="false" isObjectNpc="true" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="false">
+        <AltAnimation />
+        <Stat level="26" maxHp="13038" />
+    </Template>
+    <Template id="1501" scale="1.25" shapeId="600920" gender="" race="" resourceSize="100" resourceType="medium" class="" size="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="false" dontTurn="true" elite="false" isFreeNamed="false" isObjectNpc="true" isWideBroadcaster="false" showAggroTarget="false" showShorttermTarget="false" spawnScriptId="0" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Stat level="40" maxHp="10000" />
+    </Template>
+</NpcData>

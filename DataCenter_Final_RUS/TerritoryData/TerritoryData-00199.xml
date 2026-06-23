@@ -1,0 +1,49 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="477" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="47700001" desc="중형 3마리">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="36212.8477,-198100.6406,3970.4043" />
+                <Fence pos="36229.3906,-199068.0000,4070.7539" />
+                <Fence pos="37710.3750,-199100.1875,4106.8984" />
+                <Fence pos="37408.2109,-198125.3594,4176.8008" />
+                <Npc dir="-165" npcTemplateId="5001">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="36952.5117,-196415.6875,4022.5352" />
+                <Fence pos="36889.4531,-195118.2500,4099.7891" />
+                <Fence pos="35853.5000,-195353.9375,3968.3594" />
+                <Fence pos="35935.9727,-196457.2500,3989.1545" />
+                <Npc dir="134" npcTemplateId="5002">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+            <Territory>
+                <Fence pos="37005.6211,-197547.2031,4056.0215" />
+                <Fence pos="38068.6836,-198170.7813,3721.8984" />
+                <Fence pos="37898.9961,-196410.4844,4281.8691" />
+                <Npc dir="136" npcTemplateId="5003">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="47700002" desc="카우 캠프">
+        <TerritoryList>
+            <Territory>
+                <Fence pos="18255.6074,-171707.0625,1534.5239" />
+                <Fence pos="18651.2598,-171002.6875,1439.4402" />
+                <Fence pos="18309.1641,-170482.7344,1418.9087" />
+                <Fence pos="17569.7832,-170583.9844,1489.0347" />
+                <Fence pos="17357.0371,-171476.5625,1571.8457" />
+                <Npc dir="-2" npcTemplateId="1001">
+                    <PatrolList />
+                </Npc>
+                <Npc dir="21" npcTemplateId="1400">
+                    <PatrolList />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

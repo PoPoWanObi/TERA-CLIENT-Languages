@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="0">Ihr wart auf der Gemeinschaftsranch der Freien Bruderschaft und habt dort gelernt, wie man an Fleischprodukte kommt und wie man Ferkelrodeo spielt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="4">He, &lt;PCNAME&gt;, seid Ihr Anhänger der Gaumenfreude? Müsst Ihr wohl, wenn Ihr  den langen Weg zum Himmelslotus nicht gescheut habt.&lt;BR&gt;&lt;BR&gt;Ihr solltet dort hinunter zur Ranch gehen. Die haben dort die frischesten Zutaten für die besten Rezepte.&lt;BR&gt;&lt;BR&gt;Sucht nach Karadus. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Willkommen!. Ihr seid wegen des Farmerfestivals hier, stimmt's?&lt;BR&gt;&lt;BR&gt;Dies ist eine Gemeinschaftsranch, die von allen in den Freilanden gemeinsam bewirtschaftet wird und uns allen gehört. Wir kümmern uns um das Vieh und überlassen Lein und seiner Familie das Gemüse.&lt;BR&gt;&lt;BR&gt;Kennt Ihr Tagun schon? Er ist Schäfer. Schläft zwar dauernd ein, aber er hat ein gutes Herz und weiß einfach alles über Lammfleisch. Wenn Ihr für ein Rezept das beste Lamm wollt, dann wendet Euch an ihn.&lt;NEXTPAGEBUTTON&gt;"Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7002">
+        <Page social="4">Ich sucht gutes Lamm?&lt;BR&gt;&lt;BR&gt;Ähm ... ich auch. Hab nur kurz die Augen zugemacht, und da waren sie schon fortgelaufen. Helft mir, die Schafe wieder zusammenzutreiben, und Ihr bekommt erstklassiges Lammfleisch dafür. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="702" villagerId="4">
+        <Page social="0">Mää-äh! Määää-äh!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="4" villagerId="7002">
+        <Page social="4">Ihr wollt nicht zufällig den Beruf wechseln, &lt;PCNAME&gt;? Ihr wärt ein großartiger Schäfer.&lt;BR&gt;&lt;BR&gt;Na, Ihr müsst Euch nicht sofort entscheiden. Hier ist das versprochene Lammfleisch. &lt;NEXTPAGEBUTTON&gt;"Was kann ich noch bekommen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sucht Filton in seiner Meierei auf, dort bekommt Ihr Rindfleisch und Milch.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="6" villagerId="7003">
+        <Page social="4">Willkommen, mein Freund. Euch habe ich hier noch nie gesehen. Seid Ihr Hilfskoch? Oder besucht Ihr nur das Farmerfestival?&lt;BR&gt;&lt;BR&gt;Nun, die Schlachtzeit ist schon vorbei, aber ich habe viel frische Milch für Euch.&lt;BR&gt;&lt;BR&gt;Obwohl bei all den Hyänen hier in der Gegend eigentlich immer Schlachtzeit ist ... Könnt Ihr sie vielleicht für mich verjagen? &lt;NEXTPAGEBUTTON&gt;"Ich denke schon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="7" villagerId="7003">
+        <Page social="4">Das ging ja schnell!&lt;BR&gt;&lt;BR&gt;Dafür scheint mir gewöhnliche Milch keine ausreichende Belohnung zu sein. Ich nehme an, Ihr sucht nach Zutaten für Rezepte? Dann ist Trichi Euer Mann. Er hilft Euch mit den außergewöhnlichen Zutaten, die Ihr braucht. &lt;NEXTPAGEBUTTON&gt;"Danke."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="7004">
+        <Page social="4">Filton hat Euch geschickt, was?&lt;BR&gt;&lt;BR&gt;Habt Ihr schon einmal Struthioeier probiert? Viel besser als Hühnereier!&lt;BR&gt;&lt;BR&gt;Nehmt Euch so viele Ihr wollt, aber bringt eines davon für mich zu Tippani. Sie hatte mich darum gebeten, aber ich bin noch nicht dazu gekommen. Danke im Voraus! &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="7005">
+        <Page social="4">Trichi! Du bist spät dran, das gefällt mir nicht!&lt;BR&gt;&lt;BR&gt;Moment ... Ihr seid gar nicht Trichi! Wo ist Trichi?&lt;BR&gt;&lt;BR&gt;Nein, wartet. Was ich eigentlich sagen wollte: Willkommen beim Ferkelrodeo! Wollt Ihr es einmal versuchen? &lt;NEXTPAGEBUTTON&gt;"Ich soll hier nur dieses Ei abgeben."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oho! Trichi hat also Euch mit dem Ei geschickt! Das ist nett von ihm. Sagt ihm von mir danke.&lt;BR&gt;&lt;BR&gt;Halt, geht noch nicht! Ihr müsst erst das Ferkelrodeo probieren! Als Preis gibt es köstliches Ferkelfleisch, das beste weit und breit! Wollt Ihr es ganz sicher nicht versuchen?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Wie spielt man das?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Habe ich Euch doch locken können! Also, das macht doppelt so viel Spaß wie das lahme Ballentreten, das kann ich Euch versichern!&lt;BR&gt;&lt;BR&gt;Wenn Ihr die Ferkel im Zaum halten könnt, bis die Zeit um ist, habt Ihr gewonnen! Schleudert einfach Geisterfeuer nach ihnen, und sie werden Euch folgen. Aber gebt acht auf den Schweinehirtenbot! Der will Euch die Ferkel stehlen.&lt;BR&gt;&lt;BR&gt;Versucht es einmal; Ihr werdet den Dreh schon rausbekommen!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" villagerId="7005">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="219" prevId="10" villagerId="7005">
+        <Page social="4">Nicht schlecht, gar nicht schlecht. Hier Euer Gewinn: Ferkelfleisch! Das beste in den ganzen Freilanden! &lt;NEXTPAGEBUTTON&gt;"Wie bereitet man es zu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Melsa auf Leins Farm ist berühmt für ihre guten Ferkelrezepte.&lt;BR&gt;&lt;BR&gt;Ich weiß, wie man Ferkelfleisch räuchert, aber Melsa kann es von uns allen am besten zubereiten. Richtet ihr das von mir aus, dann teilt sie vielleicht eins ihrer Rezepte mit Euch.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="219" prevId="12" villagerId="7000">
+        <Page social="4">Willkommen zurück, &lt;PCNAME&gt;! Hattet Ihr Spaß?&lt;BR&gt;&lt;BR&gt;Oh, ich sehe, dass Ihr etwas von Tippanis geräuchertem Ferkelfleisch dabeihabt.&lt;BR&gt;&lt;BR&gt;Das ist so schon nicht schlecht, aber es wäre Verschwendung, es nicht gebührend zuzubereiten. Ihr habt Glück, ich habe zufällig das beste Rezept der ganzen Freilande dafür! Hier: Ihr braucht noch Salz. Und jetzt geht hinüber zur Feuergrube. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="219" prevId="13" villagerId="7000">
+        <Page social="4">Hey, das duftet fantastisch! Schön gebräunt ist es auch und fällt locker vom Knochen. Da läuft mir ja das Wasser im Mund zusammen! Darf ich mal kosten?&lt;BR&gt;&lt;BR&gt;Mmm, perfekt! Gut gemacht, &lt;PCNAME&gt;! Habt Ihr es selbst schon probiert? &lt;NEXTPAGEBUTTON&gt;"Ich nehme gern einen Bissen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ihr verfügt über verborgene Talente, nicht wahr? Die meisten Möchtegernköche verbrutzeln ihr Ferkel zu Holzkohle. Oder sie lassen es halb roh, und dann müssen alle zum stillen Örtchen rennen&lt;BR&gt;&lt;BR&gt;Ähm, egal ... hier! Das Rezept für Kaiatorgrillfleisch. Ich denke, Ihr schafft das. Hebt mir etwas auf, wenn's fertig ist!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Nicht vergessen, &lt;PCNAME&gt;: Haltet Euch einfach an das Rezept, das ich Euch gegeben habe. Dann gelingt auch alles.</Page>
+    </Text>
+</QuestDialog>

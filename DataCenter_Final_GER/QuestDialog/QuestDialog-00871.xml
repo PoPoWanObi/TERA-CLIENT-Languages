@@ -1,0 +1,54 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="0">Schandholz war der Ort, an dem Shakan Lok während des Göttlichen Krieges erschlagen hat. Loks Blut befleckte den Wald und setzte zahllose wütende Geister frei.&lt;BR&gt;&lt;BR&gt;Das Mysterium hat ein Verbesserungsgerät gebaut, das Ihr benutzt habt, um die Verwüstung zurückzudrängen.&lt;BR&gt;&lt;BR&gt;Ihr habt Thulsas Armband, ein Relikt, mit dem sich Loks Energie verstärken lässt, vom Furchtgeist Gaist zurückgeholt, aber Ihr konntet es ohne Shakans Kraft nicht aktivieren.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="5">Vor dem Göttlichen Krieg war Schandholz ein Reich voller umwerfender Schönheit. Dann hat Shakan Lok erschlagen und den alten Wald zerstört.&lt;BR&gt;&lt;BR&gt;Das Mysterium plant, den Schaden rückgängig zu machen, doch es benötigt Eure Hilfe. Sprecht mit Gwahre in Tria. Er ist ein kauziger Priester, aber auch brillant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1027">
+        <Page social="5">Das wurde aber auch Zeit! Vermutlich hat Raeren gedacht, wir könnten uns gedulden, bis das Universum den Hitzetod stirbt!&lt;BR&gt;&lt;BR&gt;Doch wie setzen wir Euch jetzt am besten ein? Wie viel wisst Ihr über die Geschichte von Schandholz? Überhaupt irgendetwas?&lt;NEXTPAGEBUTTON&gt;"Ich weiß ein wenig darüber."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Als Shakan Lok in Stücke riss, befleckte Loks Fleisch und Blut den Wald.&lt;BR&gt;&lt;BR&gt;Das Mysterium hat ihn ausgiebig studiert, und wir glauben, wir haben eine Lösung gefunden, sie erfordert allerdings die Unterstützung von Soldaten.&lt;NEXTPAGEBUTTON&gt;"Wie kann ich helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Unsere Forscher versuchen, den Wald zu reinigen, aber die {@LinkCreature:28#1021#Dornholzwölfe} greifen uns unentwegt an. Sie waren nicht immer so aggressiv, aber wie fast alles hier in der Gegend sind sie verseucht.&lt;BR&gt;&lt;BR&gt;Erlegt sie, damit die Arkanisten ihre Arbeit fortsetzen können.&lt;BR&gt;&lt;BR&gt;Und eilt zurück. Es gibt noch viel zu tun.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1027">
+        <Page social="5">Fantastische Arbeit! Ein Problem weniger. Aber meistens entzünden sich die Bisse der Wölfe, und es gibt viele Opfer. Bitte geht zum {@LinkCreature:228#1001#Zakailager} und sucht Anarie, die Inquisitorin des Mysteriums, auf.&lt;BR&gt;&lt;BR&gt;Die Straße zum Lager ist von Rauchpfotenholzwölfen überrannt, die einer stärkeren Verunreinigungsquelle ausgesetzt waren als die Dornholzwölfe. Ich glaube, aus ihren Zähnen können wir ein Heilmittel für die kranken Arbeiter gewinnen.&lt;BR&gt;&lt;BR&gt;Bitte beseitigt die {@LinkCreature:28#2011#Rauchpfotenholzwölfe} und bringt ihre Zähne zu Anarie.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="228" prevId="4" villagerId="1001">
+        <Page social="4">Ich weiß Gwahres Anteilnahme und Eure Anstrengungen zu schätzen. Die Heiltränke, die ich hiermit herstellen kann, sind verblüffend wirksam, um Infektionen zu bekämpfen.&lt;BR&gt;&lt;BR&gt;Ich habe gerade eine Lieferung fertig gemacht. Bringt sie zu Lasiren am Außenposten von Garbi. Sie wird dort dringend benötigt!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="228" villagerId="1001">
+        <Page social="0">Ich könnte noch mehr von dem Mittel brauen, aber nicht ohne weitere Reißzähne von Rauchpfotenholzwölfen. Wenn ich die Arbeiter nicht beschützen kann, ist meine Mission gescheitert.&lt;BR&gt;&lt;BR&gt;Könntet Ihr mir wohl einige besorgen?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="228" prevId="5" villagerId="1014">
+        <Page social="5">Anaries Heilmittel ist ein Segen, und ihre Hilfsbereitschaft ebenso. Man sollte meinen, die Verderbnis würde mit der Zeit verschwinden, aber das Gegenteil scheint der Fall zu sein.&lt;BR&gt;&lt;BR&gt;Es werden immer mehr unserer Arbeiter krank, und jetzt funktionieren auch die Reiniger nicht mehr.&lt;NEXTPAGEBUTTON&gt;"Kann ich irgendwie helfen?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Die einzige Lösung ist, die Reiniger neu zu starten. Aber dazu müsst Ihr zuerst die Schmutzigen Jalmarak im Süden erledigen. Wenn Ihr sie beseitigt habt, könnt Ihr die Geräte neu starten. Das müsste sich schon bald positiv auswirken.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="228" prevId="7" villagerId="1014">
+        <Page social="5">Ich habe noch eine Aufgabe für Euch.&lt;BR&gt;&lt;BR&gt;Wenn die Seuche hier jemanden in den Tod reißt, kehrt er oft als Geist zurück. Da alle, die von den Geistern vernichtet werden, ebenfalls als Geister zurückkehren, werden wir mit jedem Kampf schwächer und sie stärker. Der älteste und mächtigste unter ihnen ist {@LinkCreature:28#6000#Gaist}. Wenn Ihr Gaist erschlagt, können wir diesen Kreislauf vielleicht durchbrechen.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="228" prevId="8" villagerId="1014">
+        <Page social="5">Ihr habt Gaist dieses Armband abgenommen?&lt;BR&gt;&lt;BR&gt;Es ist voller nekromantischer Energie. Bringt es zu Gwahre in Tria. Er kennt sich in solchen Dingen sehr gut aus und wird wissen, was zu tun ist.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="228" villagerId="1014">
+        <Page social="0">Wenn wir Gaist nicht vernichten, werden uns die Geister irgendwann überwältigen. Zu viele Leben hängen von diesem Kampf ab, &lt;PCNAME&gt;. Ihr müsst ihn ausschalten.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="9" villagerId="1027">
+        <Page social="5">Mir wird ganz übel, wenn ich dieses Armband nur berühre. Es stammt nicht von Lok, vermutlich hatte eher Thulsa seine dunklen Klauen im Spiel.&lt;BR&gt;&lt;BR&gt;Wir könnten diese Macht gegen die Geister wenden und sie ein für alle Mal zerstören, aber dazu müssten wir erst noch die Macht eines weiteren Gottes hinzufügen. &lt;BR&gt;&lt;BR&gt;Erlon in den Zeitlosen Wäldern ist in solchen Angelegenheiten sehr bewandert.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="229" prevId="11" villagerId="1010">
+        <Page social="5">Gwahre spricht von einem Nekromantieverstärker. Interessant. Die einfachste Lösung wäre, Loks Energie entgegenzuwirken. Shakans Kraft wäre dafür perfekt, da er Lok vernichtet hat.&lt;BR&gt;&lt;BR&gt;Sucht Taleron am Außenposten von Dorana auf. Er weiß am besten über Shakan Bescheid und könnte sogar ein Artefakt besitzen.&lt;BR&gt;&lt;BR&gt;Beeilt Euch, &lt;PCNAME&gt;. Das Armband zieht dunkle Kräfte an.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="229" prevId="12" villagerId="1012">
+        <Page social="5">Ich kenne eine einfache Methode, das zu erreichen, was Ihr wollt, doch es gibt da eine Komplikation: Shakans Altar besitzt die notwendige Kraft, aber er befindet sich in der Hand der Shurianer.&lt;BR&gt;&lt;BR&gt;Wenn Ihr den Altar benutzen wollt, dann müsst Ihr {@LinkCreature:29#7022#Artania} und {@LinkCreature:29#7021#Limcadus} vernichten. Das sollte den Bestiengebieter von Eurem Wert überzeugen.&lt;BR&gt;&lt;BR&gt;Legt das Armband dann auf den Altar und wartet. Wenn Ihr würdig seid, wird irgendetwas geschehen.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="229" prevId="13" villagerId="1024">
+        <Page social="5">(Ihr spürt eine grollendes Knurren Euer Rückgrat entlanglaufen, doch der Wald bleibt still. Das Armband wirkt matter und zerfällt dann zu Staub.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="229" prevId="14" villagerId="1012">
+        <Page social="5">Es hat funktioniert? Großartig. Shakan hat Thulsa nie gemocht, daher muss ihm das Opfer gefallen haben.&lt;BR&gt;&lt;BR&gt;Lasst Gwahre wissen, dass Ihr Euch um dieses Problem gekümmert habt, und grüßt diesen seltsamen Priester von mir.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="70" prevId="15" villagerId="1027">
+        <Page social="5">Ihr habt es zerstört? Das Armband war ein göttliches Relikt! Wir hätten damit zahllose Geheimnisse lüften können! Pah!&lt;BR&gt;&lt;BR&gt;Tja, was geschehen ist, ist geschehen. Wenn die Region so von den Geistern befreit werden kann, dann war es das wohl wert. Ihr habt uns gut gedient, &lt;PCNAME&gt;. Das Mysterium ist Euch zu großem Dank verpflichtet.</Page>
+    </Text>
+</QuestDialog>

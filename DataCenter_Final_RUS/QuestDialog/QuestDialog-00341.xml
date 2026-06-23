@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">Уничтожать пиратов в гроте - дело нужное и необходимое, но мы должны еще сделать и так, чтобы они никогда не вышли в море.&lt;BR&gt;&lt;BR&gt;Большая часть флота Красной плети сейчас стоит на ремонте, так что самое время нанести удар.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:11#3003#Инженеры Красной плети} - вот, кто отвечает за ремонт. Ликвидируй инженеров, и забери их инструменты.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Удачи в починке кораблей без инструмента и рабочих рук! Пират, который никогда не покинет док, становится унылым сухопутным червем!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">Тебе нужны {@LinkCreature:11#3003#Инженеры Красной плети}. Без них пиратские корабли никогда не выйдут их дока.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1021">
+        <Page social="5">J'ai pour ordre de m'infiltrer dans la forteresse et d'y trouver des informations concernant les légions de Thulsa et leurs projets. Malheureusement, les {@LinkCreature:27#6#iskaragards sans pitié} et les {@LinkCreature:27#7#iskaragards sauvages} compromettent la mission.&lt;BR&gt;&lt;BR&gt;Si vous alliez vous occuper d'eux, nous pourrions passer à l'action. Vous allez certainement devoir en tuer un bon nombre pour avoir "toute leur attention". Bonne chance!&amp;nbsp;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1021">
+        <Page social="5">La mort des Iskaragards a plongé les sentinelles dans la confusion, et il y a maintenant quelques brèches dans la sécurité que nous allons pouvoir exploiter.&lt;BR&gt;&lt;BR&gt;Votre boulot est fini, mais notre mission ne fait que commencer. Bonne route!&amp;nbsp;</Page>
+    </Text>
+</QuestDialog>

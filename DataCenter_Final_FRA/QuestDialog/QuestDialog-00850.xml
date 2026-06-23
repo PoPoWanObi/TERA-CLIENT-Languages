@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Les forces de Thulsa menaçaient les tours d'Essenia que la Fédération utilise pour bloquer l'avancée des argons. Vous avez pris la route d'Essenia pour rétablir les boucliers magiques qui protégeaient les différentes tours.&lt;BR&gt;&lt;BR&gt;Vous avez infiltré une tour aux mains de l'ennemi et avez arrêté les forces de Thulsa, mais elles avaient déjà saboté le bouclier.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Nos tours d'Essenia étaient notre meilleure ligne de défense contre les argons, mais voilà qu'elles sont occupées par les forces de Thulsa. Qui sait ce que Thulsa compte en faire?&amp;nbsp;&lt;BR&gt;&lt;BR&gt;D'après le Mysterium, les boucliers des tours ont cessé de fonctionner juste avant leur arrivée. Si Thulsa découvre comment réactiver ces boucliers, il sera protégé et nous n'aurons plus aucun moyen de récupérer ces tours!&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Allez retrouver Raeren à Tria;&amp;nbsp; il vous communiquera vos ordres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1013">
+        <Page social="4">Des renforts?&amp;nbsp; Super... je suppose que vous n'arrivez pas en compagnie d'un régiment complet de Runicars?&amp;nbsp; J'ai raison?&amp;nbsp; Dommage.&lt;BR&gt;&lt;BR&gt;Les forces de Thulsa se sont barricadées dans une forteresse couverte de protections mystiques.&lt;BR&gt;&lt;BR&gt;Rorise a été responsable de la création de la forteresse. Elle vous en dira plus sur son fonctionnement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1026">
+        <Page social="4">Les défenses de la forteresse sont censées être alimentées par le Noyau, mais nous les avons désactivées. Les forces de Thulsa ne disposent pas d'une telle source d'énergie... sinon de la puissance du dieu noir lui-même. C'est leur force... mais également leur faiblesse.&lt;BR&gt;&lt;BR&gt;Lubdok était chargé de superviser la première attaque menée par nos arcanistes. Vous le trouverez au Castra Mysterium, dans les Collines du Silence. Il y cherche un moyen de permettre à nos troupes de traverser le bouclier.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="227" prevId="4" villagerId="1027">
+        <Page social="4">Si c'est Thulsa qui alimente les boucliers de la forteresse, ses troupes vont chercher un moyen d'activer les boucliers du Noyau. S'ils y parviennent, les espions que j'ai envoyés sur place mourront.&lt;BR&gt;&lt;BR&gt;Si vous ralliez la Station de la Libération au plus vite, Velnen pourra peut-être arrêter les espions avant qu'ils n'atteignent la forteresse.&lt;BR&gt;&lt;BR&gt;Mais attention... les {@LinkCreature:27#2#golems lames anciens} ont envahi la route menant à la Vallée de la Sérénité.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="227" prevId="5" villagerId="1008">
+        <Page social="4">Je les rappellerais bien volontiers, mais ils sont déjà partis. A l'heure qu'il est, ils ont déjà certainement parcouru plus de la moitié du chemin.&lt;BR&gt;&lt;BR&gt;Nous n'allons quand même pas les perdre à cause d'un simple problème de communication!&amp;nbsp; Si vous parvenez à vous frayer un chemin jusqu'à l'équipe en massacrant les {@LinkCreature:27#3#golems lances anciens}, vous avez une chance de les sauver!&amp;nbsp;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="227" prevId="6" villagerId="1023">
+        <Page social="5">Un homme averti en vaut deux, mais nous avons toujours une mission à accomplir. Nous pouvons empêcher Thulsa de se servir du Noyau essentiel.&lt;BR&gt;&lt;BR&gt;Mon équipe va se charger de faire diversion. Vous en profiterez pour aller fureter du côté nord-est de la forteresse et y récupérer le Noyau essentiel.&lt;NEXTPAGEBUTTON&gt;"Où le trouverai-je?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Le Noyau essentiel se trouve à l'intérieur d'une grande {@LinkCreature:227#1028#pierre de protection}. Activez cet engin pour déverrouiller le Noyau essentiel. Mettre la main sur cet objet nous permettra dans le même temps d'affaiblir leurs défenses et d'approfondir nos connaissances.&lt;BR&gt;&lt;BR&gt;Au Mysterium, on appelle ça faire d'une pierre deux coups.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="227" prevId="7" villagerId="1031">
+        <Page social="4">(Des débris jonchent le sol. Les hommes de Thulsa ne tenaient apparemment pas à ce que vous mettiez la main sur l'appareil. Tuez des {@LinkCreature:27#6#iskaragards sans pitié} et des {@LinkCreature:27#7#iskaragards sauvages}. Voyez s'ils possèdent des composants utilisables.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="227" prevId="8" villagerId="1023">
+        <Page social="4">Bien joué. Maintenant que le noyau essentiel est en notre possession, Thulsa doit redoubler d'efforts s'il veut maintenir le bouclier. Le combat n'est pas terminé, mais au moins, maintenant, nous avons nos chances de l'emporter.&lt;BR&gt;&lt;BR&gt;Apportez le Noyau essentiel à Raeren, de Tria. Maintenant, ça ne dépend plus de nous... Nous en avons assez fait comme ça.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="227" villagerId="1023">
+        <Page social="0">Le Noyau essentiel est le plus gros obstacle auquel nous ayons été confrontés. En disposer affaiblira considérablement les légions de Thulsa.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="9" villagerId="1013">
+        <Page social="4">Voilà un engin remarquable. Quand ils vont voir ça, les sages d'Allemantheia vont tourner de l'œil.&lt;BR&gt;&lt;BR&gt;Vous avez sauvé des vies tout en nous offrant l'opportunité que nous attendions. Vous êtes une recrue digne de ce nom, &lt;PCNAME&gt;. C'est une chance pour nous de pouvoir vous compter dans nos rangs.</Page>
+    </Text>
+</QuestDialog>

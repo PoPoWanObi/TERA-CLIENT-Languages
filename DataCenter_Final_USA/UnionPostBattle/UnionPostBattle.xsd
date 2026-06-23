@@ -1,0 +1,35 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" xmlns="https://vezel.dev/novadrop/dc/UnionPostBattle" targetNamespace="https://vezel.dev/novadrop/dc/UnionPostBattle" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" elementFormDefault="qualified">
+    <xsd:complexType name="UnionPostBattle">
+        <xsd:sequence>
+            <xsd:element name="BattleInfoMessage" type="UnionPostBattle_BattleInfoMessage" />
+            <xsd:element name="UIGage" type="UnionPostBattle_UIGage" />
+            <xsd:element name="UniformSystem" type="UnionPostBattle_UniformSystem" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="UnionPostBattle_BattleInfoMessage">
+        <xsd:attribute name="cpMagneticEffectId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnionPostBattle_UIGage">
+        <xsd:sequence>
+            <xsd:element name="Union" type="UnionPostBattle_UIGage_Union" maxOccurs="unbounded" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="UnionPostBattle_UIGage_Union">
+        <xsd:attribute name="id" type="xsd:int" use="required" />
+        <xsd:attribute name="npcIconName" type="xsd:string" use="required" />
+        <xsd:attribute name="npcTooltipStringId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnionPostBattle_UniformSystem">
+        <xsd:sequence>
+            <xsd:element name="Uniform" type="UnionPostBattle_UniformSystem_Uniform" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="active" type="xsd:boolean" use="required" />
+    </xsd:complexType>
+    <xsd:complexType name="UnionPostBattle_UniformSystem_Uniform">
+        <xsd:attribute name="gender" type="xsd:string" use="required" />
+        <xsd:attribute name="race" type="xsd:string" use="required" />
+        <xsd:attribute name="uniformId" type="xsd:int" use="required" />
+        <xsd:attribute name="unionId" type="xsd:int" use="required" />
+    </xsd:complexType>
+    <xsd:element name="UnionPostBattle" type="UnionPostBattle" />
+</xsd:schema>

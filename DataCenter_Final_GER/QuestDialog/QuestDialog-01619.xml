@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Thulsas Einheiten kontrollieren das Gebiet in der Nähe der Feuerstellung der Verwegenheit.&lt;BR&gt;&lt;BR&gt;Tötet {@LinkCreature:52#2006#Dragoner der Verfluchten Legion}, {@LinkCreature:52#6002#Thulsanische Vernichter} und {@LinkCreature:52#1002#Untote Mutanten}, um den Truppen der Feuerstellung etwas Spielraum zu verschaffen.&lt;BR&gt;&lt;BR&gt;Erstattet Raneria in Habere Bericht, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Hier ist Eure Belohnung, zusammen mit dem Dank der Föderation!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

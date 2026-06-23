@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Ihr habt dem Consosclan mit dem Tempel geholfen, indem Ihr die Flammen der Opferung, der Ehre und der Gnade wieder entfacht habt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Im Namen von Balder! Ich bin Modan.&lt;BR&gt;&lt;BR&gt;Es ist meine Aufgabe, die Flammen von Balder am Brennen zu halten, damit alle die den Tempel besuchen seines Großmuts gedenken können.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, möchtet Ihr für eine Kurze Zeit meine Pflichten übernehmen? &lt;NEXTPAGEBUTTON&gt;"Es wäre mir eine Ehre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sucht der Reihe nach jede der drei Flammen auf. Sorgt dafür, dass sie brennen und spart nicht mit dem Brennmaterial.&lt;BR&gt;&lt;BR&gt;Bleibt so lange bei jeder der Flammen, wie Ihr möchtet; denkt darüber nach, was Balders Opferung, Ehre und Gnade für Euch bedeuten. Wenn Ihr bei jeder Flamme wart, dann kommt zurück zu mir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="8101">
+        <Page social="4">Die Flamme der Opferung brennt schön hell.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="8102">
+        <Page social="4">Die Flamme der Ehre brennt richtig schön.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="8103">
+        <Page social="4">Die Flamme der Gnade brennt schön warm.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="7001">
+        <Page social="4">Danke für Eure Arbeit. Ich hoffe, Ihr fühlt Euch Balder jetzt näher?&lt;BR&gt;&lt;BR&gt;Ach, fast hätte ich es vergessen: Bitte nehmt diese kleinen Zeichen der Anerkennung des Consosclans.</Page>
+    </Text>
+</QuestDialog>

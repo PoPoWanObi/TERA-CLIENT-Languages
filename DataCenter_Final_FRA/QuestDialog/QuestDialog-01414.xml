@@ -1,0 +1,65 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Pendant que vous parliez de la guerre avec Tamur, un messager a apporté vos ordres d'affectation. On vous attend à la Forêt de Tirkai. Les argons s'en sont récemment retirés, en abandonnant une grande installation de recherche et un territoire entièrement transformé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mobilisation&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;[Kaiator] Présentez-vous au commandant Tamur, à {@Rgn:84001$$Kaiator}, pour débattre des stratégies pour la guerre argone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1088">
+        <Page social="4">Cela faisait longtemps, &lt;PCNAME&gt;. Comment allez-vous?&amp;nbsp; Le commandant Tamur vous attend.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La Fédération vous doit beaucoup depuis que vous avez détruit Thulsa. Mais les argons représentent une menace bien plus grande, maintenant qu'ils ont pris la {@Rgn:47001$$Forêt de Tirkai}. &lt;NEXTPAGEBUTTON&gt;"Tout à fait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Plus nous tarderons, moins nous aurons de chances de nous en sortir… Kaiator ne résiste que grâce à Kaia… et même elle ne pourra pas les repousser indéfiniment.&lt;BR&gt;&lt;BR&gt;Envisageons les prochaines étapes avec mes aides de camp, voulez-vous?&amp;nbsp;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5005">
+        <Page social="4">Les argons ont peut-être retiré le gros de leurs troupes de Tirkai, mais cela ne signifie pas pour autant que nous pouvons la reprendre sans risque. &lt;NEXTPAGEBUTTON&gt;"En effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10">Je vous envoie auprès de Virgil Kurdan, à l'{@Rgn:77001$$Avant-poste du Pionnier}. Il saura ce qu'il faut faire. &lt;NEXTPAGEBUTTON&gt;"Je pars tout de suite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Avant cela, {@LinkCreature:528#5011$$Ukenul} a un présent à vous remettre, de la part de la Fédération.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5011">
+        <Page social="0">Pour vos états de service extraordinaires, &lt;PCNAME&gt;. Je pense que vous pourrez bientôt mettre ce présent à profit.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="6" villagerId="2001">
+        <Page social="4">C'est un honneur, &lt;PCNAME&gt;. Nous ferons bon usage de votre courage légendaire, n'en doutez pas.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:247#2002$$Yasring} se trouve dans la Forêt de la Gelée blanche, elle a tous les détails en tête.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="2002">
+        <Page social="8">Auparavant, cet endroit grouillait d'argons et du jour au lendemain, ils ont tous disparu. Mais ce qu'ils ont laissé derrière eux…&lt;BR&gt;&lt;BR&gt;Il nous faudrait toute une vie pour l'étudier… Nous manquons malheureusement de temps.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ils ont souillé la terre… et jusqu'à l'air lui-même. Sentez-vous comme il est étrange?&amp;nbsp; Je dirige les tentatives de purification, et pour cela j'ai besoin de savoir comment ils ont contaminé la région.&lt;BR&gt;&lt;BR&gt;Apportez-moi des champignons contaminés… et l'essence de ces créatures argonifiées.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="8" villagerId="2002">
+        <Page social="0">Avec cela, je pourrai produire des orbes de purification.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="2002">
+        <Page social="0">Il faut retourner la contamination contre elle-même…&lt;BR&gt;&lt;BR&gt;Pas facile, mais… efficace.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="2002">
+        <Page social="9">Le lac de Tirkai est la principale source d'eau douce dans les parages et sa douceur laisse plus qu'à désirer. Je vais continuer de produire des orbes. Utilisez-les sur ce qui pollue le lac. Il restera ensuite une chose à faire…&lt;NEXTPAGEBUTTON&gt;"Quoi donc?&amp;nbsp;"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quand vous aurez fini au lac, allez trouver Cheniel, le chef des fées. Nous aurons besoin d'aide pour réparer tout ce que les argons ont abîmé.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" prevId="11" villagerId="2005">
+        <Page social="0">(Quelque chose vous paraît étrange avec ce cadavre…)&lt;BR&gt;&lt;BR&gt;(Est-il possible qu'il contamine le lac?&amp;nbsp; Un orbe vous permettrait d'en avoir le cœur net.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="247" prevId="11" villagerId="2006">
+        <Page social="0">(Ce cadavre est contaminé. Il pourrait affecter le lac. Vous devriez peut-être utiliser un orbe sur lui.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="247" prevId="11" villagerId="2007">
+        <Page social="0">(Vous utilisez un orbe pour supprimer la contamination argone de ce cadavre.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="247" prevId="12" villagerId="2003">
+        <Page social="8">Le lac va redevenir propre?&amp;nbsp; Si seulement cela pouvait suffire. Nos Arbres de Vie se meurent. Nous mourrons sans lui… et très bientôt.&lt;BR&gt;&lt;BR&gt;Mais Yasring vous envoie peut-être à dessein… Vous pourriez nous aider.&lt;BR&gt;&lt;BR&gt;Si vous le voulez, Shemi peut vous mener jusqu'à l'arbre.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="247" prevId="15" villagerId="2004">
+        <Page social="8">Je ne peux pas m'y rendre, mais je peux vous montrer le chemin. Regardez bien, ils sont… &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=juste là"&gt;."&gt;&lt;/A&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="17" huntingZoneId="247" prevId="16" villagerId="2003">
+        <Page social="8">A présent que les Arbres sont guéris, l'ombre de la mort ne plane plus sur nous.&lt;BR&gt;&lt;BR&gt;Rozaline, à la {@Rgn:47007$$Station de recherche de la Destruction}, pense que les fées aideront à purifier Tirkai.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="247" prevId="17" villagerId="1004">
+        <Page social="8">Bon travail, &lt;PCNAME&gt;. Maintenant que les fées nous aident à purifier ces terres, la souillure des argons ne sera bientôt plus qu'un mauvais souvenir.&lt;BR&gt;&lt;BR&gt;Allez présenter votre rapport à {@LinkCreature:247#2001$$Virgile}, de l'Avant-poste du Pionnier, et faites-lui part de votre réussite.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="247" prevId="18" villagerId="2001">
+        <Page social="4">Les fées sont sauvées?&amp;nbsp; Je suis sûr que vous n'y êtes pas {@gender:étranger/étrangère}, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Yasring en sera enchantée de le savoir. Je pense qu'elle s'est rendue à la Forteresse de la Servitude.</Page>
+    </Text>
+</QuestDialog>

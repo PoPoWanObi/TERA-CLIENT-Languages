@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="151" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вас отправляют на Остров Зари, чтобы расспросить Мистериум об их исследованиях ноктиния.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Приказ Федерации]&lt;BR&gt;&lt;BR&gt;Исследователи Мистериума отправились на Остров Зари, чтобы изучить новое вещество, которое они называют ноктинием. Это вещество спасет Федерацию.&lt;BR&gt;&lt;BR&gt;Составьте отчет о ноктинии и результатах их исследований. Вначале поговорите с Адрией на Острове Зари.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1001">
+        <Page social="4">Я немногим могу помочь. Инфраструктура Федерации распадается на куски, и мне приходится прилагать все усилия, чтобы поддерживать работу здесь, на острове.&lt;BR&gt;&lt;BR&gt;Не беспокойся, {@linkcreature:213#1150#Тодоро} расскажет тебе все о ноктинии и покажет их маленькую секретную лабораторию.</Page>
+    </Text>
+</QuestDialog>

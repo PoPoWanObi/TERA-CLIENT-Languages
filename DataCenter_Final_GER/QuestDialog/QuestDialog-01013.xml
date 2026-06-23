@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">In diesem Krieg sind so viele umgekommen, und es ist so viel Schreckliches geschehen. Fast jede Nacht verfolgen mich {@LinkCreature:32#6#Sihranische Verteidiger} und all die Schandtaten, die sie bei der Belagerung von Acarum verübt haben, in meinen Träumen.&lt;BR&gt;&lt;BR&gt;Sie könnten jederzeit zurückkehren, es sei denn, jemand unternimmt etwas gegen sie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">Ob das die Albträume beendet ... ? Aber lieber habe ich Albträume als dass die echten Sihranischen Verteidiger nachts kommen und uns verstümmeln.&lt;BR&gt;&lt;BR&gt;Bitte erstattet {@LinkCreature:232#1002#Hallaj} Bericht. Er ist im Garnisonslager am südlichen Hang vom Berg Tyrannas stationiert.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">Wir profitieren von jedem einzelnen Schlag gegen die Sihraner. Euer Erfolg ist zugleich auch ein Erfolg für die ganze Föderation.</Page>
+    </Text>
+</QuestDialog>

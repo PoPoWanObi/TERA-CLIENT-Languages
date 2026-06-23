@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Самое время покончить со всей этой гнилью. Убей их лидера, {@LinkCreature:8#8011#Глаука}, и покажи гулам, кто здесь главный.&lt;BR&gt;&lt;BR&gt;Имей в виду, этого ублюдка победить не так просто. Иначе бы он так далеко не продвинулся. Будь осторожнее.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Мда... тяжеловато. В следующий раз попрошу в качестве трофея что-нибудь менее громоздкое.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Ты найдешь Глаука в Пещере Резни. Даже не знаю, кого из вас я боюсь больше.</Page>
+    </Text>
+</QuestDialog>

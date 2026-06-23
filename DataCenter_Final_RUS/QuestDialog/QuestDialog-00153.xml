@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Вас отправили в Леса Забвения, чтобы помочь разведчикам в Бастионе Лока. Однако вы прибываете с опозданием - Хендри уже отправил туда группу. Вы изо всех сил спешите за ними следом, но застаете лишь растерзанные тела разведчиков и одного выжившего.&lt;BR&gt;&lt;BR&gt;Миссия провалена, но разведчик отдает вам свои записи со словами, что больше никогда не вернется на службу. Хендри с благодарностью принимает записи и решает отпустить дезертира с миром.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Детали задания:&lt;BR&gt;&lt;BR&gt;Было принято решение разрушить Бастион Лока в надежде положить конец этим некромантским бредням.&lt;BR&gt;&lt;BR&gt;Доложите префекту Дейвену в Деревне лесорубов, когда задание будет выполнено.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">В своем отчете Исла хорошо отзывается о тебе, &lt;PCNAME&gt;. Тебе удалось разговорить Потомков - отличная работа!&lt;BR&gt;&lt;BR&gt;Найди {@LinkCreature:203#1007#Хендри} на Заставе авангарда. Он начальник разведывательной операции в Бастионе Лока. Присоединись к ним.&lt;BR&gt;&lt;BR&gt;Слава Валькиону!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1007">
+        <Page social="4">Скоро все закончится. Я чувствую это. Мы соберем все наши силы, ударим по ним и положим всему этому конец! Но для начала надо отыскать их базу.&lt;BR&gt;&lt;BR&gt;Я отослал группу разведчиков, но они еще не вернулись.&lt;BR&gt;&lt;BR&gt;Сейчас они где-то на пути через Звериный дол. Разыщи их, но будь осторожнее. Потомки не должны прознать о наших планах.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1026">
+        <Page social="0">(Это один из разведчиков.&lt;BR&gt;&lt;BR&gt;Вы видите следы ожесточенной борьбы.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="4" villagerId="1027">
+        <Page social="0">(Это еще один разведчик.&lt;BR&gt;&lt;BR&gt;Его тело покрыто ужасными ранами.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="4" villagerId="1034">
+        <Page social="0">(Еще один мертвый разведчик.&lt;BR&gt;&lt;BR&gt;Повсюду кровь.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="5" villagerId="1033">
+        <Page social="4">Нет! Нет! Уходи! Не трогай меня. Не трогай меня!&lt;NEXTPAGEBUTTON&gt;"Успокойся. Что случилось?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Вот, возьми. Это наши записи о бастионе. Мы были внутри, когда нас заметили. Мы бросились бежать, но было слишком поздно.&lt;BR&gt;&lt;BR&gt;Передай эти записи Хендри. Пусть сделает то, что нужно. Я ни за что не вернусь обратно!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1007">
+        <Page social="4">А? Мертвы?!&lt;BR&gt;&lt;BR&gt;Проклятье! Я был уверен, что их не заметят - тебя же не заметили.&lt;BR&gt;&lt;BR&gt;Что же до Аусдана... У каждого свой предел, &lt;PCNAME&gt;. Когда все закончится, я объявлю его павшим в бою.&lt;BR&gt;&lt;BR&gt;Спасибо, что ты с нами.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="203" villagerId="1007">
+        <Page social="0">М-м-м?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="471" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="471" prevId="0" villagerId="1011">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Eliminiert die Ksharaner in der Nekromantenkrypta.&lt;BR&gt;&lt;BR&gt;Tötet {@LinkCreature:471#105#Ksharanische Schlachtwüter}, {@LinkCreature:471#54#Ksharanische Magisterinnen}, {@LinkCreature:471#55#Ksharanische Berserker}, {@LinkCreature:471#56#Ksharanische Schergen}, {@LinkCreature:471#5#Ksharanische Zerstörer} und {@LinkCreature:471#6#Ksharanische Verteidiger}.&lt;BR&gt;&lt;BR&gt;Meldet Euch nach Abschluss der Mission bei Valona.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="471" prevId="2" villagerId="1011">
+        <Page social="5">Gute Arbeit. Macht weiter so und vernichtet diese üblen Ksharaner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="471" villagerId="1011">
+        <Page social="0">Bald haben wir die Überhand. Wenn Ihr Euch an die Arbeit macht.</Page>
+    </Text>
+</QuestDialog>

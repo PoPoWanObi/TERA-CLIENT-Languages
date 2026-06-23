@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">&lt;PCNAME&gt;, организации нужна твоя помощь в одном не совсем обычном деле.&lt;BR&gt;&lt;BR&gt;Рыба в этих краях так воняет, что ее невозможно есть, но в лесу к западу отсюда можно найти гриб, который убирает у пищи дурной запах и придает изысканный вкус. Вкусно и выгодно!&lt;BR&gt;&lt;BR&gt;Ты можешь собрать для меня несколько душистых грибов? Я понимаю, что ты не увлекаешься микологией, но знаю, что увлекаешься наградами.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1703">
+        <Page social="4">Ура! Грибы! Мы каждый день можем продавать целую партию. Исключительно в кулинарных целях, конечно же!&lt;BR&gt;&lt;BR&gt;Мы получим прибыль, а наша прибыль - это и твоя прибыль!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1703">
+        <Page social="0">Эта рыба просто ужасно смердит! Поскорее принеси мне душистых грибов.</Page>
+    </Text>
+</QuestDialog>

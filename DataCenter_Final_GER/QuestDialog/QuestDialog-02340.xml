@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="0">Ihr habt Dolme Schnitzmaterialien überbracht und habt einen Hornhelm dafür bekommen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="4">Hallo, &lt;PCNAME&gt;! Habt Ihr noch welche von diesen wunderschönen geschnitzten Hörnern? Nein?&lt;BR&gt;&lt;BR&gt;Hm, schade ... ich habe eine Sammlung begonnen. Ich sage Euch etwas: Wenn Ihr mir noch mehr bringt, bekommt Ihr eine Flasche meines besten Sommerweins!&lt;BR&gt;&lt;BR&gt;Ich glaube, Wahmel und Chelton haben Hornstatuen als Preise angeboten ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2007">
+        <Page social="4">Ho, ho. Dankeschön. Das ist hervorragend!&lt;BR&gt;&lt;BR&gt;Diese Flasche Sommerwein habt Ihr Euch wirklich verdient, &lt;PCNAME&gt;! Trinkt auf Eure Gesundheit, ho, ho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2007">
+        <Page social="0">Nehmt an den Minigames "Schlag die Melone" oder "Spritzkanone" teil, um Hornstatuen zu gewinnen.</Page>
+    </Text>
+</QuestDialog>

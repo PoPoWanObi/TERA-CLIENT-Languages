@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Missionsbefehle&lt;BR&gt;&lt;BR&gt;Die Piraten unten am Dock lehnen sich gegen die Föderation auf.&lt;BR&gt;&lt;BR&gt;Beseitigt die {@LinkCreature:11#2003#Rotpeitschennachtwachen}, {@LinkCreature:11#1008#Rotpeitschenpiraten}, {@LinkCreature:11#2001#Rotpeitschenmaate}, {@LinkCreature:11#1003#Rotpeitschenveteranen} und {@LinkCreature:11#3006#Rotpeitschenberserker}.&lt;BR&gt;&lt;BR&gt;Meldet Euch beim nächsten Gildenquestverwalter, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Ihr habt Euch den Dank der Föderation verdient. Gesegnet seien alle, die der Gilde angehören!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Es scheint, als hättet Ihr Eure Mission noch nicht abgeschlossen.</Page>
+    </Text>
+</QuestDialog>

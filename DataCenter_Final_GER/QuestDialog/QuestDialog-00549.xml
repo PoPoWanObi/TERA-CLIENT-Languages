@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1010">
+        <Page social="4">Die Stadt wird von diesem Kult in der Ebene von Paraanon bedrängt. Diese Ebene war früher unser bestes Ackerland. Jetzt ist sie nur noch ein Loch, in das die Föderation Truppen hineinwirft.&lt;BR&gt;&lt;BR&gt;Präfekt Cafnil hat jetzt das Kommando über den Umkämpften Außenposten. Mit Eurer Hilfe können wir die Situation vielleicht herumreißen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1010">
+        <Page social="4">Frisches Blut, was?&lt;BR&gt;&lt;BR&gt;Wurde ja auch mal Zeit! {@gender:Ein/Eine} &lt;PCCLASS&gt; ist eine hoch wirksame Medizin, um die Plagen in diesem Land zu bekämpfen, wie diese Biester im Tal bald auf die harte Tour erfahren werden! Gut, besprechen wir die Strategie!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0">Ihr wollt noch mehr Befehle? Mal sehen, was ich hier habe ...&lt;BR&gt;&lt;BR&gt;In Ordnung, in den Minen sieht es immer schwärzer aus - vernichtet die {@LinkCreature:20#30140000#Blutmagier Loks}, die {@LinkCreature:20#30143000#Ebenholzweber Loks}, die {@LinkCreature:20#30141000#Mäher Loks}, die {@LinkCreature:20#30120101#Devanerschlitzer} und die {@LinkCreature:20#30120100#Devaneraufklärer}.&lt;BR&gt;&lt;BR&gt;Sprecht mit Arthgal in den Hallen von Immerschwarz, wenn die Mission abgeschlossen ist.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1006">
+        <Page social="4">Das habt Ihr gut gemacht! Hier ist ein Zeichen unserer Anerkennung.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1006">
+        <Page social="0">Kommt Ihr, um zu plaudern?</Page>
+    </Text>
+</QuestDialog>

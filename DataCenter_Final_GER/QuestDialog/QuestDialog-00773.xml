@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="4">Elsine benötigt für ihre Arbeit sehr viel Mana. Das wäre kein Problem, wenn wir die Kerne hätten, doch an Orten wie diesem sind sie kaum zu finden.&lt;BR&gt;&lt;BR&gt;Die gute Nachricht ist, dass die Kultisten in der Nähe der Ruinen, beispielsweise die {@LinkCreature:24#17#Eldritchmeister} und die {@LinkCreature:24#18#Schädelspalter}, Mana haben. Natürlich ist ihr Mana vom Bösen verdorben, aber die Reinigung ist einfach. Bringt mir ihre Manaorbs.&lt;BR&gt;&lt;BR&gt;Eigentlich sind es keine Orbs, sondern Herzen. Bringt sie mir einfach.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1024">
+        <Page social="5">Danke - das war bestimmt keine angenehme Aufgabe, aber jemand musste es tun. Bitte bringt diese Herzen zu Elsine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1024">
+        <Page social="0">Habt Ihr die Herzen gesammelt? Ihr glaubt doch noch, dass Ihr das schafft, oder?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="3" villagerId="1002">
+        <Page social="4">Erlaubt mir, Euch meine Dankbarkeit für Euren Fleiß zu beweisen. Das ist genau das, was wir benötigen.</Page>
+    </Text>
+</QuestDialog>

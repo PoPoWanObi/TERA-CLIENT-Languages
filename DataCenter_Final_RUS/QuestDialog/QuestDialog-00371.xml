@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">Остров Мистмур, увы, стал тем местом, в котором Красные пираты и работорговцы Митры предпочитают обстряпывать свои делишки.&lt;BR&gt;&lt;BR&gt;И уничтожение работорговцев хоть отчасти изменит ситуацию.&lt;BR&gt;&lt;BR&gt; Убей {@LinkCreature:12#21#работорговцев}, которые наводнили остров, после чего навести {@LinkCreature:212#1005#Таниэль}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Отлично. Благодаря тебе полегло немало работорговцев. И я знаю, насколько серьезными противниками они могут быть. Отличная работа. Главное не позволяй им взять тебя в кольцо. Как только они окружат тебя, тут же накинутся скопом, и из этой мясорубки ты уже не вырвешься, будь у тебя хоть девять жизней, как у кошки.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">Вырезай их всех, &lt;PCNAME&gt;. Помни, убивая каждого работорговца ты спасаешь много жизней!</Page>
+    </Text>
+</QuestDialog>

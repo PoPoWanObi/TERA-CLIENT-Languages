@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="4">Вендиго не головорезы, не в этом их опасность. Они умеют пользоваться магией, вот в чем их сила.&lt;BR&gt;&lt;BR&gt;Поймай и уничтожь {@LinkCreature:34#510#Вендиго-ткачей мороза} и {@LinkCreature:34#500#Вендиго-морозных волшебников}, и забери их средоточия.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1008">
+        <Page social="4">Великолепно! Без средоточий магическая сила вендиго уменьшится, а, значит, и угроза от них станет намного меньше.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1008">
+        <Page social="0">Бессмысленно убивать вендиго, оставляя их средоточия там, где другие вендиго смогут их использовать. &lt;BR&gt;&lt;BR&gt; Уничтожь Вендиго-ткачей мороза и Вендиго-морозных волшебников, после чего собери их магические средоточия.</Page>
+    </Text>
+</QuestDialog>

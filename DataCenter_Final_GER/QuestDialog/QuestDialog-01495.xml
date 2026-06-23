@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Wir wissen, dass die Argonen Truppen von hier an die Khanovarfront abkommandieren, aber wir wissen nicht, woher diese Truppen kommen. Dank der Informationen, die Ihr und Hasmina beschafft habt, wissen wir, wie sie hierher gelangen.&lt;BR&gt;&lt;BR&gt;Und wir werden sie aufhalten.&lt;NEXTPAGEBUTTON&gt;"Großartig! Wie?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@LinkCreature:76#1025} hat für diesen Zweck etwas ausgeklügelt. Er wird Euch alles Weitere erklären.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1025">
+        <Page social="6">Nehmt diese Bomben. Ihre Kraft ist mit der Harmonie der Zolnajtransporter verbunden.&lt;BR&gt;&lt;BR&gt;Wenn Ihr tief ins Innere des {@Rgn:49004}s vorgedrungen seid, vernichtet Ihr die Wächterargonen und setzt die Bomben ein. Das ist kinderleicht.&lt;BR&gt;&lt;BR&gt;Seid vorsichtig. Ihr wisst ja, dass Finger nicht nachwachsen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1005">
+        <Page social="6">Hey, Verstärkung! Das ist mal was Neues.&lt;BR&gt;&lt;BR&gt;Ich habe versucht, den Transporter auszuschalten, aber meine Waffen konnten nichts ausrichten.&lt;BR&gt;&lt;BR&gt;Versteht Ihr? Gar nichts?&lt;BR&gt;&lt;BR&gt;Passt da drin auf jeden Fall auf Euch auf. Dort wimmelt es von Argonen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">Wenn der Transporter zerstört ist, können die Argonen ihre Position an der {@Rgn:48001} nicht so leicht verstärken.&lt;BR&gt;&lt;BR&gt;Ihr habt uns Zeit verschafft.</Page>
+    </Text>
+</QuestDialog>

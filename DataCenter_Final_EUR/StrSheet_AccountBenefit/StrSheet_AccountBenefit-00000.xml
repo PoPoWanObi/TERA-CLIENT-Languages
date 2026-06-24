@@ -10,7 +10,7 @@
     <String id="105" string="" />
     <String id="106" string="" />
     <String id="333" string="Elite Status" />
-    <String id="334" string="Founder" />
+    <String id="334" string="Founder" hideCoolTime="true" />
     <String id="335" string="Elite Status" />
     <String id="350" string="Server Benefit" />
     <String id="433" string="TERA Club" />
@@ -26,7 +26,7 @@
     <String id="603" string="Growth Package" />
     <String id="691" string="Safe Mode" />
     <String id="701" string="VIP" />
-    <String id="800" string="PC Café (Minor)" />
+    <String id="800" string="Staff Member" hideCoolTime="true" />
     <String id="801" string="PC Café (Intermediate)" />
     <String id="802" string="PC Café (Major)" />
     <String id="803" string="PC Café (VIP)" />
@@ -46,9 +46,7 @@
     <String id="10104" string="JP Tooltip" />
     <String id="10105" string="" />
     <String id="10106" string="" />
-    <!-- Elite Status -->
     <String id="10333" string="Monthly Account Rewards:&lt;BR&gt;Elite Mount (specific mount changes periodically)&lt;BR&gt;Village Atlas&lt;BR&gt;Travel Journal&lt;BR&gt;Two Valkyon's Responses from Instance Matching&lt;BR&gt;Instance access twice as often&lt;BR&gt;Up to 50 items active on brokerage&lt;BR&gt;Exempt from earnest money requirements on brokerage&lt;BR&gt;Brokerage fee of only 10%&lt;BR&gt;Summon NPC: Monti with 25 daily uses&lt;BR&gt;Summon NPC: Dimon with 25 daily uses&lt;BR&gt;Summon NPC: Phargo with 25 daily uses&lt;BR&gt;Deliverable Elite Gift Box with awesome rewards&lt;BR&gt;Teleport to a Premium-only area with access to Ghillieglade&lt;BR&gt;Double Reputation and Credits&lt;BR&gt;&lt;BR&gt;Exclusive bragging rights." />
-    <!-- Founder Status -->
     <String id="10334" string="Permanent Account Rewards: &lt;BR&gt;8 free character slots per server.&lt;BR&gt;4 bank tabs per server.&lt;BR&gt;Terminus, the argon hybrid warhorse.&lt;BR&gt;&quot;Founder&quot; title.&lt;BR&gt;Up to 50 items active on brokerage." hideCoolTime="true" />
     <String id="10335" string="Monthly Account Rewards:&lt;BR&gt;Daily allotment of 15 EMP&lt;BR&gt;Flying mount (specific mount changes periodically)&lt;BR&gt;Permanent 100% XP Boost&lt;BR&gt;Permanent 100% Reputation Boost&lt;BR&gt;Permanent 100% Quester's Gold Boost&lt;BR&gt;Permanent 50% Crafter's Speed Boost&lt;BR&gt;Continuous Crystalbind effect&lt;BR&gt;Village Atlas&lt;BR&gt;Travel Journal&lt;BR&gt;Two Valkyon's Responses from Instance Matching&lt;BR&gt;Twice as many available daily quests&lt;BR&gt;Instance access twice as often&lt;BR&gt;Up to 50 items active on brokerage&lt;BR&gt;Exempt from earnest money requirements on brokerage&lt;BR&gt;Brokerage fee of only 10%&lt;BR&gt;&lt;BR&gt;Daily boosts and loot boxes." />
     <String id="10433" string="Monthly Account Rewards:&lt;BR&gt;Two Valkyon's Responses from Instance Matching.&lt;BR&gt;Twice as many available daily quests.&lt;BR&gt;Instance access twice as often.&lt;BR&gt;Sampler mount (changes periodically).&lt;BR&gt;Up to 50 items active on brokerage.&lt;BR&gt;Exempt from earnest money requirements on brokerage.&lt;BR&gt;Brokerage fee of only 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Ten strongbox keys.&lt;BR&gt;Traveler's Insurance scrolls.&lt;BR&gt;Boosts that replenish daily." />
@@ -61,7 +59,7 @@
     <String id="10603" string="Monthly Account Rewards:&lt;BR&gt;Two Valkyon's Responses from Instance Matching.&lt;BR&gt;Twice as many available daily quests.&lt;BR&gt;Instance access twice as often.&lt;BR&gt;Sampler mount (changes periodically).&lt;BR&gt;Up to 50 items active on brokerage.&lt;BR&gt;Exempt from earnest money requirements on brokerage.&lt;BR&gt;Brokerage fee of only 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Ten strongbox keys.&lt;BR&gt;Traveler's Insurance scrolls.&lt;BR&gt;Boosts that replenish daily." />
     <String id="10691" string="Monthly Account Rewards:&lt;BR&gt;Two Valkyon's Responses from Instance Matching.&lt;BR&gt;Twice as many available daily quests.&lt;BR&gt;Instance access twice as often.&lt;BR&gt;Sampler mount (changes periodically).&lt;BR&gt;Up to 50 items active on brokerage.&lt;BR&gt;Exempt from earnest money requirements on brokerage.&lt;BR&gt;Brokerage fee of only 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Ten strongbox keys.&lt;BR&gt;Traveler's Insurance scrolls.&lt;BR&gt;Boosts that replenish daily." />
     <String id="10733" string="" />
-    <String id="10800" string="" />
+    <String id="10800" string="Staff members receive lifetime Elite and access to moderation commands.&lt;BR&gt;&lt;BR&gt;Type ~help to see available commands." />
     <String id="10801" string="" />
     <String id="10802" string="" />
     <String id="10803" string="" />
@@ -103,4 +101,6 @@
     <String id="100806" string="" />
     <String id="100807" string="" />
     <String id="101000" string="Package Benefit" />
+    <String id="50" string="Discord Booster" hideCoolTime="true" />
+    <String id="10050" string="Receive an exclusive mount for being an active Discord booster!" />
 </StrSheet_AccountBenefit>

@@ -1183,10 +1183,10 @@
     <String string="Déblocage" effect="-1" sound="-1" readableId="SMT_ESCAPE_MSGBOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Impossible d'utiliser {ItemName} ici. Essayez à un autre endroit." effect="-1" sound="-1" readableId="SMT_EVENT_CANNOT_USE_NOT_ENOUGH_SPACE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Vous avez tué {NpcName}! Votre récompense vous est arrivée via colis postal." effect="-1" sound="-1" readableId="SMT_EVENT_MONSTER_KILL_SUCCEED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="L'événement prend fin." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Vous avez obtenu tous les objets. L'événement prend donc fin." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="{UserName} a obtenu {ItemCount} x {ItemName} au cours de l'événement." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="L'événement débute." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="L'événement prend fin." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="Vous avez obtenu tous les objets. L'événement prend donc fin." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="{UserName} a obtenu {ItemCount} x {ItemName} au cours de l'événement." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="L'événement débute." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
     <String string="Vous ne pouvez pas placer une mise aussi élevée." effect="-1" sound="-1" readableId="SMT_EXCEED_BETTING_VALUE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
     <String string="La position est disponible" effect="-1" sound="2066" readableId="SMT_EXIST_CLASS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{AccountBenefitName} est disponible jusqu'au {expire@dateTime}." effect="-1" sound="-1" readableId="SMT_EXPIRE_ACCOUNT_BENEFIT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -3240,4 +3240,25 @@
     <String string="Signaler" effect="-1" sound="-1" readableId="SMT_REPORT_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Voulez-vous émettre un rapport ?" effect="-1" sound="-1" readableId="SMT_REPORT_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="We are unable to provide access to Honor Hall Features at the moment." effect="-1" sound="-1" readableId="SMT_FLOATING_CASLTE_STORE_CLOSED" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="{UserName} a réalisé le premier kill !" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} est en pleine série de tueries." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} extermine nos alliés." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} dévaste la zone." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="Il faut éviter {UserName}." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} domine le champ de bataille." effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} est en pleine série de tueries !" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} extermine nos ennemis !" effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} dévaste la zone !" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Les ennemis fuient devant {UserName} !" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} règne sur le champ de bataille !" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="an" effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="mois" effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Mois" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="j" effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="{dungeonName} : {second@durationBrief}" effect="-1" sound="-1" readableId="SMT_SHOW_DUNGEON_INFO_WAITING_TIME" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{dungeonName} : Disponible" effect="-1" sound="-1" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_PERMIT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{dungeonName} : Disponible, vous pouvez entrer {count} fois" effect="-1" sound="-1" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_LIMIT_COUNT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{battleFieldName} : Disponible, vous pouvez entrer {count} fois" effect="-1" sound="-1" readableId="SMT_SHOW_BATTLE_FIELD_INFO_ENTER_LIMIT_COUNT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Ce cristal ne peut pas être fusionné avec une structure niveot dyade intelligente." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Vous devez redémarrer le jeu et le launcher pour pouvoir recevoir vos avantages en jeu." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
 </StrSheet_SystemMessage>

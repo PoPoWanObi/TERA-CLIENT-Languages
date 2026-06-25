@@ -10,7 +10,7 @@
     <String id="105" string="" />
     <String id="106" string="" />
     <String id="333" string="Elitestatus" />
-    <String id="334" string="Gründer{@g:/in}" />
+    <String id="334" string="Gründer{@g:/in}" hideCoolTime="true" />
     <String id="335" string="Elite Status" />
     <String id="350" string="Servervorteil" />
     <String id="433" string="TERA Club" />
@@ -26,7 +26,7 @@
     <String id="603" string="Wachstumspaket" />
     <String id="691" string="Abgesicherter Modus" />
     <String id="701" string="VIP" />
-    <String id="800" string="PC Café (Minor)" />
+    <String id="800" string="Mitarbeiter" hideCoolTime="true" />
     <String id="801" string="PC Café (Intermediate)" />
     <String id="802" string="PC Café (Major)" />
     <String id="803" string="PC Café (VIP)" />
@@ -59,7 +59,7 @@
     <String id="10603" string="Monthly Account Rewards:&lt;BR&gt;Two Valkyon's Responses from Instance Matching.&lt;BR&gt;Twice as many available daily quests.&lt;BR&gt;Instance access twice as often.&lt;BR&gt;Sampler mount (changes periodically).&lt;BR&gt;Up to 50 items active on brokerage.&lt;BR&gt;Exempt from earnest money requirements on brokerage.&lt;BR&gt;Brokerage fee of only 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Ten strongbox keys.&lt;BR&gt;Traveler's Insurance scrolls.&lt;BR&gt;Boosts that replenish daily." />
     <String id="10691" string="Monthly Account Rewards:&lt;BR&gt;Two Valkyon's Responses from Instance Matching.&lt;BR&gt;Twice as many available daily quests.&lt;BR&gt;Instance access twice as often.&lt;BR&gt;Sampler mount (changes periodically).&lt;BR&gt;Up to 50 items active on brokerage.&lt;BR&gt;Exempt from earnest money requirements on brokerage.&lt;BR&gt;Brokerage fee of only 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Ten strongbox keys.&lt;BR&gt;Traveler's Insurance scrolls.&lt;BR&gt;Boosts that replenish daily." />
     <String id="10733" string="" />
-    <String id="10800" string="" />
+    <String id="10800" string="Mitarbeiter erhalten dauerhaften Elite-Status und Zugriff auf Moderationsbefehle.&lt;BR&gt;&lt;BR&gt;Gebt ~help ein, um die verfügbaren Befehle zu sehen." />
     <String id="10801" string="" />
     <String id="10802" string="" />
     <String id="10803" string="" />
@@ -101,4 +101,6 @@
     <String id="100806" string="" />
     <String id="100807" string="" />
     <String id="101000" string="Package Benefit" />
+<String id="50" string="Discord Booster" hideCoolTime="true" />
+<String id="10050" string="Erhaltet ein exklusives Reittier als aktiver Discord-Booster!" />
 </StrSheet_AccountBenefit>

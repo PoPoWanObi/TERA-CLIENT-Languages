@@ -1187,10 +1187,10 @@
     <String string="Автоматическое освобождение через {sec} сек{@select:{sec}///}." effect="-1" sound="-1" readableId="SMT_ESCAPE_MSGBOX_MESSAGE4" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Освободиться" effect="-1" sound="-1" readableId="SMT_ESCAPE_MSGBOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Вы не можете использовать предмет &quot;{ItemName}&quot; здесь. Пожалуйста, попробуйте в другом месте." effect="-1" sound="-1" readableId="SMT_EVENT_CANNOT_USE_NOT_ENOUGH_SPACE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
-    <String string="Событие заканчивается." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Вы получили все предметы, завершив событие." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="{UserName} получил(а) {ItemName} x {ItemCount} за участие в событии." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Событие начинается." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Событие заканчивается." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="Вы получили все предметы, завершив событие." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="{UserName} получил(а) {ItemName} x {ItemCount} за участие в событии." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="Событие начинается." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
     <String string="Вы не можете сделать такую высокую ставку." effect="-1" sound="-1" readableId="SMT_EXCEED_BETTING_VALUE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
     <String string="Это место свободно." effect="-1" sound="2066" readableId="SMT_EXIST_CLASS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{AccountBenefitName}: доступно до {expire@dateTime}." effect="-1" sound="-1" readableId="SMT_EXPIRE_ACCOUNT_BENEFIT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -2448,7 +2448,7 @@
     <String string="Сохранить место" effect="-1" sound="-1" readableId="SMT_PREMIUMITEM_POPUPTITLE_AREA_SAVE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Введите сообщение." readableId="SMT_PREMIUMITEM_POPUPTITLE_CARVE" />
     <String string="Использовать Атлас" effect="-1" sound="-1" readableId="SMT_PREMIUMITEM_POPUPTITLE_HOMETOWN_MOVE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="Тени защищают вас от смертельного урона." effect="-1" sound="-1" readableId="SMT_PREVENTION_FOR_DEATH" style="SYSTEM_MSG_DUNGEON_MSG" delayTime="0" displayChat="false" />
+    <String string="Тени защищают вас от смертельного урона." effect="-1" sound="-1" readableId="SMT_PREVENTION_FOR_DEATH" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
     <String string="Вы можете только просматривать меню создания персонажа, но не сможете его сохранить." effect="-1" sound="-1" readableId="SMT_PREVIEW_ALREADY_HAVE_CHARACTER" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Сейчас доступен только предварительный просмотр персонажа. Вы можете создавать персонажей, но не играть." effect="-1" sound="-1" readableId="SMT_PREVIEW_ENTER_WORLD_NOT_AVAILABLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Вам запрещено это действие." effect="-1" sound="2003" readableId="SMT_PRISONER_CANNOT_DO_THIS" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -3252,4 +3252,14 @@
     <String string="{dungeonName} : можно создать {count} раз(а)" effect="-1" sound="-1" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_LIMIT_COUNT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{battleFieldName} : можно войти {count} раз(а)" effect="-1" sound="-1" readableId="SMT_SHOW_BATTLE_FIELD_INFO_ENTER_LIMIT_COUNT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Выбранные нивеоты не подходят для слияния." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+<String string="Вы не можете создать больше вкладок чата." effect="-1" sound="-1" readableId="SMT_CHAT_CANNOT_MAKE_CHATING_TAB" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+<String string="{NpcName} убит! Проверьте почту для получения награды." effect="-1" sound="-1" readableId="SMT_EVENT_MONSTER_KILL_SUCCEED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+<String string="Объедините структуру кристалла и 3 высококачественных кристалла, чтобы получить кристалл более высокого уровня или превосходный кристалл. Процесс может завершиться неудачей и разрушить все выбранные предметы. Продолжить?" effect="-1" sound="-1" readableId="SMT_POPUP_CONFIRM_USE_ARTIFACT_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+<String string="Нет" effect="-1" sound="-1" readableId="SMT_POPUP_CONFIRM_USE_ARTIFACT_NO" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+<String string="Да" effect="-1" sound="-1" readableId="SMT_POPUP_CONFIRM_USE_ARTIFACT_YES" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+<String string="Вы не можете изменить название гильдии, находясь в инстансе или на поле боя." effect="-1" sound="-1" readableId="SMT_RENAME_GUILD_IMPOSSIBLE_3" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+<String string="В магазинах интенданта можно настроить только функцию продажи." effect="-1" sound="-1" readableId="SMT_UNION_CANT_EQUIP_ORB" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+<String string="Этот навык призыва можно использовать только внутри форта." effect="-1" sound="-1" readableId="SMT_UNION_CANT_SUMMON_NPC_OUTSIDE_VILLAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+<String string="Не удалось применить политику {UnionName}: {PolicyName}." effect="-1" sound="-1" readableId="SMT_UNION_CHANGE_POLICY_FAIL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+<String string="Экзарх {UnionName} применил политику: {PolicyName}." effect="-1" sound="-1" readableId="SMT_UNION_CHANGE_POLICY_SUCCESS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
 </StrSheet_SystemMessage>

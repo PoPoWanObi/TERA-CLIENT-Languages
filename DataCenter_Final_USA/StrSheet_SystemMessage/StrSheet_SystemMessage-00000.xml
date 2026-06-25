@@ -1192,10 +1192,10 @@
     <String string="Unstuck" effect="-1" sound="-1" readableId="SMT_ESCAPE_MSGBOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Can't use {ItemName} here. Please try again in another place." effect="-1" sound="-1" readableId="SMT_EVENT_CANNOT_USE_NOT_ENOUGH_SPACE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Killed {NpcName}! Check the parcel post for your reward." effect="-1" sound="-1" readableId="SMT_EVENT_MONSTER_KILL_SUCCEED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="The event ends." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="You have obtained all items, ending the event." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="{UserName} obtained {ItemName} x {ItemCount} from the event." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="The event starts." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="The event ends." effect="-1" sound="-1" readableId="SMT_EVENT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="You have obtained all items, ending the event." effect="-1" sound="-1" readableId="SMT_EVENT_ITEM_EMPTY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="{UserName} obtained {ItemName} x {ItemCount} from the event." effect="-1" sound="-1" readableId="SMT_EVENT_OBTAIN_EXCEPT_ITEM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
+    <String string="The event starts." effect="-1" sound="-1" readableId="SMT_EVENT_START" style="SMS_CHAT_INFO" delayTime="0" chatChannel="9201" displayChat="false" />
     <String string="You can't place a bet that high." effect="-1" sound="-1" readableId="SMT_EXCEED_BETTING_VALUE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
     <String string="The position is available." effect="-1" sound="2066" readableId="SMT_EXIST_CLASS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{AccountBenefitName} is available until {expire@dateTime}." effect="-1" sound="-1" readableId="SMT_EXPIRE_ACCOUNT_BENEFIT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />

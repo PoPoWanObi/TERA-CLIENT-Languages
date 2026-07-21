@@ -1683,7 +1683,7 @@
     <String string="{HomunName} ({OwnerName})" effect="-1" sound="-1" readableId="SMT_HOMUN_NAME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Полное восстановление HP и MP стоит {Amount@money}. Хотите восстановить HP и MP? (Для лучшего результата вам стоит сначала восстановить бодрость.)" effect="-1" sound="-1" readableId="SMT_HP_MP_RESTORE_VILLAGER_MSGBOX_MESSAGE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Полное восстановление HP стоит {Amount@money}. Хотите восстановить HP? (Для лучшего результата вам стоит сначала восстановить бодрость.)" effect="-1" sound="-1" readableId="SMT_HP_RESTORE_VILLAGER_MSGBOX_MESSAGE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="События сейчас не проводятся. Посетите сайт http://www.tera-online.ru/ для получения дополнительной информации. " effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_ANNOUNCE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="События сейчас не проводятся. Посетите сайт https://teraclassic.com/home для получения дополнительной информации. " effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_ANNOUNCE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Событие: {EventName}." effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_NOTICE_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Налог на добычу" effect="-1" sound="-1" readableId="SMT_HUNTING_TAX" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Налог на добытые в области монеты.\nУстановите ставку между {MinTaxRate}% и {MaxTaxRate}%." effect="-1" sound="-1" readableId="SMT_HUNTING_TAX_DESC" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1709,7 +1709,7 @@
     <String string="Хотите перейти на веб-страницу магазина? Нажмите ОК для продолжения." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="У вас недостаточно монет для покупки этого предмета." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_PRICE_GUIDE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Купить Звезды" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Проверка баланса..." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Не удается проверить баланс." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Не удается проверить баланс. Пожалуйста, попробуйте позже. [Код ошибки:{ErrorText}]" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -1741,7 +1741,7 @@
     <String string="Все" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_VIEWALL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Хотите подключиться к магазину платных предметов?" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Платные предметы" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Отсюда вы не можете туда залезть." effect="-1" sound="-1" readableId="SMT_INVALID_CLIMBING_END_POS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Не является кристаллом усиления." effect="-1" sound="2002" readableId="SMT_INVALID_CUSTOMIZING_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Невозможно зачаровать." effect="-1" sound="2003" readableId="SMT_INVALID_ENCHANT_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -1845,7 +1845,7 @@
     <String string="Игрок {PartyPlayerName} присоединился к рейду." effect="-1" sound="2031" readableId="SMT_JOIN_UNIONPARTY_PARTYPLAYER" style="SMS_CHAT_PARTY_INFO" delayTime="0" chatChannel="204" displayChat="true" />
     <String string="SMT_KICK_PARTY_FAILED" effect="-1" sound="-1" readableId="SMT_KICK_PARTY_FAILED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_KICK_PARTY_SUCCEED" effect="-1" sound="-1" readableId="SMT_KICK_PARTY_SUCCEED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Последние новости и информация - http://www.tera-online.ru/news/&#xA;Не забывайте отдыхать." effect="-1" sound="-1" readableId="SMT_KOREAN_RATING_TEENAGER_PROHIBITED" style="SMS_ADMIN_NOTICE" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Последние новости и информация - https://teraclassic.com/home&#xA;Не забывайте отдыхать." effect="-1" sound="-1" readableId="SMT_KOREAN_RATING_TEENAGER_PROHIBITED" style="SMS_ADMIN_NOTICE" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Вы научились делать &quot;{Recipe}&quot;." effect="-1" sound="2022" readableId="SMT_LEARN_RECIPE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Вы хотите изучить умение &quot;{SkillName}&quot;?&lt;br&gt;Цена: {Money@money}" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Выучить умение" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1900,7 +1900,7 @@
     <String string="С этой учетной записи вход уже выполнен. Пожалуйста, еще раз выберите сервер." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_ALREADY_LOGIN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Время действия сертификата истекло. Запустите снова программу запуска." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_HASH_ERROR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Не удается подключиться к серверу." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_NOT_PAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="Игровое время истекло. Пожалуйста, ищите даты будущих этапов тестирования на сайте http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Игровое время истекло. Пожалуйста, ищите даты будущих этапов тестирования на сайте https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Не удается подключиться к серверу. [Ошибка: {ErrorCode}]" effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_WITH_ERRORCODE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Вы не можете создавать новых персонажей." effect="-1" sound="-1" readableId="SMT_LOBBY_CHARACTER_FULL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Это имя уже используется или недоступно." effect="-1" sound="-1" readableId="SMT_LOBBY_CHARACTER_NAME_FORBIDDEN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -2001,14 +2001,14 @@
     <String string="Сейчас вы будете телепортированы." effect="-1" sound="2001" readableId="SMT_LOST_DUNGEON_OWNERSHIP" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Недостаточно Счастливых билетов." effect="-1" sound="2004" readableId="SMT_LOW_TCAT_MESSAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Хотите перейти на страницу новостей TERA?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Хотите перейти на страницу событий TERA?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Страница подсказок" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_GAME_TIP_BOARD_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Хотите перейти на Terapedia?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Хотите посмотреть информацию о последнем обновлении?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://www.tera-online.ru/" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Вы хотите сообщить о проблеме?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_PETITION_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="{username} уже назначен(а) экзархом." effect="-1" sound="2025" readableId="SMT_MANDATE_CONSUL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="[{party}]: Вы не можете использовать функцию подбора подземелий из-за неверно набранной группы." effect="-1" sound="2079" readableId="SMT_MATCHING_CANT_REQUEST4" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />

@@ -1703,10 +1703,10 @@
     <String string="Erreur réseau. Veuillez réessayer plus tard." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_NETWORK_ERROR_MESSAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Erreur. Veuillez réessayer plus tard. [Code erreur : {ErrorText}]" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Vous avez acheté {Count} {ItemDesc} à un prix de {EachPrice@tcat} billets de la Fédération par unité." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_BUY_TCAT_PRODUCT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Voulez-vous vous rendre sur http://fr.tera.gameforge.com ?" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Voulez-vous vous rendre sur https://teraclassic.com/home ?" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vous n'avez pas assez d'argent pour acheter cet objet." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_PRICE_GUIDE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Acheter des écus TERA" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHARGE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vérification du solde…" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vérification du solde impossible." effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vérification du solde impossible. Veuillez réessayer plus tard.[Code erreur : {ErrorText}]" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -1738,7 +1738,7 @@
     <String string="Tous" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_VIEWALL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Souhaitez-vous voir les objets premiums ?" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Objets premiums" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_INGAMESTORE_WEBSTORE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vous n'êtes pas en position pour grimper ceci." effect="-1" sound="-1" readableId="SMT_INVALID_CLIMBING_END_POS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Ceci n'est pas un cristal d'amélioration." effect="-1" sound="2002" readableId="SMT_INVALID_CUSTOMIZING_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Impossible d'enchanter ceci." effect="-1" sound="2003" readableId="SMT_INVALID_ENCHANT_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -1840,7 +1840,7 @@
     <String string="{PartyPlayerName} a rejoint le raid." effect="-1" sound="2031" readableId="SMT_JOIN_UNIONPARTY_PARTYPLAYER" style="SMS_CHAT_PARTY_INFO" delayTime="0" chatChannel="204" displayChat="true" />
     <String string="SMT_KICK_PARTY_FAILED" effect="-1" sound="-1" readableId="SMT_KICK_PARTY_FAILED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_KICK_PARTY_SUCCEED" effect="-1" sound="-1" readableId="SMT_KICK_PARTY_SUCCEED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Rendez-vous sur http://fr.tera.gameforge.com pour découvrir toutes les dernières infos sur le jeu. Pensez à jouer avec modération." effect="-1" sound="-1" readableId="SMT_KOREAN_RATING_TEENAGER_PROHIBITED" style="SMS_ADMIN_NOTICE" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Rendez-vous sur https://teraclassic.com/home pour découvrir toutes les dernières infos sur le jeu. Pensez à jouer avec modération." effect="-1" sound="-1" readableId="SMT_KOREAN_RATING_TEENAGER_PROHIBITED" style="SMS_ADMIN_NOTICE" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Vous avez appris la fabrication de : {Recipe}." effect="-1" sound="2022" readableId="SMT_LEARN_RECIPE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Souhaitez-vous apprendre &quot;{SkillName}&quot; ?&lt;br&gt;Coût : {Money@money}" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Apprendre la compétence" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1895,7 +1895,7 @@
     <String string="Ce compte est déjà connecté. Veuillez sélectionner à nouveau le serveur." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_ALREADY_LOGIN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Le ticket de validation a expiré. Ouvrez à nouveau le lanceur." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_HASH_ERROR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Impossible de se connecter au serveur." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_NOT_PAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="Vous avez utilisé tout votre temps de jeu. Veuillez consulter le site http://fr.tera.gameforge.com pour les dates des futures périodes de test." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Vous avez utilisé tout votre temps de jeu. Veuillez consulter le site https://teraclassic.com/home pour les dates des futures périodes de test." effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Connexion au serveur impossible. [Erreur : {ErrorCode}]" effect="-1" sound="-1" readableId="SMT_LOBBY_CANNOT_CONNECT_WITH_ERRORCODE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Vous ne pouvez pas créer davantage de personnages." effect="-1" sound="-1" readableId="SMT_LOBBY_CHARACTER_FULL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Ce nom est déjà pris ou est indisponible." effect="-1" sound="-1" readableId="SMT_LOBBY_CHARACTER_NAME_FORBIDDEN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1996,13 +1996,13 @@
     <String string="Vous serez téléporté sous peu." effect="-1" sound="2001" readableId="SMT_LOST_DUNGEON_OWNERSHIP" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Pas assez de billets de la Fédération." effect="-1" sound="2004" readableId="SMT_LOW_TCAT_MESSAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Voulez-vous vous rendre sur la page des news de TERA ?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_ANNOUNCE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Voulez-vous vous rendre sur la page des événements de TERA ?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_EVENT_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Voulez-vous consulter le site officiel ?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_TERAPIDIA_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Voulez-vous consulter les dernières notes de mise à jour ?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="http://fr.tera.gameforge.com" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="https://teraclassic.com/home" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_UPDATE_URL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Souhaitez-vous signaler un problème ?" effect="-1" sound="-1" readableId="SMT_MAIN_MENU_PETITION_ASK" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="{username} a été nommé(e) Exarque." effect="-1" sound="2025" readableId="SMT_MANDATE_CONSUL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Vous ne pouvez pas utiliser la fonction de recherche d'instance car votre {party} n'est pas correctement composé." effect="-1" sound="2079" readableId="SMT_MATCHING_CANT_REQUEST4" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
@@ -3184,7 +3184,7 @@
     <String string="Confirmer" effect="-1" sound="-1" readableId="SMT_USE_ITEM_ENCHANTER_POPUP_MSGBOX_CONFIRM" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Enchantement en cours..." effect="-1" sound="-1" readableId="SMT_ITEM_ENCHANTER_PROGRESS" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Annulé" effect="-1" sound="-1" readableId="SMT_ITEM_ENCHANTER_PROGRESS_CANCEL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="Des événements sont en cours. Pour en savoir plus, rendez-vous sur http://fr.tera.gameforge.com." effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_ANNOUNCE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Des événements sont en cours. Pour en savoir plus, rendez-vous sur https://teraclassic.com/home." effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_ANNOUNCE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="L'événement {EventName} est en cours." effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_NOTICE_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Désignez une zone où déclencher la compétence. Appuyez une nouvelle fois sur la touche de compétence pour tirer." effect="-1" sound="-1" readableId="SMT_RANGELOCK_ON_TARGET_MESSAGE" style="SMS_CHAT_INFO_FIXED" delayTime="0" displayChat="false" />
     <String string="Modifier le profil" effect="-1" sound="-1" readableId="SMT_FRIEND_CHANGE_PROFILE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />

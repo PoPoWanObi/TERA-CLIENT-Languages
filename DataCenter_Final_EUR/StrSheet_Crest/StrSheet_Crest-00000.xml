@@ -51,6 +51,7 @@
     <String id="21049" name="Energetic Pounce" tooltip="Decreases cooldown by $value." skillName="Pounce" />
     <String id="21050" name="Lingering Traverse Cut" tooltip="Increases effect duration by $value." skillName="Traverse Cut" />
     <String id="21051" name="Brilliant Traverse Cut" tooltip="Reduces MP cost by $value." skillName="Traverse Cut" />
+    <String id="21093" name="Spirited Traverse Cut" tooltip="Restores 10 MP per hit, up to 13 hits." skillName="Traverse Cut" />
     <String id="21052" name="Empowered Blade Draw" tooltip="Increases skill damage by $value." skillName="Blade Draw" />
     <String id="21053" name="Brilliant Blade Draw" tooltip="Reduces MP cost by $value." skillName="Blade Draw" />
     <String id="21054" name="Persistent Blade Draw" tooltip="$prob chance to eliminate cooldown." skillName="Blade Draw" />
@@ -69,7 +70,7 @@
     <String id="21076" name="Empowered Cascade of Stuns" tooltip="Increases skill damage by $value." skillName="Cascade of Stuns" />
     <String id="21077" name="Lingering Cascade of Stuns" tooltip="Increases effect duration by $value." skillName="Cascade of Stuns" />
     <String id="21078" name="Powerlinked Staggering Counter" tooltip="Increases damage of Cascade of Stuns by 10% for a few seconds." skillName="Staggering Counter" />
-    <String id="21079" name="Keen Scythe" tooltip="Doubles Crit Factor" skillName="Scythe" />
+    <String id="21079" name="Carving Scythe" tooltip="Doubles the chance to crit." skillName="Scythe" />
     <String id="21080" name="Empowered Scythe" tooltip="Increases bonus Edge damage by 25%." skillName="Scythe" />
     <String id="21081" name="Lingering Backstab" tooltip="Increases effect duration by $value." skillName="Backstab" />
     <String id="21082" name="Swift Pounce" tooltip="Increases attack speed of Pounce by $value." skillName="Pounce" />
@@ -383,7 +384,7 @@
     <String id="25078" name="Energetic Painblast" tooltip="Decreases cooldown by $value." skillName="Painblast" />
     <String id="25079" name="Hindering Burning Breath" tooltip="Decrease hostile PCs' healing power by 50%" skillName="Burning Breath" />
     <String id="25080" name="Warding Mana Barrier" tooltip="Increases damage absorption by 30%." skillName="Mana Barrier" />
-    <String id="25081" name="Keen Arcane Pulse" tooltip="Doubles Crit Factor for 4 seconds." skillName="Arcane Pulse" />
+    <String id="25081" name="Carving Arcane Pulse" tooltip="Doubles the chance to crit for 4 seconds." skillName="Arcane Pulse" />
     <String id="25082" name="Slick Arcane Pulse" tooltip="Can move while charging." skillName="Arcane Pulse" />
     <String id="25083" name="Energetic Stone Skin" tooltip="Decreases cooldown by $value." skillName="Stone Skin" />
     <String id="25084" name="Energetic Stone Skin" tooltip="Decreases cooldown by $value." skillName="Stone Skin" />
@@ -391,7 +392,7 @@
     <String id="25086" name="Brilliant Fireblast" tooltip="Reduces MP cost by $value." skillName="Fireblast" />
     <String id="25087" name="Fleetfooted Backstep" tooltip="Increases movement speed by 20% for 2 seconds." skillName="Backstep" />
     <String id="25088" name="Powerlinked Painblast" tooltip="Increases damage of Flaming Barrage by 25% for a few seconds." skillName="Painblast" />
-    <String id="25089" name="Keen Nova" tooltip="Doubles Crit Factor for 4 seconds." skillName="Nova" />
+    <String id="25089" name="Carving Nova" tooltip="Doubles the chance to crit for 4 seconds." skillName="Nova" />
     <String id="25090" name="Grounded Nova" tooltip="Increases Endurance by 20% for 15 seconds." skillName="Nova" />
     <String id="25091" name="Energetic Nova" tooltip="Decreases cooldown by $value." skillName="Nova" />
     <String id="25092" name="Swift Nova" tooltip="Increases casting speed by $value." skillName="Nova" />

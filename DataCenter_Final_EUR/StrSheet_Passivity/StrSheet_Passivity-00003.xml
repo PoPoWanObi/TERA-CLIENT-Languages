@@ -19,7 +19,7 @@
     <String id="12021" name="Delete_Shield Counter XII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
     <String id="12022" name="Delete_Shield Counter XIII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
     <String id="12023" name="Delete_Shield Counter XIV" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12024" name="Hold the Line" tooltip="$H_S_GOODAdds aggro on a properly timed block.$COLOR_END$BRUsing Stand Fast at the moment of an attack grants a temporary buff and 50 resolve.$BR$BR$H_S_GOODLine Held:$COLOR_END Increases aggro. Stacks 20 times and is removed if you are successfully hit." />
+    <String id="12024" name="Hold the Line" tooltip="$H_S_GOODAdds aggro on a properly timed block.$COLOR_END$BRUsing Stand Fast at the moment of an attack grants a temporary buff and 50 resolve.$BR$BR$H_S_GOODLine Held:$COLOR_END Increases aggro. Stacks 20 times and is removed if you are knocked down." />
     <String id="12030" name="Leash: Master's Leash" tooltip="$H_S_GOODMaster's Leash activated.$COLOR_END$BRYou can follow up with the Master's Leash skill after you use Leash." />
     <String id="13010" name="Merciless Leap" tooltip="$H_S_GOODIncreases Leaping Strike damage.$COLOR_END$BRYour Leaping Strike deals 5x damage against knocked-down enemies." />
     <String id="13011" name="Icy Veins" tooltip="$H_S_GOODUsing In Cold Blood resets cooldowns.$COLOR_END$BRIn Cold Blood resets the cooldowns for Heart Thrust, Knockdown Strike, and Whirlwind." />
@@ -32,6 +32,7 @@
     <String id="15010" name="Fireblast Intensity" tooltip="$H_S_GOODIncreases Fireblast damage.$COLOR_END$BRIncreases damage to multiple targets with Fireblast." />
     <String id="15020" name="Flame Pillar Intensity" tooltip="$H_S_GOODIncreases Flame Pillar damage.$COLOR_END$BRIncreases damage to multiple targets with Flame Pillar." />
     <String id="16010" name="Opportunity Knocks" tooltip="$H_S_GOODIncreases damage to monsters targeting someone else.$COLOR_END$BRDo additional damage to any monster that is currently focused on another player." />
+    <String id="16011" name="Archer's Mark" tooltip="Your attacks deal 20% more damage to a target bearing any archer's Mark." />
     <String id="19100" name="Indomitable Spirit" tooltip="$H_S_GOODLessens PvP damage taken.$COLOR_END$BRDecreases PvP damage taken by $value when your HP is below 30%." />
     <String id="19101" name="Resilience of Body" tooltip="$H_S_GOODRecovers HP upon resurrection.$COLOR_END$BRRecovers HP for a time after you're resurrected." />
     <String id="19102" name="Nomadic Crafter" tooltip="$H_S_GOODIncreases armor crafting speed.$COLOR_END$BRIncreases crafting speed for armor by $value." />

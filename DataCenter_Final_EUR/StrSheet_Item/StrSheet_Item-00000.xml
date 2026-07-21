@@ -1,6 +1,6 @@
 <StrSheet_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Item StrSheet_Item.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Item">
     <String id="1" toolTip="Increases equipment crafting speed by 20% for 1 hour." string="Velika Midnight Oil" />
-    <String id="2" toolTip="Resurrects an ally up to 4m in front of you. Restores 100% of HP, MP and Stamina." string="Bound Scroll of Full Resurrection" />
+    <String id="2" toolTip="Resurrects an ally up to 4m in front of you. Restores 100% of HP, MP and Stamina." string="Scroll of Full Resurrection" />
     <String id="3" toolTip="Fully recovers your HP." string="Kaia's Bound Mead" />
     <String id="4" toolTip="Fully replenishes your MP." string="Seren's Bound Perfume" />
     <String id="5" toolTip="Recovers 5% of your maximum HP per second for 20 seconds. Can only be used out-of-combat. Effect persists through combat." string="Lelyn's Bound Bandage" />
@@ -340,7 +340,7 @@
     <String id="393" toolTip="Receive 10% additional XP for 30 minutes. Effect persists through death. Cannot be used with Potion of Cultural Opportunity. Requires Guild Level 2 or above." string="Federation Supply: Major Potion of Cultural Opportunity" />
     <String id="394" toolTip="Recovers 1% of Max HP per 5 seconds for 3 hours. Cannot be used with any other Renewal Draught. Requires at least Guild Level 2." string="Veteran Vigorous Renewal Draught" />
     <String id="395" toolTip="Replenishes 5 MP per 5 seconds for 3 hours. Cannot be used with any other Renewal Draught. Requires at least Guild Level 2." string="Veteran Infused Renewal Draught" />
-    <String id="396" toolTip="A crystal safeguard scroll supplied to supporters of the federation and its soldiers. The crystalbind is destroyed when a crystal otherwise would have been destroyed. Lasts for 12 hours of gameplay, and supersedes the effect of crystalbind when used together." string="Complete Veteran Crystalbind" />
+    <String id="396" toolTip="A crystal safeguard scroll supplied to supporters of the federation and its soldiers. A protective spell which protects crystals from destruction. Lasts for 12 hours of gameplay, and supersedes the effect of Crystalbind when used together." string="Complete Veteran Crystalbind" />
     <String id="397" toolTip="Resets the cooldowns of instances other than raid instances. Cannot be used while inside an instance." string="Veteran Instance Reset Scroll" />
     <String id="398" toolTip="Wraps a piece of equipment in an enigma, altering and obscuring any enchantments with no chance of failure. Item will require re-identification to use. [To use, right-click, then left-click an enchantable equipment item.]" string="Federation Enigmatic Scroll" />
     <String id="399" toolTip="Changes the randomized equipment bonuses of an unenchantable equipment item. [To use, right-click, then left-click the equipment in your inventory.]" string="Semi-Enigmatic Scroll" />
@@ -17876,7 +17876,7 @@
     <String id="95141" string="Time Traveler Inner Armor" />
     <String id="95142" string="Time Traveler Belt" />
     <String id="95143" string="Time Traveler Brooch" />
-    <String id="95144" toolTip="Obtained from Blast from the Past Instance Matching when you clear the instance. Right-click to open the Time Travelers shop." string="Time Traveler Badge" />
+    <String id="95144" toolTip="Obtained from Blast to the Past Instance Matching when you clear the instance. Right-click to open the Time Travelers shop." string="Time Traveler Badge" />
     <String id="95145" string="Time Traveler Twin Blades" />
     <String id="95146" string="Time Traveler Lance" />
     <String id="95147" string="Time Traveler Great Sword" />
@@ -18277,7 +18277,7 @@
     <String id="96471" toolTip="A chest containing a Forestbeat, Firebeat, or Riverbeat earring suitable to your class." string="Naturebeat Earring Box" />
     <String id="96472" toolTip="A chest containing a Forest trill, Firetrill, or Rivertrill ring suitable to your class." string="Naturetrill Ring Box" />
     <String id="96473" toolTip="A chest containing a Forest trill, Firetrill, or Rivertrill earring suitable to your class." string="Naturetrill Earring Box" />
-    <String id="96474" toolTip="Obtained from Blast from the Past Instance Matching when you clear the instance. Right-click to purchase items from the Time Travelers Shop." string="Time Traveler Token" />
+    <String id="96474" toolTip="Obtained from Blast to the Past Instance Matching when you clear the instance. Right-click to purchase items from the Time Travelers Shop." string="Time Traveler Token" />
     <String id="96475" toolTip="&lt;font color = '#2478FF'&gt;[Dropped Material]&lt;/font&gt; A valuable medallion with unique properties. Right-click to exchange for Discovery equipment." string="Discovery Medallion" />
     <String id="96999" toolTip="&lt;font color = '#2478FF'&gt;[Dropped Material]&lt;/font&gt; A valuable trinket which can be converted into a Discovery Weapon. Right-click to exchange for Discovery Weapons." string="Discovery Weapon Trinket" />
     <String id="97000" toolTip="Right-click to exchange this token for a glyph.&lt;BR&gt;&lt;font color = '#ff5555'&gt;※Caution! Glyphs are not tradable, so purchase only with the intended character.&lt;/font&gt;" string="Lancer's Glyph Token" />
@@ -19003,5 +19003,6 @@
     <String id="20000015" toolTip="Your guild was ranked high in Crusade leagues, earning a Skycastle as a reward." string="Skycastle" />
     <String id="20000016" toolTip="Title acquired as a reward for an achievement." string="Title" />
     <String id="20000017" toolTip="This is an effect acquired as a reward for an achievement." string="Achievement Effects" />
-    <String id="96476" string="Corsair’s Doubloon" toolTip="&lt;font color = '#2478FF'&gt;[Corsairs' Stronghold Token]&lt;/font&gt;&lt;BR&gt;“&lt;i&gt;A battered pirate coin said to bring good luck… usually to the person who steals it from you.&lt;/i&gt;”&lt;BR&gt;Smells faintly of seawater, gunpowder and poor financial decisions.&lt;BR&gt;&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;Right-click to open a shop!&lt;/font&gt;" />
+    <String id="96476" string="Corsairs' Doubloon" toolTip="&lt;font color = '#2478FF'&gt;[Corsairs' Stronghold Token]&lt;/font&gt;&lt;BR&gt;“&lt;i&gt;A battered pirate coin said to bring good luck… usually to the person who steals it from you.&lt;/i&gt;”&lt;BR&gt;Smells faintly of seawater, gunpowder and poor financial decisions.&lt;BR&gt;&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;Right-click to open a shop!&lt;/font&gt;" />
+    <String id="96501" string="Federation Reward Chest" toolTip="Federation Reward Chest  &lt;BR&gt;A mysterious lockbox issued by the Valkyon Federation, stuffed with “totally essential” supplies that were definitely not swept off a warehouse shelf five minutes before deployment. Crack it open to discover anything from powerful relics to… well… a half-eaten sandwich someone swears belonged to a hero of the Argon War.&lt;BR&gt;&lt;BR&gt;Guaranteed reward of T6 Feedstock and another random reward (definitely not a half-eaten sandwhich).&lt;BR&gt;Right-click to open it." />
 </StrSheet_Item>

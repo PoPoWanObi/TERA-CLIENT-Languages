@@ -392,7 +392,7 @@
     <String id="25086" name="Brilliant Fireblast" tooltip="Reduces MP cost by $value." skillName="Fireblast" />
     <String id="25087" name="Fleetfooted Backstep" tooltip="Increases movement speed by 20% for 2 seconds." skillName="Backstep" />
     <String id="25088" name="Powerlinked Painblast" tooltip="Increases damage of Flaming Barrage by 25% for a few seconds." skillName="Painblast" />
-    <String id="25089" name="Carving Nova" tooltip="Doubles the chance to crit for 4 seconds." skillName="Nova" />
+    <String id="25089" name="Carving Nova" tooltip="Doubles the chance to crit for 5 seconds." skillName="Nova" />
     <String id="25090" name="Grounded Nova" tooltip="Increases Endurance by 20% for 15 seconds." skillName="Nova" />
     <String id="25091" name="Energetic Nova" tooltip="Decreases cooldown by $value." skillName="Nova" />
     <String id="25092" name="Swift Nova" tooltip="Increases casting speed by $value." skillName="Nova" />
@@ -689,6 +689,7 @@
     <String id="29050" name="Keen Grim Strike" tooltip="Doubles Crit Factor." skillName="Grim Strike" />
     <String id="29051" name="Energetic Shrouded Escape" tooltip="Decreases cooldown by $value." skillName="Shrouded Escape" />
     <String id="29052" name="Lingering Shrouded Escape" tooltip="Increases effect duration by $value." skillName="Shrouded Escape" />
+    <String id="29053" name="Vampiric Whipsaw" tooltip="Successful Whipsaw hits restore $value of your max health." skillName="Whipsaw" />
     <String id="30000" name="Empowered Blast" tooltip="Increases skill damage by $value" skillName="Blast" />
     <String id="30001" name="Affirmative Blast" tooltip="Gain 5 Willpower on each hit." skillName="Blast" />
     <String id="30002" name="Swift Blast" tooltip="$prob chance to increase Attack Speed by 15% for 10 seconds." skillName="Blast" />
@@ -707,7 +708,7 @@
     <String id="30015" name="Affirmative Time Bomb" tooltip="Gain 15 Willpower on a successful hit." skillName="Time Bomb" />
     <String id="30016" name="Empowered Arcane Barrage" tooltip="Increases skill damage by $value." skillName="Arcane Barrage" />
     <String id="30017" name="Swift Arcane Barrage" tooltip="Increases Attack Speed by 30% until Arcane Barrage detonates." skillName="Arcane Barrage" />
-    <String id="30018" name="Affirmative Arcane Barrage" tooltip="Gain an additional 15 Willpower on each hit." skillName="Arcane Barrage" />
+    <String id="30018" name="Affirmative Arcane Barrage" tooltip="Gain an additional 75 Willpower on each hit." skillName="Arcane Barrage" />
     <String id="30019" name="Carving Mana Missiles" tooltip="Doubles the chance to crit." skillName="Mana Missiles" />
     <String id="30021" name="Empowered Arc Bomb" tooltip="Increases skill damage by $value." skillName="Arc Bomb" />
     <String id="30022" name="Lingering Arc Bomb " tooltip="Increases stun duration by $value." skillName="Arc Bomb" />
@@ -744,4 +745,14 @@
     <String id="30058" name="Empowered Vengeance" tooltip="Increases skill damage by $value." skillName="Balder's Vengeance" />
     <String id="30059" name="Energetic Rolling Reload" tooltip="$prob chance to eliminate cooldown." skillName="Rolling Reload" />
     <String id="30060" name="Energetic Recall" tooltip="Decreases cooldown by $value." skillName="Command: Recall" />
+    <String id="24080" name="Powerlinked Axe Block" tooltip="Increases skill damage of Axe Counter by 25% for a few seconds." skillName="Axe Block" />
+    <String id="24081" name="Influential Axe Block" tooltip="Reduces MP cost of Axe Counter by 115 for a few seconds." skillName="Axe Block" />
+    <String id="24082" name="Threatening Axe Counter" tooltip="Increases aggro by $value." skillName="Axe Counter" />
+    <String id="24083" name="Brilliant Punishing Strike" tooltip="Reduces MP cost by $value." skillName="Punishing Strike" />
+    <String id="24084" name="Threatening Punishing Strike" tooltip="Increases aggro by $value." skillName="Punishing Strike" />
+    <String id="24086" name="Threatening Fiery Rage" tooltip="Provides $value additional aggro." skillName="Fiery Rage" />
+    <String id="24087" name="Brilliant Fiery Rage" tooltip="Reduces MP cost by $value." skillName="Fiery Rage" />
+    <String id="24088" name="Empowered Assault Attack" tooltip="Increases skill damage by $value." skillName="Assault Attack" />
+    <String id="24085" name="Energetic Unchained Anger" tooltip="Decreases cooldown by $value." skillName="Unchained Anger" />
+    <String id="24098" name="Empowered Evasive Smash" tooltip="Increases skill damage by $value." skillName="Evasive Smash" />
 </StrSheet_Crest>

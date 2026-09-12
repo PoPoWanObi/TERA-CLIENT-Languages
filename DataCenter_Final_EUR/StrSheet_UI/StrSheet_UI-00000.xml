@@ -1812,7 +1812,7 @@
     <String string="Point Cost" stringId="$153060" />
     <String string="Chance" stringId="$153061" />
     <String string="Increase" stringId="$153062" />
-    <String string="Production points are consumed as you craft and gather. You can only craft and gather when you have production points. Production points are recovered 5 points per 5 minutes, up to 1,440 points per day." stringId="$153063" />
+    <String string="Production points are consumed as you craft and gather. You can only craft and gather when you have production points. Production points are recovered 10 points per 5 minutes, up to 2,880 points per day." stringId="$153063" />
     <String string="All crafting requires production points. You cannot craft if you are out of production points." stringId="$153064" />
     <String string="Crafting earns promotion points to advance." stringId="$153065" />
     <String string="You do not have the recipe." stringId="$153066" />
@@ -1855,7 +1855,7 @@
     <String string="&lt;font size='15'&gt;Auto-Enchant Warning &lt;/font&gt;&lt;font color='#cccccc' size='13'&gt;&lt;br&gt;&lt;br&gt;- In Auto-Enchant mode, the consumed items and the alkahest do not change automatically through the enchantment stages.&lt;br&gt;&lt;br&gt;- Auto-Enchant ends when your item is enchanted to the maximum bonus or when you run out of materials.&lt;br&gt;&lt;br&gt;- Already enchanted or higher item level (ilevel) gear are excluded from Auto-Enchant.&lt;/font&gt;" stringId="$155032" />
     <String string="Add item to enchant." stringId="$155033" />
     <String string="&lt;br&gt;Add equipment for Awakening.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only +12 equipment suitable for Awakening will work.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='25' color='#FFCC00'&gt;Awakening always succeeds.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for awakening will not be returned upon dismantling the equipment.&lt;/font&gt;&lt;br&gt;" stringId="$155034" />
-    <String string="&lt;img src='arrowUp'&gt;&lt;br&gt;Choose equipment for Awakened enchanting.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only certain items are suitable for Awakened enchanting.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='21' color='#ff0000'&gt;On failure, enchant bonus returns to +12&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for Awakened enchanting will not be returned upon dismantling the equipment.&lt;/font&gt;&lt;br&gt;&lt;img src='arrowDown'&gt;" stringId="$155035" />
+    <String string="&lt;img src='arrowUp'&gt;&lt;br&gt;Choose equipment for Awakened enchanting.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only certain items are suitable for Awakened enchanting.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='21' color='#FFCC00'&gt;Failure never lowers your enchant bonus.&lt;/font&gt;&lt;br&gt;&lt;font size='13' color='#FFCC00'&gt;Each failed attempt builds focus on that item; enough of them guarantee the next attempt.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for Awakened enchanting will not be returned upon dismantling the equipment.&lt;/font&gt;&lt;br&gt;&lt;img src='arrowDown'&gt;" stringId="$155035" />
     <String string="Amount of Feedstock" stringId="$155036" />
     <String string="Awaken Item" stringId="$155037" />
     <String string="Awakened Enchanting" stringId="$155038" />

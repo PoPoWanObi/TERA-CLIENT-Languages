@@ -2978,7 +2978,7 @@
     <String id="212976" toolTip="Increases Attack Speed by $value for $time. This item's effect does not stack with that of the other onslaught scrolls." string="Onslaught Scroll: Attack Speed V" />
     <String id="212977" toolTip="Absorbs $value damage for $time. Immune to knockdown and stagger while in effect. Ends when maximum damage is reached regardless of effect time." string="Warding Scroll IV" />
     <String id="212978" toolTip="Absorbs $value damage for $time. Immune to knockdown and stagger while in effect. Ends when maximum damage is reached regardless of effect time." string="Warding Scroll V" />
-    <String id="212979" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="212979" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD$value2$COLOR_END, and defense by $H_W_GOOD$value3$COLOR_END for 30 minutes. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Bravery Potion" />
     <String id="212980" toolTip="A protective spell which protects crystals from destruction. The crystalbind is destroyed instead when a crystal would be destroyed. This item's effect is stackable." string="Crystalbind" />
     <String id="212981" toolTip="Increases MP replenishment, power, and endurance. Affects nearby players who have Stamina of 48% or higher. Burn in a campfire to activate." string="Balder's Triple Charm" />
     <String id="212982" toolTip="Concentrated infusion. Use to create multiple infusions with skill-upgrading properties." string="Noctenium Concentrate" />
@@ -3347,7 +3347,7 @@
     <String id="213345" toolTip="Recovers $value HP every $tickInterval for $time." string="Major Healing Elixir VIII" />
     <String id="213346" toolTip="Requires Level 1-20&#10;Increases attack speed by $H_W_GOOD$value$COLOR_END, skill damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching." string="Federation Supply: Kaia's Dedication I" />
     <String id="213347" toolTip="While the blessing is in your possession, you may resurrect at the spot of your death.&#10;Once resurrected, you will have 60% of HP and MP, 100% Stamina, and 12 seconds of invincibility (or until you use a combat skill)." string="Goddess's Blessing" />
-    <String id="213348" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="213348" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD$value2$COLOR_END, and defense by $H_W_GOOD$value3$COLOR_END for 30 minutes. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Bravery Potion" />
     <String id="213349" toolTip="Increases MP replenishment, power, and endurance. Affects nearby players who have Stamina of 48% or higher. Burn in a campfire to activate." string="Balder's Triple Charm" />
     <String id="213350" toolTip="Recovers 5% of your HP up to 75% every $tickinterval for $time." string="Rejuvenation Potion" />
     <String id="213351" toolTip="Can only be used on characters level 64 or below.&#10;Increases your hunting XP reward by 30% for 1 hour of play." string="30% XP Boost (1 Hour)" />
@@ -3827,7 +3827,7 @@
     <String id="213825" toolTip="Increases Crit Power by by $value for $time. This item's effect does not stack with that of the other onslaught scrolls." string="Onslaught Scroll: Crit Power V" />
     <String id="213826" toolTip="Replenishes 5% of your MP up to 75% every $tickinterval for $time." string="Divine Infusion" />
     <String id="213827" toolTip="While the blessing is in your possession, you may resurrect at the spot of your death.&lt;BR&gt;Once resurrected, you will have 60% of HP, MP and 120% Stamina and 12 seconds of invincibility (or until you use a combat skill). Cooldown takes 60 minutes." string="Federation Supply: Goddess's Blessing" />
-    <String id="213828" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="213828" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD$value2$COLOR_END, and defense by $H_W_GOOD$value3$COLOR_END for 30 minutes. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Bravery Potion" />
     <String id="213829" toolTip="" string="" />
     <String id="213830" toolTip="" string="" />
     <String id="213831" toolTip="" string="" />
@@ -3838,7 +3838,7 @@
     <String id="213836" toolTip="Temporarily decreases your height. Effect can be stacked up to 3 times." string="Shape Changer: Shrink (1 minute)" />
     <String id="213837" toolTip="Temporarily increases your thighs. Stacks up to +3." string="Shape Changer: Thicken Thighs (1 minute)" />
     <String id="213838" toolTip="Temporarily decreases your thighs. Stacks down to -3." string="Shape Changer: Thin Thighs (1 minute)" />
-    <String id="213839" toolTip="&lt;font color = '#c21919'&gt;Can only be used on 2013 and 2014 swimwear.&lt;/font&gt;&#10;Female characters only.&#10;Temporarily increases chest size. Effect can be stacked up to 3 times." string="Shape Changer: Chest Enhancement (1 minute)" />
+    <String id="213839" toolTip="&lt;font color = '#f7a001'&gt;Can only be used on 2013 and 2014 swimwear.&lt;/font&gt;&#10;&#10;Female characters only, &lt;font color = '#f7a001'&gt;except Elin.&lt;/font&gt;&#10;&#10;Temporarily increases chest size. Effect can be stacked up to 3 times." string="Shape Changer: Chest Enhancement (1 minute)" />
     <String id="213840" toolTip="&lt;font color = '#c21919'&gt;Can only be used on 2013 and 2014 swimwear.&lt;/font&gt;&#10;Female characters only.&#10;Temporarily decreases chest size. Effect can be stacked up to 3 times." string="Shape Changer: Chest Reduction (1 minute)" />
     <String id="213841" toolTip="Temporarily increases your height. Effect can be stacked up to 3 times." string="Shape Changer: Grow (10 minutes)" />
     <String id="213842" toolTip="Temporarily decreases your height. Effect can be stacked up to 3 times." string="Shape Changer: Shrink (10 minutes)" />
@@ -4022,7 +4022,7 @@
     <String id="214020" toolTip="Right-click to equip in the [Style Info] &gt; [Head] slot.&lt;br&gt;&lt;br&gt;A must-have for every trailblazer!" string="Stylish Headphones" />
     <String id="214021" toolTip="Use this book to learn how to summon a pet with the ability to [auto-loot]." string="Care and Use of Your Pet Candyspinner" />
     <String id="214022" toolTip="Strut around with pride in this mask." string="Frostlion Mask" />
-    <String id="214023" toolTip="&lt;font color = '#c21919'&gt;Can only be used on 2013 and 2014 swimwear.&lt;/font&gt;&#10;Female characters only.&#10;Permanently alters chest size." string="Shape Changer: Chest (Permanent)" />
+    <String id="214023" toolTip="&lt;font color = '#f7a001'&gt;Can only be used on 2013 and 2014 swimwear.&lt;/font&gt;&#10;&#10;Female characters only, &lt;font color = '#f7a001'&gt;except Elin.&lt;/font&gt;&#10;&#10;Permanently alters chest size with a choice from -3 to +3 for reduction or enlargement." string="Shape Changer: Chest (Permanent)" />
     <String id="214024" toolTip="Permanently alters character's height." string="Shape Changer: Height (Permanent)" />
     <String id="214025" toolTip="Permanently alters thigh size." string="Shape Changer: Thighs (Permanent)" />
     <String id="214026" toolTip="" string="" />
@@ -4190,7 +4190,7 @@
     <String id="214188" toolTip="Use this manual to learn how to summon a police car with a movement speed of 280." string="Riding Skill: Police Car" />
     <String id="214189" toolTip="Use this manual to learn how to summon a police car with a movement speed of 280." string="Riding Skill: Police Car" />
     <String id="214190" toolTip="Use this manual to learn how to summon a police car with a movement speed of 280." string="Riding Skill: Police Car" />
-    <String id="214191" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="214191" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD$value2$COLOR_END, and defense by $H_W_GOOD$value3$COLOR_END for 3 minutes. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Lion's Bravery Potion" />
     <String id="214192" toolTip="" string="" />
     <String id="214193" toolTip="" string="" />
     <String id="214194" toolTip="" string="" />
@@ -4417,7 +4417,7 @@
     <String id="214415" toolTip="" string="" />
     <String id="214416" toolTip="" string="" />
     <String id="214417" toolTip="" string="" />
-    <String id="214418" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="214418" toolTip="Increases damage by $H_W_GOOD$value$COLOR_END for 1 minute. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Destructive Bravery Potion" />
     <String id="214419" toolTip="" string="" />
     <String id="214420" toolTip="" string="" />
     <String id="214421" toolTip="Lets you rename White/Black School Look items. [It renames the School Look item that is currently in use.]" string="2013 Midnight Maillot Renaming Coupon" />

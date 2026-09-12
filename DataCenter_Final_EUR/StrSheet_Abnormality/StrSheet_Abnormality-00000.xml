@@ -811,7 +811,7 @@
     <String id="25170" name="Glyph of Keenness" tooltip="$H_W_GOODDoubles$COLOR_END Crit Factor for the next attack." />
     <String id="25171" name="Glyph of Keenness" tooltip="$H_W_GOODDoubles$COLOR_END Crit Factor for the next attack." />
     <String id="25172" name="Glyph of Carving" tooltip="$H_W_GOODDoubles$COLOR_END your chance to crit for 4 seconds." />
-    <String id="25173" name="Glyph of Carving" tooltip="$H_W_GOODDoubles$COLOR_END your chance to crit for 4 seconds." />
+    <String id="25173" name="Glyph of Carving" tooltip="$H_W_GOODDoubles$COLOR_END your chance to crit for 5 seconds." />
     <String id="25180" name="Glyph of Restoration" tooltip="Restores $H_W_GOOD20%$COLOR_END of maximum HP." />
     <String id="25190" name="Glyph of Fleetfoot" tooltip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END." />
     <String id="25200" name="Glyph of Powerlink" tooltip="Increases damage of Flaming Barrage by $H_W_GOOD$value$COLOR_END." />
@@ -1081,7 +1081,7 @@
     <String id="201550" name="Combo Attack" tooltip="Increases Shield Barrage speed on next attack." />
     <String id="201600" name="Rallying Cry" tooltip="You and others around you are immune to knockdown and stagger." />
     <String id="201700" name="Line Held I" tooltip="Invisible abnormality." />
-    <String id="201701" name="Line Held I" tooltip="Adds $H_W_GOOD$value$COLOR_END aggro. Stacks 20 times and is removed if you are knocked down." />
+    <String id="201701" name="Line Held I" tooltip="Adds $H_W_GOOD$value$COLOR_END aggro.&lt;BR&gt;Adds $H_W_GOOD$value2$COLOR_END Power.&lt;BR&gt;Adds $H_W_GOOD$value3$COLOR_END Crit Factor.&lt;BR&gt;&lt;BR&gt;Stacks 10 times and is removed if you are knocked down." />
     <String id="300100" name="Triumphant Shout I" tooltip="Prevents MP decay." />
     <String id="300101" name="Triumphant Shout II" tooltip="Prevents MP decay." />
     <String id="300200" name="Backstabbed" tooltip="Cannot move. Effect ends when knocked down." />
@@ -1117,7 +1117,9 @@
     <String id="400102" name="Fiery Rage III" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END. Decreases Endurance by $H_W_BAD$value2$COLOR_END." />
     <String id="400103" name="Fiery Rage IV" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END. Decreases Endurance by $H_W_BAD$value2$COLOR_END." />
     <String id="400104" name="Fiery Rage IV" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END. Decreases Endurance by $H_W_BAD$value2$COLOR_END." />
+    <String id="400105" name="Fiery Rage VI" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END. Decreases Endurance by $H_W_BAD$value2$COLOR_END." />
     <String id="400200" name="Staggered" tooltip="Stunned and disoriented." />
+    <String id="400201" name="Stun I" tooltip="Stunned by Staggering Strike." />
     <String id="400300" name="Dash I" tooltip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END." />
     <String id="400301" name="Dash II" tooltip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END." />
     <String id="400302" name="Dash III" tooltip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END." />
@@ -1296,7 +1298,7 @@
     <String id="500800" name="Mindblast" tooltip="Stunned. Cannot move." />
     <String id="500801" name="Mindblast" tooltip="Stunned. Cannot move." />
     <String id="500802" name="Mindblast" tooltip="Stunned. Cannot move." />
-    <String id="500900" name="Nerve Exhaustion" tooltip="Unable to use skills." />
+    <String id="500900" name="Nerve Exhaustion" tooltip="Unable to use skills. Effect ends when knocked down." />
     <String id="501000" name="Burning Breath" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
     <String id="501001" name="Burning Breath" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
     <String id="501002" name="Burning Breath" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
@@ -2146,8 +2148,8 @@
     <String id="10152250" />
     <String id="10152251" />
     <String id="10152270" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
-    <String id="10152271" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
-    <String id="10152272" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
+    <String id="10152271" name="Arcane Barrage Assist" tooltip="Your HB construct is within range and assists with enhancing your Arcane Barrage." />
+    <String id="10152272" name="Arcane Willpower" tooltip="If this abnormality is shown then BTS" />
     <String id="10152273" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
     <String id="10152274" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
     <String id="10152275" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
@@ -2155,6 +2157,28 @@
     <String id="10152277" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
     <String id="10152278" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
     <String id="10152279" name="HB Construct" tooltip="Your HB construct is within range and can be given commands." />
+    <String id="10152700" name="BTTP Scaling Controller" tooltip="Applies the appropriate real-level Blast to the Past scaling buff and suppresses conflicting matching and potion effects." />
+    <String id="10152701" name="Wibbley Wobbley: Out of Time" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value2$COLOR_END. Replenishes $H_W_GOOD0.8%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152702" name="Wibbley Wobbley: Temporal Tremor" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD1%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152703" name="Wibbley Wobbley: Paradox Pulse" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD1.2%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152704" name="Wibbley Wobbley: Time in Balance" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD1.4%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152705" name="Wibbley Wobbley: Time Slip" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD1.6%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152706" name="Wibbley Wobbley: Temporal Rush" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD1.8%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152707" name="Wibbley Wobbley: Time Flies" tooltip="Blast to the Past bends time in your favor, increasing skill damage by $H_W_GOOD$value3$COLOR_END and Attack Speed by $H_W_GOOD$value$COLOR_END. Replenishes $H_W_GOOD2%$COLOR_END of maximum MP every $H_W_GOOD5$COLOR_END seconds. Circumvents crystal breakage upon death." />
+    <String id="10152711" name="Block BTTP Scaling 26–31" tooltip="Blocks the level 26–31 Blast to the Past scaling buff." />
+    <String id="10152712" name="Block BTTP Scaling 32–40" tooltip="Blocks the level 32–40 Blast to the Past scaling buff." />
+    <String id="10152713" name="Block BTTP Scaling 41–47" tooltip="Blocks the level 41–47 Blast to the Past scaling buff." />
+    <String id="10152714" name="Block BTTP Scaling 48–52" tooltip="Blocks the level 48–52 Blast to the Past scaling buff." />
+    <String id="10152715" name="Block BTTP Scaling 53–56" tooltip="Blocks the level 53–56 Blast to the Past scaling buff." />
+    <String id="10152716" name="Block BTTP Scaling 57–59" tooltip="Blocks the level 57–59 Blast to the Past scaling buff." />
+    <String id="10152717" name="Block BTTP Scaling 60–65" tooltip="Blocks the level 60–65 Blast to the Past scaling buff." />
+    <String id="10152721" name="BTTP Real Level 26–31" tooltip="Real-level marker for Blast to the Past levels 26–31." />
+    <String id="10152722" name="BTTP Real Level 32–40" tooltip="Real-level marker for Blast to the Past levels 32–40." />
+    <String id="10152723" name="BTTP Real Level 41–47" tooltip="Real-level marker for Blast to the Past levels 41–47." />
+    <String id="10152724" name="BTTP Real Level 48–52" tooltip="Real-level marker for Blast to the Past levels 48–52." />
+    <String id="10152725" name="BTTP Real Level 53–56" tooltip="Real-level marker for Blast to the Past levels 53–56." />
+    <String id="10152726" name="BTTP Real Level 57–59" tooltip="Real-level marker for Blast to the Past levels 57–59." />
+    <String id="10152727" name="BTTP Real Level 60–65" tooltip="Real-level marker for Blast to the Past levels 60–65." />
     <String id="16300006" name="Physical Change: Breast" tooltip="Can be stacked up to 3 times. (mimimum -3 ~ maximum +3) " />
     <String id="16300007" name="Physical Change: Height" tooltip="Can be stacked up to 3 times. (mimimum -3 ~ maximum +3) " />
     <String id="16300008" name="Shape Change: Thighs " tooltip="Your thighs look like you've been working out! $BRStacks down to a mimimum -3 or up to a maximum +3." />
@@ -2162,8 +2186,8 @@
     <String id="16300010" name="Relaxing Travel " tooltip="Restores 0.5% of your max HP and 1% of your max MP every second." />
     <String id="16300011" name="Relaxing Travel" tooltip="Restores 0.5% of your max HP and 1% of your max MP every second. " />
     <String id="16300012" name="Calming Travel" tooltip="Recovers 0.5% of your maximum HP and replenishes 0.5% of your maximum MP every second. " />
-    <String id="16300013" name="Drop of Dare Devil" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END, and reduces damage taken by $H_W_GOOD$value3$COLOR_END. Additionally increases attack speed by $H_W_GOOD$value$COLOR_END. " />
-    <String id="16300015" name="Drop of Destruction" tooltip="Damage increases by $H_W_GOOD$value2$COLOR_END." />
+    <String id="16300013" name="Lion's Bravery" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END, reduces damage taken by $H_W_GOOD$value3$COLOR_END, and increases attack speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="16300015" name="Destructive Bravery" tooltip="Increases skill damage by $H_W_GOOD$value$COLOR_END." />
     <String id="16300017" name="Lucky Day(VIP)" tooltip="Special benefits for VIP users. Drop Rate increases by $H_W_GOOD100%$COLOR_END. Drop rate can decrease in party-play." />
     <String id="44300001" name="Invincible" tooltip="Immune to damage." />
     <String id="44300002" name="Tulgey Fog" tooltip="Significantly increases Movement Speed in the black fog." />
@@ -3330,9 +3354,18 @@
     <String id="69000" name="Murderous Intent (Infinite)" tooltip="Increases Power by $H_W_GOOD$value2$COLOR_END, Attack Speed by $H_W_GOOD$value3$COLOR_END, Crit Factor by $H_W_GOOD$value5$COLOR_END, and Movement Speed by $H_W_GOOD$value4$COLOR_END." />
     <String id="999900001" name="Murderous Intent" tooltip="Increases Power by $H_W_GOOD$value2$COLOR_END, Attack Speed by $H_W_GOOD$value3$COLOR_END, Crit Factor by $H_W_GOOD$value5$COLOR_END, and Movement Speed by $H_W_GOOD$value4$COLOR_END." />
     <String id="999900002" name="Automatic Critical Hits" tooltip="All your attacks are critical hits." />
-    <String id="999900003" name="Unchained God" tooltip="Unchained goddess" />
+    <String id="999900003" name="CC Immunity SysOP" tooltip="Immune to knockdown, stagger, and stun effects. (This effect cancels that of Battle Prayer.)" />
     <String id="999900004" name="Noctenium Infusion" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
     <String id="85000" name="Noctenium Infusion" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
     <String id="85001" name="Noctenium Infusion Off" tooltip="Increases PvP damage dealt by 5%; decreases PvP damage received by 5%." />
     <String id="81300026" name="Forest's Blessing Off" tooltip="Increases skill damage by $H_W_GOOD25%$COLOR_END. Applies only to Lancers." />
+    <String id="999900005" name="Staff Crystalbind" tooltip="Circumvents crystal breakage upon death." />
+    <String id="999900006" name="SysOP MaxHP" tooltip="Raises maximum HP by $H_W_GOOD$value$COLOR_END." />
+    <String id="29500100" name="Mana Efficiency" tooltip="Your natural mana drain is reduced by $H_W_GOOD7%$COLOR_END, from $H_W_BAD40 MP$COLOR_END to $H_W_GOOD37.2 MP$COLOR_END every 2 seconds." />
+    <String id="29500101" name="Mana Efficiency" tooltip="Your natural mana drain is reduced by $H_W_GOOD15%$COLOR_END, from $H_W_BAD40 MP$COLOR_END to $H_W_GOOD34 MP$COLOR_END every 2 seconds." />
+    <String id="29500102" name="Mana Efficiency" tooltip="Your natural mana drain is reduced by $H_W_GOOD25%$COLOR_END, from $H_W_BAD40 MP$COLOR_END to $H_W_GOOD30 MP$COLOR_END every 2 seconds." />
+    <String id="401400" name="Intimidation" tooltip="Continuously gains aggro from monsters within 8m. Increases aggro generated by attack skills by $H_W_GOOD$value2$COLOR_END. Reduces the cooldowns of Raze and Flatten by 50%, and Fiery Rage by 10 seconds. Reduces Crit Factor and PvP Attack by 18. Disables Cyclone and Lethal Strike. Restores 50 MP every second." />
+    <String id="401500" name="Punishing Strike" tooltip="Decreases Endurance by $H_W_BAD$value$COLOR_END. Can be stacked up to 2 times." />
+    <String id="24180" name="Glyph of Influence" tooltip="Decreases MP consumption of Axe Counter by $H_W_GOOD$value$COLOR_END." />
+    <String id="24181" name="Glyph of Powerlink" tooltip="Increases damage of Axe Counter by $H_W_GOOD$value$COLOR_END." />
 </StrSheet_Abnormality>

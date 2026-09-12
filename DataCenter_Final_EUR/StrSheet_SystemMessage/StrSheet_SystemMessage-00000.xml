@@ -105,7 +105,7 @@
     <String string="Cancel" effect="-1" sound="-1" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_BT2" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Use this voucher to extend your subscription? This destroys the {ItemName}. Check the confirmation box, then click &quot;Confirm&quot; to extend your subscription." effect="-1" sound="-1" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_CONTEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Elite Status" effect="-1" sound="-1" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="Enchanting {ItemName}. On failure, the item bonus will be reset to +{ResetValue}. Do you wish to continue?" effect="-1" sound="2001" readableId="SMT_AWAKEN_ENCHANT_MESSAGE_BOX_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Enchanting {ItemName}. Failure will not lower the item bonus. Do you wish to continue?" effect="-1" sound="2001" readableId="SMT_AWAKEN_ENCHANT_MESSAGE_BOX_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Awakened Enchanting" effect="-1" sound="-1" readableId="SMT_AWAKEN_ENCHANT_MESSAGE_BOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Awakening {ItemName}. Does not fail. All feedstock you use does not return on dismantling. Do you wish to continue?" effect="-1" sound="2001" readableId="SMT_AWAKEN_MESSAGE_BOX_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Awakening" effect="-1" sound="-1" readableId="SMT_AWAKEN_MESSAGE_BOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1154,7 +1154,7 @@
     <String string="Enchant" readableId="SMT_ENCHANT_EXECUTE_BUTTON_START" />
     <String string="Add Recommended" readableId="SMT_ENCHANT_EXECUTE_BUTTON_USE_RECOMMENDED_MATERIALS" />
     <String string="Failed to enchant {ItemName}." effect="-1" sound="2019" readableId="SMT_ENCHANT_FAILED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Enchantment for {ItemName} decreased by {Count}." effect="-1" sound="2005" readableId="SMT_ENCHANT_FAILED_CRI" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Enchanting {ItemName} failed. Your enchantment level is unchanged." effect="-1" sound="2005" readableId="SMT_ENCHANT_FAILED_CRI" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Not enough enchanting material." effect="-1" sound="-1" readableId="SMT_ENCHANT_FAILED_SCROLL_AMOUNT" style="SMS_CHAT_INFO" displayChat="false" />
     <String string="That item cannot be used as alkahest." effect="-1" sound="-1" readableId="SMT_ENCHANT_FAILED_SCROLL_STEP" style="SMS_CHAT_INFO" displayChat="false" />
     <String string="Select the multiplier quantity of your feedstock." effect="-1" sound="2001" readableId="SMT_ENCHANT_MATERIAL_ADD_DISABLE_MSGBOX_MESSAGE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
@@ -1873,8 +1873,8 @@
     <String string="SMT_LOAN_CONFIRM" effect="-1" sound="-1" readableId="SMT_LOAN_CONFIRM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_CONFIRM_OPPONENT" effect="-1" sound="-1" readableId="SMT_LOAN_CONFIRM_OPPONENT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_CONTRACT_ACCEPTED" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_ACCEPTED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="SMT_LOAN_CONTRACT_ACCEPT_LOANEE" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_ACCEPT_LOANEE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="SMT_LOAN_CONTRACT_ACCEPT_LOANER" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_ACCEPT_LOANER" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Awakening Resonance reset - succeeded at {count} / {cap}." effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_ACCEPT_LOANEE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Awakening Resonance: {count} / {cap}" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_ACCEPT_LOANER" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_CONTRACT_CANCELED" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_CANCELED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_CONTRACT_END" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_END" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_CONTRACT_TERM" effect="-1" sound="-1" readableId="SMT_LOAN_CONTRACT_TERM" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
@@ -1896,7 +1896,7 @@
     <String string="SMT_LOAN_PRINCIPAL_PAYMENT_LOANEE" effect="-1" sound="-1" readableId="SMT_LOAN_PRINCIPAL_PAYMENT_LOANEE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_PRINCIPAL_PAYMENT_LOANER" effect="-1" sound="-1" readableId="SMT_LOAN_PRINCIPAL_PAYMENT_LOANER" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_REGISTER_LOAN_INTEREST_RATE" effect="-1" sound="-1" readableId="SMT_LOAN_REGISTER_LOAN_INTEREST_RATE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="SMT_LOAN_REGISTER_LOAN_MONEY" effect="-1" sound="-1" readableId="SMT_LOAN_REGISTER_LOAN_MONEY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Awakening Resonance complete - guaranteed success at {cap} / {cap}." effect="-1" sound="-1" readableId="SMT_LOAN_REGISTER_LOAN_MONEY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_LOAN_REGISTER_MORTGAGE_FAILED" effect="-1" sound="-1" readableId="SMT_LOAN_REGISTER_MORTGAGE_FAILED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{Loaner} is offering a loan. Do you want to see the terms?" effect="-1" sound="2001" readableId="SMT_LOAN_REQUEST_ANSWER" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="OK" effect="-1" sound="-1" readableId="SMT_LOAN_REQUEST_CONTRACT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />

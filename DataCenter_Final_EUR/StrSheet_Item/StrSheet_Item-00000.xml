@@ -388,7 +388,7 @@
     <String id="441" toolTip="Recovers MP immediately upon acquisition." string="Nexus Boon" />
     <String id="442" toolTip="Sends you to the entrance of {@Rgn:9025001} in Balder's Refuge." string="Balder's Temple Teleport Scroll" />
     <String id="443" toolTip="Sends you to the entrance of the {@Rgn:9024001} in the Rain Cages of Mistmoor Island." string="Fane of Kaprima Teleport Scroll" />
-    <String id="444" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD10%$COLOR_END, and defense by $H_W_GOOD10%$COLOR_END. Does not stack with effects received via Instance Matching or Canephora Potions." string="Bravery Potion" />
+    <String id="444" toolTip="Increases attack speed by $H_W_GOOD$value$COLOR_END, attack damage by $H_W_GOOD$value2$COLOR_END, and defense by $H_W_GOOD$value3$COLOR_END for 30 minutes. Does not stack with effects received via Instance Matching or other Bravery or Canephora Potions." string="Bravery Potion" />
     <String id="445" toolTip="Necessary to preserve enchantments on equipment." string="Spellbind" />
     <String id="446" toolTip="A universal solvent needed to enchant equipment. Produces bonuses of +7 to +9 for equipment of tier 5 or under. No longer available from merchants. Can be resold to merchants at the original sale price." string="Refined Alkahest" />
     <String id="447" toolTip="A universal solvent needed to enchant equipment. Produces bonuses of +10 to +15." string="Masterwork Alkahest" />
@@ -17922,6 +17922,34 @@
     <String id="95187" string="Time Traveler Cuirass" />
     <String id="95188" string="Time Traveler Gloves" />
     <String id="95189" string="Time Traveler Boots" />
+    <String id="95190" string="Time Traveler Twin Blades" />
+    <String id="95191" string="Time Traveler Lance" />
+    <String id="95192" string="Time Traveler Great Sword" />
+    <String id="95193" string="Time Traveler Axe" />
+    <String id="95194" string="Time Traveler Disc" />
+    <String id="95195" string="Time Traveler Bow" />
+    <String id="95196" string="Time Traveler Staff" />
+    <String id="95197" string="Time Traveler Scepter" />
+    <String id="95198" string="Time Traveler Scythes" />
+    <String id="95199" string="Time Traveler Arcannon" />
+    <String id="95200" string="Time Traveler Hauberk" />
+    <String id="95201" string="Time Traveler Gauntlets" />
+    <String id="95202" string="Time Traveler Greaves" />
+    <String id="95203" string="Time Traveler Cuirass" />
+    <String id="95204" string="Time Traveler Gloves" />
+    <String id="95205" string="Time Traveler Boots" />
+    <String id="95206" string="Time Traveler Robe" />
+    <String id="95207" string="Time Traveler Sleeves" />
+    <String id="95208" string="Time Traveler Shoes" />
+    <String id="95209" string="Time Traveler Necklace" />
+    <String id="95210" string="Time Traveler Earring" />
+    <String id="95211" string="Time Traveler Ring" />
+    <String id="95212" string="Time Traveler Inner Armor" />
+    <String id="95213" string="Time Traveler Belt" />
+    <String id="95214" string="Time Traveler Brooch" />
+    <String id="95215" string="Time Traveler Cuirass" />
+    <String id="95216" string="Time Traveler Gloves" />
+    <String id="95217" string="Time Traveler Boots" />
     <String id="95500" toolTip="Forged for the fight against the archdevan lord, Dakuryon." string="Idoneal Twin Blades" />
     <String id="95501" toolTip="Forged for the fight against the archdevan lord, Dakuryon." string="Idoneal Lance" />
     <String id="95502" toolTip="Forged for the fight against the archdevan lord, Dakuryon." string="Idoneal Great Sword" />
@@ -18375,6 +18403,10 @@
     <String id="97092" toolTip="Usable in Battle Royale only." string="Battle Royale Arcannon" />
     <String id="97093" toolTip="Usable in Battle Royale only." string="Battle Royale Belt" />
     <String id="97094" toolTip="Usable in Battle Royale only." string="Battle Royale Brooch" />
+    <String id="97095" toolTip="Open to obtain a Goldfinger Token, plus one random bonus award.&lt;BR&gt;&lt;BR&gt;Prised from the guardian of the Vault of Allies." string="Goldfinger Box" />
+    <String id="97096" toolTip="A mark left by Nightmare Shandra Manaya. Left-click to open the Shandra's Quill exchange.&lt;BR&gt;&lt;BR&gt;Cannot be traded." string="Shandra's Quill" />
+    <String id="97097" toolTip="Open to obtain 1 Shandra's Quill and a bundle of Tier 6 Feedstock.&lt;BR&gt;&lt;BR&gt;Prised from Nightmare Shandra Manaya." string="Shandra's Quill Box" />
+    <String id="97098" toolTip="Use this manual to learn how to summon a Lupus Argentum with a Movement Speed of 280." string="Lupus Argentum" />
     <String id="98000" toolTip="[Keep] Default Keep" string="Castle" />
     <String id="98001" toolTip="[Bailey] Default Walls" string="Curtain Wall" />
     <String id="98005" toolTip="[Keep] Alabaster stone with a beautiful blue roof." string="Lordly Blue Keep" />
@@ -18986,6 +19018,7 @@
     <String id="200527" toolTip="Use to open [Locked Strongbox]." string="Federation Supply: Strongbox Key" />
     <String id="200528" toolTip="&quot;A travel guidebook that was written by an anonymous travel aficionado; being written by an amateur doesn't make the quality of this book third-rate.&quot;$BR&#10;A travel guidebook. " string="Federation Supply: Travel Journal" />
     <String id="200529" toolTip="While the blessing is in your possession, you may resurrect at the spot of your death.&lt;BR&gt;Once resurrected, you will have 60% of HP, MP and 120% Stamina and 12 seconds of invincibility (or until you use a combat skill). Cooldown takes 60 minutes." string="Federation Supply: Goddess's Blessing" />
+	<String id="200542" string="Goddess's Blessing (Test)" toolTip="TEST ITEM. Revives instantly, on a 60-second cooldown instead of the usual hour.&lt;BR&gt;Sold only by the Testopia festival vendors." />
     <String id="20000000" toolTip="Gold, silver, and copper" string="Money" />
     <String id="20000001" toolTip="Experience Points" string="XP" />
     <String id="20000002" toolTip="Unspecified Reward" string="Unspecified Reward" />
@@ -19004,5 +19037,74 @@
     <String id="20000016" toolTip="Title acquired as a reward for an achievement." string="Title" />
     <String id="20000017" toolTip="This is an effect acquired as a reward for an achievement." string="Achievement Effects" />
     <String id="96476" string="Corsairs' Doubloon" toolTip="&lt;font color = '#2478FF'&gt;[Corsairs' Stronghold Token]&lt;/font&gt;&lt;BR&gt;“&lt;i&gt;A battered pirate coin said to bring good luck… usually to the person who steals it from you.&lt;/i&gt;”&lt;BR&gt;Smells faintly of seawater, gunpowder and poor financial decisions.&lt;BR&gt;&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;Right-click to open a shop!&lt;/font&gt;" />
-    <String id="96501" string="Federation Reward Chest" toolTip="Federation Reward Chest  &lt;BR&gt;A mysterious lockbox issued by the Valkyon Federation, stuffed with “totally essential” supplies that were definitely not swept off a warehouse shelf five minutes before deployment. Crack it open to discover anything from powerful relics to… well… a half-eaten sandwich someone swears belonged to a hero of the Argon War.&lt;BR&gt;&lt;BR&gt;Guaranteed reward of T6 Feedstock and another random reward (definitely not a half-eaten sandwhich).&lt;BR&gt;Right-click to open it." />
+    <String id="96501" string="Federation Reward Chest" toolTip="Federation Reward Chest  &lt;BR&gt;A mysterious lockbox issued by the Valkyon Federation, stuffed with “totally essential” supplies that were definitely not swept off a warehouse shelf five minutes before deployment. Crack it open to discover anything from powerful relics to… well… a half-eaten sandwich someone swears belonged to a hero of the Argon War.&lt;BR&gt;&lt;BR&gt;Guaranteed reward of T6 Feedstock and another random reward (definitely not a half-eaten sandwhich).&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;[Right-click to open]&lt;/font&gt;" />
+    <String id="96502" string="Bellicarium Reward Chest" toolTip="Rumor says this chest was designed by a Bellicarium intern who thought &quot;just throw everything useful in there&quot; was a solid plan. Honestly? They weren't wrong.&lt;BR&gt;&lt;BR&gt;The Bellicarium doesn't ask how these spoils were acquired and you shouldn't either. Open it, take the goodies and pretend you earned them the honorable way.&lt;BR&gt;&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;[Right-click to open]&lt;/font&gt;" />
+    <String id="96520" string="Time Traveler's Level-Up Scroll" toolTip="This scroll catapults you into the future, advancing your character by one level.&lt;BR&gt;&lt;BR&gt;&lt;font color=&quot;#FFFF00&quot;&gt;[Warning!] Any XP earned toward your current level will be lost.&lt;/font&gt;" />
+    <String id="72130" toolTip="Two gusts that meet in the middle, and leave nothing standing there." string="Twin Squalls" />
+    <String id="72131" toolTip="Braced against the canyon gale, and never once moved by it." string="Windbreaker" />
+    <String id="72132" toolTip="Heavy enough to split the wind, if the wind would only hold still." string="Canyoncleaver" />
+    <String id="72133" toolTip="The storm gathers on its edge long before it reaches the ground." string="Thunderhead" />
+    <String id="72134" toolTip="Spun fast enough, a single spark becomes a firestorm." string="Firewhirl" />
+    <String id="72135" toolTip="Its arrows ride the canyon draft instead of fighting it." string="Crosswind" />
+    <String id="72136" toolTip="Every storm has a still place at its heart. This is where it is kept." string="Calmfront" />
+    <String id="72137" toolTip="It answers prayers at the volume of a breeze." string="Whisperwind" />
+    <String id="72138" toolTip="Cuts the seam between one gust and the next." string="Riftlash" />
+    <String id="72139" toolTip="Bored clean through a thunderhead, and still smoking." string="Stormbore" />
+    <String id="72140" toolTip="Plate hammered flat by canyon winds until nothing could dent it further." string="Windspite Bulwark" />
+    <String id="72141" toolTip="The grip holds when the footing does not." string="Windspite Gauntlets" />
+    <String id="72142" toolTip="Weighted so the gale cannot take you off the ridge." string="Windspite Sabatons" />
+    <String id="72143" toolTip="Cut close, so the wind finds nothing to catch." string="Windspite Jerkin" />
+    <String id="72144" toolTip="Worn smooth at the knuckles by a hundred canyon skirmishes." string="Windspite Grips" />
+    <String id="72145" toolTip="Made for the runners who reach the flag first." string="Windspite Striders" />
+    <String id="72146" toolTip="The hem never quite settles, even indoors." string="Windspite Vestments" />
+    <String id="72147" toolTip="Woven for those who hold the line by keeping others on it." string="Sanctum Vestments" />
+    <String id="72148" toolTip="Bound tight, so the casting hand stays steady in the crosswind." string="Windspite Wraps" />
+    <String id="72149" toolTip="Bound tight, so that no blessing is lost to the wind." string="Sanctum Wraps" />
+    <String id="72150" toolTip="They barely touch the ground, which is rather the point." string="Windspite Slippers" />
+    <String id="72151" toolTip="Drawn to the last notch before the charge." string="Windspite Belt" />
+    <String id="72152" toolTip="Cold against the throat, and colder still when the horns sound." string="Windspite Torc" />
+    <String id="72153" toolTip="Set close to the ear, where the ringing of a blow fades fastest." string="Windspite Studs" />
+    <String id="72154" toolTip="Pressed into the wax of every truce Fraywind ever broke." string="Windspite Signet" />
+    <String id="72155" toolTip="Awarded for holding ground that nobody else wanted." string="Windspite Emblem" />
+    <String id="72156" toolTip="Awarded for ground held by those who never struck a blow." string="Sanctum Emblem" />
+    <String id="72157" toolTip="Plain, warm, and worth more than it looks on a cold ridge." string="Windspite Underweave" />
+    <String id="72158" toolTip="Plain, warm, and blessed besides." string="Sanctum Underweave" />
+    <String id="200530" string="Testopia Token" toolTip="A Testopia Token, used to exchange for exotic(?) items." />
+    <String id="200531" string="Testopia Level Voucher (20)" toolTip="A leveling voucher for Testopia - sets your character to level 20.&lt;BR&gt;Intended to try out Bastion of Lok." />
+    <String id="200532" string="Testopia Level Voucher (26)" toolTip="A leveling voucher for Testopia - sets your character to level 26.&lt;BR&gt;Intended to try out Sinestral Manor." />
+    <String id="200533" string="Testopia Level Voucher (32)" toolTip="A leveling voucher for Testopia - sets your character to level 32.&lt;BR&gt;Intended to try out Saravash's Ascent." />
+    <String id="200534" string="Testopia Level Voucher (35)" toolTip="A leveling voucher for Testopia - sets your character to level 35.&lt;BR&gt;Intended to try out Cultists' Refuge." />
+    <String id="200535" string="Testopia Level Voucher (41)" toolTip="A leveling voucher for Testopia - sets your character to level 41.&lt;BR&gt;Intended to try out Necromancer Tomb." />
+    <String id="200536" string="Testopia Level Voucher (48)" toolTip="A leveling voucher for Testopia - sets your character to level 48.&lt;BR&gt;Intended to try out Golden Labyrinth or Akasha's Hideout." />
+    <String id="200537" string="Testopia Level Voucher (53)" toolTip="A leveling voucher for Testopia - sets your character to level 53.&lt;BR&gt;Intended to try out Saleron's Sky Garden." />
+    <String id="200538" string="Testopia Level Voucher (58)" toolTip="A leveling voucher for Testopia - sets your character to level 58.&lt;BR&gt;Intended to try out Labyrinth of Terror or Ebon Tower." />
+    <String id="200539" string="Testopia Level Voucher (60)" toolTip="A leveling voucher for Testopia - sets your character to level 60.&lt;BR&gt;Intended to try out Argon Corpus." />
+    <String id="200540" string="Testopia Level Voucher (65)" toolTip="A leveling voucher for Testopia - sets your character to level 65.&lt;BR&gt;Intended for max-level testing." />
+    <String id="200541" string="Testopia Level Voucher (+1)" toolTip="A leveling voucher for Testopia - increases your character's level by 1." />
+	<String id="200543" string="Feedstock Bundle" toolTip="Contains 1000 x Tier 6 Feedstock.&lt;BR&gt;Testopia festival reward." />
+	<String id="200544" string="Spellbind Bundle" toolTip="Contains 1000 x Spellbind.&lt;BR&gt;Testopia festival reward." />
+	<String id="200545" string="Masterwork Alkahest Bundle" toolTip="Contains 1000 x Masterwork Alkahest.&lt;BR&gt;Testopia festival reward." />
+	<String id="200546" string="Semi-Enigmatic Scroll Bundle" toolTip="Contains 50 x Semi-Enigmatic Scroll.&lt;BR&gt;Testopia festival reward." />
+	<String id="200547" string="Intricate Enigmatic Bundle" toolTip="Contains 50 x Intricate Enigmatic Scroll.&lt;BR&gt;Testopia festival reward." />
+	<String id="200548" string="Master Enigmatic Bundle" toolTip="Contains 50 x Master Enigmatic Scroll.&lt;BR&gt;Testopia festival reward." />
+	<String id="200549" string="Valiant Potion Bundle" toolTip="Contains 100 x Valiant Potion.&lt;BR&gt;Testopia festival supply." />
+	<String id="200550" string="Ranger's Nostrum Bundle" toolTip="Contains 100 x Ranger's Nostrum VI.&lt;BR&gt;Testopia festival supply." />
+	<String id="200551" string="Nostrum of Energy Bundle" toolTip="Contains 100 x Nostrum of Energy VI.&lt;BR&gt;Testopia festival supply." />
+	<String id="200552" string="Mana Potion Bundle" toolTip="Contains 100 x Mana Potion X.&lt;BR&gt;Testopia festival supply." />
+	<String id="200553" string="Mana Elixir Bundle" toolTip="Contains 100 x Mana Elixir X.&lt;BR&gt;Testopia festival supply." />
+	<String id="200554" string="Eclipse Potion Bundle" toolTip="Contains 100 x Eclipse Potion V.&lt;BR&gt;Testopia festival supply." />
+	<String id="200555" string="Crit Factor Scroll Bundle" toolTip="Contains 100 x Onslaught Scroll: Crit Factor VII.&lt;BR&gt;Testopia festival supply." />
+	<String id="200556" string="Crit Power Scroll Bundle" toolTip="Contains 100 x Onslaught Scroll: Crit Power VII.&lt;BR&gt;Testopia festival supply." />
+	<String id="200557" string="Noctenium Bundle" toolTip="Contains 1000 x Noctenium Infusion.&lt;BR&gt;Testopia festival supply." />
+	<String id="200558" string="Charming Campfire Bundle" toolTip="Contains 100 x Charming Campfire.&lt;BR&gt;Testopia festival supply." />
+	<String id="200559" string="Goddess's Blessing Bundle" toolTip="Contains 100 x Goddess's Blessing (Test).&lt;BR&gt;Testopia festival supply." />
+	<String id="200564" string="Root Beer Bundle" toolTip="Contains 100 x Freeholds Root Beer.&lt;BR&gt;Testopia festival supply." />
+	<String id="200565" string="Lamb Bulgogi Bundle" toolTip="Contains 100 x Lamb Bulgogi.&lt;BR&gt;Testopia festival supply." />
+	<String id="200566" string="Bravery Potion Bundle" toolTip="Contains 100 x Bravery Potion.&lt;BR&gt;Testopia festival supply." />
+	<String id="200567" string="Complete Crystalbind Bundle" toolTip="Contains 100 x Complete Crystalbind.&lt;BR&gt;Testopia festival supply." />
+	<String id="200568" string="Instance Reset Scroll Bundle" toolTip="Contains 100 x Veteran Instance Reset Scroll.&lt;BR&gt;Testopia festival supply." />
+	<String id="200560" string="Enchantment Scroll (+9)" toolTip="Sets an unequipped item's enchantment to +9.&lt;BR&gt;Works on any enchantable item below +9.&lt;BR&gt;Testopia festival supply." />
+	<String id="200561" string="Enchantment Scroll (+12)" toolTip="Sets an unequipped item's enchantment to +12.&lt;BR&gt;The item must already be MASTERWORKED.&lt;BR&gt;Testopia festival supply." />
+	<String id="200562" string="Enchantment Scroll (+15)" toolTip="Sets an unequipped item's enchantment to +15.&lt;BR&gt;The item must already be AWAKENED -- Generation gear only; Discovery cannot be awakened.&lt;BR&gt;Testopia festival supply." />
+	<String id="200563" string="Glyph Compendium" toolTip="Grants every glyph your class can obtain as an item (216 in total across all classes).&lt;BR&gt;Use each glyph afterwards to learn it. Keep ~30 bag slots free.&lt;BR&gt;Testopia festival supply." />
 </StrSheet_Item>

@@ -1,4 +1,4 @@
-<StrSheet_Creature xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Creature StrSheet_Creature.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Creature">
+﻿<StrSheet_Creature xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Creature StrSheet_Creature.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Creature">
     <HuntingZone id="0">
         <String templateId="10101" name="Human Male Warrior" title="" gender="Male" race="Human" class="Warrior" />
         <String templateId="10102" name="Human Male Lancer" title="" gender="Male" race="Human" class="Lancer" />
@@ -5872,7 +5872,22 @@
         <String templateId="4108" name="Rhodos" title="Khirian Commander" gender="" race="" class="" />
         <String templateId="7000" name="Hoirun" title="Festival Guide" gender="male" race="Popori" class="" />
         <String templateId="8000" name="Ellonia" title="Halloween Guide" gender="female" race="monster" class="" />
-    </HuntingZone>
+        <String templateId="9004" name="Peaky" title="Testopia Merchant" gender="female" race="Popori" class="" />
+            <!-- TESTOPIA-VENDORS -->
+        <String templateId="9005" name="Doneal" title="Idoneal Quartermaster" gender="female" race="Popori" class="" />
+        <String templateId="9006" name="Disco" title="Discovery Outfitter" gender="female" race="Popori" class="" />
+        <String templateId="9007" name="Gena" title="Generation Outfitter" gender="female" race="Popori" class="" />
+        <String templateId="9008" name="Trilla" title="Naturetune Accessories" gender="female" race="Popori" class="" />
+        <String templateId="9009" name="Wisen" title="Wise Accessories" gender="female" race="Popori" class="" />
+        <String templateId="9010" name="Consuela" title="Consumables" gender="female" race="Popori" class="" />
+        <String templateId="9017" name="Enhara" title="Enhancement" gender="female" race="Popori" class="" />
+        <String templateId="9011" name="Levy" title="Leveling &amp; Glyphs" gender="female" race="Popori" class="" />
+        <String templateId="9012" name="Broshi" title="Brooches" gender="female" race="Popori" class="" />
+        <String templateId="9013" name="Innara" title="Innerwear &amp; Etchings" gender="female" race="Popori" class="" />
+        <String templateId="9014" name="Crysta" title="Crystal Broker" gender="female" race="Popori" class="" />
+        <String templateId="9016" name="Dyada" title="Dyad Broker" gender="female" race="Popori" class="" />
+        <String templateId="9015" name="Shimmer" title="Leveling Crystals" gender="female" race="Popori" class="" />
+</HuntingZone>
     <HuntingZone id="191">
         <String templateId="1001" name="Devan Hunter" title="" gender="male" race="" class="" />
         <String templateId="1002" name="Devan Hunter" title="" gender="male" race="" class="" />
